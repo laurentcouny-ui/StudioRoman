@@ -1,0 +1,378 @@
+[
+  {
+    "id": "joie",
+    "label": "Joie",
+    "alias": [
+      "joie",
+      "bonheur",
+      "allégresse",
+      "contentement",
+      "plaisir",
+      "satisfaction",
+      "ravissement",
+      "félicité",
+      "gaieté",
+      "bien-être"
+    ],
+    "famille": "joie-satisfaction",
+    "definitionCourte": "Élan intérieur lumineux lié à un plaisir, une réussite, une présence aimée ou un soulagement heureux, qui ouvre le corps et l'attention vers le monde.",
+    "signesPhysiques": [
+      "sourire qui vient sans effort ni calcul",
+      "regard plus clair, plus vif, plus mobile",
+      "visage détendu jusque dans les tempes et le front",
+      "posture plus ouverte, épaules en arrière",
+      "gestes plus souples et plus rapides",
+      "respiration ample et régulière",
+      "rire facile ou souffle de rire retenu",
+      "mains plus expressives quand la personne parle",
+      "démarche allégée, portée",
+      "proximité physique plus spontanée avec les autres"
+    ],
+    "sensationsInternes": [
+      "chaleur légère dans la poitrine",
+      "impression que le corps circule mieux",
+      "élan vers les autres",
+      "légèreté physique presque étonnante",
+      "énergie calme mais abondante",
+      "souffle plus libre et plus profond",
+      "sensation d'espace intérieur",
+      "détente profonde sans effort",
+      "plaisir simple d'exister dans l'instant"
+    ],
+    "pensees": [
+      "Enfin.",
+      "C'est vrai, cette fois.",
+      "J'aimerais que ça dure.",
+      "Tout semble plus simple.",
+      "J'ai envie de le partager.",
+      "Je respire mieux tout à coup.",
+      "Rien que pour ça, ça valait le coup.",
+      "Je vais m'en souvenir."
+    ],
+    "effetsVoixLangage": [
+      "ton plus chaud et plus rond",
+      "parole plus fluide, moins contrôlée",
+      "phrases plus ouvertes, plus généreuses",
+      "rires qui ponctuent naturellement",
+      "mots plus imagés",
+      "débit vivant sans être pressé",
+      "interjections spontanées"
+    ],
+    "comportements": [
+      "cherche quelqu'un à qui raconter",
+      "s'approche plus volontiers des autres",
+      "prend des initiatives sans hésiter",
+      "observe davantage ce qui l'entoure",
+      "rit plus facilement",
+      "prolonge un moment agréable au lieu de le fuir",
+      "touche les objets et les personnes avec plus d'aisance",
+      "laisse tomber une part de contrôle",
+      "pardonne plus vite un détail mineur",
+      "se rend disponible sans calcul"
+    ],
+    "masquesPossibles": [
+      "retenue pudique",
+      "ironie légère pour ne pas paraître naïf",
+      "calme très maîtrisé",
+      "sobriété volontaire",
+      "silence ému"
+    ],
+    "evolutionsPossibles": [
+      "enthousiasme si la joie s'emballe",
+      "gratitude si elle se tourne vers un bénéficiaire",
+      "euphorie si elle perd tout frein",
+      "attachement renforcé",
+      "apaisement durable"
+    ],
+    "contextesAggravants": [
+      "joie non partagée qui creuse le sentiment de solitude",
+      "bonne nouvelle mêlée d'une mauvaise",
+      "joie perçue comme indécente dans un contexte de deuil ou de crise"
+    ],
+    "contextesAttenuants": [
+      "présence de quelqu'un avec qui la partager",
+      "moment inattendu dans une période difficile",
+      "petitesse de l'événement déclencheur qui contraste avec l'intensité"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Contentement", "description": "Satisfaction tranquille et stable. Le personnage est bien sans que ça se voit forcément." },
+      { "niveau": 2, "label": "Plaisir sensible", "description": "La joie est perceptible dans le regard, le ton, la posture. Le personnage est accessible." },
+      { "niveau": 3, "label": "Joie franche", "description": "La joie occupe l'espace. Elle change les décisions, les interactions, la disponibilité." },
+      { "niveau": 4, "label": "Allégresse", "description": "La joie déborde légèrement. Les rires viennent plus facilement, les gestes sont plus amples." },
+      { "niveau": 5, "label": "Ravissement", "description": "Le personnage est submergé de joie. Les émotions sont intenses, parfois les larmes viennent." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage pudique",
+        "description": "La joie est réelle mais intérieure. Elle se lit à peine sur le visage — un léger relâchement des traits, une voix légèrement plus chaude. Pas d'éclat. La force est dans la retenue."
+      },
+      {
+        "profil": "Personnage expressif",
+        "description": "La joie est immédiate et totale. Le corps s'emballe, les mots viennent vite. Elle est communicative, parfois envahissante. Elle cherche un public."
+      },
+      {
+        "profil": "Personnage ayant traversé une longue période sombre",
+        "description": "La joie est teintée de surprise. Comme s'il ne s'y attendait plus. Elle est plus fragile, plus précieuse. Il la tient avec soin, de peur qu'elle ne disparaisse."
+      }
+    ],
+    "notesEditoriales": [
+      "La joie gagne en justesse avec des détails concrets plutôt qu'avec des mots abstraits.",
+      "Elle peut être calme, intime, presque silencieuse — éviter l'effet carte postale.",
+      "Une joie crédible garde souvent un peu de retenue ou de fragilité.",
+      "La joie devient narrative quand elle modifie la disponibilité du personnage au monde."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "enthousiasme" },
+      { "type": "peut_evoluer_en", "cible": "gratitude" },
+      { "type": "peut_evoluer_en", "cible": "euphorie" },
+      { "type": "souvent_associe_a", "cible": "soulagement" },
+      { "type": "peut_masquer", "cible": "inquietude-sous-jacente" },
+      { "type": "peut_suivre", "cible": "deception-surmontee" }
+    ]
+  },
+  {
+    "id": "enthousiasme",
+    "label": "Enthousiasme",
+    "alias": [
+      "enthousiasme",
+      "ardeur",
+      "ferveur",
+      "élan",
+      "fougue",
+      "vivacité",
+      "envie débordante",
+      "énergie positive",
+      "dynamisme",
+      "passion allumée"
+    ],
+    "famille": "joie-satisfaction",
+    "definitionCourte": "Joie active et orientée vers un but, une idée ou un projet, qui emporte le personnage dans un élan d'énergie et d'envie difficile à contenir.",
+    "signesPhysiques": [
+      "débit qui s'accélère naturellement",
+      "gestes plus amples et plus expressifs",
+      "regard brillant qui cherche à accrocher celui de l'autre",
+      "corps légèrement incliné vers l'avant",
+      "mains qui illustrent les propos sans contrôle",
+      "sourire récurrent, difficile à éteindre",
+      "énergie dans le mouvement, dans la démarche",
+      "voix plus haute et plus modulée",
+      "rires courts entre les idées",
+      "teint vivant, peau légèrement rosée"
+    ],
+    "sensationsInternes": [
+      "élan intérieur difficile à freiner",
+      "idées qui se percutent et s'enchaînent",
+      "chaleur dans la poitrine et dans les mains",
+      "impatience légère qui accélère tout",
+      "impression que le corps est trop petit pour contenir l'énergie",
+      "légèreté et vitesse mêlées",
+      "désir de commencer maintenant"
+    ],
+    "pensees": [
+      "C'est exactement ce qu'il faut faire.",
+      "Je ne vois pas pourquoi ça ne marcherait pas.",
+      "Il faut que je le dise à quelqu'un.",
+      "Je pourrais commencer tout de suite.",
+      "Cette idée est vraiment bien.",
+      "On peut aller beaucoup plus loin.",
+      "Je sens que ça va marcher.",
+      "Il y a tellement de choses possibles."
+    ],
+    "effetsVoixLangage": [
+      "débit plus rapide, parfois trop",
+      "phrases se chevauchant",
+      "beaucoup d'exemples et d'images",
+      "questions qui n'attendent pas vraiment de réponse",
+      "ton montant, comme pour convaincre",
+      "retours fréquents sur les mêmes points avec un angle différent"
+    ],
+    "comportements": [
+      "parle plus que d'habitude",
+      "coupe involontairement pour ajouter une idée",
+      "commence à agir avant d'avoir fini de planifier",
+      "cherche à embarquer les autres",
+      "résiste difficilement à la digression",
+      "s'impatiente face à ce qui ralentit",
+      "revient sur le sujet même quand la conversation a bifurqué",
+      "commence plusieurs choses en même temps"
+    ],
+    "masquesPossibles": [
+      "professionnalisme appliqué qui contient l'élan",
+      "calme de façade avec agitation interne",
+      "ironie qui dissimule l'excitation"
+    ],
+    "evolutionsPossibles": [
+      "euphorie si l'élan n'est pas canalisé",
+      "épuisement si l'énergie n'est pas régulée",
+      "déception si la réalité ne suit pas",
+      "action concrète si l'enthousiasme est orienté"
+    ],
+    "contextesAggravants": [
+      "interlocuteur froid ou sceptique",
+      "obstacles bureaucratiques ou pratiques immédiats",
+      "enthousiasme non partagé"
+    ],
+    "contextesAttenuants": [
+      "écho enthousiaste d'un autre",
+      "premier pas concret possible immédiatement",
+      "validation de l'idée par quelqu'un de respecté"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Intérêt vif", "description": "L'idée plaît. Le personnage est plus attentif, plus réactif que d'habitude." },
+      { "niveau": 2, "label": "Enthousiasme sensible", "description": "L'élan est perceptible. Le personnage parle plus, agit plus vite." },
+      { "niveau": 3, "label": "Enthousiasme franc", "description": "Le personnage est clairement emballé. Son énergie change l'atmosphère autour de lui." },
+      { "niveau": 4, "label": "Ferveur", "description": "Le personnage est difficile à freiner. L'enthousiasme prend de la place, parfois trop." },
+      { "niveau": 5, "label": "Fougue", "description": "L'élan envahit tout. Le personnage ne voit plus les obstacles, ni les autres." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Leader naturel",
+        "description": "L'enthousiasme est immédiatement communiqué aux autres. Il n'existe pas pour lui seul — il le projette, l'intensifie par le regard et la parole. Son élan soulève."
+      },
+      {
+        "profil": "Introverti",
+        "description": "L'enthousiasme est intérieur d'abord. Il sort peu, parfois maladroitement. Mais dans les rares moments où il s'exprime, il est d'autant plus intense et sincère."
+      },
+      {
+        "profil": "Personnage déçu dans le passé",
+        "description": "L'enthousiasme revient — et c'est presque douloureux. Il le surveille de peur de se faire avoir encore. Une part de lui freine pendant que l'autre s'emballe."
+      }
+    ],
+    "notesEditoriales": [
+      "L'enthousiasme non partagé crée un isolement narratif efficace.",
+      "Il peut rendre un personnage sympathique ou envahissant selon l'angle.",
+      "Son revers naturel est la déception — prévoir la chute renforce l'élan.",
+      "L'enthousiasme maladroit est souvent plus touchant que l'enthousiasme maîtrisé."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "euphorie" },
+      { "type": "peut_evoluer_en", "cible": "deception" },
+      { "type": "souvent_associe_a", "cible": "joie" },
+      { "type": "peut_declencher", "cible": "action-precipitee" },
+      { "type": "peut_masquer", "cible": "impulsivite" },
+      { "type": "peut_suivre", "cible": "idee-nouvelle" }
+    ]
+  },
+  {
+    "id": "euphorie",
+    "label": "Euphorie",
+    "alias": [
+      "euphorie",
+      "exaltation",
+      "ivresse",
+      "extase légère",
+      "surexcitation",
+      "état second",
+      "joie débordante",
+      "fièvre heureuse",
+      "griserie",
+      "joie sans frein"
+    ],
+    "famille": "joie-satisfaction",
+    "definitionCourte": "Joie intense et envahissante qui dépasse les capacités de contrôle habituelles du personnage, crée un état second et altère temporairement sa perception et son jugement.",
+    "signesPhysiques": [
+      "rires fréquents, parfois sans raison précise",
+      "mouvements rapides et peu économiques",
+      "regard brillant, presque fiévreux",
+      "parole qui s'emballe",
+      "gestes larges, exubérants",
+      "teint animé, yeux très ouverts",
+      "corps qui ne tient pas en place",
+      "souffle court par l'excitation",
+      "incapacité à rester assis ou immobile",
+      "contact physique plus spontané et moins mesuré"
+    ],
+    "sensationsInternes": [
+      "légèreté totale, comme si le corps n'avait plus de poids",
+      "chaleur dans tout le corps",
+      "impression que tout est possible",
+      "accélération de la pensée",
+      "sentiment d'invincibilité légère",
+      "plaisir physique presque douloureux",
+      "incapacité à imaginer que ça puisse s'arrêter"
+    ],
+    "pensees": [
+      "Je n'ai jamais été aussi bien.",
+      "Tout est parfait.",
+      "Je pourrais tout faire.",
+      "Rien de tout ça n'a d'importance.",
+      "Je veux que ça dure toujours.",
+      "C'est incroyable.",
+      "Je comprends tout.",
+      "Tout le monde est formidable."
+    ],
+    "effetsVoixLangage": [
+      "débit très rapide, entrecoupé de rires",
+      "changements de sujet brusques",
+      "ton qui monte",
+      "tout est dit avec intensité",
+      "les nuances disparaissent",
+      "formulations hyperboliques"
+    ],
+    "comportements": [
+      "prend des décisions impulsives",
+      "dit des choses qu'il regrette ensuite",
+      "dépense — argent, énergie, mots",
+      "cherche à prolonger ou intensifier l'état",
+      "ignore les signaux d'alarme des autres",
+      "inclut tout le monde dans son élan",
+      "est incapable de s'arrêter à temps"
+    ],
+    "masquesPossibles": [
+      "maîtrise superficielle qui cède vite",
+      "humour excessif qui couvre l'instabilité"
+    ],
+    "evolutionsPossibles": [
+      "épuisement brutal après la descente",
+      "honte si des choses ont été dites ou faites",
+      "mélancolie par contraste une fois l'état passé",
+      "dépendance si l'euphorie vient d'une substance"
+    ],
+    "contextesAggravants": [
+      "alcool ou substance",
+      "victoire très attendue",
+      "état de manque prolongé suivi d'une satisfaction soudaine",
+      "groupe qui partage et amplifie l'état"
+    ],
+    "contextesAttenuants": [
+      "réalité qui impose une pause",
+      "regard sobre d'un proche",
+      "fatigue physique qui finit par prendre le dessus"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère exaltation", "description": "Le personnage est plus vif que d'habitude. Rien d'inquiétant." },
+      { "niveau": 2, "label": "Joie vive", "description": "La joie déborde légèrement. Le personnage est clairement dans un état inhabituellement heureux." },
+      { "niveau": 3, "label": "Euphorie sensible", "description": "L'état altère légèrement le jugement. Le personnage prend plus de risques." },
+      { "niveau": 4, "label": "Exaltation franche", "description": "L'état second est visible. Les proches s'en inquiètent." },
+      { "niveau": 5, "label": "Ivresse totale", "description": "Le personnage n'est plus tout à fait lui-même. Les garde-fous sont tombés." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage de contrôle",
+        "description": "L'euphorie est vécue comme une perte de maîtrise presque insupportable. Même dans l'état, une partie de lui résiste. La descente est suivie d'une reprise de contrôle sévère."
+      },
+      {
+        "profil": "Personnage spontané",
+        "description": "L'euphorie est naturelle et reçue avec plaisir. Il la traverse sans en avoir honte. Le lendemain est léger."
+      },
+      {
+        "profil": "Personnage en phase maniaque",
+        "description": "L'euphorie dure trop longtemps et va trop loin. Elle n'est pas reliée à un événement précis. Le personnage est convaincu que tout va bien pendant que tout se détériore."
+      }
+    ],
+    "notesEditoriales": [
+      "L'euphorie fictionnelle est plus intéressante pour ses conséquences que pour elle-même.",
+      "Elle peut servir à révéler ce qu'un personnage pense vraiment quand ses filtres sont levés.",
+      "Éviter d'en faire un état uniquement positif : la descente est son double narratif inévitable.",
+      "L'euphorie de groupe amplifie les dynamiques collectives — utile pour les scènes de foule ou de fête."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "epuisement" },
+      { "type": "peut_evoluer_en", "cible": "honte" },
+      { "type": "peut_evoluer_en", "cible": "melancolie" },
+      { "type": "souvent_associe_a", "cible": "impulsivite" },
+      { "type": "peut_suivre", "cible": "victoire-ou-liberation" },
+      { "type": "peut_masquer", "cible": "instabilite-emotionnelle" }
+    ]
+  }
+]

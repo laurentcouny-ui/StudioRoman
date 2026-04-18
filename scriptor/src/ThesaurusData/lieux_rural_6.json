@@ -1,0 +1,709 @@
+[
+  {
+    "id": "marche-hebdomadaire",
+    "label": "Marché hebdomadaire",
+    "type": "rural-lieu-public",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "étals en bois couverts de toiles rayées rouge et blanc",
+      "cageots de légumes empilés à même le sol pavé",
+      "fromages posés sur des torchons écrus",
+      "sacs de toile ouverts débordant de lentilles et de haricots secs",
+      "balances à plateau en métal verni",
+      "carrioles en bois avec roues ferrées garées en bordure",
+      "ficelles de saucissons suspendues à des crochets rouillés",
+      "paniers d'osier empilés contre un mur de pierre"
+    ],
+    "bruits": [
+      "voix qui s'interpellent d'un étal à l'autre",
+      "claquement des poignées de main qui scellent un accord",
+      "grognement sourd d'un cochon dans une cage à claire-voie",
+      "froissement de billets de banque comptés à voix basse",
+      "roues d'un camion bâché qui manœuvre lentement"
+    ],
+    "odeurs": [
+      "odeur de terre fraîche sur les légumes racines",
+      "acidité du fromage de chèvre affiné",
+      "fumée froide du saucisson sec",
+      "effluves de café serré venant du café voisin"
+    ],
+    "textures": [
+      "peau lisse et ferme d'une tomate de plein champ",
+      "bois usé et poli des étals anciens",
+      "monnaie humide et froide rendue à la volée"
+    ],
+    "emotionsTypiques": [
+      "familiarité et sentiment d'appartenance communautaire",
+      "légère méfiance entre acheteur et vendeur",
+      "plaisir simple du rituel répété",
+      "nostalgie pour ceux qui habitent loin désormais"
+    ],
+    "usagesNarratifs": [
+      "point de rencontre entre personnages qui n'ont pas d'autre occasion de se croiser",
+      "lieu d'échange d'informations et de rumeurs locales",
+      "scène de tension entre un habitant et un étranger qui ne connaît pas les codes",
+      "révélateur de la hiérarchie sociale du bourg par l'emplacement des étals"
+    ],
+    "tensionsTypiques": [
+      "querelle ancienne ravivée entre voisins qui se retrouvent côte à côte",
+      "concurrence entre un producteur local et un revendeur venu de la ville",
+      "secret que l'un des vendeurs cache derrière sa jovialité",
+      "pression d'un acheteur sur un prix que le vendeur ne peut pas baisser"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant local",
+        "description": "Connaît chaque visage, chaque étal. Perçoit les absences autant que les présences. Lit dans les prix la santé de la saison. Le marché est une réunion autant qu'un commerce."
+      },
+      {
+        "profil": "Personnage urbain",
+        "description": "Trouve les prix bas, les légumes moins beaux qu'en boutique. Remarque la lenteur des transactions, les longues discussions pour rien acheter. Étrangement touché par quelque chose qu'il ne saurait pas nommer."
+      },
+      {
+        "profil": "Enfant du village",
+        "description": "Voit d'abord les bonbons dans le tiroir du présentoir. Connaît les vendeurs par leur surnom. Le marché est un terrain d'aventure autorisé, une heure de liberté surveillée de loin."
+      }
+    ],
+    "notesEditoriales": [
+      "Le marché fonctionne comme une scène de théâtre : tout le monde joue un rôle social attendu. L'écart entre ce rôle et l'état intérieur d'un personnage crée immédiatement de la tension.",
+      "Choisir deux ou trois détails sensoriels forts plutôt qu'une liste exhaustive. L'odeur de fromage de chèvre + les billets comptés à voix basse suffisent à planter le lieu.",
+      "Le marché révèle le temps : en hiver il est clairsemé et vite plié, en été il déborde. Utiliser cette variation pour marquer une époque ou une atmosphère."
+    ]
+  },
+  {
+    "id": "place-du-bourg",
+    "label": "Place du bourg",
+    "type": "rural-lieu-public",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "pavés disjoints aux joints envahis d'herbe rase",
+      "platanes taillés en rideau épais au-dessus des bancs de pierre",
+      "fontaine centrale en granit, filet d'eau régulier",
+      "panneau d'affichage municipal en bois peint en gris",
+      "boulangerie sur un coin, rideau de métal à moitié relevé",
+      "voiture garée en biais, moteur coupé depuis deux heures",
+      "bac à fleurs en ciment planté de géraniums rouges",
+      "statue de bronze vert-de-gris sur un socle gravé de noms"
+    ],
+    "bruits": [
+      "cloche de l'église marquant l'heure depuis le clocher voisin",
+      "boules qui s'entrechoquent sur le terrain de pétanque",
+      "moteur d'un tracteur qui traverse sans s'arrêter",
+      "conversation entre deux anciens assis sur le même banc depuis des années",
+      "claquement d'une porte de mairie"
+    ],
+    "odeurs": [
+      "pain chaud filtrant par la porte de la boulangerie",
+      "herbe mouillée sous les platanes après la pluie",
+      "essence tiède d'un moteur récemment coupé"
+    ],
+    "textures": [
+      "bord du banc de pierre usé et légèrement glissant",
+      "moiteur de l'ombre des platanes en été",
+      "granit de la fontaine froid et rugueux sous les doigts"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'appartenance à un espace commun partagé depuis l'enfance",
+      "ennui doux d'un après-midi qui n'avance pas",
+      "mélancolie légère face à un lieu inchangé",
+      "sentiment d'être observé par ceux qui restent assis"
+    ],
+    "usagesNarratifs": [
+      "espace de surveillance mutuelle où rien ne passe inaperçu",
+      "lieu de confrontation publique entre deux personnages",
+      "point de départ ou d'arrivée d'un personnage qui quitte ou revient",
+      "témoin muet du passage du temps dans une intrigue longue"
+    ],
+    "tensionsTypiques": [
+      "étranger dont la présence est remarquée et commentée",
+      "affichage d'une annonce publique qui change le quotidien du bourg",
+      "dispute à voix basse qui ne peut pas éclater vraiment ici",
+      "quelqu'un qui attend quelqu'un qui ne vient pas"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant de longue date",
+        "description": "Ne voit plus vraiment le lieu mais ce qu'il était. Chaque pierre lui rappelle un événement. La place est un palimpseste personnel autant qu'un espace géographique."
+      },
+      {
+        "profil": "Personnage revenant après des années",
+        "description": "Cherche des repères dans les détails. Remarque ce qui a changé avec une précision douloureuse. Le bac à fleurs a bougé. La fontaine a été repeinte. La sensation est celle d'un deuil léger et inattendu."
+      },
+      {
+        "profil": "Touriste de passage",
+        "description": "Voit la carte postale : les platanes, les boules, la fontaine. Prend une photo. Ne perçoit pas les regards posés sur lui depuis les fenêtres."
+      }
+    ],
+    "notesEditoriales": [
+      "La place du bourg est un espace de représentation sociale : on y est vu autant qu'on y voit. Un personnage qui s'y tient trop longtemps devient immédiatement objet de commentaire.",
+      "Utiliser le banc des anciens comme caisse de résonance narrative : ils savent tout, ils ont tout vu, et ils parlent.",
+      "La place est plus forte quand elle est vide ou presque : l'absence de monde révèle mieux sa fonction sociale que la foule."
+    ]
+  },
+  {
+    "id": "eglise-de-village",
+    "label": "Église de village",
+    "type": "rural-lieu-public",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "nef étroite aux voûtes de pierre basse",
+      "bancs de bois sombre luisants d'usure",
+      "vitraux aux couleurs passées qui filtrent une lumière colorée et poussiéreuse",
+      "bénitier en marbre veiné au fond duquel l'eau est presque à sec",
+      "cierges fondus en grappe sur leur chandelier de métal noir",
+      "dalles funéraires gravées, certaines illisibles",
+      "plaquettes de bronze vissées au mur pour les morts des guerres",
+      "Christ de bois peint aux couleurs écaillées sur la croix au-dessus de l'autel"
+    ],
+    "bruits": [
+      "silence particulier qui absorbe les sons du dehors",
+      "grincement du banc sous le poids d'un corps qui s'assoit",
+      "crépitement léger d'un cierge qui brûle",
+      "claquement sourd de la lourde porte de bois refermée",
+      "résonance creuse des pas sur les dalles"
+    ],
+    "odeurs": [
+      "cire froide des cierges anciens",
+      "pierre humide des murs épais",
+      "encens éventé qui persiste dans les tissus",
+      "poussière ancienne dans les draperies de l'autel"
+    ],
+    "textures": [
+      "bois du banc poli et légèrement collant sous la paume",
+      "froid immédiat de la pierre du pilier effleuré en passant",
+      "eau froide et légèrement visqueuse du bénitier"
+    ],
+    "emotionsTypiques": [
+      "recueillement même pour qui ne croit pas",
+      "sentiment d'être face à quelque chose qui dure depuis bien avant soi",
+      "solitude consentie et presque douce",
+      "poids des morts dont les noms sont gravés partout"
+    ],
+    "usagesNarratifs": [
+      "lieu de confidences chuchotées entre deux personnages à l'abri des regards",
+      "espace de crise intérieure où un personnage vient chercher une réponse qu'il n'a pas",
+      "scène de rituel communautaire — mariage, enterrement, baptême — qui révèle les rapports de force",
+      "refuge contre une menace extérieure, temporaire et ambigu"
+    ],
+    "tensionsTypiques": [
+      "présence d'un personnage qui ne devrait pas être là, ou à cette heure",
+      "secret confié en confession qui déborde dans la narration",
+      "fossé entre la foi affichée et la réalité d'une vie",
+      "objet caché dans la sacristie ou derrière un confessionnal"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Croyant pratiquant",
+        "description": "Entre dans un espace familier et signifiant. Chaque élément a un sens précis. La lumière des cierges le touche autrement. Le silence n'est pas vide mais plein."
+      },
+      {
+        "profil": "Personnage non croyant",
+        "description": "Sensible à l'architecture et à l'acoustique. Perçoit la beauté froide du lieu sans son sens. Légèrement mal à l'aise, comme si quelque chose l'observait depuis les dalles."
+      },
+      {
+        "profil": "Enfant du village",
+        "description": "Associe le lieu aux enterrements et aux messes obligatoires. Remarque les petites laideurs : les cierges tordus, le trou dans le vitrail colmaté avec du plastique. Le sacré ne l'atteint pas encore."
+      }
+    ],
+    "notesEditoriales": [
+      "L'église de village est plus efficace dans les scènes intimes que dans les scènes communautaires : sa vraie force est le silence et l'isolement consenti.",
+      "Les plaquettes de bronze des morts de guerre sont un détail narratif puissant : elles ancrent le lieu dans une histoire collective qui dépasse les personnages.",
+      "Attention au cliché de la révélation spirituelle : une scène d'église réussie peut tout aussi bien ne produire aucune grâce — le silence reste du silence."
+    ]
+  },
+  {
+    "id": "ecole-de-village",
+    "label": "École de village",
+    "type": "rural-lieu-public",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "bâtiment de pierre à un étage, toiture d'ardoise grise",
+      "préau carrelé de tomettes sous une charpente apparente",
+      "tableau noir avec ses traces de craie jamais tout à fait effacées",
+      "pupitres en bois anciens aux couvercles gravés d'initiales",
+      "carte de France en papier plastifié épinglée au mur, décolorée",
+      "cour entourée d'un grillage rouillé à hauteur de taille",
+      "lavabo collectif en émail blanc fissuré dans le couloir",
+      "armoire vitrée aux livres rangés par taille décroissante"
+    ],
+    "bruits": [
+      "voix d'un seul maître qui porte dans les deux salles à la fois",
+      "crissement de la craie sur le tableau",
+      "vacarme bref et intense de la récréation",
+      "clochette manuelle qui sonne la rentrée en classe",
+      "silence appliqué d'une salle pendant un exercice"
+    ],
+    "odeurs": [
+      "craie sèche et poussière de bois des pupitres",
+      "désinfectant dans les toilettes extérieures",
+      "encre sur les feuilles de cahier neuf en septembre",
+      "odeur de repas chaud venant du réfectoire attenant"
+    ],
+    "textures": [
+      "surface du pupitre striée par des générations de compas",
+      "bord arrondi et doux de la règle en bois usée",
+      "froid du carrelage du préau sous les semelles en hiver"
+    ],
+    "emotionsTypiques": [
+      "nostalgie pour ceux qui sont passés par là",
+      "sentiment d'un temps suspendu, hors du monde adulte",
+      "légère mélancolie face au peu d'enfants qui restent",
+      "chaleur de la familiarité pour les familles du village"
+    ],
+    "usagesNarratifs": [
+      "microcosme social du village où les tensions entre familles se lisent dans les places des enfants",
+      "espace de transmission — ou de rupture — entre générations",
+      "lieu où un personnage adulte retrouve quelque chose d'enfoui en y revenant",
+      "scène de confrontation entre l'instituteur et la communauté locale"
+    ],
+    "tensionsTypiques": [
+      "fermeture imminente de l'école faute d'élèves",
+      "conflit entre une famille et l'enseignant sur l'éducation d'un enfant",
+      "enfant qui cache quelque chose que l'école révèle à son insu",
+      "arrivée d'un enfant extérieur au village qui bouleverse l'équilibre"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Enseignant en poste",
+        "description": "Voit l'espace de travail avec ses contraintes quotidiennes. Remarque l'humidité du mur du fond, le pupitre dont le couvercle ne tient plus. Porte une affection réelle pour le lieu malgré son inconfort."
+      },
+      {
+        "profil": "Ancien élève revenu",
+        "description": "Tout est plus petit qu'il ne s'en souvenait. Le tableau noir est le même, les armoires aussi. Cette permanence le touche plus qu'il ne l'aurait cru. Il cherche son nom gravé quelque part."
+      },
+      {
+        "profil": "Parent récemment installé",
+        "description": "Compare avec les écoles qu'il connaît. Trouve le lieu désuet mais rassurant. S'interroge sur ce que son enfant apprendra ici, dans une classe à deux niveaux avec huit élèves."
+      }
+    ],
+    "notesEditoriales": [
+      "L'école de village est souvent menacée de fermeture dans les récits ruraux contemporains : cette tension latente peut être un moteur narratif sans jamais être dite explicitement.",
+      "Les initiales gravées dans les pupitres sont un détail fort : elles matérialisent la transmission et permettent de relier des générations de personnages.",
+      "Éviter la nostalgie systématique : l'école peut aussi être un espace de violence sociale ordinaire, de conformisme, d'ennui profond."
+    ]
+  },
+  {
+    "id": "cafe-du-bourg",
+    "label": "Café du bourg",
+    "type": "rural-lieu-public",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "comptoir en zinc rayé avec ses deux tabourets hauts dépareillés",
+      "percolateur chromé dont le voyant clignote parfois",
+      "calendrier des postes punaisé au mur à côté d'une horloge arrêtée",
+      "tables en formica à quatre pieds, chaises en plastique orange",
+      "flipper en panne dans le fond depuis plusieurs saisons",
+      "liasse de journaux locaux froissés en pile sur une chaise",
+      "vitrine réfrigérée avec sandwichs emballés dans du cellophane",
+      "sol en carrelage blanc et rouge, certains carreaux remplacés par des modèles dépareillés"
+    ],
+    "bruits": [
+      "clic du percolateur qui chauffe entre deux cafés",
+      "voix du propriétaire qui répond d'une pièce sans se montrer",
+      "partie de carte qui claque sur le formica",
+      "sonnette de la porte à chaque entrée",
+      "commentaire à voix haute sur le journal local"
+    ],
+    "odeurs": [
+      "café arabica brûlé par une machine mal réglée",
+      "tabac froid imprégné dans les murs malgré l'interdiction",
+      "odeur de serpillière humide dans le fond près des toilettes"
+    ],
+    "textures": [
+      "surface du zinc froid et légèrement gras sous les avant-bras",
+      "verre de ballon à moitié vide, légèrement poisseux à la base",
+      "chaise qui grince et bascule légèrement vers l'arrière"
+    ],
+    "emotionsTypiques": [
+      "appartenance à un cercle resserré et informel",
+      "légère lassitude d'un lieu qui ne change jamais",
+      "sentiment de sécurité dans la répétition",
+      "solitude discrète de celui qui reste là sans raison précise"
+    ],
+    "usagesNarratifs": [
+      "centre névralgique de la rumeur locale",
+      "lieu de rencontre entre des personnages qui s'évitent ailleurs",
+      "espace où un étranger est jaugé à la seconde où il entre",
+      "cadre d'une conversation qui change tout, dite comme si elle ne changeait rien"
+    ],
+    "tensionsTypiques": [
+      "dette ancienne entre le patron et un habitué",
+      "secret que tout le monde connaît mais que personne ne nomme",
+      "étranger qui s'installe à la mauvaise table ou commande la mauvaise chose",
+      "dispute politique ou familiale qui refait surface autour d'une tournée"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitué quotidien",
+        "description": "N'a plus besoin de commander : son café est posé avant qu'il s'assoie. Lit l'humeur du bourg dans le nombre de voitures garées dehors. Le café est son bureau, son salon, sa vigie."
+      },
+      {
+        "profil": "Personnage de passage",
+        "description": "Ressent immédiatement le silence qui change quand il entre. Hésite sur la place à prendre. Comprend vite qu'il est lu, évalué, classé — avant même d'avoir ouvert la bouche."
+      },
+      {
+        "profil": "Propriétaire vieillissant",
+        "description": "Voit ses clients comme des pièces d'un mécanisme qu'il connaît par cœur. Sait quand quelque chose ne va pas chez l'un d'eux avant même qu'il parle. Réfléchit parfois à vendre, sans jamais le faire."
+      }
+    ],
+    "notesEditoriales": [
+      "Le café est un espace de parole indirecte : les choses importantes se disent en biais, avec des silences porteurs. Faire parler les personnages trop directement y sonnera faux.",
+      "Le flipper en panne dans le fond est le genre de détail qui fait la différence : il dit la stagnation sans le dire.",
+      "Attention au cliché du café rural pittoresque. Sa force narrative est dans son aspect usé, familier et légèrement décevant."
+    ]
+  },
+  {
+    "id": "mairie-rurale",
+    "label": "Mairie rurale",
+    "type": "rural-lieu-public",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "façade de pierre avec drapeau décoloré sur hampe rouillée",
+      "salle du conseil avec table rectangulaire et chaises paillées dépareillées",
+      "portrait officiel encadré au mur, légèrement de travers",
+      "registres reliés en toile bleue empilés sur des étagères de bois",
+      "bureau du secrétaire couvert de tampons, trombones et formulaires",
+      "panneau d'affichage légal en verre avec une serrure qui ne ferme plus",
+      "ordinateur récent posé sur un meuble des années quatre-vingt",
+      "thermomètre à alcool rouge vissé à l'encadrement d'une fenêtre"
+    ],
+    "bruits": [
+      "craquement du plancher de bois verni à chaque pas",
+      "bruit de tampon sur un formulaire frappé avec application",
+      "voix mesurée du secrétaire qui dicte à voix haute en tapant",
+      "téléphone fixe qui sonne, identique depuis vingt ans",
+      "pendule murale qui rythme le silence des heures creuses"
+    ],
+    "odeurs": [
+      "papier ancien et encre de tampon",
+      "poussière sur les registres anciens",
+      "café instantané dans un mug sur le bureau du secrétaire"
+    ],
+    "textures": [
+      "couverture cartonnée et légèrement grumeleuse d'un registre d'état civil",
+      "stylo à bille enchaîné au comptoir, dont l'encre sort par à-coups",
+      "plancher de bois légèrement élastique sous les semelles"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'infériorité face à l'administration même minuscule",
+      "patience résignée d'une démarche qui prendra plus de temps que prévu",
+      "légère méfiance envers ce qui est officiel et consigné",
+      "orgueil discret du maire qui incarne l'autorité locale"
+    ],
+    "usagesNarratifs": [
+      "lieu où un personnage découvre quelque chose dans les archives ou les registres",
+      "espace de confrontation entre un habitant et le pouvoir local",
+      "scène de crise — projet d'urbanisme, fermeture de service — qui révèle les fractures du village",
+      "point de départ d'une enquête sur une identité ou une propriété"
+    ],
+    "tensionsTypiques": [
+      "information dissimulée dans les registres qu'un personnage cherche à obtenir",
+      "conflit entre le maire et une fraction du conseil municipal",
+      "dossier administratif qui peut changer la vie de quelqu'un, coincé dans une procédure",
+      "secret familial qu'un acte d'état civil vient contredire"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant du village",
+        "description": "Connaît la secrétaire par son prénom, connaît les horaires d'ouverture par cœur. La mairie est une familiarité administrative, pas une institution abstraite. Il sait qu'un café suffit parfois à débloquer une signature."
+      },
+      {
+        "profil": "Nouveau venu",
+        "description": "Découvre un fonctionnement artisanal qui le déroute. Les formulaires sont parfois photocopiés, le logiciel bugue, et tout dépend de la disponibilité d'une seule personne. Il apprend vite que le service est humain avant d'être institutionnel."
+      },
+      {
+        "profil": "Chercheur ou journaliste",
+        "description": "Voit les archives comme une mine. S'étonne que l'accès en soit aussi simple — ou aussi opaque selon la confiance accordée. Remarque ce qui manque autant que ce qui est là."
+      }
+    ],
+    "notesEditoriales": [
+      "La mairie rurale est un lieu de pouvoir à échelle humaine : les rapports y sont personnels, les règles souples, les exceptions possibles — ce qui crée des tensions spécifiques absentes dans l'administration urbaine.",
+      "Les registres anciens sont un outil narratif puissant pour relier passé et présent dans une intrigue.",
+      "Le décalage entre la solennité institutionnelle et le dénuement matériel du lieu est une source de ton subtil, entre le comique et l'émouvant."
+    ]
+  },
+  {
+    "id": "cimetiere-rural",
+    "label": "Cimetière rural",
+    "type": "rural-lieu-public",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "allées de gravier blanc entre les rangées de pierres tombales",
+      "croix de fer forgé rouillées aux jambes enfoncées dans la terre",
+      "photos sépia sous verre bombé jauni par les années",
+      "couronnes de fleurs en plastique décolorées par les saisons",
+      "caveau de famille en granit gris avec lettres en bronze vert",
+      "cyprès au bout de l'allée centrale, leur ombre portée sur les dalles",
+      "herbe haute entre les tombes des rangées du fond, rarement entretenues",
+      "robinet en fonte avec arrosoir rouillé posé contre le mur d'enceinte"
+    ],
+    "bruits": [
+      "silence traversé par le vent dans les cyprès",
+      "crissement du gravier sous un pas lent",
+      "bruit lointain d'un tracteur dans un champ adjacent",
+      "froissement d'un papier de fleurs que le vent déplace",
+      "porte du portail en fer qui grince légèrement en s'ouvrant"
+    ],
+    "odeurs": [
+      "fleurs fraîches posées récemment, chrysanthèmes en novembre",
+      "terre retournée après une inhumation récente",
+      "granit chaud sous le soleil d'été, odeur minérale sèche",
+      "mousse humide sur les pierres ombragées"
+    ],
+    "textures": [
+      "granit froid et légèrement rugueux sous la main posée sur une stèle",
+      "gravier instable qui roule sous les semelles",
+      "métal rouillé de la croix, poussière orange sur les doigts"
+    ],
+    "emotionsTypiques": [
+      "deuil discret et solitaire",
+      "sentiment de continuité entre les vivants et les morts du lieu",
+      "paix étrange que procure l'ordre des allées",
+      "mélancolie face aux tombes abandonnées"
+    ],
+    "usagesNarratifs": [
+      "lieu de découverte d'un secret familial ou d'une identité cachée",
+      "espace de dialogue intérieur avec un mort",
+      "scène de rituel collectif — enterrement — qui révèle qui est qui dans la communauté",
+      "lieu de confrontation entre deux personnages à l'abri des regards"
+    ],
+    "tensionsTypiques": [
+      "tombe récente qui pose des questions sur les circonstances du décès",
+      "absence d'une tombe cherchée qui dit quelque chose sur une disparition",
+      "conflit de famille sur l'entretien ou le partage d'un caveau",
+      "présence inattendue de quelqu'un sur une tombe à une heure inhabituelle"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant du village",
+        "description": "Lit le cimetière comme une carte du bourg. Connaît les familles par leurs pierres, voit les alliances et les brouilles dans les dispositions des tombes. Vient régulièrement sans que cela lui semble triste."
+      },
+      {
+        "profil": "Personnage en deuil récent",
+        "description": "Chaque détail lui revient : la fraîcheur de la terre, le bruit des pelletées, les visages des autres ce jour-là. Le lieu n'est pas encore neutre. Il change de forme selon la lumière et le moment."
+      },
+      {
+        "profil": "Enfant curieux",
+        "description": "Lit les dates, soustrait, calcule les âges. S'arrête sur les petites croix blanches. Pose des questions que les adultes éludent. Perçoit le lieu comme un puzzle plutôt que comme un espace de deuil."
+      }
+    ],
+    "notesEditoriales": [
+      "Le cimetière rural est plus intime que le cimetière urbain : les morts y sont des voisins. Cette proximité change la nature du deuil représenté.",
+      "Les tombes abandonnées sont narrativement plus intéressantes que les tombes fleuries : elles posent une question sur ce qui a disparu.",
+      "Éviter la solennité systématique : le cimetière peut aussi être un espace de quotidien, de routine entretenue, voire de commérages entre familles."
+    ]
+  },
+  {
+    "id": "salle-des-fetes",
+    "label": "Salle des fêtes",
+    "type": "rural-lieu-public",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "parquet de dancing rayé et gondolé au centre de la pièce",
+      "estrade basse en bois pour les musiciens, micros sur pied penchés",
+      "guirlandes lumineuses accrochées aux poutres de métal peint en gris",
+      "tables à tréteaux en plastique blanc rangées le long des murs",
+      "bar de fortune avec nappe en papier crépon et glacière",
+      "photographies encadrées de fêtes passées au mur près de l'entrée",
+      "rideau de velours bordeaux tiré devant une scène inutilisée",
+      "panneau de vestiaire improvisé avec des crochets vissés dans le bois"
+    ],
+    "bruits": [
+      "résonance creuse des voix dans un espace vide entre deux événements",
+      "couinement du parquet sous les chaussures de danse",
+      "écho des discussions superposées pendant un repas de fête",
+      "larsen du micro lors de la prise de parole d'un élu",
+      "cris d'enfants qui courent dans le fond pendant que les adultes mangent"
+    ],
+    "odeurs": [
+      "odeur de vin renversé imprégné dans le parquet",
+      "saucisson chaud et fromage sur les tables lors d'un pot",
+      "renfermé de la salle fermée depuis la dernière fête",
+      "sueur et parfum mélangés en fin de soirée"
+    ],
+    "textures": [
+      "parquet légèrement collant sous les semelles en fin de soirée",
+      "chaise en plastique qui s'enfonce légèrement sous le poids",
+      "nappe en papier crépon qui se déchire si on tire dessus"
+    ],
+    "emotionsTypiques": [
+      "joie collective un peu forcée par l'habitude du rite",
+      "nostalgie pour des fêtes plus animées d'un autre temps",
+      "légèreté soudaine et inattendue au contact de la musique",
+      "solitude de celui qui n'est pas dans les cercles"
+    ],
+    "usagesNarratifs": [
+      "révélateur des rapports sociaux du village en situation de fête — qui danse avec qui, qui reste assis",
+      "espace de confrontation entre générations lors d'un événement communautaire",
+      "lieu où un secret éclate parce que les inhibitions ont baissé",
+      "scène de réconciliation ou de rupture dans un contexte en apparence festif"
+    ],
+    "tensionsTypiques": [
+      "invitation refusée ou mal reçue qui révèle une rancœur ancienne",
+      "discours d'un élu qui passe mal dans une communauté en crise",
+      "personnage qui fête quelque chose que les autres subissent",
+      "alcool qui libère ce que la sobriété retenait"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Organisteur bénévole",
+        "description": "Ne vit pas la fête comme les autres : il surveille les stocks de boisson, guette les débordements, pense déjà au rangement. La fête est un travail que les autres oublient de voir."
+      },
+      {
+        "profil": "Adolescent du village",
+        "description": "Vit la salle des fêtes comme un espace libérateur et étouffant à la fois. La musique trop forte, les adultes qui dansent, les sous-groupes. Il cherche un angle mort pour être tranquille ou pour faire ce qu'il ne ferait pas en pleine lumière."
+      },
+      {
+        "profil": "Revenant après des années d'absence",
+        "description": "Reconnait les visages vieillis. Remarque ceux qui ne sont plus là. La salle est la même, la musique presque pareille. Quelque chose s'est décalé d'un millimètre entre ses souvenirs et le réel."
+      }
+    ],
+    "notesEditoriales": [
+      "La salle des fêtes vide est aussi narrative que pleine : son aspect modeste et fatigué dit beaucoup sur la communauté qui l'entretient encore.",
+      "La fête est un révélateur social : les places prises, les regards évités, les danses acceptées ou refusées en disent plus que n'importe quel dialogue.",
+      "Attention au piège de la fête rustique idéalisée : l'authenticité peut côtoyer le malaise, la violence ordinaire et l'ennui profond."
+    ]
+  },
+  {
+    "id": "foire-agricole",
+    "label": "Foire agricole",
+    "type": "rural-lieu-public",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "boxes à bestiaux en planches, paille fraîche au sol",
+      "taureaux attachés à des anneaux scellés dans le béton",
+      "tracteurs neufs alignés sur un terre-plein goudronné, carrosserie brillante",
+      "stands de matériel avec vendeurs en veste logo",
+      "manège pour enfants en bordure, musique mécanique déréglée",
+      "buvette sous chapiteau avec bancs longs et tonneaux en guise de tables",
+      "jury de concours avec rubans de couleur sur les plus beaux animaux",
+      "caisse enregistreuse et liasses de tickets d'entrée au portail"
+    ],
+    "bruits": [
+      "mugissements et bêlements continus des animaux désorientés",
+      "voix amplifiée du commentateur du concours bovin",
+      "marteau qui tape sur un clou dans un stand de démonstration",
+      "moteur d'un tracteur en démonstration vrombissant à l'arrêt",
+      "foule dense dont le murmure collectif couvre tout le reste"
+    ],
+    "odeurs": [
+      "fumier frais et paille mouillée dominant tout le site",
+      "huile moteur des machines agricoles en exposition",
+      "frites et merguez de la buvette portées par le vent",
+      "sueur animale chaude dans les allées des boxes"
+    ],
+    "textures": [
+      "bouse séchée qui craque sous la semelle dans les allées",
+      "pelage court et chaud d'un animal effleuré à travers le grillage",
+      "poignée de main ferme et calleuse du vendeur de matériel"
+    ],
+    "emotionsTypiques": [
+      "fierté de l'éleveur dont l'animal est primé",
+      "excitation enfantine face aux machines et aux bêtes",
+      "sentiment de reconnaissance communautaire autour du travail de la terre",
+      "envie mêlée d'amertume face au matériel neuf qu'on ne peut pas acheter"
+    ],
+    "usagesNarratifs": [
+      "révélateur des hiérarchies économiques entre exploitations agricoles",
+      "lieu de négociation commerciale où les vraies décisions se prennent entre deux verres",
+      "espace de rencontre entre personnages de communes différentes qui ne se voient qu'ici",
+      "cadre d'une transaction décisive — achat, vente, pari — qui fera basculer une situation"
+    ],
+    "tensionsTypiques": [
+      "concours dont le résultat est contesté ou truqué",
+      "dette agricole qui refait surface lors d'une rencontre",
+      "acheteur qui fait une offre que le vendeur ne peut refuser mais ne devrait pas accepter",
+      "animal malade présenté comme sain lors d'une transaction"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Éleveur primé",
+        "description": "Vit la foire comme la reconnaissance d'une année de travail. Le ruban rouge sur son animal vaut plus que son prix. Parle de ses bêtes avec une précision et une tendresse qu'il n'a pas pour grand-chose d'autre."
+      },
+      {
+        "profil": "Enfant de la ville venu avec ses parents",
+        "description": "Saturé et fasciné à la fois. L'odeur l'écrase mais il touche tout ce qu'il peut. Ne comprend pas pourquoi les adultes parlent aussi longtemps debout entre les stands."
+      },
+      {
+        "profil": "Représentant commercial de coopérative",
+        "description": "Voit des clients, des chiffres, des parts de marché. Mémorise les exploitations qui ont investi, celles qui ont reculé. La foire est une réunion commerciale déguisée en célébration."
+      }
+    ],
+    "notesEditoriales": [
+      "La foire agricole est un des rares espaces ruraux où l'argent, le travail et la fierté communautaire se montrent au grand jour — une scène fertile pour les tensions économiques.",
+      "L'odeur de fumier dans les allées est un détail de vérité : ne pas le masquer ou l'édulcorer, il ancre le lieu dans le réel.",
+      "Le concours bovin avec ses rubans est un microcosme de compétition sociale : utiliser ses résultats comme révélateur de hiérarchie."
+    ]
+  },
+  {
+    "id": "cooperative-agricole",
+    "label": "Coopérative agricole",
+    "type": "rural-lieu-public",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "hangar métallique à double hauteur avec faîtage vitré",
+      "sacs de semences empilés sur palettes jusqu'au plafond",
+      "rayonnages d'acier avec bidons de traitement numérotés",
+      "balance au sol pour peser les sacs, cadran analogique vieilli",
+      "bureau vitré dans un angle avec ordinateur et classeurs",
+      "chariot élévateur électrique garé en bout d'allée",
+      "tableau noir avec les cours des céréales inscrits à la craie",
+      "échantillons de grain dans des sachets plastique accrochés à un fil"
+    ],
+    "bruits": [
+      "moteur sourd du chariot élévateur qui manœuvre entre les palettes",
+      "froissement épais d'un sac de grain soulevé",
+      "discussion technique entre deux agriculteurs sur les rendements",
+      "sonnerie du téléphone dans le bureau vitré",
+      "porte coulissante métallique qui s'ouvre et se referme avec un bruit sourd"
+    ],
+    "odeurs": [
+      "céréales sèches, odeur chaude et poussiéreuse",
+      "engrais chimique légèrement acide dans les rayonnages du fond",
+      "huile de machine sur le sol béton",
+      "sac de terre à plantes, odeur de tourbe humide"
+    ],
+    "textures": [
+      "grain de blé roulant sous les doigts plongés dans un sac ouvert",
+      "surface froide et légèrement grasse de la balance en fonte",
+      "sac de jute rigide et rugueux sur l'épaule lors d'un chargement"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'appartenance à un système d'entraide économique",
+      "méfiance envers les prix fixés sans négociation possible",
+      "dépendance mal vécue envers une structure qu'on ne contrôle pas",
+      "fierté pragmatique d'une gestion collective qui tient"
+    ],
+    "usagesNarratifs": [
+      "lieu de négociation économique et de conflit entre petits et grands producteurs",
+      "espace où les informations sur la santé des exploitations circulent sans être dites clairement",
+      "cadre d'une décision prise en groupe qui aura des conséquences individuelles lourdes",
+      "point de départ d'une enquête sur une fraude ou une irrégularité dans les comptes"
+    ],
+    "tensionsTypiques": [
+      "prix de rachat des céréales trop bas pour couvrir les coûts d'un exploitant endetté",
+      "accusation de favoritisme dans l'attribution des stocks ou des semences",
+      "découverte d'une irrégularité dans les pesées ou les relevés",
+      "vote d'une décision collective qui pénalise une minorité d'adhérents"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur coopérateur de longue date",
+        "description": "Connaît le lieu comme sa propre grange. A ses habitudes, ses interlocuteurs. Critique le système mais n'imagine pas s'en passer. La coopérative est une contrainte acceptée et une sécurité réelle."
+      },
+      {
+        "profil": "Jeune repreneur d'exploitation",
+        "description": "Trouve le système opaque. Les prix, les règles, les votes — tout lui semble décidé ailleurs, par d'autres, depuis longtemps. Cherche à comprendre sans paraître ne pas savoir."
+      },
+      {
+        "profil": "Auditeur ou inspecteur extérieur",
+        "description": "Voit les sacs, les bilans, les procédures. Cherche l'écart entre ce qui est inscrit et ce qui se fait réellement. Le tableau de cours à la craie l'intrigue : pourquoi pas numérique ?"
+      }
+    ],
+    "notesEditoriales": [
+      "La coopérative est un espace de tension économique concrète : les chiffres y ont des conséquences directes sur des vies. C'est un lieu rare où l'argent est réel et visible.",
+      "Le tableau des cours à la craie est un détail symboliquement fort : les prix qui décident de la vie d'une exploitation écrits à la main, effaçables.",
+      "Éviter la caricature du système coopératif opaque et corrompu : la réalité est souvent plus nuancée — une institution imparfaite qui protège autant qu'elle contraint."
+    ]
+  }
+]

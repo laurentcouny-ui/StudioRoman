@@ -1,0 +1,287 @@
+[
+  {
+    "id": "fatigue",
+    "label": "Fatigue",
+    "alias": [
+      "fatigue",
+      "épuisement",
+      "lassitude",
+      "usure",
+      "exténuation"
+    ],
+    "famille": "etat-physique-energie-basse",
+    "definitionCourte": "État de baisse physique et mentale qui ralentit le corps, la concentration, la mémoire immédiate et la capacité de décider.",
+    "signesPhysiques": [
+      "paupières lourdes",
+      "gestes ralentis",
+      "épaules tombantes",
+      "bâillements fréquents",
+      "démarche moins assurée",
+      "temps de réaction allongé",
+      "dos qui se courbe",
+      "mains qui traînent au lieu d’agir franchement",
+      "regard moins net",
+      "frottement du visage ou des yeux",
+      "posture qui cherche un appui",
+      "micro-absences dans le regard",
+      "mouvements économisés",
+      "nuque raide",
+      "visage plus terne"
+    ],
+    "sensationsInternes": [
+      "corps lourd",
+      "difficulté à mobiliser son énergie",
+      "impression de fonctionner au ralenti",
+      "tête cotonneuse",
+      "envie de s’allonger immédiatement",
+      "muscles sans ressort",
+      "fatigue derrière les yeux",
+      "vide d’élan",
+      "impression que tout coûte plus cher",
+      "manque de précision intérieure"
+    ],
+    "pensees": [
+      "Je n’ai plus de jus.",
+      "Tout demande un effort.",
+      "Je n’arrive plus à me concentrer.",
+      "Même ça, c’est trop.",
+      "Il me faut juste une pause.",
+      "Je relirai plus tard.",
+      "Je vais faire une erreur.",
+      "Je n’ai pas la force de discuter.",
+      "Mon cerveau rame.",
+      "Je n’avance plus vraiment."
+    ],
+    "effetsVoixLangage": [
+      "voix plus plate",
+      "phrases plus courtes",
+      "mots cherchés plus longtemps",
+      "débit ralenti",
+      "moins d’intonation",
+      "réponses tardives",
+      "phrases laissées incomplètes",
+      "moins de précision lexicale",
+      "souffle plus présent dans la voix"
+    ],
+    "comportements": [
+      "s’assoit dès que possible",
+      "repousse une tâche simple",
+      "oublie un détail évident",
+      "interrompt ce qu’il fait sans finir",
+      "s’appuie contre un mur, une table ou un dossier",
+      "évite les efforts non indispensables",
+      "relit sans comprendre tout de suite",
+      "se trompe dans l’ordre des actions",
+      "laisse traîner une décision",
+      "choisit la solution la plus facile plutôt que la meilleure",
+      "supporte moins bien le bruit ou les sollicitations",
+      "réduit ses interactions"
+    ],
+    "masquesPossibles": [
+      "politesse automatique",
+      "silence",
+      "sourire mécanique",
+      "professionnalisme par inertie",
+      "humour sans énergie"
+    ],
+    "evolutionsPossibles": [
+      "épuisement",
+      "irritabilité",
+      "erreur de jugement",
+      "abandon momentané",
+      "repli",
+      "effondrement"
+    ],
+    "notesEditoriales": [
+      "Montrer la fatigue par le rythme du corps avant de la nommer.",
+      "La fatigue touche aussi la syntaxe, l’attention et les décisions.",
+      "Une fatigue crédible ne ralentit pas seulement : elle simplifie, oublie, bâcle ou renonce."
+    ]
+  },
+  {
+    "id": "faim",
+    "label": "Faim",
+    "alias": [
+      "faim",
+      "creux",
+      "appétit urgent",
+      "dalle"
+    ],
+    "famille": "etat-physique-besoin",
+    "definitionCourte": "Besoin alimentaire qui occupe progressivement le corps puis l’esprit, jusqu’à affecter l’humeur, la patience et le tri des priorités.",
+    "signesPhysiques": [
+      "ventre qui gargouille",
+      "regard attiré par la nourriture",
+      "mouvements plus impatients",
+      "mains qui fouillent machinalement",
+      "attention qui décroche",
+      "mâchoire qui se crispe un peu",
+      "posture qui se tend à l’approche d’un repas",
+      "yeux qui suivent ce que mangent les autres",
+      "déglutition plus fréquente",
+      "gestes qui s’accélèrent quand il s’agit de manger",
+      "tolérance physique réduite au délai",
+      "fixation sur les odeurs alimentaires"
+    ],
+    "sensationsInternes": [
+      "creux dans l’estomac",
+      "sensation de vide",
+      "tiraillement interne",
+      "baisse progressive de l’énergie",
+      "léger vertige ou flottement",
+      "envie physique de remplir ce vide",
+      "faiblesse diffuse",
+      "impatience corporelle",
+      "sensibilité accrue aux odeurs",
+      "tête moins stable quand la faim s’installe"
+    ],
+    "pensees": [
+      "Il faut que je mange.",
+      "Je ne pense plus qu’à ça.",
+      "Après ça, je mange.",
+      "Je vais devenir désagréable.",
+      "N’importe quoi ferait l’affaire.",
+      "Je n’écoute plus vraiment.",
+      "Ça suffit, il me faut quelque chose.",
+      "Je ne serai pas patient longtemps.",
+      "Tout serait plus simple avec un repas.",
+      "Je priorise ça, le reste attendra."
+    ],
+    "effetsVoixLangage": [
+      "réponses plus sèches",
+      "moins de patience",
+      "phrases plus directes",
+      "tolérance réduite aux digressions",
+      "coupures plus nettes",
+      "moins d’amabilité spontanée",
+      "langage centré sur le concret immédiat"
+    ],
+    "comportements": [
+      "grignote",
+      "cherche de quoi manger",
+      "ouvre les placards ou le frigo sans vrai plan",
+      "écourte une discussion",
+      "accélère pour atteindre le repas",
+      "se déconcentre dès qu’une odeur de nourriture apparaît",
+      "calcule les délais avant le prochain repas",
+      "devient plus irritable sur de petites frustrations",
+      "saisit ce qui est disponible plutôt que ce qui est idéal",
+      "revient régulièrement à la question de manger"
+    ],
+    "masquesPossibles": [
+      "humour",
+      "fausse décontraction",
+      "autocontrôle un peu raide",
+      "politesse forcée"
+    ],
+    "evolutionsPossibles": [
+      "irritation",
+      "faiblesse",
+      "obsession passagère",
+      "précipitation",
+      "mauvaise décision",
+      "malaise"
+    ],
+    "notesEditoriales": [
+      "La faim peut devenir un moteur de scène très concret.",
+      "Elle est plus crédible quand elle modifie le tri des priorités.",
+      "Ne pas la réduire au gargouillis : elle affecte aussi la patience, la qualité d’écoute et la diplomatie."
+    ]
+  },
+  {
+    "id": "douleur",
+    "label": "Douleur",
+    "alias": [
+      "douleur",
+      "mal",
+      "souffrance physique",
+      "élancement"
+    ],
+    "famille": "etat-physique-atteinte",
+    "definitionCourte": "Sensation physique pénible qui accapare l’attention, modifie le rapport à l’espace et impose des choix de mouvement, de parole et de rythme.",
+    "signesPhysiques": [
+      "grimace brève",
+      "mouvement interrompu",
+      "main portée à la zone touchée",
+      "respiration bloquée",
+      "mâchoire contractée",
+      "corps qui se replie ou se protège",
+      "pas hésitant",
+      "raideur soudaine",
+      "fermeture des yeux une fraction de seconde",
+      "geste avorté avant son terme",
+      "posture asymétrique pour compenser",
+      "tension diffuse dans le visage",
+      "micro-sursaut au contact",
+      "immobilité prudente"
+    ],
+    "sensationsInternes": [
+      "élancement",
+      "brûlure",
+      "pulsation douloureuse",
+      "point aigu",
+      "onde qui revient par vagues",
+      "zone hypersensible",
+      "tiraillement",
+      "choc localisé",
+      "pression insupportable sur une zone précise",
+      "impression qu’un simple mouvement va réveiller le pire"
+    ],
+    "pensees": [
+      "Ne bouge pas.",
+      "Ça lance encore.",
+      "Pas ici, pas maintenant.",
+      "Il faut tenir.",
+      "Chaque geste va réveiller ça.",
+      "Trouve une position moins pire.",
+      "Ne montre pas trop.",
+      "Ça prend toute la place.",
+      "Il faut contourner ça.",
+      "Le moindre contact va faire mal."
+    ],
+    "effetsVoixLangage": [
+      "voix coupée",
+      "mots plus rares",
+      "souffle haché",
+      "réponse retardée",
+      "syllabes avalées pour économiser l’effort",
+      "phrases courtes",
+      "ton plus sec par manque de marge",
+      "silences imposés par la sensation"
+    ],
+    "comportements": [
+      "protège la zone douloureuse",
+      "évite certains gestes",
+      "s’interrompt en pleine action",
+      "cherche un appui stable",
+      "réorganise ses mouvements pour contourner la douleur",
+      "supporte mal le contact ou la pression",
+      "retarde un déplacement",
+      "mesure les distances autrement",
+      "n’utilise qu’une partie de son amplitude normale",
+      "devient moins patient parce que tout coûte plus cher",
+      "anticipe ce qui risque de faire mal",
+      "rejette l’aide si elle touche au mauvais endroit"
+    ],
+    "masquesPossibles": [
+      "stoïcisme",
+      "minimisation",
+      "humour sec",
+      "froideur",
+      "agacement défensif"
+    ],
+    "evolutionsPossibles": [
+      "agacement",
+      "épuisement",
+      "ralentissement forcé",
+      "perte de contrôle",
+      "vulnérabilité accrue",
+      "repli"
+    ],
+    "notesEditoriales": [
+      "Une douleur crédible change toujours quelque chose dans l’action.",
+      "Ne pas la décrire seulement : montrer ce qu’elle interdit, déforme ou retarde.",
+      "La douleur devient plus juste quand elle modifie la géographie du corps dans la scène."
+    ]
+  }
+]

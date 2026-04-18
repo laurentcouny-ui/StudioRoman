@@ -1,0 +1,442 @@
+[
+  {
+    "id": "plombier",
+    "label": "Plombier",
+    "domaine": "artisanat, bâtiment",
+    "definitionCourte": "Un personnage qui entre dans les espaces privés des gens au moment où quelque chose dysfonctionne, et qui voit l'envers des maisons que les propriétaires ne montrent jamais.",
+    "perceptionDuMonde": "Voit les bâtiments comme des organismes avec des artères et des points de faiblesse. A appris que les problèmes d'eau révèlent souvent des problèmes plus profonds, ignorés depuis longtemps. Entre chez les gens en crise, ce qui lui donne une vision particulière de leur intimité.",
+    "signesDistinctifs": [
+      "mains toujours légèrement abîmées, même propres",
+      "regard qui monte vers les plafonds et descend vers les plinthes en entrant quelque part",
+      "oreille tendue à tout bruit d'eau ou de tuyauterie",
+      "genoux et dos marqués par des années de positions contraintes",
+      "sac à outils organisé avec une précision rituelle",
+      "estimation rapide et automatique du volume d'un espace",
+      "odeur de métal et de joint qui imprègne les vêtements de travail"
+    ],
+    "langageSpecifique": [
+      "\"Le problème c'est pas là où vous pensez\"",
+      "\"Ça fait un moment que ça dure, ça\"",
+      "\"Il faut ouvrir le mur pour voir\"",
+      "\"C'est de l'installation d'époque\" (sur tout ce qui date)",
+      "vocabulaire de la contrainte : accès, réseau, pression, joint, vidange"
+    ],
+    "tensionsTypiques": [
+      "être appelé en urgence pour des problèmes que le client a laissé s'aggraver",
+      "voir l'état réel d'un logement que personne d'autre ne connaît",
+      "les délais impossibles et les attentes irréalistes des clients en panique",
+      "la sous-estimation du travail artisanal dans sa complexité réelle",
+      "la douleur physique accumulée contre la nécessité de continuer à travailler"
+    ],
+    "blessuresProfessionnelles": [
+      "usure physique précoce du dos, des genoux, des poignets",
+      "invisibilité sociale du travail manuel qualifié",
+      "difficulté à déconnecter : les bruits d'eau ne sont plus jamais neutres"
+    ],
+    "usagesNarratifs": [
+      "personnage qui a accès à l'envers des lieux et voit ce que les habitants cachent ou ignorent",
+      "figure de révélateur : arrive quand quelque chose cède, ce qui est souvent métaphoriquement chargé",
+      "source de connaissance pratique sur un lieu, un bâtiment, une infrastructure"
+    ],
+    "notesEditoriales": [
+      "Sa présence dans une scène signale toujours qu'une limite a été atteinte — narrativement utile.",
+      "Éviter le cliché de l'artisan peu cultivé : beaucoup ont une expertise technique très élaborée et une lecture fine des situations humaines."
+    ]
+  },
+  {
+    "id": "electricien",
+    "label": "Électricien",
+    "domaine": "artisanat, bâtiment, technique",
+    "definitionCourte": "Un personnage qui travaille avec quelque chose d'invisible — le courant — et qui a intégré une discipline de prudence que les autres perçoivent parfois comme de l'excès de précaution.",
+    "perceptionDuMonde": "Pense en termes de circuits, de flux, de points de rupture. Sait que l'invisible peut tuer, ce qui lui donne une relation particulière au risque. Voit les bâtiments comme des réseaux de tensions cachées.",
+    "signesDistinctifs": [
+      "jamais une action sans vérification préalable, même pour des gestes simples",
+      "regard qui suit instinctivement les câbles et les gaines dans un espace",
+      "mains qui testent les surfaces avant de les toucher",
+      "sensibilité aux odeurs de brûlé, réaction immédiate",
+      "organisation rigoureuse du matériel : chaque outil a sa place exacte",
+      "lanterne frontale portée ou cherchée instinctivement dans les espaces sombres",
+      "posture de recul systématique avant d'intervenir sur un élément inconnu"
+    ],
+    "langageSpecifique": [
+      "\"On coupe d'abord\"",
+      "\"Il faut vérifier que c'est bien à zéro\"",
+      "\"Quelqu'un a bricolé ici\" (avec une légère réprobation)",
+      "\"C'est hors norme\" (sur une installation dangereuse)",
+      "vocabulaire de la tension, du circuit, du court-circuit appliqué aux situations humaines"
+    ],
+    "tensionsTypiques": [
+      "des installations vieillissantes et dangereuses que personne ne veut payer à remettre aux normes",
+      "les bricolages amateurs qui créent des risques réels et sont difficiles à facturer correctement",
+      "la responsabilité légale en cas d'accident sur une installation certifiée",
+      "la pression du délai contre la nécessité de la prudence",
+      "l'exposition répétée à des risques que les clients sous-estiment"
+    ],
+    "blessuresProfessionnelles": [
+      "vigilance chronique qui ne s'éteint pas hors du travail",
+      "méfiance envers les systèmes : sait qu'ils peuvent lâcher n'importe quand",
+      "fatigue de la responsabilité portée seul sur des décisions à risque"
+    ],
+    "usagesNarratifs": [
+      "personnage utile dans des contextes de danger technique ou de bâtiment",
+      "figure dont la prudence systématique contraste avec des personnages impulsifs",
+      "accès à l'infrastructure d'un lieu — portes, systèmes de sécurité, points névralgiques"
+    ],
+    "notesEditoriales": [
+      "La prudence de l'électricien n'est pas de la lenteur : c'est une discipline de survie intégrée.",
+      "Son rapport à l'invisible (le courant) peut ouvrir des métaphores narratives sur ce qui circule sans qu'on le voie."
+    ]
+  },
+  {
+    "id": "macon",
+    "label": "Maçon",
+    "domaine": "artisanat, bâtiment, construction",
+    "definitionCourte": "Un personnage dont le travail laisse des traces durables dans le monde physique, et qui sait que ce qu'il construit survivra longtemps après lui.",
+    "perceptionDuMonde": "Voit les bâtiments comme des strates : ce qui est visible et ce qui est dessous, ce qui est solide et ce qui ne l'est pas. A un rapport au temps long que peu de métiers donnent — construire, c'est penser à dans cent ans.",
+    "signesDistinctifs": [
+      "mains très larges, calleuses, aux articulations marquées",
+      "dos légèrement voûté par des années de port de charge",
+      "regard qui évalue les horizontales et les verticales d'un bâtiment instinctivement",
+      "toucher des murs en entrant quelque part, comme pour en sentir la solidité",
+      "mouvements amples et économes, sans geste inutile",
+      "voix forte habituée aux chantiers bruyants",
+      "poussière blanche ou grise dans les plis des mains même propres"
+    ],
+    "langageSpecifique": [
+      "\"C'est du solide\" ou \"c'est du creux\" (sur les murs, mais aussi les gens)",
+      "\"On repart de la base\"",
+      "\"Il faut décoffrer avant d'aller plus loin\"",
+      "\"L'aplomb, d'abord\"",
+      "vocabulaire de la fondation, du niveau, de la structure appliqué aux situations"
+    ],
+    "tensionsTypiques": [
+      "les délais de chantier impossibles qui obligent à bâcler ce qui devrait être fait bien",
+      "travailler dans le froid, la chaleur, la boue, sans que ça se voie dans le résultat final",
+      "les donneurs d'ordres qui n'ont jamais posé une brique mais donnent des instructions",
+      "la fierté du travail bien fait contre la pression économique de faire vite",
+      "l'usure physique accélérée qui raccourcit la carrière active"
+    ],
+    "blessuresProfessionnelles": [
+      "corps abîmé tôt : dos, genoux, épaules portent toute la mémoire du travail",
+      "invisibilité de l'artisanat qualifié dans l'image sociale du bâtiment",
+      "frustration de voir des constructions bâclées durer, et du bon travail méconnu"
+    ],
+    "usagesNarratifs": [
+      "personnage dont la relation au temps long contraste avec des personnages dans l'urgence",
+      "figure de fondation narrative : celui sur qui on s'appuie, rarement au premier plan",
+      "accès privilégié à l'état réel d'un bâtiment, de ses failles et de ses secrets structurels"
+    ],
+    "notesEditoriales": [
+      "Le maçon a une philosophie pratique du monde : ce qui tient debout est vrai, ce qui s'effondre ne l'était pas.",
+      "Son rapport au travail bien fait est souvent une forme de dignité — à ne pas réduire à de la fierté simple."
+    ]
+  },
+  {
+    "id": "mecanicien-auto",
+    "label": "Mécanicien automobile",
+    "domaine": "artisanat, technique, automobile",
+    "definitionCourte": "Un personnage qui lit les machines comme d'autres lisent les gens, et qui sait que ce qu'on entend sous le capot dit souvent plus que ce que le conducteur raconte.",
+    "perceptionDuMonde": "Pense en termes de systèmes, de causes et d'effets. Sait que les pannes ont toujours une origine — rien n'est aléatoire. A développé une patience diagnostique qui s'applique bien au-delà des voitures.",
+    "signesDistinctifs": [
+      "mains dont les plis gardent de l'huile même lavées",
+      "oreille tendue à tout moteur qui passe, identification quasi automatique",
+      "regard qui descend sur les pneus et les jantes d'une voiture garée",
+      "économie de gestes dans un espace contraint",
+      "bleu de travail porteur d'une identité professionnelle forte",
+      "odeur d'huile et de métal chaud qui imprègne les vêtements",
+      "posture penchée vers l'avant, tête légèrement inclinée quand il écoute"
+    ],
+    "langageSpecifique": [
+      "\"Ça vient de là\" (avec une certitude non négociable)",
+      "\"Ça fait un moment que ça souffre\"",
+      "\"Le client attendait trop\"",
+      "\"Il faut ouvrir pour être sûr\"",
+      "vocabulaire mécanique appliqué aux situations : \"ça chauffe\", \"ça coince\", \"ça lâche\""
+    ],
+    "tensionsTypiques": [
+      "les clients qui n'ont pas les moyens de réparer correctement et dont la sécurité est en jeu",
+      "la pression de temps contre le diagnostic complet",
+      "les voitures iréparables qu'on lui demande de ressusciter",
+      "la concurrence des grandes enseignes qui cassent les prix sans le même savoir-faire",
+      "le corps qui vieillit plus vite dans ce travail physique et chimiquement exposé"
+    ],
+    "blessuresProfessionnelles": [
+      "exposition chronique aux solvants et aux poussières de frein",
+      "postures contraintes qui abîment le dos et les épaules sur la durée",
+      "sentiment de dévaluation face à l'électronique qui remplace le diagnostic manuel"
+    ],
+    "usagesNarratifs": [
+      "personnage dont le diagnostic lent et méthodique contraste avec l'urgence d'une situation",
+      "figure de confiance pratique : sait trouver l'origine du problème",
+      "accès à des informations sur les allées et venues des gens via leurs véhicules"
+    ],
+    "notesEditoriales": [
+      "Son rapport aux machines peut être une métaphore efficace pour sa façon de lire les gens.",
+      "La panne est son terrain quotidien : il est à l'aise dans les situations dégradées."
+    ]
+  },
+  {
+    "id": "boulanger",
+    "label": "Boulanger",
+    "domaine": "artisanat, alimentation",
+    "definitionCourte": "Un personnage dont la vie commence quand les autres dorment, et qui nourrit une communauté sans que celle-ci pense jamais à ce que ça lui coûte.",
+    "perceptionDuMonde": "Vit dans un décalage temporel permanent. Connaît le quartier dans sa version de l'aube : la ville avant qu'elle commence. A un rapport au temps cyclique et à la répétition comme discipline, pas comme ennui.",
+    "signesDistinctifs": [
+      "mains aux avant-bras muscléset farines dans les plis des poignets",
+      "yeux fatigués en fin de matinée quand les autres commencent leur journée",
+      "mouvement de pétrissage qui revient dans les mains même au repos",
+      "sensibilité fine aux odeurs de cuisson, identification précise des stades de cuisson",
+      "réveil sans alarme, biologie réglée sur des heures inhabituelles",
+      "poitrine et tablier toujours légèrement farinés",
+      "débit de parole accéléré le matin, ralenti l'après-midi quand l'énergie chute"
+    ],
+    "langageSpecifique": [
+      "\"La pâte ne ment pas\"",
+      "\"Il faut laisser le temps au temps\" (sur la fermentation, mais aussi en général)",
+      "\"Ce matin la fournée était belle\"",
+      "\"Les clients sentent si c'est pas bien\" (sur la qualité)",
+      "vocabulaire de la matière, du temps, de la chaleur"
+    ],
+    "tensionsTypiques": [
+      "les horaires qui isolent de la vie sociale et familiale normale",
+      "la pression économique des grandes surfaces et des boulangeries industrielles",
+      "la monotonie valorisée par lui mais incomprise par les autres",
+      "les matières premières variables qui rendent chaque fournée différente malgré la routine",
+      "la dépendance au corps qui vieillit dans un travail physique intense"
+    ],
+    "blessuresProfessionnelles": [
+      "isolement chronique lié aux horaires décalés",
+      "chaleur et humidité constantes qui abîment la peau et les articulations",
+      "difficulté à expliquer à l'entourage pourquoi il ne peut pas changer ses horaires"
+    ],
+    "usagesNarratifs": [
+      "personnage ancré dans le quotidien d'une communauté, témoin de ses habitudes et de ses ruptures",
+      "figure de régularité dans un récit chaotique : il est là chaque matin, quoi qu'il arrive",
+      "sa connaissance des clients peut le rendre dépositaire de petits secrets ordinaires"
+    ],
+    "notesEditoriales": [
+      "Le boulanger artisanal a un rapport au temps et à la matière presque philosophique — à exploiter.",
+      "Sa fatigue est structurelle, pas accidentelle : elle fait partie de qui il est."
+    ]
+  },
+  {
+    "id": "boucher",
+    "label": "Boucher",
+    "domaine": "artisanat, alimentation",
+    "definitionCourte": "Un personnage dont le métier implique un rapport quotidien à la mort et à la matière animale que la plupart des gens préfèrent ne pas voir, et qui a dû trouver une façon de vivre avec ça.",
+    "perceptionDuMonde": "A un rapport direct et sans détour à la matière organique. Sait que ce qu'on mange a été vivant, et cette réalité n'a plus rien d'abstrait pour lui. Peut développer un pragmatisme sur la vie et la mort que les autres trouvent parfois brutal.",
+    "signesDistinctifs": [
+      "mains très propres malgré le travail — habitude d'hygiène absolue",
+      "bras musclés par le désossage et le découpage répété",
+      "tablier blanc ou à carreaux porteur d'une identité professionnelle marquée",
+      "couteaux portés et entretenus comme des outils précieux, presque personnels",
+      "regard qui évalue la qualité d'une pièce de viande instantanément",
+      "voix directe et peu de circonlocutions",
+      "debout toute la journée dans le froid : posture adaptée, vêtements thermiques dessous"
+    ],
+    "langageSpecifique": [
+      "\"Vous voulez quoi comme morceau ?\" (question directe, sans préambule)",
+      "\"C'est une belle bête\"",
+      "\"Il faut savoir couper dans le bon sens\"",
+      "\"C'est nature\" (sur tout ce qui n'est pas transformé)",
+      "vocabulaire anatomique précis appliqué aux animaux et parfois aux situations"
+    ],
+    "tensionsTypiques": [
+      "les jugements moraux des clients sur son métier, formulés ou non",
+      "les nouvelles habitudes alimentaires qui réduisent sa clientèle",
+      "la concurrence de la grande distribution qui vend moins cher mais moins bien",
+      "le froid permanent du travail en chambre froide",
+      "transmettre un savoir-faire que peu de jeunes veulent apprendre"
+    ],
+    "blessuresProfessionnelles": [
+      "désensibilisation à la mort animale qui peut déborder sur d'autres contextes",
+      "articulations et tendons abîmés par les gestes répétitifs de découpe",
+      "sentiment d'être jugé pour un travail dont tout le monde profite sans vouloir le voir"
+    ],
+    "usagesNarratifs": [
+      "personnage au pragmatisme brut utile dans des scènes de violence, de mort ou de survie",
+      "figure ancrée dans la réalité matérielle du monde, contrepoint aux personnages trop abstraits",
+      "rapport aux couteaux et aux lames : narrativement chargé sans être cliché"
+    ],
+    "notesEditoriales": [
+      "Éviter de le réduire à son rapport à la mort : c'est un artisan dont la précision du geste est la vraie marque.",
+      "Sa brutalité apparente cache souvent une attention fine à la qualité et au respect de la matière."
+    ]
+  },
+  {
+    "id": "coiffeur",
+    "label": "Coiffeur",
+    "domaine": "soin, esthétique, relation",
+    "definitionCourte": "Un personnage dont le salon est un espace de confidence involontaire : les gens se détendent dans le fauteuil et finissent par dire des choses qu'ils ne disent pas ailleurs.",
+    "perceptionDuMonde": "Voit les gens dans une proximité physique inhabituelle, souvent en train de se regarder dans un miroir. A développé une capacité à entendre sans juger, à répondre sans trop peser. Connaît les vies des gens par accumulation de petites révélations.",
+    "signesDistinctifs": [
+      "mains toujours en mouvement, même dans la conversation",
+      "regard qui va naturellement aux cheveux et à la nuque d'un inconnu",
+      "posture d'inclinaison légère vers l'interlocuteur, écoute physique",
+      "ciseaux portés ou cherchés instinctivement dans les poches",
+      "debout toute la journée : jambes et pieds endurcis, chaussures adaptées",
+      "tendance à toucher légèrement l'épaule ou les cheveux de l'interlocuteur",
+      "aisance dans la proximité physique avec des inconnus"
+    ],
+    "langageSpecifique": [
+      "\"Et sinon, ça va, la vie ?\" (entrée dans la confidence)",
+      "\"On enlève combien ?\"",
+      "\"Vous voulez qu'on change un peu ?\"",
+      "\"Je vois ce que vous voulez dire\"",
+      "écoute active avec des relances courtes qui encouragent l'autre à continuer"
+    ],
+    "tensionsTypiques": [
+      "la confidence non demandée : savoir des choses intimes sans l'avoir cherché",
+      "les clients qui veulent un résultat impossible à réaliser avec leurs cheveux",
+      "les horaires debout longues journées qui épuisent le corps",
+      "tenir une clientèle fidèle dans un marché concurrentiel",
+      "la frontière entre relation professionnelle et relation d'amitié qui se brouille"
+    ],
+    "blessuresProfessionnelles": [
+      "dos, poignets et pieds usés par des années de station debout et de gestes répétés",
+      "difficultés à sortir du mode écoute même dans sa vie personnelle",
+      "accumulation de secrets qui ne peuvent être partagés avec personne"
+    ],
+    "usagesNarratifs": [
+      "personnage qui sait des choses sur tout le monde dans le quartier sans les avoir cherchées",
+      "figure de confidence : les autres personnages peuvent lui révéler des informations importantes",
+      "son salon comme espace neutre où des personnages opposés se trouvent côte à côte"
+    ],
+    "notesEditoriales": [
+      "Le salon de coiffure est un microcosme social très riche : les hiérarchies, les secrets et les désirs y circulent.",
+      "Son écoute n'est pas de la curiosité : c'est une compétence professionnelle qui a ses propres limites."
+    ]
+  },
+  {
+    "id": "aide-soignant",
+    "label": "Aide-soignant",
+    "domaine": "soin, santé, accompagnement",
+    "definitionCourte": "Un personnage qui touche les corps vulnérables chaque jour, porte les besoins les plus intimes des patients, et reçoit rarement la reconnaissance de ce que ça représente.",
+    "perceptionDuMonde": "A un rapport désacralisé mais respectueux au corps humain. Voit la dignité là où les autres voient la déchéance. Sait que la maladie et la dépendance ne changent pas qui est une personne.",
+    "signesDistinctifs": [
+      "gestes doux et économes avec les corps fragiles, même hors du travail",
+      "attention immédiate à la douleur physique chez autrui",
+      "voix posée et basse, habituée aux espaces de soin",
+      "mains propres de façon compulsive, lavage fréquent",
+      "chaussures silencieuses, pas léger dans les couloirs",
+      "capacité à gérer la détresse de l'autre sans s'effondrer soi-même",
+      "légèrement voûté quand il aide quelqu'un à se lever ou à marcher"
+    ],
+    "langageSpecifique": [
+      "\"Comment vous vous sentez ce matin ?\"",
+      "\"On y va doucement\"",
+      "\"Vous pouvez vous appuyer sur moi\"",
+      "\"C'est normal\" (dans un sens apaisant, pas condescendant)",
+      "vocabulaire du soin : confort, douleur, repère, autonomie"
+    ],
+    "tensionsTypiques": [
+      "charge de travail excessive qui empêche de donner le soin qu'on voudrait donner",
+      "la mort régulière des patients qu'on a appris à connaître",
+      "le manque de reconnaissance institutionnelle et salariale",
+      "la violence verbale ou physique de patients en souffrance",
+      "le transfert émotionnel : s'attacher trop à certains patients"
+    ],
+    "blessuresProfessionnelles": [
+      "fatigue émotionnelle chronique, difficilement nommée et soignée",
+      "dos abîmé par les manutentions répétées de patients",
+      "désensibilisation progressive à la souffrance comme mécanisme de protection"
+    ],
+    "usagesNarratifs": [
+      "personnage qui voit les autres dans leur vulnérabilité la plus vraie",
+      "figure de soin dans des récits de maladie, de vieillesse ou de crise",
+      "son épuisement peut être le déclencheur d'un basculement ou d'une rupture dans le récit"
+    ],
+    "notesEditoriales": [
+      "Ne pas confondre avec l'infirmier : l'aide-soignant a moins de délégation médicale mais plus de temps physique avec les patients.",
+      "Sa dignité professionnelle est souvent invisible — la rendre visible est un acte narratif fort."
+    ]
+  },
+  {
+    "id": "kinesitherapeute",
+    "label": "Kinésithérapeute",
+    "domaine": "soin, santé, rééducation",
+    "definitionCourte": "Un personnage qui travaille avec la douleur et le mouvement, et qui entend les histoires des corps avant les mots : chaque tension, chaque blocage est une information.",
+    "perceptionDuMonde": "Lit les corps comme des textes. Voit les postures et les attitudes physiques comme des traces d'habitudes, de blessures, de modes de vie. Sait que la douleur est rarement là où elle semble être.",
+    "signesDistinctifs": [
+      "regard qui descend instinctivement sur les épaules et le cou d'un inconnu",
+      "mains qui cherchent un muscle ou un point de tension en écoutant quelqu'un",
+      "posture très droite, conscience corporelle développée",
+      "écoute fine des gestes compensatoires que les gens font sans s'en rendre compte",
+      "cabinets rangés avec précision, chaque élément à sa place fonctionnelle",
+      "voix posée, rythme de parole adapté à la douleur de l'autre",
+      "habitude de décomposer les mouvements en séquences observables"
+    ],
+    "langageSpecifique": [
+      "\"Montrez-moi comment vous faites ça\"",
+      "\"Où exactement ?\" (sur la douleur, mais aussi sur tout)",
+      "\"Le corps compense\"",
+      "\"Il faut rééduquer le geste, pas juste la douleur\"",
+      "vocabulaire du mouvement, de la tension, de la compensation appliqué aux situations"
+    ],
+    "tensionsTypiques": [
+      "les patients qui ne font pas les exercices entre les séances et stagnent",
+      "la douleur qui résiste malgré le travail bien fait",
+      "les ordonnances qui prescrivent moins de séances que nécessaire pour des raisons économiques",
+      "l'épuisement physique des journées de manipulation",
+      "la dimension émotionnelle des douleurs chroniques que le soin ne suffit pas à résoudre"
+    ],
+    "blessuresProfessionnelles": [
+      "douleurs chroniques propres, liées à la répétition des gestes de soin",
+      "difficulté à ne pas analyser les corps des gens dans la vie quotidienne",
+      "frustration face aux limites du corps humain et du système de soin"
+    ],
+    "usagesNarratifs": [
+      "personnage qui entend ce que les corps disent avant que les gens le formulent",
+      "figure utile dans des récits de rétablissement, de trauma ou de déni physique",
+      "son cabinet comme espace de confidence involontaire, similaire au coiffeur mais dans la vulnérabilité corporelle"
+    ],
+    "notesEditoriales": [
+      "Sa lecture des corps peut révéler des choses sur les autres personnages que les mots n'ont pas encore dites.",
+      "La rééducation est une métaphore narrative puissante : revenir sur quelque chose de cassé pour le refaire autrement."
+    ]
+  },
+  {
+    "id": "dentiste",
+    "label": "Dentiste",
+    "domaine": "santé, soin, médecine",
+    "definitionCourte": "Un personnage qui travaille dans un espace intime et souvent redouté, et qui a appris à rassurer des gens en état d'anxiété aiguë tout en faisant quelque chose de douloureux.",
+    "perceptionDuMonde": "Voit les gens dans une vulnérabilité très spécifique : allongés, bouche ouverte, incapables de parler. A développé une lecture des mimiques et des corps sous stress. Sait que la douleur dentaire est souvent la moins bien supportée.",
+    "signesDistinctifs": [
+      "voix particulièrement posée et rassurante, presque hypnotique",
+      "gestes très lents et annoncés avant d'être exécutés",
+      "regard professionnel sur les bouches, inconfort parfois en société face à de mauvaises dents",
+      "mains très stables, absence totale de tremblement sous pression",
+      "blouse blanche portée avec une identité professionnelle forte",
+      "protection de ses propres yeux et de son nez dans les espaces fermés",
+      "préférence pour les explications avant l'action, pour réduire l'anxiété"
+    ],
+    "langageSpecifique": [
+      "\"Vous allez sentir une petite pression\"",
+      "\"Respirez normalement\"",
+      "\"Ouvrez encore un peu\"",
+      "\"Ça va aller, c'est presque fini\"",
+      "vocabulaire de la précision et de la douceur, même pour des actes douloureux"
+    ],
+    "tensionsTypiques": [
+      "faire mal pour soigner : la contradiction fondamentale du métier",
+      "les patients qui reportent jusqu'à l'urgence par peur, rendant le soin plus difficile",
+      "la prise de risque infectieux permanente dans un espace confiné",
+      "le coût des soins non remboursés qui exclut une partie de la population",
+      "l'image négative du dentiste dans la culture populaire, difficile à déconstruire"
+    ],
+    "blessuresProfessionnelles": [
+      "dos et nuque usés par la posture courbée sur des patients allongés",
+      "exposition chronique aux produits chimiques et aux aérosols",
+      "absorption des angoisses des patients sans espace pour les déposer"
+    ],
+    "usagesNarratifs": [
+      "espace du cabinet comme scène de vulnérabilité forcée : le personnage ne peut pas fuir ni se défendre",
+      "figure rassurante mais ambivalente : fait du mal pour faire du bien",
+      "personnage dont la précision technique contraste avec l'imprévisibilité humaine des patients"
+    ],
+    "notesEditoriales": [
+      "Le cabinet dentaire est un des rares espaces où quelqu'un a le droit de mettre les mains dans la bouche d'un inconnu — l'intimité y est radicale.",
+      "Sa gestion de l'anxiété des autres est une compétence narrative sous-exploitée."
+    ]
+  }
+]

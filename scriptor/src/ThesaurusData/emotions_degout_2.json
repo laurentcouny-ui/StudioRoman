@@ -1,0 +1,320 @@
+[
+  {
+    "id": "ecoeurant",
+    "label": "Écœurement",
+    "famille": "degout-mepris",
+    "definitionCourte": "Dégoût moral intense provoqué par quelque chose d'injuste, de lâche ou de moralement inacceptable. L'écœurement ne porte pas sur l'odeur ou la matière mais sur les actions et les comportements humains.",
+
+    "signesPhysiques": [
+      "crispation du visage — front plissé, lèvres serrées",
+      "recul du corps ou du regard",
+      "geste de rejet ou d'éloignement",
+      "déglutition difficile — comme si quelque chose se passait vraiment dans la gorge",
+      "voix qui se tend légèrement",
+      "regard qui se détourne avec intention",
+      "sourire dur ou ironique à l'évocation de l'objet de l'écœurement"
+    ],
+
+    "sensationsInternes": [
+      "nausée légère — morale, pas physique",
+      "chaleur dans la poitrine — l'indignation a une texture proche",
+      "sentiment de souillure par contact — même si le contact est indirect",
+      "besoin de prendre de la distance",
+      "impression que quelque chose de fondamental a été transgressé"
+    ],
+
+    "pensees": [
+      "Comment peut-on faire ça ?",
+      "C'est dégradant.",
+      "Je ne veux pas de ça près de moi.",
+      "C'est exactement le genre de comportement que je déteste.",
+      "Comment ils peuvent vivre avec eux-mêmes ?",
+      "Je suis incapable d'y penser sans me sentir mal."
+    ],
+
+    "effetsVoixLangage": [
+      "ton qui se durcit ou qui tombe dans la froideur",
+      "mots choisis avec une précision dégoûtée — 'sordide', 'indigne', 'révoltant'",
+      "phrases courtes et définitives",
+      "refus de développer — certaines choses ne méritent pas qu'on les analyse",
+      "ironie acérée pour décrédibiliser l'objet de l'écœurement"
+    ],
+
+    "comportements": [
+      "évite l'objet de l'écœurement activement",
+      "peut en parler avec véhémence à ceux en qui il a confiance",
+      "peut chercher à alerter ou à agir contre ce qui l'écœure",
+      "ne peut pas feindre l'indifférence — la répulsion se voit",
+      "peut quitter un espace ou une conversation si la source est trop présente"
+    ],
+
+    "masquesPossibles": [
+      "neutralité forcée dans un contexte professionnel",
+      "humour qui déguise la répulsion en ironie",
+      "silence délibéré pour ne pas laisser voir à quel point c'est fort"
+    ],
+
+    "evolutionsPossibles": [
+      "action — l'écœurement comme moteur d'engagement",
+      "épuisement si l'objet de l'écœurement est omniprésent et inévitable",
+      "cynisme si l'écœurement ne mène nulle part",
+      "résolution si la source disparaît ou est corrigée"
+    ],
+
+    "contextesAggravants": [
+      "l'objet de l'écœurement est valorisé par d'autres",
+      "impossibilité de l'éviter",
+      "répétition ou normalisation de ce qui écœure"
+    ],
+
+    "contextesAttenuants": [
+      "distance physique ou émotionnelle",
+      "action possible contre la source",
+      "quelqu'un qui partage et valide l'écœurement"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Désapprobation morale", "description": "Quelque chose lui déplaît profondément mais n'envahit pas." },
+      { "niveau": 2, "label": "Répugnance morale", "description": "Ne peut pas y penser sans malaise. Évite le sujet." },
+      { "niveau": 3, "label": "Écœurement", "description": "Réaction physique et émotionnelle. Le corps est impliqué." },
+      { "niveau": 4, "label": "Révulsion morale", "description": "La source empoisonne le contexte. Ne peut pas fonctionner normalement en sa présence." },
+      { "niveau": 5, "label": "Dégoût total", "description": "L'écœurement est envahissant. Colore sa relation à tout ce qui lui est associé." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage avec un sens moral très développé",
+        "description": "L'écœurement est fréquent, profond, précis. Ce personnage a des standards élevés — et ils sont souvent déçus."
+      },
+      {
+        "profil": "Personnage pragmatique",
+        "description": "L'écœurement est géré, mis de côté si l'action requiert de rester. 'Je n'aime pas mais je fais ce qu'il faut.' La répulsion est réelle mais n'est pas un obstacle."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'écœurement moral est différent du dégoût physique — il peut coexister avec de l'admiration (écœuré d'admirer quelqu'un de corrompu).",
+      "Il est souvent mêlé d'indignation — les deux émotions se renforcent mutuellement.",
+      "Attention au cliché du personnage vertueux — l'écœurement bien écrit a aussi ses angles morts."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "prise-de-parole" },
+      { "type": "peut_suivre", "cible": "trahison" },
+      { "type": "souvent_associe_a", "cible": "indignation" },
+      { "type": "peut_evoluer_en", "cible": "cynisme" }
+    ]
+  },
+  {
+    "id": "aversion",
+    "label": "Aversion",
+    "famille": "degout-mepris",
+    "definitionCourte": "Distance active et durable vis-à-vis de quelque chose ou de quelqu'un qui provoque un rejet instinctif. L'aversion n'est pas un accès de dégoût mais une disposition stable.",
+
+    "signesPhysiques": [
+      "corps qui s'oriente naturellement loin de la source",
+      "regard qui ne s'y pose pas ou s'en détourne",
+      "tension légère mais constante en sa présence",
+      "langage corporel fermé — bras croisés, jambes tournées",
+      "distance physique maintenue systématiquement",
+      "absence de contact physique volontaire",
+      "ton sec et bref dans les interactions nécessaires"
+    ],
+
+    "sensationsInternes": [
+      "inconfort de fond en présence de la source",
+      "légère nausée ou crispation à certains stimuli",
+      "refus instinctif avant toute pensée consciente",
+      "tension dans les épaules et la nuque",
+      "absence de plaisir dans les interactions — même neutres"
+    ],
+
+    "pensees": [
+      "Je ne peux pas m'y faire.",
+      "Je ne sais pas pourquoi, mais non.",
+      "Je fais l'effort mais c'est épuisant.",
+      "C'est plus fort que moi.",
+      "Je n'aime pas la façon dont ça se passe quand il est là.",
+      "Il y a quelque chose qui ne va pas et je ne peux pas le nommer."
+    ],
+
+    "effetsVoixLangage": [
+      "réponses minimales — poli mais distant",
+      "ton qui manque de chaleur même quand le contenu est neutre",
+      "n'initie pas les conversations",
+      "coupe les échanges dès que c'est possible",
+      "ne donne pas de retours positifs même justifiés"
+    ],
+
+    "comportements": [
+      "évite la source quand c'est possible",
+      "organise sa vie pour minimiser le contact",
+      "fait le nécessaire en présence de la source mais sans plus",
+      "ne parle pas de l'aversion ouvertement — la gère en interne",
+      "peut parfois agir de manière injuste par aversion sans le reconnaître"
+    ],
+
+    "masquesPossibles": [
+      "politesse formelle — l'aversion cachée sous la correction",
+      "rationalisation — trouver des raisons précises à ce qui est surtout instinctif",
+      "transfert — critiquer les défauts réels de la source pour légitimer l'aversion"
+    ],
+
+    "evolutionsPossibles": [
+      "persistance indéfinie — certaines aversions ne se résolvent pas",
+      "réduction progressive si les interactions forcent la familiarité",
+      "déclenchement soudain si l'aversion est confirmée",
+      "réconciliation avec soi-même si le personnage comprend l'origine de l'aversion"
+    ],
+
+    "contextesAggravants": [
+      "obligation de coexister — collègue, colocataire, membre de la famille",
+      "aversion partagée par d'autres — amplifie la légitimation",
+      "comportement de la source qui confirme l'instinct"
+    ],
+
+    "contextesAttenuants": [
+      "distance géographique",
+      "interaction neutre et limitée",
+      "compréhension de l'origine de l'aversion — réduit son emprise"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère antipathie", "description": "Le personnage ne l'aime pas beaucoup mais ça ne l'occupe pas vraiment." },
+      { "niveau": 2, "label": "Aversion légère", "description": "L'évite quand c'est simple. La présence est légèrement inconfortable." },
+      { "niveau": 3, "label": "Aversion marquée", "description": "La présence est régulièrement inconfortable. Gère activement pour minimiser le contact." },
+      { "niveau": 4, "label": "Rejet instinctif fort", "description": "La présence devient difficile à supporter. Affecte ses comportements de manière visible." },
+      { "niveau": 5, "label": "Répulsion totale", "description": "Ne peut pas fonctionner normalement en présence de la source. La coexistence est un effort épuisant." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage très intuitif",
+        "description": "L'aversion est forte et immédiate. Ce personnage fait confiance à ses instincts et ne cherche pas toujours à les analyser."
+      },
+      {
+        "profil": "Personnage rationnel",
+        "description": "L'aversion le dérange — il ne comprend pas d'où elle vient et ça l'irrite. Il cherche des raisons concrètes pour la justifier ou pour la défaire."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'aversion instinctive est narrative parce qu'elle échappe au contrôle du personnage — c'est une émotion qu'il subit autant qu'il la produit.",
+      "Elle peut créer des injustices dans le récit : l'aversion peut viser quelqu'un d'inoffensif, et c'est le personnage qui en est le problème.",
+      "À distinguer du mépris (qui implique un jugement de valeur) et du rejet (qui est actif et ciblé)."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_masquer", "cible": "peur" },
+      { "type": "peut_evoluer_en", "cible": "mepris" },
+      { "type": "souvent_associe_a", "cible": "distance-relationnelle" }
+    ]
+  },
+  {
+    "id": "horreur",
+    "label": "Horreur",
+    "famille": "degout-mepris",
+    "definitionCourte": "Réaction intense de dégoût et de peur mêlés face à quelque chose qui transgresse profondément — une violence, une perversion, quelque chose d'incompréhensiblement contraire à l'humain.",
+
+    "signesPhysiques": [
+      "corps qui recule instinctivement",
+      "mains qui se lèvent pour protéger ou couvrir le visage",
+      "yeux qui se plissent ou se détournent",
+      "visage qui se distord — sourcils levés, bouche ouverte ou serrée",
+      "pâleur soudaine",
+      "nausée visible — mouvement de gorge",
+      "immobilité totale ou fuite"
+    ],
+
+    "sensationsInternes": [
+      "sensation de froid qui monte du ventre",
+      "révulsion qui part de la gorge",
+      "vertige bref",
+      "impression que quelque chose d'irréversible vient d'être vu ou compris",
+      "corps qui refuse — recule même si la volonté dit de rester",
+      "le cerveau qui ne veut pas croire ce que les yeux voient"
+    ],
+
+    "pensees": [
+      "Non.",
+      "Ce n'est pas possible.",
+      "Comment quelqu'un peut faire ça ?",
+      "Je ne veux pas avoir vu ça.",
+      "C'est trop.",
+      "Ça ne devrait pas exister."
+    ],
+
+    "effetsVoixLangage": [
+      "silence total ou cri étouffé",
+      "voix qui tremble ou qui manque",
+      "phrases incomplètes — les mots ne suivent pas",
+      "chuchotements quand la voix revient",
+      "répétition d'un mot — 'non', 'c'est horrible'"
+    ],
+
+    "comportements": [
+      "fuit physiquement ou se détourne",
+      "peut être paralysé pendant quelques secondes",
+      "cherche instinctivement une présence, un appui",
+      "a du mal à parler de ce qu'il a vu ou appris pendant un certain temps",
+      "peut se laver, se changer, faire quelque chose pour le corps — réflexe de nettoyage"
+    ],
+
+    "masquesPossibles": [
+      "pragmatisme forcé — 'il faut s'y faire dans ce métier'",
+      "humour noir comme bouclier",
+      "paralysie d'apparence calme qui masque le choc intérieur"
+    ],
+
+    "evolutionsPossibles": [
+      "traumatisme si l'horreur est trop intense ou répétée",
+      "récit comme exutoire — besoin de raconter pour digérer",
+      "distanciation progressive — l'horreur s'installe parfois en fond",
+      "engagement — certains personnages transforment l'horreur en raison d'agir"
+    ],
+
+    "contextesAggravants": [
+      "découverte soudaine, sans préambule",
+      "proximité physique avec la source",
+      "implication personnelle — si c'est lié à quelqu'un de connu",
+      "impossibilité de partir"
+    ],
+
+    "contextesAttenuants": [
+      "distance physique ou temporelle",
+      "présence de quelqu'un qui partage et contient",
+      "information qui explique ou contextualise"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Répugnance forte", "description": "Quelque chose choque profondément. Le personnage détourne le regard." },
+      { "niveau": 2, "label": "Révulsion", "description": "Réaction physique et émotionnelle. Le corps est impliqué." },
+      { "niveau": 3, "label": "Horreur", "description": "Choc profond. Le personnage a du mal à reprendre cours normalement." },
+      { "niveau": 4, "label": "Choc moral", "description": "L'horreur laisse une trace. Le personnage ne peut pas faire comme si ça n'avait pas existé." },
+      { "niveau": 5, "label": "Traumatisme par horreur", "description": "La vision ou la découverte s'installe durablement. Revient, perturbe, altère." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage exposé professionnellement à la violence",
+        "description": "Réaction atténuée en surface. Mais l'horreur s'accumule — et peut surgir sur quelque chose d'inattendu, de petit, quand le seuil est dépassé."
+      },
+      {
+        "profil": "Personnage abrité et peu exposé",
+        "description": "L'horreur est maximale, désorganisatrice. Ce personnage n'a pas de références pour absorber. La réaction est plus longue, plus profonde."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'horreur mêle dégoût et peur — c'est ce mélange qui la distingue.",
+      "Elle est souvent plus efficace montrée par le personnage que décrite directement — la réaction dit ce que la scène n'a pas besoin de montrer.",
+      "À doser avec soin : l'inflation de l'horreur dans un récit en émousse l'effet."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "fuite" },
+      { "type": "peut_evoluer_en", "cible": "traumatisme" },
+      { "type": "souvent_associe_a", "cible": "effroi" }
+    ]
+  }
+]

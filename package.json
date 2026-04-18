@@ -1,0 +1,18 @@
+{
+  "name": "scriptor-root",
+  "private": true,
+  "description": "L'app React (Vite) est dans le dossier scriptor/",
+  "scripts": {
+    "dev": "npm run dev --prefix scriptor",
+    "dev:diag": "npm run dev:diag --prefix scriptor",
+    "build": "npm run build --prefix scriptor",
+    "install:app": "cd scriptor && npm install",
+    "preview": "npm run preview --prefix scriptor",
+    "tauri:dev": "cd scriptor && npm run tauri:dev",
+    "tauri-dev": "cd scriptor && npm run tauri:dev",
+    "tauri:build": "cd scriptor && npm run tauri:build",
+    "tauri-build": "cd scriptor && npm run tauri:build",
+    "tauri:dist": "cd scriptor && npm run tauri:dist",
+    "tauri:dist-info": "cd scriptor && npm run tauri:dist-info"
+  }
+}

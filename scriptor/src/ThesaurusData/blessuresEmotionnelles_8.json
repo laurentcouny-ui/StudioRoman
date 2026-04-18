@@ -1,0 +1,700 @@
+[
+  {
+    "id": "perte-enfant",
+    "label": "Perte d'un enfant",
+    "famille": "deuil-perte",
+    "definitionCourte": "Mort ou disparition d'un enfant — la blessure qui brise l'ordre naturel des choses et laisse un vide qui ne se comble pas.",
+    "originesPossibles": [
+      "mort à la naissance ou en bas âge",
+      "accident",
+      "maladie",
+      "disparition sans explication",
+      "mort à l'âge adulte d'un enfant"
+    ],
+    "croyancesNegativesInduites": [
+      "J'aurais dû le protéger.",
+      "Ce n'est pas dans l'ordre naturel des choses.",
+      "Je ne méritais pas d'être parent.",
+      "Plus rien n'a de sens dans le bon ordre.",
+      "Tout bonheur est désormais provisoire et suspect."
+    ],
+    "peursCentrees": [
+      "peur de perdre encore — les proches restants sont survenus avec une anxiété accrue",
+      "peur que la joie soit punissable — sourire semble une trahison",
+      "peur de l'oubli — que personne d'autre ne se souvienne de l'enfant",
+      "peur d'avoir d'autres enfants — aimer à nouveau c'est risquer à nouveau"
+    ],
+    "comportementsDefensifs": [
+      "protège de façon excessive les autres enfants ou proches",
+      "évite tout ce qui rappelle l'enfant perdu — ou au contraire en parle en permanence",
+      "refuse de retirer les objets ou la chambre",
+      "se ferme aux nouvelles naissances dans son entourage",
+      "peut s'interdire d'avoir d'autres enfants"
+    ],
+    "conflitsInternesTypiques": [
+      "vouloir garder la mémoire vivante sans s'y noyer",
+      "aimer encore d'autres personnes en sachant que l'amour peut être perdu",
+      "être parent des vivants en pensant toujours à l'absent"
+    ],
+    "manifestationsPhysiques": [
+      "fatigue chronique qui ne ressemble pas à de la fatigue ordinaire",
+      "sensation physique de vide à la place de l'enfant — bras vides, ventre creux",
+      "difficultés à manger ou au contraire besoin compulsif de remplir quelque chose",
+      "insomnie ou sommeil de fuite qui ne répare pas",
+      "larmes soudaines déclenchées par des détails insignifiants"
+    ],
+    "declencheurs": [
+      "voir un enfant du même âge que celui perdu",
+      "une date anniversaire",
+      "une odeur ou une chanson liée à l'enfant",
+      "quelqu'un qui parle de ses enfants sans y penser",
+      "la chambre, les affaires, les photos"
+    ],
+    "cheminsVersResolution": [
+      "trouver une façon d'honorer l'enfant perdu qui permette de continuer à vivre",
+      "rencontrer d'autres parents qui ont traversé la même chose",
+      "permettre aux larmes de revenir sans les bloquer",
+      "accepter que le deuil d'un enfant ne finit pas — il change de forme"
+    ],
+    "impactRelationnel": [
+      "peut créer une distance avec le partenaire si le deuil est vécu différemment",
+      "difficultés à être pleinement présent pour les enfants restants",
+      "relations avec les autres parents parfois devenues impossibles",
+      "peut surinvestir une relation pour compenser le vide",
+      "cherche parfois inconsciemment à recréer l'enfant perdu dans une autre relation"
+    ],
+    "notesEditoriales": [
+      "Cette blessure ne se résout pas — elle s'intègre. Les personnages qui la portent ne 'guérissent' pas entièrement.",
+      "Éviter de la résoudre trop proprement : ce serait une trahison de la réalité.",
+      "Elle peut rendre un personnage à la fois plus fragile et plus solide qu'il n'y paraît."
+    ]
+  },
+  {
+    "id": "violence-physique-subie",
+    "label": "Violence physique subie",
+    "famille": "violence-trauma",
+    "definitionCourte": "Le personnage a été frappé, blessé ou maltraité physiquement par quelqu'un — partenaire, parent, inconnu — laissant une blessure dans le rapport au corps, à l'espace et aux autres.",
+    "originesPossibles": [
+      "violence conjugale",
+      "maltraitance dans l'enfance",
+      "agression dans l'espace public",
+      "violence institutionnelle",
+      "conflit armé ou guerre"
+    ],
+    "croyancesNegativesInduites": [
+      "Mon corps ne m'appartient pas vraiment.",
+      "Je suis vulnérable et personne ne peut me protéger.",
+      "Il vaut mieux ne pas provoquer.",
+      "Je méritais peut-être ce qui m'est arrivé.",
+      "La violence peut surgir de n'importe où."
+    ],
+    "peursCentrees": [
+      "peur des mouvements brusques et imprévisibles",
+      "peur d'être seul avec quelqu'un qui pourrait frapper",
+      "peur de son propre corps — de ce qu'il peut subir",
+      "peur de la colère des autres — même légère"
+    ],
+    "comportementsDefensifs": [
+      "surveille les sorties et les accès dans tout espace nouveau",
+      "sursaute aux mouvements brusques",
+      "évite le contact physique ou le subit avec rigidité",
+      "porte des vêtements qui cachent les traces ou le corps",
+      "développe une vigilance extrême aux variations de l'humeur des autres"
+    ],
+    "conflitsInternesTypiques": [
+      "désirer de la tendresse physique tout en ayant peur du contact",
+      "sentir que son corps est à la fois soi et quelque chose d'exposé",
+      "aimer quelqu'un tout en restant sur ses gardes avec lui"
+    ],
+    "manifestationsPhysiques": [
+      "sursaut involontaire face aux mouvements rapides près de lui",
+      "tension dans le corps quand quelqu'un lève le bras même innocemment",
+      "difficultés à s'endormir si quelqu'un dort dans la même pièce",
+      "douleurs chroniques sans cause organique claire",
+      "rapport au corps altéré — gestes prudents, espace vital préservé"
+    ],
+    "declencheurs": [
+      "une voix élevée dans un espace confiné",
+      "un geste brusque d'une personne proche",
+      "une odeur liée à l'auteur de la violence",
+      "une scène de violence physique même fictive",
+      "être seul avec quelqu'un de plus fort"
+    ],
+    "cheminsVersResolution": [
+      "retrouver un rapport au corps par le mouvement, le sport ou le soin",
+      "être dans un espace où le corps est en sécurité pendant longtemps",
+      "nommer ce qui s'est passé sans minimiser",
+      "rencontrer une présence physique entièrement sûre"
+    ],
+    "impactRelationnel": [
+      "difficultés à recevoir des gestes physiques d'affection sans se raidir",
+      "vigilance constante dans les relations proches — prêt à fuir",
+      "peut répéter le schéma de violence si non traité",
+      "peut choisir des partenaires très doux avec une étrange intensité",
+      "peur de montrer sa vulnérabilité physique même dans un contexte sûr"
+    ],
+    "notesEditoriales": [
+      "Le sursaut face aux mouvements brusques est l'un des signes les plus discrets et les plus puissants.",
+      "Le rapport au corps du personnage est modifié à long terme — à montrer dans les scènes de contact, de soin ou de proximité.",
+      "Distinguer la violence passée de la violence présente : les comportements différent."
+    ]
+  },
+  {
+    "id": "deuil-relation-non-officielle",
+    "label": "Deuil d'une relation non officielle",
+    "famille": "deuil-perte",
+    "definitionCourte": "Le personnage a perdu une relation que personne autour de lui ne reconnaît vraiment — amour secret, liaison cachée, relation interdite — et doit faire son deuil sans pouvoir le dire ni le montrer.",
+    "originesPossibles": [
+      "mort d'un amant ou d'une maîtresse non officielle",
+      "fin d'une relation cachée pour des raisons sociales ou familiales",
+      "deuil d'une amitié très proche que l'entourage ne comprenait pas",
+      "perte d'un enfant non officiellement reconnu",
+      "fin d'une relation avec une personne du même sexe dans un contexte hostile"
+    ],
+    "croyancesNegativesInduites": [
+      "Mon chagrin n'a pas le droit d'exister.",
+      "Personne ne peut comprendre ce que j'ai perdu.",
+      "Je dois faire semblant que ça ne compte pas.",
+      "Ce que je ressentais n'était pas légitime.",
+      "Je n'ai pas le droit aux rituels du deuil — ni aux condoléances."
+    ],
+    "peursCentrees": [
+      "peur d'être jugé si la relation est révélée",
+      "peur que personne ne valide la profondeur de ce deuil",
+      "peur de ne jamais pouvoir en parler à quiconque",
+      "peur que la relation soit réduite à quelque chose de honteux si elle était connue"
+    ],
+    "comportementsDefensifs": [
+      "dissimule son état de deuil",
+      "fuit les situations sociales où l'on pourrait lui demander comment il va",
+      "peut créer une distance pour ne pas avoir à expliquer",
+      "pleure seulement seul, jamais devant les autres",
+      "protège farouchement le souvenir de la relation"
+    ],
+    "conflitsInternesTypiques": [
+      "avoir besoin de parler et ne pas pouvoir le faire",
+      "sentir que la perte est réelle tout en n'ayant pas les mots légitimes pour la nommer",
+      "aimer une mémoire que personne d'autre ne partagera jamais"
+    ],
+    "manifestationsPhysiques": [
+      "fatigue de porter seul",
+      "gorge serrée quand le sujet approche sans que les autres le sachent",
+      "larmes retenues qui créent une tension thoracique durable",
+      "alimentation ou sommeil perturbés sans explication donnée aux proches",
+      "besoin de toucher des objets liés à la relation perdue"
+    ],
+    "declencheurs": [
+      "une date anniversaire que personne d'autre ne connaît",
+      "un lieu partagé avec la personne perdue",
+      "quelqu'un qui prononce son prénom dans un autre contexte",
+      "une musique ou une odeur liée à la relation",
+      "voir d'autres faire leur deuil ouvertement"
+    ],
+    "cheminsVersResolution": [
+      "trouver une personne à qui tout dire",
+      "créer un rituel de deuil privé qui valide la perte",
+      "nommer la relation et la perte, même à voix haute et seul",
+      "accepter que la légitimité du deuil ne dépend pas de la reconnaissance des autres"
+    ],
+    "impactRelationnel": [
+      "distance émotionnelle difficile à expliquer aux proches actuels",
+      "jalousie secrète envers ceux dont le deuil est reconnu",
+      "peut se fermer davantage à de nouvelles relations pour éviter la répétition",
+      "relations futures marquées par une prudence sur ce qu'il révèle"
+    ],
+    "notesEditoriales": [
+      "Ce type de deuil est particulièrement riche narrativement car il crée un personnage seul dans sa douleur visible.",
+      "Le fait qu'il ne puisse pas parler de ce qu'il perd génère une tension permanente entre intérieur et extérieur.",
+      "À ne pas réduire au triangle amoureux — le deuil non officiel peut concerner une relation de toute nature."
+    ]
+  },
+  {
+    "id": "echec-professionnel-majeur",
+    "label": "Échec professionnel majeur",
+    "famille": "echec-identite",
+    "definitionCourte": "Le personnage a raté quelque chose d'important dans sa carrière — faillite, licenciement, projet abandonné — et en a tiré des conclusions durables sur sa valeur et ses capacités.",
+    "originesPossibles": [
+      "faillite d'une entreprise personnelle",
+      "licenciement suivi d'une longue période sans emploi",
+      "projet ambitieux qui a échoué publiquement",
+      "promotion refusée ou poste perdu",
+      "travail disqualifié ou ignoré"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne suis pas aussi capable que je le croyais.",
+      "Je n'aurais pas dû viser si haut.",
+      "Les autres savent que j'ai échoué.",
+      "Je ne peux plus me faire confiance sur ce terrain.",
+      "L'ambition mène à la chute."
+    ],
+    "peursCentrees": [
+      "peur de réessayer et d'échouer à nouveau",
+      "peur d'être découvert comme incompétent",
+      "peur de l'ambition elle-même — ce qu'elle peut coûter",
+      "peur du regard des anciens témoins de l'échec"
+    ],
+    "comportementsDefensifs": [
+      "évite les projets ambitieux pour ne plus risquer",
+      "minimise ses compétences pour ne pas créer d'attentes",
+      "critique les ambitions des autres pour se protéger",
+      "se surcompense dans d'autres domaines",
+      "peut devenir perfectionniste à l'excès pour ne plus jamais faillir"
+    ],
+    "conflitsInternesTypiques": [
+      "vouloir réussir et avoir peur de réessayer",
+      "ambition qui survit à l'échec mais qui fait peur",
+      "se voir comme un imposteur même quand ça va bien"
+    ],
+    "manifestationsPhysiques": [
+      "nausée ou oppression thoracique à l'évocation de l'échec",
+      "difficultés à dormir quand un nouveau projet commence",
+      "fatigue psychosomatique dans les périodes de prise de risque",
+      "crispation physique lors des évaluations ou des feedbacks",
+      "fuite physique des anciens lieux ou des anciens collègues"
+    ],
+    "declencheurs": [
+      "quelqu'un qui pose des questions sur cette période",
+      "voir quelqu'un réussir dans le domaine où il a échoué",
+      "une situation similaire à celle de l'échec",
+      "un commentaire sur ses limites ou ses erreurs",
+      "une opportunité similaire à celle ratée"
+    ],
+    "cheminsVersResolution": [
+      "comprendre que l'échec n'est pas une identité",
+      "réussir quelque chose de plus petit et y trouver de la valeur",
+      "rencontrer quelqu'un qui a échoué et réessayé",
+      "donner du sens à l'échec — ce qu'il a appris"
+    ],
+    "impactRelationnel": [
+      "peut dévaloriser ses contributions dans les collaborations",
+      "difficultés à accepter les compliments sans les retourner",
+      "peut éviter les sujets professionnels dans les relations proches",
+      "peut être jaloux des réussites des autres sans le montrer",
+      "relations marquées par une pudeur autour de l'ambition et des projets"
+    ],
+    "notesEditoriales": [
+      "L'échec professionnel touche souvent à l'identité — en France particulièrement, le travail définit souvent la personne.",
+      "Il peut se loger dans une modestie excessive qui cache une ambition non résolue.",
+      "Le personnage peut avoir tout reconstruit extérieurement tout en portant l'échec intérieurement."
+    ]
+  },
+  {
+    "id": "negligence-parentale",
+    "label": "Négligence parentale",
+    "famille": "carence-affective",
+    "definitionCourte": "Le personnage a grandi avec des parents présents physiquement mais absents émotionnellement — pas d'attention, de reconnaissance, d'amour exprimé.",
+    "originesPossibles": [
+      "parents dépressifs ou malades",
+      "parents trop pris par leur travail ou leurs problèmes",
+      "parents qui confondaient subvention matérielle et présence affective",
+      "parents incapables d'exprimer l'amour",
+      "enfant invisible dans une fratrie nombreuse"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne suis pas assez intéressant pour mériter de l'attention.",
+      "Il faut se débrouiller seul.",
+      "Les besoins affectifs sont un luxe ou une faiblesse.",
+      "Si quelqu'un s'intéresse vraiment à moi, il y a un piège.",
+      "Je ne sais pas ce que c'est que d'être vraiment vu."
+    ],
+    "peursCentrees": [
+      "peur de demander quelque chose et de ne pas l'obtenir — encore",
+      "peur d'être trop exigeant ou trop lourd",
+      "peur que l'attention des autres soit temporaire et conditionnelle",
+      "peur de ne pas savoir comment recevoir de l'amour même quand il arrive"
+    ],
+    "comportementsDefensifs": [
+      "très autonome — ne demande pas d'aide",
+      "malaise devant les manifestations d'affection",
+      "peut chercher une validation qui ne vient jamais assez",
+      "accorde peu de valeur à ses propres besoins",
+      "peut sur-donner aux autres pour recevoir ce qu'il n'a pas eu"
+    ],
+    "conflitsInternesTypiques": [
+      "désirer la connexion émotionnelle tout en ne sachant pas comment la recevoir",
+      "prendre soin des autres sans savoir se laisser prendre en charge",
+      "sentir que quelque chose manque sans pouvoir le nommer"
+    ],
+    "manifestationsPhysiques": [
+      "inconfort physique lors des moments d'affection non sollicitée",
+      "légère rigidité aux touchers tendres — pas par rejet mais par désapprentissage",
+      "fatigue de la vigilance — toujours prêt à ne recevoir rien",
+      "tendance à minimiser ses douleurs physiques comme ses douleurs émotionnelles",
+      "besoin de mouvement ou d'action pour remplir le vide"
+    ],
+    "declencheurs": [
+      "voir une scène de tendresse parentale ordinaire",
+      "se retrouver dans une situation de dépendance",
+      "quelqu'un qui insiste pour prendre soin de lui",
+      "une remarque bienveillante qui surprend par son existence même",
+      "une période de maladie où il doit recevoir de l'aide"
+    ],
+    "cheminsVersResolution": [
+      "expérimenter une présence affective inconditionnelle",
+      "nommer ce qui a manqué sans minimiser",
+      "apprendre à exprimer ses besoins",
+      "accepter que la négligence n'était pas une question de valeur personnelle"
+    ],
+    "impactRelationnel": [
+      "difficultés à demander quoi que ce soit dans les relations",
+      "tend à s'effacer pour ne pas sembler avoir trop besoin",
+      "peut surinvestir le rôle de soignant pour donner ce qu'il n'a pas reçu",
+      "difficultés à croire que l'amour stable existe",
+      "peut mettre fin à une relation quand elle devient trop intime — peur de la dépendance"
+    ],
+    "notesEditoriales": [
+      "La négligence parentale est souvent plus difficile à identifier que la maltraitance — il n'y a pas de moment précis, juste une absence.",
+      "Les personnages qui en portent la trace peuvent sembler très forts et très fonctionnels en surface.",
+      "Ils ont souvent appris à ne pas avoir besoin — ce qui ne veut pas dire qu'ils n'ont pas besoin."
+    ]
+  },
+  {
+    "id": "exclusion-sociale-prolongee",
+    "label": "Exclusion sociale prolongée",
+    "famille": "rejet-appartenance",
+    "definitionCourte": "Le personnage a été mis de côté, ignoré ou rejeté de façon répétée et durable par un groupe — classe, lieu de travail, communauté — au point d'en avoir changé son rapport à l'appartenance.",
+    "originesPossibles": [
+      "harcèlement scolaire par mise à l'écart",
+      "ostracisme dans un groupe professionnel",
+      "exclusion d'une communauté religieuse ou culturelle",
+      "rejet lors d'une période de fragilité",
+      "différence qui rendait l'intégration impossible"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne suis pas fait pour appartenir à un groupe.",
+      "Les gens finissent toujours par m'exclure.",
+      "Il y a quelque chose en moi qui repousse les autres.",
+      "Mieux vaut ne pas trop s'attacher — ça finit toujours.",
+      "Je suis plus à l'aise seul qu'avec les autres."
+    ],
+    "peursCentrees": [
+      "peur d'intégrer un groupe et d'en être éjecté à nouveau",
+      "peur que les autres aient une conversation secrète sur lui",
+      "peur de ne pas comprendre les codes d'un groupe",
+      "peur que son exclusion soit méritée — qu'il y ait quelque chose qui cloche en lui"
+    ],
+    "comportementsDefensifs": [
+      "anticipe le rejet avant qu'il arrive",
+      "se retire avant d'être exclu",
+      "préfère les relations à deux aux groupes",
+      "surinvestit une relation pour compenser",
+      "peut être excessivement agréable pour se rendre indispensable"
+    ],
+    "conflitsInternesTypiques": [
+      "désirer l'appartenance tout en n'y croyant plus",
+      "chercher un groupe tout en fuyant l'intégration réelle",
+      "tester les autres pour voir s'ils vont finir par le rejeter"
+    ],
+    "manifestationsPhysiques": [
+      "tension physique dans les espaces de groupe — vigilance des corps autour de lui",
+      "difficultés à manger ou boire en groupe — sensation d'être observé",
+      "rougissement ou rigidité dans les moments de présentation à un groupe",
+      "posture de retrait en présence de plusieurs personnes",
+      "soulagement physique visible quand il peut partir"
+    ],
+    "declencheurs": [
+      "un groupe qui rit d'une blague qu'il n'a pas entendue",
+      "une réunion où il n'est pas inclus alors qu'il aurait dû l'être",
+      "voir quelqu'un d'autre exclu — projection immédiate",
+      "une conversation à laquelle il n'a pas été invité",
+      "le sentiment que tout le monde se connaît sauf lui"
+    ],
+    "cheminsVersResolution": [
+      "trouver un groupe où l'appartenance est réelle et durable",
+      "ne pas être rejeté après avoir montré sa vraie nature",
+      "comprendre que l'exclusion passée disait quelque chose du groupe, pas de lui"
+    ],
+    "impactRelationnel": [
+      "relations dyadiques très intenses — met tout dans les rares liens forts",
+      "peut étouffer ses proches par un besoin de confirmation",
+      "difficultés à faire confiance aux groupes comme entités",
+      "peut fuir avant que l'exclusion arrive, se privant de liens réels",
+      "jalousie discrète envers ceux qui semblent appartenir naturellement"
+    ],
+    "notesEditoriales": [
+      "L'exclusion prolongée crée souvent un personnage qui préfère être seul plutôt que d'espérer et d'être déçu.",
+      "Ce besoin d'appartenance non résolu peut le pousser vers des groupes toxiques qui l'acceptent inconditionnellement.",
+      "Il peut tester les nouveaux proches de façon inconsciente."
+    ]
+  },
+  {
+    "id": "honte-familiale",
+    "label": "Honte familiale héritée",
+    "famille": "honte-identite",
+    "definitionCourte": "Le personnage porte une honte transmise par sa famille — actes commis par ses parents ou ancêtres, réputation du nom, secrets enfouis — une honte qui n'est pas la sienne mais qu'il porte comme si elle l'était.",
+    "originesPossibles": [
+      "ancêtre collaborateur, criminel ou traître",
+      "parent alcoolique ou dépendant connu de tous",
+      "pauvreté ou déclassement visible dans la communauté",
+      "scandale familial public",
+      "secret de famille révélé ou non"
+    ],
+    "croyancesNegativesInduites": [
+      "Mon nom porte quelque chose de souillé.",
+      "Je dois compenser pour ce que les miens ont fait.",
+      "Les gens me jugent à travers ma famille.",
+      "Je ne peux pas me défaire entièrement d'où je viens.",
+      "Il y a quelque chose en moi qui pourrait reproduire ça."
+    ],
+    "peursCentrees": [
+      "peur d'être associé aux actes de sa famille",
+      "peur que la honte soit héréditaire — qu'il en soit porteur",
+      "peur que les autres sachent d'où il vient",
+      "peur de reproduire ce dont il a honte"
+    ],
+    "comportementsDefensifs": [
+      "cache ou minimise son origine familiale",
+      "se crée une identité nouvelle indépendante du nom",
+      "sur-performe pour effacer la honte",
+      "peut couper les liens avec la famille",
+      "peut au contraire surinvestir la famille pour la racheter"
+    ],
+    "conflitsInternesTypiques": [
+      "aimer les siens et avoir honte d'eux",
+      "vouloir appartenir à son histoire tout en en ayant honte",
+      "ne pas savoir si la honte est justifiée ou injuste"
+    ],
+    "manifestationsPhysiques": [
+      "réaction physique de recul quand le nom de famille est prononcé en public",
+      "rougissement ou tension quand l'origine est mentionnée",
+      "gêne corporelle dans les espaces de son enfance ou de sa famille",
+      "malaise physique aux réunions de famille",
+      "vigilance du regard des autres dans les contextes où son identité est connue"
+    ],
+    "declencheurs": [
+      "quelqu'un qui reconnaît son nom",
+      "une question sur sa famille ou ses origines",
+      "un document, une photo ou un objet lié à la honte familiale",
+      "voir son nom écrit dans un contexte public",
+      "quelqu'un qui fait allusion à l'histoire familiale"
+    ],
+    "cheminsVersResolution": [
+      "distinguer ce qui lui appartient de ce qui appartient à ses aïeux",
+      "regarder l'histoire familiale en face sans la nier ni l'endosser",
+      "trouver des éléments de dignité dans son histoire",
+      "rencontrer quelqu'un qui ne le juge pas sur son nom"
+    ],
+    "impactRelationnel": [
+      "cache longtemps son origine aux personnes proches",
+      "peut choisir des partenaires sans passé familial connu pour 'repartir à zéro'",
+      "difficultés à parler de sa famille de façon neutre",
+      "peut s'éloigner de quiconque connaît son histoire",
+      "relations marquées par une honte diffuse qu'il ne peut pas nommer"
+    ],
+    "notesEditoriales": [
+      "La honte familiale héritée crée des personnages coincés entre loyauté et libération.",
+      "Elle peut être moteur d'ambition (vouloir effacer la honte) ou de paralysie (elle semble insurmontable).",
+      "Distinguer la honte personnelle de la honte héritée : l'une est liée à un acte, l'autre à une appartenance."
+    ]
+  },
+  {
+    "id": "accident-traumatisant",
+    "label": "Accident traumatisant",
+    "famille": "trauma-controle",
+    "definitionCourte": "Le personnage a survécu à un accident grave — voiture, noyade, chute, incendie — qui a laissé une empreinte physique ou psychologique sur son rapport au danger, au contrôle et à la mort.",
+    "originesPossibles": [
+      "accident de voiture avec ou sans blessures graves",
+      "noyade ou quasi-noyade",
+      "incendie",
+      "chute importante",
+      "accident industriel ou de travail"
+    ],
+    "croyancesNegativesInduites": [
+      "Je n'ai aucun contrôle sur ce qui peut m'arriver.",
+      "Le danger peut surgir à tout moment.",
+      "Mon corps est vulnérable.",
+      "Je pourrai mourir de façon absurde et soudaine.",
+      "Personne ne peut vraiment me protéger."
+    ],
+    "peursCentrees": [
+      "peur du contexte exact de l'accident — voiture, eau, hauteur",
+      "peur de perdre le contrôle d'une situation",
+      "peur de mourir de façon absurde ou inutile",
+      "peur de revivre l'impuissance totale du moment"
+    ],
+    "comportementsDefensifs": [
+      "évite les situations similaires à l'accident",
+      "hypervigilance dans les transports ou espaces concernés",
+      "vérifie excessivement les issues de secours",
+      "peut développer des rituels de sécurité",
+      "évite de parler de l'accident ou y revient de façon compulsive"
+    ],
+    "conflitsInternesTypiques": [
+      "vouloir vivre pleinement et avoir peur du danger",
+      "savoir que l'accident était exceptionnel mais ne pas pouvoir le ressentir",
+      "sentir que les autres ne comprennent pas l'intensité de ce qui reste"
+    ],
+    "manifestationsPhysiques": [
+      "sursaut ou freezing dans le contexte de l'accident (voiture, eau…)",
+      "réaction physique involontaire à un son ou une sensation liée à l'accident",
+      "tensions chroniques dans les zones blessées même après guérison",
+      "nausée ou palpitations dans les situations rappelant l'accident",
+      "hyper-conscience du corps dans les espaces de danger potentiel"
+    ],
+    "declencheurs": [
+      "un son similaire à celui de l'accident",
+      "être dans le même type de véhicule ou d'espace",
+      "une odeur associée au moment",
+      "quelqu'un qui parle d'un accident similaire",
+      "une situation qui génère la même perte de contrôle"
+    ],
+    "cheminsVersResolution": [
+      "exposition progressive et contrôlée à ce qui fait peur",
+      "mettre des mots sur ce qui s'est passé",
+      "intégrer l'expérience sans la nier ni la fuir",
+      "retrouver une forme de contrôle même partielle"
+    ],
+    "impactRelationnel": [
+      "peut devenir sur-protecteur envers les proches dans les situations de danger",
+      "difficultés à laisser les autres conduire ou décider dans des contextes risqués",
+      "peut générer de l'anxiété chez ses proches par sa vigilance",
+      "peut fuir les personnes qui prennent des risques",
+      "relation à la mort différente — peut en parler plus ou au contraire ne jamais y toucher"
+    ],
+    "notesEditoriales": [
+      "L'accident traumatisant peut laisser des réactions physiques involontaires longtemps après — sursauts, freezing, sensations.",
+      "Le personnage peut avoir l'air 'guéri' et être déclenché par un détail sensoriel inattendu.",
+      "À distinguer du risque calculé : après un accident, même les risques raisonnables peuvent être vécus comme mortels."
+    ]
+  },
+  {
+    "id": "rejet-amoureux-brutal",
+    "label": "Rejet amoureux brutal",
+    "famille": "rejet-appartenance",
+    "definitionCourte": "Le personnage a été rejeté de façon soudaine ou cruelle par quelqu'un qu'il aimait — rupture sans explication, abandon, humiliation dans le contexte amoureux.",
+    "originesPossibles": [
+      "rupture soudaine sans raison donnée",
+      "être quitté pour quelqu'un d'autre sans le savoir",
+      "déclaration d'amour rejetée avec mépris",
+      "abandon en situation de vulnérabilité",
+      "rejet public ou humiliant"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne suis pas suffisant pour être aimé vraiment.",
+      "Si quelqu'un me connaît vraiment, il finira par partir.",
+      "L'amour mène toujours à la douleur.",
+      "Je mets trop dans les relations.",
+      "Mieux vaut ne pas trop vouloir."
+    ],
+    "peursCentrees": [
+      "peur de se déclarer — d'être vu et rejeté à nouveau",
+      "peur que l'amour exprimé donne à l'autre le pouvoir de faire mal",
+      "peur que chaque relation finisse de la même façon",
+      "peur d'être connu — plus on en sait, plus on peut blesser"
+    ],
+    "comportementsDefensifs": [
+      "se protège en ne s'investissant qu'à moitié",
+      "quitte avant d'être quitté",
+      "évite de déclarer ses sentiments",
+      "peut multiplier les relations superficielles",
+      "surveille les signes de désintérêt avec anxiété"
+    ],
+    "conflitsInternesTypiques": [
+      "désirer l'intimité et avoir peur d'elle",
+      "tomber amoureux et en avoir peur en même temps",
+      "vouloir être connu et craindre que la connaissance entraîne le rejet"
+    ],
+    "manifestationsPhysiques": [
+      "oppression thoracique dans les moments d'approche intime",
+      "nausée légère avant de déclarer ou de s'exposer émotionnellement",
+      "tension physique pendant les premières semaines d'une nouvelle relation",
+      "soulagement physique intense quand une relation prend fin — même si c'est douloureux",
+      "hypersensibilité aux tons de voix du partenaire — cherche les signaux d'alarme"
+    ],
+    "declencheurs": [
+      "la même musique, le même lieu que lors du rejet",
+      "quelqu'un qui ressemble à la personne qui a rejeté",
+      "une situation similaire — déclaration imminente, moment de vulnérabilité",
+      "voir des couples heureux sans raison apparente",
+      "quelqu'un qui s'éloigne ou répond moins"
+    ],
+    "cheminsVersResolution": [
+      "être aimé de façon constante malgré les défauts montrés",
+      "nommer la peur du rejet à quelqu'un qui reste",
+      "comprendre que le rejet passé n'était pas une évaluation définitive",
+      "aimer sans garantie et s'en sortir quand même"
+    ],
+    "impactRelationnel": [
+      "partenaires souvent choisis pour leur sécurité émotionnelle plus que leur attraction",
+      "can créer des relations asymétriques — il donne peu pour ne pas donner trop",
+      "peut provoquer inconsciemment le rejet pour valider sa croyance",
+      "difficultés à recevoir des preuves d'amour sans les minimiser",
+      "jalousie possible mais rarement exprimée directement"
+    ],
+    "notesEditoriales": [
+      "Le rejet amoureux brutal crée souvent des personnages qui semblent détachés mais surveillent intensément.",
+      "La peur du rejet peut se manifester par une distance ironique ou une gentillesse excessive.",
+      "Distinguer de la peur d'aimer en général : ici il y a un événement précis qui l'a installé."
+    ]
+  },
+  {
+    "id": "rupture-croyance-fondamentale",
+    "label": "Rupture d'une croyance fondamentale",
+    "famille": "perte-sens",
+    "definitionCourte": "Le personnage a perdu une croyance centrale qui organisait sa vie — foi religieuse, idéal politique, confiance en une institution — et se retrouve sans fondement là où tout tenait.",
+    "originesPossibles": [
+      "perte de foi après un événement traumatisant",
+      "découverte d'une corruption dans une institution admirée",
+      "trahison d'un mentor ou d'un guide spirituel",
+      "révélation historique qui effondre un récit national ou familial",
+      "désillusion politique profonde"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne peux me fier à aucune grande vérité.",
+      "Tout ce en quoi je croyais était naïf.",
+      "Je me suis laissé avoir.",
+      "Il n'y a pas de sens à chercher.",
+      "Les idéaux finissent toujours par décevoir."
+    ],
+    "peursCentrees": [
+      "peur de croire à nouveau — et d'être trompé encore",
+      "peur que sa naïveté passée soit permanente",
+      "peur du vide — de n'avoir rien qui organise le monde",
+      "peur que le cynisme soit la seule posture honnête"
+    ],
+    "comportementsDefensifs": [
+      "cynisme comme protection contre une nouvelle déception",
+      "refus des engagements forts",
+      "moquerie envers ceux qui croient encore",
+      "recherche compulsive d'une nouvelle croyance",
+      "vide qui le pousse vers n'importe quoi qui offre du sens"
+    ],
+    "conflitsInternesTypiques": [
+      "besoin de sens et refus de croire à nouveau",
+      "mépris de ceux qui ont des convictions et envie secrète d'en avoir aussi",
+      "nostalgie de la certitude et incapacité à y retourner"
+    ],
+    "manifestationsPhysiques": [
+      "fatigue existentielle qui n'est pas physique mais se lit dans le corps",
+      "absence d'élan — les gestes sont plus lents, moins décidés",
+      "apathie physique dans les contextes qui réclament de l'enthousiasme",
+      "légère nausée ou malaise lors des rituels liés à la croyance perdue",
+      "détachement somatique dans les espaces qui portaient la croyance (église, réunion politique)"
+    ],
+    "declencheurs": [
+      "rencontrer quelqu'un qui croit encore sincèrement",
+      "une situation où la foi passée aurait aidé",
+      "un lieu ou un objet lié à la croyance perdue",
+      "une question directe sur ce qu'il croit",
+      "voir de l'injustice sans avoir de cadre pour l'expliquer"
+    ],
+    "cheminsVersResolution": [
+      "trouver un sens construit et non hérité",
+      "accepter l'incertitude comme condition d'une croyance adulte",
+      "trouver quelque chose de plus petit et de plus ancré que la grande croyance perdue",
+      "rencontrer quelqu'un qui croit sans naïveté"
+    ],
+    "impactRelationnel": [
+      "peut être perçu comme cynique ou nihiliste par ses proches",
+      "difficultés à partager des rituels ou des célébrations collectives",
+      "peut déstabiliser les croyants de son entourage par ses doutes",
+      "relations marquées par une quête de sens qui peut peser",
+      "jalousie discrète envers ceux qui semblent trouver du sens facilement"
+    ],
+    "notesEditoriales": [
+      "La rupture de croyance crée souvent un vide que le personnage comble de façon dangereuse.",
+      "Elle peut rendre quelqu'un vulnérable aux groupes radicaux qui lui offrent une certitude de remplacement.",
+      "Le cynisme n'est souvent que de la foi blessée — à montrer sous la surface."
+    ]
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "reprendre-le-controle",
+    "label": "Reprendre le contrôle",
+    "famille": "contrôle et évitement",
+    "definitionCourte": "Le personnage agit pour récupérer une maîtrise qu'il a perdue — sur sa vie, une situation, une relation ou lui-même. Ce moteur naît d'une expérience d'impuissance et de la détermination à ne jamais la revivre.",
+
+    "moteurProfond": "J'ai été impuissant. Je ne le serai plus jamais. Tant que j'agis, je contrôle.",
+
+    "formesConscientes": [
+      "Cette fois, c'est moi qui décide.",
+      "Je ne me laisserai plus jamais mettre dans cette position.",
+      "Il faut que j'aie la main.",
+      "Si je ne fais rien, ça va m'échapper encore."
+    ],
+
+    "formesInconscientes": [
+      "L'impuissance m'a défini une fois — agir l'efface.",
+      "Tant que je contrôle, rien de ce qui s'est passé ne peut se répéter.",
+      "La peur panique me reprend dès que je sens que je perds le contrôle."
+    ],
+
+    "signesComportementaux": [
+      "besoin de maîtriser les détails — même ceux qui ne le concernent pas directement",
+      "résistance à être dirigé ou à ne pas savoir",
+      "planification excessive — préparer pour tous les scénarios",
+      "réaction forte aux imprévus",
+      "difficulté à déléguer ou à faire confiance"
+    ],
+
+    "enjeux": [
+      "si le contrôle est possible dans la situation donnée",
+      "ce que le personnage sacrifie en vivant dans le contrôle",
+      "ce qui se passe quand le contrôle échappe malgré tout"
+    ],
+
+    "risques": [
+      "aliéner les autres par le besoin de contrôle",
+      "rater ce qui ne peut pas être contrôlé — l'imprévu, l'autre",
+      "épuisement — tenir le contrôle use plus que de le lâcher",
+      "revivre l'impuissance initiale au moment du lâchage forcé"
+    ],
+
+    "masquesPossibles": [
+      "efficacité présentée comme compétence — 'je suis organisé'",
+      "leadership affiché qui cache un besoin de ne pas être dominé",
+      "perfectionnisme comme forme de contrôle de l'image de soi"
+    ],
+
+    "evolutionsPossibles": [
+      "lâcher prise — découverte que l'impuissance n'est pas toujours catastrophique",
+      "confiance accordée à quelqu'un — et tenue",
+      "moment de perte de contrôle totale — et survie",
+      "transformation — le contrôle se déplace de l'externe vers l'interne"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "traitsDeCaractere", "cible": "autoritaire", "note": "quand ce moteur se cristallise en trait de caractère" },
+      { "famille": "blessuresEmotionnelles", "cible": "impuissance-passee", "note": "l'expérience fondatrice de ce moteur" },
+      { "famille": "dynamiquesRelationnelles", "cible": "protection-qui-derive-en-controle", "note": "quand le moteur de contrôle s'exprime dans les relations" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est l'un des plus répandus chez les personnages qui ont vécu un trauma — le contrôle comme réponse à l'impuissance passée.",
+      "La différence entre contrôle sain et contrôle problématique est souvent dans ce qu'il coûte aux autres.",
+      "La résolution n'est pas forcément le lâcher prise total — mais la capacité à tolérer l'incertitude."
+    ]
+  },
+  {
+    "id": "eviter-de-repeter-une-catastrophe",
+    "label": "Éviter de répéter une catastrophe",
+    "famille": "contrôle et évitement",
+    "definitionCourte": "Le personnage agit pour empêcher que quelque chose de terrible qui s'est déjà produit — de son fait ou non — ne se reproduise. Il est l'unique rempart entre le passé et l'avenir.",
+
+    "moteurProfond": "Ça s'est passé une fois. Je ne laisserai pas ça se reproduire. Si ça se reproduit, ce sera de ma faute.",
+
+    "formesConscientes": [
+      "Je sais ce qui arrive quand on ne fait rien.",
+      "La prochaine fois sera de ma responsabilité.",
+      "Je dois être là pour que ça n'arrive plus.",
+      "Les signes étaient là avant. Cette fois, je les vois."
+    ],
+
+    "formesInconscientes": [
+      "Ma vigilance est la seule chose entre eux et le désastre.",
+      "Si quelque chose arrive, c'est que j'ai failli.",
+      "Je ne serai jamais en paix tant que le risque existe."
+    ],
+
+    "signesComportementaux": [
+      "vigilance soutenue — lit les signes avant-coureurs là où les autres ne voient rien",
+      "intervention préventive excessive — agit avant que le problème se pose vraiment",
+      "incapacité à se reposer quand la menace n'est pas complètement neutralisée",
+      "hyperréactivité aux situations qui ressemblent à la catastrophe passée",
+      "système d'alerte intérieur qui tourne en permanence"
+    ],
+
+    "enjeux": [
+      "si la catastrophe peut vraiment être évitée ou si certaines choses sont hors de contrôle",
+      "ce que la vigilance permanente coûte au personnage",
+      "si son intervention préventive est utile ou si elle crée de nouveaux problèmes"
+    ],
+
+    "risques": [
+      "épuisement de la vigilance — ne jamais se détendre",
+      "sur-intervention qui crée ce qu'elle voulait éviter",
+      "transmettre la peur à ceux qu'il veut protéger",
+      "la catastrophe qui arrive malgré tout — effondrement de l'identité de gardien"
+    ],
+
+    "masquesPossibles": [
+      "prudence présentée comme sagesse",
+      "compétence pratique qui cache une anxiété de fond",
+      "leadership de crise qui masque un besoin de contrôler l'issue"
+    ],
+
+    "evolutionsPossibles": [
+      "la catastrophe évitée — et moment de relâchement",
+      "la catastrophe qui arrive malgré tout — et reconstruction",
+      "délégation — accepter que d'autres aussi peuvent veiller",
+      "paix — accepter qu'on ne peut pas tout prévenir"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "blessuresEmotionnelles", "cible": "trauma", "note": "la catastrophe passée comme blessure fondatrice" },
+      { "famille": "emotions", "cible": "anxiete", "note": "l'état émotionnel de fond lié à ce moteur" },
+      { "famille": "motivations", "cible": "reprendre-le-controle", "note": "le moteur de contrôle dont celui-ci est une forme spécifique" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur crée des personnages qui vivent dans l'avenir — toujours à anticiper — au lieu de vivre le présent.",
+      "Il est particulièrement fort dans les récits où le passé traumatique revient sous une nouvelle forme.",
+      "La question-clé : est-ce que sa vigilance aide vraiment ou est-ce qu'elle enferme ?"
+    ]
+  },
+  {
+    "id": "cacher-sa-faiblesse",
+    "label": "Cacher sa faiblesse",
+    "famille": "contrôle et évitement",
+    "definitionCourte": "Le personnage agit pour qu'on ne voie pas ce qui le fragilise — une peur, une limite, une dépendance, une douleur. Ce moteur génère une performance permanente et un épuisement que les autres ne voient pas.",
+
+    "moteurProfond": "Si quelqu'un voit ma faiblesse, il l'utilisera. Ou il partira. Je ne peux pas me permettre d'être vu vulnérable.",
+
+    "formesConscientes": [
+      "Je n'ai pas le droit de fléchir devant eux.",
+      "Si je montre la peur, tout s'effondre.",
+      "Ma faiblesse est mon problème — pas le leur.",
+      "Personne ne doit savoir."
+    ],
+
+    "formesInconscientes": [
+      "La faiblesse est une invitation à être blessé.",
+      "Si on me voit vraiment, on ne voudra plus de moi.",
+      "Être fort est la seule façon d'être en sécurité."
+    ],
+
+    "signesComportementaux": [
+      "contrôle du langage corporel — ne pas laisser paraître",
+      "humour ou légèreté qui désamorcent avant que la question soit posée",
+      "aide systématiquement offerte, jamais demandée",
+      "départ avant que la faiblesse soit visible",
+      "minimisation des difficultés — 'ça va, je gère'"
+    ],
+
+    "enjeux": [
+      "le coût de la performance — jusqu'où peut-il tenir",
+      "si quelqu'un voit quand même — et comment ça se passe",
+      "si la faiblesse cachée est vraiment une faiblesse ou une humanité normale"
+    ],
+
+    "risques": [
+      "isolation — personne ne peut vraiment aider quelqu'un qui n'admet rien",
+      "effondrement brutal quand le masque ne tient plus",
+      "manquer de soutien au moment où il en aurait le plus besoin",
+      "enseigner à son entourage qu'il ne faut pas montrer ses faiblesses"
+    ],
+
+    "masquesPossibles": [
+      "force affichée — posture, ton, style",
+      "compétence excessive dans d'autres domaines qui compense",
+      "ironie permanente qui empêche l'approche sincère"
+    ],
+
+    "evolutionsPossibles": [
+      "quelqu'un qui voit — et reste",
+      "moment de révélation forcée — et découverte que ce n'est pas la fin",
+      "lien créé précisément par le moment de faiblesse montrée",
+      "décision de montrer — et vulnérabilité choisie"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "emotions", "cible": "honte", "note": "la honte comme raison de cacher" },
+      { "famille": "traitsDeCaractere", "cible": "orgueil", "note": "quand la protection de l'image vient de l'orgueil" },
+      { "famille": "dynamiquesRelationnelles", "cible": "distance-affective", "note": "la dynamique relationnelle qui découle de ce moteur" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est extrêmement répandu dans les personnages d'action, de leadership ou de survie — et rarement montré avec toute sa complexité.",
+      "La faiblesse cachée dit quelque chose sur ce que le personnage croit qu'on ferait s'il la voyait.",
+      "Le moment de révélation est presque toujours une scène forte — ce qui change dépend de qui est là."
+    ]
+  },
+  {
+    "id": "garder-l-autre-proche-par-peur",
+    "label": "Garder l'autre proche par peur",
+    "famille": "contrôle et évitement",
+    "definitionCourte": "Le personnage agit pour maintenir quelqu'un dans sa vie — non par amour véritable, mais par peur de ce qui arriverait si cet autre partait. Il confond l'attachement et la dépendance.",
+
+    "moteurProfond": "Sans lui, je ne sais pas ce que je suis. Tant qu'il est là, je suis en sécurité.",
+
+    "formesConscientes": [
+      "J'ai besoin de lui.",
+      "Si elle part, je suis seul.",
+      "Je ne veux pas perdre ça.",
+      "Il ne doit pas voir d'autres options."
+    ],
+
+    "formesInconscientes": [
+      "Ma valeur dépend de sa présence.",
+      "Être quitté confirmerait ce que je crains de moi-même.",
+      "Tenir l'autre est la seule façon que j'ai de tenir moi."
+    ],
+
+    "signesComportementaux": [
+      "surveillance de l'autre — ses liens, ses absences",
+      "comportements qui rendent le départ difficile — dépendances créées",
+      "jalousie ou possessivité disproportionnée",
+      "aide ou sacrifice excessifs pour rendre l'autre redevable",
+      "sabotage inconscient des liens de l'autre avec d'autres"
+    ],
+
+    "enjeux": [
+      "si ce lien est réel ou construit sur la peur",
+      "ce que le personnage deviendrait si l'autre partait vraiment",
+      "si l'autre sent ce qui se passe et comment il y répond"
+    ],
+
+    "risques": [
+      "étouffement de l'autre — qui finit par partir pour cette raison-là",
+      "lien maintenu qui n'est plus nourri que par la peur",
+      "passer à côté de liens réels pour tenir un lien de sécurité",
+      "confirmation de la peur si l'autre part malgré tout"
+    ],
+
+    "masquesPossibles": [
+      "amour exprimé en termes de besoin — 'j'ai besoin de toi'",
+      "aide et soin comme façon de se rendre indispensable",
+      "jalousie présentée comme preuve d'amour"
+    ],
+
+    "evolutionsPossibles": [
+      "prise de conscience — voir que ce n'est pas de l'amour mais de la peur",
+      "lâcher prise — laisser l'autre libre et voir si le lien survit",
+      "départ de l'autre — et travail de reconstruction",
+      "transformation en amour réel — si le personnage guérit sa dépendance"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "dynamiquesRelationnelles", "cible": "dependance-affective", "note": "la dynamique relationnelle de ce moteur" },
+      { "famille": "blessuresEmotionnelles", "cible": "abandon-enfance", "note": "la blessure fondatrice souvent à l'origine" },
+      { "famille": "emotions", "cible": "jalousie", "note": "l'état émotionnel associé" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est distinct de l'amour — la distinction est dans ce qui se passe quand l'autre est libre.",
+      "Il est narrativement intéressant parce qu'il crée un personnage qui aime ET blesse en même temps.",
+      "La prise de conscience est souvent déclenchée par quelqu'un de l'extérieur qui voit ce que le personnage ne voit pas."
+    ]
+  },
+  {
+    "id": "eviter-d-avoir-a-choisir",
+    "label": "Éviter d'avoir à choisir",
+    "famille": "contrôle et évitement",
+    "definitionCourte": "Le personnage agit — ou n'agit pas — pour retarder ou contourner un choix impossible. Tenir les deux, maintenir l'ambiguïté, rester dans l'entre-deux. La non-décision comme stratégie.",
+
+    "moteurProfond": "Choisir, c'est perdre. Tant que je n'ai pas choisi, les deux options restent possibles.",
+
+    "formesConscientes": [
+      "Je ne suis pas encore prêt.",
+      "Il y a peut-être une troisième option.",
+      "Si j'attends, peut-être que ça se résoudra tout seul.",
+      "Je ne veux pas blesser en choisissant."
+    ],
+
+    "formesInconscientes": [
+      "Choisir me rend responsable de ce qui suit.",
+      "Ne pas choisir me protège — on ne peut pas me reprocher une décision que je n'ai pas prise.",
+      "Je n'ai pas confiance en mon propre jugement."
+    ],
+
+    "signesComportementaux": [
+      "reports répétés de décisions importantes",
+      "maintien de situations contradictoires — deux engagements, deux loyautés",
+      "réponses floues — ni oui ni non",
+      "agitation autour de la question sans avancement",
+      "délégation de la décision si possible"
+    ],
+
+    "enjeux": [
+      "ce que le retard coûte à ceux qui attendent la décision",
+      "si l'évitement du choix est lui-même un choix",
+      "ce que le personnage ferait s'il était forcé de choisir maintenant"
+    ],
+
+    "risques": [
+      "la décision prise par les circonstances plutôt que par le personnage",
+      "perdre les deux options à force d'attendre",
+      "blesser davantage par l'indécision que par un choix rapide",
+      "se définir par ce qu'on n'a pas décidé"
+    ],
+
+    "masquesPossibles": [
+      "prudence présentée comme vertu",
+      "équité — 'je ne veux léser personne'",
+      "complexité de la situation — 'ce n'est pas simple'"
+    ],
+
+    "evolutionsPossibles": [
+      "le choix imposé par les événements — et comment le personnage y répond",
+      "décision enfin prise — et soulagement ou regret",
+      "découverte que ne pas choisir était déjà choisir",
+      "quelqu'un qui lui dit : 'choisis ou je choisis pour toi'"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "conflits", "cible": "choix-impossible", "note": "le conflit structurel autour du choix" },
+      { "famille": "conflits", "cible": "devoir-contre-desir", "note": "quand l'évitement porte sur un conflit de loyauté" },
+      { "famille": "emotions", "cible": "ambivalence", "note": "l'état émotionnel qui génère cet évitement" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est souvent confondu avec l'indécision — mais l'évitement du choix est actif, pas passif.",
+      "Il est narrativement intéressant parce qu'il crée une tension sans action — le personnage agit pour ne pas agir.",
+      "La scène de décision forcée est souvent un point de bascule fort dans les récits qui portent ce moteur."
+    ]
+  }
+]

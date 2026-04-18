@@ -1,0 +1,542 @@
+[
+  {
+    "id": "gout-larmes",
+    "label": "Goût des larmes",
+    "categorie": "gustatif",
+    "definitionCourte": "Goût salé et légèrement amer des larmes qui coulent jusqu'aux lèvres, perçu au moment même du pleur ou après.",
+    "qualite": "Salé, fin, légèrement métallique. Pas désagréable en soi, mais sa découverte est toujours une surprise — le corps qui se révèle à lui-même au moment où il cède.",
+    "associationsNarratives": [
+      "pleur solitaire retenu jusqu'au bout",
+      "pleur de soulagement après une tension longue",
+      "chagrin d'enfance — chute, humiliation, perte",
+      "larme unique et contenue chez un personnage qui ne pleure jamais",
+      "nuit d'insomnie où le chagrin déborde sans raison apparente",
+      "retrouvailles après une séparation longue",
+      "scène d'aveu ou de reddition émotionnelle",
+      "personnage qui rit et pleure à la fois"
+    ],
+    "emotionsAssociees": [
+      "tristesse qui cède",
+      "soulagement profond",
+      "honte de pleurer",
+      "tendresse envers soi-même",
+      "épuisement émotionnel",
+      "catharsis"
+    ],
+    "memoires": [
+      "premier chagrin d'enfance dont on se souvient dans le corps",
+      "deuil d'un proche",
+      "rupture sentimentale",
+      "moment de faiblesse perçu comme une défaite"
+    ],
+    "usagesTypiques": [
+      "signaler le moment précis où le personnage lâche prise",
+      "incarner la tristesse dans le corps plutôt que dans l'abstraction",
+      "marquer la conscience soudaine qu'on est en train de pleurer",
+      "créer un moment de présence à soi au milieu d'une scène intense",
+      "distinguer un pleur discret d'un effondrement total — la larme sur les lèvres dit quelque chose d'intime",
+      "ponctuer une scène de résolution ou de dénouement émotionnel"
+    ],
+    "contraires": [
+      "bouche sèche de la terreur ou de la colère",
+      "goût neutre et anesthésié",
+      "goût de sang qui dit autre chose"
+    ],
+    "combinaisons": [
+      "goût des larmes + silence + main sur la bouche = pleur retenu qui déborde",
+      "goût des larmes + rire qui reprend + regard vers quelqu'un = catharsis partagée",
+      "goût des larmes + nuit + solitude absolue = deuil intime sans témoin"
+    ],
+    "notesEditoriales": [
+      "La conscience du goût salé est souvent le moment où le personnage réalise qu'il pleure — elle peut déclencher plus de larmes ou au contraire un arrêt brutal.",
+      "Très utile pour les personnages qui ne pleurent pas facilement : la larme unique atteinte par les lèvres dit plus qu'un effondrement.",
+      "À distinguer du goût du sang — les deux sont salés mais leurs charges symboliques sont opposées."
+    ]
+  },
+  {
+    "id": "gout-repas-enfance",
+    "label": "Goût d'un plat de l'enfance",
+    "categorie": "gustatif",
+    "definitionCourte": "Saveur précise et immédiatement reconnaissable d'un plat mangé dans l'enfance, qui court-circuite la mémoire consciente pour ramener un monde entier.",
+    "qualite": "Complexe, difficile à décomposer. Le goût de l'enfance n'est jamais un goût seul — il est accompagné d'une chaleur, d'un bruit de fond, d'une lumière. Il est plus sensoriel que gustatif au sens strict.",
+    "associationsNarratives": [
+      "repas chez des grands-parents disparus",
+      "cuisine maternelle retrouvée dans un restaurant étranger",
+      "recette refaite des années plus tard sans retrouver exactement la même chose",
+      "retour dans la maison d'enfance",
+      "personnage expatrié qui retrouve un plat du pays",
+      "transmission culinaire entre générations",
+      "premier repas chez un amour dont on découvre les origines familiales",
+      "cantine scolaire retrouvée par hasard"
+    ],
+    "emotionsAssociees": [
+      "nostalgie puissante",
+      "sécurité retrouvée brièvement",
+      "mélancolie douce",
+      "sentiment d'appartenance",
+      "chagrin si ce monde est perdu",
+      "gratitude différée"
+    ],
+    "memoires": [
+      "figure nourricière — mère, grand-mère, père cuisinier",
+      "époque de l'enfance comme monde à part entière",
+      "famille réunie autour d'une table",
+      "vacances ou fêtes de l'enfance"
+    ],
+    "usagesTypiques": [
+      "déclencher une madeleine proustienne sans la nommer comme telle",
+      "montrer l'attachement d'un personnage à ses origines",
+      "créer un contraste entre le présent du personnage et un passé heureux",
+      "ancrer un flashback dans le corps avant de l'ouvrir dans le récit",
+      "signaler un exil intérieur ou extérieur — le goût de chez soi qu'on ne retrouve plus",
+      "créer une scène de lien entre deux personnages de générations différentes"
+    ],
+    "contraires": [
+      "nourriture insipide sans mémoire",
+      "goût artificiel et industriel",
+      "repas avalé sans le goûter"
+    ],
+    "combinaisons": [
+      "goût de l'enfance + larmes retenues + table seul = deuil d'une famille ou d'une époque",
+      "goût de l'enfance + étranger qui cuisine = intégration ou distance culturelle",
+      "goût de l'enfance + recette ratée + rire = transmission imparfaite mais réelle"
+    ],
+    "notesEditoriales": [
+      "Le goût de l'enfance est un des déclencheurs mémoriels les plus puissants en littérature — à utiliser délibérément et sans explication excessive.",
+      "Ce qui le rend fort, c'est souvent l'écart : le goût retrouvé n'est jamais tout à fait le même, et cet écart dit quelque chose sur ce qu'on a perdu.",
+      "Éviter la liste de plats stéréotypés : un détail précis et personnel vaut infiniment mieux qu'un plat générique."
+    ]
+  },
+  {
+    "id": "chaleur-feu-chemine",
+    "label": "Chaleur d'un feu de cheminée",
+    "categorie": "thermique",
+    "definitionCourte": "Chaleur rayonnante et directionnelle d'un feu de bois, qui réchauffe par la face exposée tout en laissant le dos dans le froid.",
+    "qualite": "Intense mais inégale, vivante parce que fluctuante. Elle n'est pas la même que le chauffage central — elle vient de quelque chose qui brûle. Elle s'accompagne d'un craquement, d'une lumière orange, d'une odeur de bois.",
+    "associationsNarratives": [
+      "maison de famille en hiver",
+      "refuge après une traversée dans le froid",
+      "longue soirée de conversation ou de confidence",
+      "camp de survie ou bivouac",
+      "veillée de deuil ou de fête",
+      "couple ou groupe resserré autour d'une flamme",
+      "chalet ou maison isolée coupée du monde",
+      "attente nocturne autour d'un feu"
+    ],
+    "emotionsAssociees": [
+      "réconfort",
+      "appartenance au groupe",
+      "intimité",
+      "sécurité provisoire",
+      "soulagement d'avoir froid et d'être réchauffé",
+      "mélancolie douce en soirée"
+    ],
+    "memoires": [
+      "hivers d'enfance dans une maison avec cheminée",
+      "soirées familiales autour du feu",
+      "camping ou randonnée avec feu de camp",
+      "attente dans une maison de montagne"
+    ],
+    "usagesTypiques": [
+      "créer un espace d'intimité et de confiance dans une scène de confidence",
+      "contraster avec le froid du dehors pour signaler un refuge",
+      "ancrer une scène nocturne dans un espace resserré",
+      "marquer la chaleur inégale — le visage brûle, le dos est froid — pour parler d'un confort imparfait",
+      "accompagner une scène de récit ou de transmission orale",
+      "créer un espace hors du temps ordinaire"
+    ],
+    "contraires": [
+      "froid pénétrant de la nuit",
+      "chaleur climatisée sans vie ni odeur",
+      "air froid et sec d'un appartement chauffé au radiateur"
+    ],
+    "combinaisons": [
+      "feu de cheminée + silence + deux personnages face à face = aveu possible",
+      "feu de cheminée + histoire racontée + enfant qui écoute = transmission et mythe",
+      "feu de cheminée + lumière vacillante + mauvaise nouvelle = contraste entre douceur et douleur"
+    ],
+    "notesEditoriales": [
+      "La chaleur inégale du feu de cheminée est un détail réaliste souvent oublié — il dit quelque chose sur le confort imparfait des refuges humains.",
+      "Le feu est à la fois réconfortant et dangereux — sa double nature peut être exploitée narrativement.",
+      "À distinguer du feu de camp en extérieur, qui a une charge différente — plus primitive, plus vulnérable."
+    ]
+  },
+  {
+    "id": "froid-nuit-dehors",
+    "label": "Froid de la nuit à l'extérieur",
+    "categorie": "thermique",
+    "definitionCourte": "Froid sec et profond de l'air nocturne, qui pénètre les vêtements et se fait sentir d'abord sur le visage et les extrémités.",
+    "qualite": "Net, immédiat, sans gradation. Il réveille. Il rend les contours plus précis, les bruits plus clairs. Il y a quelque chose de tranchant dans le froid de nuit — il coupe l'air comme un bord.",
+    "associationsNarratives": [
+      "fuite nocturne ou errance",
+      "retour tardif après une rupture ou une mauvaise nouvelle",
+      "veille armée ou garde nocturne",
+      "sans-abrisme ou précarité",
+      "sortie précipitée d'un lieu chauffé après une dispute",
+      "attente dehors — devant une porte fermée, une gare, un hôpital",
+      "prise de décision sous le ciel ouvert",
+      "nuit de recherche ou de poursuite"
+    ],
+    "emotionsAssociees": [
+      "solitude aiguisée",
+      "vulnérabilité physique",
+      "clarté paradoxale",
+      "désespoir ou détermination selon le contexte",
+      "sentiment d'être à l'extérieur de tout",
+      "liberté amère"
+    ],
+    "memoires": [
+      "nuit passée dehors par choix ou par contrainte",
+      "retour à pied sous le froid après une dispute",
+      "attente nocturne d'un proche",
+      "nuit d'hiver de l'enfance"
+    ],
+    "usagesTypiques": [
+      "signaler le franchissement d'un seuil — dedans vers dehors — comme changement d'état",
+      "ancrer dans le corps une décision difficile prise la nuit",
+      "créer un moment de solitude radicale après une scène de groupe",
+      "contraster avec la chaleur humaine qu'on vient de quitter",
+      "marquer la précarité d'un personnage exposé aux éléments",
+      "accompagner une scène de rupture ou de départ"
+    ],
+    "contraires": [
+      "chaleur d'une pièce habitée",
+      "chaleur étouffante d'été",
+      "tiédeur douce d'un sous-sol"
+    ],
+    "combinaisons": [
+      "froid nocturne + lumières allumées dans les fenêtres des autres = exclusion ou solitude",
+      "froid nocturne + haleine visible + silence = présence physique dans l'absence de parole",
+      "froid nocturne + départ précipité sans veste = urgence et impréparation"
+    ],
+    "notesEditoriales": [
+      "Le froid de nuit agit comme un révélateur — il enlève le confort et contraint le personnage à n'être que lui-même.",
+      "La haleine visible dans le froid est un détail concret très efficace pour ancrer la présence physique d'un personnage.",
+      "Distinguer le froid de la peur (sueurs froides, chair de poule) du froid physique réel — ils peuvent coexister mais sont différents."
+    ]
+  },
+  {
+    "id": "odeur-terre-mouille",
+    "label": "Odeur de terre mouillée après la pluie (petrichor)",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur minérale et végétale qui monte de la terre juste après la pluie, mêlant argile humide, mousse et ozone. Elle précède souvent la pluie autant qu'elle la suit.",
+    "qualite": "Fraîche, profonde, légèrement terreuse sans être lourde. Elle a quelque chose d'ancien et d'universel. Elle envahit l'espace d'un seul coup, puis se dissipe lentement.",
+    "associationsNarratives": [
+      "jardin après un orage d'été",
+      "chemin de campagne détrempé",
+      "cour d'école ou de cour intérieure après la pluie",
+      "forêt ou sous-bois au printemps",
+      "retour à la nature après une période urbaine",
+      "moment de calme après une tempête ou une tension",
+      "réconciliation ou résolution après une crise",
+      "début ou fin de saison"
+    ],
+    "emotionsAssociees": [
+      "apaisement",
+      "renouveau",
+      "mélancolie douce",
+      "nostalgie de la nature",
+      "sentiment de recommencement",
+      "soulagement après une tension"
+    ],
+    "memoires": [
+      "étés de l'enfance et jeux après la pluie",
+      "jardins de grands-parents ou de maison familiale",
+      "randonnées ou camps en plein air",
+      "retours de vacances à la campagne"
+    ],
+    "usagesTypiques": [
+      "signaler une résolution ou un apaisement après un conflit",
+      "ancrer un retour à soi après une période de dissociation",
+      "créer une pause sensorielle dans un récit intense",
+      "ouvrir un chapitre sur une note de renouveau",
+      "contraster avec un espace urbain où cette odeur est absente",
+      "marquer le passage d'une saison ou d'une étape narrative"
+    ],
+    "contraires": [
+      "odeur sèche de poussière par temps de canicule",
+      "odeur d'asphalte surchauffé",
+      "air conditionné stérile"
+    ],
+    "combinaisons": [
+      "terre mouillée + silence après l'orage + ciel qui se dégage = renaissance ou résolution",
+      "terre mouillée + pieds nus dans l'herbe + enfant qui court = enfance retrouvée",
+      "terre mouillée + fenêtre ouverte + fatigue = moment suspendu entre deux états"
+    ],
+    "notesEditoriales": [
+      "Le mot 'petrichor' est beau mais savant — dans un récit, la description concrète de l'odeur vaut mieux que le terme scientifique.",
+      "Cette odeur est presque universellement appréciée — ce qui en fait un ancrage sensoriel efficace pour des émotions positives ou ambivalentes.",
+      "Elle peut aussi signaler quelque chose d'inquiétant selon le contexte — l'odeur de la terre qui accueille ce qu'on enterre."
+    ]
+  },
+  {
+    "id": "odeur-alcool-antiseptique",
+    "label": "Odeur d'alcool antiseptique",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur forte, nette et chimique de l'alcool isopropylique ou de l'éthanol utilisé en milieu médical. Elle agresse les muqueuses et s'impose sans nuance.",
+    "qualite": "Tranchante, froide, sans ambiguïté. Elle efface les autres odeurs. Elle dit : ici on soigne, ici on opère, ici quelque chose de grave se passe ou vient de se passer.",
+    "associationsNarratives": [
+      "salle d'urgences ou de soins",
+      "scène de premiers secours après un accident",
+      "injection ou prise de sang",
+      "chambre d'hôpital après une opération",
+      "désinfection d'une blessure de fortune",
+      "laboratoire ou salle de médecine légale",
+      "personnage en addiction à l'alcool — confusion possible",
+      "nettoyage d'un lieu après un événement traumatisant"
+    ],
+    "emotionsAssociees": [
+      "anxiété médicale",
+      "douleur anticipée",
+      "impuissance",
+      "dissociation légère",
+      "réconfort froid — quelqu'un s'occupe de la blessure",
+      "dégoût sensoriel"
+    ],
+    "memoires": [
+      "blessure d'enfance soignée avec maladresse",
+      "hospitalisation vécue ou assistée",
+      "prise de sang ou geste médical invasif",
+      "mort d'un proche en milieu hospitalier"
+    ],
+    "usagesTypiques": [
+      "ancrer une scène médicale sans description longue",
+      "créer une réaction de rejet physique chez un personnage traumatisé par le milieu médical",
+      "signaler qu'un personnage soigne une blessure — la sienne ou celle d'un autre",
+      "introduire une scène d'urgence ou de post-traumatisme",
+      "contraster avec une odeur organique ou naturelle pour marquer un basculement",
+      "accompagner une scène d'interrogatoire ou d'examen de corps"
+    ],
+    "contraires": [
+      "odeur organique de corps vivant",
+      "odeur de nature ou de terre",
+      "odeur de nourriture chaude"
+    ],
+    "combinaisons": [
+      "alcool antiseptique + lumière de néon + silence = attente médicale ou examen judiciaire",
+      "alcool antiseptique + geste lent de quelqu'un qui soigne + douleur tenue = moment de soin intime",
+      "alcool antiseptique + mains qui tremblent + blessure cachée = personnage qui se soigne seul"
+    ],
+    "notesEditoriales": [
+      "L'odeur de l'antiseptique peut déclencher chez certains personnages une réaction pavlovienne de peur ou d'anticipation de douleur — à exploiter.",
+      "Elle est souvent la première chose perceptible dans un hôpital — elle prépare émotionnellement le lecteur avant toute description visuelle.",
+      "Dans une scène de soins auto-administrés, elle peut signaler à la fois la compétence et l'isolement du personnage."
+    ]
+  },
+  {
+    "id": "son-mer-vagues",
+    "label": "Son des vagues",
+    "categorie": "auditif",
+    "definitionCourte": "Bruit rythmique et continu de la mer qui déferle et se retire, oscillant entre grondement sourd et sifflement du retrait sur les galets ou le sable.",
+    "qualite": "Régulier mais jamais identique. Il a un rythme respiratoire qui finit par coïncider avec celui du corps. Il efface les autres sons sans les supprimer — il les submerge doucement.",
+    "associationsNarratives": [
+      "solitude au bord de l'eau en dehors de saison",
+      "deuil vécu face à la mer",
+      "nuit à dormir fenêtre ouverte en été",
+      "enfance balnéaire",
+      "attente d'un départ ou d'un retour",
+      "scène de contemplation ou de décision",
+      "naufrage ou danger en mer",
+      "retraite ou exil volontaire"
+    ],
+    "emotionsAssociees": [
+      "apaisement",
+      "mélancolie",
+      "sentiment d'infinitude",
+      "solitude acceptée",
+      "vertige existentiel",
+      "paix précaire"
+    ],
+    "memoires": [
+      "vacances d'enfance à la mer",
+      "nuit passée à écouter les vagues",
+      "séjour de convalescence ou de rupture",
+      "voyage ou traversée maritime"
+    ],
+    "usagesTypiques": [
+      "créer un fond sonore qui rend la solitude habitable",
+      "ponctuer une scène de deuil ou de résolution",
+      "ancrer une scène de plein air dans son environnement sans description longue",
+      "rythmer une introspection — le personnage pense au rythme des vagues",
+      "contraster avec un silence intérieur ou une agitation intérieure",
+      "ouvrir ou fermer un chapitre sur une note de continuité"
+    ],
+    "contraires": [
+      "silence absolu de la nuit sans vent",
+      "bruit de circulation urbaine",
+      "silence d'une forêt"
+    ],
+    "combinaisons": [
+      "vagues + obscurité totale + froid = solitude nocturne au bord de l'eau",
+      "vagues + lumière de lune + personnage immobile = contemplation avant une décision",
+      "vagues + pleurs inaudibles + vent = deuil au bord de l'eau"
+    ],
+    "notesEditoriales": [
+      "Le son des vagues est un des éléments sensoriels les plus souvent utilisés comme fond de scène — veiller à ce qu'il soit actif, pas décoratif.",
+      "Distinguer le son des vagues sur sable (plus sourd, plus doux) du son sur galets (plus métallique, plus coupant) — les deux ont des charges différentes.",
+      "Peut devenir oppressant dans les scènes d'angoisse : la répétition inexorable du bruit dit que le monde continue quoi qu'il arrive."
+    ]
+  },
+  {
+    "id": "son-foule-murmures",
+    "label": "Murmures d'une foule",
+    "categorie": "auditif",
+    "definitionCourte": "Son composite et indistinct d'une foule qui parle à voix basse, formant un fond sonore continu où aucune voix ne se détache.",
+    "qualite": "Diffus, enveloppant, impossible à localiser. Il monte et descend légèrement sans jamais s'articuler. Il y a quelque chose d'humain et d'anonyme dans ce bruit — des centaines de vies réduites à un seul son.",
+    "associationsNarratives": [
+      "salle d'attente bondée",
+      "cérémonie funèbre ou religieuse",
+      "couloir d'hôpital ou de tribunal",
+      "foyer de théâtre avant que le rideau se lève",
+      "marché ou bazar au lever du jour",
+      "manifestation qui se forme",
+      "gare ou aéroport",
+      "personnage seul dans une foule"
+    ],
+    "emotionsAssociees": [
+      "anonymat",
+      "solitude dans la masse",
+      "attente collective",
+      "légère anxiété sociale",
+      "sentiment d'appartenance diffuse",
+      "curiosité ou tension pré-événement"
+    ],
+    "memoires": [
+      "attente dans une administration ou un service public",
+      "veillée funèbre ou cérémonie religieuse de l'enfance",
+      "premiere fois dans une grande salle ou un espace bondé",
+      "foule de manifestation ou de fête collective"
+    ],
+    "usagesTypiques": [
+      "ancrer un personnage dans sa solitude au sein d'une masse",
+      "créer une tension pré-événement sans nommer ce qui vient",
+      "signaler un espace public sans description architecturale",
+      "contraster avec le silence intérieur du personnage",
+      "marquer le moment où une foule bascule du murmure au cri",
+      "accompagner une scène de passage — le personnage traverse un espace de transition"
+    ],
+    "contraires": [
+      "silence absolu d'un espace vide",
+      "voix unique qui s'impose",
+      "bruit de foule qui s'emballe"
+    ],
+    "combinaisons": [
+      "murmures + lumière basse + attente = cérémonie ou jugement imminent",
+      "murmures + personnage qui n'entend rien de précis + visage fermé = dissociation en public",
+      "murmures + soudain silence = événement qui commence ou catastrophe qui s'annonce"
+    ],
+    "notesEditoriales": [
+      "La transition du murmure au silence est souvent plus dramatique que le bruit lui-même — elle dit que quelque chose commence.",
+      "Un personnage qui n'entend plus les murmures autour de lui (dissociation) ou qui les entend trop fort (hypervigilance) est immédiatement caractérisé.",
+      "Différent du brouhaha de fête : les murmures impliquent une retenue, une attente, une gravité possible."
+    ]
+  },
+  {
+    "id": "lumiere-aube",
+    "label": "Lumière de l'aube",
+    "categorie": "visuel",
+    "definitionCourte": "Lumière grise et bleutée des premières minutes avant le lever du soleil, froide et sans ombre nette, où les formes existent mais les couleurs sont absentes.",
+    "qualite": "Décolorée, horizontale, étrange. Elle ne vient pas encore d'un point précis. Elle révèle les formes sans les flatter. Il y a quelque chose de brutal et de propre dans cette lumière — le monde avant que le monde commence.",
+    "associationsNarratives": [
+      "nuit blanche qui se termine",
+      "réveil avant l'aube après une décision difficile",
+      "départ très tôt le matin — fuite ou voyage",
+      "veillée qui s'achève au chevet d'un mourant",
+      "aube après un événement traumatisant de la nuit",
+      "militaires ou personnages qui attendent l'assaut",
+      "personnage insomniaque qui voit le jour se lever",
+      "moment de vérité après une nuit de doute"
+    ],
+    "emotionsAssociees": [
+      "épuisement de fin de nuit",
+      "résolution froide",
+      "solitude aiguë",
+      "début fragile de quelque chose",
+      "soulagement que la nuit soit passée",
+      "mélancolie particulière de l'aube"
+    ],
+    "memoires": [
+      "nuits blanches d'étudiant ou d'amour naissant",
+      "aube après une nuit d'urgence médicale",
+      "lever très tôt pour un voyage ou un départ",
+      "aube vue depuis une fenêtre pendant une maladie"
+    ],
+    "usagesTypiques": [
+      "marquer la fin d'une nuit dramatique sans ellipse",
+      "signaler le passage d'un état à un autre — ce qui était possible la nuit est maintenant fixé",
+      "créer une atmosphère de suspens avant l'action du jour",
+      "donner à un personnage la couleur de la fatigue sans la nommer",
+      "contraster avec la lumière de la veille — la nuit entre les deux a tout changé",
+      "ancrer une scène de départ ou de résolution dans un moment précis"
+    ],
+    "contraires": [
+      "lumière de plein midi, chaude et franche",
+      "obscurité de la nuit profonde",
+      "lumière artificielle de lampe"
+    ],
+    "combinaisons": [
+      "lumière d'aube + silence + tasse de café seul = nuit blanche qui se termine",
+      "lumière d'aube + visage épuisé + décision prise = résolution après le doute",
+      "lumière d'aube + départ silencieux + porte qui se referme = rupture ou fuite"
+    ],
+    "notesEditoriales": [
+      "La lumière de l'aube est l'une des plus difficiles à décrire sans tomber dans le poétique convenu — le privilégier sur des détails très concrets : la couleur des objets, l'absence d'ombre.",
+      "Elle est souvent plus froide qu'on ne le pense — la chaleur vient avec le soleil levé, pas avant.",
+      "Très efficace pour les scènes de lendemain de crise : elle dit que la nuit est passée, que quelque chose doit maintenant commencer."
+    ]
+  },
+  {
+    "id": "texture-cicatrice",
+    "label": "Texture d'une cicatrice sous les doigts",
+    "categorie": "tactile",
+    "definitionCourte": "Sensation de peau légèrement surélevée, lisse et différente du tissu environnant, perçue en passant les doigts sur une cicatrice ancienne.",
+    "qualite": "Lisse d'une façon anormale, sans la texture fine de la peau saine. Elle est souvent plus froide, légèrement rigide, comme si la peau avait oublié comment être peau. Elle peut être presque imperceptible ou nettement en relief selon l'ancienneté.",
+    "associationsNarratives": [
+      "corps d'un personnage qui a survécu à quelque chose",
+      "geste d'un amant qui découvre une blessure passée",
+      "personnage qui passe inconsciemment les doigts sur sa propre cicatrice",
+      "chirurgie ancienne dont on n'a jamais vraiment parlé",
+      "violence subie — coup, brûlure, couteau",
+      "rite de passage ou marque volontaire",
+      "corps d'un soldat, d'un survivant, d'un accidenté",
+      "examen médical légiste ou de reconstitution"
+    ],
+    "emotionsAssociees": [
+      "mémoire du corps",
+      "orgueil ou honte selon l'origine",
+      "vulnérabilité exposée",
+      "silence autour d'un passé non dit",
+      "tendresse de qui découvre",
+      "dissociation — le personnage regarde son propre corps comme étranger"
+    ],
+    "memoires": [
+      "blessure qui a laissé la marque",
+      "moment où quelqu'un l'a vue pour la première fois",
+      "explication donnée ou refusée",
+      "corps d'avant la blessure"
+    ],
+    "usagesTypiques": [
+      "révéler un passé sans dialogue d'exposition",
+      "créer un moment d'intimité entre deux personnages — l'un qui touche, l'autre qui laisse faire",
+      "signaler ce qu'un personnage porte sans le dire",
+      "ancrer une scène dans le corps après une introspection mentale",
+      "marquer la différence entre ce que le personnage montre et ce qu'il cache",
+      "amorcer une conversation ou un aveu sur le passé"
+    ],
+    "contraires": [
+      "peau lisse et sans histoire",
+      "corps non marqué d'un personnage préservé",
+      "peau douce et uniforme"
+    ],
+    "combinaisons": [
+      "cicatrice + main de l'autre qui s'arrête + silence = question non posée",
+      "cicatrice + geste inconscient du personnage + quelqu'un qui remarque = lecture du corps par l'autre",
+      "cicatrice + nuit + intimité = confiance accordée à celui qui peut maintenant la voir"
+    ],
+    "notesEditoriales": [
+      "La cicatrice dit tout ce que le personnage ne dit pas — à utiliser comme substitut du dialogue d'exposition, pas en plus de lui.",
+      "Distinguer la cicatrice ancienne (intégrée au corps, presque oubliée) de la cicatrice récente (encore sensible, encore présente à la conscience).",
+      "Le geste de la toucher soi-même est souvent inconscient chez les personnages — le remarquer dans la narration dit beaucoup sur l'état émotionnel du personnage."
+    ]
+  }
+]

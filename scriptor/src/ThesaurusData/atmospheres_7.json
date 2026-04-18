@@ -1,0 +1,680 @@
+[
+  {
+    "id": "forêt-automne",
+    "label": "Forêt en automne",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "feuilles mortes accumulées sur le sol — couche épaisse, sonore sous les pas",
+      "lumière oblique qui traverse les branches dénudées ou encore colorées",
+      "tapis de mousses vertes humides sur les pierres et les souches",
+      "brume légère accrochée entre les arbres à certaines heures",
+      "champignons aux couleurs vives ou discrètes selon l'espèce",
+      "glands, faines, marrons éparpillés sur le sol",
+      "silhouettes d'arbres progressivement dénudées — squelettes végétaux",
+      "oiseaux migrateurs ou absents, silence différent de l'été",
+      "odeur de terre humide, de décomposition et de résine",
+      "ciel visible là où les feuilles ont déjà cédé"
+    ],
+    "emotionsTypiques": [
+      "mélancolie douce, liée au passage du temps",
+      "apaisement paradoxal face à la mort végétale",
+      "sentiment d'être petit dans quelque chose de grand et d'indifférent",
+      "nostalgie liée à une saison passée ou à une personne",
+      "solitude choisie, presque rituelle",
+      "émerveillement face à la beauté de ce qui se défait"
+    ],
+    "ambiance": "La forêt en automne est en train de mourir magnifiquement. Chaque feuille qui tombe est un geste lent vers le sol — et le personnage qui marche là-dedans ne peut qu'entendre le temps qui passe, qu'il le veuille ou non.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "terre mouillée après la pluie, profonde et végétale",
+        "feuilles en décomposition — odeur douce-amère, légèrement sucrée",
+        "résine de conifère si mêlée à des résineux",
+        "champignons — odeur terreuse, presque animale",
+        "air froid chargé d'humidité qui entre directement dans la gorge"
+      ],
+      "auditifs": [
+        "froissement des feuilles mortes sous chaque pas — impossible de marcher en silence",
+        "gouttes qui tombent des branches longtemps après la pluie",
+        "vent dans les hautes branches — son de vague lointaine",
+        "craquement d'une branche morte sous le pied",
+        "absence des oiseaux d'été — silence d'une autre texture"
+      ],
+      "visuels": [
+        "camaïeu d'ocre, de roux, d'or et de brun — rarement vu en une seule palette",
+        "lumière filtrée, oblique, qui crée des colonnes dans la brume",
+        "sol entièrement couvert — plus de terre visible, seulement les feuilles",
+        "champignons qui poussent en cercles sur les souches mortes",
+        "toile d'araignée chargée de gouttelettes — géométrie fragile",
+        "horizon qui s'ouvre là où les arbres ont perdu leurs feuilles"
+      ],
+      "tactiles": [
+        "feuilles humides et légèrement collantes sous la semelle",
+        "mousse froide et spongieuse si on la touche",
+        "air qui pique légèrement — pas encore le froid de l'hiver mais proche",
+        "écorce rugueuse des arbres, froide sous la paume"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Marcheur solitaire en deuil",
+        "description": "La forêt qui meurt lui parle de ce qu'il a perdu. Les couleurs magnifiques de l'automne sont une cruelle ironie — si belle, cette dissolution. Il marche sans destination, le froissement des feuilles lui tenant compagnie comme un bruit qui remplace les mots."
+      },
+      {
+        "profil": "Enfant avec ses parents",
+        "description": "Vit l'automne comme un terrain de jeu — les feuilles à écraser, les marrons à ramasser, les champignons mystérieux à ne pas toucher. La mort végétale n'existe pas encore dans sa conscience : il y a juste la beauté, le bruit, l'abondance."
+      },
+      {
+        "profil": "Personnage qui fuit ou se cache",
+        "description": "Entend ce que les autres ne remarquent pas : le bruit de ses propres pas impossibles à dissimuler, les branches qui craquent. La forêt belle et silencieuse devient un espace traître qui trahit chaque mouvement. La brume est une alliée — l'obscurité aussi."
+      }
+    ],
+    "usagesNarratifs": [
+      "promenade intérieure d'un personnage en crise ou en deuil",
+      "lieu de révélation ou de décision après une rupture",
+      "décor de poursuite ou de fuite dans un espace sonore traitre",
+      "ancrer une rencontre inattendue dans un espace improbable",
+      "utiliser l'automne comme métaphore de la transition sans la forcer",
+      "scène de mémoire ou de retour sur un lieu chargé"
+    ],
+    "notesEditoriales": [
+      "L'automne est le piège des métaphores trop faciles — s'assurer que le sens n'est pas dit deux fois (dans le décor ET dans le dialogue).",
+      "Le bruit des feuilles sous les pas est un détail sensoriel à part : il rend la solitude sonore, mesurable.",
+      "La lumière d'automne est différente de toutes les autres — basse, oblique, chaude et froide à la fois. La préciser change tout.",
+      "Une forêt de conifères en automne n'est pas la même que des feuillus : les deux donnent des atmosphères opposées à l'intérieur de la même saison."
+    ]
+  },
+  {
+    "id": "metro-heure-pointe",
+    "label": "Métro à l'heure de pointe",
+    "type": "espace-transition",
+    "dominanteSensorielle": "auditif-tactile",
+    "elements": [
+      "foule compacte qui attend sur le quai, corps orientés vers les rails",
+      "bouffée d'air chaud avant l'arrivée de la rame",
+      "portes qui s'ouvrent sur une cohue déjà présente dans les wagons",
+      "publicités défilant en bandeaux sur les murs du tunnel",
+      "bruit de ferraille amplifié par le tunnel lors du passage",
+      "corps collés les uns aux autres sans regard ni parole",
+      "annonce sonore distordue, presque incompréhensible",
+      "barre métallique chaude des mains multiples qui s'y accrochent",
+      "téléphones sortis de partout — refuge dans l'écran face à la promiscuité",
+      "sueur de la foule dans un espace mal ventilé"
+    ],
+    "emotionsTypiques": [
+      "frustration sourde de la contrainte subie",
+      "anonymat total, dissimulation dans la masse",
+      "impatience mesurée à chaque arrêt",
+      "légère claustrophobie pour certains",
+      "observation discrète des autres dans un espace sans issue",
+      "épuisement social avant même d'arriver à destination"
+    ],
+    "ambiance": "Dans le métro à l'heure de pointe, on est seuls ensemble — corps pressés dans un espace commun, regards évités par convention. La foule est une solitude collective qui se déplace à grande vitesse sous la ville.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur caractéristique du métro : huile chaude, métal, air recyclé",
+        "parfums de dizaines de personnes différentes superposés",
+        "transpiration — neutre ou forte selon la saison",
+        "café ou viennoiserie apportés d'un bar — note décalée dans la masse",
+        "air vicié qui n'a jamais été à l'extérieur"
+      ],
+      "auditifs": [
+        "grondement de la rame en approche — sourd, puis assourdissant",
+        "signal sonore des portes qui se ferment — agressif, sans appel",
+        "brouhaha de la foule sur le quai — pas de silence possible",
+        "annonce de la prochaine station, inintelligible parfois",
+        "musique qui filtre d'un casque voisin — intrusion involontaire"
+      ],
+      "visuels": [
+        "dos, épaules, nuques — vue d'un corps dans la foule sans visages",
+        "carte du réseau au-dessus des portes — fréquemment consultée",
+        "reflet déformé dans la vitre sombre du tunnel",
+        "couleurs distinctives des lignes — code partagé",
+        "chaussures au sol — seule vraiment visible dans la presse des corps",
+        "écrans de téléphone qui émettent une lumière bleue dans les visages penchés"
+      ],
+      "tactiles": [
+        "pression des corps autour de soi — impossible à éviter",
+        "barre métallique chaude et légèrement humide de toutes les mains",
+        "oscillation de la rame — chacun absorbe le même mouvement",
+        "coup d'épaule involontaire à chaque freinage ou accélération"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Habitué qui fait le trajet depuis des années",
+        "description": "Ne voit plus vraiment le métro. Son corps s'est adapté — il sait quand s'écarter, où se placer pour sortir vite, quelle voiture prendre. L'espace est traversé sans être vécu. Il pense à autre chose — à tout sauf à l'endroit où il est."
+      },
+      {
+        "profil": "Visiteur ou touriste",
+        "description": "Subit le choc de l'espace compressé avec une conscience aiguë de chaque détail. La foule ne lui est pas familière, le bruit l'agresse, les annonces sont illisibles. Il regarde les autres pour comprendre ce qu'il faut faire — et personne ne le regarde."
+      },
+      {
+        "profil": "Personnage en état de crise ou de choc",
+        "description": "Vit la foule comme une agression sensorielle. Les bruits sont trop forts, les corps trop proches. L'anonymat qui protège les autres ici l'isole davantage. Il est entouré de monde et complètement seul — et personne ne le voit."
+      }
+    ],
+    "usagesNarratifs": [
+      "filer quelqu'un ou être filé dans la foule — tension de proximité",
+      "personnage qui cherche à rester invisible dans l'anonymat de la masse",
+      "rencontre improbable ou inévitable dans un espace contraint",
+      "montrer l'épuisement urbain d'un personnage en surcharge",
+      "début ou fin de journée — état d'un personnage avant ou après un événement clé",
+      "scène de panique ou de trouble dans un espace sans échappatoire"
+    ],
+    "notesEditoriales": [
+      "Le métro à l'heure de pointe est un lieu de paradoxes — solitude dans la foule, intimité involontaire entre inconnus — à exploiter plutôt qu'à décrire platement.",
+      "La convention sociale du non-regard dans le métro est un ressort dramatique : quand deux personnages se regardent dans cet espace, c'est déjà une transgression.",
+      "L'odeur du métro est un des marqueurs sensoriels les plus puissants pour un Parisien — à préciser selon la ligne et l'heure.",
+      "Attention à la description de la foule comme masse indistincte : un détail d'un inconnu (ses chaussures, ses mains, son reflet) humanise et ancre."
+    ]
+  },
+  {
+    "id": "maison-construction-abandon",
+    "label": "Maison en construction abandonnée",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "murs en parpaings ou en brique montés à mi-hauteur, sans finition",
+      "dalle de béton brute, parcourue de fissures",
+      "armatures métalliques qui dépassent du béton comme des doigts",
+      "bâches plastiques déchirées qui claquent dans le vent",
+      "outils oubliés rouillés dans un coin — pelle, brouette renversée",
+      "herbes hautes qui progressent depuis le sol jusqu'aux ouvertures de fenêtres",
+      "ciel visible là où le toit devait être",
+      "traces d'une présence humaine discontinue — cendres d'un feu, graffiti",
+      "inscription de chantier encore lisible sur un panneau érodé",
+      "silence particulier d'un espace construit mais jamais habité"
+    ],
+    "emotionsTypiques": [
+      "mélancolie liée à un projet inachevé",
+      "sentiment d'intrusion dans quelque chose qui appartient à personne",
+      "curiosité face au mystère de l'abandon",
+      "légère inquiétude — instabilité physique du lieu",
+      "liberté paradoxale dans un espace sans règles ni gardien",
+      "tristesse diffuse pour les vies qui n'ont pas eu lieu ici"
+    ],
+    "ambiance": "La maison en construction abandonnée est un futur qui s'est arrêté. Elle montre le plan de quelque chose qui aurait dû être — les pièces dessinées dans les murs, les ouvertures prévues pour des vies — et tout cela est resté là, sans achèvement, sans mémoire.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "béton humide, odeur minérale froide",
+        "rouille des armatures métalliques",
+        "végétation qui pousse dans le béton — terre et herbe",
+        "plastique des bâches chauffé par le soleil — légèrement toxique",
+        "cendres d'un feu de passage, éteintes depuis longtemps"
+      ],
+      "auditifs": [
+        "claquement des bâches dans le vent — rythmique et irrégulier à la fois",
+        "grincement d'une structure métallique sous le vent",
+        "silence profond à l'intérieur des murs, différent du dehors",
+        "écho de ses propres pas sur la dalle de béton",
+        "oiseaux nichés dans les armatures en hauteur"
+      ],
+      "visuels": [
+        "armatures qui dépassent du béton — geste arrêté au milieu",
+        "bâches déchirées en banderoles par les intempéries",
+        "végétation qui progresse par les ouvertures, colonisant le béton",
+        "coulures de béton séché en cascade sur les parpaings",
+        "ciel encadré par des murs sans toit — composition involontaire",
+        "ombre portée des murs inégaux — géométrie chaotique au sol"
+      ],
+      "tactiles": [
+        "béton rugueux, froid même en été à l'ombre",
+        "rouille qui tache les doigts au contact des armatures",
+        "sol instable — gravats, herbes hautes, flaques cachées",
+        "vent qui circule différemment entre les murs sans toit"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Ancien propriétaire du projet",
+        "description": "Revoit les plans dans chaque mur monté. Sait quelle pièce devait être quoi, où la cuisine aurait été, comment la lumière du matin serait entrée. La ruine n'est pas seulement un lieu délabré : c'est une vie qui n'a pas eu lieu, visible sous forme de béton."
+      },
+      {
+        "profil": "Adolescent qui y joue ou s'y cache",
+        "description": "Ne voit pas l'inachèvement mais le territoire — un espace sans adultes, sans règles, sans propriétaire revendicatif. Les murs sans toit sont une forteresse. Le danger potentiel fait partie de l'attrait. L'abandon est une permission."
+      },
+      {
+        "profil": "Architecte ou artisan",
+        "description": "Lit les murs comme un texte technique : reconnaît les erreurs de construction, l'abandon au mauvais moment, les fondations peut-être compromises. Son regard est professionnel et presque clinique — mais pas sans tristesse pour le travail gâché."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu de refuge ou de repaire pour un personnage marginal",
+      "espace de confrontation hors du monde social ordinaire",
+      "métaphore incarnée d'un projet de vie interrompu",
+      "scène de découverte — qu'est-ce qui s'est passé ici, pourquoi l'abandon ?",
+      "lieu de rencontre illicite ou secrète entre personnages",
+      "ancrer une scène de mémoire liée à ce qui n'a pas été construit"
+    ],
+    "notesEditoriales": [
+      "L'abandon en cours de construction est plus triste qu'une ruine : la ruine a vécu. Ici, rien n'a commencé, et tout montre pourtant l'intention.",
+      "Les armatures métalliques sont visuellement saisissantes — à ne pas sur-utiliser mais à préciser : leur rouille, leur nombre, leur ombre.",
+      "Le lieu dit quelque chose d'économique, de social : qui commence une maison et l'abandonne ? Cette question peut être le germe d'une intrigue.",
+      "La végétation qui reprend ses droits est un détail de temps : plus elle est dense, plus l'abandon est ancien. Préciser aide à situer."
+    ]
+  },
+  {
+    "id": "service-pediatrie",
+    "label": "Service pédiatrique d'hôpital",
+    "type": "espace-public",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "couloirs peints en couleurs vives — bleu ciel, jaune, vert — effort de douceur institutionnel",
+      "dessins collés aux murs au niveau des yeux d'un enfant",
+      "lits à barreaux réglables, certains entourés de rideaux à motifs",
+      "jouets ou peluches posés sur les tablettes ou dans les bras des enfants",
+      "monitoring silencieux mais permanent — bip régulier, régulier, régulier",
+      "perfusion suspendue au-dessus d'un lit — clarté froide du plastique",
+      "parent endormi dans un fauteuil à côté du lit — vigile épuisé",
+      "soignants qui se déplacent avec efficacité et douceur simultanées",
+      "odeur d'antiseptique atténuée par quelque chose de sucré — sirop, peut-être",
+      "enfant qui pleure loin, derrière une porte — son qui traverse tout"
+    ],
+    "emotionsTypiques": [
+      "angoisse parentale — intense et silencieuse",
+      "impuissance face à la souffrance d'un enfant",
+      "gratitude pour le soin, mêlée de peur",
+      "épuisement des parents qui attendent sans dormir",
+      "étrange solidarité entre inconnus partageant le même couloir",
+      "espoir fragile et constant, renouvelé à chaque visite du médecin"
+    ],
+    "ambiance": "Dans le service pédiatrique, les couleurs vives sont un mensonge doux et nécessaire. Derrière le jaune des murs et les dessins affichés, il y a des enfants malades et des parents qui ont traversé une nuit de plus en essayant de rester calmes pour ne pas effrayer.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "antiseptique dominant mais moins agressif qu'en service adulte",
+        "sirop de médicament, légèrement sucré et artificiel",
+        "parfum de peluche lavée — l'objet transitionnel apporté de la maison",
+        "nourriture de la salle commune — odeur familière et rassurante",
+        "propre cheveux d'enfant — odeur du shampoing habituel, de la maison"
+      ],
+      "auditifs": [
+        "bip régulier des moniteurs — fond sonore impossible à ignorer",
+        "voix des soignants maintenues dans les graves pour apaiser",
+        "pleur d'un enfant loin — monte, se calme, reprend",
+        "voix de dessin animé depuis une tablette posée sur un lit",
+        "murmures des parents entre eux — épuisés et discrets"
+      ],
+      "visuels": [
+        "couleurs vives des murs contre l'équipement médical — contraste volontaire",
+        "dessins d'enfants encadrés — souvent faits en rééducation ou entre deux soins",
+        "peluche, doudou, jouet — présence douce dans l'espace clinique",
+        "parent qui ne quitte pas des yeux l'enfant dans le lit",
+        "équipement médical miniaturisé pour les corps d'enfants — même geste, autre échelle",
+        "livre d'images ouvert sur le lit — l'histoire interrompue"
+      ],
+      "tactiles": [
+        "main d'enfant dans celle du parent — prise sans lâcher",
+        "gel hydroalcoolique à chaque entrée — rituel de protection",
+        "froid de la poignée métallique de la chambre",
+        "barreaux du lit — froids, lisses, entre le parent et l'enfant"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Parent de l'enfant hospitalisé",
+        "description": "Vit dans une temporalité suspendue — la nuit ne compte pas, le jour non plus. Chaque bip du moniteur est interprété, chaque visage de soignant scruté pour y lire ce qu'on ne dit pas encore. La chambre est devenue le monde entier, réduit à quelques mètres carrés."
+      },
+      {
+        "profil": "Infirmier ou médecin pédiatre",
+        "description": "Voit l'espace avec des yeux techniques — état de l'enfant, réponse aux traitements, équilibre de l'équipement. Mais l'espace emotionnel n'est pas absent : les parents épuisés sont aussi des patients à leur manière, et savoir gérer les deux est une compétence à part entière."
+      },
+      {
+        "profil": "Enfant hospitalisé lui-même, assez grand pour observer",
+        "description": "Vit l'hôpital comme un monde parallèle avec ses propres règles — les visites, les soins, les repas à heures fixes. Observe les soignants, écoute ce qu'on dit de lui. La chambre est à la fois prison et cocon. L'ennui et la peur alternent."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de vigile parentale qui révèle l'état intérieur du personnage",
+      "lieu de conversation difficile entre parents sur fond de crise",
+      "révéler la résistance ou la fragilité d'un personnage face à l'impuissance",
+      "contraster la normalité que les soignants maintiennent avec le chaos des parents",
+      "scène de rencontre dans le couloir — deux familles, deux histoires",
+      "ancrer une crise dans un espace qui empêche la fuite"
+    ],
+    "notesEditoriales": [
+      "Les couleurs vives du service pédiatrique sont un détail puissant : elles disent l'effort de l'institution pour nier la maladie par la couleur. Ne pas le laisser passer.",
+      "L'épuisement parental est souvent plus lisible que la maladie de l'enfant — et plus riche narrativement.",
+      "Éviter de centrer la description sur l'enfant malade comme objet de pitié : la pédiatrie est l'histoire des adultes autour autant que de l'enfant lui-même.",
+      "Le bip des moniteurs est un détail sonore auquel on s'habitue — et dont l'absence soudaine est terrifiante. À garder en réserve."
+    ]
+  },
+  {
+    "id": "vieux-port-matin",
+    "label": "Vieux port au petit matin",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "bateaux de pêche amarrés qui oscillent doucement sur l'eau calme",
+      "caisses en plastique empilées sur le quai, restes de la pêche de nuit",
+      "lumière rasante du premier soleil sur l'eau — dorée et froide à la fois",
+      "filets qui sèchent sur des crochets ou étendus sur le quai",
+      "mouettes omniprésentes, bruyantes, attendant leur part",
+      "deux ou trois pêcheurs qui travaillent en silence, dos courbés",
+      "odeur de marée, d'iode et de poisson frais",
+      "cordages enroulés sur les bollards, algues sur les pierres du quai",
+      "eau encore sombre sous la lumière naissante",
+      "café noir dans un thermos posé sur un bord de bateau"
+    ],
+    "emotionsTypiques": [
+      "paix du matin qui n'appartient qu'à ceux qui se lèvent assez tôt",
+      "sentiment d'être dans un monde antérieur au jour officiel",
+      "mélancolie douce liée à la répétition immémoriale du geste",
+      "solitude qui ne pèse pas, presque recherchée",
+      "émerveillement discret face à la beauté fonctionnelle du lieu",
+      "légèreté liée à l'absence du reste du monde encore endormi"
+    ],
+    "ambiance": "Le vieux port au petit matin est un monde avant le monde. Ceux qui sont là n'ont pas attendu le lever du soleil — ils étaient déjà au travail dans le noir. La lumière qui arrive maintenant est leur récompense et leur témoin.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "iode — puissant, marin, fondamental",
+        "poisson frais sur les caisses, pêche de la nuit",
+        "algues exposées à marée basse — forte et végétale",
+        "carburant de moteur de bateau, légèrement huileux",
+        "café chaud qui contraste avec le froid marin"
+      ],
+      "auditifs": [
+        "clapotis de l'eau contre les coques — régulier, somnolent",
+        "craquement des cordages sous la traction légère des bateaux",
+        "cris des mouettes — aigus, insistants, inévitables",
+        "moteur de bateau qui démarre quelque part plus loin",
+        "deux voix d'hommes qui parlent bas — le port parle peu le matin"
+      ],
+      "visuels": [
+        "reflet des bateaux dans l'eau calme — image parfaite puis brisée par un clapotis",
+        "lumière horizontale du matin sur les mâts et les caisses",
+        "brume légère encore présente sur l'eau",
+        "couleurs des coques — rouges, bleues, vertes — contre l'eau grise",
+        "mouettes posées en rang sur une rambarde, orientées dans le même sens",
+        "quai de pierre usée par des siècles de marée et de bottes"
+      ],
+      "tactiles": [
+        "froid marin qui entre sous les vêtements malgré les couches",
+        "cordage rugueux — fibre naturelle ou synthétique selon l'âge du bateau",
+        "humidité sur toute surface — pas de sec dans ce lieu",
+        "sol légèrement glissant — algues, eau, huile de moteur"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Pêcheur de retour de nuit",
+        "description": "Voit le port comme un vestiaire et un repos mérité. Chaque geste d'amarrage est automatique, pensé avec d'autres. La beauté du port à cette heure ne lui échappe pas, mais il ne la nomme pas — il la vit dans les os, depuis des années."
+      },
+      {
+        "profil": "Promeneur insomniaque ou matinal",
+        "description": "Arrive dans un espace dont il n'est pas — et le sait. Observe les pêcheurs avec un mélange de fascination et de distance. Le port lui offre quelque chose de rare : une activité antérieure à son monde, indifférente à lui, et pourtant accessible."
+      },
+      {
+        "profil": "Personnage qui se cache ou qui fuit",
+        "description": "À cette heure, le port est presque vide — presque. Les quelques présents ne regardent pas les autres, trop occupés à leur travail. C'est un lieu de transit possible, d'embarquement, de disparition. La mer est là, et les bateaux sont encore là."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène d'ouverture ou de clôture — la lumière du matin comme seuil",
+      "lieu de rencontre entre deux mondes sociaux ordinairement séparés",
+      "départ ou arrivée d'un personnage qui traverse — littéralement ou symboliquement",
+      "ancrer une conversation difficile dans un espace qui oblige à la lenteur",
+      "utiliser le cycle immuable du port contre l'urgence du personnage",
+      "scène de fuite ou d'embarquement clandestin"
+    ],
+    "notesEditoriales": [
+      "L'iode est l'odeur la plus puissante du lieu — à ne pas oublier mais à ne pas non plus utiliser seule. La combiner avec le café ou le carburant crée la complexité.",
+      "Le vieux port au matin est cliché en photographie. En littérature, il faut choisir le détail juste et inattendu qui le sort du carte postale.",
+      "Les pêcheurs sont des personnages en soi, même s'ils ne parlent pas. Leur présence silencieuse et efficace contraste avec l'état du personnage narrateur.",
+      "La lumière du matin sur l'eau change radicalement selon la saison — à préciser pour ancrer temporellement la scène."
+    ]
+  },
+  {
+    "id": "salon-de-coiffure",
+    "label": "Salon de coiffure",
+    "type": "espace-public",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "miroirs multiples qui renvoient des images démultipliées de soi",
+      "bruit permanent des sèche-cheveux à différentes puissances",
+      "chaises pivotantes en cuir ou similicuir, réglables en hauteur",
+      "bacs à shampoing inclinés, appuie-tête en mousse",
+      "rangées de produits aux couleurs vives — teintes, masques, shampooings",
+      "cape noire ou grise sur les épaules — anonymisation du corps",
+      "coiffeuse qui parle et coupe en même temps, sans perdre le fil",
+      "photos de coupes sur les murs ou dans les magazines feuilletés",
+      "bruits de ciseaux, de peigne sur le cuir chevelu",
+      "clients dans les miroirs — chacun voit tous les autres sans se regarder vraiment"
+    ],
+    "emotionsTypiques": [
+      "légère vulnérabilité — son corps entre les mains de quelqu'un d'autre",
+      "bavardage comme contrat social implicite",
+      "observation des autres sans interaction directe",
+      "attente d'une transformation — impatience ou appréhension",
+      "relâchement progressif sous le toucher régulier",
+      "satisfaction ou déception à la révélation finale dans le miroir"
+    ],
+    "ambiance": "Le salon de coiffure est un des rares endroits où un inconnu touche votre tête depuis longtemps. Cette intimité professionnelle crée une relation particulière — ni amicale ni médicale — qui délie parfois des confidences impossibles ailleurs.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "ammoniaque ou oxydant des produits de coloration — fort, persistant",
+        "shampoing dont le parfum parfois trop sucré envahit l'espace",
+        "laque ou spray fixant — odeur d'alcool et de chimie légère",
+        "cheveux brûlés légèrement par le sèche-cheveux ou le fer",
+        "produit capillaire particulier à chaque client — note personnelle dans la masse"
+      ],
+      "auditifs": [
+        "sèche-cheveux qui empêchent la conversation à plein régime",
+        "ciseaux qui font leur bruit propre et régulier",
+        "radio ou playlist de fond — musique choisie pour plaire à tous donc à personne vraiment",
+        "conversations à voix haute pour couvrir le bruit — confidences criées",
+        "eau chaude qui coule dans le bac à shampoing"
+      ],
+      "visuels": [
+        "image multiple de soi dans les miroirs en vis-à-vis — vertigineuse si on y prête attention",
+        "cheveux au sol — leur propre corps qui tombe et qu'on ne ramasse pas",
+        "couleur des teintures dans les bols — roux, brun, blond",
+        "mains expertes qui séparent, pincent, coupent, tirent",
+        "transformation progressive visible dans le miroir — étape par étape",
+        "magazine ouvert sur les genoux, peu lu en réalité"
+      ],
+      "tactiles": [
+        "eau chaude sur le crâne au shampoing — sensation souvent inattendue de bien-être",
+        "peigne qui tire légèrement, ciseaux que l'on sent sans voir",
+        "cape plastique autour du cou — légèrement inconfortable",
+        "massages du cuir chevelu selon les coiffeuses — intentionnels ou non"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Client habitué qui vient depuis des années",
+        "description": "La coiffeuse est une confidente professionnelle. Il parle de sa vie, de ses enfants, de son travail — et sait que tout s'arrêtera à la sortie. Cet espace entre parenthèses lui permet des aveux qu'il ne ferait pas à ses proches. La coiffeuse sait et n'est pas impliquée."
+      },
+      {
+        "profil": "Client qui vient pour la première fois après une rupture ou un événement",
+        "description": "La coupe est un geste symbolique — transformer l'extérieur pour que quelque chose de l'intérieur change aussi. Le miroir le montre avant et pendant : la transformation physique est réelle et insuffisante en même temps, et il le sait avant la fin."
+      },
+      {
+        "profil": "Coiffeuse en fin de journée",
+        "description": "A entendu sept versions de la vie des autres, fait semblant de s'intéresser à sept problèmes familiaux différents, souri à des plaisanteries répétitives. Les mains travaillent seules depuis longtemps. Le salon avant la fermeture est épuisant d'une manière que peu de gens comprennent."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu de confidence involontaire ou délibérée entre deux personnages",
+      "transformation physique comme marqueur narratif d'une rupture intérieure",
+      "espace d'observation du monde social local — qui vient, comment ils parlent",
+      "relation coiffeuse-client comme relation de confiance atypique à exploiter",
+      "scène de révélation dans le miroir — le personnage se voit enfin",
+      "contraste entre le bavardage de surface et la vérité intérieure du personnage"
+    ],
+    "notesEditoriales": [
+      "Le miroir du salon de coiffure est l'un des rares espaces où un personnage est forcé de se regarder longtemps. C'est une opportunité narrative à ne pas manquer.",
+      "La relation coiffeuse-client est codifiée mais intime : à mi-chemin entre l'ami et le thérapeute, avec l'avantage de n'être ni l'un ni l'autre.",
+      "L'odeur de produits chimiques est souvent la plus puissante du lieu — à ne pas négliger, elle ancre immédiatement.",
+      "Éviter la coupure de cheveux comme simple geste esthétique : en littérature, on coupe ses cheveux quand quelque chose change. Même si le personnage dit que non."
+    ]
+  },
+  {
+    "id": "appartement-apres-vol",
+    "label": "Appartement après un cambriolage",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "tiroirs ouverts ou renversés — contenu éparpillé sur le sol",
+      "porte ou fenêtre forcée — trace du passage violent",
+      "objets déplacés de leur place habituelle, certains brisés",
+      "garde-robe fouillée — vêtements entassés au sol",
+      "étagères vidées de leurs objets de valeur, traces de poussière là où ils étaient",
+      "silence particulier d'un lieu qui a été traversé par quelqu'un d'autre",
+      "effets personnels dispersés — papiers, photos, médicaments",
+      "cuisine fouillée — placard ouvert, boîtes retournées",
+      "sensation de présence étrangère laissée dans chaque objet déplacé",
+      "frontière entre ce qui a été pris et ce qui a été ignoré"
+    ],
+    "emotionsTypiques": [
+      "violation ressentie comme physique, presque corporelle",
+      "sentiment de vulnérabilité dans son propre espace",
+      "colère mêlée d'impuissance",
+      "nausée ou vertige face au désordre imposé",
+      "étrange culpabilité — aurais-je pu empêcher cela ?",
+      "perte de sens du foyer comme lieu sûr, parfois durable"
+    ],
+    "ambiance": "Ce qui frappe en premier, c'est le silence. Puis le désordre — mais un désordre précis, intentionnel, étranger. Quelqu'un est passé là, a tenu tous ces objets entre ses mains, et est reparti. L'appartement ne dit plus 'tu es chez toi'.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur étrangère — parfum ou transpiration de l'intrus, persistant",
+        "poussière soulevée des étagères remuées",
+        "bois de tiroir — odeur familière devenue inquiétante",
+        "air froid depuis la fenêtre ou la porte forcée, encore ouverte"
+      ],
+      "auditifs": [
+        "silence total — plus aucun bruit familier de l'appartement habité",
+        "craquement du sol sous ses propres pas — trop audible dans ce silence",
+        "bruit de verre brisé sous la semelle si quelque chose a été cassé",
+        "vent qui entre par l'ouverture forcée"
+      ],
+      "visuels": [
+        "tiroirs renversés — intérieur exposé comme une blessure",
+        "contour de poussière là où un objet était — absence en creux",
+        "effets personnels au sol — la désinvolture du cambrioleur lisible dans le geste",
+        "porte forcée — bois éclisé, serrure tordue",
+        "photo retournée ou brisée — objet sans valeur marchande traité avec la même violence",
+        "lit fouillé — draps arrachés, matelas déplacé"
+      ],
+      "tactiles": [
+        "objet personnel tenu dans les mains avec conscience que quelqu'un d'autre l'a tenu",
+        "poignée de porte à l'entrée — froide, et désormais suspecte",
+        "verre brisé sous la semelle — irréversibilité physique de l'intrusion",
+        "matelas ou coussin déplacé de son emplacement — corps de l'espace perturbé"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Occupant qui rentre et découvre",
+        "description": "Comprend avant même d'entrer vraiment — quelque chose ne va pas. L'inventaire des absences commence immédiatement et ne s'arrêtera pas de sitôt. Ce n'est pas tant la valeur des objets volés qui dure, mais l'image de l'inconnu dans ses affaires — une présence qui ne part pas avec lui."
+      },
+      {
+        "profil": "Policier venu constater",
+        "description": "Lit le lieu comme un texte — point d'entrée, direction du passage, objets visés, objets ignorés. La violence du désordre lui dit quelque chose sur l'intrus. L'espace intime de la victime lui est indifférent en tant que tel : c'est une scène à analyser."
+      },
+      {
+        "profil": "Enfant qui découvre avec ses parents",
+        "description": "Voit d'abord sa chambre — si elle a été touchée, si ses affaires sont là. La réaction des parents lui dit si c'est grave ou très grave. La violation de l'espace qui lui appartient est vécue différemment : ses jouets déplacés disent que même ici, l'espace n'est pas inviolable."
+      }
+    ],
+    "usagesNarratifs": [
+      "déclencher une intrigue à partir de ce qui a été pris ou laissé",
+      "révéler la vie intérieure d'un personnage par ce qu'un cambrioleur a ignoré",
+      "créer un sentiment de vulnérabilité persistant dans un personnage jusqu'alors sécurisé",
+      "scène de retour dans un espace devenu étranger à soi-même",
+      "objet volé ou non volé comme pivot de l'intrigue",
+      "montrer la réaction d'un couple ou d'une famille face à la même violation — différences révélatrices"
+    ],
+    "notesEditoriales": [
+      "Ce qui a été ignoré par le cambrioleur est souvent plus narrativement intéressant que ce qui a été pris : qu'est-ce qui n'a pas de valeur marchande mais en avait pour l'occupant ?",
+      "L'odeur étrangère est un détail souvent négligé mais extrêmement puissant — l'intrus laisse une trace olfactive que la victime ne peut pas éliminer immédiatement.",
+      "La durée de la violation compte : un cambriolage rapide et ciblé dit autre chose qu'une fouille longue et méthodique — cela dit quelque chose sur ce qui était cherché.",
+      "Éviter de surcharger la scène de détails : le désordre doit être précis, pas exhaustif. Deux ou trois détails forts valent mieux qu'une liste."
+    ]
+  },
+  {
+    "id": "discothèque-fin-nuit",
+    "label": "Discothèque à la fermeture",
+    "type": "espace-public",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "lumières qui s'allument progressivement — révélation cruelle de l'espace réel",
+      "sol collant sous les semelles — boissons renversées, sueur de la nuit",
+      "musique qui s'est tue ou ralentit jusqu'à l'arrêt",
+      "odeur de transpiration collective et d'alcool évaporé",
+      "corps fatigués qui cherchent leurs affaires, leurs amis, leurs manteaux",
+      "verres vides ou à moitié plein laissés sur toutes les surfaces",
+      "lumière du couloir ou de la sortie — trop blanche après les néons colorés",
+      "vigiles qui guident vers la sortie sans brusquerie apparente",
+      "personnes seules dans un espace prévu pour la cohue",
+      "visages différents à la lumière normale — maquillage coulé, fatigue visible"
+    ],
+    "emotionsTypiques": [
+      "fin de la fête — retour au réel plus ou moins brutal",
+      "ivresse qui lâche ou se corse selon les individus",
+      "solitude au milieu de la dispersion du groupe",
+      "légère mélancolie de ce qui se termine",
+      "soulagement pour certains — la nuit est finie",
+      "désir suspendu ou accompli selon les trajectoires"
+    ],
+    "ambiance": "La discothèque à la fermeture est le seul moment où le lieu montre ce qu'il est vraiment : un espace commercial dont la magie tenait à l'obscurité et au bruit. La lumière qui revient ne ment pas.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "alcool renversé — sucré, écœurant à cette heure",
+        "transpiration de centaines de corps concentrée dans les murs",
+        "parfum en train de s'évaporer — la nuit a consommé les fragrances",
+        "fumée de cigarette filtrée depuis l'extérieur où les gens finissent leur soirée",
+        "produit de nettoyage qui commence à poindre depuis la cuisine ou les toilettes"
+      ],
+      "auditifs": [
+        "silence soudain après des heures de musique — tympans qui bourdonnent",
+        "conversations revenues à leur volume normal — étonnamment ordinaires",
+        "sol qui colle à chaque pas — bruit spécifique et déplaisant",
+        "voix du DJ ou du gérant qui annonce la fermeture",
+        "bruit dehors — taxis, voix qui sortent, pluie parfois"
+      ],
+      "visuels": [
+        "lumière blanche qui révèle ce que les néons cachaient — visages, sol, murs",
+        "manteaux retrouvés ou perdus au vestiaire — file d'attente épuisée",
+        "verres vides en colonnes sur les tables — bilan de la nuit",
+        "sol qui brille sous la lumière — humide de tout ce qui a été renversé",
+        "groupe qui se reconstitue ou se défait selon ce qui s'est passé",
+        "visage dans un miroir de sac à main — vérification discrète de l'état réel"
+      ],
+      "tactiles": [
+        "sol collant — chaque pas requiert un léger effort supplémentaire",
+        "manteau retrouvé — froid par contraste avec la chaleur de la nuit",
+        "téléphone sorti pour appeler un taxi — objet redevenu utilitaire",
+        "air de dehors sur la peau en sortant — brutal et bienvenu"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Personne qui a passé une bonne nuit",
+        "description": "La fermeture est une interruption douce d'un état de grâce. Sort avec quelqu'un ou avec le souvenir de quelqu'un. La lumière cruelle ne l'atteint pas encore. La nuit a tenu ses promesses et le corps le sait — fatigue heureuse, tympans qui bourdonnent agréablement."
+      },
+      {
+        "profil": "Personne qui a passé une mauvaise nuit",
+        "description": "La fermeture est un soulagement. La lumière qui revient dit : c'est fini. Le sol collant, les visages fatigués, le manteau qu'on finit par trouver — tout ça est du concret après des heures d'émotions inconfortables. Dehors, le monde normal attend."
+      },
+      {
+        "profil": "Personnel de la discothèque",
+        "description": "Commence le vrai travail — ramasser les verres, nettoyer le sol, compter la caisse. La nuit de fête des autres est sa nuit de travail. La lumière revenue est un signal : cette phase est terminée, la suivante commence. Les visages des clients qui partent ne l'intéressent plus."
+      }
+    ],
+    "usagesNarratifs": [
+      "moment de vérité après une nuit qui a changé quelque chose",
+      "confrontation brutale entre l'état émotionnel du personnage et la réalité du lieu révélée par la lumière",
+      "séparation ou retrouvailles dans le chaos de la dispersion",
+      "scène de lendemain qui commence avant la sortie",
+      "révélation ou conversation qui ne pouvait avoir lieu que dans ce moment de transition",
+      "personnage seul dans un espace prévu pour la foule — solitude maximale"
+    ],
+    "notesEditoriales": [
+      "La lumière qui revient est la vraie dramatisation du lieu : elle annule la magie et montre ce qui reste. Ne pas rater ce moment.",
+      "Le sol collant est un détail sensoriel précis et efficace — il dit l'excès, la nuit, l'après.",
+      "La discothèque à la fermeture est un espace de transition puissant : personne n'est encore sorti, personne n'est plus en train de faire la fête. C'est un entre-deux idéal pour des scènes de bascule.",
+      "Éviter la nostalgie facile de 'la fête qui se termine' : la fermeture peut aussi être un soulagement, une libération, une violence douce selon le personnage."
+    ]
+  }
+]

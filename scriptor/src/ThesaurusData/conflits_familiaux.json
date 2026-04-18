@@ -1,0 +1,708 @@
+[
+  {
+    "id": "rivalite-fraternelle",
+    "label": "Rivalité fraternelle",
+    "alias": ["rivalité fraternelle", "rivalite fraternelle", "jalousie fraternelle", "conflit entre frères", "conflit entre sœurs", "conflit de fratrie", "compétition entre enfants", "blessure fraternelle", "jalousie de fratrie", "enfant préféré"],
+    "famille": "conflits-familiaux",
+    "definitionCourte": "Opposition durable entre frères et sœurs, souvent nourrie par la comparaison parentale, la compétition pour l'amour ou la reconnaissance, et une mémoire commune chargée.",
+    "natureDuConflit": "Conflit d'appartenance et de reconnaissance au sein du premier groupe social du personnage.",
+    "forcesEnPresence": [
+      "comparaison parentale ancienne et répétée",
+      "compétition pour l'amour, la préférence ou la reconnaissance",
+      "rôles figés dans la fratrie depuis l'enfance",
+      "mémoire sélective des injustices de chaque côté",
+      "identités construites en opposition l'une contre l'autre",
+      "événements familiaux qui rouvrent les vieilles blessures",
+      "besoin de validation parentale encore actif à l'âge adulte"
+    ],
+    "declencheursFrequents": [
+      "succès ou échec visible d'un des enfants qui ravive la comparaison",
+      "héritage — symbolique ou matériel — à partager",
+      "événement familial fort qui met les deux en présence",
+      "naissance d'un enfant ou d'un neveu qui redistribue les attentions",
+      "maladie ou mort d'un parent qui force à coopérer",
+      "moment de vie qui révèle que l'un a 'mieux réussi' que l'autre",
+      "favoritisme passé jamais dit qui resurgit dans une décision concrète",
+      "retour d'un absent qui rompt l'équilibre instauré"
+    ],
+    "signauxAvantCoureurs": [
+      "comparaisons passées qui reviennent dans la conversation sans raison apparente",
+      "tension palpable lors des réunions familiales malgré une façade polie",
+      "sujets soigneusement évités entre les deux",
+      "compétition déguisée en mise à jour de nouvelles",
+      "enfants utilisés inconsciemment comme terrain de comparaison",
+      "piques habillées en humour familier",
+      "réaction disproportionnée à une remarque anodine de l'autre",
+      "regard du parent cherché après chaque succès pour vérifier qui il regarde"
+    ],
+    "silencesEtNonDits": [
+      "personne ne dira 'tu as toujours été le préféré'",
+      "la blessure d'origine n'est jamais nommée directement",
+      "l'amour entre eux n'est jamais dit non plus",
+      "'je t'envie' reste inexprimé pour toujours",
+      "ce que chacun a sacrifié à cause du rôle qu'on lui a assigné ne se dit pas",
+      "la question 'est-ce que tu m'aurais aimé si on n'était pas frères ?' reste muette"
+    ],
+    "penseesTypiques": [
+      "Il a toujours eu la part belle.",
+      "Pourquoi ce que je fais ne compte jamais autant ?",
+      "On ne sera jamais vraiment quittes.",
+      "Je l'aime, mais je ne le supporte pas.",
+      "Maman l'a toujours défendu, quoi qu'il fasse.",
+      "On est les seuls à savoir vraiment ce qu'on a vécu — et même ça, on le vit différemment.",
+      "Si je réussis mieux, ça prouvera quelque chose. À lui. Aux parents. À moi.",
+      "Je ne veux pas être comme lui. Et j'ai peur de lui ressembler.",
+      "On pourrait être proches. On aurait pu. Quelque chose s'est cassé trop tôt."
+    ],
+    "comportementsTypiques": [
+      "compétition dans les nouvelles échangées — carrière, enfants, maison",
+      "alliances changeantes avec les parents contre l'autre",
+      "évitement entre les réunions familiales obligatoires",
+      "surenchère discrète sur les réussites respectives",
+      "rancœur réactivée à chaque événement important",
+      "chaleur de façade qui masque une vraie distance",
+      "parentalité vécue comme une revanche ou une réparation",
+      "retour en mode enfant dès la présence des parents"
+    ],
+    "positionsDePouvoir": [
+      "souvent fluctuante selon les phases de vie — l'un réussit quand l'autre traverse une crise",
+      "l'enfant préféré détient un pouvoir symbolique fort qui structure tout le reste",
+      "la maladie ou la mort d'un parent redistribue les positions et les responsabilités",
+      "celui qui reste proche des parents géographiquement prend un pouvoir de fait"
+    ],
+    "variantes": [
+      {
+        "relation": "Aîné et cadet",
+        "description": "L'aîné a porté les attentes, le cadet a bénéficié de l'assouplissement. Chacun pense que l'autre a eu la meilleure part. La rancœur est symétrique mais de nature entièrement différente — l'un souffre d'avoir trop porté, l'autre d'avoir été sous-estimé."
+      },
+      {
+        "relation": "Fratrie de même sexe",
+        "description": "La comparaison est plus directe et plus constante. Les rôles sont plus figés. La compétition peut s'étendre aux partenaires, aux carrières, aux enfants. L'un est souvent défini par rapport à l'autre depuis l'enfance."
+      },
+      {
+        "relation": "Demi-frères ou demi-sœurs",
+        "description": "La rivalité porte aussi sur la légitimité dans la famille recomposée. La question 'qui appartient vraiment à qui ?' est sous-jacente à chaque tension. L'amour partagé est réel mais aussi perçu comme un territoire à défendre."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Friction de fond", "description": "Tension légère, piques rares. Visible surtout lors des réunions familiales. Les deux s'entendent à peu près." },
+      { "niveau": 2, "label": "Compétition active", "description": "Comparaisons régulières, besoin persistant de valider sa propre valeur face à l'autre. La relation est teintée de compétition permanente." },
+      { "niveau": 3, "label": "Rancœur installée", "description": "Des griefs anciens structurent la relation. Les deux évitent certains sujets pour ne pas exploser." },
+      { "niveau": 4, "label": "Rupture partielle", "description": "Contact réduit au minimum. La relation ne tient que par obligation familiale ou par les parents." },
+      { "niveau": 5, "label": "Rupture totale", "description": "Les deux ne se parlent plus. La famille est divisée. Les événements communs deviennent des champs de mines." }
+    ],
+    "escaladeTypique": [
+      "blessure ancienne jamais résolue — favoritisme, comparaison, injustice",
+      "déclencheur lié à un événement familial fort",
+      "confrontation ouverte ou silence prolongé et distance",
+      "alliance d'un côté dans la famille — les parents pris en étau",
+      "rupture ou réconciliation de surface sans résolution profonde"
+    ],
+    "voiesDeResolution": [
+      "crise commune qui force la coopération au-delà de la rancœur",
+      "mort d'un parent qui oblige à se retrouver face à face sans tampon",
+      "l'un nomme la blessure ancienne sans attaque ni reproche",
+      "moment de vérité hors contexte familial — voyage, accident, maladie",
+      "acceptation que la réconciliation totale n'est pas nécessaire à la paix"
+    ],
+    "blessuresUnderlyantes": [
+      "sentiment d'avoir été moins aimé ou moins reconnu pendant des années",
+      "comparaison parentale répétée dès l'enfance qui a forgé l'identité",
+      "rôle figé dans la famille dont on n'a jamais pu sortir",
+      "injustice réelle ou perçue jamais réparée par les parents",
+      "amour non dit qui s'est transformé en rancœur faute d'expression"
+    ],
+    "contextesFavorables": [
+      "réunions familiales à fort enjeu émotionnel",
+      "décisions à prendre ensemble sur les parents âgés",
+      "héritage à partager qui remet tout sur la table",
+      "période de succès ou d'échec visible pour l'un des deux",
+      "famille avec fort favoritisme historique jamais nommé"
+    ],
+    "personnagesSouventConcernes": [
+      "enfant qui a porté les attentes familiales et ressent que l'autre en a profité",
+      "enfant qui s'est senti invisible ou moins aimé malgré ses efforts",
+      "fratrie avec fort écart d'âge ou de trajectoire de vie",
+      "famille recomposée où les légitimités sont floues",
+      "adulte qui rejoue la rivalité fraternelle dans ses relations professionnelles"
+    ],
+    "erreursDEcriture": [
+      "Résoudre la rivalité fraternelle par une seule conversation — des décennies de rancœur ne se règlent pas en une scène.",
+      "Désigner clairement un coupable — dans une bonne rivalité fraternelle, les deux ont tort et raison simultanément.",
+      "Oublier l'amour — la rivalité est d'autant plus douloureuse qu'il y a un attachement réel sous la tension.",
+      "Confondre avec la rivalité entre étrangers — ici la blessure vient de l'intérieur du foyer, elle est plus ancienne et plus profonde.",
+      "Oublier les parents comme acteurs — ils sont souvent encore présents dans le conflit même s'ils sont morts."
+    ],
+    "notesEditoriales": [
+      "La rivalité fraternelle est l'une des plus riches à écrire parce qu'elle mêle amour, blessure et mémoire partagée.",
+      "Sa force est dans les non-dits accumulés — une scène de réunion familiale peut en dire plus qu'un long dialogue.",
+      "Les parents sont toujours présents dans ce conflit, même s'ils sont morts ou absents.",
+      "Le moment le plus fort : quand l'un réalise qu'il envie quelque chose que l'autre n'a pas vraiment eu."
+    ],
+    "dynamiqueAssociee": { "id": "rivalite-fraternelle-installee", "label": "Rivalité fraternelle installée" }
+  },
+  {
+    "id": "emprise-parentale",
+    "label": "Emprise parentale",
+    "alias": ["emprise parentale", "parent toxique", "parents toxiques", "contrôle parental", "parent envahissant", "mère toxique", "père toxique", "parent narcissique", "parent possessif", "emprise affective parentale"],
+    "famille": "conflits-familiaux",
+    "definitionCourte": "Relation dans laquelle un parent maintient sur son enfant — même adulte — un contrôle psychologique qui limite son autonomie, souvent sous couvert d'amour ou de protection.",
+    "natureDuConflit": "Conflit entre le besoin d'appartenance et le besoin d'autonomie — l'enfant ne peut pas être pleinement lui-même sans rompre le lien.",
+    "forcesEnPresence": [
+      "amour réel mais conditionnel — donné si l'enfant reste conforme",
+      "culpabilité entretenue comme outil de contrôle",
+      "identité de l'enfant construite pour répondre aux besoins du parent",
+      "dépendance affective ou matérielle maintenue parfois volontairement",
+      "normalisation du contrôle par l'enfant — il ne voit plus que c'est anormal",
+      "entourage familial qui valide le comportement du parent",
+      "peur du parent de se retrouver seul si l'enfant s'émancipe"
+    ],
+    "declencheursFrequents": [
+      "autonomie croissante de l'enfant adulte — logement, travail, vie propre",
+      "relation amoureuse ou amicale perçue comme concurrente par le parent",
+      "succès de l'enfant qui lui donne les moyens de s'affranchir",
+      "refus ou limite posée clairement par l'enfant pour la première fois",
+      "déménagement ou prise d'indépendance géographique",
+      "thérapie ou accompagnement qui change le regard de l'enfant",
+      "partenaire de l'enfant qui nomme ce que l'enfant n'osait pas voir",
+      "naissance d'un enfant qui redistribue les priorités affectives"
+    ],
+    "signauxAvantCoureurs": [
+      "culpabilisation à chaque absence ou distance même brève",
+      "commentaires qui rabaissent habillés en inquiétude sincère",
+      "appels ou messages dont la fréquence ne respecte pas les limites",
+      "décisions de l'enfant systématiquement remises en question",
+      "introduction du parent dans tous les aspects de la vie de l'enfant",
+      "aide proposée qui crée une dette implicite",
+      "maladie ou fragilité soudaine dès que l'enfant annonce une liberté",
+      "comparaisons avec d'autres enfants plus 'reconnaissants'"
+    ],
+    "silencesEtNonDits": [
+      "le parent ne dira jamais 'j'ai besoin que tu restes dépendant de moi'",
+      "l'enfant ne dira pas 'tu m'étouffes' — il dira 'je suis occupé'",
+      "'tu m'as sacrifié une partie de moi' reste dans la gorge",
+      "la gratitude sincère et la rancœur coexistent sans jamais être dites ensemble",
+      "le parent ne sait souvent pas consciemment ce qu'il fait",
+      "l'enfant ne sait souvent pas que ce qu'il vit n'est pas la norme"
+    ],
+    "penseesTypiques": [
+      "Si je lui dis non, elle va être dévastée.",
+      "Je lui dois tout — comment pourrais-je lui en vouloir ?",
+      "Personne ne comprend à quel point c'est épuisant.",
+      "Je l'aime, mais j'ai besoin qu'il parte de ma vie.",
+      "Est-ce que c'est normal ce que je ressens, ou suis-je un mauvais fils ?",
+      "Chaque fois que je pense à poser une limite, je me sens coupable avant même d'avoir agi.",
+      "Elle fait ça par amour. Je le sais. Ça ne change rien à ce que ça me fait.",
+      "Je ne peux pas lui expliquer pourquoi j'ai besoin d'espace — elle le prendrait comme un rejet.",
+      "Si je me libère, est-ce que je l'abandonne — ou est-ce que je me sauve ?"
+    ],
+    "comportementsTypiques": [
+      "double vie — une version pour le parent, une pour soi",
+      "mensonges par omission répétés pour éviter les conflits",
+      "épuisement émotionnel perceptible après chaque interaction",
+      "relations amoureuses sabotées ou complexifiées par l'intrusion parentale",
+      "sentiment de culpabilité chronique indépendant des actes réels",
+      "retour aux anciens schémas dès la présence physique du parent",
+      "évitement progressif qui masque l'incapacité à poser une limite",
+      "explosion soudaine après accumulation trop longue, suivie de remords"
+    ],
+    "positionsDePouvoir": [
+      "le parent détient le pouvoir affectif et souvent matériel",
+      "l'enfant adulte peut reprendre du pouvoir par la distance et la limite",
+      "la mort du parent peut libérer mais aussi déclencher un deuil complexe mêlé de culpabilité",
+      "les partenaires de l'enfant entrent dans un triangle de pouvoir non dit"
+    ],
+    "variantes": [
+      {
+        "relation": "Mère et fils",
+        "description": "L'emprise s'exerce souvent via la culpabilité et le sacrifice affiché. Le fils adulte peine à poser des limites sans se sentir ingrat. Ses relations amoureuses peuvent en pâtir directement — la partenaire devient une rivale pour le fils."
+      },
+      {
+        "relation": "Père et fille",
+        "description": "L'emprise peut s'exercer via le contrôle des choix, le jugement sur les partenaires ou une protection envahissante déguisée en bienveillance. La fille intègre parfois un regard masculin permanent sur ses décisions."
+      },
+      {
+        "relation": "Parent et enfant adulte indépendant",
+        "description": "L'emprise se manifeste lors des retours — vacances, événements familiaux. L'enfant régresse dans ses anciens schémas dès qu'il rentre. La distance géographique aide mais ne résout pas ce qui est intérieur."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Influence forte", "description": "Le parent a beaucoup de poids dans les décisions. L'enfant l'accepte sans vraiment le questionner encore." },
+      { "niveau": 2, "label": "Contrôle installé", "description": "L'enfant adapte ses choix aux attentes du parent. Légère culpabilité lors des écarts." },
+      { "niveau": 3, "label": "Emprise établie", "description": "L'enfant ne prend plus de décision importante sans l'intégrer. Épuisement chronique et double vie." },
+      { "niveau": 4, "label": "Contrôle envahissant", "description": "La vie de l'enfant est organisée autour du parent. Les relations extérieures en souffrent visiblement." },
+      { "niveau": 5, "label": "Fusion toxique", "description": "L'enfant n'a plus d'espace propre. Toute tentative d'autonomie déclenche une crise qui le ramène en arrière." }
+    ],
+    "escaladeTypique": [
+      "dépendance normalisée depuis l'enfance comme modèle d'amour",
+      "tentative d'autonomie à l'adolescence ou à l'âge adulte",
+      "culpabilisation ou crise du parent qui replace l'enfant dans son rôle",
+      "retour à la conformité ou rupture partielle",
+      "conflit ouvert ou distance durable — souvent lors d'un événement de vie majeur"
+    ],
+    "voiesDeResolution": [
+      "pose d'une limite claire, tenue malgré la réaction du parent",
+      "travail sur la culpabilité — comprendre qu'elle est entretenue, pas méritée",
+      "soutien d'un tiers extérieur qui valide le besoin d'espace",
+      "distance physique comme première étape vers la distance psychologique",
+      "thérapie qui aide à distinguer l'amour du contrôle"
+    ],
+    "blessuresUnderlyantes": [
+      "parent lui-même en manque affectif profond lié à son propre parcours",
+      "peur de l'abandon ou de la perte héritée de l'histoire du parent",
+      "modèle de parentalité fusionnelle transmis sur plusieurs générations",
+      "enfant ayant servi de confident, de soutien ou de partenaire émotionnel trop tôt",
+      "époque ou culture où la proximité familiale était la seule norme valorisée"
+    ],
+    "contextesFavorables": [
+      "enfant unique ou enfant 'élu' dans la fratrie",
+      "parent sans vie affective ou sociale propre — tout l'amour va à l'enfant",
+      "famille où l'autonomie est perçue comme une trahison ou un abandon",
+      "culture familiale qui valorise la fusion au détriment des limites",
+      "moment de vie de l'enfant qui menace l'équilibre établi"
+    ],
+    "personnagesSouventConcernes": [
+      "enfant adulte encore en quête de validation parentale malgré son âge",
+      "enfant ayant endossé le rôle de soutien émotionnel du parent trop jeune",
+      "enfant unique ou enfant préféré de la fratrie",
+      "personnage dont les relations amoureuses répètent la dynamique parentale",
+      "partenaire d'un enfant sous emprise qui subit le triangle à distance"
+    ],
+    "erreursDEcriture": [
+      "Rendre le parent purement malveillant — l'emprise la plus difficile à quitter est celle qui vient d'un amour réel, même mal exprimé.",
+      "Résoudre par une confrontation libératrice en une scène — poser une limite à un parent prend du temps et plusieurs tentatives.",
+      "Oublier la culpabilité résiduelle après la libération — même quand l'enfant s'éloigne, la culpabilité reste un moment.",
+      "Confondre emprise parentale et mauvaise entente — l'emprise est structurelle, pas situationnelle.",
+      "Oublier que l'enfant aime le parent — c'est cet amour qui rend la situation inextricable."
+    ],
+    "notesEditoriales": [
+      "L'emprise parentale est particulièrement puissante parce qu'elle implique un amour sincère des deux côtés — c'est ce qui la rend inextricable.",
+      "Le personnage sous emprise ne cherche pas à quitter le parent — il cherche à exister sans le perdre.",
+      "Distinguer l'emprise consciente et calculée de l'emprise issue d'un manque — les deux existent, les deux sont différentes à écrire.",
+      "Le moment le plus fort : quand l'enfant réalise que sa culpabilité ne prouve pas qu'il a tort."
+    ],
+    "dynamiqueAssociee": { "id": "emprise-parentale", "label": "Emprise parentale" }
+  },
+  {
+    "id": "secret-de-famille",
+    "label": "Secret de famille",
+    "alias": ["secret de famille", "secret familial", "vérité cachée", "mensonge de famille", "non-dit familial", "passé caché", "histoire dissimulée", "mensonge fondateur", "silence de famille", "vérité enfouie"],
+    "famille": "conflits-familiaux",
+    "definitionCourte": "Vérité dissimulée collectivement par une famille — consciemment ou non — dont la révélation menace l'identité ou la cohésion du groupe.",
+    "natureDuConflit": "Conflit entre la vérité et la protection — du groupe, d'un individu, ou d'une image construite sur des décennies.",
+    "forcesEnPresence": [
+      "loyauté familiale qui interdit la révélation",
+      "honte à l'origine du secret — acte, naissance, identité",
+      "peur de ce que la vérité déclencherait dans la famille",
+      "personnage qui sait et personnage qui cherche sans savoir exactement quoi",
+      "pression du silence sur tous les porteurs du secret",
+      "génération suivante qui pose des questions sans les tabous anciens",
+      "document ou preuve qui attend d'être trouvé"
+    ],
+    "declencheursFrequents": [
+      "mort d'un membre qui était le gardien principal du secret",
+      "document, lettre, photo ou objet découverts par hasard",
+      "maladie héréditaire qui force une révélation médicale",
+      "enfant adulte qui pose des questions auxquelles on ne peut plus répondre",
+      "rencontre fortuite avec quelqu'un de l'extérieur qui sait",
+      "recherche généalogique ou ADN qui révèle une vérité non attendue",
+      "thérapie qui remonte à des zones blanches de l'histoire familiale",
+      "crise qui oblige à chercher dans les archives ou les papiers"
+    ],
+    "signauxAvantCoureurs": [
+      "sujets qui se ferment brutalement lors de certaines questions",
+      "réactions disproportionnées à des questions innocentes",
+      "zones blanches dans l'histoire familiale — périodes, personnes, lieux",
+      "ressemblances ou différences inexpliquées qui intriguent",
+      "photos manquantes, noms jamais prononcés, dates qui ne collent pas",
+      "adultes qui échangent un regard quand un enfant pose la mauvaise question",
+      "version officielle répétée avec trop de soin ou trop d'identité",
+      "nervosité visible ou changement de sujet rapide lors de certains récits"
+    ],
+    "silencesEtNonDits": [
+      "la question directe n'est jamais posée — ou jamais vraiment répondue",
+      "certains membres savent que les autres savent — et personne ne dit",
+      "ce que le secret a coûté à ceux qui le portent n'est jamais dit",
+      "la honte à l'origine n'est jamais nommée",
+      "ce que la vérité changerait pour chacun n'est jamais envisagé à voix haute",
+      "la question 'vaut-il mieux ne pas savoir ?' reste muette"
+    ],
+    "penseesTypiques": [
+      "Quelque chose ne colle pas dans ce qu'on m'a raconté.",
+      "Pourquoi personne ne parle jamais de lui ?",
+      "Si je creuse, est-ce que je veux vraiment savoir ?",
+      "Je pensais connaître ma famille. Je ne connaissais qu'une version.",
+      "Ils ont tous menti — ou ils ont tous laissé mentir.",
+      "La vérité explique tellement de choses que je n'arrivais pas à comprendre.",
+      "Qui d'autre sait ? Depuis combien de temps ?",
+      "Ce secret a coûté quelque chose à quelqu'un. Qui en a payé le prix ?",
+      "Est-ce que je suis en colère contre eux — ou soulagé d'enfin comprendre ?"
+    ],
+    "comportementsTypiques": [
+      "recherches discrètes dans les archives, les papiers, les photos",
+      "questions indirectes pour tester les réactions sans révéler qu'on cherche",
+      "confrontation avec le membre le plus susceptible de parler ou le plus fragile",
+      "isolation du personnage qui en sait trop — par les autres ou de lui-même",
+      "alliances de silence maintenues par peur ou loyauté",
+      "obsession qui s'installe et prend de la place sur le reste de la vie",
+      "paralysie face à la révélation — savoir et ne rien faire",
+      "explosion ou effondrement au moment où la vérité sort entièrement"
+    ],
+    "positionsDePouvoir": [
+      "celui qui sait détient un pouvoir sur ceux qui cherchent — qu'il veuille ou non l'exercer",
+      "la révélation peut redistribuer les positions dans toute la famille",
+      "le gardien du secret porte souvent une charge épuisante qu'il ne peut partager avec personne",
+      "celui qui découvre peut choisir ce qu'il fait de cette vérité — nouveau pouvoir"
+    ],
+    "variantes": [
+      {
+        "relation": "Filiation cachée",
+        "description": "Un parent biologique différent, une adoption non dite, un enfant illégitime. Le secret touche à l'identité la plus fondamentale. Sa révélation remet en question qui l'on est — et parfois, ce que sont les autres."
+      },
+      {
+        "relation": "Acte honteux d'un ancêtre",
+        "description": "Collaboration, crime, trahison passée. La famille a construit son image sur une fiction. La révélation touche à la honte collective et à la responsabilité transgénérationnelle. Qui a hérité de quoi ?"
+      },
+      {
+        "relation": "Maladie ou mort cachée",
+        "description": "Suicide présenté comme accident, maladie psychiatrique effacée de l'histoire. Le secret protège les vivants mais empêche les autres de comprendre leur propre histoire — et parfois leur propre santé."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Non-dit tacite", "description": "Sujet évité sans que ce soit clairement interdit. Personne ne cherche vraiment. La vie continue." },
+      { "niveau": 2, "label": "Zone protégée", "description": "Le silence est actif. Certains savent qu'il ne faut pas poser la question, sans savoir pourquoi." },
+      { "niveau": 3, "label": "Secret gardé", "description": "Un ou plusieurs membres portent consciemment la vérité. La tension est palpable pour qui regarde." },
+      { "niveau": 4, "label": "Révélation partielle", "description": "Une vérité incomplète émerge. Elle ouvre plus de questions qu'elle n'en ferme. Le groupe est déstabilisé." },
+      { "niveau": 5, "label": "Révélation totale", "description": "La vérité éclate. Elle remet en question l'histoire de tous. Les réactions sont imprévisibles et irréversibles." }
+    ],
+    "escaladeTypique": [
+      "secret installé depuis longtemps, transmis ou maintenu par habitude",
+      "signe ou découverte qui éveille les soupçons",
+      "enquête discrète ou confrontation indirecte",
+      "révélation partielle ou totale",
+      "recomposition ou fracture durable de la famille"
+    ],
+    "voiesDeResolution": [
+      "révélation choisie et accompagnée par celui qui sait — contrôlée, contextualisée",
+      "document ou preuve qui rend le déni impossible et prend la décision à la place de tous",
+      "génération suivante qui pose la question sans les tabous anciens",
+      "thérapie ou espace où la parole peut circuler librement",
+      "deuil de la famille idéalisée et reconstruction sur la vérité"
+    ],
+    "blessuresUnderlyantes": [
+      "honte à l'origine — du comportement, de la naissance, de l'identité, de l'époque",
+      "peur de la désintégration familiale si la vérité sort",
+      "époque où certaines vérités étaient socialement impossibles à dire",
+      "protection d'un enfant qui a tourné à l'effacement permanent",
+      "gardiens du secret qui n'avaient personne à qui transmettre le poids"
+    ],
+    "contextesFavorables": [
+      "famille avec forte culture du silence, de l'honneur ou de l'image",
+      "génération fondatrice qui a porté la honte originelle",
+      "secret lié à une époque historique spécifique — guerre, migration, honte sociale",
+      "personnage curieux de son histoire dans un contexte d'opacité familiale",
+      "famille avec zones blanches inexpliquées que personne ne questionne jamais"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage qui cherche à comprendre son histoire sans savoir ce qu'il cherche vraiment",
+      "personnage qui porte le secret seul depuis trop longtemps et cherche à en être libéré",
+      "personnage dont le secret touche directement son identité — filiation, origine",
+      "personnage à la jonction entre deux générations — il sait et doit décider quoi faire",
+      "personnage dont la vie entière a été organisée autour d'un mensonge"
+    ],
+    "erreursDEcriture": [
+      "Révéler le secret trop tôt — sa force réside dans ce qu'il fait à ceux qui cherchent, pas dans la révélation elle-même.",
+      "Faire du secret un pur mécanisme de plot — les meilleurs secrets de famille touchent à l'identité des personnages.",
+      "Oublier ceux qui portaient le secret — leur soulagement ou leur effondrement à la révélation est une scène à part entière.",
+      "Rendre la révélation entièrement libératrice — une vérité longtemps cachée fait toujours aussi mal qu'elle libère.",
+      "Oublier que certains membres de la famille préfèrent ne pas savoir — ce choix est aussi valide que l'autre."
+    ],
+    "notesEditoriales": [
+      "Le secret de famille est l'un des ressorts narratifs les plus puissants parce qu'il touche à l'identité de tous les personnages simultanément.",
+      "Sa force est dans ce qu'il fait aux personnages avant la révélation — la recherche, le doute, le choix de savoir ou non.",
+      "Un secret de famille bien construit change rétroactivement la lecture de toutes les scènes précédentes.",
+      "Le personnage le plus intéressant n'est pas celui qui cherche — c'est celui qui sait et doit décider."
+    ]
+  },
+  {
+    "id": "conflit-loyautes-familiales",
+    "label": "Loyautés familiales impossibles",
+    "alias": ["loyauté familiale", "loyautés familiales", "loyauté impossible", "conflit de loyauté", "tiraillement familial", "pris entre deux feux", "double loyauté", "médiateur familial", "enfant au milieu", "position impossible"],
+    "famille": "conflits-familiaux",
+    "definitionCourte": "Situation dans laquelle un personnage est pris entre des loyautés contradictoires au sein de sa famille — soutenir l'un revient nécessairement à trahir l'autre.",
+    "natureDuConflit": "Conflit de valeurs intérieur — le personnage ne peut pas honorer toutes ses loyautés simultanément.",
+    "forcesEnPresence": [
+      "amour réel pour les deux parties qui ne peut être hiérarchisé",
+      "pression de chaque camp pour choisir — explicite ou implicite",
+      "peur de perdre l'une ou l'autre relation si l'on choisit",
+      "sentiment de responsabilité envers tous qui empêche de se retirer",
+      "culpabilité chronique quelle que soit la décision prise",
+      "identité construite autour du rôle de médiateur depuis l'enfance",
+      "épuisement progressif de celui qui tient tout sans jamais être vu"
+    ],
+    "declencheursFrequents": [
+      "séparation ou divorce parental qui divise la famille en deux camps",
+      "conflit entre parent et partenaire qui force à choisir",
+      "héritage ou décision médicale à prendre ensemble",
+      "révélation d'une faute d'un membre qui oblige à se positionner",
+      "alliance attendue lors d'un conflit familial ouvert",
+      "événement familial où les deux camps seront présents",
+      "demande explicite de soutien d'un camp contre l'autre",
+      "moment où continuer la médiation n'est plus possible"
+    ],
+    "signauxAvantCoureurs": [
+      "chaque camp commence à demander des comptes sur les loyautés",
+      "informations transmises par le personnage utilisées contre l'autre camp",
+      "position centrale dans la famille qui devient un poids",
+      "demandes implicites d'alliance de plus en plus fréquentes",
+      "épuisement croissant lié au rôle de médiateur non choisi",
+      "les propres besoins du personnage disparaissent de toutes les conversations",
+      "sentiment de n'exister que comme pont entre les deux parties",
+      "évitement croissant des situations où les deux seraient présents"
+    ],
+    "silencesEtNonDits": [
+      "jamais le personnage ne dira 'je vous aime tous les deux et c'est ça le problème'",
+      "chaque camp présuppose que le personnage est secrètement de son côté",
+      "la souffrance du personnage central est invisible aux deux camps",
+      "'arrêtez de me mettre au milieu' reste dans la gorge",
+      "le personnage ne dit pas qu'il s'efface — il dit juste qu'il est occupé",
+      "ce que ce rôle a coûté depuis l'enfance ne sera peut-être jamais dit"
+    ],
+    "penseesTypiques": [
+      "Quoi que je fasse, je blesse quelqu'un que j'aime.",
+      "Ils ne réalisent pas ce qu'ils me demandent.",
+      "Si je choisis, je perds l'un d'eux pour toujours.",
+      "Je suis épuisé de tenir tout ça sans que personne ne me demande comment je vais.",
+      "Pourquoi c'est toujours moi qui dois gérer ?",
+      "Ils parlent de l'autre avec moi. Les deux. Et moi je ne parle à personne.",
+      "Je connais les vrais problèmes des deux camps. Et aucun des deux ne sait ce que ça me coûte.",
+      "Si je disparaissais de l'équation, peut-être qu'ils se réconcilieraient — ou peut-être qu'ils exploseraient enfin.",
+      "Je n'ai pas choisi d'être au milieu. Personne ne m'a demandé si je voulais ce rôle."
+    ],
+    "comportementsTypiques": [
+      "médiation épuisante entre les deux camps sans jamais prendre soin de soi",
+      "information triée et adaptée pour ne blesser ni l'un ni l'autre",
+      "évitement des réunions où les deux seraient présents en même temps",
+      "prise de décision retardée au maximum pour ne pas déclencher une crise",
+      "collapse émotionnel seul, loin des deux, sans témoin",
+      "double discours adapté à chaque camp pour maintenir les deux relations",
+      "présence physique maintenue mais retrait affectif progressif",
+      "explosion soudaine après accumulation invisible — réaction perçue comme disproportionnée"
+    ],
+    "positionsDePouvoir": [
+      "position centrale apparemment puissante mais en réalité épuisante et sans bénéfice réel",
+      "le personnage central peut potentiellement influencer les deux camps",
+      "s'il choisit, il perd une partie de son pouvoir de médiation mais gagne en intégrité",
+      "les deux camps lui attribuent un pouvoir qu'il n'a pas vraiment — celui de réconcilier"
+    ],
+    "variantes": [
+      {
+        "relation": "Enfant de parents séparés",
+        "description": "Chaque parent attend implicitement ou explicitement d'être le préféré. L'enfant apprend à se diviser pour survivre affectivement. À l'âge adulte, ce schéma peut se reproduire dans d'autres relations."
+      },
+      {
+        "relation": "Entre parent et partenaire",
+        "description": "Le personnage est pris entre l'amour conjugal et la loyauté filiale. Chaque camp estime que l'autre devrait passer après. Le personnage est seul à tenir les deux — et souvent la cause de la tension entre eux."
+      },
+      {
+        "relation": "Dans une fratrie divisée",
+        "description": "Le personnage est le seul à parler encore aux deux factions. Il porte la division sans l'avoir choisie. Son rôle de médiateur lui coûte ses propres besoins et son propre sens de la famille."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Tiraillement ponctuel", "description": "Situation inconfortable mais limitée. Le personnage s'en sort sans trop de dommages." },
+      { "niveau": 2, "label": "Position inconfortable", "description": "Le personnage est régulièrement sollicité par les deux camps. La fatigue commence à s'installer." },
+      { "niveau": 3, "label": "Double bind installé", "description": "Toute décision blesse l'un ou l'autre. Le personnage commence à s'effacer pour éviter de choisir." },
+      { "niveau": 4, "label": "Épuisement du médiateur", "description": "Le personnage n'a plus de ressources pour lui-même. Il tient par obligation, pas par choix." },
+      { "niveau": 5, "label": "Rupture ou effondrement", "description": "Le personnage choisit enfin — ou s'effondre. Chaque camp interprète ce dénouement à sa façon." }
+    ],
+    "escaladeTypique": [
+      "conflit majeur entre deux membres importants de la famille",
+      "personnage central sollicité par les deux camps simultanément",
+      "épuisement progressif de la position médiatrice non choisie",
+      "forçage au choix par l'un des camps qui ne supporte plus l'ambiguïté",
+      "décision, effondrement ou refus du rôle nommé clairement"
+    ],
+    "voiesDeResolution": [
+      "refus du rôle de médiateur nommé clairement et tenu malgré les réactions",
+      "tiers extérieur — thérapeute, médiateur — qui prend en charge la médiation",
+      "réconciliation des deux camps sans que le personnage central en soit l'instrument",
+      "le personnage choisit de prendre soin de lui plutôt que de tenir l'équilibre",
+      "acceptation que certaines ruptures ne sont pas sa responsabilité à réparer"
+    ],
+    "blessuresUnderlyantes": [
+      "rôle de médiateur ou de 'bon enfant' appris très tôt dans la famille",
+      "identité construite autour du fait d'être indispensable à la paix du groupe",
+      "peur profonde d'être abandonné si l'on cesse de servir ou de s'effacer",
+      "absence d'espace propre et de besoins reconnus depuis l'enfance",
+      "croyance que son rôle est de réparer ce que les autres cassent"
+    ],
+    "contextesFavorables": [
+      "famille avec fort conflit central non résolu depuis des années",
+      "personnage ayant naturellement un rôle de lien ou de sensibilité aux autres",
+      "événement qui force les camps à interagir malgré tout",
+      "personnage sans allié propre dans la famille — personne dans son camp à lui"
+    ],
+    "personnagesSouventConcernes": [
+      "enfant ayant grandi entre deux parents en conflit permanent",
+      "personnage empathique placé au centre d'une fratrie divisée",
+      "personnage dont l'identité repose sur le maintien de la paix familiale",
+      "personnage incapable de décevoir ceux qu'il aime sans se sentir coupable",
+      "adulte qui réalise qu'il a toujours vécu pour les autres sans jamais se demander ce qu'il voulait"
+    ],
+    "erreursDEcriture": [
+      "Oublier que le personnage central souffre — sa souffrance est invisible car il est occupé à gérer celle des autres.",
+      "Résoudre en désignant un camp comme ayant raison — le double bind est précisément que les deux ont raison de leur point de vue.",
+      "Confondre avec l'indécision — le personnage ne manque pas de caractère, il aime vraiment les deux et ça lui coûte.",
+      "Ne pas montrer le coût — tenir deux loyautés contradictoires épuise, même si ça ne se voit pas de l'extérieur.",
+      "Oublier que le personnage peut aussi être instrumentalisé par les deux camps sans s'en rendre compte."
+    ],
+    "notesEditoriales": [
+      "Ce conflit est fort parce que le personnage est victime sans qu'il y ait de bourreau clairement désigné.",
+      "La résolution la plus honnête est souvent la plus douloureuse — choisir de ne plus être au milieu.",
+      "Le personnage central dans ce conflit est souvent le moins visible de l'histoire, et pourtant il la tient.",
+      "Le moment le plus révélateur : quand quelqu'un lui demande ce qu'il veut, lui — et qu'il ne sait pas répondre."
+    ]
+  },
+  {
+    "id": "heritage-conteste",
+    "label": "Héritage contesté",
+    "alias": ["héritage contesté", "heritage conteste", "conflit d'héritage", "succession familiale", "partage familial", "testament contesté", "conflit autour d'un héritage", "succession conflictuelle", "partage des biens", "dispute d'héritage"],
+    "famille": "conflits-familiaux",
+    "definitionCourte": "Conflit déclenché par la mort d'un parent autour du partage de ses biens, souvent révélateur de blessures bien plus anciennes que la succession elle-même.",
+    "natureDuConflit": "L'argent et les objets sont le terrain visible — les blessures anciennes et le besoin de reconnaissance sont le vrai champ de bataille.",
+    "forcesEnPresence": [
+      "vieilles injustices familiales réactivées au pire moment possible",
+      "sentiment de reconnaissance ou de rejet symbolique exprimé par le défunt",
+      "rivalité fraternelle latente qui n'attendait qu'un déclencheur",
+      "besoin de réparer après la mort ce qui ne l'a pas été pendant la vie",
+      "intérêts matériels réels ou perçus qui s'ajoutent aux enjeux symboliques",
+      "culpabilité de ceux qui n'ont pas été assez présents",
+      "sentiment d'injustice de ceux qui ont tout sacrifié pour le parent"
+    ],
+    "declencheursFrequents": [
+      "mort d'un parent sans testament clair ou avec testament perçu comme favoritiste",
+      "testament qui confirme une préférence ancienne jamais dite",
+      "objet symbolique fort revendiqué par plusieurs membres",
+      "découverte d'une donation cachée faite du vivant du parent",
+      "partenaire du défunt perçu comme usurpateur par les enfants",
+      "enfant absent pendant la maladie qui revient pour l'héritage",
+      "décision unilatérale d'un enfant sur les biens avant le règlement officiel",
+      "révélation d'une dette ou d'un accord secret avec un seul enfant"
+    ],
+    "signauxAvantCoureurs": [
+      "questions sur les affaires du parent avant même sa mort ou son déclin",
+      "tensions sur les soins du parent malade selon qui s'en occupe",
+      "alliances prévisibles au sein de la fratrie qui se renforcent",
+      "désaccords anciens qui n'ont jamais été résolus",
+      "favoritisme passé jamais dit qui crée des attentes différentes",
+      "récupération discrète d'objets ou de documents avant le décès",
+      "commentaires sur 'ce qui devrait revenir à qui' avant même la mort",
+      "hiérarchies symboliques reconfirmées lors de la maladie du parent"
+    ],
+    "silencesEtNonDits": [
+      "personne ne dit 'ce testament dit que tu l'aimais plus que moi'",
+      "la vraie question — 'ai-je compté ?' — ne sera jamais posée",
+      "le deuil réel est souvent absent de la dispute sur les biens",
+      "ce qui manquait dans la relation ne peut plus être réparé",
+      "la colère contre le mort ne se dit pas — il vient de mourir",
+      "ce que chacun a vraiment voulu — pas les biens, mais la reconnaissance — ne sera jamais nommé"
+    ],
+    "penseesTypiques": [
+      "Il m'a toujours préféré l'autre. Et même là, il le confirme.",
+      "Je ne veux pas l'argent — je veux qu'on reconnaisse que j'étais là.",
+      "Comment peut-elle réclamer quoi que ce soit après ce qu'elle a fait — ou n'a pas fait ?",
+      "On se déchire sur des meubles pendant qu'il est à peine enterré.",
+      "Ce n'est pas une question d'argent. Ce n'a jamais été une question d'argent.",
+      "Il y a des choses que je voulais lui dire et je ne l'ai pas fait. Et maintenant c'est trop tard.",
+      "Si on se bat maintenant, c'est qu'on ne s'est jamais vraiment réconciliés.",
+      "Ce testament est le dernier mot qu'il m'adresse. Et ce mot-là fait mal.",
+      "On aurait pu être une famille. On a raté ça bien avant sa mort."
+    ],
+    "comportementsTypiques": [
+      "formation d'alliances avec certains membres contre d'autres",
+      "récupération ou mise en sécurité d'objets symboliques avant le règlement",
+      "recours à des tiers — notaire, avocat, autre membre comme arbitre",
+      "resurgissement de griefs datant de décennies habillés en arguments légaux",
+      "absence ou présence excessive lors des formalités selon la stratégie",
+      "utilisation du deuil comme couverture pour des actions stratégiques",
+      "contact minimal entre les camps hors des rendez-vous obligatoires",
+      "réactivation d'alliances dormantes pour peser dans le rapport de force"
+    ],
+    "positionsDePouvoir": [
+      "celui qui était le plus proche du défunt détient l'autorité morale dans le groupe",
+      "le testament redistribue symboliquement les positions de toute la famille",
+      "un membre qui a accès aux biens avant le règlement officiel prend un avantage réel",
+      "le notaire ou l'avocat peut devenir l'arbitre involontaire d'un conflit bien plus vieux"
+    ],
+    "variantes": [
+      {
+        "relation": "Fratrie nombreuse",
+        "description": "Les anciens rôles et favoritismes remontent à la surface. L'héritage cristallise tout ce qui n'a jamais été dit. Les alliances se font et se défont rapidement selon les intérêts de chacun."
+      },
+      {
+        "relation": "Partenaire survivant contre enfants",
+        "description": "Les enfants perçoivent le partenaire comme un usurpateur. Le partenaire se sent rejeté alors qu'il vient de perdre l'être aimé. Le deuil est rendu impossible par le conflit — pour tout le monde."
+      },
+      {
+        "relation": "Famille recomposée",
+        "description": "La question de qui appartient à qui refait surface avec force. Les enfants biologiques et les beaux-enfants ont des droits différents mais des histoires similaires. La légitimité est au cœur de tout."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Désaccord sur le partage", "description": "Tension sur des détails. La famille reste unie mais les discussions sont tendues et certains sujets évités." },
+      { "niveau": 2, "label": "Revendications opposées", "description": "Positions incompatibles exprimées. Recours à un notaire pour arbitrer. Le deuil est suspendu." },
+      { "niveau": 3, "label": "Conflit déclaré", "description": "Les camps sont formés. Les griefs anciens alimentent ouvertement le conflit présent." },
+      { "niveau": 4, "label": "Rupture familiale", "description": "Certains membres ne se parlent plus. Des procédures légales sont engagées ou envisagées." },
+      { "niveau": 5, "label": "Procès familial", "description": "Le conflit est porté devant la justice. La famille est irrémédiablement divisée. Le deuil est impossible." }
+    ],
+    "escaladeTypique": [
+      "mort du parent dans un contexte de tensions latentes",
+      "lecture du testament ou annonce du partage qui déclenche",
+      "sentiment d'injustice chez l'un ou plusieurs — réel ou perçu",
+      "alliance et contre-alliance — les camps se forment rapidement",
+      "règlement légal, rupture durable ou accord sur le symbolique"
+    ],
+    "voiesDeResolution": [
+      "accord sur le symbolique plutôt que sur le matériel — qui garde la montre, pas qui gagne l'argent",
+      "reconnaissance mutuelle de la douleur de chacun sans qu'il faille désigner un coupable",
+      "médiation par un tiers neutre accepté des deux côtés",
+      "renonciation volontaire d'un membre qui préfère le lien à l'objet",
+      "deuil enfin fait collectivement qui déplace la priorité du conflit"
+    ],
+    "blessuresUnderlyantes": [
+      "favoritisme parental jamais reconnu et jamais réparé",
+      "besoin de validation du défunt jamais obtenu pendant sa vie",
+      "injustices anciennes non réparées qui trouvent enfin un terrain d'expression",
+      "deuil de la relation qu'on aurait voulu avoir et qu'on n'aura jamais",
+      "culpabilité de ceux qui n'ont pas été là pendant la maladie"
+    ],
+    "contextesFavorables": [
+      "famille avec rivalités fraternelles anciennes non résolues",
+      "défunt avec forte personnalité ou forte fortune symbolique",
+      "absence de testament clair ou testament perçu comme favoritiste",
+      "famille recomposée avec enjeux de légitimité non réglés",
+      "mort soudaine qui n'a pas laissé le temps de préparer ou de se dire les choses"
+    ],
+    "personnagesSouventConcernes": [
+      "enfant qui s'est senti moins aimé et attend une réparation posthume impossible",
+      "enfant qui a tout sacrifié pour s'occuper du parent et attend une reconnaissance",
+      "partenaire survivant en conflit avec des enfants qui ne l'ont jamais accepté",
+      "personnage dont l'identité est liée à la reconnaissance familiale",
+      "enfant absent qui revient et réclame des droits sans avoir assumé les devoirs"
+    ],
+    "erreursDEcriture": [
+      "Réduire le conflit à l'argent — c'est toujours aussi une question de reconnaissance, de deuil et de blessures anciennes.",
+      "Résoudre par un accord matériel sans toucher la blessure — le partage des biens ne règle pas ce qui n'a jamais été dit.",
+      "Oublier le deuil — les personnages se disputent pendant que la perte est suspendue et non vécue.",
+      "Rendre l'un des camps entièrement dans son droit — dans une bonne scène d'héritage, chacun a ses raisons.",
+      "Oublier le mort — ses choix et ses silences sont des acteurs du conflit même après sa disparition."
+    ],
+    "notesEditoriales": [
+      "L'héritage contesté est l'un des rares conflits qui se déroule exactement au moment du deuil — les deux niveaux de lecture sont toujours présents simultanément.",
+      "Sa force narrative est dans ce qu'il révèle — les alliances, les blessures, les amours non dits.",
+      "Un objet insignifiant sur le plan matériel peut devenir l'enjeu central si sa charge symbolique est forte.",
+      "Le moment le plus fort : quand quelqu'un dit 'ce n'est pas pour l'argent' — et que tout le monde sait que c'est vrai."
+    ]
+  }
+]

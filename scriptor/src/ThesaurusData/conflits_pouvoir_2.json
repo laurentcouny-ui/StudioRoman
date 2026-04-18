@@ -1,0 +1,427 @@
+[
+  {
+    "id": "soumission-forcee",
+    "label": "Soumission forcée",
+    "alias": ["soumission forcée", "soumission contrainte", "obéissance forcée", "domination subie", "servitude consentie", "pliage", "écrasement hiérarchique", "capitulation forcée", "subordination contrainte", "reddition intérieure"],
+    "famille": "conflits-pouvoir",
+    "definitionCourte": "Un personnage est contraint d'obéir à une autorité qu'il ne reconnaît pas ou qu'il méprise — la soumission est extérieure, mais la rébellion intérieure couve.",
+    "natureDuConflit": "Conflit entre la contrainte extérieure et l'intégrité intérieure — le personnage doit choisir chaque jour combien de lui-même il est prêt à sacrifier pour survivre.",
+    "forcesEnPresence": [
+      "dominé contraint par la peur, la dépendance économique ou l'absence d'alternative",
+      "dominant qui confond obéissance et loyauté",
+      "système ou institution qui normalise la contrainte comme condition ordinaire",
+      "entourage qui s'est adapté et presse à faire de même",
+      "résistance intérieure du dominé qui cherche une forme d'expression",
+      "coût psychologique croissant de maintenir la soumission",
+      "moment où la contrainte dépasse ce que le personnage peut absorber"
+    ],
+    "declencheursFrequents": [
+      "ordre donné sans justification ni égard",
+      "sanction disproportionnée pour une infraction mineure",
+      "témoin de la soumission d'un pair sans réaction du groupe",
+      "humiliation publique sous couvert de discipline",
+      "demande qui touche à quelque chose d'inaltérable chez le personnage",
+      "acte de soumission qui expose le personnage devant ceux qu'il respecte",
+      "moment où se soumettre signifie trahir quelqu'un de plus faible",
+      "accumulation de demandes successives sans reconnaissance"
+    ],
+    "signauxAvantCoureurs": [
+      "obéissance trop parfaite et mécanique — sans la moindre initiative",
+      "sourire figé qui ne monte pas jusqu'aux yeux",
+      "micro-délais imperceptibles avant d'exécuter un ordre",
+      "conversations à voix basse entre subordonnés après les interactions",
+      "regard qui cherche une sortie pendant qu'on est adressé",
+      "réponses courtes et neutres qui évitent tout engagement",
+      "retrait progressif de toute spontanéité dans les interactions",
+      "gestes de résistance infimes — faire le minimum, oublier les détails"
+    ],
+    "silencesEtNonDits": [
+      "ce que le dominé pense vraiment mais ne dira jamais",
+      "la honte de se soumettre devant ses pairs",
+      "le désir de voir le dominant échouer ou être à sa place",
+      "la question non posée : est-ce que je mérite mieux ?",
+      "ce que la soumission coûte à ceux que le personnage protège",
+      "la limite exacte au-delà de laquelle il ne pourra plus se taire"
+    ],
+    "penseesTypiques": [
+      "Je plie maintenant. Mais je me souviendrai.",
+      "Si je dis ce que je pense, je perds tout. Ce n'est pas le bon moment.",
+      "Il croit que j'obéis. Il ne sait pas à quel point je ne le suis plus.",
+      "Un jour je n'aurai plus besoin de lui. Ce jour-là changera tout.",
+      "Combien de fois encore avant que ça devienne normal pour moi ?",
+      "Je regarde les autres plier. Personne ne semble le voir comme moi.",
+      "Est-ce que je perds quelque chose chaque fois que je me tais ?",
+      "Je lui donne son obéissance. Je ne lui donne pas ma dignité.",
+      "Si je résiste maintenant, ça empire. Si j'attends, ça empire aussi. Il n'y a pas de bonne réponse."
+    ],
+    "comportementsTypiques": [
+      "exécution de l'ordre sans le moindre commentaire ni initiative",
+      "micro-résistances invisibles — oubli stratégique, lenteur, minimalisme",
+      "solidarité discrète avec d'autres soumis — regard, geste, silence partagé",
+      "repli sur une vie intérieure intacte que le dominant ne peut pas atteindre",
+      "préparation silencieuse d'une sortie ou d'une alternative",
+      "dissimulation de ses vraies opinions, compétences ou alliances",
+      "explosion contenue qui laisse des traces physiques — tension, nuits sans sommeil",
+      "accès de révolte soudaine et disproportionnée à la première occasion"
+    ],
+    "positionsDePouvoir": [
+      "dominé : visible, exposé, sans marge de manœuvre apparente — mais maître de son monde intérieur",
+      "dominant : confortable dans la relation, souvent inconscient de la brisure qu'il provoque",
+      "témoins : complices passifs, parfois soulagés que ce ne soit pas eux — parfois rongés par leur silence",
+      "le dominé accumule une connaissance du dominant que ce dernier n'a pas sur lui-même"
+    ],
+    "variantes": [
+      {
+        "profil": "Soumission par survie",
+        "description": "Le personnage pliera aussi longtemps que nécessaire, sans honte, parce qu'il vise autre chose. La soumission est stratégique, pas intériorisée. Il garde une distance froide avec ce qu'il fait."
+      },
+      {
+        "profil": "Soumission intériorisée",
+        "description": "Le personnage a été soumis si longtemps qu'il ne sait plus distinguer ce qu'il veut de ce qu'on attend de lui. Il défend parfois l'autorité qui le contrôle. La libération est plus difficile car elle implique de se retrouver."
+      },
+      {
+        "profil": "Soumission par amour ou loyauté",
+        "description": "Le personnage cède parce qu'il ne veut pas perdre la relation — parent, partenaire, mentor. La soumission est teintée de dévouement et de ressentiment mêlés. Il en veut à l'autre de le mettre dans cette position."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Contrainte acceptée", "description": "Le personnage obéit sans enthousiasme mais sans conflit intérieur majeur. Il se dit que ce n'est pas le moment de se battre." },
+      { "niveau": 2, "label": "Résistance silencieuse", "description": "Obéissance extérieure, contestation intérieure. Le personnage marque sa distance par des gestes infimes — retard, silence éloquent, regard détourné." },
+      { "niveau": 3, "label": "Soumission vécue comme défaite", "description": "Le personnage obéit mais ressent une humiliation sourde. Il se méprise de plier. Quelque chose commence à se durcir." },
+      { "niveau": 4, "label": "Brisure identitaire", "description": "La soumission répétée entame l'estime de soi. Le personnage commence à intérioriser sa propre infériorité ou à la combattre de plus en plus violemment en lui-même." },
+      { "niveau": 5, "label": "Rupture ou effondrement", "description": "Le personnage craque — soit en explosant (rébellion soudaine et destructrice), soit en se soumettant complètement et en perdant toute capacité de résistance." }
+    ],
+    "escaladeTypique": [
+      "soumission initiale acceptée comme nécessaire et provisoire",
+      "répétition qui installe la soumission comme norme",
+      "coût psychologique croissant — tension, nuits difficiles, humeur",
+      "incident déclencheur qui dépasse ce que le personnage peut absorber",
+      "explosion, rupture ou effondrement complet"
+    ],
+    "voiesDeResolution": [
+      "acte de résistance ciblé qui rompt le schéma sans tout risquer",
+      "départ planifié rendu possible par une alternative enfin disponible",
+      "soutien d'un tiers qui rend la résistance moins solitaire",
+      "confrontation directe acceptée avec ses conséquences",
+      "reconstruction de l'estime de soi par un acte d'autonomie même partiel"
+    ],
+    "blessuresUnderlyantes": [
+      "enfance sous une autorité punitive qui a appris que la résistance coûte",
+      "expérience passée où résister a eu des conséquences graves",
+      "conviction que sa valeur dépend de son obéissance et de l'approbation de l'autre",
+      "peur de l'abandon plus forte que la peur de l'humiliation",
+      "schéma relationnel répété depuis si longtemps qu'il semble naturel"
+    ],
+    "contextesFavorables": [
+      "structure institutionnelle qui maintient l'asymétrie de pouvoir par design",
+      "isolement du dominé — pas de réseau, pas de témoin, pas d'alternative",
+      "culture qui valorise l'obéissance comme vertu",
+      "relation de dépendance affective ou économique forte",
+      "dominant qui sait exactement jusqu'où pousser sans provoquer la rupture"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage en bas de la hiérarchie sans recours visible",
+      "personnage avec fort sens de sa valeur mais contraint à se taire",
+      "personnage qui protège quelqu'un de plus faible en absorbant la pression",
+      "personnage qui prépare une sortie depuis longtemps sans la montrer",
+      "dominant qui confond soumission et loyauté sincère"
+    ],
+    "erreursDEcriture": [
+      "Montrer la soumission comme lâcheté sans nuance — souvent, c'est une forme d'intelligence tactique ou de protection.",
+      "Oublier les micro-résistances : le soumis trouve toujours un moyen de préserver une parcelle d'autonomie.",
+      "Rendre le dominant conscient de sa domination — souvent il ne la voit pas, ce qui est narrativement plus troublant.",
+      "Résoudre par un simple acte de rébellion — la sortie de la soumission est rarement propre ni immédiate.",
+      "Oublier le coût de la soumission sur ceux qui n'ont pas subi mais ont regardé sans agir."
+    ],
+    "notesEditoriales": [
+      "La soumission forcée est l'un des conflits les plus intérieurs — sa richesse est dans ce qu'on ne voit pas.",
+      "Sa puissance narrative est dans le décalage entre l'extérieur obéissant et l'intérieur qui résiste.",
+      "Distinguer la soumission stratégique de la soumission intériorisée — l'une libère, l'autre emprisonne.",
+      "Le moment le plus fort : quand le dominé réalise qu'il ne sait plus s'il obéit par calcul ou par habitude."
+    ],
+    "dynamiqueAssociee": { "id": "soumission-contrainte", "label": "Soumission contrainte" }
+  },
+  {
+    "id": "trahison-subordonné",
+    "label": "Trahison d'un subordonné",
+    "alias": ["trahison d'un subordonné", "trahison d'un protégé", "coup de Brutus", "retournement d'un fidèle", "trahison par le bas", "subordonné qui se retourne", "protégé qui trahit", "allié qui bascule", "loyauté brisée par le bas", "renversement par un proche"],
+    "famille": "conflits-pouvoir",
+    "definitionCourte": "Un subordonné retourne contre celui qui lui faisait confiance — par intérêt, par idéal, ou parce que la loyauté a été abusée trop longtemps.",
+    "natureDuConflit": "Conflit de loyauté brisée — la trahison vient de l'intérieur et touche là où le supérieur se croyait protégé.",
+    "forcesEnPresence": [
+      "subordonné qui a sa propre vision, ses propres intérêts ou ses propres valeurs",
+      "supérieur qui croyait avoir la loyauté acquise ou méritée",
+      "contexte de crise ou d'opportunité qui précipite le basculement",
+      "accès du subordonné à des informations ou ressources que le supérieur lui a confiées",
+      "histoire commune qui pèse dans les deux sens",
+      "moment où la fidélité est devenue incompatible avec quelque chose de fondamental",
+      "entourage qui choisira un camp ou se retirera quand la trahison sera connue"
+    ],
+    "declencheursFrequents": [
+      "sentiment d'avoir été utilisé sans reconnaissance proportionnelle",
+      "ordre jugé injuste ou contraire à des valeurs que le subordonné ne peut plus ignorer",
+      "opportunité de s'élever en renversant le supérieur",
+      "révélation d'une vérité cachée sur le supérieur qui change tout",
+      "humiliation publique qui rompt le lien de loyauté",
+      "menace sur quelque chose que le subordonné ne peut pas sacrifier",
+      "promesse non tenue depuis trop longtemps",
+      "moment où le coût de la loyauté dépasse le coût de la trahison"
+    ],
+    "signauxAvantCoureurs": [
+      "questions qui sondent les limites et la solidité de l'autorité",
+      "moins de partage spontané d'informations qu'avant",
+      "réponses plus courtes, moins enthousiastes, moins personnelles",
+      "temps de plus en plus passé avec des acteurs extérieurs",
+      "défense de positions personnelles là où il acquiesçait avant",
+      "intérêt discret pour ce que font les rivaux ou adversaires du supérieur",
+      "légère distance dans les interactions sans raison apparente",
+      "préparation discrète d'une alternative ou d'un plan de sortie"
+    ],
+    "silencesEtNonDits": [
+      "la gratitude réelle du subordonné pour ce qu'on lui a appris ou offert",
+      "le moment exact où la loyauté s'est fissurée — que le supérieur n'a pas vu",
+      "le doute du subordonné sur ses propres motivations",
+      "ce que le supérieur ne voulait pas voir de sa propre conduite",
+      "la tristesse possible de trahir quelqu'un qu'on a aimé ou admiré",
+      "ce que la trahison coûtera au traître lui-même — même s'il réussit"
+    ],
+    "penseesTypiques": [
+      "Il m'a appris tout ce que je sais. Et il croit que ça me lie à lui pour toujours.",
+      "Je ne trahis pas une personne. Je trahis ce qu'il est devenu.",
+      "Si je ne fais rien, je deviens complice de ce que je reproche.",
+      "Il ne s'y attend pas. C'est ce qui me protège et ce qui m'écrase.",
+      "J'ai attendu longtemps. Trop longtemps peut-être.",
+      "Est-ce que je fais ça pour les bonnes raisons ou pour les miennes ?",
+      "Après, rien ne sera pareil. Pour lui. Pour moi. Pour ceux qui regarderont.",
+      "Il aurait dû me voir venir. Il aurait dû faire attention.",
+      "Ce n'est pas une trahison. C'est une correction."
+    ],
+    "comportementsTypiques": [
+      "double jeu maintenu lors des interactions avec le supérieur",
+      "construction discrète d'alliances alternatives ou d'une position de repli",
+      "collecte d'informations ou de preuves sans le montrer",
+      "test de la réaction des autres avant d'agir",
+      "préparation psychologique à assumer les conséquences",
+      "gestion de sa propre ambivalence — moments de doute, moments de résolution",
+      "distanciation progressive affective avant la rupture formelle",
+      "acte décisif qui rompt définitivement le lien"
+    ],
+    "positionsDePouvoir": [
+      "subordonné : a accumulé information, compétence ou alliances que le supérieur sous-estimait",
+      "supérieur : vulnérable exactement là où il pensait être protégé par la loyauté",
+      "entourage : choisit un camp ou se retire — la trahison révèle les loyautés latentes de tous",
+      "le supérieur, après la trahison, doit revoir tout ce qu'il croyait savoir sur ses relations"
+    ],
+    "variantes": [
+      {
+        "profil": "Trahison idéologique",
+        "description": "Le subordonné ne trahit pas par intérêt mais parce qu'il ne peut plus cautionner ce que représente le supérieur. Il se vit en résistant, pas en traître. Son acte est moral à ses propres yeux — même si les dégâts sont réels."
+      },
+      {
+        "profil": "Trahison opportuniste",
+        "description": "Le subordonné attendait le bon moment. La loyauté était conditionnelle dès le début — au pouvoir, pas à la personne. Il a appris ce qu'il avait à apprendre et part au moment le plus avantageux."
+      },
+      {
+        "profil": "Trahison malgré soi",
+        "description": "Le subordonné ne voulait pas en arriver là. Il a été poussé à bout, acculé à un choix entre sa loyauté et quelque chose de plus fondamental. La trahison lui coûte autant qu'au supérieur."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Désalignement discret", "description": "Le subordonné commence à agir légèrement en dehors des consignes, sans confrontation directe. Le supérieur ne l'a pas encore remarqué." },
+      { "niveau": 2, "label": "Critique voilée", "description": "Des doutes sont exprimés à d'autres, des remises en question apparaissent lors des échanges. Le supérieur commence à sentir quelque chose." },
+      { "niveau": 3, "label": "Désobéissance active", "description": "Le subordonné prend des décisions contraires aux directives, parfois en s'en justifiant. Le conflit est visible." },
+      { "niveau": 4, "label": "Sabotage ou retournement", "description": "Le subordonné agit contre les intérêts du supérieur — en révélant des informations, en formant des alliances contre lui." },
+      { "niveau": 5, "label": "Trahison consommée", "description": "La rupture est totale et publique. Le supérieur est renversé, neutralisé ou détruit par celui en qui il avait le plus confiance." }
+    ],
+    "escaladeTypique": [
+      "déclencheur qui fissure une loyauté jusqu'alors sincère",
+      "distance progressive et collecte discrète de ressources",
+      "test des alliances et préparation de l'acte",
+      "basculement — action qui rend la trahison irréversible",
+      "rupture publique et recomposition des loyautés autour"
+    ],
+    "voiesDeResolution": [
+      "trahison assumée et confrontation directe qui clarifie",
+      "réconciliation possible si les griefs sont entendus avant que le point de non-retour soit atteint",
+      "départ du supérieur ou du subordonné qui met fin à la relation",
+      "reconnaissance tardive par le supérieur de ce qu'il n'a pas vu",
+      "échec de la trahison qui force un autre chemin"
+    ],
+    "blessuresUnderlyantes": [
+      "avoir été trahi lui-même dans le passé par une figure d'autorité",
+      "manque de reconnaissance chronique malgré un travail loyal et constant",
+      "valeurs personnelles jamais vraiment compatibles avec celles du supérieur — ignorées au début",
+      "besoin d'exister par lui-même plutôt que comme extension du supérieur",
+      "blessure de ne pas avoir été vu tel qu'il est vraiment"
+    ],
+    "contextesFavorables": [
+      "relation asymétrique prolongée sans réévaluation ni reconnaissance",
+      "moment de crise qui révèle les fissures et ouvre des alternatives",
+      "entourage prêt à soutenir la trahison ou à regarder ailleurs",
+      "supérieur qui a abusé de la loyauté sans en mesurer le coût",
+      "moment de transition de pouvoir qui rend l'acte possible et peut-être légitime"
+    ],
+    "personnagesSouventConcernes": [
+      "protégé brillant qui a dépassé celui qui l'a formé",
+      "subordonné loyal jusqu'au point de rupture — celui qu'on n'aurait jamais imaginé",
+      "personnage avec conviction idéologique forte qui prime sur la loyauté personnelle",
+      "supérieur qui a sous-estimé ce qu'il avait construit en face de lui",
+      "entourage qui sait depuis longtemps mais attendait que quelqu'un agisse"
+    ],
+    "erreursDEcriture": [
+      "Faire de la trahison une surprise totale pour le lecteur sans signaux préalables — ce sont ces signaux qui créent la tension.",
+      "Rendre le traître entièrement négatif : souvent il a de bonnes raisons, même si ses méthodes sont discutables.",
+      "Oublier le coût de la trahison pour le traître lui-même — trahir brise aussi quelque chose en soi.",
+      "Réduire la trahison à la jalousie — les motivations les plus intéressantes sont plus complexes.",
+      "Ne pas montrer ce que le supérieur aurait pu faire différemment — la trahison est souvent un échec partagé."
+    ],
+    "notesEditoriales": [
+      "La trahison d'un subordonné est narrativement forte parce qu'elle vient de là où le supérieur était le plus vulnérable : sa confiance.",
+      "Sa richesse est dans l'ambivalence du traître — il peut avoir complètement raison et tort en même temps.",
+      "Distinguer la trahison comme acte de pouvoir de la trahison comme acte de conscience — les deux sont valides mais très différentes.",
+      "Le moment narratif le plus fort : quand le supérieur réalise à quel moment il aurait pu éviter ça — et ne l'a pas fait."
+    ]
+  },
+  {
+    "id": "delegation-refusee",
+    "label": "Refus de déléguer",
+    "alias": ["refus de déléguer", "microgestion", "contrôle excessif", "mainmise du supérieur", "chef qui ne lâche pas", "tutelle permanente", "surcontrôle", "management étouffant", "besoin de tout contrôler", "autonomie refusée"],
+    "famille": "conflits-pouvoir",
+    "definitionCourte": "Un supérieur incapable de lâcher le contrôle étouffe ceux qui travaillent sous ses ordres — par peur, par perfectionnisme ou par besoin de domination.",
+    "natureDuConflit": "Conflit entre le besoin de contrôle et le besoin d'autonomie — le supérieur protège son territoire, le subordonné suffoque dans le sien.",
+    "forcesEnPresence": [
+      "supérieur dont l'identité est liée au contrôle et à la maîtrise",
+      "subordonné compétent mais maintenu sous tutelle sans raison valable",
+      "organisation ou groupe qui souffre de l'inefficacité qui en résulte",
+      "peur du supérieur de devenir inutile si les autres se débrouillent sans lui",
+      "frustration accumulée du subordonné sans espace pour l'exprimer",
+      "décalage entre la confiance affichée et la confiance réelle accordée",
+      "entourage qui s'est adapté en développant une passivité stratégique"
+    ],
+    "declencheursFrequents": [
+      "initiative prise sans autorisation qui réussit mieux que prévu",
+      "erreur passée que le supérieur ne veut pas revivre sous aucune forme",
+      "arrivée d'un subordonné plus compétent que prévu qui menace l'équilibre",
+      "pression externe qui exige des décisions rapides que le supérieur ne peut pas toutes prendre",
+      "subordonné qui demande explicitement plus d'autonomie",
+      "moment de crise qui révèle les limites du contrôle centralisé",
+      "résultat exceptionnellement bon obtenu sans l'aval du supérieur",
+      "feedback externe qui valorise le subordonné aux dépens du supérieur"
+    ],
+    "signauxAvantCoureurs": [
+      "questions de vérification sur des tâches déjà correctement accomplies",
+      "corrections de détails mineurs sur un travail globalement excellent",
+      "subordonné qui commence à surexpliquer chaque décision par anticipation",
+      "réunions de contrôle qui se multiplient sans ordre du jour clair",
+      "délais de validation qui s'allongent sans raison technique",
+      "retour systématique sur le travail rendu — même quand il n'y a rien à redire",
+      "demandes d'information sur des projets qui n'en auraient pas besoin",
+      "ressenti du subordonné qu'il demande toujours la permission"
+    ],
+    "silencesEtNonDits": [
+      "la peur du supérieur de devenir inutile si les autres se débrouillent sans lui",
+      "la frustration muselée du subordonné compétent qui ne peut pas montrer ce qu'il vaut",
+      "l'absence de feed-back sincère — personne n'ose dire que ça dysfonctionne",
+      "ce que le supérieur penserait s'il voyait vraiment comment on le perçoit",
+      "le désir du subordonné d'être reconnu comme capable sans supervision constante",
+      "la question non posée : est-ce que le supérieur fait confiance à qui que ce soit ?"
+    ],
+    "penseesTypiques": [
+      "Il me dit qu'il me fait confiance. Et il vérifie tout ce que je fais.",
+      "Je pourrais gérer ça seul. Je le sais. Lui le sait peut-être aussi.",
+      "Chaque correction sur un détail mineur me coûte quelque chose.",
+      "Si je prends une initiative et qu'elle réussit, il l'attribuera à sa supervision.",
+      "À quoi ça sert de m'améliorer si ça ne change rien à la façon dont il me traite ?",
+      "Je travaille pour lui, pas avec lui.",
+      "Il ne délèguera jamais vraiment. La seule façon de grandir est de partir.",
+      "Je n'ai plus d'énergie pour me battre contre lui. Je fais ce qu'il dit.",
+      "Est-ce que c'est moi qui ne mérite pas sa confiance — ou est-ce qu'il n'en a pour personne ?"
+    ],
+    "comportementsTypiques": [
+      "attente systématique de la validation avant d'agir — même sur l'évident",
+      "absence progressive d'initiative par anticipation du refus",
+      "questions defensives pour se couvrir plutôt que pour chercher de l'information",
+      "exécution stricte des consignes sans valeur ajoutée",
+      "recherche discrète de contextes où être reconnu autrement",
+      "retrait affectif de la relation professionnelle",
+      "départ des plus compétents vers des environnements qui leur font confiance",
+      "façade de conformité qui cache une résignation complète"
+    ],
+    "positionsDePouvoir": [
+      "supérieur : détient formellement le pouvoir mais l'affaiblit en refusant de le partager",
+      "subordonné : compétent mais bloqué, accumule frustration et ressentiment silencieux",
+      "entourage : s'adapte en développant une passivité stratégique qui nuit à tout le monde",
+      "organisation : subit l'inefficacité et perd progressivement ses meilleurs éléments"
+    ],
+    "variantes": [
+      {
+        "profil": "Perfectionniste sincère",
+        "description": "Le supérieur est convaincu qu'il aide en maintenant ses standards. Il ne comprend pas pourquoi les autres se plaignent de son implication. Il souffre lui-même du temps que ça lui prend."
+      },
+      {
+        "profil": "Contrôlant par insécurité",
+        "description": "La délégation est vécue comme une menace — si les autres réussissent, à quoi sert-il ? Le contrôle est une défense contre l'inutilité. Il ne peut pas lâcher sans perdre sa raison d'être."
+      },
+      {
+        "profil": "Autoritaire assumé",
+        "description": "Il délègue les tâches, pas l'autorité. Toute initiative est perçue comme un empiètement sur son territoire. Il ne souffre pas du système — il le préfère ainsi."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Supervision étroite", "description": "Le supérieur vérifie plus que nécessaire, mais laisse finalement faire. Tension légère, légèrement irritante." },
+      { "niveau": 2, "label": "Microgestion", "description": "Chaque décision est soumise à validation. Les initiatives sont systématiquement corrigées ou reprises sans explication réelle." },
+      { "niveau": 3, "label": "Dépossession active", "description": "Le supérieur reprend des tâches déléguées, modifie le travail rendu, donne des instructions contradictoires qui paralysent." },
+      { "niveau": 4, "label": "Paralysie collective", "description": "L'équipe cesse de prendre des initiatives. On attend les ordres pour tout, même le trivial. La créativité est éteinte." },
+      { "niveau": 5, "label": "Rupture ou départ", "description": "Les plus compétents partent ou se rebellent. Le supérieur reste seul, convaincu que personne ne peut faire aussi bien que lui." }
+    ],
+    "escaladeTypique": [
+      "supervision initiale qui paraît normale dans un nouveau contexte",
+      "répétition des vérifications qui révèle un schéma",
+      "frustration croissante et désengagement progressif",
+      "confrontation ou résignation selon le caractère du subordonné",
+      "départ, rébellion ou passivité totale comme issue"
+    ],
+    "voiesDeResolution": [
+      "confrontation directe du subordonné qui nomme le problème clairement",
+      "feedback externe — pair, évaluateur, résultat — qui oblige le supérieur à voir",
+      "crise qui rend visible le coût du contrôle centralisé",
+      "thérapie ou accompagnement du supérieur si la cause est l'insécurité profonde",
+      "départ du subordonné qui oblige le supérieur à faire face aux conséquences"
+    ],
+    "blessuresUnderlyantes": [
+      "échec passé attribué à la mauvaise exécution de quelqu'un d'autre",
+      "image de soi entièrement fondée sur la compétence et la maîtrise",
+      "peur du vide — ne sait pas qui il est sans ce rôle de contrôle",
+      "expérience de délégation passée qui a mal tourné et jamais digérée",
+      "besoin d'approbation externe lié à l'incertitude sur sa propre valeur"
+    ],
+    "contextesFavorables": [
+      "organisation qui valorise le contrôle et la hiérarchie stricte",
+      "culture où l'initiative personnelle est perçue comme une menace",
+      "contexte de crise qui justifie une centralisation des décisions",
+      "subordonné qui ne dit jamais clairement ce qu'il ressent",
+      "entourage qui a normalisé le comportement du supérieur depuis longtemps"
+    ],
+    "personnagesSouventConcernes": [
+      "subordonné compétent et frustré qui voit sa carrière bloquée",
+      "supérieur perfectionniste qui confond aide et contrôle",
+      "équipe qui a appris à ne plus prendre d'initiative",
+      "organisation qui perd ses meilleurs éléments sans comprendre pourquoi",
+      "subordonné qui finit par se demander si le problème vient de lui"
+    ],
+    "erreursDEcriture": [
+      "Réduire ce conflit à une caricature de mauvais patron — la plupart du temps, le contrôlant est sincèrement convaincu d'aider.",
+      "Oublier les effets systémiques : ce conflit dégrade tout le groupe, pas seulement la relation directe.",
+      "Ne pas montrer ce que le subordonné perd concrètement — compétences atrophiées, confiance érodée, opportunités manquées.",
+      "Résoudre trop facilement — le contrôlant ne change pas par une conversation unique, c'est souvent une blessure profonde.",
+      "Ignorer que le subordonné peut aussi participer au schéma en ne disant jamais ce qu'il ressent vraiment."
+    ],
+    "notesEditoriales": [
+      "Ce conflit est particulièrement fort parce qu'il touche à la confiance — ou à son absence — comme fondement de toute relation.",
+      "Sa richesse narrative est dans le subordonné : comment continuer à se respecter dans un espace qui ne vous fait pas confiance ?",
+      "Distinguer le perfectionniste sincère du contrôlant insécure — les deux ont le même comportement mais des ressorts très différents.",
+      "Le moment le plus révélateur : quand le supérieur réalise que le subordonné compétent ne demande plus rien — parce qu'il s'en fiche désormais."
+    ],
+    "dynamiqueAssociee": { "id": "controle-par-retention-du-pouvoir", "label": "Contrôle par rétention du pouvoir" }
+  }
+]

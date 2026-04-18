@@ -1,0 +1,339 @@
+[
+  {
+    "id": "indignation",
+    "label": "Indignation",
+    "famille": "colere-frustration",
+    "definitionCourte": "Colère morale provoquée par l'injustice — réelle ou perçue. L'indignation n'est pas une colère contre soi mais contre ce qui est fait à soi ou aux autres.",
+
+    "signesPhysiques": [
+      "mâchoire qui se serre face au sujet de l'injustice",
+      "regard qui se durcit, sourcils légèrement froncés",
+      "ton qui monte involontairement",
+      "gestes plus amples et plus appuyés en parlant",
+      "redressement de la posture — comme si le corps refusait de plier",
+      "index ou main qui pointe — besoin de désigner ce qui est inacceptable",
+      "respiration plus profonde, plus lente — contenir ou préparer"
+    ],
+
+    "sensationsInternes": [
+      "chaleur dans la poitrine — quelque chose qui monte",
+      "tension dans les épaules et le cou",
+      "énergie qui cherche une sortie",
+      "sensation que quelque chose doit être dit, ne peut pas rester tu",
+      "impression d'être du côté du juste — ça donne de la force",
+      "légère accélération cardiaque"
+    ],
+
+    "pensees": [
+      "Ce n'est pas juste.",
+      "Comment peut-on accepter ça ?",
+      "Quelqu'un doit dire quelque chose.",
+      "Ce n'est pas moi qui me tairai.",
+      "Ils n'ont pas le droit.",
+      "Si tout le monde se tait, rien ne changera jamais."
+    ],
+
+    "effetsVoixLangage": [
+      "débit plus rapide et plus appuyé",
+      "phrases courtes, tranchantes, affirmatives",
+      "absence de nuances — l'indignation simplifie",
+      "répétition de mots-clés — 'inacceptable', 'injuste', 'inadmissible'",
+      "ton qui peut devenir accusateur sans s'en rendre compte",
+      "difficulté à écouter le point de vue opposé dans cet état"
+    ],
+
+    "comportements": [
+      "prend la parole même s'il n'est pas à l'aise avec la prise de parole",
+      "écrit, signe, agit — l'indignation est activatrice",
+      "peut s'aliéner des personnes qui ne partagent pas sa lecture de la situation",
+      "mobilise ou tente de mobiliser d'autres autour de lui",
+      "persiste même face à l'indifférence ou à la résistance"
+    ],
+
+    "masquesPossibles": [
+      "calme de façade — la voix maîtrisée mais les mains serrées",
+      "ironie cinglante pour critiquer sans éclater",
+      "silence intense — refus de parler à ceux qu'on tient pour responsables"
+    ],
+
+    "evolutionsPossibles": [
+      "action concrète si le personnage trouve un canal pour agir",
+      "épuisement militant si l'indignation ne trouve pas de débouché",
+      "cynisme si trop souvent confronté à l'injustice sans résultat",
+      "radicalisation si l'indignation s'accumule sans résolution"
+    ],
+
+    "contextesAggravants": [
+      "injustice visible et niée par ceux qui ont le pouvoir de la corriger",
+      "complicité passive des témoins",
+      "répétition de la même injustice",
+      "impuissance à changer la situation malgré les efforts"
+    ],
+
+    "contextesAttenuants": [
+      "quelqu'un qui prend en charge ce qui doit être dit",
+      "réparation de l'injustice",
+      "espace pour exprimer l'indignation sans danger"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Désapprobation", "description": "Le personnage trouve quelque chose injuste mais n'agit pas encore." },
+      { "niveau": 2, "label": "Protestration intérieure", "description": "L'injustice l'occupe, il en parle à ses proches, grogne, cherche des alliés." },
+      { "niveau": 3, "label": "Indignation active", "description": "Passe à l'acte — prend la parole, interpelle, écrit, mobilise." },
+      { "niveau": 4, "label": "Colère morale intense", "description": "L'indignation domine ses interactions. Il peut s'aliéner des personnes qui ne partagent pas son intensité." },
+      { "niveau": 5, "label": "Rage vertueuse", "description": "L'indignation est totale. Le personnage est prêt à tout sacrifier pour ce qu'il considère comme juste." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage habitué à l'injustice",
+        "description": "L'indignation peut être émoussée — 'encore'. Mais quand elle s'allume, elle est d'autant plus violente qu'elle accumule des années de colère retenue."
+      },
+      {
+        "profil": "Personnage privilégié qui découvre une injustice",
+        "description": "L'indignation est fraîche, sincère, mais parfois maladroite — il ne comprend pas encore les codes de ceux qui vivent cette injustice au quotidien."
+      },
+      {
+        "profil": "Personnage pragmatique",
+        "description": "L'indignation est vite canalisée en plan d'action. Moins de discours, plus de stratégie. Le ressenti est réel mais mis au service du résultat."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'indignation est l'une des rares colères qui se perçoit comme légitime — à utiliser avec soin pour ne pas idéaliser le personnage.",
+      "Elle peut masquer une colère plus personnelle : le personnage s'indigne parfois pour ce qu'il n'arrive pas à défendre en son nom propre.",
+      "Distinguer de la colère ordinaire : l'indignation est tournée vers l'extérieur, vers une cause — elle est moins centripète."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "action-collective" },
+      { "type": "peut_suivre", "cible": "injustice-percue" },
+      { "type": "peut_evoluer_en", "cible": "epuisement-militant" },
+      { "type": "souvent_associe_a", "cible": "prise-de-parole" },
+      { "type": "peut_masquer", "cible": "colere-personnelle" }
+    ]
+  },
+  {
+    "id": "rancoeur",
+    "label": "Rancœur",
+    "famille": "colere-frustration",
+    "definitionCourte": "Ressentiment profond et durable qui s'est installé après une blessure non résolue. La rancœur est une colère qui a vieilli — elle ne brûle plus, elle ronge.",
+
+    "signesPhysiques": [
+      "ton légèrement sec, presque neutre — froid sans être glacial",
+      "regard qui se détourne à la mention de la personne ou du sujet",
+      "petites contractions du visage à peine perceptibles — comme si quelque chose se fermait",
+      "lèvres légèrement pincées",
+      "posture plus rigide en présence du ou de la source de rancœur",
+      "silences brusques quand le sujet est abordé",
+      "mouvements économiques — le personnage retient quelque chose"
+    ],
+
+    "sensationsInternes": [
+      "impression que quelque chose n'a jamais été réglé",
+      "irritation sourde qui remonte à la surface à certaines occasions",
+      "sentiment d'avoir été lésé sans que personne ne le reconnaisse",
+      "fatigue émotionnelle liée à cette tension maintenue",
+      "résistance intérieure à pardonner — même quand c'est tentant"
+    ],
+
+    "pensees": [
+      "Il n'a jamais reconnu ce qu'il a fait.",
+      "On fait semblant que c'est oublié, mais ce n'est pas oublié.",
+      "Je ne peux pas faire comme si rien ne s'était passé.",
+      "Personne ne comprend ce que ça m'a coûté.",
+      "Je n'attends plus rien de ce côté-là.",
+      "Je ne le lui ai jamais dit. Je ne le lui dirai peut-être jamais."
+    ],
+
+    "effetsVoixLangage": [
+      "sécheresse dans les échanges sur le sujet",
+      "formulations au passé — 'avant', 'à l'époque', 'quand ça s'est passé'",
+      "tendance à éviter le sujet ou à le traiter avec une neutralité trop appliquée",
+      "ironie froide si poussé à parler",
+      "refus d'entrer dans des discussions émotionnelles sur le sujet"
+    ],
+
+    "comportements": [
+      "maintient une distance avec la source de la blessure",
+      "accorde des faveurs à contrecœur, par obligation sociale",
+      "observe les erreurs ou les défaillances de l'autre avec une attention discrète",
+      "n'est pas le premier à tendre la main, même s'il le voudrait parfois",
+      "peut saboter des opportunités de réconciliation sans le formuler"
+    ],
+
+    "masquesPossibles": [
+      "politesse parfaite — la rancœur cachée sous une correction de surface",
+      "désintérêt feint pour éviter d'avoir à ressentir",
+      "bienveillance excessive comme défense contre sa propre rancœur",
+      "neutralité appliquée — 'ça n'a plus d'importance'"
+    ],
+
+    "evolutionsPossibles": [
+      "libération si quelqu'un reconnaît enfin la blessure",
+      "durcissement en amertume si rien ne change",
+      "explosion inattendue lors d'un déclencheur anodin",
+      "résolution intérieure si le personnage décide de lâcher — sans que l'autre ne le sache nécessairement"
+    ],
+
+    "contextesAggravants": [
+      "voir la source de la blessure être valorisée ou récompensée",
+      "événement qui rappelle la blessure originelle",
+      "demande de pardon jugée insuffisante ou insincère",
+      "obligation sociale de paraître réconcilié"
+    ],
+
+    "contextesAttenuants": [
+      "reconnaissance explicite et sincère de la blessure causée",
+      "distance géographique ou temporelle",
+      "rencontre qui offre une perspective nouvelle sur l'événement"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Irritation persistante", "description": "Quelque chose agace encore, sans que ça ne domine vraiment." },
+      { "niveau": 2, "label": "Rancœur légère", "description": "La relation est maintenue mais avec une réserve. Le personnage n'oublie pas." },
+      { "niveau": 3, "label": "Rancœur installée", "description": "Colore la relation. Le personnage ne cherche plus la proximité, accepte la distance." },
+      { "niveau": 4, "label": "Rancœur profonde", "description": "Modifie les comportements de façon significative. Le personnage surveille, anticipe, évite." },
+      { "niveau": 5, "label": "Aigreur chronique", "description": "La rancœur est devenue une partie de l'identité. Le personnage se définit par cette blessure non résolue." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui ne se l'avoue pas",
+        "description": "Prétend avoir tourné la page. La rancœur se révèle dans les petits gestes — une réticence, une ironie fugace, un refus de célébrer la réussite de l'autre."
+      },
+      {
+        "profil": "Personnage très direct",
+        "description": "Peut nommer la rancœur, même si ça crée un malaise. 'Je n'ai pas oublié.' Ça ne résout rien mais ça dit au moins la vérité."
+      },
+      {
+        "profil": "Personnage en famille",
+        "description": "La rancœur familiale est particulièrement difficile à résoudre car la relation ne peut pas être rompue — on continue de se voir, de partager des repas, des événements. La coexistence forcée entretient la blessure."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La rancœur est l'émotion des relations longues — elle suppose un historique.",
+      "Elle est souvent plus intéressante à écrire que la colère ouverte parce qu'elle est discrète et peut traverser une scène entière sans jamais se nommer.",
+      "Distinguer du ressentiment : le ressentiment est plus général, la rancœur a souvent une source précise."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "confrontation-differee" },
+      { "type": "peut_suivre", "cible": "trahison" },
+      { "type": "peut_evoluer_en", "cible": "amertume" },
+      { "type": "souvent_associe_a", "cible": "distance-relationnelle" }
+    ]
+  },
+  {
+    "id": "hostilite",
+    "label": "Hostilité",
+    "famille": "colere-frustration",
+    "definitionCourte": "Disposition durable de méfiance et de résistance envers quelqu'un ou quelque chose. L'hostilité n'est pas un accès de colère mais une posture défensive permanente qui précède parfois toute provocation.",
+
+    "signesPhysiques": [
+      "regard qui juge avant même que l'autre ait ouvert la bouche",
+      "bras croisés ou posture fermée dès l'entrée en contact",
+      "mâchoire légèrement serrée",
+      "absence de sourire d'accueil — neutralité froide",
+      "réponses courtes, sans encouragement",
+      "corps orienté de biais plutôt que face à l'autre",
+      "ton plat qui exclut la chaleur"
+    ],
+
+    "sensationsInternes": [
+      "vigilance constante — prêt à parer",
+      "crispation légère mais permanente en présence de la cible",
+      "méfiance qui précède toute information concrète",
+      "impression que laisser baisser la garde serait une erreur",
+      "irritation de fond, sans déclencheur précis"
+    ],
+
+    "pensees": [
+      "Je ne lui fais pas confiance.",
+      "Il cherche quelque chose.",
+      "Je ne vais pas me laisser prendre.",
+      "Qu'est-ce qu'il veut vraiment ?",
+      "Ce sourire est calculé.",
+      "Ça finira mal, comme d'habitude."
+    ],
+
+    "effetsVoixLangage": [
+      "réponses minimales — oui/non, pas d'ouverture",
+      "questions rhétoriques ou provocatrices plutôt que vraies questions",
+      "ironie défensive — transformer l'échange en joute",
+      "absence de formules de politesse habituelles",
+      "interruption rapide pour ne pas laisser l'autre s'installer"
+    ],
+
+    "comportements": [
+      "territoire marqué physiquement ou symboliquement",
+      "résistance à toute initiative venant de la cible, même raisonnable",
+      "alliance avec d'autres contre la cible",
+      "refuse les gestes de bonne volonté comme suspect",
+      "surveille sans en avoir l'air"
+    ],
+
+    "masquesPossibles": [
+      "politesse de surface absolument formelle — la cordialité comme armure",
+      "indifférence jouée — 'ça m'est égal'",
+      "débordement d'attention vers quelqu'un d'autre pour ignorer ostensiblement la cible"
+    ],
+
+    "evolutionsPossibles": [
+      "escalade vers l'affrontement ouvert si la cible ne recule pas",
+      "désarmement progressif si la cible démontre sa bonne foi par des actes",
+      "chronicisation si rien ne change — l'hostilité devient le fond de la relation",
+      "trahison des attentes — la cible s'avère fiable, ce qui oblige à reconfigurer"
+    ],
+
+    "contextesAggravants": [
+      "environnement compétitif",
+      "passé de conflit ou de trahison avec cette personne ou une similaire",
+      "pression extérieure qui oblige à côtoyer la cible",
+      "comportement de la cible qui confirme les craintes"
+    ],
+
+    "contextesAttenuants": [
+      "acte de la cible qui brise le schéma attendu",
+      "médiation par un tiers de confiance",
+      "crise extérieure qui force la coopération"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Méfiance", "description": "Le personnage est réservé, surveille. Pas encore hostile ouvertement." },
+      { "niveau": 2, "label": "Froideur hostile", "description": "La communication est minimale. Le personnage ne cherche pas le conflit mais ne fait aucun effort." },
+      { "niveau": 3, "label": "Hostilité visible", "description": "La résistance est perceptible. Les échanges sont tendus. L'autre le ressent." },
+      { "niveau": 4, "label": "Opposition active", "description": "Le personnage bloque, conteste, refuse. La relation est difficile pour tout le monde." },
+      { "niveau": 5, "label": "Guerre froide", "description": "Antagonisme total. La coexistence est une performance épuisante." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage blessé",
+        "description": "L'hostilité protège quelque chose de fragile. Elle est une armure contre une blessure ancienne que ce personnage ne veut pas se laisser infliger à nouveau."
+      },
+      {
+        "profil": "Personnage dominant",
+        "description": "L'hostilité est un outil — elle garde les autres à distance, maintient un rapport de force. Elle n'est pas émotionnelle mais stratégique."
+      },
+      {
+        "profil": "Personnage dans un groupe soudé",
+        "description": "L'hostilité envers un outsider peut être partagée, collective — une protection du groupe autant qu'une disposition personnelle."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'hostilité est une disposition plus qu'une émotion ponctuelle — elle colore toute une relation.",
+      "À ne pas confondre avec l'agressivité (qui est active et ponctuelle) ou la rancœur (qui est rétrospective).",
+      "L'hostilité peut être parfaitement justifiée narrativement — mais la force de l'écriture est de montrer ce qu'elle coûte."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "conflit-ouvert" },
+      { "type": "peut_suivre", "cible": "trahison" },
+      { "type": "peut_masquer", "cible": "peur" },
+      { "type": "souvent_associe_a", "cible": "mefiance" }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Studio Roman",
+  "version": "1.0.0",
+  "identifier": "fr.scriptor.desktop",
+  "build": {
+    "beforeDevCommand": "npm run vite:dev:1420",
+    "devUrl": "http://localhost:1420",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "Studio Roman",
+        "width": 1280,
+        "height": 800,
+        "minWidth": 900,
+        "minHeight": 600,
+        "visible": false,
+        "url": "index.html"
+      },
+      {
+        "label": "splashscreen",
+        "title": "Studio Roman",
+        "width": 480,
+        "height": 360,
+        "decorations": false,
+        "resizable": false,
+        "center": true,
+        "visible": true,
+        "url": "splashscreen.html"
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self'; img-src 'self' data: blob: https:; connect-src 'self' http://127.0.0.1:8080 http://localhost:8080 https://api.github.com https://accounts.google.com https://www.googleapis.com https://oauth2.googleapis.com https://content.dropboxapi.com https://www.dropbox.com https://api.languagetool.org; script-src 'self' https://accounts.google.com; style-src 'self' 'unsafe-inline'; font-src 'self' data: https://fonts.gstatic.com https:"
+    }
+  },
+  "bundle": {
+    "shortDescription": "Studio Roman — atelier d’écriture",
+    "active": true,
+    "targets": ["nsis", "msi"],
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "windows": {
+      "webviewInstallMode": {
+        "type": "downloadBootstrapper"
+      },
+      "nsis": {
+        "languages": ["French", "English"],
+        "displayLanguageSelector": false
+      },
+      "wix": {
+        "language": "fr-FR"
+      }
+    },
+    "resources": [
+      "resources/languagetool/**/*"
+    ]
+  }
+}

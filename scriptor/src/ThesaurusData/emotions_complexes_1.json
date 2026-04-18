@@ -1,0 +1,474 @@
+[
+  {
+    "id": "ambivalence",
+    "label": "Ambivalence",
+    "alias": [
+      "ambivalence",
+      "sentiments contradictoires",
+      "émotions mêlées",
+      "tiraillement intérieur",
+      "contradiction affective",
+      "double sentiment",
+      "amour-haine",
+      "vouloir et ne pas vouloir",
+      "attraction-répulsion",
+      "sentiment à deux faces"
+    ],
+    "famille": "emotions-complexes",
+    "definitionCourte": "État dans lequel deux sentiments opposés ou contradictoires coexistent envers le même objet, la même personne ou la même situation, sans que l'un annule l'autre.",
+    "signesPhysiques": [
+      "expression du visage qui oscille entre deux registres",
+      "geste vers l'autre arrêté avant de se terminer",
+      "sourcil levé d'un côté, bouche pincée",
+      "regard qui cherche à lire la situation sans la décider",
+      "posture ni fermée ni ouverte",
+      "pause longue avant une réponse simple",
+      "soupir qui n'est ni de joie ni de tristesse"
+    ],
+    "sensationsInternes": [
+      "tension entre deux forces opposées sans résolution",
+      "inconfort de ne pas pouvoir choisir",
+      "oscillation entre l'élan et le recul",
+      "impression d'être partagé en deux",
+      "légère fatigue liée à la contradiction interne",
+      "désir simultané de deux choses incompatibles",
+      "sentiment que les deux émotions sont également vraies"
+    ],
+    "pensees": [
+      "Je veux ça — et je ne veux pas ça.",
+      "Je l'aime et je ne peux pas le supporter.",
+      "C'est bien — et ça m'angoisse.",
+      "Je suis content que ce soit fini — et j'en souffre.",
+      "Je ne sais pas ce que je veux vraiment.",
+      "Les deux choses sont vraies en même temps.",
+      "Je voudrais que ce soit simple.",
+      "Je ne peux pas trancher — pas encore."
+    ],
+    "effetsVoixLangage": [
+      "formulations avec « mais » et « en même temps »",
+      "hésitations longues",
+      "réponses incomplètes qui ouvrent sur les deux côtés",
+      "rectifications fréquentes",
+      "difficulté à répondre à « comment tu te sens ? »"
+    ],
+    "comportements": [
+      "avance et recule dans une décision",
+      "demande l'avis de plusieurs personnes sans pouvoir l'intégrer",
+      "reporte la décision",
+      "agit — puis regrette — puis regrette de regretter",
+      "se contredit sur une courte période",
+      "cherche quelqu'un qui tranche pour lui"
+    ],
+    "masquesPossibles": [
+      "décision rapide qui cache le doute",
+      "neutralité affichée",
+      "humour pour désamorcer la tension"
+    ],
+    "evolutionsPossibles": [
+      "décision si une des deux forces l'emporte",
+      "paralysie si l'ambivalence dure",
+      "acceptation si les deux dimensions sont intégrées",
+      "explosion si la tension est trop longtemps contenue"
+    ],
+    "contextesAggravants": [
+      "enjeu élevé de la décision",
+      "pression extérieure à trancher vite",
+      "les deux options comportant des pertes réelles",
+      "passé de mauvaises décisions qui fragilise la confiance"
+    ],
+    "contextesAttenuants": [
+      "temps suffisant pour explorer les deux dimensions",
+      "interlocuteur qui accueille la contradiction sans forcer le choix",
+      "possibilité d'une troisième voie"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère hésitation", "description": "Le personnage n'est pas tout à fait sûr. Rien d'invalidant." },
+      { "niveau": 2, "label": "Ambivalence sensible", "description": "Les deux côtés sont présents. La décision est difficile." },
+      { "niveau": 3, "label": "Tiraillement réel", "description": "La contradiction est inconfortable et visible. Le personnage tourne en rond." },
+      { "niveau": 4, "label": "Conflit intérieur profond", "description": "Les deux forces sont également fortes. Le personnage est paralysé." },
+      { "niveau": 5, "label": "Déchirement", "description": "Quelle que soit la décision, quelque chose de réel sera perdu." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage analytique",
+        "description": "L'ambivalence est traitée comme un problème à résoudre. Il liste les pour et les contre. Mais l'affect ne se réduit pas à un tableau — ce qui le frustre davantage."
+      },
+      {
+        "profil": "Personnage qui valorise la cohérence",
+        "description": "L'ambivalence est vécue comme une faiblesse. Il ne devrait pas ressentir les deux en même temps. Il se juge autant qu'il lutte."
+      },
+      {
+        "profil": "Personnage qui a vécu des choix impossibles",
+        "description": "L'ambivalence est familière. Il sait qu'elle ne se résout pas toujours. Il apprend à la tenir sans décider — ce qui a ses propres coûts."
+      }
+    ],
+    "notesEditoriales": [
+      "L'ambivalence est une des émotions les plus littérairement riches — elle montre la complexité sans la simplifier.",
+      "Elle est narrative précisément parce qu'elle empêche la décision facile.",
+      "Ne pas la résoudre trop vite : l'ambivalence qui dure est plus honnête que celle qui se règle en deux scènes.",
+      "Un personnage ambivalent face à un autre qui ne l'est pas crée un contraste fort."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "decision" },
+      { "type": "peut_evoluer_en", "cible": "paralysie" },
+      { "type": "souvent_associe_a", "cible": "doute" },
+      { "type": "peut_masquer", "cible": "peur-de-se-tromper" },
+      { "type": "peut_declencher", "cible": "conflit-interieur" },
+      { "type": "peut_coexister_avec", "cible": "amour" }
+    ]
+  },
+  {
+    "id": "epuisement-moral",
+    "label": "Épuisement moral",
+    "alias": [
+      "épuisement moral",
+      "fatigue de l'âme",
+      "usure intérieure",
+      "burn-out émotionnel",
+      "vide après l'effort",
+      "saturation morale",
+      "épuisement de compassion",
+      "fatigue de vouloir",
+      "lassitude profonde",
+      "extinction intérieure"
+    ],
+    "famille": "emotions-complexes",
+    "definitionCourte": "État d'épuisement profond lié non à un effort physique mais à une charge émotionnelle, morale ou relationnelle trop longtemps portée, qui vide les ressources disponibles pour ressentir et agir.",
+    "signesPhysiques": [
+      "visage tiré, traits creusés sans fatigue physique apparente",
+      "regard éteint, sans éclat",
+      "gestes ralentis et peu assurés",
+      "voix plus plate, sans inflexion",
+      "absence de réaction aux stimuli habituels",
+      "corps immobile pendant de longues périodes",
+      "yeux qui se ferment ou qui fixent le vide sans s'en rendre compte"
+    ],
+    "sensationsInternes": [
+      "vide là où les émotions devraient être",
+      "impossibilité de se soucier de ce qui compte d'habitude",
+      "légèreté étrange — non par joie mais par absence",
+      "corps présent, esprit absent",
+      "sentiment que tout demande plus d'effort qu'il n'en reste",
+      "impression de fonctionner à blanc",
+      "incapacité à vouloir quoi que ce soit"
+    ],
+    "pensees": [
+      "Je n'ai plus rien à donner.",
+      "Je ne ressens plus rien — et je ne sais pas si c'est un problème.",
+      "Je suis là mais je ne suis pas vraiment là.",
+      "J'ai besoin qu'on m'enlève une charge — n'importe laquelle.",
+      "Je n'arrive pas à m'en soucier.",
+      "Ça devrait m'affecter — ça n'y arrive pas.",
+      "Je ne sais plus pourquoi je faisais tout ça.",
+      "Je veux juste ne rien faire pendant très longtemps."
+    ],
+    "effetsVoixLangage": [
+      "monosyllabes",
+      "fin de conversation prématurée",
+      "ton monocorde",
+      "difficulté à écouter jusqu'au bout",
+      "répétition des mêmes formulations usées"
+    ],
+    "comportements": [
+      "évite les situations émotionnellement chargées",
+      "refuse les demandes d'aide ou de soutien supplémentaires",
+      "automatise au maximum",
+      "ne finit plus ce qu'il commence",
+      "se déconnecte des liens qui lui demandent quelque chose",
+      "cherche des activités sans exigence affective"
+    ],
+    "masquesPossibles": [
+      "efficacité de surface maintenue",
+      "optimisme de façade qui craque sur les bords",
+      "distance présentée comme de la professionnalité"
+    ],
+    "evolutionsPossibles": [
+      "effondrement si rien ne change",
+      "rupture salvatrice si une limite est posée",
+      "reconstruction si un repos réel est possible",
+      "cynisme si l'épuisement devient une posture"
+    ],
+    "contextesAggravants": [
+      "obligation de continuer malgré l'épuisement",
+      "demandes qui s'ajoutent sans allègement",
+      "absence de reconnaissance",
+      "isolement sans soutien"
+    ],
+    "contextesAttenuants": [
+      "pause réelle et durable",
+      "aide concrète qui enlève une charge",
+      "présence sans demande",
+      "autorisation de ne pas être disponible"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère lassitude", "description": "Le personnage manque d'entrain. Il a besoin de récupérer." },
+      { "niveau": 2, "label": "Fatigue émotionnelle sensible", "description": "Certaines choses ne l'atteignent plus. Il prend de la distance." },
+      { "niveau": 3, "label": "Épuisement moral marqué", "description": "Les ressources sont sérieusement entamées. Le personnage ne peut plus être pleinement présent." },
+      { "niveau": 4, "label": "Épuisement profond", "description": "Le vide est réel. Le personnage fonctionne en mode minimal." },
+      { "niveau": 5, "label": "Extinction", "description": "Plus rien ne passe. Le personnage n'arrive plus à ressentir ni à vouloir." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Aidant ou soignant",
+        "description": "L'épuisement vient de l'empathie répétée sans réciprocité. Il a trop donné trop longtemps. La compassion elle-même s'est épuisée. Il en éprouve de la honte."
+      },
+      {
+        "profil": "Personnage responsable",
+        "description": "L'épuisement vient de la charge décisionnelle. Trop de choix, trop de conséquences portées. Il n'a plus la ressource pour différencier l'essentiel de l'accessoire."
+      },
+      {
+        "profil": "Personnage idéaliste",
+        "description": "L'épuisement moral vient du fossé entre ce qu'il voulait faire et ce qui a été possible. L'idéal intact — les ressources pour le défendre, non."
+      }
+    ],
+    "notesEditoriales": [
+      "L'épuisement moral se distingue de la dépression par son origine : il a un objet, une source identifiable.",
+      "Il est plus crédible quand le personnage continue malgré lui — pas quand il s'effondre tout de suite.",
+      "Les micro-signes sont les plus puissants : ce qu'il ne fait plus, ce qu'il ne remarque plus.",
+      "Un personnage épuisé qui retrouve une raison d'agir est l'un des arcs narratifs les plus forts."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "desespoir" },
+      { "type": "peut_evoluer_en", "cible": "cynisme" },
+      { "type": "peut_evoluer_en", "cible": "reconstruction" },
+      { "type": "souvent_associe_a", "cible": "vide" },
+      { "type": "peut_suivre", "cible": "sacrifice-prolonge" },
+      { "type": "peut_masquer", "cible": "depression" }
+    ]
+  },
+  {
+    "id": "nostalgie-douloureuse",
+    "label": "Nostalgie douloureuse",
+    "alias": [
+      "nostalgie douloureuse",
+      "nostalgie déchirante",
+      "désir déchirant du passé",
+      "mal du souvenir",
+      "nostalgie qui fait mal",
+      "deuil de ce qui était",
+      "regret douloureux du passé",
+      "saudade intense",
+      "nostalgie impossible à résoudre",
+      "désir insatisfaisable du retour"
+    ],
+    "famille": "emotions-complexes",
+    "definitionCourte": "Forme intense de nostalgie dans laquelle le désir du passé est assez fort pour blesser — parce que ce qui est perdu était exceptionnel, parce que le retour est impossible, ou parce que le passé est lié à une perte irréparable.",
+    "signesPhysiques": [
+      "larmes qui viennent à l'évocation, parfois sans prévenir",
+      "sourire qui tourne au chagrin",
+      "regard dans le vide pendant de longues secondes",
+      "immobilité soudaine face à un déclencheur",
+      "main qui s'immobilise sur un objet du passé",
+      "visage qui s'effondre légèrement",
+      "corps qui se referme autour du souvenir"
+    ],
+    "sensationsInternes": [
+      "douleur réelle dans la poitrine à l'évocation",
+      "désir intense et sans issue",
+      "chaleur et froid mêlés",
+      "impression que le présent ne peut rien contre l'appel du passé",
+      "sentiment d'être partagé entre deux temps",
+      "tendresse qui fait mal",
+      "conscience aiguë de l'irréversibilité"
+    ],
+    "pensees": [
+      "Je donnerais n'importe quoi pour retrouver ça.",
+      "Ce n'est pas possible que ce soit fini.",
+      "Je n'ai pas su ce que j'avais à temps.",
+      "Rien n'a la même saveur depuis.",
+      "Le passé était meilleur — et je ne peux pas le récupérer.",
+      "Ce souvenir me fait du bien et du mal en même temps.",
+      "Je ne veux pas oublier — même si ça fait mal.",
+      "Ce que j'ai perdu était exceptionnel."
+    ],
+    "effetsVoixLangage": [
+      "voix qui se brise à l'évocation",
+      "silence long avant et après le souvenir",
+      "présent utilisé pour le passé",
+      "détails précis et précieux du souvenir",
+      "comparaison implicite ou explicite avec le présent"
+    ],
+    "comportements": [
+      "revient compulsivement sur des photos, objets, lieux",
+      "refuse parfois d'y retourner pour ne pas détruire le souvenir",
+      "parle du passé à des gens qui ne l'ont pas connu",
+      "cherche quelqu'un qui s'en souvient avec lui",
+      "idéalise ce qui a été perdu",
+      "compare le présent défavorablement"
+    ],
+    "masquesPossibles": [
+      "humour sur le bon vieux temps",
+      "détachement afffiché",
+      "surinvestissement dans le présent pour couvrir le vide"
+    ],
+    "evolutionsPossibles": [
+      "mélancolie stabilisée si la nostalgie se pose",
+      "deuil si le passé est finalement lâché",
+      "déni si la nostalgie devient une fuite",
+      "récit si le passé est transformé en histoire"
+    ],
+    "contextesAggravants": [
+      "déclencheur sensoriel inattendu",
+      "présent jugé décevant",
+      "présence de quelqu'un du passé",
+      "anniversaire lié à la période perdue"
+    ],
+    "contextesAttenuants": [
+      "partage du souvenir avec quelqu'un qui s'en souvient",
+      "création artistique autour du souvenir",
+      "intégration du passé comme ressource plutôt que comme perte"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Nostalgie douce-amère", "description": "Le souvenir fait un peu mal mais reste doux. Le personnage le porte sans dommage." },
+      { "niveau": 2, "label": "Nostalgie chargée", "description": "L'évocation creuse quelque chose. Le personnage s'y attarde." },
+      { "niveau": 3, "label": "Nostalgie douloureuse franche", "description": "Le souvenir fait vraiment mal. Le personnage y revient malgré lui." },
+      { "niveau": 4, "label": "Nostalgie déchirante", "description": "Le désir du passé est presque insupportable. Le présent ne peut pas rivaliser." },
+      { "niveau": 5, "label": "Deuil du passé", "description": "La nostalgie a pris la forme d'un vrai deuil. Le personnage ne peut pas se résoudre à ce que c'est fini." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage ayant perdu une relation",
+        "description": "La nostalgie a le visage de quelqu'un. Elle est liée à une personne précise, à des moments précis. Elle est donc à la fois très riche et très douloureuse."
+      },
+      {
+        "profil": "Personnage ayant vécu un âge d'or",
+        "description": "Le passé n'est pas idéalisé — il était vraiment exceptionnel. Ce qui rend la nostalgie plus légitime et plus difficile à dépasser."
+      },
+      {
+        "profil": "Personnage plus jeune qui regrette une enfance perdue",
+        "description": "La nostalgie est précoce et surprenante. Elle révèle une conscience du temps et de la perte qui vient trop tôt. Elle peut mettre mal à l'aise l'entourage."
+      }
+    ],
+    "notesEditoriales": [
+      "Distinguer de la nostalgie douce : ici la douleur est réelle et prégnante, pas seulement mélancolique.",
+      "Elle est plus puissante quand ce qui est perdu était vraiment exceptionnel — pas idéalisé.",
+      "Les déclencheurs sensoriels involontaires sont les plus forts narrativement.",
+      "Elle peut révéler ce qu'un personnage valorise profondément sans qu'il le dise."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "deuil" },
+      { "type": "peut_evoluer_en", "cible": "melancolie" },
+      { "type": "peut_evoluer_en", "cible": "acceptation" },
+      { "type": "peut_masquer", "cible": "insatisfaction-du-present" },
+      { "type": "peut_declencher", "cible": "retour-dans-un-lieu" },
+      { "type": "souvent_associe_a", "cible": "perte-irrecuperable" }
+    ]
+  },
+  {
+    "id": "vide-existentiel",
+    "label": "Vide existentiel",
+    "alias": [
+      "vide existentiel",
+      "absence de sens",
+      "sentiment de futilité",
+      "vide intérieur profond",
+      "sentiment que rien ne compte vraiment",
+      "nihilisme ressenti",
+      "absence de raison d'être",
+      "vide au fond",
+      "sentiment de l'absurde",
+      "perte de sens profond"
+    ],
+    "famille": "emotions-complexes",
+    "definitionCourte": "Sentiment profond que les activités, les relations et les objectifs ont perdu leur substance ou leur justification, qui laisse le personnage dans un vide qui n'est ni la tristesse ni la dépression mais une interrogation sur le sens même.",
+    "signesPhysiques": [
+      "regard qui glisse sur les choses sans s'y accrocher",
+      "gestes mécaniques, sans investissement",
+      "posture neutre — ni fermée ni ouverte",
+      "voix plate sur les sujets qui devraient l'animer",
+      "immobilité prolongée dans des espaces inhabituels",
+      "regard dans le vide qui peut durer",
+      "absence de réaction à ce qui provoquait une réaction avant"
+    ],
+    "sensationsInternes": [
+      "vide qui n'est pas de la tristesse — il est neutre, presque tranquille",
+      "détachement des activités habituelles",
+      "question sur le sens qui revient sans réponse",
+      "impression que les choses sont à leur place mais sans signification",
+      "légèreté étrange — rien ne pèse parce que rien ne compte",
+      "indifférence à ce qui devrait compter"
+    ],
+    "pensees": [
+      "À quoi ça sert ?",
+      "Est-ce que ça a vraiment de l'importance ?",
+      "Je fais les choses — mais je ne sais plus pourquoi.",
+      "Tout le monde a l'air de trouver un sens — pas moi.",
+      "Ce n'est pas de la tristesse — je ne suis juste plus là.",
+      "Si j'arrêtais tout, est-ce que ça changerait quoi que ce soit ?",
+      "Je vais bien — mais je ne vois pas très bien pourquoi.",
+      "Est-ce que quelque chose compte vraiment ?"
+    ],
+    "effetsVoixLangage": [
+      "réponses philosophiques à des questions pratiques",
+      "impossibilité de s'enthousiasmer pour les projets en cours",
+      "questions existentielles introduites dans des conversations ordinaires",
+      "ton neutre sur les sujets importants"
+    ],
+    "comportements": [
+      "abandonne des projets sans explication",
+      "observe les autres sans envie d'y participer",
+      "remet en question des engagements de longue date",
+      "cherche du sens dans des directions inattendues",
+      "s'investit dans des activités qui donnent une sensation immédiate de présence",
+      "s'isole progressivement de ce qui ne répond pas à la question"
+    ],
+    "masquesPossibles": [
+      "vie très remplie qui cache le vide",
+      "humour cynique présenté comme de la lucidité",
+      "engagement intense dans une cause pour combler"
+    ],
+    "evolutionsPossibles": [
+      "crise existentielle si la question devient urgente",
+      "sens retrouvé par une expérience transformatrice",
+      "dépression si le vide devient douloureux",
+      "acceptation philosophique si le vide est intégré"
+    ],
+    "contextesAggravants": [
+      "transition de vie majeure",
+      "réussite qui ne procure pas le plaisir attendu",
+      "perte d'un sens qui organisait tout",
+      "confrontation à la mort ou au temps qui passe"
+    ],
+    "contextesAttenuants": [
+      "expérience de flux ou de présence totale",
+      "contact avec quelque chose de beau ou de vrai",
+      "relation dans laquelle quelque chose compte vraiment",
+      "action concrète et mesurable dans le monde"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère absence de sens", "description": "Le personnage se demande à quoi ça sert. Passager." },
+      { "niveau": 2, "label": "Vide sensible", "description": "La question du sens est présente. Elle teinte les décisions." },
+      { "niveau": 3, "label": "Vide marqué", "description": "Le personnage ne trouve plus de justification évidente à ses activités." },
+      { "niveau": 4, "label": "Vide profond", "description": "Rien ne compte vraiment. Le personnage fonctionne à vide." },
+      { "niveau": 5, "label": "Vide total", "description": "Plus rien n'a de prise. Toute action semble dérisoire." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage après une grande réussite",
+        "description": "Le vide arrive là où le sens était censé être. Ce qu'il avait voulu toute sa vie est là — et ça ne remplit pas. La désorientation est totale."
+      },
+      {
+        "profil": "Personnage philosophiquement éveillé",
+        "description": "Le vide est pensé et affronté. Ce n'est pas une crise — c'est une question qu'il porte. Il cherche une réponse active plutôt que d'en souffrir passivement."
+      },
+      {
+        "profil": "Personnage jeune sans ancrage",
+        "description": "Le vide vient avant que le sens soit construit. Il ne sait pas encore ce qui compte pour lui. L'errance est réelle et la question est ouverte."
+      }
+    ],
+    "notesEditoriales": [
+      "Le vide existentiel est distinct de la dépression : il est neutre, pas nécessairement douloureux.",
+      "Il crée des personnages qui font les bons gestes sans être vraiment là — ce qui peut être plus inquiétant que la souffrance.",
+      "À ne pas résoudre par une seule scène : le sens se retrouve lentement.",
+      "La rencontre entre un personnage dans le vide et quelqu'un de plein de sens est une des dynmiques narratives les plus riches."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "desespoir" },
+      { "type": "peut_evoluer_en", "cible": "quete-de-sens" },
+      { "type": "peut_masquer", "cible": "depression" },
+      { "type": "souvent_associe_a", "cible": "epuisement-moral" },
+      { "type": "peut_suivre", "cible": "reussite-vide" },
+      { "type": "peut_declencher", "cible": "crise-existentielle" }
+    ]
+  }
+]

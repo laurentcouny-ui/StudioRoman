@@ -1,0 +1,708 @@
+[
+  {
+    "id": "autorite-contestee",
+    "label": "Autorité contestée",
+    "alias": ["autorité contestée", "autorite contestee", "chef contesté", "leadership remis en question", "autorité remise en question", "remettre en question le chef", "légitimité du chef", "pouvoir fragile", "autorité qui vacille", "chef qui perd son groupe"],
+    "famille": "conflits-pouvoir",
+    "definitionCourte": "Situation dans laquelle la légitimité d'une figure d'autorité est ouvertement ou silencieusement remise en question par ceux qui lui sont subordonnés.",
+    "natureDuConflit": "Conflit de légitimité — le pouvoir formel et le pouvoir réel ne sont plus alignés.",
+    "forcesEnPresence": [
+      "pouvoir formel de l'autorité — titre, position, prérogatives",
+      "doute ou résistance croissante des subordonnés",
+      "écart perçu entre compétence et position occupée",
+      "loyautés divisées au sein du groupe",
+      "peur des conséquences pour ceux qui contestent ouvertement",
+      "attentes non satisfaites envers le leader",
+      "figure alternative qui incarne ce que le chef n'est pas"
+    ],
+    "declencheursFrequents": [
+      "décision perçue comme incompétente, injuste ou arbitraire",
+      "échec visible imputable directement à l'autorité",
+      "favoritisme manifeste ou traitement inégal",
+      "arrivée d'un subordonné plus compétent ou plus charismatique que le chef",
+      "crise qui révèle les limites du leader sous pression",
+      "promesse non tenue qui ronge la crédibilité",
+      "changement de contexte qui rend le style de leadership inadapté",
+      "révélation d'une hypocrisie ou d'un double standard"
+    ],
+    "signauxAvantCoureurs": [
+      "obéissance de façade sans adhésion réelle",
+      "conversations parallèles qui court-circuitent la hiérarchie",
+      "erreurs signalées tard ou pas du tout",
+      "initiatives prises sans consulter l'autorité",
+      "regards échangés entre subordonnés lors des décisions du chef",
+      "humour ou ironie discrète sur le chef dans les coulisses",
+      "désengagement progressif des membres les plus influents",
+      "réunions informelles dont le chef est absent"
+    ],
+    "silencesEtNonDits": [
+      "personne ne dit directement 'tu n'es pas légitime'",
+      "l'autorité ne demande jamais si elle est réellement suivie",
+      "le groupe ne nomme pas la coalition qui se forme",
+      "la question 'qui devrait vraiment diriger ?' reste muette",
+      "le chef évite les situations où son manque d'adhésion serait visible",
+      "les plus loyaux protègent le chef des vérités qu'il ne veut pas entendre"
+    ],
+    "penseesTypiques": [
+      "Il a le titre mais pas la compétence.",
+      "Si je dis ce que je pense vraiment, ça va se retourner contre moi.",
+      "Tout le monde le voit — pourquoi personne ne dit rien ?",
+      "Je peux faire mieux que lui et tout le monde le sait.",
+      "Je l'exécute — mais je ne suis pas d'accord.",
+      "À quoi ça sert de donner le meilleur de moi si les décisions sont prises sans moi ?",
+      "Il défend sa position, pas le groupe.",
+      "Si quelqu'un ne dit rien, c'est qu'on a tous renoncé.",
+      "Le vrai chef, c'est celui à qui on va quand on a un problème réel."
+    ],
+    "comportementsTypiques": [
+      "exécution minimale des directives sans investissement supplémentaire",
+      "alliances latérales pour contourner la hiérarchie",
+      "questions formulées pour tester ou exposer les limites du chef",
+      "appels discrets à d'autres figures d'autorité",
+      "prise d'initiative qui outrepasse les attributions formelles",
+      "éloges en public et critique en privé",
+      "refus d'assumer les décisions du chef devant les tiers",
+      "soutien affiché qui cache une attente de l'effondrement"
+    ],
+    "positionsDePouvoir": [
+      "l'autorité détient le pouvoir formel mais perd le pouvoir réel",
+      "le contestataire peut prendre le pouvoir informel sans avoir le titre",
+      "le groupe détient collectivement le pouvoir de valider ou d'invalider le leader",
+      "les loyaux de l'autorité ont intérêt à sa survie et résistent aux contestataires"
+    ],
+    "variantes": [
+      {
+        "relation": "Hiérarchie professionnelle",
+        "description": "Le manager est techniquement en poste mais son équipe ne le suit plus. Les décisions sont exécutées en surface. En réalité, le groupe s'organise autour d'un leader informel qui prend les vraies décisions."
+      },
+      {
+        "relation": "Chef de groupe ou de clan",
+        "description": "L'autorité repose sur un consensus ou une tradition. Sa remise en question touche à l'identité du groupe entier. La contestation peut venir de l'intérieur ou d'un rival extérieur qui incarne un modèle différent."
+      },
+      {
+        "relation": "Figure parentale ou institutionnelle",
+        "description": "L'autorité est ancienne et assumée comme naturelle. Sa contestation est vécue comme une transgression. Quand elle commence, elle peut être totale et brutale — parce qu'elle rompt un tabou."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Doute silencieux", "description": "Le groupe doute mais obéit. La contestation est intérieure et non exprimée. On exécute sans enthousiasme." },
+      { "niveau": 2, "label": "Résistance passive", "description": "Obéissance de façade, sabotage doux, manque d'enthousiasme visible. Les signaux s'accumulent mais personne ne parle." },
+      { "niveau": 3, "label": "Opposition exprimée", "description": "Le désaccord est dit — en réunion, en aparté, ou via un porte-parole. L'autorité ne peut plus ignorer la contestation." },
+      { "niveau": 4, "label": "Coalition formée", "description": "Un groupe structuré s'oppose à l'autorité. Les alliances sont publiques. Le conflit est visible de tous." },
+      { "niveau": 5, "label": "Renversement", "description": "L'autorité est déstituée, contournée ou réduite à l'impuissance. Le pouvoir a changé de mains — formellement ou non." }
+    ],
+    "escaladeTypique": [
+      "décision ou comportement qui cristallise le doute latent",
+      "grogne silencieuse et désengagement progressif",
+      "opposition exprimée par un porte-parole",
+      "coalition et confrontation ouverte",
+      "maintien de l'autorité par la force ou renversement"
+    ],
+    "voiesDeResolution": [
+      "reconnaissance publique des limites et ajustement du style de leadership",
+      "délégation réelle aux compétences disponibles dans le groupe",
+      "dialogue ouvert sur les griefs avec engagement de changer",
+      "démission ou transmission volontaire du pouvoir",
+      "médiation par une autorité supérieure ou extérieure"
+    ],
+    "blessuresUnderlyantes": [
+      "autorité obtenue par le titre ou le réseau plutôt que par le mérite",
+      "insécurité du leader qui l'empêche d'écouter les critiques",
+      "groupe avec forte culture d'autonomie mal gérée",
+      "histoire de leadership défaillant dans ce contexte précis",
+      "leader promu au-delà de ses compétences réelles"
+    ],
+    "contextesFavorables": [
+      "groupe compétent dirigé par quelqu'un de moins compétent",
+      "crise qui expose les limites du leader sous pression",
+      "culture d'organisation qui valorise la méritocratie et l'initiative",
+      "contexte institutionnel rigide qui protège l'incompétence en place",
+      "moment de transition ou de changement qui révèle les inadaptations"
+    ],
+    "personnagesSouventConcernes": [
+      "leader promu pour de mauvaises raisons — ancienneté, relations, par défaut",
+      "subordonné plus compétent qui doit choisir entre la loyauté et l'efficacité",
+      "groupe homogène face à un chef extérieur qui ne comprend pas sa culture",
+      "figure d'autorité dont la légitimité repose sur un consensus devenu fragile",
+      "loyaliste qui défend le chef par intérêt et se retrouve pris en étau"
+    ],
+    "erreursDEcriture": [
+      "Donner entièrement tort à l'autorité — le leader peut avoir des raisons que les subordonnés ne voient pas.",
+      "Résoudre par un simple renversement — la question de qui prend le pouvoir ensuite est tout aussi riche.",
+      "Oublier les loyaux — ceux qui soutiennent l'autorité ont leurs raisons et créent un conflit de groupe.",
+      "Confondre contestation et simple mécontentement — la contestation touche à la légitimité, pas seulement aux décisions.",
+      "Rendre le processus linéaire — dans la réalité, la contestation avance et recule selon les événements."
+    ],
+    "notesEditoriales": [
+      "Ce conflit est particulièrement fort quand le contestataire a raison sur le fond mais tort sur la forme.",
+      "Sa force narrative est dans le groupe — dans la façon dont les individus naviguent entre loyauté et lucidité.",
+      "Distinguer l'autorité contestée de l'autorité abusée — les deux créent des dynamiques très différentes.",
+      "Le moment narratif le plus puissant : quand l'autorité réalise qu'elle a perdu le groupe avant même de le voir."
+    ],
+    "dynamiqueAssociee": { "id": "autorite-remise-en-question", "label": "Autorité remise en question" }
+  },
+  {
+    "id": "abus-de-pouvoir",
+    "label": "Abus de pouvoir",
+    "alias": ["abus de pouvoir", "tyrannie", "arbitraire", "chef tyrannique", "supérieur abusif", "autorité abusive", "manager toxique", "harcèlement hiérarchique", "autoritarisme", "domination abusive"],
+    "famille": "conflits-pouvoir",
+    "definitionCourte": "Utilisation d'une position d'autorité pour des fins personnelles, injustes ou disproportionnées, au détriment de ceux qui dépendent de ce pouvoir.",
+    "natureDuConflit": "Conflit d'asymétrie — celui qui a le pouvoir l'utilise contre ceux qui ne peuvent pas s'y opposer facilement.",
+    "forcesEnPresence": [
+      "pouvoir institutionnel ou structurel de l'abuseur — légal, social, économique",
+      "dépendance de la victime — emploi, statut, survie, affection",
+      "isolement de la victime dans la structure",
+      "complicité passive ou active de l'entourage",
+      "impunité perçue ou réelle de l'abuseur",
+      "culture institutionnelle qui normalise ou protège",
+      "écart de ressources entre abuseur et victime"
+    ],
+    "declencheursFrequents": [
+      "fragilité ou vulnérabilité visible de la cible",
+      "absence de recours ou de témoin fiable",
+      "culture institutionnelle qui tolère ou encourage l'arbitraire",
+      "contexte de crise qui justifie des mesures exceptionnelles",
+      "besoin de l'abuseur de consolider ou de démontrer sa position",
+      "cible qui a contesté ou qui pourrait contester",
+      "précédent non sanctionné qui ouvre la voie à l'escalade",
+      "entourage qui regarde sans intervenir"
+    ],
+    "signauxAvantCoureurs": [
+      "décisions arbitraires qui ne sont pas questionnées",
+      "cibles choisies parmi les plus vulnérables ou les moins défendus",
+      "loyauté exigée plutôt que méritée",
+      "punitions disproportionnées pour des fautes mineures",
+      "information retenue pour maintenir la dépendance",
+      "règles appliquées de manière sélective selon les individus",
+      "entourage qui apprend à se taire ou à approuver par réflexe",
+      "tension permanente sans raison apparente dans le groupe"
+    ],
+    "silencesEtNonDits": [
+      "la victime ne parle pas par peur des représailles",
+      "les témoins ne disent rien par peur d'être les prochains",
+      "'tout le monde sait' mais personne ne dit — le silence collectif protège l'abuseur",
+      "l'abuseur ne nomme jamais l'abus — il le normalise ou le déguise en exigence",
+      "la victime doute d'elle-même — 'peut-être que c'est moi qui exagère'",
+      "les loyaux de l'abuseur savent mais choisissent leur intérêt"
+    ],
+    "penseesTypiques": [
+      "Si je dis quelque chose, je perds mon poste.",
+      "Personne ne me croira — il est trop bien protégé.",
+      "Peut-être que c'est moi qui exagère.",
+      "Comment peut-il faire ça aussi ouvertement ?",
+      "Les autres voient. Pourquoi personne ne fait rien ?",
+      "Je documente tout — un jour ça servira.",
+      "Si je pars, il gagne. Mais si je reste, je me perds.",
+      "Je n'ai pas le choix. Pas maintenant.",
+      "Il sait exactement ce qu'il fait. Et il sait que je ne peux pas riposter."
+    ],
+    "comportementsTypiques": [
+      "soumission visible pour éviter d'être ciblé",
+      "résistance silencieuse et prudente, sans prise de risque",
+      "documentation discrète des abus — dates, faits, témoins",
+      "recherche d'un allié ou d'un recours en dehors du système",
+      "évitement de toute situation qui expose face à l'abuseur",
+      "hypervigilance permanente sur les humeurs du supérieur",
+      "repli progressif sur soi, fatigue morale visible",
+      "explosion ou départ après accumulation trop longue"
+    ],
+    "positionsDePouvoir": [
+      "déséquilibre total en faveur de l'abuseur dans le système",
+      "la victime peut reprendre du pouvoir par la preuve, le collectif ou le recours externe",
+      "l'exposition publique est souvent le seul levier réel pour la victime",
+      "les témoins silencieux détiennent un pouvoir latent — leur parole est une ressource non mobilisée"
+    ],
+    "variantes": [
+      {
+        "relation": "Hiérarchie professionnelle",
+        "description": "L'abus s'exerce via les évaluations, les affectations, les exclusions. Il est difficile à prouver. La victime craint de perdre son emploi. Le système protège souvent l'abuseur par inertie et par peur du scandale."
+      },
+      {
+        "relation": "Institution — école, prison, armée, hôpital",
+        "description": "L'abus s'appuie sur la structure totale. La victime est entièrement dépendante. Les recours internes sont inexistants ou contrôlés par l'abuseur. La dénonciation est vécue comme une trahison de l'institution."
+      },
+      {
+        "relation": "Communauté ou groupe fermé",
+        "description": "L'abus est protégé par la loyauté du groupe. Dénoncer revient à trahir. La victime perd deux fois — l'abuseur et la communauté. L'isolement est total."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Autoritarisme", "description": "Décisions unilatérales, peu d'espace pour le désaccord. Inconfortable mais pas encore destructeur." },
+      { "niveau": 2, "label": "Traitement inégal", "description": "Favoritisme, sanctions disproportionnées pour certains. Le groupe le voit mais ne réagit pas encore." },
+      { "niveau": 3, "label": "Abus caractérisé", "description": "Comportement délibérément blessant ou injuste envers une cible identifiée. L'abus est systématique." },
+      { "niveau": 4, "label": "Harcèlement", "description": "Abus répété et ciblé. La victime est épuisée, isolée, en doute sur elle-même." },
+      { "niveau": 5, "label": "Destruction", "description": "L'abus est total et les conséquences sont graves. La victime n'a plus de recours visible à l'intérieur du système." }
+    ],
+    "escaladeTypique": [
+      "établissement du pouvoir et test des réactions du groupe",
+      "ciblage des plus vulnérables pour fixer les limites",
+      "abus installé et progressivement normalisé",
+      "isolement de la victime principale",
+      "explosion, dénonciation collective ou effondrement de la victime"
+    ],
+    "voiesDeResolution": [
+      "dénonciation collective qui rend le silence impossible à maintenir",
+      "preuve documentée qui contourne le déni institutionnel",
+      "recours externe — inspection, syndicat, justice, presse",
+      "départ de la victime qui reprend son autonomie et sa parole",
+      "changement d'abuseur de poste qui brise le schéma"
+    ],
+    "blessuresUnderlyantes": [
+      "besoin de contrôle lié à une insécurité profonde",
+      "culture d'impunité apprise dans des contextes précédents sans sanction",
+      "pouvoir obtenu trop vite sans garde-fous ni formation",
+      "peur de l'abuseur d'être exposé ou dépassé par quelqu'un sous ses ordres",
+      "image de soi fondée sur la domination plutôt que sur la compétence"
+    ],
+    "contextesFavorables": [
+      "institution avec peu de contrôle externe ou de transparence",
+      "victime sans réseau, sans témoin, sans soutien",
+      "culture qui valorise l'obéissance inconditionnelle comme vertu",
+      "contexte de crise qui justifie les mesures exceptionnelles",
+      "entourage qui préfère ignorer pour préserver sa propre position"
+    ],
+    "personnagesSouventConcernes": [
+      "victime en situation de forte dépendance qui n'a pas d'alternative visible",
+      "témoin qui doit choisir entre parler et se protéger",
+      "abuseur dont l'insécurité se traduit en contrôle et en punition",
+      "institution qui doit décider si elle protège sa réputation ou la victime",
+      "allié potentiel qui hésite et laisse passer le moment d'agir"
+    ],
+    "erreursDEcriture": [
+      "Rendre l'abuseur entièrement conscient et calculateur — beaucoup d'abus viennent d'une insécurité ou d'une habitude, pas d'un plan.",
+      "Résoudre par une dénonciation héroïque unique — la réalité est souvent plus lente, plus collective et moins nette.",
+      "Oublier les témoins silencieux — leur complicité passive est souvent aussi lourde que l'abus lui-même.",
+      "Confondre autorité sévère et abus — la sévérité a des règles, l'abus en est précisément l'absence.",
+      "Faire de la victime un personnage passif — la résistance silencieuse existe presque toujours, même minime."
+    ],
+    "notesEditoriales": [
+      "L'abus de pouvoir est narrativement fort quand il inclut les témoins — ce qu'ils font ou ne font pas est le vrai conflit moral.",
+      "Sa force est dans l'impossibilité apparente de la résistance — et dans les petits actes de résistance qui existent quand même.",
+      "Distinguer l'abus institutionnel de l'abus individuel — le premier est plus difficile à nommer et à combattre.",
+      "Le moment narratif le plus fort : quand la victime réalise que le système ne la protégera pas."
+    ]
+  },
+  {
+    "id": "rebellion",
+    "label": "Rébellion",
+    "alias": ["rébellion", "rebellion", "révolte", "revolte", "désobéissance", "desobeissance", "résistance", "insoumission", "refus d'obéir", "refus de se soumettre"],
+    "famille": "conflits-pouvoir",
+    "definitionCourte": "Refus actif et assumé d'une autorité ou d'un ordre, motivé par un désaccord de fond sur la légitimité ou la justice de ce qui est imposé.",
+    "natureDuConflit": "Conflit entre l'ordre et la conscience — le personnage choisit ses valeurs contre une autorité qu'il ne reconnaît plus.",
+    "forcesEnPresence": [
+      "conviction du rebelle que l'ordre est injuste ou illégitime",
+      "pouvoir de sanction de l'autorité — punition, exclusion, persécution",
+      "peur des conséquences pour le rebelle et ses proches",
+      "soutien ou isolement du rebelle dans son groupe",
+      "légitimité morale du refus vs légitimité institutionnelle de l'ordre",
+      "moment choisi — le rebelle décide quand il ne peut plus faire autrement",
+      "poids du précédent — ce que son acte autorise ou interdit aux autres"
+    ],
+    "declencheursFrequents": [
+      "ordre perçu comme injuste ou contraire à des valeurs fondamentales",
+      "accumulation d'injustices qui atteignent un seuil insupportable",
+      "acte qui pousse à choisir entre obéir et se trahir",
+      "figure d'autorité qui franchit une limite morale sans retour",
+      "moment où le coût de l'obéissance devient plus élevé que celui du refus",
+      "témoin d'une injustice subie par un autre qui déclenche l'acte",
+      "sentiment que le silence est désormais une complicité",
+      "perte du dernier élément qui faisait tenir dans l'obéissance"
+    ],
+    "signauxAvantCoureurs": [
+      "résistance passive qui précède progressivement la rébellion ouverte",
+      "questionnement des règles de plus en plus fréquent",
+      "alliances discrètes avec d'autres mécontents",
+      "décalage croissant entre les valeurs affichées et les actes requis",
+      "moment de silence ou d'hésitation visible avant d'obéir",
+      "expressions de doute ou de dégoût que le personnage ne retient plus",
+      "regard qui ne cède plus quand l'autorité parle",
+      "préparation discrète — ressources, alliés, plan de repli"
+    ],
+    "silencesEtNonDits": [
+      "la vraie raison de la rébellion est rarement dite en entier",
+      "'je ne peux plus' précède souvent 'je refuse' sans jamais être dit à voix haute",
+      "la peur est réelle mais jamais avouée au grand jour",
+      "l'autorité ne demande jamais pourquoi vraiment — elle ne veut pas savoir",
+      "l'ambivalence du rebelle entre la conviction et le doute ne se dit pas",
+      "ce qu'il sacrifie en se rebellant — ce qu'il ne retrouvera peut-être jamais"
+    ],
+    "penseesTypiques": [
+      "Si j'obéis, je deviens complice.",
+      "Quelqu'un doit dire non — pourquoi pas moi ?",
+      "Je sais ce que ça va me coûter. Je le fais quand même.",
+      "Ils peuvent me punir. Ils ne peuvent pas me forcer à trouver ça juste.",
+      "Peut-être que seul, ça ne changera rien. Mais je ne peux pas faire autrement.",
+      "Si personne ne dit rien, ça continuera indéfiniment.",
+      "Je ne me reconnais plus dans ce que je fais. Il faut que ça s'arrête.",
+      "Même si j'échoue, je refuse que ce soit sans avoir essayé.",
+      "Le prix de la conformité est devenu plus cher que le prix du refus."
+    ],
+    "comportementsTypiques": [
+      "refus direct — calmement ou avec éclat selon le caractère",
+      "recherche d'alliés pour ne pas porter l'acte seul",
+      "préparation discrète avant l'acte public",
+      "gestion des conséquences avec ou sans filet de sécurité",
+      "résistance maintenue malgré les pressions et les menaces",
+      "exposition volontaire de l'injustice pour la rendre visible",
+      "acceptation du coût personnel comme preuve de sincérité",
+      "continuation de la rébellion même après la première sanction"
+    ],
+    "positionsDePouvoir": [
+      "le rebelle est en position basse formellement mais détient un pouvoir moral",
+      "la rébellion lui donne un pouvoir symbolique qui dépasse sa position",
+      "si le groupe suit, le rapport de force peut s'inverser",
+      "l'autorité peut écraser la rébellion — mais le faire renforce son illégitimité"
+    ],
+    "variantes": [
+      {
+        "relation": "Rébellion individuelle",
+        "description": "Un seul personnage refuse. Il est seul contre le système. Sa résistance a une dimension morale forte mais un impact limité. Sa valeur narrative est dans le coût personnel qu'il accepte de payer."
+      },
+      {
+        "relation": "Rébellion collective",
+        "description": "Un groupe refuse ensemble. La dynamique est différente — alliances, trahisons possibles, leaders qui émergent. La solidarité est une ressource mais aussi une fragilité. Le groupe peut se fissurer sous la pression."
+      },
+      {
+        "relation": "Rébellion contre une figure proche",
+        "description": "La rébellion est intime — contre un parent, un mentor, une figure aimée et admirée. Le coût affectif est élevé. Le personnage doit choisir entre l'amour et l'intégrité. La trahison est réciproque."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Résistance passive", "description": "Obéissance au minimum, sans enthousiasme. La contestation est intérieure, sans acte visible." },
+      { "niveau": 2, "label": "Questionnement ouvert", "description": "Le désaccord est exprimé, les questions posées sans ménagement. Le personnage teste les limites de l'autorité." },
+      { "niveau": 3, "label": "Refus ponctuel", "description": "Un acte ou une décision refusée. La rébellion est ciblée, pas encore générale. Le personnage conserve une marge de retrait." },
+      { "niveau": 4, "label": "Rébellion déclarée", "description": "Le refus est assumé et public. Les conséquences commencent. Il n'y a plus de retour en arrière simple." },
+      { "niveau": 5, "label": "Rupture totale", "description": "Le personnage rompt entièrement avec l'autorité. La confrontation est irréversible. Tout est en jeu." }
+    ],
+    "escaladeTypique": [
+      "obéissance avec réserve et malaise croissant",
+      "résistance passive — minimum requis, distanciation",
+      "questionnement ouvert — les limites sont testées",
+      "refus assumé et confrontation directe",
+      "rupture totale et gestion des conséquences"
+    ],
+    "voiesDeResolution": [
+      "reconnaissance par l'autorité de la légitimité du refus",
+      "changement obtenu par la résistance — partielle ou totale",
+      "compromis qui préserve l'essentiel des valeurs du rebelle",
+      "départ volontaire qui préserve l'intégrité au prix de la position",
+      "échec accepté qui transforme quand même quelque chose"
+    ],
+    "blessuresUnderlyantes": [
+      "injustice subie sans pouvoir réagir dans le passé",
+      "valeurs forgées dans un contexte d'oppression ou de privation",
+      "figure d'autorité passée qui a trahi la confiance de manière fondamentale",
+      "besoin d'exister autrement qu'en obéissant — identité construite contre",
+      "culpabilité d'avoir obéi trop longtemps sans protester"
+    ],
+    "contextesFavorables": [
+      "autorité perçue comme illégitime ou ouvertement injuste",
+      "personnage avec fort sens moral et faible tolérance à la compromission",
+      "contexte où les conséquences sont réelles et graves — pas d'acte gratuit",
+      "groupe en tension avec son autorité qui attend un premier geste",
+      "moment de crise qui révèle ce que l'obéissance couvre habituellement"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage avec fort sens de la justice qui ne peut plus ignorer",
+      "personnage qui a subi une injustice comparable dans son passé",
+      "personnage à qui il ne reste plus rien à perdre — ou presque",
+      "personnage qui choisit son intégrité contre sa sécurité",
+      "personnage qui se rebelle pour d'autres plutôt que pour lui-même"
+    ],
+    "erreursDEcriture": [
+      "Rendre la rébellion entièrement héroïque — le rebelle peut aussi faire des dégâts, être arrogant ou avoir tort sur certains points.",
+      "Oublier le coût — une rébellion sans conséquences n'a pas de poids narratif.",
+      "Confondre rébellion et caprice — la rébellion porte une conviction de fond, pas seulement un refus de l'inconfort.",
+      "Résoudre trop vite par la victoire — beaucoup de rébellions échouent, et l'échec peut être tout aussi formateur.",
+      "Faire du rebelle un personnage seul — même la rébellion individuelle a des implications collectives."
+    ],
+    "notesEditoriales": [
+      "La rébellion est l'un des actes narratifs les plus puissants parce qu'elle révèle ce que le personnage est vraiment quand il ne peut plus faire autrement.",
+      "Sa force est dans le moment du choix — pas dans l'acte lui-même.",
+      "Distinguer la rébellion comme réponse à une injustice de la rébellion comme besoin d'exister — les deux sont valides mais très différentes.",
+      "Le moment le plus fort : quand le personnage réalise qu'il a attendu trop longtemps, ou qu'il a agi trop tôt."
+    ]
+  },
+  {
+    "id": "complot",
+    "label": "Complot",
+    "alias": ["complot", "conspiration", "trahison politique", "manœuvre", "manigance", "intrigue", "coup monté", "machination", "cabale", "coup d'état silencieux"],
+    "famille": "conflits-pouvoir",
+    "definitionCourte": "Action secrète et coordonnée d'un groupe contre une autorité ou une personne, visant à renverser, affaiblir ou éliminer quelqu'un pour prendre ou conserver le pouvoir.",
+    "natureDuConflit": "Conflit de pouvoir caché — la guerre se fait dans les coulisses, avec des alliances fragiles et des traîtres potentiels à chaque étape.",
+    "forcesEnPresence": [
+      "ambition ou conviction des comploteurs",
+      "vulnérabilité ou force actuelle de la cible",
+      "secret comme condition de survie du plan",
+      "loyautés fragiles au sein du groupe de comploteurs",
+      "risque permanent d'être découvert",
+      "ressources dont disposent les comploteurs — informations, accès, alliances",
+      "légitimité ou illégitimité de la cible aux yeux du groupe"
+    ],
+    "declencheursFrequents": [
+      "opportunité liée à une faiblesse temporaire de la cible",
+      "injustice ou menace qui pousse à une action collective secrète",
+      "ambition d'un meneur qui recrute des alliés par intérêt ou conviction",
+      "moment de crise qui ouvre une fenêtre d'action imprévue",
+      "promesse de gain, de pouvoir ou de sécurité pour les participants",
+      "révélation d'une vulnérabilité exploitable de la cible",
+      "peur de ce que la cible pourrait faire si elle n'est pas neutralisée",
+      "précédent complot qui a réussi ailleurs ou dans le passé"
+    ],
+    "signauxAvantCoureurs": [
+      "réunions discrètes entre membres qui n'ont pas l'habitude de se voir",
+      "changement de comportement inexpliqué chez des participants",
+      "loyauté affichée envers la cible qui sonne faux ou trop appuyée",
+      "informations qui circulent trop vite ou trop bien entre certains",
+      "petits actes préparatoires qui semblent anodins pris séparément",
+      "évitement de certaines conversations en présence de la cible",
+      "alliances nouvelles qui n'ont pas de raison apparente",
+      "détails pratiques réglés en avance sans justification visible"
+    ],
+    "silencesEtNonDits": [
+      "le plan n'est jamais dit entièrement à chaque participant — compartimentage",
+      "les vraies motivations de chaque comploteur restent privées",
+      "la cible ne sait pas ce qui se prépare",
+      "les doutes au sein du groupe ne se disent pas — trop dangereux",
+      "certains comploteurs sont déjà en train de préparer l'après-complot sans le dire",
+      "la question 'est-ce que c'est vraiment juste ?' reste muette"
+    ],
+    "penseesTypiques": [
+      "Si l'un de nous parle, on est tous perdus.",
+      "Est-ce que je peux vraiment lui faire confiance jusqu'au bout ?",
+      "La cible ne s'y attend pas. C'est ça qui nous donne l'avantage.",
+      "Je fais ça pour de bonnes raisons — ou je me raconte ça.",
+      "Après, il faudra aussi se méfier les uns des autres.",
+      "Chaque jour que je la croise normalement me coûte quelque chose.",
+      "Si on rate, tout s'effondre. Si on réussit, rien ne sera pareil.",
+      "Je ne sais pas exactement ce que les autres préparent. C'est peut-être voulu.",
+      "Il y a un moment où on ne peut plus reculer. On l'a peut-être déjà passé."
+    ],
+    "comportementsTypiques": [
+      "double jeu maintenu dans chaque interaction avec la cible",
+      "communication codée, indirecte ou secrète entre comploteurs",
+      "surveillance des réactions de la cible pour ajuster le plan",
+      "élimination discrète des obstacles ou des personnes qui posent problème",
+      "préparation de l'après-complot sans le partager avec les autres",
+      "présence accrue aux côtés de la cible pour surveiller et rassurer",
+      "gestion des émotions — ne rien laisser paraître lors des interactions normales",
+      "test discret de la fiabilité de chaque allié avant les étapes clés"
+    ],
+    "positionsDePouvoir": [
+      "la cible a le pouvoir formel — les comploteurs ont le pouvoir informel de l'action",
+      "le pouvoir au sein du complot est aussi instable que les alliances qui le fondent",
+      "après la réussite, un nouveau rapport de force s'établit entre comploteurs",
+      "la cible peut reprendre l'avantage si elle apprend le complot avant l'exécution"
+    ],
+    "variantes": [
+      {
+        "relation": "Complot politique ou institutionnel",
+        "description": "Plusieurs acteurs coordonnent une action contre une autorité. Les motivations sont mêlées — conviction, ambition, vengeance, peur. Le risque est total et les alliances fragiles. La réussite dépend du maillon le plus faible."
+      },
+      {
+        "relation": "Complot intime — contre un proche",
+        "description": "Des proches se coordonnent en secret contre quelqu'un de leur entourage. La trahison est d'autant plus dévastatrice qu'elle vient de l'intérieur. La cible ne l'imagine pas parce qu'elle fait confiance à ces gens."
+      },
+      {
+        "relation": "Complot découvert avant l'exécution",
+        "description": "La cible apprend le plan. Elle doit décider comment réagir sans révéler qu'elle sait. La dynamique s'inverse — elle joue désormais aussi un double jeu. Qui trahira en premier ?"
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Manœuvre discrète", "description": "Action coordonnée limitée, à faible enjeu. Pas encore de complot structuré — des intérêts communs qui se cherchent." },
+      { "niveau": 2, "label": "Alliance secrète formée", "description": "Groupe constitué avec un objectif partagé. Le plan commence à prendre forme et les rôles se distribuent." },
+      { "niveau": 3, "label": "Complot actif", "description": "Le plan est en cours. Chaque participant joue son rôle. Le risque d'exposition est réel et pesant." },
+      { "niveau": 4, "label": "Point de non-retour", "description": "L'action décisive approche. Les nerfs lâchent. Les trahisons internes deviennent possibles et tentantes." },
+      { "niveau": 5, "label": "Exécution ou effondrement", "description": "Le complot aboutit ou s'effondre sous la pression. Dans les deux cas, les alliances se défont et les conséquences sont totales." }
+    ],
+    "escaladeTypique": [
+      "opportunité ou injustice qui réunit les mécontents",
+      "alliance secrète formée avec objectif commun",
+      "plan élaboré, rôles distribués, ressources rassemblées",
+      "double jeu maintenu sous pression croissante",
+      "réussite avec redistribution du pouvoir — ou découverte et punition"
+    ],
+    "voiesDeResolution": [
+      "exécution réussie du plan et prise du pouvoir",
+      "découverte et confrontation directe par la cible",
+      "trahison interne qui fait échouer le complot",
+      "retournement de situation où la cible prend le contrôle",
+      "abandon du complot par les participants face aux risques ou aux remords"
+    ],
+    "blessuresUnderlyantes": [
+      "ambition non satisfaite par des voies normales",
+      "injustice perçue ou réelle qui justifie l'action",
+      "peur de perdre ce qu'on a si on n'agit pas maintenant",
+      "conviction que les règles normales ne permettent pas de gagner contre cette cible",
+      "loyauté à un projet ou une valeur plus grande que la personne visée"
+    ],
+    "contextesFavorables": [
+      "structure de pouvoir avec des failles exploitables",
+      "cible affaiblie, isolée ou distraite",
+      "groupe de mécontents avec des ressources et une raison de s'allier",
+      "moment de crise qui ouvre une fenêtre d'action",
+      "entourage de la cible qui peut être retourné ou est déjà douteux"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage avec ambition et pragmatisme qui préfère l'action à l'attente",
+      "personnage qui a subi une injustice et cherche une réparation par l'action",
+      "personnage qui préfère agir dans l'ombre — l'exposition lui coûte",
+      "cible dont la confiance est la vulnérabilité principale",
+      "personnage pris entre sa loyauté envers la cible et sa conviction que le complot est juste"
+    ],
+    "erreursDEcriture": [
+      "Rendre le complot trop propre — les vrais complots sont désordonnés, les alliances fragiles, les motivations mêlées.",
+      "Oublier les tensions internes — les comploteurs ne se font pas entièrement confiance et c'est là que réside le drame.",
+      "Donner entièrement tort à la cible — le complot est plus intéressant quand la cible a aussi ses raisons.",
+      "Révéler le complot au lecteur trop tôt ou trop tard — le dosage de l'information est le cœur de la tension narrative.",
+      "Oublier l'après-complot — ce que les comploteurs font du pouvoir une fois obtenu est souvent plus révélateur que le complot lui-même."
+    ],
+    "notesEditoriales": [
+      "Le complot est narrativement fort parce qu'il multiplie les niveaux de lecture — ce qui est dit, ce qui est tu, ce qui est faussement dit.",
+      "Sa vraie tension est dans les alliances internes au complot — qui tiendra jusqu'au bout ?",
+      "Distinguer le complot motivé par la conviction de celui motivé par l'ambition — les deux créent des personnages très différents.",
+      "La cible apprenante est l'un des retournements les plus puissants — quand elle sait et joue le jeu en sachant."
+    ]
+  },
+  {
+    "id": "favoritisme",
+    "label": "Favoritisme",
+    "alias": ["favoritisme", "passe-droit", "chouchou", "injustice hiérarchique", "traitement inégal", "piston", "deux poids deux mesures", "clientélisme", "préférence illégitime", "jeu des protégés"],
+    "famille": "conflits-pouvoir",
+    "definitionCourte": "Traitement privilégié accordé à certains par une figure d'autorité pour des raisons personnelles plutôt que méritocratiques, au détriment de ceux qui sont exclus de cette faveur.",
+    "natureDuConflit": "Conflit d'équité — l'injustice perçue empoisonne le groupe et dégrade la légitimité de l'autorité.",
+    "forcesEnPresence": [
+      "lien personnel entre l'autorité et le favorisé — affectif, stratégique, historique",
+      "sentiment d'injustice des exclus qui s'accumule sans s'exprimer",
+      "règles implicites qui contredisent les règles affichées",
+      "complicité silencieuse du groupe qui ne veut pas de problème",
+      "pouvoir du favorisé lié à sa position privilégiée",
+      "légitimité de l'autorité qui s'érode à chaque nouveau passe-droit",
+      "rancœur des meilleurs éléments qui commencent à se demander pourquoi ils restent"
+    ],
+    "declencheursFrequents": [
+      "promotion ou récompense non méritée visible de tous",
+      "sanction qui s'applique à certains mais pas au favorisé",
+      "ressource ou opportunité attribuée selon des critères opaques",
+      "erreur excusée pour l'un, punie pour l'autre",
+      "accès privilégié du favorisé à l'information ou aux décisions clés",
+      "comparaison directe qui révèle l'écart sans justification",
+      "crise qui expose le favoritisme parce que le favorisé y échappe",
+      "départ d'un élément compétent qui pousse les autres à réfléchir"
+    ],
+    "signauxAvantCoureurs": [
+      "traitement différencié qui se répète sur des détails d'abord infimes",
+      "réunions ou conversations auxquelles certains ne sont jamais invités",
+      "évaluation dont les critères semblent changer selon les personnes",
+      "remarques ironiques du groupe sur 'les favoris'",
+      "mécontentement qui monte sans être exprimé directement à l'autorité",
+      "favorisé qui reçoit des informations en avance sans raison formelle",
+      "regard en coin lors des annonces de promotion ou de récompense",
+      "silence lourd quand le favorisé commet une erreur sans conséquence"
+    ],
+    "silencesEtNonDits": [
+      "personne ne dit ouvertement 'c'est injuste' — trop risqué",
+      "l'autorité ne reconnaît jamais le favoritisme — sincèrement ou non",
+      "le favorisé minimise ou nie sa position avantageuse",
+      "la rancœur s'accumule sans trouver d'espace d'expression sûr",
+      "les meilleurs se demandent pourquoi ils restent mais ne le disent pas encore",
+      "la question 'est-ce que ça vaut vraiment la peine ?' reste muette trop longtemps"
+    ],
+    "penseesTypiques": [
+      "Quoi que je fasse, ce n'est jamais assez. Lui, il n'a qu'à être là.",
+      "Tout le monde le voit. Personne ne dit rien.",
+      "Si je proteste, je serai encore moins bien traité.",
+      "Je travaille deux fois plus pour la moitié de la reconnaissance.",
+      "Le système est truqué. Pourquoi est-ce que j'essaie encore ?",
+      "Le favorisé le sait. Et il en profite. Ou alors il se dit qu'il le mérite.",
+      "Je ne partirai pas. Mais je n'y mettrai plus autant de moi.",
+      "Un jour il y aura une chose de trop et je dirai ce que je pense.",
+      "Les règles affichées ne sont pas les vraies règles. Les vraies règles, c'est : connaître les bonnes personnes."
+    ],
+    "comportementsTypiques": [
+      "désengagement progressif de ceux qui se sentent exclus",
+      "ressentiment qui s'exprime latéralement — contre les collègues, pas contre l'autorité",
+      "alliance des défavorisés en opposition silencieuse et distante",
+      "surperformance désespérée pour forcer la reconnaissance malgré tout",
+      "départ ou démission des meilleurs éléments qui ne voient plus d'avenir",
+      "politesse froide et professionnelle qui masque la rancœur",
+      "refus discret de s'investir dans des projets non reconnus",
+      "observation minutieuse du favorisé pour comprendre les règles implicites"
+    ],
+    "positionsDePouvoir": [
+      "l'autorité détient le pouvoir de distribuer les faveurs et peut l'exercer impunément",
+      "le favorisé détient un accès, une protection et une information informels",
+      "les défavorisés peuvent reprendre du pouvoir collectivement, par le départ ou par la dénonciation",
+      "le pouvoir de l'autorité dépend de la tolérance continue du groupe"
+    ],
+    "variantes": [
+      {
+        "relation": "Milieu professionnel",
+        "description": "Le favoritisme s'exerce sur les promotions, les projets ou les évaluations. Il est difficile à prouver formellement. Il dégrade le groupe et fait partir les meilleurs vers des environnements plus méritocratiques."
+      },
+      {
+        "relation": "Famille",
+        "description": "L'enfant favorisé détient une place symbolique forte qui structure les identités de tous. Les autres construisent leur identité en opposition, souvent pour toute la vie. Le favoritisme familial est souvent non dit mais universellement perçu."
+      },
+      {
+        "relation": "Institution — école, sport, administration",
+        "description": "Le favoritisme s'appuie sur des liens personnels ou communautaires. Il contredit ouvertement les valeurs affichées de l'institution. Sa dénonciation est risquée et souvent perçue comme une trahison."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Préférence perceptible", "description": "Légère asymétrie dans le traitement. Le groupe le remarque mais n'en fait pas encore un enjeu ouvert." },
+      { "niveau": 2, "label": "Traitement inégal régulier", "description": "Le favoritisme est systématique sur certains aspects. La rancœur commence à s'installer et s'exprime en privé." },
+      { "niveau": 3, "label": "Injustice établie", "description": "Le favoritisme structure les opportunités et les sanctions. Il est vu de tous et comenté en coulisses." },
+      { "niveau": 4, "label": "Favoritisme toxique", "description": "Le groupe est divisé entre favorisés et exclus. Les meilleurs se désengagent, cherchent à partir ou s'opposent." },
+      { "niveau": 5, "label": "Système corrompu", "description": "Le mérite n'a plus aucun rapport avec les récompenses. Le groupe est épuisé, cynique ou en rébellion ouverte." }
+    ],
+    "escaladeTypique": [
+      "lien personnel entre autorité et favorisé qui s'installe naturellement",
+      "traitement différencié qui se répète et devient visible",
+      "rancœur silencieuse du groupe qui s'accumule",
+      "confrontation ou départ des meilleurs éléments",
+      "effondrement de la légitimité de l'autorité ou départ de l'autorité elle-même"
+    ],
+    "voiesDeResolution": [
+      "confrontation directe avec l'autorité par un porte-parole du groupe",
+      "recours à une instance supérieure ou extérieure",
+      "départ qui prive l'autorité de sa ressource principale",
+      "changement de l'autorité qui remet les règles à plat",
+      "prise de conscience sincère de l'autorité et réajustement public"
+    ],
+    "blessuresUnderlyantes": [
+      "besoin de l'autorité d'être entouré de loyaux plutôt que de compétents",
+      "insécurité qui pousse à construire un cercle de confiance étroit",
+      "culture d'origine ou de formation où le favoritisme est la norme tacite",
+      "peur de l'incompétence propre compensée par des alliances personnelles",
+      "incapacité à évaluer objectivement — les liens affectifs brouillent le jugement"
+    ],
+    "contextesFavorables": [
+      "structure avec peu de contrôle, de transparence ou de procédures formelles",
+      "autorité dont la légitimité repose sur des liens personnels plutôt que sur le mérite",
+      "groupe où les règles implicites priment sur les règles formelles",
+      "contexte de rareté des ressources ou des opportunités",
+      "institution qui protège ses membres plutôt que ses valeurs affichées"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage compétent mais non favorisé qui doit choisir entre rester et partir",
+      "favorisé qui doit gérer sa position sans perdre ses vrais alliés",
+      "autorité dont le favoritisme révèle l'insécurité plutôt que la malveillance",
+      "groupe qui doit décider s'il se soulève, s'accommode ou se disperse",
+      "personnage qui découvre que les règles qu'il a respectées ne s'appliquent pas à tous"
+    ],
+    "erreursDEcriture": [
+      "Rendre le favoritisme purement corrupteur — le favorisé peut lui-même être mal à l'aise dans sa position.",
+      "Oublier que l'autorité peut croire sincèrement que ses choix sont mérités.",
+      "Résoudre par un simple dévoilement — le favoritisme est souvent su de tous sans que ça suffise à changer quoi que ce soit.",
+      "Confondre favoritisme et simple préférence — le favoritisme a des conséquences concrètes sur les opportunités et les sanctions.",
+      "Oublier les défavorisés parmi les proches de l'autorité — parfois les plus proches sont aussi les plus lésés."
+    ],
+    "notesEditoriales": [
+      "Le favoritisme est particulièrement utile pour montrer ce qu'une institution révèle de ses vraies valeurs — pas celles qu'elle affiche.",
+      "Sa force narrative est dans le personnage qui choisit entre s'accommoder, partir ou combattre.",
+      "Distinguer le favoritisme conscient et calculé du favoritisme aveugle — l'autorité ne se voit souvent pas faire.",
+      "Le personnage du favorisé est souvent le plus complexe : il bénéficie d'une injustice qu'il n'a pas forcément demandée."
+    ]
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "id": "culpabilite-survivant",
+    "label": "Culpabilité du survivant",
+    "famille": "emotions-complexes",
+    "definitionCourte": "Sentiment d'avoir eu tort de survivre, de s'en être sorti, d'avoir réussi — alors que d'autres n'ont pas pu. Émotion paradoxale qui punit le personnage pour quelque chose qui n'est pas une faute.",
+    "signesPhysiques": [
+      "regard qui se baisse quand on parle de ce qu'il a accompli",
+      "malaise visible à la réception d'un compliment",
+      "refus de célébrer",
+      "sourire qui s'éteint vite",
+      "épaules qui rentrent",
+      "pause avant de répondre à toute question sur sa réussite",
+      "tendance à dévier la conversation vers les autres"
+    ],
+    "sensationsInternes": [
+      "serrement intérieur à chaque succès",
+      "sentiment d'usurpation",
+      "impression que le bonheur est une trahison",
+      "difficulté à se permettre d'être bien",
+      "culpabilité diffuse sans déclencheur net",
+      "comparaison constante à ceux qui n'ont pas eu la même chance"
+    ],
+    "pensees": [
+      "Pourquoi moi et pas lui ?",
+      "Je n'aurais pas dû m'en sortir.",
+      "Je n'ai pas le droit d'être heureux de ça.",
+      "Ce que j'ai n'est pas mérité.",
+      "Si j'avais été là, peut-être que ça se serait passé différemment.",
+      "Je profite de quelque chose qui lui est dû.",
+      "Être content de ça me dégoûte."
+    ],
+    "effetsVoixLangage": [
+      "minimisation automatique de ses propres succès",
+      "redirection vers les autres dans la conversation",
+      "ton embarrassé face aux éloges",
+      "formuler ses victoires comme des accidents ou des erreurs de la vie"
+    ],
+    "comportements": [
+      "refuse les honneurs",
+      "s'impose des punitions symboliques",
+      "travaille plus dur que nécessaire comme réparation",
+      "cherche à aider ceux qui ont moins pour rééquilibrer",
+      "repart sur le passé quand tout va bien",
+      "crée des obstacles à son propre bonheur"
+    ],
+    "masquesPossibles": [
+      "modestie excessive",
+      "altruisme compulsif",
+      "banalisation de ses propres accomplissements",
+      "engagement intense dans les causes des autres"
+    ],
+    "evolutionsPossibles": [
+      "acceptation si le personnage fait la paix avec ce qui s'est passé",
+      "approfondissement vers l'auto-sabotage",
+      "colère vers soi si le sentiment s'intensifie",
+      "résolution par la rencontre de quelqu'un qui lui permet d'exister sans s'excuser"
+    ],
+    "contextesAggravants": [
+      "succès public visible",
+      "rencontre avec quelqu'un dont la situation contraste",
+      "anniversaire de l'événement déclencheur",
+      "félicitations sincères qu'il ne peut pas recevoir"
+    ],
+    "contextesAttenuants": [
+      "reconnaissance que l'issue n'était pas dans ses mains",
+      "permission de quelqu'un de concerné",
+      "thérapie ou travail intérieur sur l'événement source"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère gêne du survivant", "description": "Inconfort mineur. Le personnage se permet d'être content mais tempère." },
+      { "niveau": 2, "label": "Culpabilité présente", "description": "Chaque succès est teinté de malaise. Le personnage minimise systématiquement." },
+      { "niveau": 3, "label": "Culpabilité installée", "description": "Elle interfère avec sa capacité à se réjouir ou à recevoir." },
+      { "niveau": 4, "label": "Culpabilité active", "description": "Il s'impose des compensations. Il peut refuser de progresser." },
+      { "niveau": 5, "label": "Auto-sabotage", "description": "Il détruit activement ce qu'il a pour punir son existence heureuse." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Rescapé de catastrophe ou de guerre",
+        "description": "La culpabilité est ancrée dans un événement précis. Il revit le moment de la bifurcation — pourquoi lui, pourquoi pas l'autre."
+      },
+      {
+        "profil": "Enfant dans une fratrie difficile",
+        "description": "Il a réussi là où ses frères ou sœurs ont échoué. Le succès est vécu comme une trahison familiale."
+      },
+      {
+        "profil": "Premier de sa famille à réussir",
+        "description": "La réussite est réelle mais elle crée une distance avec ceux qu'il aime. Il peut saboter sa propre ascension pour ne pas trop s'éloigner."
+      }
+    ],
+    "notesEditoriales": [
+      "La culpabilité du survivant punit ce qui n'est pas une faute — c'est son paradoxe central.",
+      "Elle se distingue de la culpabilité ordinaire car elle porte sur l'existence même, pas sur un acte.",
+      "Un personnage qui refuse un prix ou une promotion sans explication visible peut cacher cette émotion."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "honte" },
+      { "type": "peut_masquer", "cible": "joie" },
+      { "type": "peut_evoluer_en", "cible": "auto-sabotage" },
+      { "type": "peut_evoluer_en", "cible": "acceptation" },
+      { "type": "peut_suivre", "cible": "choc-traumatique" }
+    ]
+  },
+  {
+    "id": "colere-froide",
+    "label": "Colère froide",
+    "famille": "emotions-complexes",
+    "definitionCourte": "Colère qui ne s'exprime pas dans l'explosion mais dans le contrôle total — voix basse, gestes précis, silence calculé. Plus redoutable que la rage parce qu'elle choisit.",
+    "signesPhysiques": [
+      "immobilité presque parfaite",
+      "regard fixe et net, sans ciller",
+      "mâchoire serrée mais détendue en surface",
+      "voix très basse et très posée",
+      "gestes lents et précis comme s'ils étaient mesurés",
+      "sourire possible mais qui ne monte pas aux yeux",
+      "nuque très droite",
+      "mains immobiles ou occupées à un geste minutieux"
+    ],
+    "sensationsInternes": [
+      "chaleur intérieure contenue derrière une paroi",
+      "clarté mentale inhabituellement vive",
+      "concentration totale sur l'objectif",
+      "absence de tremblements — le corps obéit complètement",
+      "détachement de l'émotion qui paradoxalement la renforce",
+      "patience absolue — le personnage peut attendre"
+    ],
+    "pensees": [
+      "Je ne suis pas en train de perdre le contrôle.",
+      "Je vais régler ça.",
+      "Il va comprendre ce qu'il a fait.",
+      "Je choisis chaque mot.",
+      "Ça ne sert à rien de s'emballer.",
+      "Je me souviendrai de ça.",
+      "La prochaine décision que je prends sera définitive."
+    ],
+    "effetsVoixLangage": [
+      "voix très basse, très lente, très distincte",
+      "chaque mot articulé avec une précision inquiétante",
+      "formulations brèves et définitives",
+      "longues pauses avant de répondre",
+      "aucune élévation de ton — c'est le silence qui fait peur"
+    ],
+    "comportements": [
+      "ne crie pas",
+      "ne frappe pas",
+      "s'éloigne si besoin avec calme",
+      "coupe une relation sans explication",
+      "prend des décisions définitives sans en parler",
+      "se souvient de tout — chaque détail est enregistré",
+      "revient sur l'offense beaucoup plus tard"
+    ],
+    "masquesPossibles": [
+      "professionnalisme impeccable",
+      "politesse formelle",
+      "neutralité apparente",
+      "froideur qui peut être prise pour de l'indifférence"
+    ],
+    "evolutionsPossibles": [
+      "rupture définitive prononcée sans violence",
+      "vengeance froide et calculée",
+      "résolution si l'autre reconnaît sa faute",
+      "explosion différée si la retenue finit par céder"
+    ],
+    "contextesAggravants": [
+      "trahison plutôt que simple erreur",
+      "public présent qui regarde",
+      "répétition d'une offense déjà pardonnée",
+      "attaque contre quelqu'un protégé"
+    ],
+    "contextesAttenuants": [
+      "reconnaissance sincère et immédiate",
+      "explication qui change la lecture",
+      "distance temporelle qui refroidit la charge"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Froideur légère", "description": "Ton plus distant. Le personnage choisit ses mots." },
+      { "niveau": 2, "label": "Contrôle tendu", "description": "La colère est visible à qui connaît le personnage. La voix baisse." },
+      { "niveau": 3, "label": "Colère froide installée", "description": "Chaque geste est calculé. La conversation est tranchante." },
+      { "niveau": 4, "label": "Décision irrévocable", "description": "Le personnage prend une décision majeure dans cet état." },
+      { "niveau": 5, "label": "Froideur glaciale", "description": "Le personnage est inaccessible. Il a fermé toutes les portes." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage en position d'autorité",
+        "description": "La colère froide est son mode par défaut en situation de conflit. Elle lui donne le contrôle de l'espace. Elle peut être terrifiante pour les autres."
+      },
+      {
+        "profil": "Personnage traumatisé",
+        "description": "La colère froide est une réponse acquise — après avoir appris que l'explosion ne servait à rien, il a tout intériorisé. Elle est parfois plus toxique que la rage."
+      },
+      {
+        "profil": "Personnage habituellement doux",
+        "description": "La colère froide chez quelqu'un de naturellement chaud est particulièrement inquiétante. L'entourage ne l'a jamais vu comme ça. Cela signale quelque chose de grave."
+      }
+    ],
+    "notesEditoriales": [
+      "La colère froide est souvent plus dramatique que la rage parce qu'elle est choisie.",
+      "Elle peut être confondue avec du calme ou de la sagesse — c'est son danger narratif.",
+      "Distinguer de l'indifférence : la colère froide est une colère qui sait ce qu'elle veut."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "trahison" },
+      { "type": "peut_masquer", "cible": "douleur" },
+      { "type": "souvent_associe_a", "cible": "silence-de-rupture" },
+      { "type": "peut_evoluer_en", "cible": "rupture" },
+      { "type": "peut_evoluer_en", "cible": "explosion-differee" }
+    ]
+  },
+  {
+    "id": "confusion-identitaire",
+    "label": "Confusion identitaire",
+    "famille": "emotions-complexes",
+    "definitionCourte": "État dans lequel le personnage ne sait plus clairement qui il est — ce qui lui appartient, ce qui lui a été imposé, ce qu'il veut vraiment — souvent déclenché par une rupture, une transition ou une confrontation avec une vérité sur lui-même.",
+    "signesPhysiques": [
+      "regard qui hésite, qui ne sait pas où se poser",
+      "gestes moins assurés que d'habitude, comme si le corps attendait des instructions",
+      "expression du visage difficile à lire — plusieurs registres qui se superposent",
+      "pause plus longue avant les choix, même petits",
+      "posture qui change selon l'interlocuteur plus que d'habitude",
+      "voix qui prend des tonalités différentes selon les contextes",
+      "inconfort visible quand quelqu'un lui demande ce qu'il veut"
+    ],
+    "sensationsInternes": [
+      "impression d'être plusieurs personnes à la fois sans en être vraiment une",
+      "manque de sol intérieur stable",
+      "désorientation légère mais persistante",
+      "sentiment que ce qu'il croyait être sien ne l'est peut-être pas",
+      "oscillation entre des versions de lui-même contradictoires",
+      "inconfort face aux attentes des autres qu'il ne sait plus s'il peut ou veut remplir"
+    ],
+    "pensees": [
+      "Je ne sais plus très bien ce que je veux.",
+      "Qui suis-je en dehors de ce rôle ?",
+      "Est-ce que c'est moi qui pense ça, ou ce qu'on m'a appris à penser ?",
+      "J'aurais dû savoir qui j'étais à cette étape de ma vie.",
+      "Je me comporte différemment selon les gens — lequel est le vrai moi ?",
+      "Peut-être que je ne me suis jamais vraiment connu.",
+      "Je ne sais pas quoi répondre quand on me demande ce que je veux vraiment."
+    ],
+    "effetsVoixLangage": [
+      "réponses qui varient selon l'interlocuteur sur les mêmes questions",
+      "difficulté à répondre aux questions directes sur ses préférences",
+      "formulations hésitantes sur sa propre identité",
+      "tendance à laisser les autres définir la situation",
+      "contradiction possible entre deux conversations proches"
+    ],
+    "comportements": [
+      "cherche des miroirs — personnes ou récits dans lesquels se reconnaître",
+      "adopte facilement les valeurs et les façons d'être de ceux qu'il côtoie",
+      "change d'avis fréquemment sans le voir comme une incohérence",
+      "explore des identités ou des rôles qu'il n'avait pas envisagés",
+      "peut prendre des décisions importantes pour voir ce que ça fait",
+      "se comporte différemment selon les contextes sans lien apparent"
+    ],
+    "masquesPossibles": [
+      "flexibilité présentée comme une qualité",
+      "ouverture d'esprit affichée qui cache la perte de repères",
+      "assurance de façade sur les questions identitaires",
+      "adoption d'un rôle clair qui simplifie la question"
+    ],
+    "evolutionsPossibles": [
+      "identité retrouvée ou construite après une période d'exploration",
+      "enfermement dans un rôle pour éviter la question",
+      "crise si la confusion s'approfondit sans résolution",
+      "liberté paradoxale si la confusion est acceptée comme un état transitoire"
+    ],
+    "contextesAggravants": [
+      "transition de vie majeure — rupture, déménagement, perte d'emploi",
+      "confrontation à une vérité sur soi que l'on ne pouvait pas voir avant",
+      "entourage qui a une image figée de qui on est",
+      "attentes contradictoires de personnes importantes"
+    ],
+    "contextesAttenuants": [
+      "espace de temps et de liberté pour explorer sans obligation de réponse",
+      "personne qui accueille la confusion sans forcer une définition",
+      "expérience qui donne un ancrage provisoire mais réel",
+      "récit ou personnage dans lequel se reconnaître partiellement"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère incertitude", "description": "Le personnage doute sur certains aspects de lui-même sans que ça le paralysie." },
+      { "niveau": 2, "label": "Questionnement sensible", "description": "Des questions identitaires émergent et occupent de la place dans sa pensée." },
+      { "niveau": 3, "label": "Confusion installée", "description": "Il ne sait plus vraiment qui il est dans plusieurs domaines importants." },
+      { "niveau": 4, "label": "Confusion profonde", "description": "L'instabilité identitaire affecte ses décisions et ses relations." },
+      { "niveau": 5, "label": "Dissolution", "description": "Il ne sait plus du tout qui il est. Chaque contexte lui donne une version différente de lui-même." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Adolescent ou jeune adulte",
+        "description": "La confusion identitaire est presque normative à cet âge — mais pas moins douloureuse. Il cherche qui il est dans les autres, les idéaux, les groupes, les rôles."
+      },
+      {
+        "profil": "Personnage après une rupture majeure",
+        "description": "La confusion vient de la perte d'un rôle structurant — conjoint, parent, professionnel. Sans ce rôle, il ne sait plus très bien ce qui reste."
+      },
+      {
+        "profil": "Personnage qui a longtemps vécu pour les autres",
+        "description": "Il a tellement construit son identité autour des attentes des autres qu'il ne sait plus ce qui lui appartient vraiment. La confusion est une découverte tardive."
+      }
+    ],
+    "notesEditoriales": [
+      "La confusion identitaire crée des personnages en mouvement — elle est narrativement riche précisément parce qu'elle n'est pas résolue.",
+      "Elle peut sembler passive mais elle génère des comportements très actifs — exploration, changement de rôles, prises de risques.",
+      "À ne pas résoudre trop vite : l'identité se construit dans la durée."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "rupture" },
+      { "type": "peut_suivre", "cible": "revelation-sur-soi" },
+      { "type": "souvent_associe_a", "cible": "ambivalence" },
+      { "type": "peut_evoluer_en", "cible": "identite-retrouvee" },
+      { "type": "peut_evoluer_en", "cible": "crise-existentielle" },
+      { "type": "peut_masquer", "cible": "peur-de-ne-pas-etre-aime" }
+    ]
+  },
+  {
+    "id": "deuil-anticipe",
+    "label": "Deuil anticipé",
+    "famille": "emotions-complexes",
+    "definitionCourte": "Deuil d'une perte qui n'a pas encore eu lieu mais que le personnage sait inévitable — maladie terminale, séparation prévue, fin d'une époque. Il souffre d'une perte qui n'est pas encore là.",
+    "signesPhysiques": [
+      "regard qui s'attarde sur la personne ou la chose condamnée",
+      "gestes plus doux, comme si chaque contact était à préserver",
+      "sourires qui durent plus longtemps",
+      "silences pendant les moments ordinaires",
+      "yeux qui brillent parfois sans raison apparente",
+      "posture qui cherche la proximité",
+      "photos prises instinctivement"
+    ],
+    "sensationsInternes": [
+      "douleur en anticipation — réelle, pas imaginaire",
+      "conscience aiguë de la finitude de chaque moment",
+      "désir de tout retenir, de tout mémoriser",
+      "fatigue liée à la lutte contre ce qui vient",
+      "alternance entre acceptation et refus",
+      "amour qui s'intensifie dans la conscience de sa fin"
+    ],
+    "pensees": [
+      "Combien de fois encore ?",
+      "Je veux me souvenir de ça exactement comme c'est.",
+      "Il faudra que je tienne sans ça.",
+      "Comment je vais faire après ?",
+      "Profiter maintenant, ça semble faux.",
+      "Je ne veux pas que ça finisse.",
+      "Je pleure quelque chose qui est encore là."
+    ],
+    "effetsVoixLangage": [
+      "voix plus douce dans les interactions avec la personne concernée",
+      "évitement des formules qui impliquent un futur commun",
+      "silences habités quand le sujet effleure",
+      "tendance à dire 'je t'aime' ou 'merci' plus souvent"
+    ],
+    "comportements": [
+      "prend des photos ou fait des enregistrements",
+      "crée des rituels pour les moments ordinaires",
+      "dit des choses importantes qu'il gardait pour plus tard",
+      "évite parfois les sujets douloureux pour préserver le présent",
+      "peut au contraire tout vouloir régler avant",
+      "cherche à être présent lors de chaque moment ensemble"
+    ],
+    "masquesPossibles": [
+      "optimisme forcé",
+      "activité intense pour ne pas y penser",
+      "normalité performée pour ne pas angoisser l'autre",
+      "humour pour désamorcer"
+    ],
+    "evolutionsPossibles": [
+      "deuil réel qui suit la perte",
+      "acceptation progressive de l'inévitable",
+      "épuisement si l'anticipation dure trop longtemps",
+      "colère si la perte tarde ou si le processus est injuste"
+    ],
+    "contextesAggravants": [
+      "accélération visible de la dégradation",
+      "moments de bonheur qui rappellent ce qui sera perdu",
+      "devoir gérer les détails pratiques"
+    ],
+    "contextesAttenuants": [
+      "permission de pleurer la perte à venir",
+      "moments de connexion pure avec ce qui sera perdu",
+      "reconnaissance que le deuil anticipé est réel"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Conscience légère", "description": "Le personnage sait que ça finira mais ne s'y arrête pas longtemps." },
+      { "niveau": 2, "label": "Deuil naissant", "description": "La conscience s'approfondit. Certains moments prennent une couleur d'adieu." },
+      { "niveau": 3, "label": "Deuil anticipé installé", "description": "Il vit déjà partiellement dans l'après. Le présent est précieux et douloureux." },
+      { "niveau": 4, "label": "Deuil anticipé intense", "description": "Chaque moment est teinté de fin. La présence de l'autre est à la fois bonheur et douleur." },
+      { "niveau": 5, "label": "Deuil prématuré", "description": "Le personnage pleure quelque chose qui est encore là. Il peut fuir pour ne pas souffrir deux fois." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Soignant",
+        "description": "Il anticipe la perte de façon presque professionnelle, puis est parfois surpris par la douleur réelle quand elle arrive."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Il ne comprend pas toujours ce qui vient mais le ressent. Il peut chercher à tout réparer, à tout retenir, à poser des questions sans réponse."
+      },
+      {
+        "profil": "Conjoint ou proche",
+        "description": "L'anticipation est mêlée d'amour, de fatigue, de culpabilité de se projeter dans l'après alors que l'autre est encore là."
+      }
+    ],
+    "notesEditoriales": [
+      "Le deuil anticipé est l'une des émotions les plus complexes à écrire car elle est faite de présence et d'absence simultanées.",
+      "Il rend chaque scène ordinaire potentiellement bouleversante.",
+      "Éviter de le résoudre trop vite : c'est un état qui dure et qui change avec le temps."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "deuil-aigu" },
+      { "type": "peut_masquer", "cible": "desespoir" },
+      { "type": "souvent_associe_a", "cible": "tendresse" },
+      { "type": "peut_evoluer_en", "cible": "acceptation" }
+    ]
+  },
+  {
+    "id": "honte-de-survivre",
+    "label": "Honte de survivre",
+    "famille": "emotions-complexes",
+    "definitionCourte": "Honte d'avoir continué à vivre, à fonctionner, à rire — quand d'autres n'ont pas pu. Émotion qui naît de la comparaison entre sa propre persistance et la perte de l'autre.",
+    "signesPhysiques": [
+      "retrait lors des moments de joie",
+      "malaise visible dans les célébrations",
+      "regard qui cherche une sortie dans les rassemblements festifs",
+      "sourires incomplets, avortés",
+      "corps qui semble vouloir se faire plus petit",
+      "rougeur possible face aux compliments",
+      "déglutition quand le sujet effleure"
+    ],
+    "sensationsInternes": [
+      "brûlure intérieure à chaque moment de bonheur",
+      "impression d'être un imposteur dans sa propre vie",
+      "conviction que la joie est une trahison",
+      "culpabilité sans faute précise",
+      "désir d'effacement — pas de mort, mais d'invisibilité",
+      "lourdeur permanente dans les moments qui devraient être légers"
+    ],
+    "pensees": [
+      "Il n'a pas eu ça et moi si.",
+      "Comment j'ose être heureux ?",
+      "Je n'ai pas le droit à ça.",
+      "Si j'avais été là, peut-être...",
+      "Être bien me semble obscène.",
+      "J'aurais voulu partir à sa place.",
+      "Ma vie n'a pas plus de valeur que la sienne."
+    ],
+    "effetsVoixLangage": [
+      "difficulté à recevoir les compliments sans les détourner",
+      "tendance à ramener le disparu dans les conversations",
+      "voix qui faiblit sur certains sujets",
+      "peu d'affirmations positives sur sa propre situation"
+    ],
+    "comportements": [
+      "refuse les fêtes ou les célébrations",
+      "honore de façon compulsive la mémoire du disparu",
+      "peut s'imposer des privations symboliques",
+      "évite de parler de ses propres réussites",
+      "détourne l'attention de lui-même vers le disparu",
+      "peut s'habiller ou se comporter en deuil longtemps après"
+    ],
+    "masquesPossibles": [
+      "effacement total",
+      "dévotion mémorielle",
+      "générosité excessive",
+      "détachement des biens matériels"
+    ],
+    "evolutionsPossibles": [
+      "intégration progressive avec l'aide d'un proche ou d'un travail intérieur",
+      "aggravation vers l'auto-punition si non traité",
+      "résolution si le personnage comprend que survivre n'était pas un choix",
+      "transformation en engagement — vivre pour eux"
+    ],
+    "contextesAggravants": [
+      "anniversaires de la mort",
+      "réussites personnelles",
+      "moments de bonheur pur",
+      "rencontre avec la famille du disparu"
+    ],
+    "contextesAttenuants": [
+      "permission accordée par quelqu'un de proche du disparu",
+      "reconnaissance que le survivant n'avait pas le choix",
+      "façon d'honorer la mémoire qui ne punit pas le vivant"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère gêne", "description": "Un moment de joie terni par un souvenir. Le personnage passe vite." },
+      { "niveau": 2, "label": "Honte présente", "description": "Les moments heureux sont régulièrement gâchés par la culpabilité." },
+      { "niveau": 3, "label": "Honte installée", "description": "Le bonheur n'est plus accessible sans prix à payer intérieurement." },
+      { "niveau": 4, "label": "Honte active", "description": "Le personnage sabote ses moments de joie. Il ne peut pas laisser la vie être bien." },
+      { "niveau": 5, "label": "Punition de vivre", "description": "Il vit pour faire pénitence. Sa vie est une longue excuse d'exister." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Soldat ou rescapé",
+        "description": "La honte de survivre est physique et immédiate. Il l'a vue dans les yeux de ceux qui ne s'en sont pas sortis."
+      },
+      {
+        "profil": "Enfant dont un parent est mort",
+        "description": "La honte est irrationnelle et d'autant plus puissante. Il a grandi en pensant que sa naissance ou sa vie avait coûté quelque chose."
+      },
+      {
+        "profil": "Personne après suicide d'un proche",
+        "description": "Pourquoi il ne l'a pas vu, pourquoi il n'a pas fait plus, pourquoi lui est encore là — les questions sans réponse nourrissent la honte."
+      }
+    ],
+    "notesEditoriales": [
+      "La honte de survivre est souvent confondue avec la culpabilité du survivant — les deux coexistent mais sont distinctes.",
+      "Elle porte sur l'existence elle-même, pas sur un acte ou une décision.",
+      "Un personnage qui refuse un bonheur mérité peut cacher cette émotion."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "culpabilite-survivant" },
+      { "type": "peut_evoluer_en", "cible": "auto-sabotage" },
+      { "type": "peut_evoluer_en", "cible": "engagement-memorial" },
+      { "type": "peut_masquer", "cible": "joie" }
+    ]
+  },
+  {
+    "id": "amour-haine",
+    "label": "Amour-haine",
+    "famille": "emotions-complexes",
+    "definitionCourte": "Coexistence explosive de l'amour et de la haine pour la même personne — souvent issue d'une relation intense où la déception est proportionnelle à l'attente.",
+    "signesPhysiques": [
+      "regard qui oscille entre la chaleur et la dureté",
+      "gestes d'approche suivis d'un retrait",
+      "tension visible dans les échanges avec cette personne",
+      "sourire amer possible",
+      "mâchoire contractée lors des moments de haine, relâchée dans les moments d'amour",
+      "corps qui se rapproche puis se retranche"
+    ],
+    "sensationsInternes": [
+      "chaleur et brûlure simultanées dans la poitrine",
+      "déchirement entre l'envie d'être proche et le besoin de fuir",
+      "souffrance amplifiée par l'amour — on ne peut haïr vraiment que ce qu'on a aimé",
+      "pulsions contradictoires qui s'annulent et se renforcent",
+      "épuisement lié à l'intensité de la relation",
+      "plaisir douloureux dans le conflit"
+    ],
+    "pensees": [
+      "Je l'aime et je le déteste.",
+      "Comment quelqu'un que j'aime peut me faire ça ?",
+      "Je ne veux plus le voir et en même temps...",
+      "Il me détruit et je reviens encore.",
+      "Si je ne l'aimais pas, je m'en ficherais.",
+      "La honte que j'ai encore envie d'être là.",
+      "Ça ne devrait pas fonctionner comme ça."
+    ],
+    "effetsVoixLangage": [
+      "ton qui peut passer du chaud au glacial dans la même phrase",
+      "contradictions dans ce qu'il dit sur cette personne",
+      "défense et attaque de la même personne à des moments différents",
+      "émotion très vive dès que le sujet est abordé"
+    ],
+    "comportements": [
+      "s'éloigne et revient en cycle",
+      "dit du mal puis défend la même personne",
+      "cherche le conflit qui maintient le lien",
+      "des moments de grande tendresse suivis de ruptures violentes",
+      "peut blesser précisément parce qu'il connaît les points faibles"
+    ],
+    "masquesPossibles": [
+      "indifférence jouée",
+      "mépris affiché",
+      "détachement qui dissimule la dépendance",
+      "dureté pour ne pas montrer qu'on aime encore"
+    ],
+    "evolutionsPossibles": [
+      "rupture totale si la haine finit par emporter",
+      "réconciliation si l'amour prend le dessus",
+      "cycle répété sans résolution",
+      "transformation en affection apaisée si le personnage travaille sur la relation"
+    ],
+    "contextesAggravants": [
+      "nouvelle blessure venant de cette personne",
+      "moment de grande tendresse qui réveille l'amour",
+      "tiers qui prend parti",
+      "rappel de ce qui était avant"
+    ],
+    "contextesAttenuants": [
+      "distance physique temporaire",
+      "explication qui change la lecture",
+      "travail sur sa propre dépendance émotionnelle"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Tension affective", "description": "Le personnage aime mais est souvent irrité. Pas encore de vrai conflit." },
+      { "niveau": 2, "label": "Ambivalence relationnelle", "description": "Il oscille clairement entre les deux pôles." },
+      { "niveau": 3, "label": "Amour-haine installé", "description": "La relation est cyclique. Les deux émotions sont également présentes." },
+      { "niveau": 4, "label": "Relation toxique", "description": "Le cycle s'emballe. La relation est douloureuse pour les deux." },
+      { "niveau": 5, "label": "Obsession conflictuelle", "description": "Le personnage ne peut pas s'extraire. La relation est devenue une prison." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage avec blessure d'abandon",
+        "description": "L'amour-haine est sa façon de maintenir le lien — la colère empêche l'abandon. Il préfère le conflit à l'indifférence."
+      },
+      {
+        "profil": "Personnage rationnel",
+        "description": "Il ne comprend pas ce qui lui arrive. Il analyse, liste, justifie — et revient malgré lui. La contradiction entre sa pensée et ses actes le mine."
+      },
+      {
+        "profil": "Enfant adulte envers un parent",
+        "description": "L'amour-haine envers un parent est particulièrement complexe — il est difficile de haïr quelqu'un auquel on doit son existence."
+      }
+    ],
+    "notesEditoriales": [
+      "L'amour-haine est d'autant plus fort qu'il est souvent honteux — le personnage ne comprend pas pourquoi il reste.",
+      "La haine pure est simple. L'amour-haine est le signe que le lien est profond et non résolu.",
+      "Un personnage qui dit haïr quelqu'un avec trop d'émotion révèle souvent qu'il l'aime encore."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "ambivalence" },
+      { "type": "peut_evoluer_en", "cible": "rupture" },
+      { "type": "peut_evoluer_en", "cible": "reconciliation" },
+      { "type": "peut_masquer", "cible": "peur-abandon" }
+    ]
+  }
+]

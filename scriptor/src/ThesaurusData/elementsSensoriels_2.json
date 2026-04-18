@@ -1,0 +1,562 @@
+[
+  {
+    "id": "texture-vieux-papier",
+    "label": "Texture du vieux papier",
+    "categorie": "tactile",
+    "definitionCourte": "Sensation produite par le contact avec du papier ancien — légèrement rugueux, cassant aux bords, parfois gondolé ou fragile. Le toucher précède la lecture et dit déjà quelque chose du poids de ce qui est écrit.",
+    "qualite": "Sec, légèrement granuleux, avec une fragilité perceptible — on sent que la feuille a une histoire dans les doigts avant d'en avoir une dans les yeux.",
+    "associationsNarratives": [
+      "lettres trouvées dans une boîte ou un grenier",
+      "journal intime d'un personnage disparu",
+      "document officiel qui change la vie — testament, acte de naissance, verdict",
+      "livre de famille, registre de noms",
+      "correspondance amoureuse ancienne",
+      "papiers d'identité d'un ancêtre ou d'un inconnu",
+      "carte ou plan dessiné à la main depuis longtemps",
+      "page arrachée à un cahier dont on ne retrouve pas le reste"
+    ],
+    "emotionsAssociees": [
+      "nostalgie précise et chargée",
+      "respect instinctif pour ce qui a duré",
+      "mélancolie liée au temps écoulé",
+      "curiosité mêlée de précaution",
+      "sentiment d'être en contact avec une vie autre que la sienne",
+      "émotion anticipée avant même la lecture"
+    ],
+    "memoires": [
+      "premières lectures dans des livres hérités",
+      "découverte d'une boîte à secrets dans la maison familiale",
+      "souvenir d'un texte écrit à la main par quelqu'un de disparu",
+      "odeur et texture mêlées — le papier a une odeur que le toucher appelle"
+    ],
+    "usagesTypiques": [
+      "ancrer physiquement un personnage dans un passé avant de le lui faire lire",
+      "signifier le poids d'un document sans en révéler le contenu immédiatement",
+      "créer un contraste avec le présent numérique ou impersonnel du personnage",
+      "ralentir la scène — manipuler du vieux papier demande de la délicatesse",
+      "préparer une révélation : ce que le personnage tient dans les mains va tout changer",
+      "ancrer un souvenir sensoriel lié à un proche disparu"
+    ],
+    "contraires": [
+      "ecran-tactile-lisse",
+      "surface-plastique-neuve",
+      "papier-glace-imprime"
+    ],
+    "combinaisons": [
+      "avec odeur-renferme : papiers dans une pièce fermée depuis longtemps — passé total",
+      "avec lumiere-fin-journee : lire au crépuscule des lettres anciennes — beauté et mélancolie",
+      "avec son-silence-nuit : seul la nuit avec un document — révélation solitaire",
+      "avec froid-metal : boîte métallique contenant les papiers — la résistance du contenant contre la fragilité du contenu"
+    ],
+    "notesEditoriales": [
+      "Le toucher est souvent négligé au profit du visuel — commencer une scène de découverte par la texture du papier avant de donner le contenu est narrativement puissant.",
+      "La fragilité du papier peut être un enjeu dramatique en soi : le personnage qui a peur de l'abîmer, qui hésite à le déplier.",
+      "Différencier selon le type de papier : vélin ancien (lettres intimes), papier administratif jauni (documents officiels), papier d'emballage (colis, archive informelle).",
+      "La texture du vieux papier appelle presque toujours son odeur — les deux travaillent ensemble dans la mémoire sensorielle."
+    ]
+  },
+  {
+    "id": "texture-tissu-use",
+    "label": "Tissu usé jusqu'à la trame",
+    "categorie": "tactile",
+    "definitionCourte": "Tissu dont l'usage répété a aminci la matière jusqu'à laisser entrevoir la trame, rendant le toucher à la fois doux et légèrement transparent. La douceur excessive est le signe d'une longue histoire portée.",
+    "qualite": "Incroyablement doux en surface, presque soyeux dans les zones les plus usées, mais avec une légèreté qui fragilise — on sent que la matière a donné tout ce qu'elle pouvait.",
+    "associationsNarratives": [
+      "pull ou chemise gardé bien trop longtemps par attachement",
+      "doudou ou vêtement d'enfance conservé",
+      "draps du lit de grand-mère",
+      "vêtement de travail d'un artisan ou d'un paysan",
+      "serviette de bain que personne n'a osé jeter",
+      "vêtement appartenant à quelqu'un de disparu",
+      "tissu dont la couleur d'origine n'est plus qu'un souvenir pâle",
+      "couverture partagée lors de nuits difficiles"
+    ],
+    "emotionsAssociees": [
+      "tendresse mêlée de mélancolie",
+      "attachement irrationnel à un objet",
+      "sentiment de continuité avec un passé aimé",
+      "résistance à l'abandon — ne pas jeter, c'est ne pas clore",
+      "réconfort immédiat et presque honteux",
+      "deuil doux — l'objet est encore là mais plus pour longtemps"
+    ],
+    "memoires": [
+      "vêtement d'un proche disparu que l'on garde pour son odeur et sa texture",
+      "confort d'enfance — le tissu qui rassure avant le sommeil",
+      "période de pauvreté où l'on ne remplaçait pas ce qui s'usait",
+      "geste habituel d'un proche — passer la main sur ce tissu"
+    ],
+    "usagesTypiques": [
+      "signaler l'attachement d'un personnage sans dialogue — il garde ce vêtement impossible",
+      "ancrer la pauvreté ou la modestie dans le concret sans la commenter",
+      "créer un objet transitionnel dans une scène de deuil ou de séparation",
+      "contraster avec un environnement neuf ou impersonnel",
+      "révéler quelque chose de l'histoire d'un personnage par son vestiaire",
+      "permettre un geste de réconfort sensoriel dans une scène d'angoisse"
+    ],
+    "contraires": [
+      "tissu-neuf-raide",
+      "surface-synthetique-froide",
+      "vetement-formel-intact"
+    ],
+    "combinaisons": [
+      "avec odeur-renferme : vêtement dans une armoire fermée — présence d'un absent",
+      "avec chaleur-soleil-peau : tissu léger sur peau chaude — été simple, bonheur sans défense",
+      "avec son-pluie-fenetre : enveloppé dans une vieille couverture — refuge intérieur",
+      "avec gout-alcool-premier-verre : soirée solitaire où l'on se réconforte avec les objets fidèles"
+    ],
+    "notesEditoriales": [
+      "La douceur excessive du tissu usé est paradoxale : elle signale la fin autant que le confort. Exploiter cette ambivalence.",
+      "Un personnage qui achète enfin un nouveau vêtement pour remplacer le vieux dit quelque chose sur sa capacité à lâcher.",
+      "Différencier selon le type : coton usé (quotidien, modestie), laine feutrée (chaleur animale, enfance), soie amincie (ancienne élégance déchue).",
+      "Le geste de passer la main sur un tissu usé peut remplacer un monologue intérieur sur l'attachement ou le deuil."
+    ]
+  },
+  {
+    "id": "froid-metal",
+    "label": "Froid du métal",
+    "categorie": "thermique",
+    "definitionCourte": "Sensation de froid sec et immédiat produit par le contact avec une surface métallique — plus intense que le froid ambiant, il saisit et ne se réchauffe que lentement sous la main.",
+    "qualite": "Brutal, précis, localisé — le froid du métal n'enveloppe pas, il saisit. Il n'y a pas de progression : il est là, entier, dès le premier contact.",
+    "associationsNarratives": [
+      "poignée de porte dans un couloir froid",
+      "barreaux ou grillage — enfermement littéral ou symbolique",
+      "arme tenue pour la première fois",
+      "table d'examen médical ou de bloc opératoire",
+      "rampe d'escalier dans une maison mal chauffée",
+      "clés dans une poche depuis trop longtemps",
+      "bijou retrouvé après avoir passé du temps sans être porté",
+      "outils d'un artisan le matin avant que le travail les réchauffe"
+    ],
+    "emotionsAssociees": [
+      "saisissement physique qui ancre dans le présent",
+      "vulnérabilité — le corps exposé au matériau dur",
+      "malaise dans les contextes médicaux ou carcéraux",
+      "étrangeté du réel dans les moments de choc",
+      "clarté froide — le métal n'ment pas",
+      "solitude du corps non réchauffé"
+    ],
+    "memoires": [
+      "main sur un portail froid à l'entrée d'un lieu redouté",
+      "contact avec un objet médical ou chirurgical",
+      "premières fois — arme, outil, instrument",
+      "froid d'une pièce mal chauffée dans l'enfance"
+    ],
+    "usagesTypiques": [
+      "ancrer brusquement un personnage dans son corps et dans le présent",
+      "signifier une rupture dans une scène — la douceur s'arrête là",
+      "créer un effet de réel dans une scène de tension ou de violence",
+      "marquer l'entrée dans un espace hostile ou institutionnel",
+      "révéler l'état du personnage par sa réaction au froid — s'y habituer ou ne pas le sentir",
+      "contraster avec la chaleur d'un corps, d'un tissu, d'une présence"
+    ],
+    "contraires": [
+      "chaleur-soleil-peau",
+      "texture-tissu-use",
+      "chaleur-feu-proche"
+    ],
+    "combinaisons": [
+      "avec odeur-hopital : salle d'examen — corps exposé, métal et désinfectant",
+      "avec lumiere-neon-froid : espace industriel ou médical de nuit — froid visuel et tactile",
+      "avec son-silence-nuit : maison froide de nuit, le métal des serrures ou des robinets",
+      "avec gout-sang : blessure ou violence — métal et sang, réalité brutale"
+    ],
+    "notesEditoriales": [
+      "Le froid du métal est l'un des sensations tactiles les plus immédiatement évocatrices — il ancre dans le corps sans avoir besoin de métaphore.",
+      "Sa rapidité à se réchauffer sous la peau peut être narrative : le moment où le métal se réchauffe est le moment où le personnage s'approprie l'objet.",
+      "Différencier selon le métal : acier chirurgical (froid clinique), fonte ancienne (froid lourd, matière dense), aluminium (froid léger et décevant).",
+      "Un personnage qui ne ressent pas le froid du métal — dissociation, anesthésie émotionnelle — dit quelque chose sur son état."
+    ]
+  },
+  {
+    "id": "chaleur-soleil-peau",
+    "label": "Chaleur du soleil sur la peau",
+    "categorie": "thermique",
+    "definitionCourte": "Sensation de chaleur douce ou intense produite par les rayons du soleil en contact direct avec la peau. Elle agit en profondeur, détend les muscles et ralentit la pensée.",
+    "qualite": "Enveloppante, progressive, légèrement hypnotique — une chaleur qui entre par la surface et descend vers l'intérieur, comme si le corps se déposait.",
+    "associationsNarratives": [
+      "première journée de printemps après un long hiver",
+      "sieste sur une terrasse ou un balcon",
+      "plage à l'heure où il fait trop chaud pour faire quoi que ce soit",
+      "fenêtre ensoleillée dans une pièce close",
+      "promenade en ville un jour de canicule",
+      "jardin d'enfance dans lequel on revient",
+      "dernier soleil de l'été qu'on sent disparaître",
+      "corps qui sort d'une période de maladie ou de choc et retrouve le monde"
+    ],
+    "emotionsAssociees": [
+      "bien-être simple et immédiat",
+      "nostalgie heureuse — le soleil rappelle",
+      "paix du corps qui se dépose",
+      "légèreté provisoire",
+      "désir de suspendre le temps",
+      "vulnérabilité douce — le corps s'ouvre"
+    ],
+    "memoires": [
+      "étés d'enfance identifiés par cette chaleur précise",
+      "moment de bonheur simple avec quelqu'un d'aimé",
+      "convalescence — le soleil comme signe de guérison",
+      "premier soleil après une période sombre de la vie"
+    ],
+    "usagesTypiques": [
+      "offrir au personnage (et au lecteur) un moment de répit dans une intrigue dense",
+      "signifier la guérison ou le retour à soi sans le nommer",
+      "créer un contraste avec un état intérieur sombre — le soleil indifférent à la peine",
+      "ancrer une scène dans une saison et dans un corps simultanément",
+      "préparer une rupture — la douceur avant la cassure",
+      "marquer la présence au monde d'un personnage qui était absent à lui-même"
+    ],
+    "contraires": [
+      "froid-metal",
+      "lumiere-neon-froid",
+      "froid-pénétrant-extérieur"
+    ],
+    "combinaisons": [
+      "avec odeur-pluie-terre : après l'orage — le soleil revient sur la terre mouillée",
+      "avec texture-tissu-use : tissu léger sur peau chauffée — bien-être modeste et réel",
+      "avec lumiere-fin-journee : crépuscule chaud sur la peau — beauté et fin",
+      "avec son-pluie-fenetre : l'un dehors, l'autre dedans — contraste protection/désir"
+    ],
+    "notesEditoriales": [
+      "La chaleur du soleil est l'une des sensations les plus associées à la joie et au souvenir heureux — à ne pas sur-utiliser sous peine de mièvrerie.",
+      "Puissante par contraste : un personnage qui ne la sent pas, ou qui la ressent comme une agression, révèle son état intérieur.",
+      "L'intensité change le registre : chaleur douce (paix, bien-être) / chaleur de canicule (épuisement, menace, irrespirabilité).",
+      "Ce que le personnage fait sous ce soleil — s'y expose, le fuit, le regarde de derrière une vitre — est souvent plus révélateur que la sensation elle-même."
+    ]
+  },
+  {
+    "id": "gout-sang",
+    "label": "Goût du sang",
+    "categorie": "gustatif",
+    "definitionCourte": "Goût métallique et chaud, légèrement salé, produit par du sang en contact avec la langue ou les lèvres. Immédiatement identifiable, il ramène le personnage à son corps avec une brutalité sans appel.",
+    "qualite": "Métallique, tiède, persistant — une présence qui ne disparaît pas immédiatement et qui occupe la bouche, rappelant sans arrêt ce qui vient de se passer.",
+    "associationsNarratives": [
+      "coup reçu au visage — chute, rixe, accident",
+      "mordre l'intérieur de sa joue sous l'effet du stress ou de la peur",
+      "blessure que l'on découvre en portant la main à ses lèvres",
+      "combat physique — moment où la douleur devient réelle",
+      "moment de violence subie ou infligée",
+      "choc qui ramène le personnage dans son corps après un état dissociatif",
+      "blessure de guerre ou de survie",
+      "signe que quelque chose a vraiment eu lieu — le corps ne ment pas"
+    ],
+    "emotionsAssociees": [
+      "peur immédiate ou rétrospective",
+      "adrénaline et vigilance extrême",
+      "colère si la blessure vient d'une agression",
+      "honte dans certains contextes — la blessure comme défaite",
+      "sentiment de réalité brutale — ceci n'est pas un rêve",
+      "vulnérabilité du corps confronté à sa propre fragilité"
+    ],
+    "memoires": [
+      "première blessure sérieuse dans l'enfance",
+      "accident ou agression passée",
+      "moment de violence physique subie ou témoin",
+      "toute expérience où le corps a été soudainement présent à lui-même"
+    ],
+    "usagesTypiques": [
+      "ancrer brutalement un personnage dans son corps après un choc ou une dissociation",
+      "signifier qu'une violence vient d'avoir lieu sans la décrire en détail",
+      "créer un effet de réel dans une scène d'action ou de violence",
+      "marquer le début d'une prise de conscience — le corps dit ce que l'esprit refuse",
+      "signifier la vulnérabilité d'un personnage qui se croyait protégé",
+      "utiliser comme point de bascule : avant ce goût, après ce goût"
+    ],
+    "contraires": [
+      "gout-sucre-doux",
+      "chaleur-soleil-peau",
+      "gout-eau-fraiche"
+    ],
+    "combinaisons": [
+      "avec froid-metal : arme, instrument, surface dure — violence ou accident",
+      "avec odeur-brule : catastrophe physique grave, corps soumis à plusieurs agressions",
+      "avec son-silence-nuit : blessure découverte dans le silence — solitude et vulnérabilité",
+      "avec vision-floue-larmes : choc émotionnel et physique simultanés — désorientation totale"
+    ],
+    "notesEditoriales": [
+      "Le goût du sang est l'une des sensations les plus directement liées à la réalité du corps — l'utiliser avec précision, pas systématiquement dans les scènes d'action.",
+      "Sa puissance tient à son caractère involontaire : on ne choisit pas de le sentir, il s'impose.",
+      "Peut être utilisé pour interrompre une dissociation ou une pensée abstraite — le personnage est ramené dans son corps malgré lui.",
+      "Différencier selon l'intensité : goutte légère après une morsure involontaire (stress, inquiétude) / présence forte après un coup (violence, urgence)."
+    ]
+  },
+  {
+    "id": "gout-alcool-premier-verre",
+    "label": "Goût du premier verre d'alcool",
+    "categorie": "gustatif",
+    "definitionCourte": "Goût légèrement brûlant, amer ou âpre du premier verre d'alcool d'une soirée ou d'une période — avant que le palais s'y habitue. Un goût qui tient autant de la décision que de la sensation.",
+    "qualite": "Tranchant, légèrement agressif, avec une chaleur qui descend immédiatement dans la poitrine — un goût qui dit 'on commence' et qui est chargé de tout ce qu'il précède.",
+    "associationsNarratives": [
+      "soirée solitaire après une mauvaise nouvelle",
+      "premier verre d'une fête à laquelle on ne voulait pas vraiment venir",
+      "retrouvailles avec quelqu'un après une longue absence",
+      "célébration qui cache une tristesse",
+      "personnage qui boit pour ne pas sentir autre chose",
+      "rituel partagé — trinquer avant de parler du difficile",
+      "moment de décision : ce soir on lâche quelque chose",
+      "verre bu seul, debout dans une cuisine, sans même s'asseoir"
+    ],
+    "emotionsAssociees": [
+      "consentement à une certaine forme de lâcher-prise",
+      "ambivalence — plaisir et légère culpabilité",
+      "solitude si le verre est bu seul",
+      "convivialité si partagé, même silencieusement",
+      "tristesse anticipée ou anesthésiée",
+      "décision prise sans être tout à fait formulée"
+    ],
+    "memoires": [
+      "premier verre de la vie — mélange d'excitation et de déception",
+      "soirée marquante où cela a commencé ou fini par l'alcool",
+      "rituel familial — l'apéritif, le coup de l'étrier",
+      "période difficile où le verre était devenu une habitude"
+    ],
+    "usagesTypiques": [
+      "signifier qu'un personnage entre dans un état de résistance abaissée",
+      "créer un point de bascule dans une soirée ou une relation",
+      "accompagner un moment de confidence ou de révélation à venir",
+      "révéler la solitude d'un personnage par son rapport à ce premier verre",
+      "ancrer une scène dans un registre émotionnel précis sans dialogue",
+      "préparer une erreur, une décision ou un aveu"
+    ],
+    "contraires": [
+      "gout-eau-fraiche-pure",
+      "gout-the-chaud",
+      "sobriete-lucide"
+    ],
+    "combinaisons": [
+      "avec son-pluie-fenetre : soirée solitaire — le verre contre la pluie",
+      "avec texture-tissu-use : vieux canapé, vieilles habitudes — réconfort et mélancolie",
+      "avec lumiere-neon-froid : bar vide ou cuisine de nuit — solitude nette",
+      "avec odeur-tabac-froid : soirée qui dérive, habitudes qui reviennent"
+    ],
+    "notesEditoriales": [
+      "Ce qui précède ce premier verre est souvent plus important que le verre lui-même — le geste révèle l'état, pas l'alcool.",
+      "Différencier selon le contexte : vin en société (convivialité, rite social) / whisky seul (solitude, décision intérieure) / bière après l'effort (relâchement simple).",
+      "Un personnage qui hésite avant de boire dit quelque chose d'autre que celui qui boit sans y penser.",
+      "Le goût âpre du premier verre peut être contrepoint à un état doux ou agréable — et vice versa : un personnage heureux qui le remarque à peine."
+    ]
+  },
+  {
+    "id": "odeur-tabac-froid",
+    "label": "Odeur de tabac froid",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur persistante et légèrement âcre laissée par la fumée de cigarette sur les textiles, les murs ou les vêtements — une odeur de tabac qui n'est plus dans l'air mais dans la matière.",
+    "qualite": "Tenace, légèrement rance, avec une note sucrée en dessous — une odeur qui s'est installée et ne demande pas la permission, qui appartient à ce lieu ou à ce vêtement comme une signature involontaire.",
+    "associationsNarratives": [
+      "veste ou manteau d'un fumeur porté ou retrouvé",
+      "bar ou café de nuit après la fermeture",
+      "voiture où quelqu'un a fumé pendant des années",
+      "chambre d'un proche qui fumait et qui n'est plus là",
+      "couloir d'immeuble ancien ou couloir d'hôtel bon marché",
+      "salle de réunion ou bureau d'un fumeur clandestin",
+      "vêtement d'enfance au fond d'une armoire",
+      "lieu abandonné qui a gardé la trace d'une vie quotidienne"
+    ],
+    "emotionsAssociees": [
+      "nostalgie précise si l'odeur rappelle quelqu'un",
+      "malaise ou irritation légère selon le contexte",
+      "sentiment d'intimité involontaire avec un inconnu",
+      "mélancolie douce liée à une époque révolue",
+      "légère répulsion si non fumeur",
+      "confort étrange pour ceux qui y associent une présence aimée"
+    ],
+    "memoires": [
+      "odeur d'un parent ou d'un grand-parent qui fumait",
+      "époque de la propre vie du personnage où il fumait",
+      "lieu fréquenté à une période précise de la vie",
+      "premier contact avec la cigarette — curiosité et déception mêlées"
+    ],
+    "usagesTypiques": [
+      "signaler la présence passée d'un personnage avant de le montrer",
+      "ancrer un lieu dans une époque ou une catégorie sociale",
+      "créer une mémoire involontaire — l'odeur devance le souvenir",
+      "caractériser un personnage par ses traces olfactives sur les objets",
+      "établir la durée : quelqu'un fume ici depuis longtemps",
+      "différencier le vivant du souvenir — l'odeur de tabac froid vs la fumée vive"
+    ],
+    "contraires": [
+      "odeur-air-frais",
+      "odeur-propre-linge",
+      "odeur-pluie-terre"
+    ],
+    "combinaisons": [
+      "avec texture-tissu-use : vêtement d'un fumeur longtemps porté — présence totale d'un absent",
+      "avec odeur-renferme : lieu fermé où quelqu'un a vécu et fumé — double stagnation",
+      "avec gout-alcool-premier-verre : soirée qui dérive dans de vieilles habitudes",
+      "avec son-silence-nuit : appartement de nuit, traces d'une vie quotidienne passée"
+    ],
+    "notesEditoriales": [
+      "L'odeur de tabac froid est plus narrative que la fumée vive : elle est trace, pas acte — elle parle de ce qui a été, pas de ce qui est.",
+      "Très puissante comme déclencheur de mémoire involontaire si le personnage associe cette odeur à une personne précise.",
+      "Peut caractériser un lieu social : bar ouvrier, appartement d'étudiant des années 90, bureau d'un journaliste vieillissant.",
+      "Attention à ne pas en faire un raccourci systématique pour 'personnage négligé' — elle peut aussi évoquer le confort, l'intimité, la présence."
+    ]
+  },
+  {
+    "id": "son-verre-brise",
+    "label": "Bruit de verre brisé",
+    "categorie": "auditif",
+    "definitionCourte": "Son sec et éclatant produit par la rupture d'un objet en verre — suivi d'un silence bref avant que la situation soit réévaluée. Il coupe la scène en deux : avant et après.",
+    "qualite": "Bref, violent, définitif — un son qui ne dure pas mais dont les éclats résonnent dans le silence qui suit. Il n'y a pas de retour possible : le verre brisé ne se rebrise pas.",
+    "associationsNarratives": [
+      "dispute qui franchit un seuil de non-retour",
+      "accident qui révèle la distraction ou l'état émotionnel du personnage",
+      "geste de colère maîtrisée ou non",
+      "introduction d'une intrusion ou d'une rupture dans un espace",
+      "moment de panique où quelque chose échappe des mains",
+      "verre brisé lors d'un événement festif — symbole culturel ou mauvais présage",
+      "scène de violence domestique — l'objet avant les corps",
+      "réveil brutal dans un espace normalement silencieux"
+    ],
+    "emotionsAssociees": [
+      "sursaut et montée d'adrénaline immédiate",
+      "colère si c'est un geste volontaire",
+      "honte si accidentel et observé",
+      "peur si c'est le signe d'une intrusion",
+      "silence intérieur après l'éclat — stupeur courte",
+      "impossibilité de revenir en arrière"
+    ],
+    "memoires": [
+      "dispute familiale marquante de l'enfance",
+      "propre geste de colère regretté",
+      "accident dans un lieu public — regard des autres",
+      "moment de rupture — relationnelle ou physique — incarné par ce son"
+    ],
+    "usagesTypiques": [
+      "couper une scène net et forcer une réévaluation de la situation",
+      "signaler une perte de contrôle sans dialogue explicatif",
+      "créer une rupture temporelle : avant le bruit, après le bruit",
+      "incarner une tension qui vient d'atteindre son point de rupture",
+      "introduire un danger ou une intrusion par le son avant l'image",
+      "marquer le point de non-retour dans une dispute ou une relation"
+    ],
+    "contraires": [
+      "son-verre-pose-doucement",
+      "son-silence-nuit",
+      "geste-controle-precis"
+    ],
+    "combinaisons": [
+      "avec son-pas-couloir : quelqu'un s'approche après le bruit — danger ou réponse",
+      "avec son-porte-qui-claque : rupture en deux actes, violence en crescendo",
+      "avec odeur-alcool : soirée qui a dégénéré, perte de contrôle progressive",
+      "avec lumiere-neon-froid : cuisine de nuit — la violence dans la lumière plate"
+    ],
+    "notesEditoriales": [
+      "Le bruit de verre brisé est l'un des sons les plus chargés symboliquement en fiction — à ne pas utiliser trop facilement comme raccourci de 'colère'.",
+      "Ce qui précède et ce qui suit ce son est souvent plus important que le son lui-même — le silence d'après est narrativement essentiel.",
+      "Différencier selon l'objet : verre à vin (convivialité rompue) / miroir (superstition, identité fracturée) / vitre (frontière brisée, intrusion) / bouteille (violence potentielle).",
+      "Un personnage qui ne réagit pas au bruit de verre brisé — ou qui continue à parler — dit quelque chose sur sa dissociation ou son habitude de la violence."
+    ]
+  },
+  {
+    "id": "son-porte-qui-claque",
+    "label": "Porte qui claque",
+    "categorie": "auditif",
+    "definitionCourte": "Son bref et violent d'une porte fermée avec force — intentionnellement ou non. Il ponctue une sortie, une rupture, une colère ou une peur, et son écho dans une pièce vide dit autant que n'importe quel mot.",
+    "qualite": "Net, percutant, avec un léger tremblement de cloison qui suit — un son qui impose sa ponctuation dans la scène et force ceux qui restent à l'absorber.",
+    "associationsNarratives": [
+      "fin d'une dispute sans résolution",
+      "départ en colère que l'on ne sait pas si définitif",
+      "enfant ou adolescent qui s'enferme dans sa chambre",
+      "moment où quelqu'un ne peut plus rester dans la pièce",
+      "sortie d'un lieu professionnel après une humiliation",
+      "personnage qui part avant de dire ce qui était le plus important",
+      "claquement de vent si la porte n'était pas fermée — fausse alarme qui suspend le cœur",
+      "fin d'un acte, ponctuation dramatique"
+    ],
+    "emotionsAssociees": [
+      "colère exprimée par le corps quand les mots manquent",
+      "soulagement brutal de celui qui part",
+      "sentiment d'abandon pour celui qui reste",
+      "culpabilité anticipée ou rétrospective",
+      "peur que ce soit définitif",
+      "sursaut involontaire chez celui qui ne s'y attendait pas"
+    ],
+    "memoires": [
+      "dispute parentale entendue dans l'enfance",
+      "propre départ en colère d'un lieu ou d'une relation",
+      "quelqu'un qui est parti et n'est pas revenu",
+      "moment où l'on a su que quelque chose venait de finir"
+    ],
+    "usagesTypiques": [
+      "ponctuer une dispute par une action plutôt que par un mot final",
+      "signifier le départ d'un personnage par le son avant la description visuelle",
+      "créer un silence chargé pour celui qui reste dans la pièce",
+      "marquer le point de non-retour d'une relation ou d'une situation",
+      "laisser le lecteur dans la pièce avec le personnage abandonné — l'écho continue",
+      "remplacer un dialogue impossible par un geste sonore"
+    ],
+    "contraires": [
+      "porte-fermee-doucement",
+      "porte-laissee-ouverte",
+      "silence-du-depart"
+    ],
+    "combinaisons": [
+      "avec son-verre-brise : rupture en deux temps, escalade physique",
+      "avec son-pas-couloir : les pas qui s'éloignent après le claquement — départ irréversible",
+      "avec son-silence-nuit : claquement dans la nuit silencieuse — rupture amplifiée",
+      "avec vision-floue-larmes : les larmes brouillent la vue au moment où la porte se ferme"
+    ],
+    "notesEditoriales": [
+      "La porte qui claque est l'un des gestes les plus clichés en fiction — ce qui la sauve, c'est ce qui se passe dans la pièce après, quand l'écho se dissipe.",
+      "Ce que fait le personnage qui reste est souvent plus révélateur que le départ lui-même : se figer, s'asseoir, finir sa phrase dans le vide.",
+      "Différencier selon la surface : porte de bois épais (lourd, sourd, définitif) / porte de placard (légère, presque ridicule dans sa colère) / porte vitrée (le bruit et la transparence perdues simultanément).",
+      "Le claquement non intentionnel — le vent — peut créer une fausse alerte très utile pour tester l'état intérieur d'un personnage."
+    ]
+  },
+  {
+    "id": "vision-floue-larmes",
+    "label": "Vision trouble à travers des larmes",
+    "categorie": "visuel",
+    "definitionCourte": "Altération visuelle produite par les larmes qui brouillent le champ de vision — le monde se déforme, les contours se dissolvent, les couleurs se fondent. Voir devient un effort, et la réalité perd sa netteté.",
+    "qualite": "Tremblée, prismatique par endroits — les larmes dévient la lumière et créent des halos, des éclats. Une vision qui tremble à chaque battement de paupière, puis s'efface et revient.",
+    "associationsNarratives": [
+      "annonce d'une mauvaise nouvelle que l'on essaie de recevoir debout",
+      "séparation vue depuis le quai ou le seuil",
+      "moment où l'on essaie de ne pas pleurer devant quelqu'un",
+      "larmes de soulagement après une longue tension",
+      "vision du visage d'un proche pour la dernière fois",
+      "scène de joie intense qui déborde — pleurs de bonheur",
+      "personnage qui veut voir clairement et n'y parvient plus",
+      "larmes de colère retenue — le corps déborde malgré la volonté"
+    ],
+    "emotionsAssociees": [
+      "chagrin que l'on tente de contenir",
+      "soulagement intense qui force les larmes",
+      "honte si l'on pleure devant quelqu'un",
+      "impuissance — le corps prend le dessus",
+      "amour intense, tendresse insoutenable",
+      "colère retenue qui cherche une issue"
+    ],
+    "memoires": [
+      "moment de deuil ou d'annonce difficile",
+      "séparation d'un être aimé",
+      "joie rare et inattendue",
+      "honte de pleurer en public dans l'enfance"
+    ],
+    "usagesTypiques": [
+      "montrer que le personnage perd le contrôle de son corps avant de l'admettre",
+      "créer une désorientation visuelle qui accompagne une désorientation émotionnelle",
+      "offrir une description du monde filtré par l'état intérieur — le réel vu par les larmes",
+      "signifier la vulnérabilité sans mot — le corps parle seul",
+      "créer une intimité avec le lecteur : on voit ce que le personnage voit, déforme compris",
+      "contraster avec la clarté de la scène vue par un autre personnage au même moment"
+    ],
+    "contraires": [
+      "vision-nette-concentree",
+      "regard-sec-controle",
+      "clarté-du-matin"
+    ],
+    "combinaisons": [
+      "avec son-voix-lointaine : son et vision brouillés — désorientation totale lors d'un choc émotionnel",
+      "avec lumiere-fin-journee : crépuscule vu à travers des larmes — beauté fracturée",
+      "avec son-porte-qui-claque : la porte se ferme, les larmes brouillent le dernier regard",
+      "avec chaleur-soleil-peau : pleurer au soleil — le corps qui déborde dans la lumière"
+    ],
+    "notesEditoriales": [
+      "Décrire ce que le personnage voit à travers ses larmes — et non 'ses yeux s'embuèrent' — place le lecteur dans le corps du personnage avec précision.",
+      "La vision à travers les larmes est involontaire : ce n'est pas le personnage qui choisit de voir flou, c'est son corps qui décide pour lui.",
+      "Les larmes de colère retenue ont un effet visuel différent de celles du chagrin : elles brûlent, elles arrivent brutalement, elles semblent trahir.",
+      "Ce que le personnage regarde malgré le flou — ce qu'il essaie de voir quand même — révèle ce qui compte vraiment pour lui."
+    ]
+  }
+]

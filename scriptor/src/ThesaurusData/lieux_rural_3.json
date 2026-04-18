@@ -1,0 +1,652 @@
+[
+  {
+    "id": "bord-de-riviere-rurale",
+    "label": "Bord de rivière rurale",
+    "type": "rural-nature",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "courant qui dessine des remous autour des pierres",
+      "berge en terre meuble creusée par les crues",
+      "herbes hautes qui penchent au-dessus de l'eau",
+      "reflets mouvants du ciel sur la surface",
+      "branches mortes coincées entre les rochers",
+      "cailloux polis de toutes tailles dans le lit",
+      "traces d'animaux dans la boue de la berge"
+    ],
+    "bruits": [
+      "clapotis continu, variable selon la vitesse du courant",
+      "grenouilles et insectes en fond sonore",
+      "branche qui craque sous un pied maladroit",
+      "eau qui s'engouffre sous une souche"
+    ],
+    "odeurs": [
+      "fraîcheur de l'eau courante, légèrement minérale",
+      "vase et algues dans les zones stagnantes",
+      "végétation humide et menthe sauvage"
+    ],
+    "textures": [
+      "cailloux glissants sous la semelle",
+      "boue qui cède sous le poids",
+      "eau froide autour des chevilles"
+    ],
+    "emotionsTypiques": [
+      "apaisement et lenteur du temps",
+      "légère inquiétude face au courant imprévisible",
+      "sentiment de confidentialité — lieu hors du monde"
+    ],
+    "usagesNarratifs": [
+      "scène de confidence entre deux personnages isolés du monde",
+      "découverte d'un objet ou d'un corps porté par le courant",
+      "moment de réflexion solitaire après une crise",
+      "rendez-vous secret ou illicite"
+    ],
+    "tensionsTypiques": [
+      "courant qui peut être traître malgré l'apparence calme",
+      "crue soudaine possible selon la météo en amont",
+      "isolement qui peut devenir piège"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Enfant du village",
+        "description": "Il connaît les pierres par leur nom, sait où le fond remonte, où les écrevisses se cachent. Ce bord de rivière est un territoire personnel, presque intime."
+      },
+      {
+        "profil": "Personnage en fuite",
+        "description": "La rivière est un obstacle ou une voie. Il évalue le courant, cherche un gué, redoute l'eau froide. La beauté du lieu ne lui traverse pas l'esprit."
+      },
+      {
+        "profil": "Pêcheur",
+        "description": "Il lit la rivière comme un texte — les remous, les ombres, les profondeurs. Le silence n'est pas vide : il est plein d'informations."
+      }
+    ],
+    "notesEditoriales": [
+      "La rivière rurale est rarement spectaculaire — sa force narrative tient à sa constance, à son indifférence au drame humain.",
+      "Le bruit de l'eau couvre les voix : lieu idéal pour les conversations qu'on ne veut pas être entendu tenir."
+    ]
+  },
+  {
+    "id": "etang-de-ferme",
+    "label": "Étang de ferme",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "surface immobile et sombre sous les nuages",
+      "roseaux qui bordent les rives basses",
+      "canards ou oies qui glissent sans bruit",
+      "vase visible dans les zones peu profondes",
+      "reflet inversé des arbres sur l'eau",
+      "algues en surface par temps chaud",
+      "vieux ponton en bois vermoulu"
+    ],
+    "bruits": [
+      "grenouilles à toute heure selon la saison",
+      "canards qui plongent brusquement",
+      "vent dans les roseaux, son creux et sec",
+      "eau qui clapote contre le ponton"
+    ],
+    "odeurs": [
+      "eau stagnante et vase chauffée au soleil",
+      "algues et végétation en décomposition",
+      "air humide et lourd en été"
+    ],
+    "textures": [
+      "boue qui monte entre les orteils",
+      "roseau lisse et coupant sur les paumes",
+      "surface de l'eau fraîche sous la main"
+    ],
+    "emotionsTypiques": [
+      "mélancolie paisible et sans objet précis",
+      "légère inquiétude face à l'eau opaque",
+      "sentiment de temps suspendu"
+    ],
+    "usagesNarratifs": [
+      "lieu où l'on cache quelque chose dans l'eau",
+      "espace de pause entre deux actions",
+      "cadre d'un souvenir d'enfance idéalisé ou douloureux",
+      "lieu de noyade — accidentelle ou non"
+    ],
+    "tensionsTypiques": [
+      "eau opaque — on ne sait pas ce qu'il y a au fond",
+      "profondeur trompeuse près du bord",
+      "isolement total du reste de l'exploitation"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur propriétaire",
+        "description": "L'étang est une ressource — eau pour les animaux, poissons pour la table. Il en connaît les variations saisonnières, les problèmes d'algues, les réparations à prévoir."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Lieu de fascination et d'interdit. L'eau sombre est tentante et inquiétante. Il s'approche plus qu'il ne devrait, lance des cailloux, cherche des grenouilles."
+      },
+      {
+        "profil": "Personnage en détresse",
+        "description": "L'eau noire reflète quelque chose qu'il ne nomme pas. Il reste au bord longtemps sans raison explicite. Le lieu dit ce que le personnage ne peut pas dire."
+      }
+    ],
+    "notesEditoriales": [
+      "L'étang de ferme est prosaïque — ce qui le rend narrativement puissant : il n'a pas la noblesse d'un lac mais la même profondeur.",
+      "L'opacité de l'eau est un dispositif narratif : ce qu'on y cache, ce qu'on y trouve, ce qu'on n'ose pas y chercher."
+    ]
+  },
+  {
+    "id": "mare",
+    "label": "Mare de village",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "eau verdâtre au cœur du bourg",
+      "canards qui se chamaillent sur la rive",
+      "vieux chêne ou saule dont les branches effleurent l'eau",
+      "banc de pierre usé face à l'eau",
+      "gamins qui jettent du pain",
+      "grenouilles alignées sur la berge herbeuse",
+      "pellicule d'algues vertes en été"
+    ],
+    "bruits": [
+      "canards — coassement et battements d'ailes",
+      "enfants qui courent autour",
+      "eau qui clapote sous le vent",
+      "cloches de l'église proche selon le vent"
+    ],
+    "odeurs": [
+      "eau stagnante, légèrement vaseuse",
+      "herbe fraîche des berges en printemps",
+      "canards — odeur animale, chaude"
+    ],
+    "textures": [
+      "berge herbeuse humide sous les pieds",
+      "bois du banc rugueux, fendu par les saisons",
+      "eau fraîche et légèrement gluante"
+    ],
+    "emotionsTypiques": [
+      "nostalgie douce d'un monde qui ne change pas",
+      "sentiment d'appartenance communautaire",
+      "paix ordinaire, presque ennuyeuse"
+    ],
+    "usagesNarratifs": [
+      "point de rencontre neutre pour les habitants",
+      "lieu de commérages et de surveillance sociale",
+      "repère mémoriel pour un personnage revenu au village",
+      "contraste avec la vie moderne ou urbaine du personnage"
+    ],
+    "tensionsTypiques": [
+      "tout le monde se voit — pas de vraie solitude possible",
+      "la mare comme témoin de toute l'histoire du village",
+      "projet de comblement : tension entre progrès et mémoire"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant de toujours",
+        "description": "La mare est un fond de décor — toujours là, rarement regardé. Sa disparition serait un choc plus que sa présence n'est un plaisir."
+      },
+      {
+        "profil": "Enfant du village",
+        "description": "Terrain de jeu et de curiosité. Les canards ont des noms, les grenouilles se capturent dans les mains. La mare est un monde miniature."
+      },
+      {
+        "profil": "Personnage revenu après des années",
+        "description": "La mare est exactement pareille — et c'est ça qui fait mal. Tout le reste a changé, pas elle. Elle incarne l'immuable qui rend le changement plus visible."
+      }
+    ],
+    "notesEditoriales": [
+      "La mare de village est un des rares lieux collectifs qui ne demande rien — on peut y rester sans justification.",
+      "Sa force narrative tient à sa permanence : elle existait avant les personnages et existera après eux."
+    ]
+  },
+  {
+    "id": "lisiere-de-foret",
+    "label": "Lisière de forêt",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "ligne franche entre le champ ouvert et l'ombre des arbres",
+      "arbres plus petits et plus tordus en bordure",
+      "ronces et buissons impénétrables à certains endroits",
+      "lumière vive du côté champ, obscurité immédiate côté forêt",
+      "traces d'animaux dans le sol souple de la bordure",
+      "champignons sur les souches basses",
+      "herbes hautes entre les deux mondes"
+    ],
+    "bruits": [
+      "oiseaux plus nombreux à la lisière qu'à l'intérieur",
+      "craquements dans les feuilles — ce qu'on ne voit pas",
+      "vent dans les cimes, absent au sol",
+      "silence relatif à l'intérieur par rapport à l'extérieur"
+    ],
+    "odeurs": [
+      "humus frais et bois mort sous la pluie",
+      "résine si résineux proches",
+      "champignons et mousse, odeur terreuse"
+    ],
+    "textures": [
+      "sol plus souple sous les feuilles mortes",
+      "ronces accrochantes sur les vêtements et la peau",
+      "écorce rugueuse des premiers arbres"
+    ],
+    "emotionsTypiques": [
+      "hésitation au seuil — entrer ou rester dehors",
+      "légère inquiétude face à ce qu'on ne voit pas",
+      "sentiment de passage entre deux mondes"
+    ],
+    "usagesNarratifs": [
+      "seuil dramatique avant une décision ou une épreuve",
+      "lieu de cache ou de guet",
+      "transition entre deux parties du récit",
+      "zone d'ambiguïté — ni dedans ni dehors"
+    ],
+    "tensionsTypiques": [
+      "ce qui est visible depuis le champ ne l'est pas depuis la forêt",
+      "orientation difficile une fois à l'intérieur",
+      "zone de braconnage ou d'activité illégale"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Chasseur",
+        "description": "Il lit les traces, évalue le vent, calcule les angles de tir. La lisière est un poste d'observation stratégique. Il n'y entre jamais sans raison."
+      },
+      {
+        "profil": "Enfant",
+        "description": "La lisière est une frontière excitante. On va jusqu'à l'ombre, on hésite, on fait semblant d'être courageux. On ne va pas plus loin — pas encore."
+      },
+      {
+        "profil": "Personnage en fuite",
+        "description": "La forêt est une issue ou un piège. Il évalue la densité des arbres, l'obscurité, la possibilité de se cacher ou de s'y perdre."
+      }
+    ],
+    "notesEditoriales": [
+      "La lisière est narrativement plus riche que la forêt elle-même : c'est le lieu du choix, pas encore du résultat.",
+      "Ce qui entre dans la forêt depuis la lisière — et ce qui en sort — sont deux moments narratifs très différents."
+    ]
+  },
+  {
+    "id": "clairiere",
+    "label": "Clairière",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "cercle d'herbe rase ou haute ouvert dans les arbres",
+      "lumière différente — plus directe, plus vive qu'en sous-bois",
+      "souches au pourtour, restes d'arbres abattus",
+      "fleurs sauvages si exposition est bonne",
+      "traces de feu ou de rassemblement selon l'usage",
+      "arbres tout autour qui ferment l'horizon",
+      "ciel visible en cercle au-dessus"
+    ],
+    "bruits": [
+      "oiseaux différents de ceux du sous-bois",
+      "vent qui arrive d'un coup, absent à l'intérieur de la forêt",
+      "insectes plus nombreux et bruyants",
+      "silence relatif si vent faible — impression d'espace clos"
+    ],
+    "odeurs": [
+      "herbe chauffée au soleil",
+      "forêt humide en fond, depuis les arbres proches",
+      "fleurs sauvages selon la saison"
+    ],
+    "textures": [
+      "herbe haute ou rase sous les pieds",
+      "sol plus sec que sous les arbres",
+      "brindilles et cônes dans l'herbe"
+    ],
+    "emotionsTypiques": [
+      "soulagement après le sous-bois — espace retrouvé",
+      "sentiment de lieu préservé, hors du monde",
+      "légère impression d'être exposé après l'abri des arbres"
+    ],
+    "usagesNarratifs": [
+      "lieu de réunion secret ou rituel",
+      "espace de pause ou de révélation",
+      "campement improvisé",
+      "scène de confrontation isolée du reste du monde"
+    ],
+    "tensionsTypiques": [
+      "on arrive par surprise — la clairière n'est pas visible depuis les chemins",
+      "exposé aux intempéries sans abri possible",
+      "difficile à retrouver sans repère"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Marcheur qui la découvre par hasard",
+        "description": "C'est une surprise — l'ouverture après l'ombre. Il s'arrête instinctivement, regarde le ciel, respire autrement. La clairière suspend le temps."
+      },
+      {
+        "profil": "Habitant qui la connaît",
+        "description": "Il l'a toujours connue. Elle fait partie de sa cartographie personnelle. Peut-être le lieu d'un moment décisif de son enfance ou de sa vie."
+      },
+      {
+        "profil": "Personnage en danger",
+        "description": "La clairière est dangereuse — trop exposé. Il longe les arbres, reste à couvert. L'espace ouvert n'est plus un soulagement mais une vulnérabilité."
+      }
+    ],
+    "notesEditoriales": [
+      "La clairière concentre l'espace — tout ce qui s'y passe est plus visible, plus exposé. Idéal pour les scènes qui ne peuvent pas rester dans l'ombre.",
+      "Sa découverte accidentelle est un dispositif narratif puissant : on n'y va pas, on y arrive."
+    ]
+  },
+  {
+    "id": "sous-bois",
+    "label": "Sous-bois",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "troncs serrés qui barrent la lumière",
+      "racines qui soulèvent le sol comme des veines",
+      "mousse verte sur les pierres et les bois morts",
+      "feuilles mortes accumulées sur plusieurs années",
+      "champignons à la base des troncs",
+      "lumière filtrée, verdâtre et changeante",
+      "branches basses qui obligent à baisser la tête"
+    ],
+    "bruits": [
+      "craquements des feuilles mortes à chaque pas",
+      "oiseaux en cime, rares au sol",
+      "bruit sourd et feutré — le son ne porte pas",
+      "vent presque absent, arrêté par les arbres"
+    ],
+    "odeurs": [
+      "humus fort — terre, décomposition, vie souterraine",
+      "bois mort et champignons",
+      "résine si pins ou sapins présents"
+    ],
+    "textures": [
+      "sol élastique sur les couches de feuilles",
+      "mousse humide et froide sous la paume",
+      "écorce rugueuse et feuilletée"
+    ],
+    "emotionsTypiques": [
+      "isolement progressif du monde extérieur",
+      "concentration involontaire — trop d'informations sensorielles",
+      "sentiment d'être surveillé sans raison vérifiable"
+    ],
+    "usagesNarratifs": [
+      "poursuite ou fuite dans un espace difficile",
+      "moment de désorientation ou de perte",
+      "cachette ou lieu de rendez-vous clandestin",
+      "transition vers un autre état intérieur du personnage"
+    ],
+    "tensionsTypiques": [
+      "orientation difficile — tous les arbres se ressemblent",
+      "sol instable — racines, trous, feuilles qui glissent",
+      "présence animale — sanglier, chevreuil — qui peut surprendre"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Promeneur habituel",
+        "description": "Il a ses repères — un arbre particulier, une pierre, un croisement. Le sous-bois lui est familier. Il entend les différences, pas les ressemblances."
+      },
+      {
+        "profil": "Personnage paniqué",
+        "description": "Tous les arbres sont identiques. Le sol trahi à chaque pas. Il n'entend plus que le bruit de ses propres pieds. L'orientation devient impossible."
+      },
+      {
+        "profil": "Chasseur ou forestier",
+        "description": "Il lit le sol, les traces, les directions du vent. Le sous-bois est un livre ouvert pour lui. Il se déplace sans bruit, ce qui effraie ceux qui ne l'entendent pas venir."
+      }
+    ],
+    "notesEditoriales": [
+      "Le sous-bois ralentit le rythme narratif physiquement — on ne peut pas courir, on trébuche, on perd le fil. À exploiter pour les scènes d'errance ou de poursuite.",
+      "L'obscurité relative du sous-bois en plein jour est un effet très particulier — une lumière qui n'éclaire rien vraiment."
+    ]
+  },
+  {
+    "id": "berge-de-canal",
+    "label": "Berge de canal",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "eau parfaitement immobile entre deux berges droites",
+      "chemin de halage en gravier ou en terre",
+      "platanes ou peupliers alignés côté chemin",
+      "écluse au loin avec sa maison éclusière",
+      "péniche amarrée, rideaux aux hublots",
+      "reflet parfait inversé sur l'eau calme",
+      "herbes hautes sur la berge opposée non entretenue"
+    ],
+    "bruits": [
+      "silence inhabituel — l'eau du canal ne fait aucun bruit",
+      "moteur d'une péniche qui approche au loin",
+      "vent dans les peupliers — son très particulier, feuillu",
+      "clapotis quand le passage d'un bateau crée des vagues"
+    ],
+    "odeurs": [
+      "eau dormante, légèrement algueuse",
+      "huile et gasoil autour des péniches",
+      "herbe coupée en saison"
+    ],
+    "textures": [
+      "gravier du chemin de halage sous les pieds",
+      "bois des écluses — mouillé et glissant",
+      "eau du canal froide même en été"
+    ],
+    "emotionsTypiques": [
+      "lenteur imposée, ralentissement intérieur",
+      "mélancolie tranquille d'un monde qui disparaît",
+      "sentiment de ligne — on avance, on ne s'arrête pas"
+    ],
+    "usagesNarratifs": [
+      "voyage lent — espace de transition et de réflexion",
+      "promenade entre deux personnages qui doivent parler",
+      "vie flottante sur les péniches — univers à part",
+      "contrebande ou passage discret"
+    ],
+    "tensionsTypiques": [
+      "noyade silencieuse — l'eau paraît inoffensive",
+      "isolement des berges certains tronçons",
+      "écluses — mécanisme dangereux si mal manipulé"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Batelier ou habitant de péniche",
+        "description": "Le canal est une route. Il lit le niveau d'eau, l'état des écluses, la météo à venir. La beauté du lieu est un fond permanent qu'il ne remarque plus."
+      },
+      {
+        "profil": "Promeneur du dimanche",
+        "description": "Le chemin de halage est une parenthèse. Il marche sans but, regarde les reflets, s'arrête devant les péniches. Le canal lui appartient le temps d'un après-midi."
+      },
+      {
+        "profil": "Personnage déprimé",
+        "description": "L'eau plate et sans courant dit quelque chose de son état. Il longe la berge sans s'arrêter, sans but, attentif au reflet déformé de son propre passage."
+      }
+    ],
+    "notesEditoriales": [
+      "Le canal impose la ligne droite — narrativement, il avance. Difficile de s'y perdre, facile de s'y retrouver seul.",
+      "La péniche amarrée est un raccourci narratif : vie close, monde flottant, espace de l'entre-deux permanent."
+    ]
+  },
+  {
+    "id": "source",
+    "label": "Source en campagne",
+    "type": "rural-nature",
+    "dominanteSensorielle": "sonore-tactile",
+    "elements": [
+      "filet d'eau qui sort de terre ou d'une fissure rocheuse",
+      "auget de pierre ou de bois pour recueillir l'eau",
+      "sol spongieux et foncé autour de la sortie d'eau",
+      "herbes particulières qui poussent autour — cresson, menthe",
+      "mousse épaisse sur les pierres proches",
+      "ombre des arbres maintenant une fraîcheur permanente",
+      "petite croix ou oratoire dans certaines sources anciennes"
+    ],
+    "bruits": [
+      "filet d'eau — son très fin, presque inaudible",
+      "grenouilles si bassin suffisant",
+      "insectes aquatiques sur la surface",
+      "silence relatif dans la végétation qui entoure"
+    ],
+    "odeurs": [
+      "eau très pure, sans odeur notable",
+      "menthe sauvage et cresson autour",
+      "fraîcheur minérale"
+    ],
+    "textures": [
+      "eau glacée même en été",
+      "mousse humide sur les pierres",
+      "boue noire autour du point de sortie"
+    ],
+    "emotionsTypiques": [
+      "impression d'avoir trouvé quelque chose de précieux",
+      "recueillement — les sources ont une aura sacrée dans beaucoup de cultures",
+      "soulagement physique de la fraîcheur"
+    ],
+    "usagesNarratifs": [
+      "point de repère géographique dans un paysage",
+      "lieu de repos ou de cache pour un personnage en route",
+      "découverte qui marque un tournant dans un déplacement",
+      "lieu chargé de croyances locales ou de superstitions"
+    ],
+    "tensionsTypiques": [
+      "eau potable ou polluée en amont — incertitude",
+      "lieu difficile à trouver si on ne le connaît pas",
+      "isolement total, loin de tout secours"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant ancien",
+        "description": "Il a toujours su où elle était. Il y vient avec des bouteilles parfois, par habitude plus que par nécessité. C'est un repère de son territoire."
+      },
+      {
+        "profil": "Randonneur perdu",
+        "description": "Trouver la source est une victoire. L'eau est froide et réelle. Il boit, se repose, reprend ses esprits. Le lieu reprend une valeur qu'il n'aurait pas eue autrement."
+      },
+      {
+        "profil": "Enfant",
+        "description": "La source est magique — l'eau sort de la terre, c'est impossible et pourtant vrai. Il s'en approche à genoux pour la regarder de près."
+      }
+    ],
+    "notesEditoriales": [
+      "Les sources ont une charge symbolique ancienne — naissance, origine, vie cachée. À utiliser avec mesure pour ne pas surcharger.",
+      "Détail concret utile : l'eau de source est froide même en canicule, ce qui la rend physiquement mémorable pour un personnage qui y arrive épuisé."
+    ]
+  },
+  {
+    "id": "cascade-rurale",
+    "label": "Cascade rurale",
+    "type": "rural-nature",
+    "dominanteSensorielle": "sonore-tactile",
+    "elements": [
+      "chute d'eau sur des rochers couverts de mousse",
+      "brume permanente dans l'espace autour de la chute",
+      "bassin creusé dans la roche en bas",
+      "végétation plus dense et plus verte autour",
+      "rochers polis et glissants dans et autour du bassin",
+      "écume blanche et turbulente à l'impact",
+      "lumière changeante à travers les embruns"
+    ],
+    "bruits": [
+      "bruit continu qui couvre toute conversation à moins d'un mètre",
+      "grondement plus sourd en crue",
+      "clapotis du bassin en contraste avec la chute",
+      "oiseaux inaudibles à proximité immédiate"
+    ],
+    "odeurs": [
+      "air saturé d'humidité, propre",
+      "mousse et pierre mouillée",
+      "absence d'odeur animale — l'eau chasse tout"
+    ],
+    "textures": [
+      "brume froide sur le visage en approchant",
+      "rochers parfaitement glissants",
+      "eau turbulente et froide"
+    ],
+    "emotionsTypiques": [
+      "fascination — le bruit et le mouvement captent l'attention",
+      "sentiment d'insignifiance positive face à la force de l'eau",
+      "énergie et vivacité que le mouvement communique"
+    ],
+    "usagesNarratifs": [
+      "conversation impossible — le bruit oblige à se taire",
+      "scène d'aventure ou de risque physique",
+      "lieu de baignade sauvage — nudité, intimité, liberté",
+      "point de repère ou destination d'une randonnée"
+    ],
+    "tensionsTypiques": [
+      "glissance extrême des rochers — chute probable",
+      "courant violent sous la surface du bassin",
+      "bruit qui rend toute communication difficile et isole"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Local qui y vient depuis l'enfance",
+        "description": "Il connaît les rochers à éviter, l'endroit où le courant du bassin est dangereux, la saison où le niveau monte. La beauté lui est transparente — ce qui reste, c'est la connaissance."
+      },
+      {
+        "profil": "Premier visiteur",
+        "description": "L'impact sonore et visuel est immédiat. Il s'arrête plus tôt qu'il ne le prévoyait, regardant depuis le bord, intimidé par la force du lieu."
+      },
+      {
+        "profil": "Personnage en colère ou en deuil",
+        "description": "Le bruit couvre tout — ses propres pensées, les mots qu'il ne peut pas dire. Il crie face à la chute. Personne n'entend. C'est l'effet recherché."
+      }
+    ],
+    "notesEditoriales": [
+      "Le bruit de la cascade est un dispositif narratif en soi : il isole les personnages, rend les mots impossibles, oblige au silence ou au geste.",
+      "Attention au cliché de la cascade pittoresque — une cascade en crue, boueuse et grondante, est souvent plus narrativement utile."
+    ]
+  },
+  {
+    "id": "brume-matinale-sur-champs",
+    "label": "Brume matinale sur les champs",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "nappe de brume blanche à hauteur de genoux ou de taille",
+      "cimes des herbes ou des blés qui émergent au-dessus",
+      "arbres réduits à des silhouettes noires au loin",
+      "lumière rasante du soleil levant qui colore la brume",
+      "rosée en gouttelettes sur chaque brin d'herbe",
+      "paysage familier rendu méconnaissable",
+      "visibilité réduite à quelques dizaines de mètres"
+    ],
+    "bruits": [
+      "silence particulier que la brume semble épaissir",
+      "oiseaux qui commencent — pinsons, merles en premier",
+      "pas qui semblent plus feutrés, plus lointains",
+      "bruit de la rosée qui tombe des feuilles"
+    ],
+    "odeurs": [
+      "air humide et froid, presque sans odeur",
+      "terre et herbe détrempées",
+      "fumée de cheminée lointaine si vent faible"
+    ],
+    "textures": [
+      "humidité froide sur le visage et les mains",
+      "herbe mouillée qui trempe les pieds",
+      "vêtements légèrement humides après quelques minutes"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'être seul au monde dans un sens bienfaisant",
+      "légère désorientation — le paysage connu devient étrange",
+      "paix particulière des commencements — le jour n'a pas encore commencé"
+    ],
+    "usagesNarratifs": [
+      "début de journée chargé de possibilités ou d'inquiétude",
+      "déplacement secret ou clandestin favorisé par la visibilité réduite",
+      "moment de révélation — quelque chose ou quelqu'un émerge de la brume",
+      "transition entre deux états du récit"
+    ],
+    "tensionsTypiques": [
+      "visibilité réduite — on ne voit pas ce qui approche",
+      "déplacement dangereux sur des routes non visibles",
+      "brume qui disparaît d'un coup avec le soleil — fin de l'abri"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur",
+        "description": "La brume matinale dit des choses sur la météo de la journée. Il l'évalue rapidement et passe à autre chose. La beauté est un fond de décor vu des centaines de fois."
+      },
+      {
+        "profil": "Personnage insomniaque",
+        "description": "Il est debout depuis des heures. La brume arrive lentement, transforme ce qu'il croyait connaître. Elle rend le monde aussi instable que son propre état."
+      },
+      {
+        "profil": "Chasseur à l'affût",
+        "description": "La brume est un allié et un handicap. Elle masque ses mouvements mais réduit sa portée. Il attend qu'elle se lève pour agir."
+      }
+    ],
+    "notesEditoriales": [
+      "La brume matinale a une durée — elle disparaît avec le soleil. Narrativement, elle crée une fenêtre temporelle limitée.",
+      "Éviter la brume comme simple atmosphère mystérieuse : son intérêt tient à sa temporalité et à ce qu'elle cache ou révèle."
+    ]
+  }
+]

@@ -1,0 +1,834 @@
+[
+  {
+    "id": "desespoir",
+    "label": "Désespoir",
+    "famille": "desespoir-resignation",
+    "definitionCourte": "Conviction profonde que la situation ne changera pas, que l'effort est vain et que l'avenir a perdu toute substance. Différent de la tristesse par l'absence de larmes : le désespoir n'espère plus assez pour pleurer.",
+    "signesPhysiques": [
+      "regard vide ou fixé dans le vide",
+      "immobilité prolongée",
+      "épaules complètement abandonnées",
+      "visage sans expression, comme absent",
+      "gestes très lents si le personnage en fait encore",
+      "tête inclinée vers le bas",
+      "sourcils légèrement relevés au centre — expression de résignation",
+      "mains inertes sur les genoux ou le long du corps"
+    ],
+    "sensationsInternes": [
+      "vide profond là où l'espoir était",
+      "fatigue qui n'est pas physique",
+      "impression que le temps n'a plus de sens",
+      "absence de douleur vive — juste une anesthésie grise",
+      "sentiment que rien ne vaut la peine d'être entrepris",
+      "lourdeur qui ne cède pas même au repos",
+      "solitude absolue même entouré"
+    ],
+    "pensees": [
+      "À quoi bon.",
+      "Ça ne changera jamais.",
+      "J'ai tout essayé.",
+      "Je ne vois pas l'issue.",
+      "Ce n'est même plus la peine d'y penser.",
+      "Je suis fatigué d'essayer.",
+      "Il n'y a plus rien à attendre."
+    ],
+    "effetsVoixLangage": [
+      "voix très basse, presque inaudible",
+      "ton monocorde sans inflexion",
+      "phrases très courtes ou absence totale de parole",
+      "réponses minimales par automatisme",
+      "discours rare et sans élan"
+    ],
+    "comportements": [
+      "reste immobile très longtemps",
+      "ne prend plus l'initiative de rien",
+      "répond à peine aux sollicitations",
+      "abandonne les projets commencés sans les finir",
+      "ne mange pas ou mange mécaniquement",
+      "reste au lit ou dans le même endroit sans raison apparente",
+      "ne cherche plus à être compris"
+    ],
+    "masquesPossibles": [
+      "fonctionnement automatique et poli",
+      "humour noir très distant",
+      "calme apparent qui peut être pris pour de la sagesse",
+      "sourire furtif et sans fond"
+    ],
+    "evolutionsPossibles": [
+      "résignation stabilisée si le désespoir ne trouve pas d'issue",
+      "retour fragile de l'espoir par un geste ou une présence inattendue",
+      "effondrement si quelqu'un tente de forcer la connexion",
+      "colère tardive si la torpeur se réveille",
+      "passage à l'acte si le désespoir est trop long sans soulagement"
+    ],
+    "contextesAggravants": [
+      "isolement prolongé",
+      "tentatives d'aide maladroites qui renforcent la conviction d'être incompris",
+      "répétition d'un échec déjà vécu",
+      "perte de la dernière personne de confiance"
+    ],
+    "contextesAttenuants": [
+      "présence silencieuse sans attente",
+      "geste concret plutôt que mots",
+      "changement d'environnement physique inattendu",
+      "retour d'un sens pratique — une petite tâche à accomplir"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Découragement", "description": "Doute sur l'issue mais encore de l'énergie. Le personnage cherche encore." },
+      { "niveau": 2, "label": "Abattement", "description": "L'élan s'est affaibli. Le personnage fait moins, parle moins." },
+      { "niveau": 3, "label": "Désespoir installé", "description": "L'espoir semble inaccessible. Fonctionnement minimal." },
+      { "niveau": 4, "label": "Désespoir profond", "description": "Le personnage a cessé d'essayer. Il attend sans savoir quoi." },
+      { "niveau": 5, "label": "Désespoir absolu", "description": "Plus de raison d'agir, de parler ou de résister. Danger possible." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage combatif",
+        "description": "Il résiste longtemps avant d'y arriver — le désespoir le surprend lui-même. Il le traduit en colère ou en sarcasme, parce qu'accepter la passivité lui est insupportable."
+      },
+      {
+        "profil": "Adolescent",
+        "description": "Le désespoir est vécu comme définitif et universel. Il ne voit pas qu'il s'en sortira — pour lui, ce moment est tout ce qu'il y a. La durée l'effraie comme s'il ne pouvait pas finir."
+      },
+      {
+        "profil": "Personne âgée",
+        "description": "Il est souvent calme, presque serein. La résignation a eu le temps de se poser. Ce n'est pas une explosion — c'est une extinction progressive, acceptée."
+      },
+      {
+        "profil": "Soignant épuisé",
+        "description": "Le désespoir vient de l'impuissance à sauver, à aider, à changer quelque chose. Il se mêle à la culpabilité et se cache derrière un professionnalisme de surface."
+      }
+    ],
+    "notesEditoriales": [
+      "Le désespoir est plus silencieux que la tristesse — moins de larmes, plus d'immobilité.",
+      "Éviter de le réduire à la dépression clinique : c'est une émotion narrative, pas un diagnostic.",
+      "Il devient puissant quand quelqu'un essaie d'y entrer et que le personnage ne réagit pas."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "deuil" },
+      { "type": "peut_suivre", "cible": "epuisement-moral" },
+      { "type": "peut_masquer", "cible": "colere" },
+      { "type": "souvent_associe_a", "cible": "immobilite" },
+      { "type": "peut_evoluer_en", "cible": "resignation" },
+      { "type": "peut_evoluer_en", "cible": "retour-fragile-espoir" }
+    ]
+  },
+  {
+    "id": "resignation",
+    "label": "Résignation",
+    "famille": "desespoir-resignation",
+    "definitionCourte": "Acceptation sans joie d'une situation que le personnage juge impossible à changer. La résignation ne désespère plus — elle a déposé les armes et appris à vivre avec.",
+    "signesPhysiques": [
+      "soupir profond et sans urgence",
+      "épaules qui tombent légèrement",
+      "regard qui s'abaisse brièvement puis revient",
+      "léger hochement de tête",
+      "lèvres serrées puis qui se relâchent",
+      "gestes mesurés et économes",
+      "posture posée, sans tension — mais sans élan non plus"
+    ],
+    "sensationsInternes": [
+      "apaisement amer — plus de combat intérieur",
+      "vide stable, moins douloureux que le désespoir",
+      "sentiment d'avoir accepté quelque chose de lourd",
+      "légère fatigue de fond sans pic",
+      "impression que certaines portes sont définitivement fermées",
+      "calme qui n'est pas la paix"
+    ],
+    "pensees": [
+      "C'est ainsi.",
+      "Je n'y peux rien.",
+      "J'ai fait ce que j'ai pu.",
+      "Il faut bien continuer.",
+      "Ce n'est pas ce que j'aurais voulu.",
+      "Je n'attends plus rien de particulier.",
+      "Autant accepter."
+    ],
+    "effetsVoixLangage": [
+      "ton posé, légèrement plat",
+      "formulations courtes et finales",
+      "peu de questions — le personnage n'espère plus de réponse",
+      "voix sans agressivité ni enthousiasme",
+      "acquiescements fréquents"
+    ],
+    "comportements": [
+      "accepte sans protester",
+      "ne cherche plus à convaincre",
+      "range, organise, met de l'ordre",
+      "dit au revoir avec une sérénité qui trouble les autres",
+      "fait ce qui est demandé sans plus",
+      "ne projette plus dans l'avenir lointain"
+    ],
+    "masquesPossibles": [
+      "sagesse apparente",
+      "stoïcisme de façade",
+      "humour doux mais qui désarme",
+      "sérénité qui peut être confondue avec la guérison"
+    ],
+    "evolutionsPossibles": [
+      "paix véritable si la résignation est traitée",
+      "effondrement si quelqu'un rouvre ce qui a été accepté",
+      "révolte tardive si la résignation était prématurée",
+      "détachement croissant si rien ne change"
+    ],
+    "contextesAggravants": [
+      "voir que d'autres n'ont pas renoncé",
+      "être félicité pour sa sagesse alors qu'on souffre",
+      "devoir expliquer pourquoi on n'essaie plus"
+    ],
+    "contextesAttenuants": [
+      "reconnaissance silencieuse de ce qui a été perdu",
+      "permission d'être triste sans devoir se battre",
+      "petite victoire dans un domaine différent"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Lâcher-prise sain", "description": "Le personnage accepte ce qu'il ne peut pas changer. Soulagement possible." },
+      { "niveau": 2, "label": "Résignation légère", "description": "Il abandonne un espoir particulier mais continue normalement." },
+      { "niveau": 3, "label": "Résignation installée", "description": "Il ne combat plus. La vie continue mais sans investissement." },
+      { "niveau": 4, "label": "Résignation profonde", "description": "Il a renoncé à plusieurs domaines. Le retrait est visible." },
+      { "niveau": 5, "label": "Résignation totale", "description": "Il a renoncé à lui-même. Fonctionnement minimum. Voisinage du désespoir." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage guerrier",
+        "description": "La résignation lui est insupportable — il la vit comme une défaite et peut basculer dans la colère ou dans le silence fermé plutôt que de l'admettre."
+      },
+      {
+        "profil": "Personne ayant beaucoup vécu",
+        "description": "La résignation est douce et presque philosophique. Elle est accompagnée d'une tendresse pour ce qui est malgré tout."
+      },
+      {
+        "profil": "Jeune adulte",
+        "description": "Il vit la résignation comme une vieillesse prématurée. Il en a honte et peut la cacher derrière du cynisme ou de l'ironie."
+      }
+    ],
+    "notesEditoriales": [
+      "La résignation est différente de la paix : l'une a renoncé, l'autre a trouvé.",
+      "Elle peut être positive (lâcher-prise nécessaire) ou tragique — la même posture, des interprétations opposées.",
+      "Un personnage résigné face à un personnage qui lutte encore crée une tension narrative forte."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "desespoir" },
+      { "type": "peut_masquer", "cible": "tristesse" },
+      { "type": "souvent_associe_a", "cible": "soupir-profond" },
+      { "type": "peut_evoluer_en", "cible": "paix" },
+      { "type": "peut_evoluer_en", "cible": "retrait" }
+    ]
+  },
+  {
+    "id": "amertume",
+    "label": "Amertume",
+    "famille": "desespoir-resignation",
+    "definitionCourte": "Douleur stabilisée née d'une injustice perçue, d'une déception non résolue ou d'une attente longtemps nourrie et jamais exaucée. L'amertume est une tristesse qui a tourné — elle n'espère plus mais elle n'oublie pas.",
+    "signesPhysiques": [
+      "légère crispation autour de la bouche, lèvres souvent serrées",
+      "regard indirect, qui observe sans se livrer",
+      "sourire rare et légèrement ironique quand il vient",
+      "ton qui se durcit légèrement sur certains sujets",
+      "épaules légèrement rentrées comme en attente d'un nouveau coup",
+      "gestes économes et contenus",
+      "silence quand les autres évoquent des sujets liés à la blessure initiale"
+    ],
+    "sensationsInternes": [
+      "goût persistant de quelque chose d'âcre dans la pensée",
+      "impression que quelque chose d'injuste s'est passé et n'a jamais été réparé",
+      "mélange de tristesse et de colère stabilisées",
+      "résistance intérieure à la joie — comme si elle était suspecte",
+      "conscience aiguë des injustices qui lui semblaient invisibles avant",
+      "douleur ancienne qui ne fait plus autant mal mais qui reste"
+    ],
+    "pensees": [
+      "Ça ne m'étonne plus.",
+      "J'aurais dû m'y attendre.",
+      "Ce que j'ai vécu ne méritait pas ça.",
+      "Les autres n'ont pas eu à traverser ce que j'ai traversé.",
+      "Personne ne m'a donné ce que j'aurais dû avoir.",
+      "La vie a été moins généreuse avec moi qu'avec d'autres.",
+      "Même si ça changeait maintenant, ce serait trop tard."
+    ],
+    "effetsVoixLangage": [
+      "ironie légère qui filtre dans les commentaires",
+      "scepticisme systématique sur les bonnes intentions",
+      "formulations souvent négatives ou restrictives",
+      "tendance à pointer les failles de ce qui est présenté comme bien",
+      "ton plus sec sur les sujets liés à l'injustice vécue"
+    ],
+    "comportements": [
+      "minimise les motifs d'espoir des autres",
+      "ramène les conversations vers des exemples de déception ou d'injustice",
+      "refuse certaines aides ou opportunités par principe",
+      "garde une distance affective avec ceux qui ont eu plus de chance",
+      "peut pointer les échecs des autres avec un plaisir discret",
+      "évite les situations qui risquent de le décevoir à nouveau"
+    ],
+    "masquesPossibles": [
+      "lucidité présentée comme du réalisme",
+      "cynisme présenté comme de la sagesse acquise",
+      "humour noir pour désamorcer la douleur",
+      "bienveillance de surface qui cache le retrait"
+    ],
+    "evolutionsPossibles": [
+      "paix si l'injustice est enfin reconnue ou réparée",
+      "durcissement vers la rancœur si rien ne change",
+      "ouverture si quelque chose de nouveau désamorce la conviction",
+      "épuisement si l'amertume demande trop d'énergie à entretenir"
+    ],
+    "contextesAggravants": [
+      "voir ceux qui ont eu plus de chance réussir encore davantage",
+      "nouvel échec après avoir tout misé sur une dernière tentative",
+      "être ignoré ou minimisé dans sa souffrance",
+      "comparaison injuste entre soi et d'autres dans une situation similaire"
+    ],
+    "contextesAttenuants": [
+      "reconnaissance sincère de l'injustice par quelqu'un en qui on a confiance",
+      "réparation concrète — même partielle",
+      "rencontre avec quelqu'un qui a traversé pire et qui n'est pas amer",
+      "succès qui démontre que l'effort avait une valeur"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère pointe d'amertume", "description": "Un souvenir laisse un arrière-goût désagréable. Le personnage passe." },
+      { "niveau": 2, "label": "Amertume sensible", "description": "Elle filtre les jugements sur certains sujets. Le personnage est moins ouvert qu'il ne le croit." },
+      { "niveau": 3, "label": "Amertume installée", "description": "Elle colore la relation au monde. Le personnage a du mal à croire à la générosité." },
+      { "niveau": 4, "label": "Amertume profonde", "description": "Elle structure les décisions. Le personnage s'interdit certains espoirs pour ne pas être déçu." },
+      { "niveau": 5, "label": "Rancœur durable", "description": "L'amertume est devenue une conviction. Elle isole le personnage de tout ce qui pourrait le démentir." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage ayant connu une injustice réelle",
+        "description": "L'amertume est fondée et lucide. Ce n'est pas de la projection — il a vraiment été lésé. Ce qui en fait un personnage difficile à contredire et difficile à aider."
+      },
+      {
+        "profil": "Personnage dont l'attente était irréaliste",
+        "description": "L'amertume vient d'un écart entre ce qui était attendu et ce qui était raisonnable d'attendre. Il n'a pas été lésé — mais il se perçoit comme tel, ce qui est tout aussi réel pour lui."
+      },
+      {
+        "profil": "Personnage vieillissant",
+        "description": "L'amertume porte sur une vie entière — les choses qu'il n'a pas eues, les portes qui ne se sont pas ouvertes. Elle peut coexister avec une tendresse réelle pour ceux qu'il aime."
+      }
+    ],
+    "notesEditoriales": [
+      "L'amertume n'est pas la colère : elle ne cherche plus à changer quoi que ce soit, elle a renoncé à ça.",
+      "Elle crée des personnages difficiles à aimer mais faciles à comprendre si leur histoire est bien tracée.",
+      "Distinguer de la rancœur (plus active, plus tournée vers quelqu'un de précis) et du cynisme (plus général).",
+      "Un personnage amer peut avoir raison — et c'est ça qui rend la résolution plus difficile."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "deception" },
+      { "type": "peut_evoluer_en", "cible": "rancoeur" },
+      { "type": "souvent_associe_a", "cible": "cynisme" },
+      { "type": "peut_masquer", "cible": "tristesse" },
+      { "type": "peut_declencher", "cible": "retrait-social" }
+    ]
+  },
+  {
+    "id": "vide-interieur",
+    "label": "Vide intérieur",
+    "famille": "desespoir-resignation",
+    "definitionCourte": "Absence de ressenti — ni douleur, ni joie, ni désir. Le vide n'est pas la paix mais l'extinction temporaire de ce qui animait le personnage.",
+    "signesPhysiques": [
+      "regard fixe sur rien",
+      "absence de réaction aux stimuli émotionnels",
+      "gestes mécaniques et précis mais sans affect",
+      "visage neutre, presque poli",
+      "posture normale mais sans vie dedans",
+      "sourire possible mais qui ne monte pas aux yeux"
+    ],
+    "sensationsInternes": [
+      "absence totale de sensation intérieure",
+      "impression d'être creux",
+      "rien n'appelle l'action",
+      "les souvenirs ne font plus ni plaisir ni mal",
+      "présent sans passé ni avenir ressentis",
+      "silence intérieur total — ni confortable ni inconfortable"
+    ],
+    "pensees": [
+      "Je ne ressens rien.",
+      "Je devrais être touché par ça.",
+      "Je n'ai pas envie de ça mais je n'ai pas envie d'autre chose non plus.",
+      "Pourquoi est-ce que rien ne m'atteint ?",
+      "C'est étrange d'être là sans rien ressentir.",
+      "Je ne sais pas ce que je veux.",
+      "Je voudrais ressentir quelque chose."
+    ],
+    "effetsVoixLangage": [
+      "voix neutre et fonctionnelle",
+      "réponses correctes mais sans chaleur",
+      "peu d'initiation de conversation",
+      "aucune opinion spontanée",
+      "acquiescement poli à tout"
+    ],
+    "comportements": [
+      "fait ce qui est attendu sans investissement",
+      "ne cherche pas à être seul ni à être entouré",
+      "mange, dort, travaille mécaniquement",
+      "ne prend aucune initiative",
+      "répond à tout par un mince sourire ou un haussement d'épaules",
+      "ne cherche pas de plaisir ni ne fuit la douleur"
+    ],
+    "masquesPossibles": [
+      "calme parfait",
+      "neutralité qui impressionne",
+      "fonctionnement irréprochable",
+      "sérénité de surface"
+    ],
+    "evolutionsPossibles": [
+      "retour brutal du ressenti — souvent douloureux",
+      "approfondissement vers la dissociation",
+      "désir retrouvé par une sensation physique intense",
+      "colère soudaine si quelque chose finit par percer"
+    ],
+    "contextesAggravants": [
+      "entourage qui ne voit pas le problème parce que le personnage 'va bien'",
+      "absence prolongée de stimulation émotionnelle",
+      "être forcé à exprimer ce qu'on ne ressent pas"
+    ],
+    "contextesAttenuants": [
+      "sensation physique forte et inattendue",
+      "contact sincère et sans attente",
+      "musique ou œuvre qui crée une fissure"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère absence", "description": "Le personnage remarque qu'il n'est pas touché là où il devrait l'être." },
+      { "niveau": 2, "label": "Désengagement émotionnel", "description": "Il participe mais ne ressent pas vraiment." },
+      { "niveau": 3, "label": "Vide installé", "description": "Aucune émotion spontanée. Il simule sans s'en rendre compte." },
+      { "niveau": 4, "label": "Vide profond", "description": "Il commence à se demander s'il ressentira encore un jour." },
+      { "niveau": 5, "label": "Anesthésie totale", "description": "Plus rien ne l'atteint. Fonctionnement fantomatique." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage introspectif",
+        "description": "Il nomme le vide avec précision et s'en effraie. Il cherche activement à le combler, parfois de façon dangereuse."
+      },
+      {
+        "profil": "Personnage d'action",
+        "description": "Il ne le nomme pas. Il multiplie les activités pour ne pas y faire face. Le vide se révèle dans les moments d'arrêt."
+      },
+      {
+        "profil": "Adolescent",
+        "description": "Il confond le vide avec de l'ennui ou de la nullité. Il peut le vivre comme une honte — une preuve qu'il est moins vivant que les autres."
+      }
+    ],
+    "notesEditoriales": [
+      "Le vide intérieur est plus difficile à écrire que la douleur : il faut montrer l'absence.",
+      "Il peut être confondu avec la sérénité par l'entourage — ce qui l'aggrave.",
+      "Le moment où quelque chose finit par percer le vide est souvent l'un des plus forts de l'arc d'un personnage."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "epuisement-moral" },
+      { "type": "peut_suivre", "cible": "deuil" },
+      { "type": "peut_masquer", "cible": "desespoir" },
+      { "type": "souvent_associe_a", "cible": "silence" },
+      { "type": "peut_evoluer_en", "cible": "colere-soudaine" }
+    ]
+  },
+  {
+    "id": "deuil-aigu",
+    "label": "Deuil aigu",
+    "famille": "desespoir-resignation",
+    "definitionCourte": "État de détresse immédiate qui suit une perte — mort, rupture, fin de quelque chose — et qui désorganise tout : le corps, la pensée et le sens du temps.",
+    "signesPhysiques": [
+      "larmes qui viennent par vagues sans prévenir",
+      "corps qui se plie vers l'intérieur",
+      "respiration entrecoupée de sanglots",
+      "visage rouge et gonflé",
+      "mains qui cherchent quelque chose à tenir",
+      "pâleur ou yeux extrêmement cernés",
+      "posture effondrée"
+    ],
+    "sensationsInternes": [
+      "douleur physique dans la poitrine — le deuil fait mal comme une blessure",
+      "creux dans l'estomac",
+      "sensation que quelque chose d'essentiel a été arraché",
+      "vagues alternant entre chagrin et absence de sensation",
+      "fatigue absolue après les pleurs",
+      "impression que le temps s'est disloqué",
+      "confusion entre passé et présent"
+    ],
+    "pensees": [
+      "Ce n'est pas possible.",
+      "Je ne comprends pas encore vraiment.",
+      "Comment je vais faire maintenant ?",
+      "J'aurais dû dire autre chose.",
+      "Pourquoi maintenant ?",
+      "Je n'y crois pas encore.",
+      "Je vais me réveiller."
+    ],
+    "effetsVoixLangage": [
+      "voix brisée",
+      "silences longs entrecoupés de mots",
+      "ton très bas",
+      "phrases inachevées",
+      "répétitions sans s'en rendre compte"
+    ],
+    "comportements": [
+      "s'isole ou au contraire cherche une présence sans savoir laquelle",
+      "pleure de façon inattendue et imprévisible",
+      "se tient immobile pendant de longues périodes",
+      "touche les objets appartenant à ce qui est perdu",
+      "mange peu ou pas",
+      "perd le fil de ses journées"
+    ],
+    "masquesPossibles": [
+      "organisation pratique et efficace pour éviter de sentir",
+      "humour inattendu — réaction de défense",
+      "colère dirigée vers quelqu'un d'autre",
+      "activité frénétique"
+    ],
+    "evolutionsPossibles": [
+      "deuil progressif avec intégration de la perte",
+      "blocage si le deuil est nié ou interrompu",
+      "résignation une fois les vagues épuisées",
+      "nostalgie douce à long terme",
+      "désespoir si le deuil est sans soutien"
+    ],
+    "contextesAggravants": [
+      "devoir continuer à fonctionner normalement",
+      "perte soudaine sans préparation",
+      "perte multiple",
+      "être seul sans pouvoir en parler"
+    ],
+    "contextesAttenuants": [
+      "présence physique sans attente",
+      "rituel de séparation",
+      "permission de pleurer sans consolation forcée",
+      "temps"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Tristesse de perte légère", "description": "Perte réelle mais supportable. Le personnage continue à fonctionner." },
+      { "niveau": 2, "label": "Deuil naissant", "description": "Larmes possibles. Le chagrin est présent mais pas encore envahissant." },
+      { "niveau": 3, "label": "Deuil installé", "description": "Le personnage est ralenti et distrait. Les vagues de chagrin sont fréquentes." },
+      { "niveau": 4, "label": "Deuil aigu", "description": "La perte envahit tout. Impossible de fonctionner normalement." },
+      { "niveau": 5, "label": "Effondrement de deuil", "description": "Le personnage ne peut plus se lever, manger, parler. Il est submergé." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui n'a jamais perdu",
+        "description": "La découverte de cette douleur le sidère. Il ne comprend pas ce qui se passe dans son corps. Il peut nier longtemps avant d'accepter."
+      },
+      {
+        "profil": "Personnage qui a déjà perdu",
+        "description": "Il reconnaît le processus mais ce n'est pas plus facile. La mémoire du premier deuil se superpose. Il sait que ça passera, ce qui ne l'empêche pas de souffrir."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Le deuil peut se manifester par de l'agressivité, du jeu frénétique ou des questions très concrètes plutôt que par des larmes. La compréhension de la mort est en construction."
+      }
+    ],
+    "notesEditoriales": [
+      "Le deuil aigu est souvent incohérent — alterner entre fonctionnement normal et effondrement soudain est crédible.",
+      "Éviter les larmes continues : le deuil passe aussi par des moments de rire, de faim, de vie banale.",
+      "La scène la plus puissante n'est parfois pas le moment de la perte mais celui où elle devient réelle."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "resignation" },
+      { "type": "peut_evoluer_en", "cible": "nostalgie" },
+      { "type": "peut_masquer", "cible": "colere" },
+      { "type": "souvent_associe_a", "cible": "pleurs" },
+      { "type": "peut_suivre", "cible": "choc" }
+    ]
+  },
+  {
+    "id": "atonie",
+    "label": "Atonie",
+    "famille": "desespoir-resignation",
+    "definitionCourte": "Aplatissement émotionnel durable dans lequel les émotions perdent leur relief sans disparaître complètement — ni tristesse profonde ni joie, mais une grisaille stable qui rend le monde terne et les relations superficielles.",
+    "signesPhysiques": [
+      "regard sans éclat, présent mais sans vie",
+      "gestes mécaniques et précis mais sans affect",
+      "visage neutre dans les situations qui demandent une réaction",
+      "posture stable et fonctionnelle mais sans énergie",
+      "voix monocorde même sur des sujets importants",
+      "sourire possible mais qui arrive légèrement en retard",
+      "absence de réaction au bruit ou au mouvement habituel"
+    ],
+    "sensationsInternes": [
+      "monde perçu comme filtré derrière une vitre grise",
+      "émotions présentes mais comme au loin, sans relief",
+      "absence de désir fort — ni d'envie ni de répulsion",
+      "fatigue légère de fond qui ne cède pas",
+      "impression que les choses se passent sans que cela le concerne vraiment",
+      "absence de la légèreté qui permet d'être touché"
+    ],
+    "pensees": [
+      "Je ne ressens rien de fort.",
+      "Ça devrait m'affecter davantage.",
+      "Je fonctionne mais quelque chose ne s'allume pas.",
+      "C'est bien — ou c'est mal — mais dans un sens lointain.",
+      "Je ne suis pas triste. Je ne suis pas heureux. Je suis là.",
+      "La vie continue et je suis à côté.",
+      "Je ne sais pas depuis quand c'est comme ça."
+    ],
+    "effetsVoixLangage": [
+      "ton plat sur les sujets qui devraient animer",
+      "réponses correctes mais légèrement en retard",
+      "peu d'inflexion même dans les récits importants",
+      "acquiescements fréquents sans engagement réel",
+      "absence d'enthousiasme dans les initiatives de parole"
+    ],
+    "comportements": [
+      "accomplit les tâches sans se plaindre mais sans investissement",
+      "dit oui à tout par défaut d'intérêt à l'inverse",
+      "ne cherche pas à être seul ni à être entouré",
+      "mange, dort, fonctionne — mais sans plaisir identifiable",
+      "répond aux sollicitations mais n'en prend pas",
+      "peut rater des signaux émotionnels importants autour de lui"
+    ],
+    "masquesPossibles": [
+      "calme parfait qui impressionne",
+      "sérénité que l'entourage prend pour de la sagesse",
+      "neutralité présentée comme du professionnalisme",
+      "fonctionnement irréprochable qui cache l'absence"
+    ],
+    "evolutionsPossibles": [
+      "retour du ressenti par un événement qui perce",
+      "approfondissement vers le vide existentiel",
+      "colère soudaine si quelque chose finit par traverser la vitre",
+      "acceptation progressive si l'atonie est reconnue comme temporaire"
+    ],
+    "contextesAggravants": [
+      "entourage qui ne voit pas le problème — le personnage va bien en apparence",
+      "absence prolongée de stimulation émotionnelle réelle",
+      "être forcé à exprimer des émotions que l'on ne ressent plus",
+      "vie très routinière sans variation"
+    ],
+    "contextesAttenuants": [
+      "sensation physique forte et inattendue",
+      "contact sincère et sans attente d'un proche",
+      "œuvre d'art ou musique qui crée une fissure dans le gris",
+      "événement inattendu qui réclame une vraie réponse"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère absence de relief", "description": "Le personnage fonctionne normalement mais remarque que les choses le touchent moins." },
+      { "niveau": 2, "label": "Atonie légère", "description": "Les émotions sont présentes mais amorties. Le personnage répond — avec un temps de retard." },
+      { "niveau": 3, "label": "Atonie installée", "description": "La grisaille est constante. Il fonctionne bien mais rien ne l'anime vraiment." },
+      { "niveau": 4, "label": "Atonie profonde", "description": "Le monde semble opaque. Le personnage attend que quelque chose le touche sans savoir quoi." },
+      { "niveau": 5, "label": "Aplatissement total", "description": "Plus rien ne fait de différence. L'atonie est devenue la texture de base de l'existence." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage introspectif",
+        "description": "Il nomme l'atonie et s'en effraie. Il cherche à la comprendre, à l'analyser — mais elle résiste à l'analyse parce qu'elle n'a pas de cause précise."
+      },
+      {
+        "profil": "Personnage d'action",
+        "description": "Il ne la voit pas. Il s'occupe, court, organise — tant qu'il agit, l'atonie ne se révèle pas. Elle émerge dans les temps morts, la nuit, ou en vacances."
+      },
+      {
+        "profil": "Personnage après une période intense",
+        "description": "L'atonie vient après la tempête — après le deuil, après le combat. Elle est le calme qui suit l'effort, mais un calme inquiétant parce qu'il est trop plat."
+      }
+    ],
+    "notesEditoriales": [
+      "L'atonie est difficile à écrire car elle ne crée pas de conflit visible — son intérêt est dans l'absence.",
+      "Elle se distingue du vide existentiel (qui interroge le sens) et de la dépression (qui a une couleur douloureuse).",
+      "Le moment où quelque chose perce enfin l'atonie est souvent un tournant narratif fort."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "epuisement-moral" },
+      { "type": "peut_suivre", "cible": "deuil-stabilise" },
+      { "type": "peut_evoluer_en", "cible": "vide-existentiel" },
+      { "type": "souvent_associe_a", "cible": "silence" },
+      { "type": "peut_evoluer_en", "cible": "colere-soudaine" }
+    ]
+  },
+  {
+    "id": "abattement",
+    "label": "Abattement",
+    "famille": "desespoir-resignation",
+    "definitionCourte": "État de prostration émotionnelle et physique qui suit un choc, un échec ou une accumulation de tensions, laissant le personnage sans ressource pour agir.",
+    "signesPhysiques": [
+      "corps qui s'affaisse dans ce sur quoi il repose",
+      "menton baissé",
+      "bras inertes",
+      "regard vers le bas ou vague",
+      "lenteur dans le moindre mouvement",
+      "visage sans tonicité",
+      "peu ou pas de contact visuel"
+    ],
+    "sensationsInternes": [
+      "lourdeur dans tout le corps",
+      "manque d'élan pour la plus petite action",
+      "impression d'être écrasé sans avoir été touché",
+      "fatigue qui précède chaque geste",
+      "chagrin qui n'est plus assez vif pour faire pleurer",
+      "absence d'envie ou d'aversion"
+    ],
+    "pensees": [
+      "Je n'ai plus envie de rien.",
+      "Je ne sais pas comment je vais me relever.",
+      "Même penser me fatigue.",
+      "À quoi ça sert.",
+      "Je ne vois pas la sortie.",
+      "Laissez-moi.",
+      "J'ai juste besoin que ça s'arrête."
+    ],
+    "effetsVoixLangage": [
+      "voix sans énergie, presque inexistante",
+      "réponses minimales",
+      "refus des conversations longues",
+      "ton qui s'aplatit sur toutes les phrases",
+      "silence préféré"
+    ],
+    "comportements": [
+      "reste là où il est",
+      "ne prend pas de décision",
+      "reporte tout ce qui peut être reporté",
+      "cherche le silence et l'obscurité",
+      "ne mange pas ou grignote sans faim",
+      "refuse les sorties et les sollicitations"
+    ],
+    "masquesPossibles": [
+      "politesse automatique",
+      "sommeil excessif comme fuite",
+      "occupation des mains par quelque chose de mécanique"
+    ],
+    "evolutionsPossibles": [
+      "reprise progressive si le repos est possible",
+      "aggravation vers le désespoir si isolé",
+      "colère si quelqu'un force le mouvement",
+      "soulagement différé après"
+    ],
+    "contextesAggravants": [
+      "ne pas pouvoir rester immobile",
+      "devoir performer malgré tout",
+      "accumulation d'autres exigences"
+    ],
+    "contextesAttenuants": [
+      "repos sans obligation",
+      "quelqu'un qui s'assoit sans parler",
+      "sommeil profond"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère fatigue émotionnelle", "description": "Le personnage manque d'entrain. Il peut continuer s'il le faut." },
+      { "niveau": 2, "label": "Abattement léger", "description": "Ralentissement visible. Le personnage préfère être seul." },
+      { "niveau": 3, "label": "Abattement franc", "description": "Il ne prend plus d'initiative. Tout demande un effort disproportionné." },
+      { "niveau": 4, "label": "Abattement profond", "description": "Le personnage ne quitte presque plus un endroit. Il ne répond que si on insiste." },
+      { "niveau": 5, "label": "Prostration", "description": "Le personnage ne bouge plus, ne parle plus. Il est présent mais absent." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage actif",
+        "description": "L'abattement lui est étranger — il ne sait pas quoi faire avec. Il peut l'interpréter comme une défaillance et s'en vouloir, ce qui aggrave l'état."
+      },
+      {
+        "profil": "Personnage sensible",
+        "description": "Il reconnaît l'état et sait qu'il passera. Il s'y abandonne presque avec une forme de consentement, ce qui lui permet de le traverser plus vite."
+      }
+    ],
+    "notesEditoriales": [
+      "L'abattement est montré par la réduction de tout : gestes, mots, présence.",
+      "Ce qui est notable ici n'est pas ce qui est fait mais ce qui ne l'est pas.",
+      "Un personnage abattu qui se force quand même à agir montre une tension narrative forte."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "echec" },
+      { "type": "peut_suivre", "cible": "deuil-aigu" },
+      { "type": "peut_evoluer_en", "cible": "desespoir" },
+      { "type": "souvent_associe_a", "cible": "silence" }
+    ]
+  },
+  {
+    "id": "effacement-progressif",
+    "label": "Effacement progressif",
+    "famille": "desespoir-resignation",
+    "definitionCourte": "Processus lent dans lequel le personnage se retire du monde, prend de moins en moins de place, et finit par disparaître de la vie des autres sans acte volontaire — comme si lui-même s'éteignait par petites touches.",
+    "signesPhysiques": [
+      "voix de plus en plus basse, de moins en moins affirmée",
+      "posture qui cherche à occuper le moins d'espace possible",
+      "gestes de plus en plus discrets et contenus",
+      "sourire de plus en plus petit, de moins en moins spontané",
+      "regard qui s'attarde rarement sur l'autre",
+      "présence physique qui devient progressivement périphérique",
+      "vêtements plus neutres, choix qui visent à ne pas être remarqué"
+    ],
+    "sensationsInternes": [
+      "sentiment de n'avoir rien d'important à apporter",
+      "impression que sa présence ne fait pas de différence",
+      "légèreté étrange liée au fait de peser de moins en moins",
+      "absence de désir de prendre de la place",
+      "sentiment de devenir transparent aux yeux des autres",
+      "fatigue de la résistance à ce processus — à un moment, on cesse de lutter"
+    ],
+    "pensees": [
+      "Ça ira très bien sans moi.",
+      "Je ne veux pas déranger.",
+      "Pourquoi est-ce que je prendrai de la place ici ?",
+      "Je fais moins de bruit. C'est plus simple.",
+      "Je suis moins encombrant comme ça.",
+      "Est-ce que quelqu'un remarquerait si je n'étais plus là ?",
+      "Je ne sais plus très bien quelle place est la mienne."
+    ],
+    "effetsVoixLangage": [
+      "voix de plus en plus basse",
+      "formulations qui se minimisent — peut-être, si tu veux, probablement",
+      "phrases courtes pour ne pas prendre de place dans la conversation",
+      "tendance à ne pas exprimer d'opinion si personne ne le demande",
+      "acquiescement par défaut"
+    ],
+    "comportements": [
+      "cède systématiquement la priorité aux autres",
+      "s'excuse pour des détails insignifiants",
+      "ne fait plus de demandes directes",
+      "diminue progressivement sa participation sociale",
+      "laisse les autres décider sans exprimer de préférence",
+      "disparaît des photos, des conversations, des projets"
+    ],
+    "masquesPossibles": [
+      "générosité excessive",
+      "humilité présentée comme une vertu",
+      "discrétion décrite comme une préférence personnelle",
+      "altruisme qui cache le retrait de soi"
+    ],
+    "evolutionsPossibles": [
+      "invisibilité totale si personne ne remarque et n'intervient",
+      "crise si quelqu'un finit par nommer ce qu'il observe",
+      "retour progressif si quelqu'un le traite comme quelqu'un qui compte",
+      "résolution si la cause de l'effacement est identifiée et travaillée"
+    ],
+    "contextesAggravants": [
+      "être effectivement ignoré dans un groupe",
+      "retour d'une blessure ancienne liée à la légitimité de sa place",
+      "voir que les autres s'accommodent de son absence",
+      "manque de reconnaissance répété sur la durée"
+    ],
+    "contextesAttenuants": [
+      "quelqu'un qui remarque l'effacement et le nomme sans jugement",
+      "espace où sa présence est explicitement demandée",
+      "réussite ou contribution qui prouve qu'il apporte quelque chose",
+      "relation dans laquelle il est vu et désiré tel qu'il est"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Discrétion habituelle", "description": "Le personnage est naturellement en retrait. Pas encore une douleur." },
+      { "niveau": 2, "label": "Retrait sensible", "description": "Il se retire progressivement des espaces sociaux sans explication." },
+      { "niveau": 3, "label": "Effacement installé", "description": "Il n'occupe plus sa place. Les autres commencent à ne plus la réserver pour lui." },
+      { "niveau": 4, "label": "Disparition progressive", "description": "Il est présent mais absent. Sa voix, ses choix, ses besoins ne traversent plus." },
+      { "niveau": 5, "label": "Extinction", "description": "Il n'existe plus vraiment dans les réseaux relationnels qui l'entouraient." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage après une humiliation",
+        "description": "L'effacement est une réponse au risque d'être vu. Moins il prend de place, moins on peut lui faire de mal. C'est une stratégie de protection qui devient une prison."
+      },
+      {
+        "profil": "Personnage élevé à se faire oublier",
+        "description": "L'effacement n'est pas une réaction — c'est sa façon d'être depuis l'enfance. Il ne sait pas être vu. La place lui semble toujours appartenir à quelqu'un d'autre."
+      },
+      {
+        "profil": "Personnage en fin de vie ou de carrière",
+        "description": "L'effacement est doux et délibéré — il passe la main, se fait plus petit pour laisser de l'espace aux autres. Ce n'est pas douloureux pour lui, mais pour ceux qui l'observent."
+      }
+    ],
+    "notesEditoriales": [
+      "L'effacement progressif est difficile à écrire car il se passe dans la durée — il se montre dans l'avant/après.",
+      "Son intérêt narratif est dans le décalage entre ce qu'il était et ce qu'il est devenu.",
+      "Un personnage qui revient à lui-même après l'effacement est l'un des arcs les plus touchants.",
+      "À distinguer de la timidité : ici c'est un processus actif de retrait, pas un trait de caractère stable."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "resignation" },
+      { "type": "peut_suivre", "cible": "honte" },
+      { "type": "souvent_associe_a", "cible": "silence" },
+      { "type": "peut_evoluer_en", "cible": "invisibilite" },
+      { "type": "peut_masquer", "cible": "desespoir" }
+    ]
+  }
+]

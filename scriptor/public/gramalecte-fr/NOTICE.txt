@@ -1,0 +1,2 @@
+Fichiers grammalecte/* extraits de l’extension Mozilla « Grammalecte [fr] » (GPL-3.0-only).
+Ne pas modifier sans respecter la licence. Source : https://grammalecte.net

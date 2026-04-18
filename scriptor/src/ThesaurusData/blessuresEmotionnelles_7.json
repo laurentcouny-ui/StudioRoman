@@ -1,0 +1,593 @@
+[
+  {
+    "id": "transgression-avouee-non-pardonnee",
+    "label": "Faute avouée non pardonnée",
+    "famille": "culpabilite-honte",
+    "definitionCourte": "Le personnage a commis une faute, l'a reconnue et en a demandé pardon — et ce pardon lui a été refusé. La blessure est double : la faute elle-même, et la découverte que la confession sincère n'est pas suffisante pour effacer ou réparer. Il a fait ce qu'on lui avait appris à faire — avouer, assumer — et ça n'a pas suffi.",
+    "originesPossibles": [
+      "trahison d'un ami ou d'un partenaire avouée honnêtement et suivie d'un refus définitif de réconciliation",
+      "aveu d'une faute grave à un parent qui a rompu tout lien après la confession",
+      "reconnaissance publique d'une erreur professionnelle accueillie par une mise à l'écart définitive",
+      "confession religieuse ou spirituelle qui n'a apporté aucun soulagement ni absolution perçue",
+      "demande de pardon à un enfant adulte pour des manquements parentaux passés, refusée",
+      "aveu d'une dépendance ou d'une faiblesse à un proche qui a choisi de partir malgré tout",
+      "lettre ou démarche de réparation restée sans réponse ou rejetée explicitement"
+    ],
+    "croyancesNegativesInduites": [
+      "L'honnêteté ne sert à rien — elle coûte sans réparer.",
+      "Certaines fautes sont irrémissibles, quoi qu'on fasse.",
+      "J'aurais mieux fait de me taire.",
+      "La confession m'a rendu plus vulnérable sans me libérer.",
+      "Je mérite peut-être le non-pardon — il dit quelque chose de vrai sur moi.",
+      "Il n'y a pas de chemin vers la rédemption pour quelqu'un comme moi.",
+      "L'aveu sincère ne change rien — les gens décident de pardonner ou non pour des raisons qui me dépassent."
+    ],
+    "peursCentrees": [
+      "peur de commettre à nouveau une faute impardonnable",
+      "peur que l'honnêteté soit toujours plus coûteuse que le silence",
+      "peur d'être défini à jamais par cette faute, même après avoir tenté de réparer",
+      "peur que le non-pardon soit juste — et que cela le condamne",
+      "peur d'avouer à nouveau quelque chose et d'être à nouveau rejeté",
+      "peur que les relations futures soient toujours fragilisées par cette culpabilité non résolue"
+    ],
+    "comportementsDefensifs": [
+      "évite toute situation où une faute pourrait se reproduire — contrôle excessif de lui-même",
+      "sur-compense envers d'autres personnes pour racheter une dette irremboursable",
+      "peut devenir excessivement sévère envers les fautes des autres — projection",
+      "développe une honte de fond diffuse qui s'accroche à chaque nouvelle erreur",
+      "hésite longuement avant tout aveu futur, pesant le risque d'être à nouveau rejeté",
+      "peut maintenir un silence sur la faute passée pour ne pas en revivre le refus de pardon",
+      "cherche parfois la punition comme substitut au pardon qu'il n'a pas obtenu"
+    ],
+    "conflitsInternesTypiques": [
+      "sait que le non-pardon de l'autre lui appartient et n'est pas totalement injuste — mais ne peut pas s'en accommoder",
+      "oscille entre la colère contre celui qui refuse de pardonner et la conviction que ce refus est mérité",
+      "désire se pardonner lui-même mais le sent illégitime en l'absence du pardon de l'autre",
+      "lutte entre le besoin de clore cette histoire et l'impossibilité de le faire sans la participation de l'autre",
+      "peut remettre en question la valeur de l'honnêteté comme principe moral"
+    ],
+    "manifestationsPhysiques": [
+      "sentiment de constriction physique lorsqu'il pense à la faute ou à la personne concernée",
+      "tendance à se blesser de façon mineure, à négliger sa santé comme forme de punition inconsciente",
+      "rougissement ou malaise physique intense quand la faute est évoquée ou approchée",
+      "insomnie avec rumination sur ce qu'il aurait dû faire différemment",
+      "tension permanente dans la poitrine — une dette que le corps porte"
+    ],
+    "declencheurs": [
+      "voir la personne qui n'a pas pardonné, même de loin",
+      "entendre parler de pardon ou de réconciliation dans un contexte quelconque",
+      "commettre une nouvelle erreur — même mineure — qui réactive la culpabilité originelle",
+      "quelqu'un qui lui demande d'avouer quelque chose ou de s'excuser",
+      "un personnage de fiction ou réel qui reçoit le pardon qu'il n'a pas eu",
+      "un anniversaire de la faute ou de la rupture qui a suivi"
+    ],
+    "cheminsVersResolution": [
+      "apprendre à se pardonner sans attendre le pardon de l'autre — comprendre que ce sont deux choses séparées",
+      "une rencontre avec quelqu'un d'autre qui a pardonné une faute similaire, offrant une perspective différente",
+      "réaliser que le non-pardon de l'autre dit autant sur lui que sur la faute commise",
+      "trouver un acte de réparation qui ait du sens même sans réconciliation",
+      "temps et distance permettant de voir la faute à sa juste dimension, sans la gonfler ni la nier"
+    ],
+    "impactRelationnel": [
+      "peut avouer ses fautes avec une honnêteté excessive et précoce, comme pour tester la solidité du lien",
+      "craint que chaque faute future entraîne le même refus de pardon — et s'épuise à ne pas en commettre",
+      "peut garder une rancœur voilée envers celui qui n'a pas pardonné, même s'il comprend pourquoi",
+      "difficultés à recevoir le pardon des autres — il ne se sent pas à la hauteur",
+      "peut devenir très généreux en pardon envers les autres, par besoin de donner ce qu'il n'a pas reçu",
+      "méfiance envers les processus de réconciliation formels — ne croit plus en leur efficacité réelle"
+    ],
+    "notesEditoriales": [
+      "Ce qui rend cette blessure narrativement fertile, c'est qu'elle déconstruit l'idée que l'aveu sincère suffit — une idée culturellement très ancrée.",
+      "La tension entre « j'ai fait ce qu'il fallait » et « ça n'a pas suffi » est un moteur de questionnement moral durable.",
+      "Éviter de juger trop vite celui qui refuse le pardon : dans les meilleures histoires, les deux positions sont compréhensibles simultanément.",
+      "Le pardon de soi comme chemin de résolution est puissant mais difficile à représenter sans tomber dans le discours de développement personnel — il doit être montré, pas expliqué."
+    ]
+  },
+  {
+    "id": "identite-forcee",
+    "label": "Identité imposée",
+    "famille": "effacement-de-soi",
+    "definitionCourte": "Le personnage a été contraint de devenir quelqu'un qu'il n'était pas — par sa famille, sa culture, sa communauté ou les circonstances. Ce n'est pas simplement de la pression sociale : c'est un effacement actif et durable de qui il était ou aurait pu être, remplacé par une version de lui-même construite pour répondre aux besoins des autres.",
+    "originesPossibles": [
+      "aîné à qui on a assigné le rôle de chef de famille dès l'enfance, sans lui demander son avis",
+      "enfant à qui on a dit qui il allait être — profession, conjoint, religion — sans espace pour le refus",
+      "individu dont l'orientation sexuelle ou l'identité de genre a été effacée et remplacée par une version conforme",
+      "héritier d'une tradition ou d'une entreprise familiale qui n'avait pas le droit de choisir autrement",
+      "enfant d'immigrants ayant dû effacer sa culture d'origine pour s'intégrer",
+      "personne dont les talents réels (artistiques, intellectuels) ont été ignorés au profit de besoins familiaux pratiques",
+      "survivant d'un contexte de violence ou d'oppression ayant dû adopter une identité de protection"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne sais pas ce que je veux vraiment — on ne me l'a jamais demandé.",
+      "Ma vraie personnalité n'est pas sûre à montrer.",
+      "Je suis une construction des désirs des autres, pas une personne réelle.",
+      "Si je deviens vraiment moi-même, je perdrai tout ce qui me tient.",
+      "Ma valeur dépend de ma conformité à un rôle que je n'ai pas choisi.",
+      "Il est trop tard pour être quelqu'un d'autre — cette identité est maintenant la mienne.",
+      "Vouloir être moi-même est une trahison de ceux qui ont tout sacrifié pour moi."
+    ],
+    "peursCentrees": [
+      "peur de découvrir qui il est vraiment et de ne pas aimer cette personne",
+      "peur de perdre l'approbation et l'amour des siens s'il s'écarte de l'identité assignée",
+      "peur que les années passées dans un rôle imposé aient effacé la personne d'en dessous",
+      "peur que se construire une identité authentique détruise des relations tenues par le rôle",
+      "peur que sa vraie personnalité soit décevante ou ordinaire",
+      "peur de mourir sans avoir jamais vécu comme lui-même"
+    ],
+    "comportementsDefensifs": [
+      "joue le rôle assigné avec une perfection qui masque l'absence à l'intérieur",
+      "résiste de façon souterraine — petites transgressions invisibles, espaces secrets",
+      "peut traverser des crises d'identité soudaines à des âges où cela semble tardif",
+      "cherche des espaces — en ligne, dans des relations cachées — où il peut être autre chose",
+      "intellectualise la question de l'identité sans jamais l'incarner",
+      "peut projeter sur les autres la liberté d'être soi-même qu'il ne s'est pas autorisée",
+      "parfois s'effondre sous le poids du rôle lors d'une transition majeure (départ des enfants, retraite, deuil)"
+    ],
+    "conflitsInternesTypiques": [
+      "ne sait plus distinguer ce qui lui appartient vraiment de ce qui a été imposé",
+      "ressent de la rage contre ceux qui ont effacé qui il était, tout en leur restant loyalement attaché",
+      "se demande s'il y a encore quelqu'un sous les couches du rôle — et a peur que la réponse soit non",
+      "lutte entre le confort de l'identité connue et la terreur de la liberté",
+      "peut ressentir simultanément le désir de tout quitter et l'impossibilité absolue de le faire"
+    ],
+    "manifestationsPhysiques": [
+      "sentiment de dissociation léger dans les situations où le rôle est particulièrement exigé",
+      "fatigue chronique liée au maintien constant d'une persona qui ne lui appartient pas",
+      "maladies somatiques liées au stress de la dissonance identitaire",
+      "moments de vide ou d'absence lors des rituels les plus associés à l'identité imposée",
+      "réactions émotionnelles intenses dans les rares espaces où il peut être lui-même",
+      "tension physique lors des discussions sur qui il est censé être"
+    ],
+    "declencheurs": [
+      "voir quelqu'un vivre librement une vie qu'il aurait pu choisir",
+      "une question sincère sur ce qu'il veut vraiment — qui le paralyse",
+      "un moment de transition (anniversaire, deuil, déménagement) qui ouvre une parenthèse",
+      "rencontrer quelqu'un qui ne connaît pas son rôle habituel et le voit autrement",
+      "une œuvre d'art, un livre ou une conversation qui nomme exactement ce qu'il vit",
+      "un proche qui abandonne son propre rôle imposé — modèle terrifiant et fascinant"
+    ],
+    "cheminsVersResolution": [
+      "une circonstance qui brise le rôle de l'extérieur et oblige à exister autrement",
+      "trouver un espace (thérapeutique, créatif, relationnel) où une autre version de lui peut exister sans conséquence immédiate",
+      "rencontrer quelqu'un qui connaît l'identité imposée et l'aime tout de même autrement",
+      "un acte de transgression symbolique qui ouvre une brèche et ne détruit pas tout",
+      "le deuil conscient de ce qu'il n'a pas pu être — pas pour s'apitoyer mais pour libérer de l'espace"
+    ],
+    "impactRelationnel": [
+      "relations souvent filtrées par le rôle — peu de gens connaissent la personne réelle",
+      "peut avoir une ou deux relations secrètes très intenses où il peut être lui-même",
+      "amour romantique parfois vécu comme révélation de soi, parfois comme nouveau piège",
+      "enfants souvent élevés dans la même tension entre identité authentique et rôle attendu",
+      "amis qui apprécient le rôle mais pas la personne — ce qu'il sait et qui le pèse",
+      "peut provoquer des crises relationnelles en refusant soudainement d'être celui qu'il était"
+    ],
+    "notesEditoriales": [
+      "Cette blessure est au cœur des récits de transformation identitaire — elle est aussi très présente dans les histoires de doubles vies, de genres imposés ou d'héritages familiaux étouffants.",
+      "La nuance narrative la plus riche est que le rôle imposé n'est pas toujours entièrement négatif : il peut avoir construit des compétences réelles, des relations précieuses. La question n'est pas de le rejeter entièrement mais de l'intégrer.",
+      "Éviter de résoudre cette blessure par une révélation ou un « coming out » spectaculaire — la reconstruction d'une identité authentique est lente et n'est jamais complète.",
+      "Très efficace dans les récits multi-générationnels où chaque génération reçoit une identité héritée de la précédente."
+    ]
+  },
+  {
+    "id": "mort-violent",
+    "label": "Mort violente d'un proche",
+    "famille": "trauma-deuil",
+    "definitionCourte": "Le personnage a perdu quelqu'un de proche dans des circonstances violentes — meurtre, accident brutal, suicide, attentat, guerre. La mort violente n'est pas seulement un deuil : elle est aussi un trauma. La perte se superpose à des images, des sons, des informations que l'esprit ne peut pas intégrer facilement.",
+    "originesPossibles": [
+      "mort d'un proche dans un accident de voiture que le personnage a peut-être survécu",
+      "meurtre d'un parent, d'un ami ou d'un partenaire, avec ou sans résolution judiciaire",
+      "suicide d'un proche, avec toutes les questions laissées sans réponse",
+      "mort dans un conflit armé, un attentat, une situation de violence collective",
+      "violence domestique ayant entraîné la mort d'un membre de la famille",
+      "mort lors d'une catastrophe naturelle ou industrielle vécue de façon traumatique",
+      "mort accidentelle impliquant une responsabilité réelle ou perçue du personnage"
+    ],
+    "croyancesNegativesInduites": [
+      "Le monde n'est pas sûr — la mort peut survenir à tout moment sans prévenir.",
+      "J'ai survécu et lui non — il n'y a pas de justice ni de sens.",
+      "Les images de la mort violente font partie de moi maintenant.",
+      "Je ne peux pas protéger ceux que j'aime.",
+      "La douceur de la vie d'avant est perdue pour toujours.",
+      "Les autres qui n'ont pas vécu ça ne peuvent pas comprendre.",
+      "Le deuil d'une mort violente n'est jamais propre — il y a toujours quelque chose de non résolu."
+    ],
+    "peursCentrees": [
+      "peur constante et diffuse qu'une autre mort violente frappe son entourage",
+      "peur des situations qui rappellent les circonstances de la mort",
+      "peur de revoir les images, les sons ou les détails de l'événement",
+      "peur de ne jamais trouver un sens ou une explication qui apaise",
+      "peur de sa propre mort violente — la sienne semble soudain possible",
+      "peur que le deuil soit invalidé par les autres parce que la mort était violente (honte, suicide)"
+    ],
+    "comportementsDefensifs": [
+      "hypervigilance dans les espaces publics ou les situations à risque perçu",
+      "évite les nouvelles, les films ou les récits contenant de la violence",
+      "sur-contrôle les déplacements et les activités de ses proches",
+      "dissociation lors des commémorations ou des anniversaires de la mort",
+      "peut se jeter dans l'action ou le travail pour éviter les images qui remontent",
+      "difficultés à parler des circonstances de la mort — résume, schématise, change de sujet",
+      "réactions de sursaut disproportionnées à des bruits soudains ou des situations imprévues"
+    ],
+    "conflitsInternesTypiques": [
+      "deuil impossible à faire « normalement » parce que la mort n'était pas normale",
+      "colère contre ceux qui lui disent de passer à autre chose sans comprendre le poids du trauma",
+      "peut ressentir de la culpabilité pour avoir survécu ou pour ne pas avoir su protéger",
+      "oscillation entre le besoin de parler des circonstances et l'incapacité à le faire",
+      "lutte contre le désir de connaître tous les détails et la terreur de ce que ces détails feront"
+    ],
+    "manifestationsPhysiques": [
+      "flashbacks sensoriels — images, sons, odeurs liés à l'événement ou à l'apprentissage de la mort",
+      "réactions physiques violentes aux déclencheurs : accélération cardiaque, souffle coupé, tremblements",
+      "insomnie et cauchemars récurrents impliquant des scènes de violence ou de mort",
+      "état d'alerte permanent avec difficulté à se détendre dans des contextes ordinaires",
+      "réactions de figement ou de fuite dans des situations rappelant l'événement",
+      "troubles gastro-intestinaux liés à l'état de stress chronique"
+    ],
+    "declencheurs": [
+      "une actualité impliquant une mort similaire à celle du proche",
+      "un lieu, un son, une odeur liés aux circonstances de la mort",
+      "l'anniversaire de la mort ou du moment où il a appris la nouvelle",
+      "quelqu'un qui lui pose des questions sur les circonstances — même avec bienveillance",
+      "voir quelqu'un qui ressemble physiquement au proche perdu",
+      "une situation de danger même mineur qui réactive la conscience de la vulnérabilité"
+    ],
+    "cheminsVersResolution": [
+      "un accompagnement thérapeutique spécifique au trauma qui permet de retraiter les images sans être submergé",
+      "trouver un espace de souvenir qui honore la vie du proche, pas seulement les circonstances de sa mort",
+      "rencontrer d'autres personnes ayant perdu quelqu'un dans des circonstances similaires",
+      "une forme de justice ou de reconnaissance — procès, enquête, vérité — même imparfaite",
+      "réussir à parler des circonstances sans être détruit — progressivement, avec un témoin sûr"
+    ],
+    "impactRelationnel": [
+      "proches qui ne savent pas comment aborder le sujet — silence ou maladresse répétés",
+      "can create a protective distance from loved ones for fear of losing them too",
+      "difficultés à laisser les proches partir seuls ou dans des contextes jugés risqués",
+      "parfois incapable de répondre à la question « comment il est mort ? » sans se dissocier",
+      "relation complexe avec les procédures de deuil collectives (funérailles, commémorations)",
+      "peut avoir des difficultés à parler du proche autrement qu'à travers sa mort — la mort a phagocyté la vie"
+    ],
+    "notesEditoriales": [
+      "La mort violente d'un proche est un trauma autant qu'un deuil — les deux dimensions doivent être présentes dans la représentation, sans que l'une n'écrase l'autre.",
+      "Éviter de résoudre cette blessure par la catharsis émotionnelle d'une seule scène — le trauma se traite par couches successives.",
+      "La question de la justice (a-t-on su pourquoi, a-t-on trouvé le responsable) est souvent centrale dans ces récits — mais l'absence de réponse peut être encore plus dramatiquement fertile.",
+      "Attention à la représentation du suicide d'un proche : les croyances et comportements liés sont spécifiques (honte, questions sans réponse) et différents des autres formes de mort violente."
+    ]
+  },
+  {
+    "id": "addiction-propre",
+    "label": "Sa propre addiction",
+    "famille": "honte-transgression",
+    "definitionCourte": "Le personnage a été — ou est encore — sous l'emprise d'une dépendance : alcool, drogues, jeu, comportements compulsifs. La blessure n'est pas seulement la dépendance elle-même mais ce qu'elle a coûté, ce qu'elle dit de lui à ses propres yeux, et la honte durable qu'elle laisse même après la sortie.",
+    "originesPossibles": [
+      "dépendance à l'alcool développée comme anesthésiant face à une autre blessure non résolue",
+      "addiction aux opiacés ou aux médicaments après une blessure physique ou une prescription",
+      "dépendance aux drogues dans un contexte de milieu social ou professionnel normalisateur",
+      "addiction au jeu ayant entraîné des pertes financières et relationnelles majeures",
+      "comportement compulsif (alimentation, sexualité, dépenses) développé comme régulation émotionnelle",
+      "addiction héritée d'un contexte familial dans lequel elle était présente et non nommée",
+      "dépendance développée en réponse à un trauma non traité"
+    ],
+    "croyancesNegativesInduites": [
+      "Je suis quelqu'un de faible — j'aurais dû pouvoir arrêter.",
+      "Ma dépendance dit la vérité sur qui je suis vraiment.",
+      "Je ne mérite pas la confiance des autres après ce que j'ai fait.",
+      "Une partie de moi veut encore recommencer — et ça me terrifie.",
+      "Les gens qui me connaissent ne voient que ça quand ils me regardent.",
+      "Je peux m'en sortir des centaines de fois et ça ne changera pas ce que j'étais.",
+      "Je suis à jamais à une mauvaise journée de rechuter."
+    ],
+    "peursCentrees": [
+      "peur de rechuter, surtout dans les moments de stress intense",
+      "peur que la honte soit indélébile — que les autres ne puissent jamais oublier",
+      "peur que quelqu'un découvre des choses commises pendant la période d'addiction",
+      "peur de ne jamais être vraiment libre — juste en sursis",
+      "peur que la vulnérabilité émotionnelle déclenche une rechute",
+      "peur de faire du mal à nouveau à ceux qu'il aime s'il rechute"
+    ],
+    "comportementsDefensifs": [
+      "contrôle excessif de son environnement pour éviter les déclencheurs de rechute",
+      "honte intense qui l'empêche de parler de son parcours à de nouveaux proches",
+      "peut devenir intransigeant envers les addictions des autres — projection et peur",
+      "sur-compense en matière de responsabilité pour effacer l'image de lui pendant l'addiction",
+      "méfiance envers sa propre perception dans les moments de stress — « est-ce que je minimise ? »",
+      "peut éviter certaines relations qui l'ont connu pendant l'addiction par honte",
+      "parfois incapable d'accepter le plaisir sans culpabilité — comme si jouir était le prélude à la rechute"
+    ],
+    "conflitsInternesTypiques": [
+      "sait que la dépendance est une maladie mais se tient pour pleinement responsable des dégâts causés",
+      "désire être vu comme la personne qu'il est devenu mais sait que son passé l'accompagne",
+      "oscille entre la fierté du chemin parcouru et la honte de ce qui a précédé",
+      "certains jours, pense à la substance ou au comportement avec nostalgie — ce qui lui fait honte",
+      "lutte entre le besoin de parler de son parcours et la peur du jugement"
+    ],
+    "manifestationsPhysiques": [
+      "vigilance corporelle permanente — surveille ses propres sensations pour détecter l'envie",
+      "tensions physiques lors des situations de stress qui rappellent les conditions de l'addiction",
+      "sensations physiques liées au manque ou au désir lors des déclencheurs, même après des années",
+      "difficultés à se détendre sans l'aide d'un rituel de substitution",
+      "réactions somatiques lors de l'annonce de rechute d'un autre ou d'une situation proche de la sienne"
+    ],
+    "declencheurs": [
+      "une situation de stress intense rappelant celles qui avaient précédé des épisodes d'addiction",
+      "l'odeur, la vue ou le son associés à la substance ou au comportement",
+      "une dispute majeure ou un sentiment d'échec profond",
+      "quelqu'un qui boit ou consomme devant lui",
+      "une mauvaise nouvelle, un deuil, une humiliation",
+      "un événement de célébration — la joie peut aussi être un déclencheur"
+    ],
+    "cheminsVersResolution": [
+      "un programme de rétablissement qui lui offre un cadre et une communauté de pairs",
+      "réussir à nommer sa dépendance à quelqu'un de nouveau et être accepté malgré tout",
+      "trouver une façon de réparer — pas de tout effacer — les dégâts causés",
+      "comprendre la blessure sous-jacente qui alimentait la dépendance et commencer à la traiter autrement",
+      "traverser une période de crise sans rechuter et en tirer une confiance nouvelle"
+    ],
+    "impactRelationnel": [
+      "proches qui ont du mal à lui faire confiance à nouveau, même après une longue sobriété",
+      "relations marquées par une méfiance résiduelle qu'il sait justifiée et qu'il doit apprendre à tolérer",
+      "peut chercher des partenaires dans le même parcours de rétablissement — compréhension mutuelle",
+      "difficultés à être parent serein — peur de reproduire le schéma ou d'être vu comme déficient",
+      "amis ou famille qui marchent sur des œufs, ce qui crée une distance",
+      "certaines relations perdues pendant l'addiction qui ne sont jamais revenues"
+    ],
+    "notesEditoriales": [
+      "La représentation de l'addiction est souvent binaire dans la fiction : en pleine addiction ou en rétablissement héroïque. La zone grise — la personne sobre mais toujours marquée — est la plus riche narrativement.",
+      "Éviter de réduire l'addiction à un vice de caractère : montrer la mécanique qui l'a rendue nécessaire est ce qui crée la compassion sans absoudre les dégâts.",
+      "La honte post-addiction est souvent plus paralysante que la dépendance elle-même pour les personnages — c'est souvent là que se joue la vraie transformation.",
+      "Attention à l'idéalisation du rétablissement : ce n'est pas une guérison mais une gestion quotidienne — ce qui en fait un moteur narratif permanent, pas une résolution définitive."
+    ]
+  },
+  {
+    "id": "traumatisme-guerre",
+    "label": "Traumatisme de guerre ou conflit",
+    "famille": "trauma-violence-collective",
+    "definitionCourte": "Le personnage a traversé une guerre, un conflit armé, un déplacement forcé ou une situation de violence collective organisée. Le trauma de guerre ne porte pas seulement sur ce qu'il a vu ou subi, mais sur la dissolution des règles normales du monde — la découverte que la civilisation est fragile et que la violence de masse est possible.",
+    "originesPossibles": [
+      "combattant ayant participé directement à des opérations militaires et à des pertes humaines",
+      "civil ayant vécu sous occupation, bombardement ou siège",
+      "réfugié ayant fui un conflit et traversé des conditions d'extrême danger",
+      "journaliste ou travailleur humanitaire ayant été exposé à des scènes de violence de masse",
+      "enfant de guerre ayant grandi dans un contexte de violence normalisée",
+      "survivant d'un génocide ou d'une épuration ethnique",
+      "vétéran revenu d'un conflit moderne (Afghanistan, Irak, Syrie) sans soutien adapté"
+    ],
+    "croyancesNegativesInduites": [
+      "Le monde tel que je le vivais avant n'existe plus.",
+      "J'ai fait ou vu des choses qui changent définitivement ce qu'on peut croire des humains.",
+      "Ma violence ou ma survie est incompatible avec la vie ordinaire.",
+      "Ceux qui n'ont pas vécu ça ne peuvent pas comprendre — et il ne faut pas qu'ils comprennent.",
+      "Je ne mérite pas la paix quand d'autres n'ont pas survécu.",
+      "Quelque chose en moi est cassé de façon irréparable.",
+      "Je suis dangereux, ou en danger, même quand je ne le suis pas."
+    ],
+    "peursCentrees": [
+      "peur que la violence revienne — dans sa vie ou dans le monde",
+      "peur de sa propre violence, de ce qu'il sait capable de faire",
+      "peur que la paix ordinaire soit une illusion qui peut se briser à tout moment",
+      "peur de se laisser aller au bonheur — qui semble indécent",
+      "peur que ce qu'il a vécu soit oublié ou banalisé",
+      "peur de ne jamais retrouver la capacité d'habiter le monde ordinaire"
+    ],
+    "comportementsDefensifs": [
+      "hypervigilance constante dans les espaces publics — localise les sorties, lit les menaces",
+      "réactions de sursaut ou de figement à des bruits soudains",
+      "peut avoir du mal à dormir dans des espaces fermés ou inconnus",
+      "évite les foules, les espaces sans contrôle, les situations imprévues",
+      "peut avoir développé une indifférence apparente à la mort qui déroute l'entourage",
+      "gardé des habitudes de survie — stockage, vigilance, préparation — inadaptées en temps de paix",
+      "difficultés à parler du conflit ou silence total sur des épisodes précis"
+    ],
+    "conflitsInternesTypiques": [
+      "incapacité à expliquer ce qu'il a vécu à ceux qui ne l'ont pas vécu — sans trahir la vérité ou les traumatiser",
+      "culpabilité du survivant mêlée à la violence de ce qu'il a parfois dû faire pour survivre",
+      "désir intense de normalité et sentiment d'en être définitivement exclu",
+      "rage contre ceux qui ont déclenché le conflit et impuissance devant l'absence de justice",
+      "lutte entre le besoin de témoigner et la conscience que personne ne peut vraiment entendre"
+    ],
+    "manifestationsPhysiques": [
+      "flashbacks sensoriels — sons, odeurs, images — qui surgissent sans prévenir dans des contextes banals",
+      "réactions physiques violentes aux déclencheurs : accélération cardiaque, sueurs froides, dissociation",
+      "insomnie chronique ou sommeil très léger avec réveils en sursaut",
+      "hypervigilance somatique — le corps reste en état d'alerte même dans des contextes sûrs",
+      "douleurs physiques sans cause organique clairement identifiée",
+      "état d'engourdissement émotionnel alterné avec des périodes de réactivité excessive"
+    ],
+    "declencheurs": [
+      "des bruits ressemblant à des tirs, des explosions ou des cris",
+      "certaines odeurs — fumée, sang, poussière, désinfectant",
+      "des images télévisées de conflits, même lointains",
+      "des situations rappelant les conditions du conflit (manque, confinement, foule en panique)",
+      "rencontrer quelqu'un du même pays ou du même conflit",
+      "des dates anniversaires de batailles, de pertes ou de déplacement"
+    ],
+    "cheminsVersResolution": [
+      "un accompagnement thérapeutique spécifique au trauma de guerre (EMDR, thérapie narrative)",
+      "une communauté de vétérans ou de survivants qui partagent la même expérience",
+      "trouver un moyen de témoigner — écrit, oral, artistique — qui donne du sens à ce qui a été vécu",
+      "réussir à habiter un espace sûr durablement et laisser le corps apprendre que la paix est réelle",
+      "une relation intime suffisamment solide pour accueillir certaines parts de l'expérience"
+    ],
+    "impactRelationnel": [
+      "proches qui ne savent pas comment aborder le sujet et créent une bulle de silence autour de lui",
+      "difficultés à expliquer pourquoi certains comportements ordinaires (bruit fort, foule) sont insupportables",
+      "relations romantiques souvent marquées par la distance émotionnelle — peur de l'attachement en contexte de danger",
+      "enfants parfois exposés à l'hypervigilance ou à la colère difficile à contrôler",
+      "amis ou famille qui veulent aider mais ne savent pas comment — maladresses blessantes",
+      "parfois une solidarité très forte avec d'autres survivants, inaccessible à ceux qui n'ont pas vécu"
+    ],
+    "notesEditoriales": [
+      "Le trauma de guerre est souvent représenté à travers les combattants masculins — il est tout aussi puissant chez les civils, les femmes, les enfants et les travailleurs humanitaires.",
+      "Éviter le stéréotype du vétéran violent ou du réfugié passif : les deux figures méritent une complexité intérieure.",
+      "Ce qui est souvent le plus difficile à représenter — et le plus vrai — c'est le retour à la vie ordinaire : aller faire des courses, prendre les transports, rire à quelque chose.",
+      "La question de la responsabilité personnelle dans les actes de guerre est l'une des plus complexes moralement — elle peut être au cœur d'un arc narratif puissant si elle est traitée avec nuance."
+    ]
+  },
+  {
+    "id": "rupture-foi",
+    "label": "Perte de la foi",
+    "famille": "deuil-identitaire",
+    "definitionCourte": "Le personnage a perdu une foi religieuse qui structurait son monde, son identité, ses relations et son sens de la vie. Ce n'est pas une simple évolution intellectuelle : c'est la perte d'un cadre total, d'une communauté, d'un langage du sens. La blessure porte sur le vide que laisse la disparition de ce qui organisait tout.",
+    "originesPossibles": [
+      "confrontation à une souffrance ou à une injustice incompatible avec l'image d'un Dieu bienveillant",
+      "découverte de comportements abusifs au sein de la communauté religieuse d'origine",
+      "éducation religieuse rigide qui a fini par étouffer plutôt que nourrir",
+      "études ou lectures qui ont progressivement érodé les fondements de la croyance",
+      "deuil d'un proche pour lequel les réponses religieuses semblaient insuffisantes",
+      "expérience de violence ou d'oppression justifiée par la religion",
+      "rupture amoureuse ou conflit familial déclenchés par des différences de foi"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne sais plus comment trouver du sens à la souffrance ou à la mort.",
+      "Une partie centrale de qui j'étais a disparu.",
+      "J'ai trahi ou été trahi par quelque chose que j'aimais profondément.",
+      "Le monde est maintenant plus vide et plus silencieux qu'avant.",
+      "Ceux que j'aimais dans ma communauté ne peuvent plus vraiment me comprendre.",
+      "Je cherche quelque chose que la raison ne peut pas me donner.",
+      "Je ne sais pas comment vivre avec la mort sans la foi."
+    ],
+    "peursCentrees": [
+      "peur que la vie n'ait pas de sens sans un cadre transcendant",
+      "peur de la mort sans la promesse d'une continuité",
+      "peur d'avoir perdu une communauté irremplaçable",
+      "peur que ses anciens coreligionnaires le voient comme un traître ou une âme perdue",
+      "peur que le vide laissé par la foi ne puisse jamais être rempli",
+      "peur de sa propre colère contre la foi — qui ressemble parfois à de la colère contre lui-même"
+    ],
+    "comportementsDefensifs": [
+      "peut devenir athée militant, transformant le deuil en croisade intellectuelle",
+      "évite les espaces religieux même quand ils n'auraient plus de prise sur lui",
+      "peut adopter une nouvelle idéologie (politique, philosophique) comme substitut à la foi perdue",
+      "maintient certains rituels ou pratiques d'origine sans plus pouvoir les nommer",
+      "difficultés à entrer dans une église, une mosquée ou un temple sans réaction émotionnelle",
+      "peut garder une nostalgie inavouable pour les certitudes de la foi",
+      "intellectualise la question du sens pour éviter de la ressentir"
+    ],
+    "conflitsInternesTypiques": [
+      "manque la communauté et les rituels sans croire aux fondements qui les justifiaient",
+      "ressent parfois de la nostalgie pour la foi — et en a honte",
+      "lutte entre la liberté intellectuelle que la perte de foi lui a donnée et le vide qu'elle a laissé",
+      "colère contre l'institution religieuse et deuil de la relation spirituelle personnelle — deux choses différentes",
+      "cherche un langage du sens qui n'appartient pas à la foi perdue ni à la rationalité froide"
+    ],
+    "manifestationsPhysiques": [
+      "réactions émotionnelles intenses dans les espaces ou les rituels religieux — larmes, malaise, nostalgies soudaines",
+      "sensation de vide physique lors des moments qui auraient autrefois été remplis par la prière ou le rituel",
+      "tension lors des fêtes religieuses vécues en famille ou en communauté",
+      "parfois une légèreté physique et un soulagement — la foi pouvait être un poids",
+      "perturbation du sommeil lors des deuils ou des crises existentielles, sans le recours ancien à la prière"
+    ],
+    "declencheurs": [
+      "une fête religieuse qu'il célébrait autrefois avec intensité",
+      "un deuil ou une épreuve qui réactive la question du sens",
+      "quelqu'un qui lui demande si il croit en Dieu",
+      "entrer dans un lieu de culte pour une occasion sociale",
+      "un enfant qui lui pose une question sur la mort ou sur Dieu",
+      "une œuvre d'art ou une musique religieuse qui le touche malgré lui"
+    ],
+    "cheminsVersResolution": [
+      "trouver un langage du sens alternatif — philosophique, artistique, humaniste — qui comble partiellement le vide",
+      "pouvoir dire adieu à la foi avec le deuil qu'elle mérite, pas seulement l'analyse",
+      "maintenir certains rituels transformés, dépouillés de leur croyance mais gardés pour leur valeur",
+      "une relation avec quelqu'un qui a fait un chemin inverse ou différent et avec qui le dialogue est possible",
+      "trouver une communauté non religieuse qui offre l'appartenance et le sens que la foi donnait"
+    ],
+    "impactRelationnel": [
+      "fractures familiales ou amicales avec ceux qui sont restés croyants",
+      "difficultés à célébrer des rituels religieux en famille sans malaise ou conflit",
+      "parentalité souvent complexe — comment transmettre des valeurs sans la structure de la foi ?",
+      "peut attirer ou repousser fortement les croyants selon les périodes de son deuil",
+      "relations parfois difficiles avec les athées militants qui ne comprennent pas le deuil de la foi",
+      "peut entrer dans des relations avec des croyants par nostalgie inconsciente — avec toute la tension que ça implique"
+    ],
+    "notesEditoriales": [
+      "La perte de foi est l'un des deuils les moins représentés en fiction alors qu'il est extrêmement commun — et produit une solitude existentielle profonde.",
+      "Distinguer la perte de foi comme soulagement (foi vécue comme oppression) et la perte de foi comme deuil (foi aimée et perdue) : les ressorts narratifs sont très différents.",
+      "Le personnage qui a perdu la foi n'est pas nécessairement heureux d'être libre — l'ambivalence est la tonalité juste.",
+      "Très puissant dans les récits qui confrontent des personnages croyants et non croyants — la perte de foi partagée avec un croyant sincère peut créer un dialogue rare et touchant."
+    ]
+  },
+  {
+    "id": "echec-maternite-paternite",
+    "label": "Sentiment d'échec parental",
+    "famille": "culpabilite-parentale",
+    "definitionCourte": "Le personnage est convaincu d'avoir échoué en tant que parent — que ses enfants ont souffert à cause de lui, qu'il a reproduit des schémas qu'il voulait briser, ou qu'il n'a pas su donner ce dont ils avaient besoin. La blessure est d'autant plus vive qu'elle touche à l'identité parentale, souvent centrale dans la définition de soi.",
+    "originesPossibles": [
+      "enfant qui a rompu tout contact et lui a dit, un jour, pourquoi",
+      "divorce ou séparation dans laquelle il a senti avoir abandonné ses enfants",
+      "dépendance ou maladie pendant des années d'enfance de ses enfants",
+      "violence — physique ou psychologique — reconnue tardivement comme telle",
+      "absence prolongée pour des raisons professionnelles ou personnelles",
+      "enfant en difficulté grave (santé mentale, addiction, décrochage) malgré tous ses efforts",
+      "reproduction inconsciente de schémas familiaux douloureux qu'il avait juré de briser"
+    ],
+    "croyancesNegativesInduites": [
+      "J'ai raté la chose la plus importante que j'avais à faire.",
+      "Mes enfants portent ma marque — et c'est une marque de douleur.",
+      "Je ne mérite pas leur amour ou leur pardon.",
+      "Je savais que ça allait mal — je n'ai pas agi assez tôt, assez bien.",
+      "Tout ce que j'ai construit par ailleurs est sans valeur comparé à cet échec.",
+      "Je suis le maillon d'une chaîne de souffrance que je n'ai pas su briser.",
+      "Je n'aurais peut-être pas dû avoir d'enfants."
+    ],
+    "peursCentrees": [
+      "peur que ses enfants ne lui pardonnent jamais",
+      "peur que les dommages causés soient irréparables",
+      "peur de reproduire les mêmes erreurs s'il a d'autres enfants ou petits-enfants",
+      "peur que sa version de ce qui s'est passé ne corresponde pas à ce que ses enfants ont vécu",
+      "peur d'être défini comme parent pour le reste de sa vie par cet échec",
+      "peur que ses petits-enfants lui soient refusés en punition"
+    ],
+    "comportementsDefensifs": [
+      "sur-compense envers ses enfants adultes — cadeaux, services, disponibilité excessive",
+      "peut nier certains aspects de son comportement passé pour rendre la culpabilité supportable",
+      "parle peu ou pas de ses enfants dans certains contextes, par honte",
+      "cherche à obtenir le pardon de façon trop insistante, sans laisser à l'autre le temps",
+      "peut devenir hypercritique envers d'autres parents pour se distancer de son propre échec perçu",
+      "s'investit parfois dans des rôles parentaux de substitution (mentorat, bénévolat) pour compenser",
+      "difficultés à accepter les avancées relationnelles de ses enfants sans y voir un piège ou une politesse"
+    ],
+    "conflitsInternesTypiques": [
+      "veut se réconcilier avec ses enfants mais ne sait pas si c'est pour eux ou pour lui",
+      "sait que certaines choses ne peuvent pas être effacées mais ne peut pas accepter qu'elles ne le soient pas",
+      "oscille entre l'autoaccusation excessive et la minimisation défensive",
+      "ressent de la colère envers ses propres parents qui lui ont donné des outils insuffisants — mais cette colère ne le soulage pas",
+      "ne sait pas si le pardon de ses enfants, s'il arrive, sera mérité ou seulement généreux"
+    ],
+    "manifestationsPhysiques": [
+      "réaction physique aux signes de distance de ses enfants — nœud dans la gorge, larmes retenues",
+      "tension dans tout le corps lors des repas ou des occasions familiales",
+      "insomnie liée à la rumination sur des épisodes passés avec ses enfants",
+      "vieillissement marqué par la culpabilité portée — certains la voient sur le visage",
+      "fatigue profonde lors des tentatives de réconciliation, même réussies"
+    ],
+    "declencheurs": [
+      "voir ses enfants heureux avec leur propre famille — mélange de joie et de douleur",
+      "un anniversaire d'enfant ou une occasion familiale à laquelle il n'est pas invité",
+      "entendre quelqu'un parler de son enfance heureuse",
+      "un enfant ou un petit-enfant qui répète un comportement qu'il reconnaît comme le sien",
+      "quelqu'un qui lui demande « ça se passe bien avec tes enfants ? »",
+      "une thérapie ou une conversation dans laquelle l'un de ses enfants parle de son enfance"
+    ],
+    "cheminsVersResolution": [
+      "une conversation honnête avec un enfant adulte dans laquelle les deux perspectives sont entendues",
+      "reconnaître ce qui s'est passé sans se défendre — et constater que l'autre peut le tenir",
+      "une réconciliation partielle et progressive, sans exiger le pardon total",
+      "comprendre la chaîne qui l'a lui-même blessé et qui a pesé sur sa parentalité",
+      "une relation avec un petit-enfant qui lui donne une nouvelle chance d'être présent"
+    ],
+    "impactRelationnel": [
+      "relations avec les enfants souvent complexes — distance polie, silence, ou hostilité ouverte",
+      "difficultés à trouver sa place dans la famille élargie après une rupture ou une distanciation",
+      "peut surinvestir les nouvelles générations comme forme de réparation",
+      "partenaires qui portent aussi le poids de l'histoire familiale — parfois eux-mêmes impliqués",
+      "amis auxquels il parle peu de sa vie familiale — trop douloureux à expliquer",
+      "peut devenir très proche des enfants de ses amis ou de ses proches — substitut partiel"
+    ],
+    "notesEditoriales": [
+      "Cette blessure est particulièrement puissante chez des personnages âgés dans un récit — elle donne une profondeur temporelle et une urgence liée à ce qui reste possible avant la mort.",
+      "La perspective des enfants est aussi importante que celle du parent — montrer les deux sans trancher est souvent ce qui rend ces récits vrais.",
+      "Éviter la résolution par le pardon spectaculaire — souvent irréaliste. La réconciliation partielle, incomplète, est souvent plus juste.",
+      "La question de savoir si les enfants ont réellement souffert de ce que le parent croit, ou si la réalité est plus nuancée, est un ressort narratif puissant — parfois le parent se condamne pour des choses différentes de ce que les enfants ont vécu."
+    ]
+  }
+]

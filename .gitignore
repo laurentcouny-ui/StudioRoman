@@ -1,0 +1,9 @@
+# Build outputs and local logs (do not version)
+backend/target/
+backend/logs/
+backend/oauth-local.properties
+
+# Dependencies
+**/node_modules/
+scriptor/src/corrector/database/sources/dictionnaires/*.pdf 
+scriptor/src/corrector/database/sources/ 

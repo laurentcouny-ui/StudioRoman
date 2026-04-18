@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Douceur de la sélection de texte globale */
+  ::selection {
+    background-color: #cbd5e1; /* slate-300 */
+    color: #0f172a; /* slate-900 */
+  }
+  .dark ::selection {
+    background-color: #475569; /* slate-600 */
+    color: #f8fafc; /* slate-50 */
+  }
+}
+
+/* Scrollbar personnalisée style "App native" pour le panneau IA et l'éditeur */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #cbd5e1; /* slate-300 */
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #94a3b8; /* slate-400 */
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background-color: #475569; /* slate-600 */
+}
+.dark ::-webkit-scrollbar-thumb:hover {
+  background-color: #64748b; /* slate-500 */
+}

@@ -1,0 +1,361 @@
+[
+  {
+    "id": "peur",
+    "label": "Peur",
+    "alias": ["peur", "crainte", "frayeur", "effroi", "peur aiguë", "réaction de danger", "peur immédiate", "peur instinctive", "peur vive", "alerte intérieure"],
+    "famille": "peur-danger",
+    "definitionCourte": "Réaction de protection face à un danger réel, supposé ou anticipé. La peur réorganise instantanément la perception et les priorités — elle prépare à fuir, combattre ou se figer.",
+    "signesPhysiques": [
+      "regard qui cherche immédiatement les issues et les menaces",
+      "épaules remontées et contractées vers les oreilles",
+      "mains froides ou moites en quelques secondes",
+      "immobilité soudaine — figement avant la décision de fuir ou d'affronter",
+      "souffle court et haché, presque bloqué",
+      "déglutition fréquente, gorge sèche",
+      "sursaut au moindre son ou mouvement inattendu",
+      "pupilles élargies, regard qui balaie",
+      "genoux qui se verrouillent ou tremblent légèrement",
+      "posture qui se rétrécit, corps qui cherche à prendre moins de place"
+    ],
+    "sensationsInternes": [
+      "ventre noué comme tiré de l'intérieur en une seconde",
+      "gorge serrée, sèche, difficile à avaler",
+      "frisson qui court le long du dos de haut en bas",
+      "cœur brutalement précipité — battements perceptibles dans la gorge",
+      "creux glacé sous les côtes",
+      "jambes qui deviennent peu fiables",
+      "impression que le temps se contracte et se distord",
+      "picotement nerveux sous la peau, dans les paumes surtout",
+      "sensation que le corps veut agir avant que l'esprit ait décidé"
+    ],
+    "pensees": [
+      "Quelque chose va mal se passer.",
+      "Je dois sortir d'ici.",
+      "Ce n'est pas normal.",
+      "Surtout ne fais pas de bruit.",
+      "Je ne contrôle plus rien.",
+      "Et si c'était maintenant ?",
+      "Je ne suis pas prêt.",
+      "Il faut trouver une issue."
+    ],
+    "effetsVoixLangage": [
+      "voix plus basse ou plus mince qu'à l'ordinaire",
+      "phrases brèves, souvent incomplètes",
+      "mots avalés en fin de phrase",
+      "questions répétées, parfois identiques",
+      "silences soudains — l'oreille écoute plutôt que la bouche parle",
+      "débit irrégulier, avec des accélérations et des pauses",
+      "souffle perceptible dans la voix"
+    ],
+    "comportements": [
+      "surveille les mouvements autour de lui en permanence",
+      "recule sans s'en rendre compte",
+      "cherche une présence rassurante ou un point d'ancrage",
+      "évite de s'exposer — reste près des murs, des sorties",
+      "se fige avant d'agir, comme une hésitation viscérale",
+      "réduit ses gestes au minimum pour ne pas être repéré",
+      "vérifie deux fois avant d'agir",
+      "écoute plus qu'il ne parle, filtre chaque son"
+    ],
+    "masquesPossibles": [
+      "agressivité défensive — attaquer avant d'être attaqué",
+      "humour nerveux qui signe la tension sans l'avouer",
+      "détachement forcé, sur-rationalisation du danger",
+      "obéissance ou compliance excessive pour neutraliser la menace",
+      "sourire de façade qui ne trompe pas longtemps"
+    ],
+    "evolutionsPossibles": [
+      "panique si le danger augmente et que l'issue reste bloquée",
+      "terreur si la peur dépasse toute possibilité de réponse",
+      "vigilance extrême et chronique si la menace dure",
+      "soulagement et relâchement si le danger passe",
+      "traumatisme si la peur a été trop intense ou trop longue"
+    ],
+    "contextesAggravants": [
+      "absence totale de visibilité — obscurité, brouillard, inconnu",
+      "isolement — personne à qui parler ou à qui faire confiance",
+      "danger dont la source est inconnue ou imprévisible",
+      "expérience passée d'un danger similaire",
+      "responsabilité d'un tiers plus vulnérable"
+    ],
+    "contextesAttenuants": [
+      "présence d'une personne de confiance connue pour garder la tête froide",
+      "lumière, visibilité, espace ouvert",
+      "information sur la nature et l'étendue du danger",
+      "action possible — avoir quelque chose à faire réduit la peur"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Inquiétude", "description": "Un signal discret que quelque chose ne va pas. Le personnage continue à fonctionner mais reste sur ses gardes." },
+      { "niveau": 2, "label": "Crainte", "description": "La menace est perçue plus clairement. Le corps commence à se préparer. Les décisions sont influencées." },
+      { "niveau": 3, "label": "Peur déclarée", "description": "La peur est nette et immédiate. Le personnage doit faire un effort pour continuer à fonctionner normalement." },
+      { "niveau": 4, "label": "Frayeur intense", "description": "Le corps réagit avant l'esprit. Les réflexes prennent le dessus sur le raisonnement." },
+      { "niveau": 5, "label": "Effroi", "description": "La peur est totale et immédiate. Le monde se réduit à la menace. Fuite ou figement." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage entraîné au danger",
+        "description": "La peur est là — il la reconnaît pour ce qu'elle est et l'utilise. Il redirige l'adrénaline vers l'action. Il ne lutte pas contre la peur, il s'appuie dessus. Ce qui le trahit, c'est après — quand le danger passe."
+      },
+      {
+        "profil": "Personnage sans expérience du danger",
+        "description": "La peur le désorganise entièrement. Il ne sait pas quoi faire de ce qu'il ressent. Le figement est probable. Les signaux internes lui semblent étranges et incontrôlables."
+      },
+      {
+        "profil": "Personnage avec trauma passé lié au danger",
+        "description": "La peur actuelle se superpose à une peur ancienne. La réaction est disproportionnée — ou au contraire, étrangement absente parce que le système a appris à se couper. Dans les deux cas, la peur est là, mais déformée."
+      }
+    ],
+    "notesEditoriales": [
+      "La peur devient plus crédible quand elle transforme la lecture du décor — les sons semblent plus forts, les ombres plus longues.",
+      "Distinguer la peur immédiate (réaction à un danger présent) de l'anxiété (peur sans objet précis) et de l'appréhension (peur anticipatoire).",
+      "Montrer les micro-réactions — souffle, regard, immobilité — plutôt que d'expliquer la peur en termes abstraits.",
+      "La peur est souvent plus forte quand le personnage essaie encore de se contenir."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "panique" },
+      { "type": "peut_evoluer_en", "cible": "terreur" },
+      { "type": "peut_masquer", "cible": "courage" },
+      { "type": "souvent_associee_a", "cible": "danger" },
+      { "type": "s_apaise_en", "cible": "soulagement" },
+      { "type": "peut_mener_a", "cible": "trauma" }
+    ]
+  },
+  {
+    "id": "terreur",
+    "label": "Terreur",
+    "alias": ["terreur", "effroi total", "terreur absolue", "peur paralysante", "horreur viscérale", "terreur froide", "frayeur extrême", "terreur muette", "être pétrifié", "peur qui glace"],
+    "famille": "peur-danger",
+    "definitionCourte": "Peur portée à son paroxysme — si intense qu'elle paralyse, efface le raisonnement et réduit le monde à la menace seule. La terreur dépasse ce que le corps peut traiter normalement.",
+    "signesPhysiques": [
+      "pâleur soudaine ou blancheur du visage",
+      "figement total du corps — impossible de bouger pendant quelques secondes",
+      "bouche entrouverte, incapable de former un son",
+      "regard fixé sur la menace, incapable de s'en détourner",
+      "tremblements dans les mains, les genoux, tout le corps",
+      "sueur froide qui apparaît en quelques secondes",
+      "pupilles maximallement dilatées",
+      "corps qui recule ou s'effondre légèrement — jambes qui cèdent",
+      "muscles entièrement contractés ou au contraire relâchés",
+      "respiration qui s'arrête puis reprend en hoquets"
+    ],
+    "sensationsInternes": [
+      "froid total qui envahit tout le corps malgré l'effort physique",
+      "vidange complète de la tête — les pensées disparaissent",
+      "estomac qui se soulève comme avant de vomir",
+      "impression de regarder depuis l'extérieur de son propre corps",
+      "temps qui se dilate — chaque seconde dure une éternité",
+      "incapacité physique à parler, même si on essaie",
+      "battements cardiaques si forts qu'ils semblent vouloir sortir",
+      "engourdissement des extrémités — mains, pieds qui ne répondent plus bien"
+    ],
+    "pensees": [
+      "Non.",
+      "Ce n'est pas réel.",
+      "Je dois bouger. Je n'arrive pas à bouger.",
+      "Ça ne peut pas se passer comme ça.",
+      "Aide.",
+      "Si je ne bouge pas maintenant je vais mourir.",
+      "Qu'est-ce que je fais ? Qu'est-ce que je fais ?",
+      "Je ne veux pas voir ça."
+    ],
+    "effetsVoixLangage": [
+      "silence total — incapacité à émettre un son",
+      "cri involontaire ou cri rentré — le son reste bloqué",
+      "mots fragmentés, incompréhensibles",
+      "chuchotement ou souffle seulement",
+      "répétition d'un mot ou d'une phrase sans sens",
+      "incohérence totale si la parole revient",
+      "rire nerveux et incontrôlé — mécanisme de décharge"
+    ],
+    "comportements": [
+      "se fige complètement — paralysie de terreur",
+      "fuit sans direction ni plan",
+      "se cache sans réfléchir à la pertinence",
+      "cherche le contact physique avec n'importe qui",
+      "fait des gestes répétitifs sans but — se balancer, frapper",
+      "obéit à n'importe quelle instruction donnée par n'importe qui",
+      "perd le contrôle des fonctions — tremblement, larmes involontaires",
+      "continue à agir de façon mécanique après le choc, sans conscience"
+    ],
+    "masquesPossibles": [
+      "calme de dissociation — quelque chose s'est coupé, la terreur ne se voit plus",
+      "action mécanique intense — faire quelque chose pour ne pas penser",
+      "humour absurde qui signe l'effondrement du sens",
+      "concentration extrême sur un détail anodin — mécanisme de survie"
+    ],
+    "evolutionsPossibles": [
+      "effondrement et larmes une fois la menace écartée",
+      "état de choc — silence, regard vide, incapacité à répondre",
+      "traumatisme si l'expérience s'inscrit durablement",
+      "action héroïque — la terreur peut paradoxalement libérer une réponse extrême",
+      "courage dissociatif — agir comme si la terreur n'existait pas"
+    ],
+    "contextesAggravants": [
+      "menace envers quelqu'un de protégé — enfant, proche vulnérable",
+      "danger sans issue visible",
+      "expérience passée de danger similaire qui se réactive",
+      "isolement total — aucun témoin, aucune aide possible",
+      "menace lente ou prolongée — l'anticipation est parfois pire que le danger"
+    ],
+    "contextesAttenuants": [
+      "présence physique d'une autre personne, même inconnue",
+      "action possible — avoir quelque chose à faire brise la paralysie",
+      "information sur la nature de la menace — l'inconnu est souvent pire",
+      "disparition de la menace, même momentanée"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Frayeur vive", "description": "La peur dépasse la normale. Le corps réagit fortement mais la tête fonctionne encore." },
+      { "niveau": 2, "label": "Effroi", "description": "La pensée est partiellement court-circuitée. Les réflexes priment." },
+      { "niveau": 3, "label": "Terreur", "description": "Paralysie partielle. Le personnage doit un effort immense pour agir normalement." },
+      { "niveau": 4, "label": "Terreur totale", "description": "Figement, dissociation possible. Aucune pensée cohérente. Seule la survie immédiate compte." },
+      { "niveau": 5, "label": "Horreur absolue", "description": "Le système s'effondre. Le personnage ne fonctionne plus. État de choc probable." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage formé à la résistance",
+        "description": "Il reconnaît la terreur pour ce qu'elle est et parvient à l'encapsuler pendant le temps de l'action. Elle ressort après — parfois très longtemps après, dans des cauchemars, des réactions inexpliquées, une vigilance permanente."
+      },
+      {
+        "profil": "Personnage sans ressources face au danger extrême",
+        "description": "La terreur l'absorbe entièrement. Figement probable. Regret immédiat de son inaction une fois la menace passée — sans comprendre que le corps avait fait ce qu'il pouvait."
+      },
+      {
+        "profil": "Personnage responsable d'un autre",
+        "description": "La terreur pour soi est doublée par la terreur pour l'autre. Paradoxalement, ça peut libérer une action qu'il n'aurait pas faite seul — protéger l'autre court-circuite la paralysie."
+      }
+    ],
+    "notesEditoriales": [
+      "La terreur se joue souvent dans le silence et l'immobilité — l'absence de réaction est parfois plus puissante que la réaction.",
+      "La dissociation — voir depuis l'extérieur de soi — est un mécanisme réel à utiliser.",
+      "Différencier : terreur (paroxysme immédiat) / panique (débordement moteur) / peur (réaction normale).",
+      "Ce qui reste après la terreur — état de choc, absence, comportement automatique — est souvent plus révélateur que l'événement lui-même."
+    ],
+    "relationsNarratives": [
+      { "type": "evolution_extreme_de", "cible": "peur" },
+      { "type": "peut_mener_a", "cible": "etat-de-choc" },
+      { "type": "peut_mener_a", "cible": "trauma" },
+      { "type": "peut_liberer", "cible": "courage-dissocie" },
+      { "type": "souvent_suivie_de", "cible": "effondrement" },
+      { "type": "s_oppose_a", "cible": "securite" }
+    ]
+  },
+  {
+    "id": "panique",
+    "label": "Panique",
+    "alias": ["panique", "crise de panique", "débordement de peur", "affolement", "désorganisation totale", "peur qui déborde", "perte de contrôle par la peur", "panique aveugle", "fuite éperdue", "état de panique"],
+    "famille": "peur-danger",
+    "definitionCourte": "État dans lequel la peur court-circuite entièrement le raisonnement et déclenche une réponse motrice ou émotionnelle incontrôlable. La panique n'est plus une alerte — c'est un débordement.",
+    "signesPhysiques": [
+      "hyperventilation — respiration rapide, superficielle, incontrôlable",
+      "tremblements généralisés ou localisés dans les mains et les jambes",
+      "sueurs froides en quelques secondes",
+      "agitation motrice — marche en cercle, incapacité à rester immobile",
+      "gestes répétitifs et inutiles — se frotter les mains, tirer sur ses vêtements",
+      "regard qui saute d'un point à l'autre sans se fixer",
+      "visage qui perd ses couleurs ou au contraire qui rougit violemment",
+      "nausée visible — déglutitions fréquentes, grimaces",
+      "sensation physique de vertige ou d'étourdissement",
+      "incapacité à tenir en place malgré l'épuisement"
+    ],
+    "sensationsInternes": [
+      "sensation que le cœur va s'arrêter ou exploser",
+      "manque d'air total malgré l'hyperventilation",
+      "vertige et impression que le sol n'est plus stable",
+      "chaud et froid en alternance rapide",
+      "impression de mourir ou de devenir fou",
+      "douleur dans la poitrine — oppression totale",
+      "fourmillements dans les mains, les lèvres, le visage",
+      "impression que tout devient irréel, flou, trop lointain"
+    ],
+    "pensees": [
+      "Je vais mourir.",
+      "Je n'arrive pas à respirer.",
+      "Il faut que ça s'arrête.",
+      "Je perds le contrôle.",
+      "Quelque chose ne va pas du tout.",
+      "Je dois partir d'ici.",
+      "Personne ne peut m'aider.",
+      "Ça ne s'arrêtera jamais."
+    ],
+    "effetsVoixLangage": [
+      "voix qui monte en fréquence involontairement",
+      "phrases hachées, coupées par le souffle",
+      "mots répétés en boucle",
+      "cris ou pleurs involontaires",
+      "incohérence — les mots ne suivent pas la pensée",
+      "demande d'aide répétée, parfois sans attendre la réponse",
+      "silence soudain quand le corps dépasse la parole"
+    ],
+    "comportements": [
+      "fuit sans direction — l'impulsion est plus forte que tout plan",
+      "cherche à sortir d'un espace sans savoir où aller",
+      "s'accroche physiquement à quelqu'un sans pouvoir lâcher",
+      "tourne en rond, s'assoit, se relève, recommence",
+      "essaie de contrôler sa respiration — et n'y arrive pas",
+      "suit des instructions données par n'importe qui",
+      "ignore la douleur physique — elle n'est plus pertinente",
+      "s'effondre sur une surface stable quand les jambes cèdent"
+    ],
+    "masquesPossibles": [
+      "silence total de dissociation — la panique est intérieure, rien ne se voit",
+      "hyper-focalisation sur une tâche simple pour ne pas lâcher",
+      "humour absurde qui signe le chaos intérieur",
+      "sur-rationalisation — parler très vite pour ne pas sentir"
+    ],
+    "evolutionsPossibles": [
+      "épuisement total après la crise",
+      "larmes de relâchement une fois la panique passée",
+      "honte de la réaction",
+      "dissociation si la panique est trop violente",
+      "résolution si la cause disparaît ou si un ancrage est trouvé"
+    ],
+    "contextesAggravants": [
+      "espace clos ou surpeuplé",
+      "impossibilité de fuir",
+      "panique en chaîne — quelqu'un d'autre panique et déclenche la sienne",
+      "privation de sommeil ou état de faiblesse physique",
+      "antécédents de crises de panique qui créent la peur de la panique elle-même"
+    ],
+    "contextesAttenuants": [
+      "voix calme et ferme d'une personne de confiance",
+      "instructions simples à suivre — 'respire, compte, regarde-moi'",
+      "espace ouvert, air frais",
+      "contact physique rassurant — main tenue, épaule maintenue"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Début de panique", "description": "Le personnage sent qu'il perd pied. Il lutte encore mais ça glisse." },
+      { "niveau": 2, "label": "Panique naissante", "description": "La respiration se dérègle. Les pensées s'emballent. L'entourage commence à voir." },
+      { "niveau": 3, "label": "Crise de panique", "description": "Le débordement est total. Le personnage ne contrôle plus ses réactions." },
+      { "niveau": 4, "label": "Panique totale", "description": "Fuite aveugle ou effondrement. Le raisonnement a complètement disparu." },
+      { "niveau": 5, "label": "Dissociation panique", "description": "Le personnage n'est plus présent à ce qui se passe. Le corps agit seul." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage seul lors de la crise",
+        "description": "Personne pour ancrer. La panique peut durer plus longtemps et aller plus loin. La honte après est intense — personne n'a vu, mais le personnage sait ce qu'il a traversé."
+      },
+      {
+        "profil": "Personnage devant un public",
+        "description": "La peur de la panique visible s'ajoute à la panique elle-même. La honte anticipée amplifie tout. Certains personnages trouvent dans le regard des autres un ancrage — d'autres s'effondrent encore plus vite."
+      },
+      {
+        "profil": "Personnage avec crises à répétition",
+        "description": "Il la reconnaît. Il sait les signes avant-coureurs. Il a des stratégies — qui fonctionnent parfois. Il vit avec la peur de la panique comme compagnon permanent."
+      }
+    ],
+    "notesEditoriales": [
+      "La panique physique (hyperventilation, tremblements, douleur thoracique) doit être précise pour être crédible.",
+      "La honte après la crise est souvent plus durable que la crise elle-même.",
+      "Différencier : panique (débordement moteur) / terreur (paralysie) / peur (réponse normale et fonctionnelle).",
+      "La panique peut survenir sans danger réel — dans des espaces sûrs — ce qui la rend encore plus déstabilisante."
+    ],
+    "relationsNarratives": [
+      { "type": "evolution_extreme_de", "cible": "peur" },
+      { "type": "souvent_suivie_de", "cible": "honte" },
+      { "type": "peut_mener_a", "cible": "dissociation" },
+      { "type": "s_apaise_avec", "cible": "ancrage" },
+      { "type": "peut_survenir_apres", "cible": "trauma" },
+      { "type": "s_oppose_a", "cible": "calme" }
+    ]
+  }
+]

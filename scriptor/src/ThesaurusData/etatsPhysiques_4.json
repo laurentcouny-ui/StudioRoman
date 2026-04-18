@@ -1,0 +1,1211 @@
+[
+  {
+    "id": "froid-penetrant",
+    "label": "Froid pénétrant",
+    "groupe": "etat-thermique",
+    "definitionCourte": "Froid qui dépasse la surface de la peau pour s'installer dans les muscles et les os, ralentissant les gestes, la pensée et la volonté.",
+    "signesPhysiques": [
+      "gestes raides et moins précis",
+      "bras étroitement croisés contre le torse",
+      "épaules remontées vers les oreilles",
+      "souffles visibles",
+      "lèvres légèrement bleutées",
+      "doigts qui raidissent",
+      "pas plus courts et moins assurés",
+      "battement des pieds ou des mains pour se réchauffer"
+    ],
+    "sensationsInternes": [
+      "douleur dans les articulations des doigts",
+      "os qui semblent glacés de l'intérieur",
+      "ralentissement des pensées comme un moteur froid",
+      "picotements douloureux aux extrémités",
+      "fatigue précoce liée à l'effort de réchauffement",
+      "impression que le corps commence à renoncer",
+      "somnolence si le froid est prolongé"
+    ],
+    "effetsSurPerception": [
+      "le monde semble plus hostile et plus vaste",
+      "les distances paraissent plus grandes à traverser",
+      "la chaleur d'un lieu fermé devient presque douloureuse au contact",
+      "les sons semblent plus nets dans l'air froid"
+    ],
+    "effetsVoixLangage": [
+      "voix plus raide, moins modulée",
+      "mots prononcés entre les dents",
+      "phrases plus courtes pour économiser le souffle",
+      "silence préféré à la conversation"
+    ],
+    "pensees": [
+      "Il fait trop froid pour penser clairement.",
+      "Je dois me réchauffer avant de faire quoi que ce soit d'autre.",
+      "Mes doigts ne répondent plus correctement.",
+      "Il faut bouger. Bouger génère de la chaleur.",
+      "Si je m'arrête trop longtemps je ne repartirai plus.",
+      "Je n'aurais pas dû sous-estimer le froid."
+    ],
+    "comportements": [
+      "cherche une source de chaleur ou un abri en priorité",
+      "réduit ses mouvements pour économiser l'énergie",
+      "serre ses vêtements contre lui",
+      "souffle sur ses mains ou les met sous ses aisselles",
+      "parle peu pour conserver la chaleur corporelle",
+      "refuse de s'arrêter de marcher si le mouvement réchauffe"
+    ],
+    "masquesPossibles": [
+      "stoïcisme — nie la gravité du froid",
+      "humour pour dédramatiser",
+      "activité maintenue pour masquer la souffrance"
+    ],
+    "evolutionsPossibles": [
+      "hypothermie si le froid persiste sans abri",
+      "engourdissement progressif des extrémités",
+      "ralentissement cognitif et décisions altérées",
+      "réchauffement douloureux à l'arrivée d'une source de chaleur"
+    ],
+    "contextesAggravants": [
+      "vent qui amplifie la sensation de froid",
+      "vêtements mouillés",
+      "épuisement ou faim simultanée",
+      "immobilité prolongée"
+    ],
+    "contextesAttenuants": [
+      "abri du vent",
+      "vêtements secs en couches",
+      "mouvement physique régulier",
+      "nourriture ou boisson chaude"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage de survie",
+        "description": "Traite le froid comme un problème à résoudre. Chaque geste est calculé pour économiser la chaleur. L'urgence est froide — sans panique, juste du calcul."
+      },
+      {
+        "profil": "Personnage non préparé",
+        "description": "Sous-estime le froid jusqu'à ce qu'il soit trop tard pour agir facilement. La progression est insidieuse — il ne réalise pas à quel point il ralentit."
+      },
+      {
+        "profil": "Personnage qui protège quelqu'un",
+        "description": "Ignore son propre froid pour s'occuper d'un autre plus vulnérable. Sa propre hypothermie avance silencieusement pendant qu'il est concentré sur l'autre."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Fraîcheur inconfortable", "description": "Le personnage remarque le froid mais s'en accommode facilement." },
+      { "niveau": 2, "label": "Froid sensible", "description": "Les doigts et le bout du nez sont froids. Le personnage cherche à se couvrir." },
+      { "niveau": 3, "label": "Froid pénétrant", "description": "Les muscles raidissent. Les gestes sont moins précis, les pensées moins vives." },
+      { "niveau": 4, "label": "Froid intense", "description": "La douleur dans les extrémités est franche. Le personnage a du mal à tenir des objets." },
+      { "niveau": 5, "label": "Hypothermie naissante", "description": "Le corps se replie sur lui-même. La pensée ralentit. Le danger s'installe." }
+    ],
+    "notesEditoriales": [
+      "Le froid pénétrant crée une urgence silencieuse — il ralentit sans prévenir.",
+      "Très efficace pour montrer un personnage à bout, isolé ou mal équipé pour ce qu'il traverse.",
+      "Le contraste avec une chaleur soudaine peut être utilisé pour marquer une rupture émotionnelle."
+    ]
+  },
+  {
+    "id": "chaleur-oppressante",
+    "label": "Chaleur oppressante",
+    "groupe": "etat-thermique",
+    "definitionCourte": "Chaleur excessive qui épuise, irrite et réduit la tolérance à l'effort, aux sollicitations et aux autres.",
+    "signesPhysiques": [
+      "sueur visible sur le front et dans le cou",
+      "vêtements collés",
+      "respiration plus lente et plus lourde",
+      "gestes réduits au minimum",
+      "regard moins concentré",
+      "ventilation par la bouche",
+      "éventail ou agitation de main spontanée",
+      "chercher l'ombre ou l'air"
+    ],
+    "sensationsInternes": [
+      "lourdeur dans tout le corps",
+      "tête légèrement cotonneuse",
+      "soif installée ou gorge sèche",
+      "irritabilité de fond sans déclencheur précis",
+      "impression que tout effort coûte double",
+      "nausée légère si l'exposition est longue",
+      "battements cardiaques plus perceptibles"
+    ],
+    "effetsSurPerception": [
+      "l'air semble épais et difficile à respirer",
+      "les sons semblent étouffés ou assourdis",
+      "la lumière paraît plus agressive",
+      "le décor semble vibrer légèrement à l'horizon"
+    ],
+    "effetsVoixLangage": [
+      "ton plus sec et moins patient",
+      "réponses plus courtes",
+      "peu d'élan pour la conversation",
+      "irritation plus proche de la surface"
+    ],
+    "pensees": [
+      "Je ne peux pas réfléchir par cette chaleur.",
+      "Tout est trop long, trop lent, trop chaud.",
+      "Je suis à bout de patience et ce n'est pas leur faute.",
+      "Il faut trouver de l'ombre ou de l'eau — maintenant.",
+      "Je suis prêt à tout dire pour que cette situation se termine.",
+      "La chaleur transforme n'importe quel désaccord en dispute."
+    ],
+    "comportements": [
+      "cherche l'ombre ou la fraîcheur activement",
+      "réduit ses mouvements physiques",
+      "boit souvent et en grande quantité",
+      "raccourcit les conversations",
+      "prend des décisions plus abruptes que d'ordinaire",
+      "s'isole pour échapper à la chaleur des corps proches"
+    ],
+    "masquesPossibles": [
+      "irritabilité présentée comme de l'impatience normale",
+      "lenteur présentée comme de la réflexion",
+      "silence présenté comme de la sérénité"
+    ],
+    "evolutionsPossibles": [
+      "coup de chaleur si l'exposition est trop longue",
+      "conflit latent qui explose sous la chaleur",
+      "résorption avec fraîcheur et repos",
+      "déshydratation si la consommation d'eau est insuffisante"
+    ],
+    "contextesAggravants": [
+      "humidité élevée en plus de la chaleur",
+      "espace clos sans ventilation",
+      "effort physique simultané",
+      "conflit émotionnel en cours"
+    ],
+    "contextesAttenuants": [
+      "ombre et air circulant",
+      "eau froide sur la nuque ou le visage",
+      "boisson fraîche",
+      "immobilité dans un endroit ventilé"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage méditerranéen ou habitué",
+        "description": "Gère la chaleur avec pragmatisme. Ajuste son rythme, ses vêtements, ses habitudes. Elle fait partie de son environnement normal, pas d'une menace."
+      },
+      {
+        "profil": "Personnage du Nord non habitué",
+        "description": "Impressionné et déstabilisé par la chaleur. Elle envahit toute sa pensée. Il réagit de façon exagérée, ce qui peut créer des frictions avec les locaux."
+      },
+      {
+        "profil": "Personnage en tension relationnelle",
+        "description": "La chaleur réduit sa diplomatie à zéro. Ce qu'il aurait tu en temps normal, il le dit. Les disputes de chaleur sont souvent révélatrices de vrais griefs."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Chaleur agréable devenant inconfortable", "description": "Le personnage transpire légèrement et cherche l'ombre." },
+      { "niveau": 2, "label": "Chaleur installée", "description": "Gêne notable. L'effort est plus difficile, la patience réduite." },
+      { "niveau": 3, "label": "Chaleur épuisante", "description": "Le personnage ralentit, transpire abondamment, évite les gestes inutiles." },
+      { "niveau": 4, "label": "Coup de chaleur naissant", "description": "Tête qui tourne, nausée, vision légèrement brouillée." },
+      { "niveau": 5, "label": "Coup de chaleur franc", "description": "Le personnage ne peut plus fonctionner normalement. Risque de malaise." }
+    ],
+    "notesEditoriales": [
+      "La chaleur oppressante crée une atmosphère de tension contenue — idéale pour les scènes de conflits larvés.",
+      "Elle réduit la diplomatie : les personnages sous forte chaleur disent souvent plus qu'ils ne voudraient.",
+      "À utiliser dans les scènes estivales, méditerranéennes ou dans les espaces confinés."
+    ]
+  },
+  {
+    "id": "manque-de-sommeil",
+    "label": "Manque de sommeil aigu",
+    "groupe": "epuisement",
+    "definitionCourte": "État de déplétion cognitive et physique dû à un sommeil insuffisant ou absent, qui altère la perception, le jugement et la régulation émotionnelle.",
+    "signesPhysiques": [
+      "yeux rouges ou cernés",
+      "paupières lourdes qui se ferment par intermittence",
+      "bâillements incontrôlables",
+      "visage sans expression, terne",
+      "gestes ralentis et parfois manqués",
+      "posture avachie même debout",
+      "micro-absences visibles dans la conversation",
+      "frottement des yeux répété"
+    ],
+    "sensationsInternes": [
+      "sable sous les paupières",
+      "tête comme remplie de coton",
+      "pensées qui glissent sans s'accrocher",
+      "hypersensibilité émotionnelle — tout touche plus fort",
+      "nausée légère après une longue veille",
+      "corps lourd mais incapable de trouver le repos",
+      "impression de regarder la réalité à travers une vitre"
+    ],
+    "effetsSurPerception": [
+      "les détails sont moins nets",
+      "les délais de réaction sont allongés",
+      "les émotions des autres semblent exagérées ou incompréhensibles",
+      "le temps semble ne plus s'écouler normalement",
+      "hallucinations légères après 36 heures sans sommeil"
+    ],
+    "effetsVoixLangage": [
+      "voix moins posée, légèrement brisée",
+      "mots cherchés plus longtemps",
+      "répétitions sans s'en rendre compte",
+      "irritabilité immédiate face à la contradiction",
+      "éclat de rire ou de larmes disproportionné"
+    ],
+    "pensees": [
+      "Je ferme les yeux une seconde seulement.",
+      "Je ne suis pas capable de prendre cette décision maintenant.",
+      "Pourquoi est-ce que tout me semble si difficile à comprendre ?",
+      "J'ai dit ça ? Je ne me souviens pas d'avoir dit ça.",
+      "Si je pouvais dormir deux heures, juste deux heures.",
+      "Je suis en colère et je ne sais même pas pourquoi."
+    ],
+    "comportements": [
+      "s'endort brièvement sans s'en rendre compte",
+      "recommence la même tâche plusieurs fois",
+      "réagit de façon disproportionnée aux contrariétés",
+      "cherche des stimulants — café, sucre, froid",
+      "répond à côté de la question posée",
+      "pleure ou rit sans raison claire"
+    ],
+    "masquesPossibles": [
+      "hyperactivité compensatoire pour paraître fonctionnel",
+      "humour ou bavardage pour masquer la désorientation",
+      "café en main comme signal de normalité"
+    ],
+    "evolutionsPossibles": [
+      "effondrement si le manque de sommeil se prolonge",
+      "erreur grave dans un moment critique",
+      "larmes incontrôlées quand la vigilance baisse",
+      "récupération rapide avec le sommeil"
+    ],
+    "contextesAggravants": [
+      "responsabilité immédiate malgré l'épuisement",
+      "décision importante à prendre sans délai",
+      "environnement bruyant ou stimulant",
+      "deuxième nuit consécutive sans sommeil"
+    ],
+    "contextesAttenuants": [
+      "sieste de 20 minutes",
+      "réduction des stimuli extérieurs",
+      "soutien d'une autre personne pour les décisions",
+      "tâche répétitive ne demandant pas de jugement"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage sous pression",
+        "description": "Refuse de reconnaître son état. Continue à fonctionner en pilote automatique. Les erreurs s'accumulent sans qu'il les voie, jusqu'à ce qu'une soit trop grave."
+      },
+      {
+        "profil": "Personnage qui s'effondre",
+        "description": "Le manque de sommeil lève tous les verrous. Il dit ce qu'il ne dirait pas normalement, pleure pour des raisons minimes, rit de façon incontrôlée."
+      },
+      {
+        "profil": "Personnage soignant",
+        "description": "A l'habitude des gardes et des nuits blanches. Gère avec des rituels précis. Mais sous la compétence apparente, la fatigue ronge la patience et l'empathie."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Nuit courte", "description": "Légère fatigue. Le personnage fonctionne mais est moins vif." },
+      { "niveau": 2, "label": "Deuxième nuit difficile", "description": "Concentration réduite. Irritabilité croissante." },
+      { "niveau": 3, "label": "Privation sérieuse", "description": "Le jugement commence à faillir. Les émotions sont moins bien régulées." },
+      { "niveau": 4, "label": "Privation prolongée", "description": "Micro-sommeils involontaires. Le personnage peut prendre de très mauvaises décisions." },
+      { "niveau": 5, "label": "Privation extrême", "description": "Hallucinations légères, confusion entre rêve et réalité, effondrement possible." }
+    ],
+    "notesEditoriales": [
+      "Le manque de sommeil est narrativement puissant car il dépouille les personnages de leurs filtres habituels.",
+      "Les larmes, les aveux, les éclats de colère surviennent plus facilement.",
+      "Il peut servir à justifier une décision catastrophique de façon crédible."
+    ]
+  },
+  {
+    "id": "ivresse",
+    "label": "Ivresse",
+    "groupe": "etat-altere",
+    "definitionCourte": "État d'altération progressive causé par l'alcool, qui relâche les inhibitions, réduit la coordination et déplace le curseur entre ce qu'on pense et ce qu'on dit.",
+    "signesPhysiques": [
+      "équilibre légèrement instable",
+      "gestes plus amples et moins précis",
+      "regard légèrement voilé ou plus fixe qu'à l'ordinaire",
+      "sourire plus facile",
+      "pupilles légèrement dilatées",
+      "peau plus rouge, particulièrement les joues",
+      "respiration sentant l'alcool",
+      "tendance à se rapprocher physiquement des gens"
+    ],
+    "sensationsInternes": [
+      "chaleur dans la poitrine et le ventre",
+      "légèreté et flottement",
+      "pensées plus rapides puis plus lentes",
+      "diminution du sentiment de danger",
+      "impression d'être plus séduisant, plus drôle ou plus sage",
+      "nausée possible si dépassement",
+      "tête qui tourne légèrement en s'allongeant"
+    ],
+    "effetsSurPerception": [
+      "les sons semblent plus enveloppants",
+      "les distances sont mal évaluées",
+      "le temps semble s'étirer ou s'accélérer par intermittence",
+      "les émotions des autres semblent plus lisibles ou plus intenses"
+    ],
+    "effetsVoixLangage": [
+      "débit plus rapide ou plus lent selon le stade",
+      "mots qui se chevauchent légèrement",
+      "moins de censure — dit des choses habituellement retenues",
+      "rires plus fréquents et moins motivés",
+      "ton plus affectueux ou plus agressif selon le tempérament"
+    ],
+    "pensees": [
+      "Je suis bien. Vraiment bien. Quand est-ce que je me suis senti aussi bien ?",
+      "Je peux leur dire. Ce soir je peux leur dire.",
+      "Tout semble moins grave que d'habitude.",
+      "Pourquoi je ne fais pas ça plus souvent ?",
+      "Je sais que je vais regretter demain. Mais là, maintenant.",
+      "Ils ont l'air contents de me voir. Ou alors c'est l'alcool."
+    ],
+    "comportements": [
+      "prend des initiatives qu'il n'aurait pas prises sobre",
+      "parle plus fort et plus longtemps que d'ordinaire",
+      "dit ce qu'il pense sans filtre",
+      "cherche le contact physique — bras, épaule, accolade",
+      "répète la même histoire sans s'en rendre compte",
+      "prend des décisions qu'il regrettera ou non selon son tempérament"
+    ],
+    "masquesPossibles": [
+      "comportement normal maintenu par effort de volonté",
+      "désinvolture présentée comme de la maîtrise",
+      "silence ou retrait pour masquer l'état"
+    ],
+    "evolutionsPossibles": [
+      "aveu ou confidence majeure si les inhibitions lâchent",
+      "dispute si l'agressivité latente prend le dessus",
+      "attendrissement et larmes si la tristesse refait surface",
+      "gueule de bois et honte le lendemain"
+    ],
+    "contextesAggravants": [
+      "estomac vide",
+      "mélange d'alcools",
+      "état de stress ou d'anxiété préalable",
+      "ambiance de fête qui incite à boire plus vite"
+    ],
+    "contextesAttenuants": [
+      "nourriture consommée",
+      "rythme lent sur une longue durée",
+      "eau alternée avec l'alcool",
+      "arrêt de la consommation"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage triste",
+        "description": "L'alcool libère ce qu'il retient — le chagrin remonte vite. Il devient sentimental, revient sur des deuils anciens, peut pleurer pour des raisons incompréhensibles pour les autres."
+      },
+      {
+        "profil": "Personnage agressif",
+        "description": "L'alcool amplifie les rancœurs. Ce qui était géré sobre remonte à la surface sous forme de piques, de provocations, de colères qui semblent sortir de nulle part."
+      },
+      {
+        "profil": "Personnage qui cache quelque chose",
+        "description": "L'ivresse est dangereuse pour lui : il pourrait dire ce qu'il tait. Il surveille sa consommation et celle des autres, ce qui le rend paradoxalement plus lucide que les autres ivres."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère chaleur", "description": "Désinhibition agréable. Le personnage est plus détendu et un peu plus bavard." },
+      { "niveau": 2, "label": "Ivresse légère", "description": "Gestes un peu moins précis. La retenue habituelle commence à céder." },
+      { "niveau": 3, "label": "Ivresse franche", "description": "Équilibre affecté. La parole peut trahir ce qui est normalement tu." },
+      { "niveau": 4, "label": "Ivresse avancée", "description": "Le personnage ne contrôle plus vraiment ses mots ou ses actes." },
+      { "niveau": 5, "label": "Ivresse totale", "description": "Coordination quasi nulle. Mémoire fragmentée. Le personnage n'est plus lui-même." }
+    ],
+    "notesEditoriales": [
+      "L'ivresse est un révélateur narratif : elle dit ce que le personnage cache à jeun.",
+      "Éviter la caricature — une ivresse légère est souvent plus intéressante qu'une ivresse de clown.",
+      "Ce que le personnage dit ivre peut être plus vrai ou plus faux que sa version sobre."
+    ]
+  },
+  {
+    "id": "adrenaline",
+    "label": "Pic d'adrénaline",
+    "groupe": "reponse-nerveuse",
+    "definitionCourte": "Activation brutale du système nerveux en réponse à un danger ou un effort intense, qui décuple temporairement les capacités physiques au prix d'un épuisement différé.",
+    "signesPhysiques": [
+      "pouls qui s'emballe",
+      "pupilles dilatées",
+      "muscles tendus et prêts",
+      "gestes très rapides et décidés",
+      "transpiration immédiate",
+      "mâchoire serrée",
+      "regard acéré, hyper-focalisé",
+      "souffle court mais puissant",
+      "corps projeté vers l'avant"
+    ],
+    "sensationsInternes": [
+      "onde de chaleur et d'énergie dans tout le corps",
+      "douleur atténuée — les blessures ne sont pas ressenties immédiatement",
+      "temps qui semble ralentir",
+      "pensées très rapides et très claires",
+      "tout le reste s'efface sauf l'objectif immédiat",
+      "impression d'être invincible et de pouvoir tout accomplir",
+      "tremblement possible après le pic"
+    ],
+    "effetsSurPerception": [
+      "vision en tunnel — tout ce qui n'est pas la menace disparaît du champ",
+      "sons très nets en rapport avec le danger, reste amorti",
+      "hyper-conscience des mouvements autour de soi",
+      "le temps subjectif ralentit pendant le pic"
+    ],
+    "effetsVoixLangage": [
+      "ordres ou phrases très courtes",
+      "voix haute et assurée",
+      "aucun détour rhétorique",
+      "cris possibles sans censure",
+      "silence total si la concentration est maximale"
+    ],
+    "pensees": [
+      "Maintenant. Il faut agir maintenant.",
+      "Je peux le faire. Je vais le faire.",
+      "Rien d'autre n'existe que cet objectif.",
+      "Je ne sens pas la douleur — ce n'est pas le moment.",
+      "Chaque seconde compte.",
+      "Après. Je m'occuperai du reste après."
+    ],
+    "comportements": [
+      "agit sans hésiter, parfois sans réfléchir",
+      "enchaîne les décisions à une vitesse inhabituelle",
+      "ignore ses blessures ou sa fatigue pendant le pic",
+      "prend des risques qui sembleraient insensés hors de ce contexte",
+      "commande ou guide instinctivement si d'autres sont présents",
+      "tremble ou s'effondre à l'arrêt du pic"
+    ],
+    "masquesPossibles": [
+      "calme apparent — certains personnages gèrent le pic en se figeant plutôt qu'en s'agitant",
+      "froideur perçue comme du sang-froid",
+      "action rapide masquant la peur sous-jacente"
+    ],
+    "evolutionsPossibles": [
+      "effondrement physique et émotionnel après la redescente",
+      "larmes, nausée ou tremblement après le pic",
+      "hyperactivité résiduelle si la cause n'est pas résolue",
+      "sentiment de toute-puissance difficile à relativiser"
+    ],
+    "contextesAggravants": [
+      "danger perçu comme immédiat et mortel",
+      "présence de personnes à protéger",
+      "fatigue ou blessure préalable ignorée pendant le pic",
+      "situation sans issue claire"
+    ],
+    "contextesAttenuants": [
+      "résolution rapide de la menace",
+      "présence d'une personne calme qui ancre",
+      "action claire à accomplir",
+      "sortie physique de la zone de danger"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage entraîné",
+        "description": "Reconnaît l'adrénaline et l'utilise. Il canalise l'énergie vers des gestes précis plutôt que des mouvements désordonnés. La redescente est plus courte car il sait qu'elle vient."
+      },
+      {
+        "profil": "Personnage sans expérience",
+        "description": "L'adrénaline est désorientante — trop d'énergie, pas de canal. Les gestes peuvent être efficaces ou désastreux selon le hasard. La redescente est brutale et déstabilisante."
+      },
+      {
+        "profil": "Personnage protecteur",
+        "description": "Le pic est déclenché par la menace sur un autre, pas sur lui-même. La force est multipliée par l'enjeu. La redescente est souvent accompagnée de pleurs retardés."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère activation", "description": "Le personnage est plus vif, plus réactif. La situation est gérée." },
+      { "niveau": 2, "label": "Montée nette", "description": "Énergie visible. Le personnage prend les décisions plus vite." },
+      { "niveau": 3, "label": "Pic d'adrénaline franc", "description": "Chaque sens est aiguisé. La douleur est suspendue." },
+      { "niveau": 4, "label": "Activation maximale", "description": "Forces physiques décuplées. Le personnage peut faire des choses impossibles en temps normal." },
+      { "niveau": 5, "label": "Redescente brutale", "description": "Après le pic : tremblements, épuisement, nausée, pleurs possibles sans raison apparente." }
+    ],
+    "notesEditoriales": [
+      "La redescente d'adrénaline est souvent plus riche narrativement que le pic lui-même.",
+      "Après l'action, le personnage peut s'effondrer physiquement ou émotionnellement.",
+      "Les blessures ignorées pendant l'adrénaline deviennent très douloureuses après."
+    ]
+  },
+  {
+    "id": "deshydratation",
+    "label": "Déshydratation",
+    "groupe": "etat-physique-besoin",
+    "definitionCourte": "Manque d'eau progressif qui dégrade les fonctions physiques et cognitives, souvent ignoré jusqu'à ce que les symptômes soient déjà avancés.",
+    "signesPhysiques": [
+      "lèvres gercées ou sèches",
+      "langue pâteuse",
+      "yeux légèrement enfoncés",
+      "peau moins élastique",
+      "urine rare et foncée si on y pense",
+      "battements cardiaques perceptibles",
+      "regard terne"
+    ],
+    "sensationsInternes": [
+      "bouche sèche comme du papier",
+      "soif installée qui n'est pas toujours reconnue comme telle",
+      "mal de tête sourd",
+      "fatigue inexpliquée",
+      "vertiges légers en se levant",
+      "impression de fonctionner dans un léger brouillard"
+    ],
+    "effetsSurPerception": [
+      "concentration difficile",
+      "irritabilité croissante face aux imprévus",
+      "les tâches simples demandent plus d'effort"
+    ],
+    "effetsVoixLangage": [
+      "voix légèrement rauque",
+      "déglutition visible avant de parler",
+      "parole moins fluide",
+      "peu d'envie de s'étendre dans les explications"
+    ],
+    "pensees": [
+      "Je devrais boire quelque chose. Mais plus tard.",
+      "Ce mal de tête n'a aucune raison d'être là.",
+      "Pourquoi est-ce que je suis aussi irritable ?",
+      "J'ai du mal à me concentrer et je ne sais pas pourquoi.",
+      "Mes lèvres sont sèches. Depuis combien de temps ?",
+      "L'eau ici est loin ou mauvaise — je tiens."
+    ],
+    "comportements": [
+      "reporte la consommation d'eau sans raison claire",
+      "commet des erreurs de jugement inhabituelles",
+      "réagit avec plus d'impatience que la situation le justifie",
+      "cherche de l'ombre sans faire le lien avec sa soif",
+      "s'arrête brutalement quand la tête tourne",
+      "boit vite et trop en une fois quand il réalise"
+    ],
+    "masquesPossibles": [
+      "irritabilité attribuée à d'autres causes",
+      "fatigue présentée comme une longue journée",
+      "mal de tête imputé au stress"
+    ],
+    "evolutionsPossibles": [
+      "vertiges et malaise si la déshydratation s'aggrave",
+      "confusion légère qui peut entraîner de mauvaises décisions",
+      "résorption rapide avec une hydratation adéquate",
+      "aggravation de tous les autres états présents"
+    ],
+    "contextesAggravants": [
+      "chaleur forte et exposition prolongée",
+      "effort physique sans pause",
+      "alcool ou café sans eau en parallèle",
+      "stress ou anxiété qui détourne de la sensation de soif"
+    ],
+    "contextesAttenuants": [
+      "eau disponible et consommée régulièrement",
+      "fruits ou aliments hydratants",
+      "ombre et repos",
+      "rappel extérieur à boire"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage en mission ou en survie",
+        "description": "Rationne l'eau avec précision. Connaît les signes. Gère la déshydratation comme un problème logistique, pas émotionnel — jusqu'à ce que la pensée commence à dériver."
+      },
+      {
+        "profil": "Personnage stressé",
+        "description": "Oublie de boire parce que son attention est ailleurs. La déshydratation s'installe sans qu'il en prenne conscience. Elle amplifie son stress et crée un cercle."
+      },
+      {
+        "profil": "Personnage en contexte de privation",
+        "description": "L'eau est rare ou inaccessible. La déshydratation devient une souffrance consciente. Il y pense en permanence mais n'en parle pas — la montrer physiquement suffit."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère soif", "description": "Le personnage a soif mais le reporte. Fonctionnement normal." },
+      { "niveau": 2, "label": "Déshydratation légère", "description": "Maux de tête, concentration réduite, irritabilité légère." },
+      { "niveau": 3, "label": "Déshydratation modérée", "description": "Vertiges, lèvres sèches, faiblesse. Le personnage commence à faiblir." },
+      { "niveau": 4, "label": "Déshydratation sévère", "description": "Confusion légère, rythme cardiaque perturbé, incapacité à fonctionner." },
+      { "niveau": 5, "label": "Déshydratation critique", "description": "Danger vital. Le personnage ne peut plus agir seul." }
+    ],
+    "notesEditoriales": [
+      "La déshydratation s'installe si progressivement que le personnage peut ne pas la reconnaître.",
+      "Très utile dans les scènes d'action prolongée, de survie, ou de stress intense.",
+      "Elle aggrave tous les autres états : fatigue, irritabilité, mal de tête."
+    ]
+  },
+  {
+    "id": "hypersensibilite-sensorielle",
+    "label": "Hypersensibilité sensorielle",
+    "groupe": "trouble-perceptif",
+    "definitionCourte": "État dans lequel les stimuli ordinaires — bruits, lumières, textures, odeurs — sont perçus avec une intensité insupportable, souvent liée à la fatigue ou au stress.",
+    "signesPhysiques": [
+      "mains portées aux oreilles aux bruits forts",
+      "clignements fréquents face à la lumière vive",
+      "sursauts aux sons habituellement ignorés",
+      "recul au contact inattendu",
+      "grimace aux odeurs ordinaires",
+      "regard fuyant les espaces trop animés",
+      "posture comprimée, cherchant à réduire la surface exposée"
+    ],
+    "sensationsInternes": [
+      "chaque stimulus semble amplifié au-delà du supportable",
+      "irritation diffuse qui monte avec chaque nouvelle sensation",
+      "impression d'être sans peau",
+      "épuisement rapide face à l'afflux sensoriel",
+      "envie intense de silence et d'obscurité",
+      "sentiment d'agression même dans les environnements ordinaires"
+    ],
+    "effetsSurPerception": [
+      "les bruits de fond deviennent aussi forts que les bruits principaux",
+      "la lumière artificielle semble plus dure que naturelle",
+      "les textures inconfortables deviennent intolérables",
+      "les odeurs déclenchent des nausées ou des réactions émotionnelles fortes"
+    ],
+    "effetsVoixLangage": [
+      "ton court et peu disponible",
+      "refus des environnements bruyants",
+      "demande explicite de baisser la voix ou l'éclairage",
+      "réponses minimales pour économiser le traitement sensoriel"
+    ],
+    "pensees": [
+      "Ce bruit. Ce bruit est insupportable — personne d'autre ne l'entend ?",
+      "Je dois sortir d'ici avant que ça empire.",
+      "Tout arrive en même temps et je ne peux plus filtrer.",
+      "Si quelqu'un me touche encore, je ne réponds plus de rien.",
+      "Le silence. Il me faut du silence.",
+      "Ce n'est pas la fatigue ordinaire — c'est différent."
+    ],
+    "comportements": [
+      "se retire dans un espace calme et peu stimulant",
+      "porte des bouchons d'oreilles ou évite les espaces bruyants",
+      "demande à baisser les lumières ou à fermer les fenêtres",
+      "évite le contact physique non sollicité",
+      "répond par monosyllabes pour réduire l'effort cognitif",
+      "s'isole sans explication si la saturation est trop forte"
+    ],
+    "masquesPossibles": [
+      "refus poli de participation présenté comme de la fatigue ordinaire",
+      "lunettes de soleil ou casque pour gérer sans alerter",
+      "froideur relationnelle masquant l'hypersensibilité"
+    ],
+    "evolutionsPossibles": [
+      "effondrement sensoriel si la surcharge n'est pas réduite",
+      "résorption avec isolement et silence",
+      "explosion émotionnelle si la pression est trop forte trop longtemps",
+      "mauvaise décision prise sous saturation sensorielle"
+    ],
+    "contextesAggravants": [
+      "espace bondé et bruyant",
+      "combinaison de plusieurs stimuli forts simultanés",
+      "fatigue ou stress préalable",
+      "impossibilité de partir"
+    ],
+    "contextesAttenuants": [
+      "espace calme et peu éclairé",
+      "absence de stimuli non sollicités",
+      "présence d'une seule personne connue",
+      "activité sensorielle douce et maîtrisée (musique calme, texture familière)"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui le sait et le gère",
+        "description": "Connaît ses seuils. Anticipe et aménage. Porte des protections discrètes. La gêne est réelle mais encadrée — jusqu'à ce qu'une situation imprévue dépasse ses ressources."
+      },
+      {
+        "profil": "Personnage qui ne le comprend pas",
+        "description": "Ne sait pas pourquoi il réagit si fort. S'en veut d'être si peu résistant. Interprète ses réactions comme de la faiblesse ou de l'exagération."
+      },
+      {
+        "profil": "Personnage en surmenage",
+        "description": "L'hypersensibilité est temporaire — elle signale l'épuisement du système nerveux. Tout semble agressif parce qu'il n'a plus de réserves pour filtrer."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère irritabilité sensorielle", "description": "Le personnage est légèrement agacé par les stimuli habituellement neutres." },
+      { "niveau": 2, "label": "Sensibilité accrue", "description": "Cherche le calme et évite les espaces surchargés." },
+      { "niveau": 3, "label": "Hypersensibilité franche", "description": "Difficile de rester dans un environnement normal. Comportement défensif visible." },
+      { "niveau": 4, "label": "Saturation sensorielle", "description": "Le personnage ne peut plus raisonner dans un espace normal." },
+      { "niveau": 5, "label": "Effondrement sensoriel", "description": "Le personnage se coupe, se ferme ou fuit. Toute stimulation est insupportable." }
+    ],
+    "notesEditoriales": [
+      "L'hypersensibilité sensorielle est souvent un signe d'épuisement nerveux, de trauma ou d'anxiété intense.",
+      "Elle peut expliquer pourquoi un personnage fuit les rassemblements ou cherche le silence.",
+      "À distinguer d'une simple introversion : ici c'est physiquement douloureux, pas juste épuisant."
+    ]
+  },
+  {
+    "id": "tension-machoire",
+    "label": "Tension de mâchoire",
+    "groupe": "tension-somatique",
+    "definitionCourte": "Serrement chronique ou aigu de la mâchoire, souvent inconscient, qui révèle une colère rentrée, une anxiété non exprimée ou une retenue prolongée.",
+    "signesPhysiques": [
+      "muscles temporaux visiblement saillants",
+      "lèvres serrées et peu mobiles",
+      "mâchoire légèrement projetée vers l'avant",
+      "claquement ou grincement audible dans les cas extrêmes",
+      "douleur visible quand quelqu'un s'en aperçoit",
+      "mastication difficile après une nuit de bruxisme",
+      "peu de sourires spontanés"
+    ],
+    "sensationsInternes": [
+      "douleur sourde le long des tempes",
+      "fatigue dans les muscles masticateurs",
+      "maux de tête de tension matinaux",
+      "sensation d'être prêt à mordre",
+      "difficulté à décontracter même en y pensant",
+      "douleur irradiant vers les oreilles"
+    ],
+    "effetsSurPerception": [
+      "légère hypersensibilité aux sons forts",
+      "irritation amplifiée par la douleur sourde en fond",
+      "tout semble requérir plus d'effort à traiter"
+    ],
+    "effetsVoixLangage": [
+      "voix légèrement tendue et moins fluide",
+      "articulation serrée",
+      "peu de mots en excès — chaque mot est pesé",
+      "sourire difficile, souvent contracté"
+    ],
+    "pensees": [
+      "Je serre encore. Je m'en rends compte maintenant seulement.",
+      "Je ne peux pas décontracter même en essayant.",
+      "Ce n'est pas de la colère. Ou peut-être que si.",
+      "Ma mâchoire me fait mal depuis ce matin.",
+      "Je ne peux pas dire ce que je pense alors mon corps le dit à ma place."
+    ],
+    "comportements": [
+      "desserre intentionnellement la mâchoire quand il s'en rend compte",
+      "masse ses tempes ou sa mâchoire discrètement",
+      "réduit les échanges inutiles",
+      "répond avec des mots précis, sans formules",
+      "évite les situations qui amplifieraient la tension",
+      "rechigne à sourire même quand la situation le demande"
+    ],
+    "masquesPossibles": [
+      "sérieux présenté comme de la concentration",
+      "visage fermé présenté comme de la réflexion",
+      "fatigue invoquée pour expliquer la tension visible"
+    ],
+    "evolutionsPossibles": [
+      "migraine si la tension se propage à la nuque",
+      "relâchement brusque accompagné d'une confession",
+      "dents abîmées si le bruxisme dure des semaines",
+      "résorption avec relaxation ou résolution du conflit sous-jacent"
+    ],
+    "contextesAggravants": [
+      "situation où le personnage retient ce qu'il voudrait dire",
+      "confrontation évitée depuis longtemps",
+      "nuit de stress ou de colère non exprimée",
+      "travail sur écran prolongé"
+    ],
+    "contextesAttenuants": [
+      "chaleur appliquée sur les tempes",
+      "conversation qui libère ce qui était retenu",
+      "exercice physique",
+      "moment seul où la retenue n'est plus nécessaire"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui retient sa colère",
+        "description": "La tension de mâchoire est son signal d'alarme interne. Elle monte en proportion directe de ce qu'il ne peut pas dire. Quand elle lâche, le discours lâche avec."
+      },
+      {
+        "profil": "Personnage anxieux",
+        "description": "La tension est constante, même dans les situations calmes. Il ne sait pas toujours pourquoi elle est là. Elle accompagne une vigilance de fond contre laquelle il ne lutte plus vraiment."
+      },
+      {
+        "profil": "Personnage en deuil ou sous choc",
+        "description": "La mâchoire serrée est la seule façon de tenir. Desserrer serait lâcher quelque chose d'irréversible. Il s'y accroche comme à une digue."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère crispation", "description": "Presque invisible. Le personnage l'ignore." },
+      { "niveau": 2, "label": "Mâchoire contractée", "description": "Visible à qui regarde. Le personnage doit faire un effort pour desserrer." },
+      { "niveau": 3, "label": "Tension douloureuse", "description": "Douleur en fond aux tempes. L'humeur en est affectée." },
+      { "niveau": 4, "label": "Bruxisme nocturne", "description": "Douleur au réveil, dents sensibles. Le corps a travaillé la nuit." },
+      { "niveau": 5, "label": "Contracture temporomandibulaire", "description": "Ouvrir la bouche est douloureux. Le personnage ne peut plus parler normalement." }
+    ],
+    "notesEditoriales": [
+      "La tension de mâchoire est l'un des signes les plus subtils d'une colère retenue.",
+      "Un personnage qui desserre la mâchoire intentionnellement signale un moment de relâchement ou de décision.",
+      "À combiner avec la tension des épaules pour un portrait physique du personnage sous pression."
+    ]
+  },
+  {
+    "id": "jambes-coupees",
+    "label": "Jambes coupées",
+    "groupe": "reponse-nerveuse",
+    "definitionCourte": "Soudaine dérobade des jambes liée à un choc émotionnel intense, une terreur ou une révélation brutale, qui force le corps à se soutenir ou à tomber.",
+    "signesPhysiques": [
+      "main qui cherche un mur ou une surface à saisir",
+      "fléchissement visible des genoux",
+      "démarche soudainement hésitante",
+      "assise précipitée",
+      "pâleur immédiate",
+      "regard qui se fixe sur un point quelconque pour se stabiliser",
+      "main pressée contre la bouche"
+    ],
+    "sensationsInternes": [
+      "disparition soudaine de la force dans les membres inférieurs",
+      "impression que le sol remonte",
+      "vide dans le ventre",
+      "tête légère, presque désolidarisée du corps",
+      "cœur qui s'emballe ou se suspend",
+      "choc froid dans tout le corps"
+    ],
+    "effetsSurPerception": [
+      "le monde semble s'éloigner ou s'agrandir d'un coup",
+      "les sons arrivent de loin",
+      "le temps se suspend quelques secondes"
+    ],
+    "effetsVoixLangage": [
+      "silence total ou interjection involontaire",
+      "souffle court audible",
+      "incapacité à formuler la première phrase",
+      "voix basse et fragile si la parole revient"
+    ],
+    "pensees": [
+      "Non. Non non non.",
+      "C'est réel. Ça s'est passé vraiment.",
+      "Je ne peux pas tenir debout là.",
+      "Il faut que je m'accroche à quelque chose.",
+      "Je ne peux pas traiter ça. Pas d'un coup.",
+      "Qu'est-ce qu'on fait quand quelque chose d'aussi grand arrive ?"
+    ],
+    "comportements": [
+      "s'accroche à la surface la plus proche",
+      "s'assoit ou s'agenouille si possible",
+      "reste silencieux pendant plusieurs secondes",
+      "secoue légèrement la tête comme pour se réveiller",
+      "demande de répéter — pas pour ne pas avoir compris, mais pour gagner du temps",
+      "se lève et s'assoit encore, incapable de trouver une position stable"
+    ],
+    "masquesPossibles": [
+      "raidissement immédiat pour compenser la défaillance",
+      "sourire crispé présenté comme de la maîtrise",
+      "commentaire neutre dit d'une voix trop calme"
+    ],
+    "evolutionsPossibles": [
+      "larmes différées une fois seul",
+      "choc dissociatif si la nouvelle est trop grande",
+      "colère si la défaillance est interprétée comme une agression",
+      "récupération progressive avec l'aide d'un présent"
+    ],
+    "contextesAggravants": [
+      "révélation brutale et inattendue",
+      "annonce faite en public sans préparation",
+      "nouvelles cumulées sur une courte période",
+      "épuisement ou faiblesse physique préalable"
+    ],
+    "contextesAttenuants": [
+      "personne de confiance pour stabiliser physiquement",
+      "annonce graduelle plutôt que brutale",
+      "espace privé",
+      "possibilité de s'asseoir ou de s'allonger"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui contrôle tout",
+        "description": "Les jambes coupées sont une trahison insupportable du corps. Il s'accroche physiquement et mentalement, essayant de ne pas montrer la défaillance. Elle arrive quand même."
+      },
+      {
+        "profil": "Personnage émotionnellement ouvert",
+        "description": "Accepte la défaillance comme une réaction légitime. S'assoit, laisse passer, demande du temps. Il ne lutte pas contre son corps."
+      },
+      {
+        "profil": "Personnage en état de choc",
+        "description": "Les jambes coupées ne sont pas suivies de larmes mais de silence. Il s'assoit, fixe le vide. Le corps a enregistré avant que l'esprit commence à comprendre."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère dérobade", "description": "Un bref choc. Le personnage s'appuie mais ne tombe pas." },
+      { "niveau": 2, "label": "Jambes faibles", "description": "Doit s'asseoir ou s'appuyer. La faiblesse dure quelques secondes." },
+      { "niveau": 3, "label": "Quasi-effondrement", "description": "Le personnage glisse le long d'un mur ou s'assoit précipitamment." },
+      { "niveau": 4, "label": "Chute partielle", "description": "Le personnage s'agenouille ou s'affaisse malgré lui." },
+      { "niveau": 5, "label": "Évanouissement", "description": "Perte de conscience brève. Le corps tombe." }
+    ],
+    "notesEditoriales": [
+      "Les jambes coupées sont une réponse du corps à un choc émotionnel — elles rendent la scène physiquement crédible.",
+      "À utiliser pour les révélations majeures, les nouvelles traumatisantes ou les confrontations dévastatrices.",
+      "Éviter d'y associer immédiatement des larmes : la dissociation muette est souvent plus forte."
+    ]
+  },
+  {
+    "id": "corps-anesthesie",
+    "label": "Corps anesthésié",
+    "groupe": "trouble-sensitif",
+    "definitionCourte": "État de dissociation somatique dans lequel le personnage ne ressent plus son corps — ni douleur, ni fatigue, ni faim — souvent après un choc ou un trauma récent.",
+    "signesPhysiques": [
+      "mouvements très calmes, presque mécaniques",
+      "regard fixe, absent",
+      "absence de grimace face à la douleur",
+      "blessures non remarquées",
+      "posture figée ou trop régulière",
+      "respiration lente et superficielle",
+      "aucune réponse aux stimuli habituels"
+    ],
+    "sensationsInternes": [
+      "vide complet à l'intérieur",
+      "impression de regarder son corps de l'extérieur",
+      "absence de faim, de soif ou de fatigue malgré l'épuisement réel",
+      "silence intérieur total",
+      "sentiment flottant de non-réalité",
+      "le monde semble recouvert d'une couche de coton"
+    ],
+    "effetsSurPerception": [
+      "les stimuli extérieurs arrivent amortis, comme de loin",
+      "les visages semblent interchangeables",
+      "les sons perdent leur caractère émotionnel",
+      "la profondeur de champ semble altérée"
+    ],
+    "effetsVoixLangage": [
+      "voix monocorde, sans modulation",
+      "réponses précises mais sans affect",
+      "aucun commentaire spontané",
+      "silence prolongé entre les phrases",
+      "impossibilité d'exprimer un besoin"
+    ],
+    "pensees": [
+      "Je devrais ressentir quelque chose. Pourquoi est-ce que je ne ressens rien ?",
+      "Ce n'est pas moi qui marche. Ce n'est pas moi là.",
+      "Je suis là mais je ne suis pas là.",
+      "Il faudrait que je mange. Ou dorme. Je ne sais pas dans quel ordre.",
+      "Les autres parlent. Je les vois. Je ne comprends pas pourquoi c'est important.",
+      "Il y a quelque chose derrière cette absence. Je ne peux pas encore y aller."
+    ],
+    "comportements": [
+      "accomplit les tâches mécaniquement, sans initiative",
+      "répond aux questions mais ne pose pas les siennes",
+      "ignore ses blessures ou ses besoins physiques",
+      "reste dans la pièce ou à l'endroit où il se trouve sans décider de partir",
+      "accepte ce qu'on lui donne sans réagir",
+      "observe sans participer"
+    ],
+    "masquesPossibles": [
+      "calme présenté comme de la force",
+      "efficacité mécanique lue comme de la compétence",
+      "absence d'émotion interprétée comme de la maîtrise"
+    ],
+    "evolutionsPossibles": [
+      "effondrement différé quand la protection lâche",
+      "retour progressif des sensations parfois douloureux",
+      "dissociation prolongée si le trauma n'est pas traité",
+      "réaction émotionnelle déclenchée par un détail inattendu"
+    ],
+    "contextesAggravants": [
+      "stimulus qui rappelle directement le choc",
+      "pression à agir ou décider rapidement",
+      "absence de sécurité physique ou psychologique",
+      "isolement complet"
+    ],
+    "contextesAttenuants": [
+      "présence silencieuse d'une personne de confiance",
+      "sécurité physique assurée",
+      "aucune pression à réagir ou à expliquer",
+      "contact physique doux et non intrusif"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage après un deuil brutal",
+        "description": "L'anesthésie dure les premiers jours. Il fonctionne — il arrange les funérailles, reçoit les condoléances — sans vraiment être là. L'effondrement vient plus tard, seul."
+      },
+      {
+        "profil": "Personnage après une violence subie",
+        "description": "Le corps s'est protégé en se coupant. La dissociation est totale. Il décrit ce qui s'est passé de façon factuelle, sans émotion — ce qui peut être confondu avec du mensonge."
+      },
+      {
+        "profil": "Personnage chroniquement dissocié",
+        "description": "Connaît cet état. Il sait qu'il fonctionne en mode automatique. Il attend que ça revienne. Parfois ça ne revient pas entièrement."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère distance émotionnelle", "description": "Le personnage fonctionne mais semble légèrement absent." },
+      { "niveau": 2, "label": "Détachement installé", "description": "Il répond mécaniquement. Les émotions semblent derrière une vitre." },
+      { "niveau": 3, "label": "Dissociation partielle", "description": "Il agit de façon fonctionnelle mais ne ressent pas ce qu'il devrait." },
+      { "niveau": 4, "label": "Dissociation franche", "description": "Il ne reconnaît pas sa propre douleur ou détresse. Fonctionne en pilote automatique." },
+      { "niveau": 5, "label": "Dissociation totale", "description": "Le personnage est complètement déconnecté de son corps et de la réalité." }
+    ],
+    "notesEditoriales": [
+      "L'anesthésie corporelle est souvent une réponse protectrice après un trauma — le cerveau coupe le signal.",
+      "Elle précède parfois un effondrement différé, quand la protection lâche.",
+      "Très utile dans les scènes d'après-choc, de deuil immédiat ou de survie."
+    ]
+  },
+  {
+    "id": "palpitations",
+    "label": "Palpitations",
+    "groupe": "reponse-nerveuse",
+    "definitionCourte": "Sensation de battements cardiaques trop forts, trop rapides ou irréguliers, souvent accompagnée d'une conscience anxieuse du propre cœur.",
+    "signesPhysiques": [
+      "main pressée sur la poitrine",
+      "inspirations plus profondes pour compenser",
+      "immobilité soudaine pour écouter son cœur",
+      "légère pâleur ou rougeur",
+      "pouls visible à la gorge ou aux tempes",
+      "malaise visible sans cause immédiate apparente"
+    ],
+    "sensationsInternes": [
+      "cœur qui cogne fort dans la poitrine",
+      "battements perceptibles dans la gorge",
+      "impression que le cœur va rater un battement",
+      "légère oppression thoracique",
+      "anxiété secondaire liée à la conscience du cœur",
+      "faiblesse légère associée"
+    ],
+    "effetsSurPerception": [
+      "conscience aiguë du propre corps",
+      "difficulté à se concentrer sur autre chose",
+      "tout semble soudainement fragile"
+    ],
+    "effetsVoixLangage": [
+      "interruption soudaine de la parole",
+      "souffle légèrement difficile",
+      "voix plus tendue",
+      "difficulté à terminer une phrase longue"
+    ],
+    "pensees": [
+      "Mon cœur bat trop fort. Est-ce que c'est normal ?",
+      "Si je me calme il va ralentir. Il faut que je me calme.",
+      "Ça fait combien de temps que c'est comme ça ?",
+      "Est-ce que quelqu'un peut entendre ça ?",
+      "Je ne pense plus à rien d'autre.",
+      "Ce n'est rien. Ce n'est rien. Ce n'est peut-être rien."
+    ],
+    "comportements": [
+      "pose la main sur sa poitrine et s'immobilise",
+      "cherche à ralentir sa respiration",
+      "s'assoit si les palpitations sont intenses",
+      "continue à parler mais à voix plus basse",
+      "refuse les stimulants proposés",
+      "surveille discrètement son pouls"
+    ],
+    "masquesPossibles": [
+      "conversation maintenue pour paraître normal",
+      "sourire forcé masquant la peur",
+      "activité continuée malgré l'inconfort"
+    ],
+    "evolutionsPossibles": [
+      "crise d'anxiété si la peur des palpitations s'emballe",
+      "résorption avec calme et respiration contrôlée",
+      "syncope si le rythme est très irrégulier",
+      "hypocondrie installée si les épisodes se répètent"
+    ],
+    "contextesAggravants": [
+      "caféine ou alcool",
+      "fatigue ou manque de sommeil",
+      "stress ou anxiété intense",
+      "chaleur ou effort physique soudain"
+    ],
+    "contextesAttenuants": [
+      "respiration lente et régulière",
+      "position assise ou allongée",
+      "calme et absence de stimulation",
+      "contact rassurant d'une personne de confiance"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage hypocondriaque",
+        "description": "La palpitation la plus légère déclenche une spirale — il se convainc d'un infarctus. L'anxiété secondaire aggrave les palpitations. Cercle difficile à briser seul."
+      },
+      {
+        "profil": "Personnage amoureux",
+        "description": "Les palpitations sont reconnues comme un signal émotionnel, pas médical. Il les accueille avec plaisir et gêne mélangés, conscient de leur signification."
+      },
+      {
+        "profil": "Personnage épuisé",
+        "description": "Les palpitations arrivent en fin de journée ou après un effort prolongé. Il les ignore comme un signe parmi d'autres que son corps est à bout."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère accélération cardiaque", "description": "Le personnage le remarque à peine. Émotionnellement lié." },
+      { "niveau": 2, "label": "Palpitations perceptibles", "description": "Le personnage pose sa main sur sa poitrine et fait une pause." },
+      { "niveau": 3, "label": "Palpitations fortes", "description": "Difficile d'ignorer. Le personnage s'immobilise." },
+      { "niveau": 4, "label": "Tachycardie", "description": "Rythme très rapide. Essoufflement et anxiété associés." },
+      { "niveau": 5, "label": "Crise cardiaque ou panique", "description": "Le personnage est convaincu qu'il va mourir. Douleur thoracique possible." }
+    ],
+    "notesEditoriales": [
+      "Les palpitations créent un retour brutal sur son propre corps — utile pour briser une scène d'action ou de dialogue.",
+      "Elles peuvent être causées par la peur, la caféine, l'amour ou le choc.",
+      "La conscience de son propre cœur génère souvent une anxiété secondaire (peur d'avoir peur)."
+    ]
+  },
+  {
+    "id": "oppression-thoracique",
+    "label": "Oppression thoracique",
+    "groupe": "tension-somatique",
+    "definitionCourte": "Sensation de poids ou d'étau sur la poitrine, souvent liée à l'anxiété, au chagrin ou à une émotion trop longtemps contenue.",
+    "signesPhysiques": [
+      "main portée sur le sternum",
+      "respiration haute et courte",
+      "épaules voûtées vers l'intérieur",
+      "posture légèrement courbée",
+      "soupirs profonds répétés",
+      "regard baissé",
+      "incapacité à prendre une inspiration complète"
+    ],
+    "sensationsInternes": [
+      "poids sur la poitrine difficile à localiser précisément",
+      "impression que quelque chose appuie de l'intérieur",
+      "difficulté à respirer pleinement",
+      "chaleur ou froid derrière le sternum",
+      "sensation que quelque chose est coincé là et ne peut pas sortir",
+      "fatigue respiratoire"
+    ],
+    "effetsSurPerception": [
+      "le monde semble plus pesant",
+      "l'air semble moins disponible",
+      "le moindre obstacle semble insurmontable"
+    ],
+    "effetsVoixLangage": [
+      "voix plus petite et plus basse",
+      "soupirs récurrents entre les mots",
+      "phrases courtes pour économiser le souffle",
+      "difficulté à projeter la voix"
+    ],
+    "pensees": [
+      "Il y a quelque chose qui pèse là et je ne sais pas comment le faire partir.",
+      "Si je soupirait assez fort, peut-être que ça se dénouerait.",
+      "Je n'arrive pas à respirer vraiment.",
+      "Ce poids là — ce n'est pas physique. Ou si ?",
+      "Je n'ai pas la force de porter ça plus longtemps.",
+      "Il faut que quelque chose sorte mais je ne sais pas quoi."
+    ],
+    "comportements": [
+      "soupire longuement et fréquemment",
+      "pose la main sur le sternum instinctivement",
+      "fuit les situations qui ajoutent de la pression",
+      "recherche la position allongée pour soulager",
+      "respire plus lentement et consciemment",
+      "parle peu pour économiser le souffle"
+    ],
+    "masquesPossibles": [
+      "soupirs attribués à la fatigue",
+      "posture courbée présentée comme une mauvaise habitude",
+      "voix basse présentée comme de la discrétion"
+    ],
+    "evolutionsPossibles": [
+      "larmes si la compression se libère",
+      "crise d'anxiété si l'oppression s'amplifie",
+      "aveu ou confession si l'émotion coincée trouve une issue",
+      "résorption progressive avec le repos"
+    ],
+    "contextesAggravants": [
+      "émotion contenue depuis longtemps",
+      "situation qui empêche d'exprimer ce qu'on ressent",
+      "deuil non reconnu ou non partagé",
+      "espace confiné ou sans air"
+    ],
+    "contextesAttenuants": [
+      "espace ouvert ou ventilé",
+      "expression de ce qui était retenu",
+      "contact physique doux et silencieux",
+      "pleurs libérés sans retenue"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage en deuil",
+        "description": "L'oppression est physiquement réelle. Elle arrive par vagues, souvent sans déclencheur apparent. Soulagée brièvement par les larmes, elle revient."
+      },
+      {
+        "profil": "Personnage anxieux chronique",
+        "description": "L'oppression est permanente, de fond. Il ne la remarque plus vraiment. C'est quand elle disparaît brièvement qu'il réalise à quel point elle était là."
+      },
+      {
+        "profil": "Personnage qui retient",
+        "description": "L'oppression augmente en proportion de ce qu'il ne dit pas. Elle est plus forte avant une confrontation redoutée qu'après. Après, elle se relâche — qu'il ait dit la vérité ou non."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère pesanteur", "description": "Presque ignorable. Le personnage soupire de temps en temps." },
+      { "niveau": 2, "label": "Oppression installée", "description": "Gêne constante. Les respirations profondes sont difficiles." },
+      { "niveau": 3, "label": "Oppression franche", "description": "Le personnage a du mal à parler longtemps sans pause." },
+      { "niveau": 4, "label": "Serrement intense", "description": "Chaque inspiration demande un effort. Anxiété possible." },
+      { "niveau": 5, "label": "Crise d'oppression", "description": "Impossible à ignorer. Le personnage doit s'arrêter et s'allonger." }
+    ],
+    "notesEditoriales": [
+      "L'oppression thoracique est souvent le signe d'une émotion non dite qui cherche une issue.",
+      "Le soupir profond qui suit un relâchement peut signaler un tournant dans la scène.",
+      "À utiliser dans les scènes de deuil, d'anxiété chronique ou de confession avortée."
+    ]
+  }
+]

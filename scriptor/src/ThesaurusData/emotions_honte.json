@@ -1,0 +1,471 @@
+[
+  {
+    "id": "honte",
+    "label": "Honte",
+    "alias": ["honte", "honte profonde", "honte de soi", "rougeur intérieure", "indignité ressentie", "abaissement de soi", "sentiment d'être mauvais", "honte brûlante", "honte silencieuse", "honte d'exister"],
+    "famille": "honte-culpabilite",
+    "definitionCourte": "État de rétraction intérieure lié à l'exposition d'une faiblesse, d'une faute ou d'un jugement subi. La honte est orientée vers soi — c'est le sentiment d'être mauvais, pas seulement d'avoir fait quelque chose de mauvais.",
+    "signesPhysiques": [
+      "regard qui tombe vers le sol sans pouvoir se relever",
+      "épaules qui rentrent comme pour disparaître",
+      "rougeur envahissant le visage et le cou",
+      "immobilité rigide, corps figé sous le poids du regard",
+      "mâchoire légèrement serrée, lèvres pincées",
+      "doigts qui s'entrelacent, se tordent ou agrippent un vêtement",
+      "recul imperceptible du corps, un pas en arrière",
+      "sourire crispé, trop bref, qui disparaît aussitôt",
+      "nuque qui se courbe légèrement",
+      "bras croisés ou collés au corps"
+    ],
+    "sensationsInternes": [
+      "chaleur brûlante qui envahit le visage en quelques secondes",
+      "creux dans le ventre, comme un sol qui se dérobe",
+      "gorge serrée, presque étranglée",
+      "envie intense de disparaître, de devenir invisible",
+      "resserrement thoracique, poids sur la poitrine",
+      "picotement sur la peau, conscience aiguë de chaque centimètre de soi",
+      "impression que tout le monde regarde, que rien n'échappe"
+    ],
+    "pensees": [
+      "Tout le monde me regarde.",
+      "Je suis ridicule.",
+      "Je ne mérite pas d'être ici.",
+      "Comment ai-je pu faire ça ?",
+      "Ils vont se souvenir de ça pour toujours.",
+      "Je voudrais être invisible.",
+      "Je suis exactement ce qu'ils pensent que je suis.",
+      "Il ne faut surtout pas que ça se voie."
+    ],
+    "effetsVoixLangage": [
+      "voix affaiblie, presque inaudible",
+      "phrases courtes et tronquées",
+      "perte de mots au milieu d'une phrase",
+      "silence soudain et prolongé",
+      "ton monocorde, sans inflexion",
+      "politesse excessive et rigide comme armure",
+      "débit trop lent, hésitant"
+    ],
+    "comportements": [
+      "évite le regard de l'autre, regarde ses pieds ou un point neutre",
+      "quitte la pièce ou cherche à fuir la situation",
+      "devient excessivement silencieux",
+      "s'excuse de manière répétée et disproportionnée",
+      "se replie sur lui-même, bras croisés, corps fermé",
+      "répond par monosyllabes pour clore au plus vite",
+      "tente de minimiser ou d'expliquer sans arrêt",
+      "évite de revenir sur le sujet pendant des jours"
+    ],
+    "masquesPossibles": [
+      "ironie distante pour dédramatiser ce qui ronge",
+      "agressivité défensive si quelqu'un approche trop",
+      "rire forcé pour signaler que ça n'a pas d'importance",
+      "surcontrôle de la posture et du ton pour ne rien laisser paraître",
+      "bavardage compulsif pour couvrir le silence révélateur"
+    ],
+    "evolutionsPossibles": [
+      "colère défensive si la honte est prolongée ou commentée",
+      "retrait durable et évitement social",
+      "effondrement si le masque lâche dans un moment de solitude",
+      "rancœur si la honte était injuste ou infligée",
+      "résolution si la faute est reconnue, nommée et pardonnée"
+    ],
+    "contextesAggravants": [
+      "présence d'un groupe ou d'un public qui observe",
+      "témoin admiré, respecté ou aimé dont le regard compte",
+      "figure d'autorité présente",
+      "impossibilité de fuir la situation — lieu clos, contrainte sociale",
+      "humiliation répétée qui réactive les précédentes"
+    ],
+    "contextesAttenuants": [
+      "présence d'une seule personne de confiance qui ne juge pas",
+      "solitude après l'événement — pouvoir enfin se défaire",
+      "validation explicite de la souffrance par quelqu'un de proche",
+      "temps écoulé qui prend du recul sur l'événement"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Gêne", "description": "Légère conscience d'un impair, sans vrai trouble intérieur. Le personnage s'en remet rapidement et n'y repense pas longtemps." },
+      { "niveau": 2, "label": "Embarras", "description": "Malaise visible, rougeur, sourire contraint. Le personnage voudrait changer de sujet et s'y prend maladroitement." },
+      { "niveau": 3, "label": "Honte marquée", "description": "Sentiment fort de s'être exposé. Le personnage évite les regards, cherche à s'isoler et y repense plusieurs heures." },
+      { "niveau": 4, "label": "Humiliation", "description": "Sentiment d'avoir été rabaissé publiquement. Mélange de honte et de colère rentrée. La blessure dure." },
+      { "niveau": 5, "label": "Effondrement honteux", "description": "La honte submerge tout. Le personnage ne parvient plus à fonctionner normalement. Elle touche à l'identité même." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage fier ou orgueilleux",
+        "description": "Tente de se redresser, masque à tout prix. La honte se transforme rapidement en colère défensive — il est hors de question de montrer la moindre faille. L'orgueil est le bouclier, mais il amplifie la blessure intérieure."
+      },
+      {
+        "profil": "Adolescent anxieux",
+        "description": "Focalise sur chaque regard, chaque rire, chaque chuchotement dans la pièce. Grossit les détails humiliants hors de proportion. La honte dure longtemps après l'événement et refait surface au moindre rappel."
+      },
+      {
+        "profil": "Personnage habitué au danger ou au contrôle",
+        "description": "Contrôle mieux l'extérieur mais la honte ronge en silence. La réaction est retardée — elle surgit seul, la nuit, ou dans un moment de faiblesse inattendu. Il n'en parle jamais."
+      }
+    ],
+    "notesEditoriales": [
+      "Ne pas confondre avec la culpabilité (orientée vers l'acte) : la honte est orientée vers soi-même — 'je suis mauvais' et non 'j'ai fait quelque chose de mauvais'.",
+      "Éviter le cliché du personnage qui pleure immédiatement — la honte fige souvent avant de libérer.",
+      "La honte peut coexister avec la fierté : un personnage peut avoir honte et refuser de le montrer simultanément.",
+      "La honte non dite est souvent plus puissante que la honte exprimée — montrer les signes sans nommer l'état."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "colere-defensive" },
+      { "type": "peut_suivre", "cible": "humiliation" },
+      { "type": "peut_masquer", "cible": "vulnerabilite" },
+      { "type": "souvent_associee_a", "cible": "retrait-social" },
+      { "type": "peut_evoluer_en", "cible": "rancoeur" },
+      { "type": "s_oppose_a", "cible": "fierte" }
+    ]
+  },
+  {
+    "id": "culpabilite",
+    "label": "Culpabilité",
+    "alias": ["culpabilité", "remords", "mauvaise conscience", "sentiment de faute", "auto-accusation", "poids de la faute", "torture intérieure", "reproche de soi", "dette morale", "culpabilité chronique"],
+    "famille": "honte-culpabilite",
+    "definitionCourte": "Sentiment douloureux d'avoir commis une faute — envers quelqu'un, envers ses propres valeurs, envers ce qu'on aurait dû faire. Contrairement à la honte, la culpabilité est orientée vers l'acte, pas vers soi.",
+    "signesPhysiques": [
+      "regard fuyant, incapable de soutenir celui de la personne lésée",
+      "gestes nerveux — manipulation d'un objet, doigts qui frappent une surface",
+      "soupirs fréquents, comme pour expulser quelque chose",
+      "tension visible dans la mâchoire",
+      "posture légèrement courbée sous le poids imaginaire",
+      "mains qui reviennent toujours vers le corps",
+      "rougeur discrète, moins intense que dans la honte",
+      "sourcils légèrement tirés vers le bas",
+      "fatigue visible autour des yeux après une nuit sans vraiment dormir"
+    ],
+    "sensationsInternes": [
+      "poids diffus dans la poitrine qui ne se soulève pas",
+      "pensées en boucle sur ce qui a été fait ou non fait",
+      "malaise viscéral à l'évocation indirecte de la faute",
+      "impression d'avoir une dette ouverte envers quelqu'un",
+      "nausée légère dans les situations qui rappellent la faute",
+      "besoin urgent de réparer, d'agir, de faire quelque chose",
+      "impression de ne pas mériter d'être à l'aise tant que ce n'est pas réglé"
+    ],
+    "pensees": [
+      "J'aurais dû faire autrement.",
+      "C'est ma faute. Je le savais et je n'ai rien fait.",
+      "Comment vais-je pouvoir le regarder en face ?",
+      "Si seulement je pouvais revenir en arrière.",
+      "Je ne mérite pas qu'on me fasse confiance.",
+      "Je dois trouver un moyen de réparer.",
+      "Est-ce qu'il sait ? Est-ce qu'elle sait ?",
+      "Je ne peux pas continuer comme si de rien n'était."
+    ],
+    "effetsVoixLangage": [
+      "ton plus bas, presque sourd",
+      "aveux à demi-mot, phrases qui ne finissent pas",
+      "tendance à s'auto-interrompre, à revenir sur ce qui vient d'être dit",
+      "excuses répétées qui sonnent insuffisantes même à ses propres oreilles",
+      "questions rhétoriques tournées vers soi",
+      "silence prolongé avant de répondre",
+      "formulations qui minimisent pour tester la réaction de l'autre"
+    ],
+    "comportements": [
+      "cherche à réparer concrètement — gestes, cadeaux, services",
+      "s'impose des punitions symboliques ou réelles",
+      "confesse à un tiers de confiance avant d'oser aller vers la personne concernée",
+      "évite la personne lésée par incapacité à soutenir son regard",
+      "sur-performe dans d'autres domaines pour compenser",
+      "revient obsessionnellement sur les détails de la faute",
+      "cherche une absolution — de la personne, d'un ami, d'une figure d'autorité",
+      "accepte mal les marques de confiance ou d'affection tant que la faute n'est pas réparée"
+    ],
+    "masquesPossibles": [
+      "détachement apparent — faire comme si rien ne s'était passé",
+      "attaque préventive — critiquer l'autre avant qu'il ne critique",
+      "sur-gentillesse compensatoire envers la personne lésée",
+      "humour autodépréciatif qui effleure la faute sans l'avouer",
+      "activisme — s'occuper frénétiquement pour ne pas penser"
+    ],
+    "evolutionsPossibles": [
+      "aveu et demande de pardon — qui peut soulager ou pas",
+      "culpabilité chronique si la réparation est impossible",
+      "auto-punition durable qui finit par nuire à soi-même",
+      "transfert de la culpabilité sur l'autre pour se soulager",
+      "acceptation progressive si le travail intérieur est fait"
+    ],
+    "contextesAggravants": [
+      "impossibilité de réparer — personne décédée, situation irréversible",
+      "faute commise envers quelqu'un de particulièrement vulnérable",
+      "répétition d'une faute déjà commise",
+      "témoin de la faute qui n'a rien dit et porte le poids du silence",
+      "entourage qui aggrave la culpabilité par des reproches répétés"
+    ],
+    "contextesAttenuants": [
+      "reconnaissance de la faute et demande de pardon acceptée",
+      "réparation concrète possible et accomplie",
+      "compréhension par la personne lésée — qui pardonne ou nuance",
+      "contexte qui explique la faute sans la justifier — ce qui aide à se pardonner"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Léger remords", "description": "Petite piqûre de conscience. Le personnage sait qu'il aurait pu mieux faire mais ça ne l'envahit pas." },
+      { "niveau": 2, "label": "Culpabilité active", "description": "La faute revient régulièrement. Le personnage cherche à réparer ou à se justifier." },
+      { "niveau": 3, "label": "Mauvaise conscience persistante", "description": "La culpabilité colore les interactions avec la personne lésée et les moments de calme." },
+      { "niveau": 4, "label": "Tourment moral", "description": "La faute occupe une grande part de l'espace mental. Le personnage ne peut plus agir normalement." },
+      { "niveau": 5, "label": "Culpabilité paralysante", "description": "Le personnage se punit, se sabote ou est incapable de fonctionner. La faute est devenue une identité." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage perfectionniste",
+        "description": "Incapable de se pardonner même une faute mineure. Tient les autres à l'écart de sa culpabilité par orgueil. Se punit en silence et refuse les consolations comme inméritées."
+      },
+      {
+        "profil": "Personnage empathique",
+        "description": "Ressent la culpabilité de façon viscérale — l'image de la personne lésée revient sans arrêt. Sa réparation sera concrète et sincère mais peut devenir écrasante si la faute est impardonnable."
+      },
+      {
+        "profil": "Personnage avec une blessure d'injustice",
+        "description": "Oscille entre culpabilité et transfert de responsabilité. 'C'est ma faute' peut basculer en 'c'est leur faute' dès que la souffrance devient trop grande. La culpabilité est instable."
+      }
+    ],
+    "notesEditoriales": [
+      "La culpabilité porte sur l'acte, la honte porte sur soi — les deux peuvent coexister mais ne se confondent pas.",
+      "Un personnage qui dit 'j'ai fait quelque chose de mauvais' ressent de la culpabilité. Un qui dit 'je suis mauvais' ressent de la honte.",
+      "La culpabilité est souvent plus narrative que la honte car elle pousse à agir — réparer, avouer, compenser.",
+      "Attention à la culpabilité disproportionnée : très révélatrice du passé du personnage quand elle dépasse l'acte réel."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_confondue_avec", "cible": "honte" },
+      { "type": "peut_declencher", "cible": "aveu" },
+      { "type": "peut_evoluer_en", "cible": "auto-punition" },
+      { "type": "peut_masquer", "cible": "colere-contre-soi" },
+      { "type": "s_apaise_avec", "cible": "pardon" },
+      { "type": "peut_mener_a", "cible": "repentir" }
+    ]
+  },
+  {
+    "id": "embarras",
+    "label": "Embarras",
+    "alias": ["embarras", "gêne", "confusion sociale", "malaise passager", "maladresse ressentie", "impair social", "rougissement", "inconfort public", "gaucherie", "moment de trop"],
+    "famille": "honte-culpabilite",
+    "definitionCourte": "Malaise social passager provoqué par une maladresse, une situation inconfortable ou un impair perçu. L'embarras est superficiel et transitoire — il ne touche pas à l'identité comme la honte.",
+    "signesPhysiques": [
+      "rougeur soudaine et involontaire du visage",
+      "sourire crispé qui dure une fraction de seconde de trop",
+      "regard qui se détourne puis revient",
+      "rires nerveux ou léger",
+      "main portée brièvement au visage — front, nuque, joue",
+      "posture légèrement raidie pendant quelques secondes",
+      "clignotements plus fréquents",
+      "mouvement de recul d'un demi-pas",
+      "geste qui s'arrête à mi-chemin"
+    ],
+    "sensationsInternes": [
+      "chaleur qui monte brusquement dans le visage",
+      "envie fugace de disparaître ou de changer de sujet",
+      "léger vide dans la poitrine qui se résorbe vite",
+      "conscience aiguë mais brève de son propre corps",
+      "picotement dans les joues",
+      "accélération légère du rythme cardiaque",
+      "relâchement rapide dès que l'attention se détourne"
+    ],
+    "pensees": [
+      "Oh non.",
+      "Quelle idiote.",
+      "Pourquoi j'ai dit ça ?",
+      "Est-ce qu'ils ont remarqué ?",
+      "Ça va passer, ça va passer.",
+      "Je ne sais pas où me mettre.",
+      "On peut changer de sujet ?",
+      "Je vais faire comme si de rien n'était."
+    ],
+    "effetsVoixLangage": [
+      "rire nerveux qui ponctue la phrase",
+      "débit qui s'emballe légèrement",
+      "phrase qui repart dans une autre direction",
+      "ton légèrement aigu sur quelques mots",
+      "tentative rapide de changer de sujet",
+      "reformulation inutile de ce qui vient d'être dit"
+    ],
+    "comportements": [
+      "cherche immédiatement à dédramatiser par une blague",
+      "change de sujet avec une légèreté un peu forcée",
+      "fait référence à l'impair avec autodérision pour reprendre le contrôle",
+      "cherche un allié dans l'assemblée du regard",
+      "occupe ses mains pour donner une contenance",
+      "s'éloigne légèrement de la source de l'embarras",
+      "s'excuse rapidement et passe à autre chose",
+      "évite de revenir sur le moment pendant la même soirée"
+    ],
+    "masquesPossibles": [
+      "humour immédiat pour transformer l'impair en moment comique",
+      "détachement feint — 'je l'ai fait exprès'",
+      "assurance surfaite pour signaler que ça n'a aucune importance",
+      "bavardage soudain qui noie le moment dans le bruit"
+    ],
+    "evolutionsPossibles": [
+      "disparition rapide si personne ne surenchérit",
+      "aggravation en honte si le groupe insiste ou se moque",
+      "fou rire libérateur si l'ambiance le permet",
+      "malaise persistant si le personnage y repense seul le soir",
+      "anecdote que le personnage racontera lui-même plus tard"
+    ],
+    "contextesAggravants": [
+      "présence d'une personne dont l'opinion compte particulièrement",
+      "groupe nombreux qui a tous vu",
+      "situation formelle où les impairs se remarquent plus",
+      "répétition de l'impair dans la même interaction",
+      "silence qui suit — tout le monde a remarqué mais personne ne dit rien"
+    ],
+    "contextesAttenuants": [
+      "présence d'amis proches qui normalisent l'impair avec légèreté",
+      "interlocuteur qui offre une sortie gracieuse",
+      "ambiance déjà détendue où les maladresses passent facilement",
+      "personnage suffisamment à l'aise avec lui-même pour en rire"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère gêne", "description": "Une pensée fugace d'inconfort. Le personnage passe à autre chose en quelques secondes." },
+      { "niveau": 2, "label": "Rougissement visible", "description": "Le corps trahit. Tout le monde voit mais ça reste léger et passager." },
+      { "niveau": 3, "label": "Embarras réel", "description": "Le malaise dure quelques minutes, change le comportement. Le personnage cherche une échappatoire." },
+      { "niveau": 4, "label": "Humiliation légère", "description": "L'impair est commenté ou prolongé. L'embarras commence à piquer vraiment." },
+      { "niveau": 5, "label": "Bascule vers la honte", "description": "L'embarras déborde en quelque chose de plus profond. Ce n'est plus juste un impair." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage à l'aise socialement",
+        "description": "L'embarras dure dix secondes et il en rit le premier. Sa confiance naturelle lui permet de retourner l'impair en moment de complicité. Le groupe s'ajuste à son énergie."
+      },
+      {
+        "profil": "Personnage anxieux socialement",
+        "description": "L'embarras s'accroche longtemps après la scène. Le soir il y repense, reconsidère chaque regard. Ce qui était passager pour les autres a laissé une trace."
+      },
+      {
+        "profil": "Personnage très formel ou perfectionniste",
+        "description": "Ne supporte pas les impairs. L'embarras se transforme rapidement en irritation contre soi-même. Il se montre encore plus formel et contrôlé dans les heures qui suivent."
+      }
+    ],
+    "notesEditoriales": [
+      "L'embarras est la plus légère des émotions de la famille honte-culpabilité. Il ne touche pas à l'identité.",
+      "Sa force narrative est dans la micro-réaction — le rougissement, le sourire de trop, le geste avorté — plutôt que dans un discours intérieur long.",
+      "Différencier : embarras (impair social passager) / honte (identité menacée) / humiliation (infliction externe).",
+      "L'embarras partagé peut créer de la complicité — à utiliser pour rapprocher deux personnages."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "honte" },
+      { "type": "peut_devenir", "cible": "fou-rire" },
+      { "type": "souvent_suivi_de", "cible": "autodérision" },
+      { "type": "s_oppose_a", "cible": "assurance" },
+      { "type": "peut_creer", "cible": "complicite" }
+    ]
+  },
+  {
+    "id": "humiliation",
+    "label": "Humiliation",
+    "alias": ["humiliation", "abaissement public", "rabaissement", "honte infligée", "affront", "déshonneur", "mortification", "vexation profonde", "humiliation publique", "blessure d'orgueil forcée"],
+    "famille": "honte-culpabilite",
+    "definitionCourte": "Honte infligée de l'extérieur — par une personne, un groupe ou une situation qui abaisse, expose ou ridiculise. L'humiliation a toujours un responsable, même absent.",
+    "signesPhysiques": [
+      "regard qui se ferme, baissé ou fixé sur un point neutre pour ne pas voir qui regarde",
+      "visage qui se fige dans une expression neutre forcée",
+      "mâchoire serrée, lèvres immobiles",
+      "rougeur qui monte malgré tout les efforts pour l'arrêter",
+      "corps qui se resserre — épaules rentrées, bras croisés",
+      "mains qui se serrent l'une contre l'autre ou dans les poches",
+      "immobilité totale — ne pas bouger pour ne pas attirer davantage l'attention",
+      "déglutition difficile, gorge bloquée",
+      "battements cardiaques audibles dans les tempes"
+    ],
+    "sensationsInternes": [
+      "brûlure intérieure qui monte du ventre vers le visage",
+      "mélange de honte et de colère qui se court-circuitent",
+      "envie de disparaître — plus immédiate et plus violente que dans la honte ordinaire",
+      "froid soudain dans la nuque",
+      "nausée légère sous la gorge",
+      "impression que le temps ralentit pendant que tout le monde regarde",
+      "sentiment d'injustice qui cogne contre la poitrine"
+    ],
+    "pensees": [
+      "Ils n'avaient pas le droit de faire ça.",
+      "Je ne l'oublierai jamais.",
+      "Comment peuvent-ils me regarder après ça ?",
+      "Je dois sortir d'ici maintenant.",
+      "Je me souviendrai de ce moment.",
+      "Il va regretter ça.",
+      "Ne pleure pas. Surtout, ne pleure pas.",
+      "Je vais trouver un moyen de reprendre la main."
+    ],
+    "effetsVoixLangage": [
+      "voix qui baisse jusqu'à disparaître presque",
+      "ton plat, sans inflexion — le contrôle est total",
+      "refus de répondre, silence total",
+      "réponse minimale, monosyllabique",
+      "ton tranchant et froid si la colère prend le dessus",
+      "formulation très soignée comme dernier rempart de dignité"
+    ],
+    "comportements": [
+      "ne réagit pas sur le moment — survie par le silence et l'immobilité",
+      "quitte la situation dès que possible sans courir",
+      "cherche la solitude pour laisser sortir ce qui a été retenu",
+      "rejoue la scène mentalement en cherchant ce qu'il aurait dû dire",
+      "planifie une réponse ou une revanche pour reprendre le contrôle symbolique",
+      "se confie à une personne de confiance dans l'intimité",
+      "change de comportement envers l'auteur de l'humiliation — froideur durable",
+      "peut se murer dans le silence pendant des heures ou des jours"
+    ],
+    "masquesPossibles": [
+      "calme glacial — dignité comme seule arme",
+      "mépris affiché pour signaler que ça n'atteint pas",
+      "sourire de façade qui ne trompe personne mais tient debout",
+      "réponse cinglante préparée sur le moment — parfois juste, parfois trop tard",
+      "indifférence surjouée"
+    ],
+    "evolutionsPossibles": [
+      "rage froide et désir de revanche",
+      "retrait et coupure de relation avec l'auteur",
+      "honte durable qui s'installe sur la blessure",
+      "résolution si la scène est reconnue et réparée publiquement",
+      "traumatisme si l'humiliation était grave, répétée ou devant un public important"
+    ],
+    "contextesAggravants": [
+      "public nombreux et connu — l'humiliation a des témoins qui se souviendront",
+      "auteur de l'humiliation est quelqu'un de respecté ou de proche",
+      "impossibilité de répondre sur le moment — hiérarchie, contexte formel",
+      "humiliation qui touche à quelque chose d'essentiel — compétence, identité, valeur",
+      "répétition — deuxième ou troisième fois"
+    ],
+    "contextesAttenuants": [
+      "personne proche qui minimise l'importance de la scène avec douceur",
+      "auteur qui reconnaît l'injustice et s'excuse sincèrement",
+      "possibilité de réponse immédiate qui rééquilibre",
+      "solitude rapide pour décompresser sans témoin"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Vexation légère", "description": "L'ego est froissé. Le personnage s'en remet en quelques heures." },
+      { "niveau": 2, "label": "Affront visible", "description": "L'humiliation a été vue. Elle laisse une marque dans la relation avec l'auteur." },
+      { "niveau": 3, "label": "Humiliation publique", "description": "Devant un groupe. La blessure est profonde. Le personnage n'oubliera pas." },
+      { "niveau": 4, "label": "Rabaissement délibéré", "description": "L'intention d'abaisser était claire. La honte se mélange à la colère et au désir de réparation." },
+      { "niveau": 5, "label": "Déshonneur", "description": "L'humiliation touche à l'identité, au rang social, à la réputation. La blessure est durable et structurante." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage au fort orgueil",
+        "description": "L'humiliation est insupportable — une attaque directe à ce qui le définit. La colère prend le dessus sur la honte. Il pense immédiatement à la revanche ou à la réponse. Il ne montrera jamais que ça l'a atteint."
+      },
+      {
+        "profil": "Personnage avec blessure d'estime ancienne",
+        "description": "L'humiliation confirme ce qu'il craignait déjà : il ne vaut pas grand chose. La réaction est moins la colère que l'effondrement intérieur silencieux. Il n'a même pas envie de répondre."
+      },
+      {
+        "profil": "Personnage avec pouvoir ou statut",
+        "description": "L'humiliation est doublement dure — il n'y était pas préparé, ça ne devait pas lui arriver. Sa réaction est froide et calculée. Il sait qu'il aura des leviers pour rééquilibrer."
+      }
+    ],
+    "notesEditoriales": [
+      "L'humiliation se distingue de la honte par sa source externe — il y a toujours un responsable.",
+      "La réaction immédiate (silence, froideur, façade) est souvent plus révélatrice que l'explosion.",
+      "Le désir de revanche ou de réparation est un moteur narratif puissant — à ne pas résoudre trop vite.",
+      "Attention à la différence entre humiliation subie et humiliation intégrée : la première peut ne pas laisser de trace durable si la personne a une estime solide."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "rage-froide" },
+      { "type": "peut_evoluer_en", "cible": "rancoeur" },
+      { "type": "souvent_associee_a", "cible": "desir-de-revanche" },
+      { "type": "peut_mener_a", "cible": "retrait-social" },
+      { "type": "s_oppose_a", "cible": "dignite" },
+      { "type": "peut_suivre", "cible": "trahison" }
+    ]
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "id": "nostalgie",
+    "label": "Nostalgie",
+    "alias": [
+      "nostalgie",
+      "regret du passé",
+      "mal du pays intérieur",
+      "tristesse douce du souvenir",
+      "regret d'un temps révolu",
+      "deuil de l'ancien monde",
+      "saudade",
+      "désir du retour impossible",
+      "sentiment de ce qui ne reviendra pas",
+      "mélancolie de l'avant"
+    ],
+    "famille": "tristesse-deuil",
+    "definitionCourte": "Désir douloureux-doux de retrouver un passé révolu — lieu, époque, relation, version de soi — que le personnage sait inaccessible mais vers lequel il se tourne encore.",
+    "signesPhysiques": [
+      "sourire qui vient et qui se fige légèrement",
+      "regard qui se perd dans le lointain ou dans le vide",
+      "pause dans un geste sans raison apparente",
+      "main qui s'arrête sur un objet du passé",
+      "soupir lent et involontaire",
+      "voix qui se radoucit à l'évocation",
+      "posture qui s'allonge légèrement, comme si on laissait venir"
+    ],
+    "sensationsInternes": [
+      "douceur mêlée d'une douleur légère, presque acceptable",
+      "sensation que quelque chose de précieux s'éloigne encore",
+      "tendresse pour ce qui n'est plus",
+      "impression que le présent est légèrement moins réel que ce qu'on a perdu",
+      "désir vague et sans issue",
+      "sentiment d'appartenir en partie à un temps qui n'existe plus",
+      "chaleur et froid mêlés dans la poitrine"
+    ],
+    "pensees": [
+      "Ça, c'était bien.",
+      "On n'était pas conscients de ce qu'on avait.",
+      "Si je pouvais revenir, juste un moment.",
+      "Personne d'autre ne s'en souvient comme moi.",
+      "C'était une autre vie.",
+      "Certaines choses n'existent qu'une seule fois.",
+      "Je ne veux pas oublier l'exacte façon dont c'était.",
+      "Le présent ne ressemblera jamais tout à fait à ça."
+    ],
+    "effetsVoixLangage": [
+      "ton doux et ralenti à l'évocation",
+      "phrases plus longues, plus ouvertes",
+      "détails précis sur le passé, flous sur le présent",
+      "pause avant et après l'évocation",
+      "tendance à finir les phrases en suspension",
+      "voix légèrement plus basse, plus intime"
+    ],
+    "comportements": [
+      "sort de vieux objets, photos, lettres",
+      "retourne dans des lieux chargés de souvenirs",
+      "réécoute une musique ou relit un texte associé à cette période",
+      "parle du passé à la première personne du présent",
+      "compare implicitement le présent au passé (au détriment du présent)",
+      "cherche quelqu'un qui se souvient avec lui",
+      "ralentit dans un lieu ou une conversation pour s'y attarder"
+    ],
+    "masquesPossibles": [
+      "sérénité affichée sur le passé",
+      "humour sur «  le bon vieux temps »",
+      "détachement présenté comme de la maturité",
+      "surinvestissement dans le présent pour combler le vide"
+    ],
+    "evolutionsPossibles": [
+      "mélancolie si la nostalgie devient un état permanent",
+      "acceptation si le passé est intégré sans nier le présent",
+      "regret douloureux si la nostalgie se charge de culpabilité",
+      "déni du présent si la nostalgie devient une fuite"
+    ],
+    "contextesAggravants": [
+      "retour dans un lieu d'enfance ou de jeunesse",
+      "rencontre avec quelqu'un du passé",
+      "objet ou odeur déclencheur involontaire",
+      "anniversaire ou date symbolique",
+      "sentiment que le présent est décevant"
+    ],
+    "contextesAttenuants": [
+      "souvenir partagé avec quelqu'un qui s'en souvient aussi",
+      "récit du passé qui lui donne une forme — lettre, journal, conversation",
+      "présent qui offre quelque chose d'équivalent",
+      "distance temporelle suffisante pour que le souvenir soit apaisé"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère émotion", "description": "Un souvenir qui passe et qui laisse une trace douce. Le personnage reprend le cours de sa journée sans difficulté." },
+      { "niveau": 2, "label": "Nostalgie sensible", "description": "L'évocation occupe quelques instants. Le personnage se laisse aller brièvement avant de revenir." },
+      { "niveau": 3, "label": "Nostalgie marquée", "description": "Le passé prend plus de place que le présent dans la pensée. Le personnage compare souvent." },
+      { "niveau": 4, "label": "Nostalgie douloureuse", "description": "Le désir du retour est vraiment douloureux. Le passé idéalisé rend le présent terne." },
+      { "niveau": 5, "label": "Nostalgie dévorante", "description": "Le personnage vit en arrière. Il ne peut plus s'investir dans le présent parce que rien ne vaut le passé perdu." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui a connu une période exceptionnelle",
+        "description": "La nostalgie est légitime et précise. Il sait exactement ce qui était bien et pourquoi ça ne peut pas revenir. Ça rend le présent difficile à habiter."
+      },
+      {
+        "profil": "Personnage ayant idéalisé le passé",
+        "description": "La nostalgie porte sur quelque chose qui n'était pas aussi bien qu'il le croit. Elle révèle moins ce qu'il a perdu que ce dont il manque aujourd'hui."
+      },
+      {
+        "profil": "Personnage exilé ou déraciné",
+        "description": "La nostalgie est géographique autant que temporelle. Le lieu perdu est aussi réel que la période perdue. Le mal du pays et le deuil du temps se confondent."
+      }
+    ],
+    "notesEditoriales": [
+      "La nostalgie est un moteur puissant de conflit intérieur quand elle s'oppose au présent ou au futur.",
+      "Elle peut révéler ce qu'un personnage valorise vraiment sans qu'il le dise.",
+      "Éviter la nostalgie comme simple décoration : elle est plus forte quand elle crée un écart douloureux.",
+      "Un personnage nostalgique interprète le présent à travers le filtre du passé — ce qui distord ses jugements."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "melancolie" },
+      { "type": "peut_evoluer_en", "cible": "resignation" },
+      { "type": "peut_evoluer_en", "cible": "acceptation" },
+      { "type": "peut_masquer", "cible": "insatisfaction-du-present" },
+      { "type": "peut_declencher", "cible": "retour-dans-un-lieu-du-passe" },
+      { "type": "souvent_associe_a", "cible": "deuil-stabilise" }
+    ]
+  },
+  {
+    "id": "culpabilite-du-survivant",
+    "label": "Culpabilité du survivant",
+    "alias": [
+      "culpabilité du survivant",
+      "honte de survivre",
+      "deuil coupable",
+      "sentiment d'avoir volé sa place",
+      "honte d'être vivant",
+      "survie coupable",
+      "complexe du survivant",
+      "dette envers les morts",
+      "vivre pour les absents",
+      "trahison de la survie"
+    ],
+    "famille": "tristesse-deuil",
+    "definitionCourte": "Culpabilité irrationnelle et persistante de ceux qui ont survécu à une situation où d'autres ont péri — accident, guerre, catastrophe, maladie — souvent mêlée de honte et d'un sentiment de dette impayable.",
+    "signesPhysiques": [
+      "regard qui se détourne à l'évocation des victimes",
+      "posture légèrement voûtée, comme sous un poids invisible",
+      "voix qui baisse ou s'éteint à certains sujets",
+      "gestes moins assurés dans des contextes de réussite ou de plaisir",
+      "mâchoire légèrement serrée dans les situations de joie",
+      "larmes aux moments de bonheur — déclenchées par la honte d'avoir du bonheur",
+      "immobilité soudaine face à une question sur l'événement",
+      "corps qui se raidit quand quelqu'un dit « tu as eu de la chance »"
+    ],
+    "sensationsInternes": [
+      "sentiment d'avoir pris la place de quelqu'un d'autre",
+      "poids persistant de la dette envers les disparus",
+      "impression que le bonheur est une trahison",
+      "douleur sourde qui s'intensifie dans les moments de joie",
+      "sentiment de ne pas mériter ce qui lui reste",
+      "ambivalence permanente entre vouloir vivre et ne pas s'y autoriser",
+      "certitude que la mort aurait été plus juste — pour lui"
+    ],
+    "pensees": [
+      "Pourquoi moi et pas eux ?",
+      "Je n'avais rien de plus qui méritait de survivre.",
+      "Je ne peux pas me permettre d'être heureux.",
+      "Quelque chose leur est dû — et je ne sais pas comment payer.",
+      "Si j'avais fait autrement, peut-être qu'ils seraient là.",
+      "Je vis à leur place — je dois le mériter.",
+      "Se plaindre serait indécent. Eux n'ont pas eu cette chance.",
+      "Je n'ai pas le droit de lâcher."
+    ],
+    "effetsVoixLangage": [
+      "voix qui s'éteint à l'évocation des disparus",
+      "difficulté à parler à la première personne pour ses propres succès",
+      "formulations qui minimisent ce qui lui reste",
+      "tendance à parler des disparus davantage que de lui-même",
+      "silences longs face à des questions sur la chance ou le destin",
+      "changement de sujet brusque quand l'événement est mentionné"
+    ],
+    "comportements": [
+      "s'interdit des plaisirs qu'il juge déplacés",
+      "s'investit avec excès pour «  mériter » de vivre",
+      "consacre sa vie aux autres comme forme de remboursement",
+      "évite les occasions de fêter ou de se réjouir",
+      "punit subtilement toute forme de légèreté chez lui-même",
+      "garde vivante la mémoire des disparus de façon parfois compulsive",
+      "refuse l'aide et le soutien : il n'y a pas droit"
+    ],
+    "masquesPossibles": [
+      "dévouement aux autres présenté comme une vocation",
+      "stoïcisme apparent",
+      "effacement de soi systématique",
+      "engagement militant ou mémoriel"
+    ],
+    "evolutionsPossibles": [
+      "deuil apaisé si la culpabilité est reconnue et traversée",
+      "épuisement par sacrifice de soi répété",
+      "désespoir si la dette paraît impossible à honorer",
+      "sens retrouvé si la survie est réinterprétée comme une responsabilité"
+    ],
+    "contextesAggravants": [
+      "réussite personnelle après l'événement",
+      "anniversaire de la catastrophe",
+      "rencontre avec des proches des victimes",
+      "demande explicite de bonheur ou de plaisir",
+      "médiatisation de l'événement"
+    ],
+    "contextesAttenuants": [
+      "témoignage qui valide la légitimité de survivre",
+      "thérapie ou parole partagée avec d'autres survivants",
+      "sens donné à la survie (mission, engagement)",
+      "autorisation explicite ou implicite venant de l'entourage des disparus"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Gêne diffuse", "description": "Légère mauvaise conscience dans les moments de bonheur. N'empêche pas de fonctionner." },
+      { "niveau": 2, "label": "Culpabilité sensible", "description": "Le personnage s'interdit certaines choses et pense régulièrement aux disparus." },
+      { "niveau": 3, "label": "Culpabilité marquée", "description": "La survie est vécue comme une dette active. Le personnage s'impose des obligations implicites." },
+      { "niveau": 4, "label": "Culpabilité envahissante", "description": "Le bonheur est impossible. Chaque plaisir est suivi d'une peine proportionnelle." },
+      { "niveau": 5, "label": "Effondrement de la légitimité", "description": "Le personnage ne se reconnaît plus le droit d'exister. La survie est devenue une souffrance continue." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Soldat ou premier répondant",
+        "description": "La culpabilité est concrète et liée à des décisions précises : qui a-t-il laissé derrière ? Quelle seconde a tout changé ? Elle est rejoué en boucle, analysée, disséquée sans jamais être résolue."
+      },
+      {
+        "profil": "Rescapé d'une catastrophe collective",
+        "description": "La culpabilité est moins rationnelle — il n'a rien fait. Elle est donc plus difficile à démanteler : il n'y a pas d'erreur à corriger, juste le hasard à accepter, ce qui est presque impossible."
+      },
+      {
+        "profil": "Personnage seul à avoir survécu dans sa famille",
+        "description": "La culpabilité s'accompagne d'une solitude radicale : personne ne partage le souvenir exact. Il porte la mémoire seul, ce qui lui donne un sentiment de responsabilité supplémentaire."
+      }
+    ],
+    "notesEditoriales": [
+      "Distinguer de la culpabilité ordinaire : ici ce n'est pas une faute précise mais une survie.",
+      "Elle crée des personnages complexes capables d'une grande générosité — qui est aussi une punition.",
+      "Ne pas la résoudre trop vite : elle résiste à la raison et à la bonne volonté des proches.",
+      "Son intérêt narratif est dans la tension entre vouloir vivre pleinement et se l'interdire."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "desespoir" },
+      { "type": "peut_evoluer_en", "cible": "sens-retrouve" },
+      { "type": "souvent_associe_a", "cible": "deuil" },
+      { "type": "peut_masquer", "cible": "depression" },
+      { "type": "peut_declencher", "cible": "sacrifice-de-soi" },
+      { "type": "peut_suivre", "cible": "trauma" }
+    ]
+  },
+  {
+    "id": "desillusion",
+    "label": "Désillusion",
+    "alias": [
+      "désillusion",
+      "désenchantement",
+      "perte d'illusions",
+      "réveil douloureux",
+      "retour à la réalité",
+      "chute des idéaux",
+      "fin du rêve",
+      "déconstruction d'une croyance",
+      "déception fondatrice",
+      "prise de conscience amère"
+    ],
+    "famille": "tristesse-deuil",
+    "definitionCourte": "Tristesse particulière liée à la perte d'une illusion, d'un idéal ou d'une représentation — de quelqu'un, de quelque chose, ou de soi-même. La désillusion ne pleure pas une perte concrète mais la fin d'une façon de voir le monde.",
+    "signesPhysiques": [
+      "regard qui se voile sans larmes",
+      "sourire qui s'arrête à mi-chemin et ne se forme pas",
+      "gestes plus lents, comme vidés d'un élan intérieur",
+      "épaules qui descendent d'un cran imperceptible",
+      "soupir court et presque silencieux",
+      "posture légèrement repliée vers l'intérieur",
+      "immobilité là où il y avait du mouvement"
+    ],
+    "sensationsInternes": [
+      "impression que quelque chose vient de se vider de sa substance",
+      "légèreté amère — le poids de l'illusion est parti mais ce qu'il laisse fait mal",
+      "froid intérieur doux mais persistant",
+      "sentiment que le monde vient de rétrécir d'un cran",
+      "vide là où la croyance occupait quelque chose",
+      "désorientation légère — les repères ont bougé"
+    ],
+    "pensees": [
+      "Ce n'était pas ce que je croyais.",
+      "J'aurais dû voir ça venir.",
+      "Comment j'ai pu me tromper à ce point ?",
+      "J'aurais préféré ne pas savoir.",
+      "Tout ce temps à croire à quelque chose qui n'existait pas.",
+      "Est-ce que j'ai d'autres illusions dont je ne me suis pas encore rendu compte ?",
+      "Ce qui me semblait solide ne l'était pas.",
+      "Je ne regarderai plus les choses de la même façon."
+    ],
+    "effetsVoixLangage": [
+      "formulations plus courtes et plus définitives",
+      "ton légèrement plus sec, moins chaleureux qu'avant",
+      "réponses prudentes, comme si chaque affirmation demandait vérification",
+      "ironie légère et involontaire sur ce qu'il croyait auparavant",
+      "moins d'enthousiasme dans la parole"
+    ],
+    "comportements": [
+      "prend de la distance avec ce qui l'enthousiasmait",
+      "questionne d'autres certitudes qui lui semblaient acquises",
+      "relit mentalement les signaux qu'il avait ignorés",
+      "se montre plus prudent dans ses jugements futurs",
+      "peut se retirer d'une cause, d'une relation ou d'un projet",
+      "évite le sujet avec ceux qui n'ont pas vécu la même révélation"
+    ],
+    "masquesPossibles": [
+      "cynisme présenté comme de la maturité",
+      "humour désabusé qui cache la blessure",
+      "sagesse de façade",
+      "indifférence jouée pour ne pas avoir l'air naïf"
+    ],
+    "evolutionsPossibles": [
+      "cynisme durable si la désillusion se généralise à tout",
+      "sagesse réelle si la perte est intégrée honnêtement",
+      "ouverture à quelque chose de plus réel et de plus solide",
+      "méfiance généralisée qui protège mais isole",
+      "reconstruction plus lucide sur des bases moins idéalisées"
+    ],
+    "contextesAggravants": [
+      "révélation publique devant un groupe",
+      "avoir défendu l'illusion devant les autres qui avaient vu juste",
+      "accumulation de plusieurs désillusions rapprochées",
+      "trahison de confiance liée directement à l'illusion perdue"
+    ],
+    "contextesAttenuants": [
+      "quelque chose de plus vrai qui remplace l'illusion perdue",
+      "regard bienveillant qui ne fait pas de la naïveté un reproche",
+      "temps qui donne de la perspective",
+      "reconnaissance que l'illusion avait une utilité à l'époque"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère déception", "description": "Petit décalage entre l'attente et la réalité. Le personnage ajuste et passe." },
+      { "niveau": 2, "label": "Désillusion sensible", "description": "Une croyance tombe. Le personnage est un peu moins enthousiaste, plus prudent." },
+      { "niveau": 3, "label": "Désillusion franche", "description": "Quelque chose de fondamental s'est effondré. Le regard sur le monde change durablement." },
+      { "niveau": 4, "label": "Désillusion profonde", "description": "Le personnage remet en question plusieurs certitudes simultanément. Sentiment d'instabilité générale." },
+      { "niveau": 5, "label": "Désenchantement total", "description": "Le personnage ne croit plus en grand-chose. Tout est suspect. Il avance avec prudence mais sans élan." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Idéaliste",
+        "description": "La désillusion est une destruction proportionnelle à l'investissement. Il avait construit beaucoup sur cette croyance. L'effondrement est profond, presque identitaire."
+      },
+      {
+        "profil": "Pragmatique",
+        "description": "Il absorbe vite. Bref soupir, ajustement rapide. Mais il n'oublie pas — il se souvient et révise sa grille de lecture pour ne plus se faire prendre."
+      },
+      {
+        "profil": "Jeune adulte",
+        "description": "La désillusion est une blessure identitaire. Si ce en quoi il croyait était faux, qu'est-ce qui ne l'est pas ? Elle peut ébranler sa confiance en lui-même autant que sa confiance en l'autre."
+      }
+    ],
+    "notesEditoriales": [
+      "La désillusion est plus subtile que la tristesse : elle est intellectuelle autant qu'émotionnelle.",
+      "Elle crée des personnages qui avancent différemment — avec moins de certitude, parfois plus de lucidité.",
+      "Ne pas la réduire à de la naïveté passée : on peut être désillusionné sans avoir été naïf.",
+      "Elle est particulièrement forte quand la personne qui désillusionné est quelqu'un d'aimé ou d'admiré."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "revelation" },
+      { "type": "souvent_associe_a", "cible": "cynisme" },
+      { "type": "peut_evoluer_en", "cible": "scepticisme" },
+      { "type": "peut_masquer", "cible": "tristesse" },
+      { "type": "peut_declencher", "cible": "remise-en-question" },
+      { "type": "peut_suivre", "cible": "trahison" }
+    ]
+  }
+]

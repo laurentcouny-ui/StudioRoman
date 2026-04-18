@@ -1,0 +1,485 @@
+[
+  {
+    "id": "givre-matinal",
+    "label": "Givre matinal",
+    "type": "phenomene-hivernal",
+    "definitionCourte": "Cristaux de glace qui recouvrent les surfaces au petit matin — herbes, vitres, branches. Le monde se retrouve recouvert d'une fine dentelle blanche qui disparaît dès que le soleil monte.",
+
+    "elementsVisuels": [
+      "herbes figées et blanches sous la lumière oblique",
+      "vitre opacifiée par les cristaux en fougères",
+      "branches durcies et argentées",
+      "sol qui crisse sans neige — comme du verre brisé",
+      "haleine visible dès qu'on sort"
+    ],
+
+    "elementsAuditifs": [
+      "silence particulier — le gel étouffe les sons",
+      "craquement sous les pas",
+      "silence des oiseaux — encore absents ou figés"
+    ],
+
+    "elementsOlfactifs": [
+      "air sec et métallique",
+      "odeur de froid pur, sans humidité"
+    ],
+
+    "sensationsPhysiques": [
+      "froid qui pique le visage dès la porte ouverte",
+      "doigts qui s'engourdissent au contact des surfaces",
+      "yeux qui pleurent sous l'air vif"
+    ],
+
+    "emotionsAssociees": [
+      "beauté froide et distante",
+      "sentiment que le monde s'est figé pendant la nuit",
+      "fragilité — tout ça va fondre dans une heure"
+    ],
+
+    "usagesNarratifs": [
+      "marquer le passage de la nuit à un matin décisif",
+      "contraste entre la beauté du décor et la gravité de ce qui se joue",
+      "signe que quelque chose a changé pendant que le personnage dormait"
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Enfant",
+        "description": "Émerveillement pur — il court toucher les herbes cristallisées, souffler pour voir sa vapeur, chercher des formes dans les fougères de givre sur la vitre."
+      },
+      {
+        "profil": "Personnage pressé ou épuisé",
+        "description": "Le givre est d'abord un obstacle — pare-brise à gratter, sol glissant. La beauté arrive après, si elle arrive."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Le givre est distinct de la neige et du verglas — il est éphémère et délicat, ce qui en fait un symbole de fragilité plutôt que de durée.",
+      "Très efficace en ouverture de scène pour donner une texture précise sans alourdir."
+    ]
+  },
+  {
+    "id": "rosee-matinale",
+    "label": "Rosée matinale",
+    "type": "phenomene-estival-printanier",
+    "definitionCourte": "Gouttelettes d'eau condensées sur les surfaces fraîches au lever du jour — herbes, toiles d'araignée, pétales. La rosée appartient à l'heure entre la nuit et le jour.",
+
+    "elementsVisuels": [
+      "herbe alourdie et brillante",
+      "toile d'araignée révélée par les gouttelettes",
+      "pétales chargés de perles d'eau",
+      "lumière rasante qui fait briller chaque goutte",
+      "chaussures mouillées après dix pas dans le jardin"
+    ],
+
+    "elementsAuditifs": [
+      "silence de début de matinée — les bruits du monde pas encore revenus",
+      "chant des premiers oiseaux"
+    ],
+
+    "elementsOlfactifs": [
+      "herbe mouillée — une des odeurs les plus évocatrices",
+      "terre humide sous la fraîcheur",
+      "parfum des fleurs renforcé par l'humidité"
+    ],
+
+    "sensationsPhysiques": [
+      "fraîcheur sur le visage et les mains",
+      "humidité contre les pieds ou les jambes",
+      "air qui semble plus propre qu'à n'importe quel autre moment"
+    ],
+
+    "emotionsAssociees": [
+      "sentiment d'un monde encore intact",
+      "douceur mélancolique — ça ne durera pas",
+      "appartenir à un moment rare — celui d'avant le monde"
+    ],
+
+    "usagesNarratifs": [
+      "ancrer une scène dans une heure précise et intime",
+      "marquer le réveil d'un personnage qui sort avant les autres",
+      "symboliser quelque chose de fragile et temporaire"
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage insomniaque",
+        "description": "La rosée signale la fin d'une nuit sans sommeil — le monde reprend, et lui est épuisé avant d'avoir commencé."
+      },
+      {
+        "profil": "Jardinier ou paysan",
+        "description": "Indice pratique autant qu'esthétique — la rosée dit quelque chose sur la nuit passée et le temps à venir."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La rosée est l'une des textures sensorielles les plus riches pour évoquer l'aube sans la nommer.",
+      "Elle appartient à un espace entre deux états — nuit/jour, humide/sec, fraîcheur/chaleur à venir."
+    ]
+  },
+  {
+    "id": "arc-en-ciel-post-orage",
+    "label": "Arc-en-ciel après l'orage",
+    "type": "phenomene-lumineux",
+    "definitionCourte": "Arc lumineux qui apparaît quand le soleil perce après la pluie. Bref, imprévisible, parfois double. Sa présence est presque toujours un arrêt — on lève la tête.",
+
+    "elementsVisuels": [
+      "arche de couleurs sur fond de ciel encore sombre",
+      "couleurs qui s'estompent vers les bords",
+      "double arc rare — le second plus pâle, les couleurs inversées",
+      "la ville ou le paysage mouillé qui brille en dessous",
+      "il disparaît si on regarde ailleurs trop longtemps"
+    ],
+
+    "elementsAuditifs": [
+      "silence qui suit l'orage — la pluie a cessé",
+      "premiers sons qui reprennent — oiseaux, voitures au loin"
+    ],
+
+    "elementsOlfactifs": [
+      "odeur de terre et d'asphalte mouillés",
+      "air lavé après l'orage"
+    ],
+
+    "sensationsPhysiques": [
+      "sol encore mouillé sous les pieds",
+      "fraîcheur post-pluie mêlée de premier soleil tiède",
+      "légèreté physique après la tension de l'orage"
+    ],
+
+    "emotionsAssociees": [
+      "soulagement mêlé d'émerveillement",
+      "impression d'un signe — chargé selon le personnage",
+      "bref arrêt dans le cours des choses — on s'arrête tous",
+      "mélancolie douce — ça va disparaître"
+    ],
+
+    "usagesNarratifs": [
+      "marquer la fin d'un moment de tension — pause narrative",
+      "symbole de réconciliation ou d'espoir sans l'écrire",
+      "moment de communion entre deux personnages qui lèvent la tête ensemble"
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage dans un état de douleur",
+        "description": "L'arc-en-ciel arrive comme une incongruité — le monde est beau et lui souffre. Peut aggraver ou adoucir selon l'état intérieur."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Arrêt total. Le reste n'existe plus. Il cherche le bout."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Le danger est le symbole trop lourd — utiliser l'arc-en-ciel avec parcimonie.",
+      "Sa force est dans l'interruption qu'il provoque — tous les personnages présents s'arrêtent."
+    ]
+  },
+  {
+    "id": "nuit-pleine-lune",
+    "label": "Nuit de pleine lune",
+    "type": "phenomene-nocturne",
+    "definitionCourte": "Nuit éclairée par une lune à son maximum — ciel net, lumière froide et blanche qui projette des ombres nettes et transforme le monde familier en quelque chose d'autre.",
+
+    "elementsVisuels": [
+      "ombres nettes et longues sur le sol",
+      "monde en noir et blanc délavé — couleurs absentes",
+      "lumière qui fait briller l'eau, le métal, les feuilles",
+      "la lune assez haute pour éclairer sans éblouir",
+      "ciel bleu nuit traversé d'étoiles moins visibles que la lune"
+    ],
+
+    "elementsAuditifs": [
+      "silence particulier — les sons portent différemment la nuit",
+      "animaux nocturnes — hibou, renard, bruit de la campagne"
+    ],
+
+    "elementsOlfactifs": [
+      "air froid et immobile",
+      "odeur de nuit — herbe fraîche, terre, humidité légère"
+    ],
+
+    "sensationsPhysiques": [
+      "froid de la nuit plus perceptible sous la clarté",
+      "yeux qui s'adaptent facilement — on voit loin",
+      "sentiment d'être exposé malgré l'obscurité"
+    ],
+
+    "emotionsAssociees": [
+      "inquiétude sourde — le monde nocturne désoriente",
+      "beauté étrange du familier transformé",
+      "sentiment d'être le seul éveillé",
+      "exaltation légère — la pleine lune comme invitation"
+    ],
+
+    "usagesNarratifs": [
+      "scène nocturne qui n'a pas besoin de lampe ou de torche",
+      "transformation symbolique — tout est pareil mais pas tout à fait",
+      "rendez-vous, fuite, décision prise dans la nuit éclairée"
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage insomniaque",
+        "description": "La pleine lune est parfois accusée — trop de lumière, trop d'éveil. Il ferme les rideaux."
+      },
+      {
+        "profil": "Personnage rural",
+        "description": "Repère pratique autant que poétique — la pleine lune permet de travailler ou de se déplacer sans lampe."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La pleine lune est un décor chargé symboliquement — à utiliser avec précision pour éviter le cliché.",
+      "Sa force est dans la transformation du familier : le même lieu de jour et de nuit sous pleine lune sont deux lieux différents."
+    ]
+  },
+  {
+    "id": "secheresse-prolongee",
+    "label": "Sécheresse prolongée",
+    "type": "phenomene-durable",
+    "definitionCourte": "Semaines sans pluie qui transforment progressivement le paysage et pèsent sur les corps et les esprits. La sécheresse n'est pas un événement mais un état qui s'installe.",
+
+    "elementsVisuels": [
+      "sol craquelé en polygones irréguliers",
+      "herbe jaunie et dure sous les pieds",
+      "arbres dont les feuilles s'enroulent sur elles-mêmes",
+      "poussière soulevée par le moindre passage",
+      "ciel blanc de chaleur — plus bleu mais éblouissant"
+    ],
+
+    "elementsAuditifs": [
+      "silence inhabituellement profond — même les insectes se taisent aux heures chaudes",
+      "bruit de la poussière sous les pas",
+      "conversation sur la pluie qui tarde"
+    ],
+
+    "elementsOlfactifs": [
+      "poussière chaude et minérale",
+      "herbe brûlée, foin sec",
+      "absence d'odeur d'humidité ou de terre mouillée"
+    ],
+
+    "sensationsPhysiques": [
+      "bouche sèche en permanence",
+      "peau qui tire et se fissure",
+      "chaleur qui vient du sol autant que du ciel",
+      "irritabilité physique — le corps supporte mal la durée"
+    ],
+
+    "emotionsAssociees": [
+      "attente tendue — quand va-t-il pleuvoir ?",
+      "irritabilité de fond sans objet précis",
+      "sentiment que quelque chose ne va pas — au-delà du temps",
+      "résignation si ça dure trop longtemps"
+    ],
+
+    "usagesNarratifs": [
+      "contexte qui amplifie les tensions déjà présentes",
+      "symbole d'une stérilité — dans un récit, dans une relation, dans une vie",
+      "déclencheur de conflits — eau, bétail, récoltes"
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur",
+        "description": "La sécheresse est existentielle — elle menace directement. Chaque jour sans pluie est une perte chiffrée."
+      },
+      {
+        "profil": "Citadin",
+        "description": "Gêne et inconfort plutôt que menace. La sécheresse est un sujet de conversation, pas encore une urgence."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La sécheresse fonctionne narrativement sur la durée — à la différence de l'orage, elle ne produit pas de scène mais une atmosphère de fond qui use.",
+      "Elle est particulièrement efficace dans les récits situés en milieu rural ou dans des communautés dépendantes de la terre."
+    ]
+  },
+  {
+    "id": "grain-de-mer",
+    "label": "Grain de mer",
+    "type": "phenomene-cotier",
+    "definitionCourte": "Tempête soudaine et violente qui surgit sur la mer ou la côte — ciel qui noircit en quelques minutes, vent qui monte brutalement, pluie horizontale. Le grain est imprévisible et bref.",
+
+    "elementsVisuels": [
+      "ciel qui se ferme à l'horizon en quelques minutes",
+      "mer qui passe du bleu au gris ardoise",
+      "vagues qui se creusent et se coiffent d'écume",
+      "pluie qui arrive en rideau depuis la mer",
+      "lumière qui jaunit ou verdâtre avant l'arrivée"
+    ],
+
+    "elementsAuditifs": [
+      "vent qui monte d'un coup — mugissement",
+      "pluie qui cingle le visage et la peau",
+      "mer qui tape plus fort sur les coques ou les rochers",
+      "voix qui ne portent plus — emportées"
+    ],
+
+    "elementsOlfactifs": [
+      "iode et sel qui montent avec le vent",
+      "odeur de pluie sur l'eau",
+      "vent chargé de quelque chose de brut"
+    ],
+
+    "sensationsPhysiques": [
+      "vent qui déséquilibre et s'infiltre partout",
+      "pluie froide qui pénètre malgré les vêtements",
+      "sol ou pont qui bouge sous les pieds",
+      "adrénaline — la soudaineté du changement"
+    ],
+
+    "emotionsAssociees": [
+      "urgence — il faut réagir vite",
+      "excitation mêlée de peur",
+      "sentiment de puissance brute face à laquelle on est petit",
+      "soulagement quand ça passe"
+    ],
+
+    "usagesNarratifs": [
+      "déclencheur d'action — oblige les personnages à agir",
+      "révélateur de caractère sous la pression",
+      "rupture dans une scène calme — arrive sans prévenir"
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Marin expérimenté",
+        "description": "Lit les signes avant-coureurs — la couleur du ciel, la houle longue. Agit avant que les autres aient compris ce qui arrive."
+      },
+      {
+        "profil": "Touriste ou novice",
+        "description": "Pris par surprise. La violence de la soudaineté est un choc physique et émotionnel."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Le grain est l'un des phénomènes météo les plus dramatiquement efficaces — court, soudain, violent.",
+      "Différent de la tempête côtière (plus longue et progressive) — le grain est une parenthèse brutale."
+    ]
+  },
+  {
+    "id": "brume-de-chaleur",
+    "label": "Brume de chaleur",
+    "type": "phenomene-estival",
+    "definitionCourte": "Tremblement de l'air au-dessus des surfaces très chaudes — route, pierre, bitume. Le lointain vacille, les contours se dissolvent. La brume de chaleur est une distorsion silencieuse du monde.",
+
+    "elementsVisuels": [
+      "route ou sol qui semble humide au loin — mirage",
+      "silhouettes au loin qui tremblent et se déforment",
+      "air qui ondule au-dessus du capot d'une voiture ou d'un toit",
+      "ciel blanc et haut — écrasant",
+      "couleurs moins nettes — tout légèrement flou"
+    ],
+
+    "elementsAuditifs": [
+      "silence de midi — les oiseaux se taisent",
+      "bourdonnement d'insectes lointain",
+      "craquement des matériaux qui dilatent"
+    ],
+
+    "elementsOlfactifs": [
+      "asphalte chauffé — odeur chimique et lourde",
+      "pierre sèche",
+      "air qui n'a plus de fraîcheur"
+    ],
+
+    "sensationsPhysiques": [
+      "chaleur qui monte du sol autant que du ciel",
+      "paupières lourdes à la lumière",
+      "soif qui revient vite",
+      "corps qui ralentit — se déplacer coûte plus"
+    ],
+
+    "emotionsAssociees": [
+      "torpeur — le temps s'étire",
+      "sentiment d'irréalité — le monde vacille",
+      "isolement — dans la chaleur, on est seul"
+    ],
+
+    "usagesNarratifs": [
+      "mettre en scène un état de torpeur ou d'altération légère",
+      "décor de route, de voyage, de traversée à pied",
+      "distorsion visuelle comme métaphore d'un état mental"
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage en transit",
+        "description": "La brume de chaleur rend le trajet plus long, plus épuisant, plus solitaire. Il y a quelque chose de désertique dans cette lumière."
+      },
+      {
+        "profil": "Personnage méditerranéen ou habitué",
+        "description": "C'est l'heure du repli — on ne sort pas entre midi et quinze heures. La brume est un signal, pas une surprise."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La brume de chaleur est l'une des rares conditions météo qui altère visuellement le monde — à utiliser pour les scènes où la perception du personnage est mise en doute.",
+      "Elle marque l'heure la plus chaude, l'heure où rien ne bouge — puissant pour les scènes d'attente ou de paralysie."
+    ]
+  },
+  {
+    "id": "ciel-automne-bleu-intense",
+    "label": "Ciel d'automne bleu intense",
+    "type": "phenomene-automnal",
+    "definitionCourte": "Ces journées d'automne où le ciel est d'un bleu plus profond qu'en été — l'air s'est allégé, la lumière a changé d'angle. Beau et mélancolique à la fois.",
+
+    "elementsVisuels": [
+      "bleu intense et presque froid — sans la pâleur de l'été",
+      "feuilles colorées qui tranchent sur ce bleu",
+      "ombres longues même à midi",
+      "lumière rasante dorée en fin d'après-midi",
+      "ciel dégagé qui semble plus haut qu'en été"
+    ],
+
+    "elementsAuditifs": [
+      "feuilles sèches que le vent déplace",
+      "sons qui portent différemment — l'air est plus vif",
+      "silence des oiseaux migrateurs déjà partis"
+    ],
+
+    "elementsOlfactifs": [
+      "feuilles mortes humides — odeur caractéristique",
+      "champignons et terre",
+      "air qui commence à sentir l'hiver sans y être encore"
+    ],
+
+    "sensationsPhysiques": [
+      "fraîcheur de l'air qui pique les joues",
+      "soleil qui chauffe encore mais ne couvre plus",
+      "légèreté physique — l'air est moins lourd qu'en été"
+    ],
+
+    "emotionsAssociees": [
+      "mélancolie douce — la beauté sait qu'elle finit",
+      "nostalgie sans objet précis",
+      "appétit de présence — rester dehors tant que c'est possible",
+      "sérénité teintée d'urgence légère"
+    ],
+
+    "usagesNarratifs": [
+      "décor pour une scène de transition — quelque chose finit",
+      "contraste entre la beauté du monde et l'état intérieur du personnage",
+      "marquer une fin d'été, une fin de relation, un tournant"
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui aime l'automne",
+        "description": "C'est sa saison — il la reconnaît, il l'attendait. Cette lumière le met en état de grâce particulier."
+      },
+      {
+        "profil": "Personnage qui redoute l'hiver",
+        "description": "Le beau ciel d'automne est un sursis — il sait ce qui vient et ça ternit la beauté."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Ce ciel d'automne est l'un des décors les plus évocateurs pour les fins — sans être funèbre.",
+      "La combinaison beauté/mélancolie en fait un outil narratif subtil pour les scènes de bilan ou de séparation."
+    ]
+  }
+]

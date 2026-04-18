@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-04-10T18:00:21.806Z",
+  "outputs": [
+    {
+      "source": "dictionnaires\\Dictionnaire Français _ 39 000 noms communs noms propres -- Unknown -- Paris, France, 1995 -- Paris _ Larousse -- 9782033201845 -- b98470c2ad0d67b5415bb41a5a9b414d -- Anna’s Archive.pdf",
+      "out": "src/corrector/database/processed/00_dictionnaires__Dictionnaire_Français___39_000_noms_communs_noms_propres_--_Unknown_--_Paris,_France,_1995_--_Paris___Lar.txt",
+      "chars": 3358558
+    },
+    {
+      "source": "dictionnaires\\Dictionnaire_abrege_de_l'Academie_française_[...]Verger_Victor_bpt6k6350211s.pdf",
+      "out": "src/corrector/database/processed/01_dictionnaires__Dictionnaire_abrege_de_l'Academie_française_[...]Verger_Victor_bpt6k6350211s.pdf.txt",
+      "chars": 8003154
+    },
+    {
+      "source": "dictionnaires\\dictionnaire_academie_francaise_5eme_edition.pdf",
+      "out": "src/corrector/database/processed/02_dictionnaires__dictionnaire_academie_francaise_5eme_edition.pdf.txt",
+      "chars": 12468507
+    },
+    {
+      "source": "grammaire\\Cours de grammaire française, fondé sur l'histoire de la -- Brachet, Auguste, 1844-1898_ -- France, 1899 -- Hachette et Cie, 1899_ -- 39118953 -- 44708480ca940c59d80fa8f07293446f -- Anna’ (1).zip",
+      "out": "src/corrector/database/processed/03_grammaire__Cours_de_grammaire_française,_fondé_sur_l'histoire_de_la_--_Brachet,_Auguste,_1844-1898__--_France,_1899_--_H.txt",
+      "chars": 724681
+    },
+    {
+      "source": "grammaire\\Cours de grammaire française, fondé sur l'histoire de la -- Brachet, Auguste, 1844-1898_ -- France, 1899 -- Hachette et Cie, 1899_ -- 39118953 -- 44708480ca940c59d80fa8f07293446f -- Anna’s Ar.zip",
+      "out": "src/corrector/database/processed/04_grammaire__Cours_de_grammaire_française,_fondé_sur_l'histoire_de_la_--_Brachet,_Auguste,_1844-1898__--_France,_1899_--_H.txt",
+      "chars": 724681
+    },
+    {
+      "source": "grammaire\\Cours de grammaire française, fondé sur l'histoire de la -- Brachet, A_ 1844-1898_ -- France, 1883 -- Hachette et Cie, 1883_ -- 37760747 -- 29ef26c346db7485fc1dea3d904e111f -- Anna’s Archive.zip",
+      "out": "src/corrector/database/processed/05_grammaire__Cours_de_grammaire_française,_fondé_sur_l'histoire_de_la_--_Brachet,_A__1844-1898__--_France,_1883_--_Hachett.txt",
+      "chars": 720050
+    },
+    {
+      "source": "grammaire\\Grammaire_Academie_Hermant.epub.epub",
+      "out": "src/corrector/database/processed/06_grammaire__Grammaire_Academie_Hermant.epub.epub.txt",
+      "chars": 20103
+    },
+    {
+      "source": "grammaire\\Grammaire_française_complete_a_l'usage_[...]Brachet_Auguste_bpt6k143919h.pdf",
+      "out": "src/corrector/database/processed/07_grammaire__Grammaire_française_complete_a_l'usage_[...]Brachet_Auguste_bpt6k143919h.pdf.txt",
+      "chars": 817868
+    },
+    {
+      "source": "grammaire\\Grammaire_française_principales_difficultés_que_[...]Jubien_Victor_bpt6k64686130.pdf",
+      "out": "src/corrector/database/processed/08_grammaire__Grammaire_française_principales_difficultés_que_[...]Jubien_Victor_bpt6k64686130.pdf.txt",
+      "chars": 123504
+    },
+    {
+      "source": "stylistique\\Traité_de_stylistique_française___[...]Bally_Charles_bpt6k166222b.pdf",
+      "out": "src/corrector/database/processed/09_stylistique__Traité_de_stylistique_française___[...]Bally_Charles_bpt6k166222b.pdf.txt",
+      "chars": 3011
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,9 @@
+# Tests : pas de SPA embarqué, ressources statiques Spring par défaut
+spring:
+  web:
+    resources:
+      add-mappings: true
+
+scriptor:
+  spa:
+    enabled: false

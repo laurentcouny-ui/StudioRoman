@@ -1,0 +1,609 @@
+[
+  {
+    "id": "pression-conformite",
+    "label": "Pression de conformité",
+    "alias": [
+      "se conformer ou être exclu",
+      "pression du groupe",
+      "uniformité imposée",
+      "coût de la différence",
+      "être comme les autres ou partir",
+      "normalisation forcée",
+      "identité contre appartenance",
+      "mouton noir",
+      "résistance à la norme collective",
+      "être soi dans un groupe qui exige l'uniformité"
+    ],
+    "famille": "conflits de groupe",
+    "definitionCourte": "Le groupe exerce une pression implicite ou explicite pour que le personnage se conforme à ses normes. Se plier, c'est perdre quelque chose de soi. Résister, c'est risquer l'exclusion.",
+    "natureDuConflit": "Conflit entre l'appartenance (rester dans le groupe en se conformant) et l'identité (rester soi en résistant). Les deux ont un coût réel.",
+    "forcesEnPresence": [
+      "besoin d'appartenance et de reconnaissance du groupe",
+      "valeurs ou traits identitaires incompatibles avec la norme collective",
+      "peur de l'exclusion et de ses conséquences",
+      "résistance intérieure à l'effacement de soi",
+      "pression des pairs qui renforcent la norme",
+      "avantages réels à la conformité",
+      "coût réel à la résistance"
+    ],
+    "declencheursFrequents": [
+      "remarque du groupe sur une différence du personnage",
+      "demande explicite ou implicite de changer un comportement",
+      "moment où la différence devient visible et commentée",
+      "exclusion temporaire qui sert d'avertissement",
+      "alliance entre membres du groupe contre la différence",
+      "opportunité liée au groupe conditionnée à la conformité",
+      "tiers extérieur qui valide la différence et renforce la résistance",
+      "moment où se conformer exigerait de renier quelque chose d'essentiel"
+    ],
+    "signauxAvantCoureurs": [
+      "petites accommodations que le personnage fait sans se l'avouer",
+      "fatigue de devoir justifier sa différence",
+      "surveillance des réactions du groupe à ses comportements",
+      "dissimulation progressive de certains traits",
+      "tension entre le soi dans le groupe et le soi hors du groupe",
+      "jalousie envers ceux qui semblent s'intégrer sans effort",
+      "solitude même au sein du groupe",
+      "moments de doute sur si la différence vaut vraiment le coût"
+    ],
+    "silencesEtNonDits": [
+      "la pression n'est souvent jamais dite explicitement — elle est dans les regards et les silences",
+      "le personnage ne dit pas combien ça lui coûte de se surveiller",
+      "le groupe ne reconnaît pas qu'il exerce une pression",
+      "la peur de l'exclusion n'est jamais avouée comme moteur",
+      "la question de si le groupe mérite la conformité qu'il exige n'est pas posée",
+      "ceux qui se sont conformés ne parlent pas de ce qu'ils ont perdu"
+    ],
+    "penseesTypiques": [
+      "Est-ce que je dois changer qui je suis pour rester ici ?",
+      "Peut-être qu'ils ont raison et que je devrais m'adapter.",
+      "Je peux faire semblant. Au moins pour un temps.",
+      "Si je reste moi-même, je vais me retrouver seul.",
+      "Pourquoi est-ce que c'est toujours moi qui dois changer ?",
+      "Je les aime. Mais ils ne m'aiment que si je suis comme eux.",
+      "Est-ce que j'appartiens vraiment à ce groupe ?",
+      "Je vais perdre quelque chose quelle que soit ma décision.",
+      "Combien de fois est-ce que j'ai déjà cédé sans le remarquer ?"
+    ],
+    "comportementsTypiques": [
+      "modifie progressivement son comportement pour se rapprocher de la norme du groupe",
+      "compartimente — une version de lui pour le groupe, une autre ailleurs",
+      "résiste ouvertement et paie le prix social",
+      "cherche des alliés dans le groupe qui partagent secrètement sa différence",
+      "oscille entre conformité et résistance selon les enjeux",
+      "quitte le groupe avant d'être exclu",
+      "s'efface dans les situations où la différence serait visible",
+      "revendique sa différence plus fortement par réaction"
+    ],
+    "positionsDePouvoir": [
+      "Le groupe a le pouvoir de l'exclusion — ce qui est souvent le plus grand levier.",
+      "Le personnage différent a le pouvoir de révéler les limites du groupe.",
+      "Celui qui définit la norme a un pouvoir invisible mais immense.",
+      "La conformité donne accès aux ressources du groupe — refuser, c'est souvent se priver de ces ressources."
+    ],
+    "variantes": [
+      {
+        "relation": "Groupe d'adolescents",
+        "description": "La pression est maximale car l'identité est en construction. La conformité est souvent survie sociale. L'exclusion peut être traumatique."
+      },
+      {
+        "relation": "Groupe professionnel",
+        "description": "La culture d'entreprise ou de profession impose des codes. Se conformer a des avantages concrets (carrière, accès). Résister a un coût professionnel réel."
+      },
+      {
+        "relation": "Famille ou communauté d'appartenance",
+        "description": "La conformité est liée à l'amour et à l'identité familiale ou culturelle. Résister, c'est parfois trahir ses origines."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère friction", "description": "La différence est notée mais pas encore problématique. Le personnage s'adapte marginalement." },
+      { "niveau": 2, "label": "Pression active", "description": "Le groupe signale clairement son attente. Le personnage doit décider comment répondre." },
+      { "niveau": 3, "label": "Ultimatum implicite", "description": "La conformité est désormais le prix de l'appartenance. Le choix est réel." },
+      { "niveau": 4, "label": "Crise d'identité", "description": "Le personnage ne sait plus qui il est entre sa version de groupe et sa version réelle." },
+      { "niveau": 5, "label": "Conformité ou exclusion consommée", "description": "Le personnage a choisi. Les conséquences se déploient." }
+    ],
+    "escaladeTypique": [
+      "différence tolérée tant qu'elle reste invisible",
+      "différence signalée — avertissement implicite",
+      "pression active du groupe pour la conformité",
+      "crise — se plier ou résister ouvertement",
+      "conformité partielle, résistance ou exclusion"
+    ],
+    "voiesDeResolution": [
+      "le personnage trouve un sous-groupe qui accepte sa différence",
+      "il se conforme partiellement et protège l'essentiel",
+      "il quitte le groupe et reconstruit ailleurs",
+      "le groupe évolue et intègre la différence",
+      "le personnage transforme sa différence en atout que le groupe finit par valoriser"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience d'exclusion passée qui a rendu le besoin d'appartenance intense",
+      "enfance dans un environnement où la différence était punissable",
+      "identité jamais pleinement acceptée dans aucun groupe",
+      "conviction que se montrer tel qu'on est mène toujours au rejet",
+      "appartenance à plusieurs groupes dont les normes sont incompatibles"
+    ],
+    "contextesFavorables": [
+      "adolescent dans un groupe scolaire fortement normé",
+      "personnage d'une minorité dans un groupe majoritaire homogène",
+      "milieu professionnel à forte culture d'uniformité",
+      "communauté religieuse ou idéologique avec des règles strictes"
+    ],
+    "personnagesSouventConcernes": [
+      "le mouton noir d'une famille ou d'un groupe",
+      "l'outsider qui veut appartenir sans se trahir",
+      "le personnage dont l'identité est stigmatisée dans son milieu",
+      "celui qui a grandi dans deux cultures aux normes contradictoires",
+      "le personnage qui s'est conformé si longtemps qu'il ne sait plus ce qu'il est"
+    ],
+    "erreursDEcriture": [
+      "rendre la résistance toujours héroïque sans montrer le coût réel",
+      "rendre la conformité toujours lâche — parfois elle est une survie nécessaire",
+      "ne pas montrer les avantages réels du groupe qui rendent la conformité tentante",
+      "oublier les autres membres du groupe qui ressentent la même pression mais se taisent",
+      "confondre pression de conformité (appartenance) et pression de loyauté contre justice (éthique)"
+    ],
+    "notesEditoriales": [
+      "Le personnage qui se conforme imperceptiblement est souvent plus intéressant que celui qui résiste ouvertement.",
+      "Les groupes n'ont pas besoin d'être malveillants pour exercer une pression destructrice.",
+      "Différencier : pression de conformité (identité / appartenance) / bouc émissaire collectif (désignation de l'ennemi intérieur) / sortie du groupe (rupture délibérée).",
+      "La norme du groupe est souvent invisible de l'intérieur — le personnage qui la voit clairement est souvent celui qui est en dehors."
+    ],
+    "dynamiqueAssociee": { "id": "pression-conformite-groupale", "label": "Pression de conformité groupale" }
+  },
+  {
+    "id": "factions-rivales",
+    "label": "Factions rivales",
+    "alias": [
+      "guerre interne au groupe",
+      "clan contre clan",
+      "scission du groupe",
+      "fracture interne",
+      "camps qui s'affrontent",
+      "conflit de chapelles",
+      "lutte de tendances",
+      "guerre de factions",
+      "polarisation interne",
+      "groupe déchiré"
+    ],
+    "famille": "conflits de groupe",
+    "definitionCourte": "Un groupe qui partageait un but commun se fracture en deux camps antagonistes. La guerre interne menace l'existence même du groupe.",
+    "natureDuConflit": "Conflit collectif où deux sous-groupes s'affrontent pour la direction, les ressources ou les valeurs du groupe. L'unité initiale devient une mémoire que chaque camp revendique à son profit.",
+    "forcesEnPresence": [
+      "vision divergente de la direction ou des valeurs du groupe",
+      "ambitions personnelles de leaders rivaux",
+      "loyautés individuelles qui se cristallisent autour des camps",
+      "ressources limitées à partager ou à contrôler",
+      "histoire partagée reinterprétée différemment par chaque camp",
+      "peur de perdre le contrôle du groupe pour sa faction",
+      "membres silencieux pris entre deux feux"
+    ],
+    "declencheursFrequents": [
+      "décision majeure sur laquelle les deux camps s'opposent",
+      "arrivée d'un nouveau membre ou d'un nouveau leader qui déplace l'équilibre",
+      "succès ou échec qui est attribué différemment par les deux camps",
+      "révélation d'une trahison ou d'un désaccord caché",
+      "changement dans l'environnement extérieur qui force à choisir une direction",
+      "ressource rare à distribuer qui crée une compétition",
+      "figure fédératrice qui disparaît et révèle les divisions sous-jacentes",
+      "prise de pouvoir d'une faction qui pousse l'autre à se structurer en opposition"
+    ],
+    "signauxAvantCoureurs": [
+      "réunions informelles de sous-groupes sans les autres",
+      "communications parallèles qui excluent certains membres",
+      "allusions à l'incompétence ou aux mauvaises intentions de l'autre camp",
+      "vote ou décision collective qui tourne au bras de fer",
+      "figure perçue comme neutre pressée de choisir son camp",
+      "rhétorique de plus en plus polarisée dans les échanges",
+      "départ ou mise à l'écart de membres gênants",
+      "accumulation de petites décisions unilatérales"
+    ],
+    "silencesEtNonDits": [
+      "personne ne dit que le groupe est en train de se défaire",
+      "les raisons profondes du désaccord (ambition, blessure passée) ne sont jamais nommées",
+      "les membres silencieux ne disent pas qu'ils souffrent d'être pris en étau",
+      "la question de si le groupe peut survivre à la fracture n'est pas posée",
+      "les deux camps se croient chacun la vraie incarnation du groupe",
+      "la possibilité d'un compromis est souvent tue par peur de sembler faible"
+    ],
+    "penseesTypiques": [
+      "Nous avons tous travaillé pour ça — et ils veulent tout détruire.",
+      "Si leur camp prend le dessus, le groupe ne sera plus ce qu'il était.",
+      "Je dois choisir un camp. Je ne peux plus rester neutre.",
+      "On était tous amis avant. Comment est-on arrivés là ?",
+      "L'autre camp ne comprend pas ce qui est vraiment en jeu.",
+      "Je suis dans le bon camp. Mais je doute parfois.",
+      "Si le groupe explose, c'est leur faute.",
+      "Est-ce que le groupe vaut encore la peine qu'on se batte pour lui ?",
+      "Quelqu'un doit trouver un pont. Mais ce ne sera pas moi."
+    ],
+    "comportementsTypiques": [
+      "recrute activement des membres pour son camp",
+      "délégitimise l'autre camp auprès des indécis",
+      "documente les erreurs de l'autre faction",
+      "boycotte les initiatives de l'autre camp",
+      "cherche une victoire décisive qui ferait basculer la majorité",
+      "tente de contrôler les positions clés (communication, finances, recrutement)",
+      "expulse ou marginalise les membres de l'autre camp",
+      "propose des compromis qui avantage secrètement son camp"
+    ],
+    "positionsDePouvoir": [
+      "La faction qui contrôle la communication a souvent l'avantage narratif.",
+      "Les membres silencieux ont un pouvoir collectif — leur ralliement fait basculer l'issue.",
+      "Celui qui représente l'unité passée a un pouvoir symbolique fort.",
+      "La faction la plus radicale force souvent les modérés à se positionner."
+    ],
+    "variantes": [
+      {
+        "relation": "Organisation ou association",
+        "description": "La fracture est institutionnelle. Des procédures formelles peuvent être utilisées comme armes. La guerre se joue dans les votes, les statuts, les budgets."
+      },
+      {
+        "relation": "Groupe d'amis ou communauté informelle",
+        "description": "Il n'y a pas de règles — la fracture est affective. Les alliances sont personnelles. La réconciliation ou la scission est moins formalisée mais plus douloureuse."
+      },
+      {
+        "relation": "Famille",
+        "description": "Les factions se forment souvent autour d'un héritage, d'un décès ou d'une trahison. Les camps ne peuvent pas totalement se séparer — les liens persistent même dans le conflit."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Tensions internes", "description": "Des désaccords existent mais le groupe fonctionne encore. Les divisions sont informelles." },
+      { "niveau": 2, "label": "Camps visibles", "description": "Les factions sont identifiables. Les membres prennent position. La neutralité devient difficile." },
+      { "niveau": 3, "label": "Guerre ouverte", "description": "Les deux camps s'affrontent directement. Le groupe est paralysé ou fonctionne en sous-régime." },
+      { "niveau": 4, "label": "Crise existentielle", "description": "Le groupe risque l'implosion. Un camp pousse à l'exclusion de l'autre ou à la dissolution." },
+      { "niveau": 5, "label": "Scission ou dissolution", "description": "Le groupe se divise en deux entités distinctes — ou disparaît." }
+    ],
+    "escaladeTypique": [
+      "désaccords tolérés dans un groupe uni",
+      "crystallisation des positions autour de deux pôles",
+      "recrutement et constitution des camps",
+      "confrontation directe pour le contrôle du groupe",
+      "scission, dissolution ou victoire d'un camp"
+    ],
+    "voiesDeResolution": [
+      "un médiateur trouve un compromis acceptable pour les deux camps",
+      "une crise extérieure force le groupe à se réunifier",
+      "un camp capitule ou se retire",
+      "le groupe se scinde officiellement en deux entités",
+      "une figure fédératrice émerge et redonne une vision commune"
+    ],
+    "blessuresUnderlyantes": [
+      "trahison ou injustice passée dans le groupe jamais résolue",
+      "ambitions personnelles de leaders qui ont utilisé le groupe comme véhicule",
+      "différences de valeurs longtemps ignorées qui ont fini par éclater",
+      "ressource rare ou pouvoir limité qui force une compétition interne",
+      "absence de mécanismes de résolution des conflits dans le groupe"
+    ],
+    "contextesFavorables": [
+      "organisation militante ou associative en croissance ou en déclin",
+      "famille après une succession ou un décès",
+      "équipe ou entreprise après une fusion ou un changement de direction",
+      "communauté idéologique confrontée à un tournant stratégique"
+    ],
+    "personnagesSouventConcernes": [
+      "le leader d'une faction qui a commencé comme membre ordinaire",
+      "le membre neutre forcé de choisir son camp",
+      "le fondateur du groupe qui voit son enfant se déchirer",
+      "le médiateur épuisé qui essaie de maintenir l'unité",
+      "le transfuge qui a changé de camp et doit vivre avec les deux"
+    ],
+    "erreursDEcriture": [
+      "donner raison à un camp sans ambiguïté — la fracture est plus riche si les deux camps ont une part de légitimité",
+      "oublier les membres silencieux qui subissent sans s'exprimer",
+      "ne pas montrer ce que le groupe perdrait si la fracture aboutissait",
+      "résoudre trop vite — les fractures profondes ne se referment pas en une conversation",
+      "confondre factions rivales (lutte interne) et chef contesté (autorité remise en cause)"
+    ],
+    "notesEditoriales": [
+      "La puissance de ce conflit est dans ce qui est perdu — pas seulement entre les factions mais pour le groupe tout entier.",
+      "Les membres silencieux sont souvent les plus intéressants à suivre.",
+      "Différencier : factions rivales (scission interne) / chef contesté (autorité) / bouc émissaire collectif (désignation d'un ennemi interne).",
+      "La mémoire du groupe avant la fracture est une arme rhétorique que les deux camps utilisent."
+    ],
+    "dynamiqueAssociee": { "id": "opposition-de-factions", "label": "Opposition de factions" }
+  },
+  {
+    "id": "sortie-du-groupe",
+    "label": "Sortir du groupe",
+    "alias": [
+      "quitter le groupe",
+      "rupture d'appartenance",
+      "désertion collective",
+      "se désolidariser",
+      "abandon du groupe",
+      "trahison du clan",
+      "partir sans être suivi",
+      "refuser de rester",
+      "exit volontaire",
+      "ne plus vouloir appartenir"
+    ],
+    "famille": "conflits de groupe",
+    "definitionCourte": "Le personnage décide de quitter un groupe auquel il appartient profondément — par choix, par désaccord ou par épuisement. La sortie est perçue comme une trahison par ceux qui restent.",
+    "natureDuConflit": "Conflit entre le besoin de quitter (pour survivre, se reconstruire, rester intègre) et le coût de la sortie (culpabilité, exclusion, perte identitaire). Partir, c'est aussi se demander ce qu'on a été.",
+    "forcesEnPresence": [
+      "désaccord profond avec la direction ou les valeurs du groupe",
+      "sentiment d'étouffement ou de trahison par le groupe",
+      "identité construite autour de l'appartenance qu'il faut abandonner",
+      "loyauté envers certains membres qu'on laisse derrière",
+      "peur de ce qu'on est sans le groupe",
+      "soulagement anticipé de partir",
+      "culpabilité de laisser ceux qui comptaient sur soi"
+    ],
+    "declencheursFrequents": [
+      "acte du groupe incompatible avec les valeurs personnelles",
+      "trahison ou déception de la part du groupe ou d'un leader",
+      "opportunité extérieure qui rend le départ possible",
+      "accumulation de désaccords devenus insupportables",
+      "exclusion partielle qui précède le départ volontaire",
+      "moment de clarté sur ce que le groupe lui coûte vraiment",
+      "sollicitation d'un autre groupe plus aligné avec ses valeurs",
+      "crise qui oblige à se positionner clairement"
+    ],
+    "signauxAvantCoureurs": [
+      "investissement décroissant dans les activités du groupe",
+      "distancement progressif des membres sans explication",
+      "réponses de moins en moins enthousiastes aux sollicitations",
+      "conversations avec des extérieurs sur une possible sortie",
+      "comparaisons croissantes avec d'autres groupes",
+      "moments où la sortie est envisagée puis reportée",
+      "comportements symboliques de départ — ne plus renouveler, ne plus participer",
+      "rationalisation de la sortie prochaine auprès de soi-même"
+    ],
+    "silencesEtNonDits": [
+      "le personnage ne dit pas à quel point il souffre dans le groupe",
+      "les membres ne savent souvent pas que le départ est imminent",
+      "la raison réelle du départ n'est pas toujours la raison annoncée",
+      "la culpabilité de partir n'est pas avouée à ceux qui restent",
+      "la peur de ce qu'on sera sans le groupe n'est pas dite",
+      "la question de si le groupe méritait ce qu'on lui a donné n'est jamais résolue"
+    ],
+    "penseesTypiques": [
+      "Je ne peux plus rester en étant qui je suis.",
+      "Est-ce que je les trahis ou est-ce que je me sauve ?",
+      "Tout ce que j'ai fait pour eux — et maintenant je pars.",
+      "Ils ne comprendront pas. Ils verront ça comme un abandon.",
+      "Peut-être que le problème, c'est moi.",
+      "Je ne suis plus la même personne qu'en arrivant ici.",
+      "Si je pars, est-ce que j'existe encore en dehors d'eux ?",
+      "Je les aime. Mais rester me détruit.",
+      "Une fois dehors, est-ce que je regretterai ?"
+    ],
+    "comportementsTypiques": [
+      "réduit progressivement sa présence avant l'annonce officielle",
+      "prépare sa sortie en silence — contacts, alternatives, ressources",
+      "cherche à partir proprement pour préserver des relations",
+      "part brusquement sans explication après une crise",
+      "revient sur sa décision plusieurs fois avant de la finaliser",
+      "justifie son départ par des raisons pratiques plutôt qu'émotionnelles",
+      "tente de convaincre d'autres membres de partir avec lui",
+      "coupe tous les liens ou maintient une distance polie selon la nature du groupe"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui part a le pouvoir de nommer ce qui ne va pas dans le groupe.",
+      "Le groupe a le pouvoir de construire un récit sur les raisons du départ.",
+      "Les membres qui restent ont un pouvoir d'attraction ou de répulsion sur la décision.",
+      "Partir dans une position de force (compétences rares, leadership) modifie le rapport à la culpabilité."
+    ],
+    "variantes": [
+      {
+        "relation": "Groupe idéologique ou religieux",
+        "description": "La sortie est vécue comme une apostasie. L'identité entière est remise en question. Les anciens membres peuvent devenir hostiles. La reconstruction est longue."
+      },
+      {
+        "relation": "Équipe professionnelle",
+        "description": "La sortie a des conséquences pratiques immédiates. La loyauté professionnelle se heurte à l'intérêt personnel. La culpabilité est souvent liée aux projets laissés en cours."
+      },
+      {
+        "relation": "Groupe d'amis ou famille",
+        "description": "La sortie est la plus douloureuse car les liens sont les plus anciens. Il n'y a pas de procédure formelle — juste la distance qui s'installe et le silence qui s'élargit."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Distancement progressif", "description": "Le personnage s'éloigne sans confrontation. Le groupe ne réalise pas encore." },
+      { "niveau": 2, "label": "Décision intérieure prise", "description": "Le personnage sait qu'il va partir. Il prépare sa sortie." },
+      { "niveau": 3, "label": "Annonce ou rupture", "description": "Le départ est rendu public ou concrétisé. Les réactions du groupe arrivent." },
+      { "niveau": 4, "label": "Conséquences immédiates", "description": "Culpabilité, soulagement, hostilité, deuil — tout se mélange." },
+      { "niveau": 5, "label": "Reconstruction hors du groupe", "description": "Le personnage construit une identité et une vie sans cette appartenance." }
+    ],
+    "escaladeTypique": [
+      "désenchantement progressif",
+      "décision intérieure de partir",
+      "préparation et annonce",
+      "réactions du groupe et gestion des conséquences",
+      "reconstruction identitaire hors du groupe"
+    ],
+    "voiesDeResolution": [
+      "le départ se passe bien — une partie des liens est préservée",
+      "le groupe réagit violemment et confirme que la sortie était nécessaire",
+      "le personnage revient après avoir pris de la distance",
+      "la sortie permet une reconstruction identitaire plus solide",
+      "le personnage ne part pas et vit avec le compromis — jusqu'à la prochaine crise"
+    ],
+    "blessuresUnderlyantes": [
+      "appartenance longtemps cherchée qui s'est révélée coûteuse",
+      "identité trop longtemps fusionnée avec celle du groupe",
+      "trahison par le groupe après un investissement total",
+      "conviction que partir c'est perdre — et devoir apprendre que c'est parfois gagner",
+      "expérience passée où un départ précédent s'était mal passé"
+    ],
+    "contextesFavorables": [
+      "personnage qui a construit sa vie entière autour du groupe",
+      "groupe dont les pratiques sont devenues incompatibles avec les valeurs du personnage",
+      "départ qui met en danger le groupe ou des membres vulnérables",
+      "personnage qui part seul quand tous les autres restent"
+    ],
+    "personnagesSouventConcernes": [
+      "le membre fondateur qui part avant la fin",
+      "le croyant qui quitte sa communauté",
+      "l'employé star qui démissionne",
+      "l'ami qui se retire d'un groupe d'amis toxique",
+      "l'enfant adulte qui prend de la distance avec sa famille"
+    ],
+    "erreursDEcriture": [
+      "rendre la sortie toujours libératrice — elle s'accompagne souvent d'une perte réelle",
+      "rendre le groupe entièrement mauvais pour justifier le départ — la nostalgie est plus riche",
+      "ne pas montrer ce que le groupe a vraiment donné au personnage",
+      "résoudre trop vite la question identitaire — qui est-on sans le groupe ?",
+      "confondre sortie du groupe (rupture choisie) / exclusion subie / pression de conformité (rester en se trahissant)"
+    ],
+    "notesEditoriales": [
+      "Le personnage qui part emporte une partie du groupe avec lui — des habitudes, des réflexes, une identité.",
+      "La culpabilité de partir est souvent plus grande que la douleur de rester — ce qui explique pourquoi on attend si longtemps.",
+      "Différencier : sortie du groupe (rupture volontaire) / exclusion (rejet subi) / pression de conformité (rester ou partir selon les termes du groupe).",
+      "La scène la plus forte n'est pas souvent le départ lui-même mais ce qui se passe juste après — quand il n'y a plus de retour possible."
+    ]
+  },
+  {
+    "id": "leader-toxique",
+    "label": "Leader toxique",
+    "alias": [
+      "chef qui fait du mal",
+      "leader narcissique",
+      "autorité destructrice",
+      "mentor qui se révèle néfaste",
+      "guide qui trahit",
+      "charisme contre intégrité",
+      "figure d'autorité abusive",
+      "loyauté à un chef qui ne la mérite pas",
+      "aveuglement collectif devant un leader",
+      "groupe sous emprise"
+    ],
+    "famille": "conflits de groupe",
+    "definitionCourte": "Le groupe est dirigé par quelqu'un dont le leadership cause du tort — manipulation, abus de pouvoir, narcissisme, exploitation. Les membres le voient ou ne le voient pas. S'en détacher est difficile.",
+    "natureDuConflit": "Conflit entre la loyauté envers le leader (charisme, dette, appartenance) et la conscience croissante que ce leader fait du mal. Le groupe peut être complice par aveuglement, peur ou intérêt.",
+    "forcesEnPresence": [
+      "charisme réel du leader qui justifie l'attachement initial",
+      "dette ou gratitude envers quelqu'un qui a donné quelque chose d'important",
+      "peur des représailles si on se dissocie",
+      "dépendance émotionnelle ou pratique créée par le leader",
+      "pression du groupe à maintenir la loyauté",
+      "conscience croissante du tort causé",
+      "coût de la dénonciation ou de la sortie"
+    ],
+    "declencheursFrequents": [
+      "acte manifeste qui ne peut plus être rationalisé",
+      "victime visible du leader avec qui le personnage s'identifie",
+      "tiers extérieur qui nomme le problème clairement",
+      "moment où le personnage devient lui-même victime",
+      "révélation d'un comportement caché du leader",
+      "départ courageux d'un membre respecté qui ouvre une brèche",
+      "conséquence grave sur quelqu'un de proche",
+      "demande du leader qui franchit une ligne personnelle"
+    ],
+    "signauxAvantCoureurs": [
+      "malaise diffus dans les interactions avec le leader",
+      "rationalisations de plus en plus élaborées de ses comportements",
+      "distancement progressif de ceux qui critiquent le leader",
+      "sur-adaptation de soi pour répondre aux attentes du leader",
+      "fatigue inexpliquée dans les interactions avec le groupe",
+      "moments de lucidité vite réprimés",
+      "comportements de cour autour du leader pour se protéger",
+      "sentiment d'être moins soi-même qu'avant d'appartenir au groupe"
+    ],
+    "silencesEtNonDits": [
+      "les membres ne se disent pas entre eux ce qu'ils voient",
+      "personne ne nomme le problème pour ne pas perdre sa place",
+      "le leader ne sait pas — ou fait semblant de ne pas savoir — ce qu'il cause",
+      "les victimes ne disent pas leur souffrance par honte ou par peur",
+      "la question de si le groupe peut exister sans ce leader n'est jamais posée",
+      "le coût personnel de rester fidèle n'est jamais reconnu"
+    ],
+    "penseesTypiques": [
+      "Il a fait tellement pour nous. Je ne peux pas le trahir maintenant.",
+      "Peut-être que je ne vois pas toute la situation.",
+      "Il est dur parfois. Mais les résultats sont là.",
+      "Est-ce que je suis le seul à voir ça ?",
+      "Si je parle, je perds tout ce que j'ai construit ici.",
+      "Il y a forcément une explication pour ce qu'il a fait.",
+      "Je croyais qu'il était différent.",
+      "Depuis quand est-ce que je marche sur des œufs avec lui ?",
+      "Est-ce que j'ai aidé à ce que ça arrive en restant silencieux ?"
+    ],
+    "comportementsTypiques": [
+      "rationalise ou minimise les comportements problématiques du leader",
+      "attaque ceux qui osent critiquer le leader pour protéger sa propre position",
+      "devient une courroie de transmission des comportements toxiques dans le groupe",
+      "cherche l'approbation du leader de manière obsessionnelle",
+      "s'éloigne progressivement quand il voit la vérité mais sans se confronter",
+      "aide les victimes discrètement sans s'exposer",
+      "finit par parler quand le coût du silence devient insupportable",
+      "quitte le groupe en silence"
+    ],
+    "positionsDePouvoir": [
+      "Le leader toxique a souvent un pouvoir réel — ressources, réseau, charisme — qui rend la contestation coûteuse.",
+      "Les membres ont un pouvoir collectif qu'ils sous-estiment souvent.",
+      "La victime qui parle prend un risque énorme — et peut ouvrir une brèche ou être isolée.",
+      "Le membre qui voit clairement mais se tait a un pouvoir de témoignage qu'il choisit de ne pas exercer."
+    ],
+    "variantes": [
+      {
+        "relation": "Mentor / Disciple",
+        "description": "Le leader toxique a été un guide réel. La désillusion est personnelle et profonde. La dette est réelle. La reconstruction identitaire est difficile."
+      },
+      {
+        "relation": "Leader charismatique d'une cause",
+        "description": "La cause est légitime. Le leader l'utilise à ses propres fins. La trahison touche à la fois la personne et l'idéal."
+      },
+      {
+        "relation": "Chef dans un contexte hiérarchique fermé",
+        "description": "Les alternatives sont limitées. Partir coûte trop. La tolérance au comportement toxique augmente progressivement — par adaptation, pas par consentement."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Malaise diffus", "description": "Quelque chose cloche mais le personnage ne peut pas encore nommer quoi." },
+      { "niveau": 2, "label": "Lucidité croissante", "description": "Le personnage voit. Il ne sait pas encore quoi faire avec ce qu'il voit." },
+      { "niveau": 3, "label": "Conflit actif", "description": "La loyauté et la conscience s'affrontent directement. La situation exige une prise de position." },
+      { "niveau": 4, "label": "Choix entre loyauté et intégrité", "description": "Rester, c'est se compromette. Partir ou parler, c'est tout risquer." },
+      { "niveau": 5, "label": "Rupture ou complicité assumée", "description": "Le personnage a choisi — avec tout ce que ça implique." }
+    ],
+    "escaladeTypique": [
+      "attachement sincère au leader et à ce qu'il représente",
+      "premiers signaux ignorés ou rationalisés",
+      "lucidité progressive sur le comportement du leader",
+      "choix entre loyauté et intégrité",
+      "rupture, dénonciation ou complicité assumée"
+    ],
+    "voiesDeResolution": [
+      "le personnage se dissocie publiquement malgré le coût",
+      "un événement grave force le groupe à voir ce que certains savaient déjà",
+      "le leader s'auto-détruit — l'issue se règle sans confrontation directe",
+      "le personnage part silencieusement et reconstruit ailleurs",
+      "le personnage reste et devient lui-même complice — fin possible sans rédemption"
+    ],
+    "blessuresUnderlyantes": [
+      "besoin intense d'une figure d'autorité bienveillante qui a rendu l'attachement aveugle",
+      "expérience passée d'exclusion qui rend le coût de la sortie insupportable",
+      "dette réelle envers le leader qui justifie la loyauté même quand elle est coûteuse",
+      "difficulté à distinguer charisme et manipulation",
+      "conviction que les institutions ou les leaders ont toujours raison"
+    ],
+    "contextesFavorables": [
+      "groupe religieux, politique ou idéologique avec une figure charismatique centrale",
+      "milieu professionnel avec un chef dont le pouvoir est total",
+      "cercle fermé où les alternatives extérieures sont limitées",
+      "personnage en position de vulnérabilité au moment où il rencontre le leader"
+    ],
+    "personnagesSouventConcernes": [
+      "le disciple qui a tout donné à son mentor",
+      "le membre historique qui a vu le groupe se pervertir progressivement",
+      "la première victime qui n'a pas parlé",
+      "le proche collaborateur du leader qui sait tout",
+      "le nouveau venu qui voit ce que les anciens ne voient plus"
+    ],
+    "erreursDEcriture": [
+      "rendre le leader toxique comme un monstre évident dès le début — la séduction doit être réelle",
+      "ne pas montrer ce que le leader a vraiment apporté — la loyauté doit avoir une raison",
+      "rendre la sortie ou la dénonciation facile — le coût réel est au cœur du conflit",
+      "oublier la responsabilité collective des membres qui ont laissé faire",
+      "confondre leader toxique (emprise sur un groupe) / abus de pouvoir (hiérarchie individuelle) / domination (emprise interpersonnelle)"
+    ],
+    "notesEditoriales": [
+      "La séduction initiale du leader doit être crédible — sinon le groupe semble stupide, pas piégé.",
+      "Les membres qui voient et se taisent sont souvent les plus riches à suivre.",
+      "Différencier : leader toxique (groupe sous emprise collective) / abus de pouvoir (individu contre individu) / emprise (relation duelle).",
+      "L'attachement au leader peut survivre à la désillusion intellectuelle — c'est ça qui rend ce conflit durable."
+    ],
+    "dynamiqueAssociee": { "id": "leadership-toxique", "label": "Leadership toxique" }
+  }
+]

@@ -1,0 +1,14 @@
+﻿{
+  "id": "fr-v1",
+  "language": "fr",
+  "version": "1.0.0",
+  "patterns": [
+    { "suffix": "tion", "splits": ["ti-on", "t-ion"] },
+    { "suffix": "ment", "splits": ["me-nt", "m-ent"] },
+    { "suffix": "ique", "splits": ["i-que"] },
+    { "suffix": "aire", "splits": ["ai-re"] },
+    { "suffix": "euse", "splits": ["eu-se"] },
+    { "suffix": "able", "splits": ["a-ble"] },
+    { "suffix": "isme", "splits": ["is-me"] }
+  ]
+}

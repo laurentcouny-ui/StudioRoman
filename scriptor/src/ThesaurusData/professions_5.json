@@ -1,0 +1,472 @@
+[
+  {
+    "id": "pecheur",
+    "label": "Pêcheur professionnel",
+    "domaine": "métiers de la mer et de l'eau",
+    "definitionCourte": "Travailleur dont l'activité dépend entièrement des cycles naturels, des conditions météo et d'une ressource vivante impossible à contrôler.",
+    "perceptionDuMonde": [
+      "pense en termes de marée, de vent et de cycles plutôt qu'en horaires",
+      "lit les signes naturels — couleur du ciel, comportement des oiseaux, texture de l'eau",
+      "entretient un rapport de dépendance et de respect envers une force qui le dépasse",
+      "valorise la fiabilité et l'endurance plus que le talent ou la formation"
+    ],
+    "signesDistinctifs": [
+      "mains larges et marquées par le sel, les cordages et le froid",
+      "visage tanné par le vent et le soleil marin",
+      "démarche stable même sur un sol qui bouge — ou rigide quand il ne bouge pas",
+      "yeux habitués à scruter l'horizon — regard qui porte loin"
+    ],
+    "langageSpecifique": [
+      "nommer les vents par leurs directions et leurs caractères",
+      "parler des poissons comme de proies mouvantes avec leurs comportements",
+      "mesurer le temps en marées plutôt qu'en heures",
+      "silence possible de longues heures sans inconfort"
+    ],
+    "tensionsTypiques": [
+      "prise nulle après une nuit entière en mer",
+      "tempête qui oblige à rester à quai — et à regarder les comptes se vider",
+      "réglementation qui interdit ce qu'il a toujours fait",
+      "génération suivante qui ne veut pas reprendre le bateau"
+    ],
+    "blessuresProfessionnelles": [
+      "perte d'un collègue en mer — la mer prend sans prévenir",
+      "saisons de moins en moins bonnes — sentiment d'épuiser une ressource",
+      "mépris social pour un métier difficile et peu valorisé",
+      "corps usé par les années de froid, d'humidité et de charge"
+    ],
+    "usagesNarratifs": [
+      "personnage ancré dans le réel et les cycles naturels — antithèse des personnages urbains",
+      "porteur de sagesse pratique non verbalisée",
+      "figure de la transmission — ou de son absence",
+      "révélateur du rapport d'un autre personnage à la nature et au travail physique"
+    ],
+    "notesEditoriales": [
+      "Éviter le cliché du vieux loup de mer philosophe — le pêcheur peut être jeune, silencieux ou pragmatique.",
+      "Son rapport au temps est radicalement différent de la plupart des personnages urbains — à exploiter.",
+      "La dépendance météo est un levier narratif concret : une tempête n'est jamais qu'une tempête."
+    ]
+  },
+  {
+    "id": "marin-commerce",
+    "label": "Marin de commerce",
+    "domaine": "métiers de la mer et de l'eau",
+    "definitionCourte": "Professionnel qui travaille à bord de navires marchands, parfois des semaines entières en mer, dans une communauté close et hiérarchisée.",
+    "perceptionDuMonde": [
+      "pense en termes de rotations — embarqués/débarqués, temps de mer/temps à terre",
+      "mesure la distance en jours de navigation plutôt qu'en kilomètres",
+      "développe une tolérance à la promiscuité prolongée et au confinement",
+      "vit une double vie — un moi à bord, un autre à terre"
+    ],
+    "signesDistinctifs": [
+      "corps habitué aux horaires en quarts — veille et sommeil décalés",
+      "aisance dans des espaces confinés et bruyants",
+      "relation particulière au téléphone et à la communication différée",
+      "tatouage maritime possible — ancres, étoiles, boussoles"
+    ],
+    "langageSpecifique": [
+      "vocabulaire maritime précis — bord, bastingage, timonerie, soutier",
+      "distinguer les grades et les rôles à bord avec précision",
+      "parler des ports comme de courtes escales, jamais vraiment connus",
+      "compter les jours avant le retour à la maison"
+    ],
+    "tensionsTypiques": [
+      "famille laissée à terre qui évolue sans lui",
+      "conflit de hiérarchie dans l'espace fermé du bateau",
+      "accident ou urgence médicale loin de tout secours",
+      "inadaptation au retour à terre après de longues rotations"
+    ],
+    "blessuresProfessionnelles": [
+      "manquer les événements importants de la vie de famille — naissances, maladies, ruptures",
+      "sentiment de n'appartenir vraiment à aucun endroit",
+      "corps décalé par les fuseaux et les rythmes irréguliers",
+      "isolement possible lors de conflits à bord sans possibilité de fuir"
+    ],
+    "usagesNarratifs": [
+      "figure de l'absence et du retour — narrativement riche pour les dynamiques familiales",
+      "personnage qui porte une double vie sans le vouloir",
+      "porteur de récits de ports et de pays entrevus sans jamais être vraiment vécus",
+      "révélateur du coût humain de l'économie maritime mondiale"
+    ],
+    "notesEditoriales": [
+      "La double vie à bord/à terre est le moteur narratif principal — deux identités possibles.",
+      "Le confinement du navire est une microcommunauté que tout bon roman clos peut exploiter.",
+      "Ne pas réduire au stéréotype de l'aventurier — le marin de commerce travaille, il ne voyage pas."
+    ]
+  },
+  {
+    "id": "chauffeur-de-taxi",
+    "label": "Chauffeur de taxi",
+    "domaine": "transport et mobilité",
+    "definitionCourte": "Professionnel de la route qui passe ses journées à déplacer des inconnus, observant la ville et les vies humaines depuis le siège avant.",
+    "perceptionDuMonde": [
+      "connaît la ville dans ses flux, ses embouteillages, ses raccourcis secrets",
+      "a développé un sens aigu de la lecture rapide des gens",
+      "entend des dizaines de fragments de vie chaque jour sans en voir les suites",
+      "pense en courses, en argent, en heures — la rentabilité est constante"
+    ],
+    "signesDistinctifs": [
+      "dos légèrement courbé par les heures de conduite",
+      "regard dans le rétroviseur autant que sur la route",
+      "radio ou musique en fond — habitude de remplir le silence",
+      "eau et collations dans la boîte à gants — il ne s'arrête pas pour manger"
+    ],
+    "langageSpecifique": [
+      "parler des quartiers par leurs noms de courses — 'les aéroports', 'les hôtels', 'les gares'",
+      "évaluer immédiatement si un client va parler ou pas",
+      "commenter la ville — travaux, détours, embouteillages — comme une lecture météo",
+      "opinion sur tout — politique, football, société — disponible si le client engage"
+    ],
+    "tensionsTypiques": [
+      "client qui refuse de payer ou conteste le trajet",
+      "nuit longue sans courses rentables",
+      "VTC qui mange les courses depuis des années",
+      "violence ou insécurité en fin de nuit"
+    ],
+    "blessuresProfessionnelles": [
+      "corps usé par les heures de position assise et les nuits inversées",
+      "isolement social — il est avec des gens mais jamais vraiment parmi eux",
+      "fragments de vie humaine accumulés sans pouvoir en parler à personne",
+      "sentiment d'être rendu invisible par son rôle de service"
+    ],
+    "usagesNarratifs": [
+      "personnage-observateur idéal — il voit tout sans être impliqué",
+      "confesseur involontaire des passagers qui parlent parce qu'il est un inconnu",
+      "figure de la ville connue de l'intérieur — ses veines et ses artères",
+      "révélateur de l'état émotionnel d'un personnage à travers ce qu'il dit au chauffeur"
+    ],
+    "notesEditoriales": [
+      "Le taxi est un espace de confession — les passagers parlent parce que le chauffeur oubliera.",
+      "Son regard dans le rétroviseur est un dispositif narratif fort — il voit sans être vu regarder.",
+      "Ne pas en faire une tribune politique systématique — c'est un cliché usé."
+    ]
+  },
+  {
+    "id": "livreur",
+    "label": "Livreur",
+    "domaine": "transport et mobilité",
+    "definitionCourte": "Travailleur qui parcourt la ville en vélo, scooter ou camionnette pour livrer des colis ou de la nourriture, souvent dans des conditions précaires.",
+    "perceptionDuMonde": [
+      "connaît les codes d'entrée des immeubles de tout un secteur",
+      "lit la ville par ses obstacles — feux, sens interdits, digicodes, chiens de gardien",
+      "calcule en permanence le temps et la distance — sa rémunération en dépend directement",
+      "développe une relation de transit avec les lieux — il arrive et repart sans appartenir"
+    ],
+    "signesDistinctifs": [
+      "tenue identifiée aux couleurs de la plateforme ou neutre selon le statut",
+      "sac ou caisse isotherme omniprésente",
+      "téléphone fixé sur le guidon ou en main à chaque arrêt",
+      "corps adapté aux efforts répétés dans les escaliers ou contre le vent"
+    ],
+    "langageSpecifique": [
+      "parler des commandes par leur numéro ou leur adresse",
+      "évaluer les pourboires — ou leur absence — comme indicateur social",
+      "noter les mauvais payeurs et les bons clients de mémoire",
+      "comprendre les algorithmes de distribution comme une contrainte invisible mais réelle"
+    ],
+    "tensionsTypiques": [
+      "commande annulée à la livraison après le trajet",
+      "code d'entrée erroné — client injoignable",
+      "accident en circulation, sans protection suffisante",
+      "revenu insuffisant malgré les heures"
+    ],
+    "blessuresProfessionnelles": [
+      "invisibilité totale — il passe, il repart, il n'existe pas pour ceux qu'il sert",
+      "dépendance à une plateforme qui peut le désactiver sans recours",
+      "corps exposé aux intempéries et aux accidents sans filet de sécurité",
+      "absence de perspective — la livraison est souvent un emploi de transition qui dure"
+    ],
+    "usagesNarratifs": [
+      "personnage qui traverse tous les milieux sociaux sans appartenir à aucun",
+      "figure de la précarité numérique contemporaine",
+      "observateur involontaire de l'intimité des appartements — une porte entrouverte dit tout",
+      "porteur d'une information ou d'un objet sans en connaître la portée"
+    ],
+    "notesEditoriales": [
+      "Le livreur est un personnage invisible en fiction alors qu'il est omniprésent dans nos vies — riche à exploiter.",
+      "Sa relation aux algorithmes et aux plateformes est une tension narrative contemporaine forte.",
+      "Son accès à des espaces privés (couloirs, halls, portes entrebâillées) en fait un témoin privilégié."
+    ]
+  },
+  {
+    "id": "caissier",
+    "label": "Caissier ou caissière de grande surface",
+    "domaine": "commerce et distribution",
+    "definitionCourte": "Employé en contact permanent avec le public, dont le travail consiste à scanner, encaisser et traiter des centaines de personnes par jour tout en restant invisible.",
+    "perceptionDuMonde": [
+      "voit les gens par leur contenu de chariot autant que par leur visage",
+      "lit le stress, la honte, l'urgence, la joie sur les visages en quelques secondes",
+      "développe une endurance émotionnelle par l'exposition répétée aux comportements humains",
+      "pense en flux — file d'attente, cadence, pause, fin de service"
+    ],
+    "signesDistinctifs": [
+      "poignet et épaule parfois douloureux — geste répétitif des milliers de fois par jour",
+      "sourire de service — distinct du sourire sincère mais pas toujours faux",
+      "capacité à rendre la monnaie de tête sans effort",
+      "uniforme ou badge qui efface l'identité au profit du rôle"
+    ],
+    "langageSpecifique": [
+      "vocabulaire de la caisse — saisir, annuler, valider, gestionnaire",
+      "formules de politesse usées mais maintenues",
+      "signaux discrets aux collègues — appel de renfort, problème en file",
+      "compter les heures jusqu'à la fin de service"
+    ],
+    "tensionsTypiques": [
+      "client agressif pour un refus de prix ou une file trop longue",
+      "erreur de caisse qui bloque tout",
+      "contrôle de manager sur le rythme et les pauses",
+      "produit impossible à scanner qui bloque la file entière"
+    ],
+    "blessuresProfessionnelles": [
+      "mépris de certains clients qui ne regardent même pas",
+      "sentiment d'être interchangeable et remplaçable par une machine",
+      "fatigue physique d'une posture fixe et répétitive toute la journée",
+      "exposition au jugement social permanent dans un emploi peu valorisé"
+    ],
+    "usagesNarratifs": [
+      "personnage-miroir qui reflète sans fard le comportement des clients envers les invisibles",
+      "observateur privilégié de la vie économique réelle d'un quartier",
+      "figure de la dignité maintenue malgré le mépris",
+      "révélateur de la façon dont un personnage traite les gens qui le servent"
+    ],
+    "notesEditoriales": [
+      "Un personnage qui traite mal un caissier révèle quelque chose d'essentiel sur lui — à utiliser.",
+      "La caissière n'est pas que sa fonction — son monde intérieur est riche malgré l'uniformisation.",
+      "La file d'attente est un espace de tensions révélatrices — à exploiter comme scène."
+    ]
+  },
+  {
+    "id": "educateur-special",
+    "label": "Éducateur spécialisé",
+    "domaine": "travail social et éducatif",
+    "definitionCourte": "Professionnel qui accompagne des personnes en situation de vulnérabilité — handicap, exclusion, dépendance — dans leur quotidien et leur autonomie.",
+    "perceptionDuMonde": [
+      "voit les personnes dans leur singularité avant leur problème ou leur étiquette",
+      "pense en termes de projet individualisé — chaque personne a son propre chemin",
+      "développe une tolérance à la lenteur, à l'échec partiel et au recul",
+      "entretient une vigilance constante sur ses propres réactions et limites"
+    ],
+    "signesDistinctifs": [
+      "posture physique proche et détendue — adaptée aux personnes en difficulté",
+      "voix modulée selon les situations — calme même dans la tension",
+      "capacité à rester neutre dans des situations émotionnellement intenses",
+      "bloc-notes ou carnet de suivi toujours à portée"
+    ],
+    "langageSpecifique": [
+      "vocabulaire de l'accompagnement — projet, bilan, orientation, autonomie",
+      "langage adapté selon l'interlocuteur — simplifié, imagé, direct",
+      "réunions de synthèse et de coordination entre équipes pluridisciplinaires",
+      "termes administratifs du secteur social — MDPH, SESSAD, IME, ESAT"
+    ],
+    "tensionsTypiques": [
+      "manque de moyens pour vraiment aider",
+      "burn-out lié à la charge émotionnelle accumulée",
+      "famille ou entourage en conflit avec l'accompagnement",
+      "situation qui régresse malgré tous les efforts"
+    ],
+    "blessuresProfessionnelles": [
+      "impuissance face à une situation systémique qu'aucun accompagnement individuel ne peut résoudre",
+      "perte de contact avec une personne aidée — la rue, la prison, la mort",
+      "frontière difficile à tenir entre aide professionnelle et implication émotionnelle",
+      "reconnaissance sociale faible pour un travail exigeant et invisible"
+    ],
+    "usagesNarratifs": [
+      "figure d'une aide concrète et non-spectaculaire — antithèse du sauveur héroïque",
+      "personnage révélateur des failles du système social",
+      "révélateur des ressources et des limites des personnes accompagnées",
+      "porteur de l'éthique du soin et de ses dilemmes réels"
+    ],
+    "notesEditoriales": [
+      "L'éducateur spécialisé n'est pas un saint — il a ses limites, ses découragements, ses erreurs.",
+      "Son rapport à l'impuissance est une des tensions les plus riches à explorer.",
+      "Utile pour les récits qui veulent montrer la vulnérabilité et l'accompagnement sans angélisme."
+    ]
+  },
+  {
+    "id": "assistante-maternelle",
+    "label": "Assistante maternelle",
+    "domaine": "travail social et éducatif",
+    "definitionCourte": "Professionnel agréé qui accueille à son domicile des enfants en bas âge, assurant leur développement et leur sécurité dans un cadre familial.",
+    "perceptionDuMonde": [
+      "observe le développement des enfants avec attention — chaque étape est visible au quotidien",
+      "voit les familles de l'intérieur — leurs tensions, leurs difficultés, leurs valeurs",
+      "pense en routines, en sécurité, en besoins fondamentaux",
+      "entretient un rapport ambigu à l'attachement — aimer sans être parent"
+    ],
+    "signesDistinctifs": [
+      "maison adaptée aux enfants — tapis, jouets, barrières d'escalier",
+      "organisation rigoureuse du temps — sieste, repas, jeux, sorties",
+      "capacité à gérer plusieurs enfants simultanément sans paniquer",
+      "regard habitué à l'imprévu et aux crises de larmes"
+    ],
+    "langageSpecifique": [
+      "parler des enfants par leur prénom et leur stade de développement",
+      "vocabulaire de la petite enfance — psychomotricité, séparation, jalousie fraternelle",
+      "échanges quotidiens avec les parents — cahier de liaison, transmission orale",
+      "langage des contrats — heures, congés, mensualisation"
+    ],
+    "tensionsTypiques": [
+      "parent qui arrive en retard régulièrement sans prévenir",
+      "désaccord éducatif avec la famille",
+      "enfant qui révèle ou montre des signes de problème familial",
+      "fin de contrat mal vécue — l'enfant part, l'attachement reste"
+    ],
+    "blessuresProfessionnelles": [
+      "attachement fort pour un enfant qui part en école et disparaît",
+      "dévalorisation du métier — 'vous gardez des enfants' dit avec condescendance",
+      "isolement professionnel — exercer seul à son domicile sans équipe",
+      "accusation ou soupçon d'un parent qui fragilise tout le travail accompli"
+    ],
+    "usagesNarratifs": [
+      "personnage en position de confiance totale dans l'intimité familiale — riche pour les révélations",
+      "figure de l'attachement non-parental et de ses complexités",
+      "révélateur de la vie réelle d'une famille à travers l'enfant confié",
+      "espace narratif pour la question du travail invisible et du soin"
+    ],
+    "notesEditoriales": [
+      "L'assistante maternelle est un personnage rarement traité en fiction — c'est une lacune à combler.",
+      "Son accès à l'intimité familiale en fait un témoin narratif précieux.",
+      "La question de l'attachement aux enfants confiés est une tension émotionnelle forte et peu exploitée."
+    ]
+  },
+  {
+    "id": "pharmacien",
+    "label": "Pharmacien",
+    "domaine": "santé",
+    "definitionCourte": "Professionnel de santé qui délivre les médicaments, conseille les patients et joue souvent un rôle de premier recours avant le médecin.",
+    "perceptionDuMonde": [
+      "voit les maladies à travers les prescriptions — lit les ordonnances comme des biographies abrégées",
+      "pense en termes d'interaction médicamenteuse, de posologie, de contre-indication",
+      "développe un radar pour repérer les patients en difficulté — addiction, confusion, isolement",
+      "entretient un rapport particulier à la confiance — les gens lui donnent accès à leur intimité médicale"
+    ],
+    "signesDistinctifs": [
+      "blouse blanche dans un espace lumineux et ordonné",
+      "capacité à lire une ordonnance illisible sans effort apparent",
+      "mémorisation des traitements réguliers des clients habituels",
+      "gestes précis dans le rangement et la préparation"
+    ],
+    "langageSpecifique": [
+      "dénomination commune internationale — le DCI avant le nom de marque",
+      "explications adaptées selon le patient — technique avec les médecins, accessible avec tout le monde",
+      "vigilance verbalisée sur les interactions ou les contre-indications",
+      "termes réglementaires — prescription obligatoire, liste I/II, stupéfiant"
+    ],
+    "tensionsTypiques": [
+      "patient qui réclame un médicament sans ordonnance en insistant",
+      "suspicion d'ordonnance falsifiée ou de comportement addictif",
+      "rupture de stock d'un médicament vital",
+      "désaccord avec une prescription médicale"
+    ],
+    "blessuresProfessionnelles": [
+      "pharmacien de ville transformé en gestionnaire par la concurrence des grandes surfaces parapharmacies",
+      "devoir refuser un médicament à quelqu'un qui en a besoin pour des raisons réglementaires",
+      "porter la confiance des patients et ne pouvoir parfois rien faire",
+      "accumulation de cas difficiles — addiction, automédication excessive, demandes impossibles"
+    ],
+    "usagesNarratifs": [
+      "personnage de confiance dans un récit médical ou policier",
+      "révélateur discret de l'état de santé ou d'addiction d'un personnage",
+      "figure du soin de proximité qui connaît les secrets médicaux du quartier",
+      "espace narratif pour la question de l'accès aux soins"
+    ],
+    "notesEditoriales": [
+      "Le pharmacien voit les ordonnances comme un médecin voit les dossiers — il en sait énormément.",
+      "Sa position entre médecin et patient en fait un personnage de pont narratif efficace.",
+      "La pharmacie de nuit est un décor particulièrement riche — urgence, vulnérabilité, silence."
+    ]
+  },
+  {
+    "id": "notaire",
+    "label": "Notaire",
+    "domaine": "droit et juridique",
+    "definitionCourte": "Officier public qui authentifie les actes juridiques importants — successions, ventes immobilières, mariages — et conserve les secrets familiaux les plus lourds.",
+    "perceptionDuMonde": [
+      "voit les familles dans leurs moments de tension maximale — mort, divorce, héritage, achat",
+      "pense en termes de droit et de conséquences futures — l'acte qu'on signe aujourd'hui vaut dans dix ans",
+      "développe une neutralité de façade — il doit être celui qui dit le droit sans prendre parti",
+      "entretient un rapport à la discrétion absolue — il sait des choses que les familles ne sauraient même pas"
+    ],
+    "signesDistinctifs": [
+      "bureau encombré de dossiers mais chaque chose a sa place précise",
+      "ton posé, débit mesuré — il ne se presse jamais lors des actes",
+      "costume sombre, papier à en-tête, stylo plume ou lourd",
+      "capacité à énoncer des choses graves avec une neutralité clinique"
+    ],
+    "langageSpecifique": [
+      "latin de droit occasionnel — mortis causa, inter vivos, usufruit",
+      "formules rituelles de l'acte authentique récitées avec soin",
+      "explication du droit en langage accessible — les parties doivent comprendre",
+      "vocabulaire notarial — mandataire, acte sous seing privé, minute"
+    ],
+    "tensionsTypiques": [
+      "famille qui s'entredéchire lors d'une lecture de testament",
+      "révélation d'un enfant naturel ou d'une clause inattendue",
+      "demande illégale d'une partie sous pression",
+      "héritage contesté et tension palpable autour de la table"
+    ],
+    "blessuresProfessionnelles": [
+      "porter des secrets qui engagent des vies entières",
+      "instrumentalisé par des familles qui veulent faire passer l'acte avant la réflexion",
+      "neutralité difficile à tenir quand l'injustice est évidente dans le dossier",
+      "isolement lié à la confidentialité — il ne peut pas parler de son travail"
+    ],
+    "usagesNarratifs": [
+      "gardien de secrets familiaux — sa révélation peut tout faire basculer",
+      "personnage dont la neutralité est un masque que le récit peut faire craquer",
+      "figure du droit face à la réalité humaine — souvent en conflit",
+      "déclencheur de conflits familiaux par la simple lecture d'un document"
+    ],
+    "notesEditoriales": [
+      "Le notaire est un personnage déclencheur idéal — il annonce ce que les vivants ignoraient.",
+      "Sa neutralité professionnelle peut être un masque pour une complicité ou une révolte intérieure.",
+      "La scène de lecture de testament est un classique — mais elle reste puissante si bien construite."
+    ]
+  },
+  {
+    "id": "chercheur-universitaire",
+    "label": "Chercheur universitaire",
+    "domaine": "enseignement supérieur et recherche",
+    "definitionCourte": "Professionnel dont le travail consiste à produire des connaissances nouvelles dans un environnement académique, entre passion intellectuelle et contraintes institutionnelles.",
+    "perceptionDuMonde": [
+      "pense en termes de problématiques, d'hypothèses et de résultats vérifiables",
+      "voit le monde comme un terrain d'étude — les événements comme des données",
+      "développe une habitude de nuance qui peut paraître indécise à l'extérieur",
+      "entretient un rapport complexe à la certitude — savoir ce qu'on ne sait pas est une valeur"
+    ],
+    "signesDistinctifs": [
+      "bureau couvert d'articles, de livres annotés, de post-its",
+      "capacité à monologuer sur son sujet pendant des heures si on l'y invite",
+      "distraction possible dans les conversations ordinaires — son esprit est ailleurs",
+      "langage précis qui peut sembler pédant mais n'est souvent que rigoureux"
+    ],
+    "langageSpecifique": [
+      "références constantes aux auteurs et aux théories de son champ",
+      "distinguer corrélation et causalité dans toute conversation",
+      "vocabulaire spécialisé qu'il traduit avec plus ou moins de patience",
+      "termes du monde académique — ANR, publication, comité de lecture, post-doc"
+    ],
+    "tensionsTypiques": [
+      "financement de la recherche en cours d'épuisement",
+      "publication refusée par un comité de lecture — mois de travail rejetés",
+      "conflit d'attribution — qui a eu l'idée en premier",
+      "pression de produire des résultats rentables dans une recherche fondamentale"
+    ],
+    "blessuresProfessionnelles": [
+      "précarité longue du doctorat et du post-doctorat — des années sans stabilité",
+      "découverte que son sujet de recherche est déjà traité par un concurrent",
+      "mépris de certains milieux pour 'ceux qui font de la théorie'",
+      "sentiment que la connaissance produite reste invisible du grand public"
+    ],
+    "usagesNarratifs": [
+      "personnage dont la spécialité éclaire un aspect du récit de façon inattendue",
+      "figure de l'intellect face au monde pratique — souvent en décalage",
+      "révélateur d'une vérité que les autres ne voient pas parce qu'ils ne cherchent pas",
+      "porteur d'une passion dévorante qui peut tout faire sacrifier"
+    ],
+    "notesEditoriales": [
+      "Le chercheur n'est pas un professeur — son monde est celui de la production de savoir, pas de la transmission.",
+      "La passion intellectuelle peut coexister avec une vie personnelle en ruines — tension riche.",
+      "Éviter la caricature du chercheur déconnecté du réel : il peut être profondément humain et ancré."
+    ]
+  }
+]

@@ -1,0 +1,543 @@
+[
+  {
+    "id": "odeur-pain-frais",
+    "label": "Odeur de pain frais",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur chaude et levurée du pain qui sort du four, mêlant la croûte dorée et la mie encore humide. Une des odeurs les plus universellement associées à la sécurité et à la maison.",
+    "qualite": "Enveloppante, douce, légèrement sucrée avec une note de croûte brûlée. Elle s'installe dans une pièce et y reste longtemps, comme une présence.",
+    "associationsNarratives": [
+      "boulangerie du quartier au petit matin",
+      "cuisine familiale un dimanche",
+      "maison d'enfance ou de grands-parents",
+      "premier appartement autonome où l'on apprend à faire son pain",
+      "camp de réfugiés ou de survie où la nourriture reprend une valeur absolue",
+      "retour dans un lieu longtemps absent",
+      "scène de réconciliation autour d'un repas",
+      "marché de village ou bazar à l'étranger"
+    ],
+    "emotionsAssociees": [
+      "réconfort",
+      "nostalgie douce",
+      "sécurité",
+      "appartenance",
+      "soulagement",
+      "mélancolie si le lieu n'existe plus"
+    ],
+    "memoires": [
+      "matins d'école chez les grands-parents",
+      "période heureuse d'une vie révolue",
+      "figure maternelle ou nourricière",
+      "moment de paix avant une rupture"
+    ],
+    "usagesTypiques": [
+      "ancrer une scène de retour : le personnage sent le pain avant même d'entrer",
+      "créer un contraste entre douceur de l'odeur et violence de la scène",
+      "signaler une maison habitée, vivante, après un passage dans un espace vide",
+      "déclencher une mémoire involontaire chez le personnage",
+      "marquer le temps : le pain cuit, la journée avance",
+      "établir un lien entre deux personnages autour d'un rituel culinaire partagé"
+    ],
+    "contraires": [
+      "odeur de moisissure",
+      "odeur de brûlé acide",
+      "odeur d'air conditionné plastique"
+    ],
+    "combinaisons": [
+      "pain frais + lumière matinale + silence de la maison encore endormie = scène d'intimité parfaite",
+      "pain frais + pleurs entendus derrière une porte = contraste entre soin extérieur et douleur intérieure",
+      "pain frais + fatigue nerveuse = tension entre le désir de normalité et l'impossibilité d'y croire"
+    ],
+    "notesEditoriales": [
+      "Attention au cliché : l'odeur de pain est tellement chargée de bonheur domestique qu'elle peut sembler facile. Elle gagne en force si elle est en tension avec ce que vit le personnage.",
+      "Elle peut devenir cruelle si le personnage est affamé, exilé ou en deuil d'une vie qu'il ne peut plus retrouver.",
+      "Plus efficace si associée à un rituel spécifique plutôt qu'à une généralité — le pain de seigle de la boulangerie du coin, pas 'du pain'."
+    ]
+  },
+  {
+    "id": "odeur-parfum-disparu",
+    "label": "Parfum d'un être disparu",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur soudaine et précise d'une personne absente ou morte, perçue dans un vêtement, un oreiller, une pièce restée fermée. Elle frappe avant que le cerveau ait le temps de se préparer.",
+    "qualite": "Intime, impossible à décrire précisément mais immédiatement reconnaissable. Elle est corporelle, mêlée de savon, de tissu, de peau — une signature olfactive unique qui n'appartient qu'à une seule personne.",
+    "associationsNarratives": [
+      "ouverture d'un placard après un deuil",
+      "vêtement conservé des années après une séparation",
+      "chambre d'un enfant parti de la maison",
+      "affaires d'un prisonnier de guerre ou d'un disparu",
+      "scène de fouilles judiciaires dans une maison",
+      "personnage qui ne peut se résoudre à laver les draps",
+      "boîte de souvenirs rouverte par accident",
+      "odeur perçue dans la rue sur un inconnu"
+    ],
+    "emotionsAssociees": [
+      "deuil",
+      "désir impossible",
+      "nostalgie déchirante",
+      "amour qui refuse de céder",
+      "choc et sidération",
+      "soulagement bref et douloureux"
+    ],
+    "memoires": [
+      "dernière étreinte avant une séparation",
+      "présence physique d'un proche décédé",
+      "période de vie commune heureuse ou difficile",
+      "moment précis d'un passé qui ne reviendra pas"
+    ],
+    "usagesTypiques": [
+      "déclencher un effondrement émotionnel sans qu'un mot soit prononcé",
+      "montrer qu'un personnage n'a pas fait son deuil",
+      "créer un choc narratif : la réalité de la perte s'impose soudain",
+      "relier deux temporalités dans un même instant",
+      "remplacer un dialogue d'exposition sur la perte par une perception pure",
+      "marquer la différence entre accepter intellectuellement une perte et la ressentir dans le corps"
+    ],
+    "contraires": [
+      "odeur neutre, sans mémoire",
+      "odeur de produit ménager qui efface toute trace",
+      "air extérieur qui renouvelle et disperse"
+    ],
+    "combinaisons": [
+      "parfum + geste de fermer les yeux + silence = deuil en train de se faire",
+      "parfum + lumière basse + objet retrouvé = scène de souvenir à haute charge émotionnelle",
+      "parfum reconnu sur un inconnu dans la rue + vertige = confusion entre passé et présent"
+    ],
+    "notesEditoriales": [
+      "L'un des déclencheurs émotionnels les plus puissants en littérature : l'olfaction court-circuite le filtre rationnel.",
+      "Ne pas sur-expliquer : le personnage n'a pas besoin de commenter. La réaction physique suffit.",
+      "Attention à ne pas le réserver uniquement aux scènes de deuil — il peut aussi surgir lors de retrouvailles, de réconciliations, de rechutes sentimentales."
+    ]
+  },
+  {
+    "id": "odeur-sueur-effort",
+    "label": "Odeur de sueur après l'effort",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur âcre et salée du corps qui a travaillé ou combattu, mêlée de chaleur corporelle et d'un relent de tissu humide. Elle est le signe sensoriel d'une dépense physique réelle.",
+    "qualite": "Forte, animale, sans équivoque. Elle marque la présence physique d'un corps dans l'espace — elle dit : quelqu'un a été là, quelqu'un a lutté.",
+    "associationsNarratives": [
+      "salle de sport ou d'entraînement militaire",
+      "scène de bagarre ou de combat rapproché",
+      "travail physique épuisant dans la chaleur",
+      "interrogatoire ou détention",
+      "nuit de fièvre ou de cauchemar",
+      "course-poursuite",
+      "chantier de construction ou de reconstruction après catastrophe",
+      "scène de travail des champs ou de survie"
+    ],
+    "emotionsAssociees": [
+      "épuisement",
+      "tension animale",
+      "fierté brute",
+      "dégoût de soi ou des autres",
+      "virilité ou force primitive",
+      "vulnérabilité exposée"
+    ],
+    "memoires": [
+      "entraînements durs d'un passé sportif",
+      "travail physique de l'enfance aux côtés d'un parent",
+      "combat ou violence physique subie ou exercée",
+      "maladie et transpiration nocturne"
+    ],
+    "usagesTypiques": [
+      "ancrer physiquement une scène d'action dans la réalité du corps",
+      "montrer que le personnage est poussé à ses limites",
+      "signaler la fatigue sans la nommer",
+      "créer une proximité physique inconfortable entre deux personnages",
+      "distinguer les personnages selon leur rapport à l'odeur — certains s'en moquent, d'autres la trouvent insupportable",
+      "faire ressentir l'enfermement ou la promiscuité d'un espace"
+    ],
+    "contraires": [
+      "odeur de propre, de linge frais",
+      "parfum sophistiqué qui masque le corps",
+      "air froid et stérile"
+    ],
+    "combinaisons": [
+      "sueur + silence pesant + gestes lents = après-combat ou après-crise",
+      "sueur + lumière crue + regard évité = interrogatoire ou confrontation",
+      "sueur + chaleur étouffante + bruit de fond = scène de travail forcé ou de survie"
+    ],
+    "notesEditoriales": [
+      "Souvent absente des textes par pudeur ou oubli — pourtant elle ancre une scène d'action mieux que n'importe quelle description de mouvement.",
+      "La réaction d'un personnage à cette odeur (la sienne ou celle d'un autre) en dit long sur son rapport au corps, à la classe sociale, à l'intimité.",
+      "Peut être utilisée pour marquer le basculement d'un personnage hors de son monde habituel."
+    ]
+  },
+  {
+    "id": "son-rires-enfants",
+    "label": "Rires d'enfants au loin",
+    "categorie": "auditif",
+    "definitionCourte": "Son haut et clair de rires d'enfants perçu à distance, depuis un parc, une cour d'école ou un jardin. Il arrive porté par le vent, sans visage attaché.",
+    "qualite": "Léger, intermittent, impossible à localiser précisément. Il flotte plus qu'il ne s'impose. Sa distance même en fait une présence sonore étrange — joyeuse et mélancolique à la fois.",
+    "associationsNarratives": [
+      "personnage seul dans un appartement un après-midi de semaine",
+      "parent qui attend des nouvelles d'un enfant malade ou disparu",
+      "adulte qui n'a pas eu d'enfants et contemple ce choix",
+      "personnage en deuil d'un enfant",
+      "convalescence dans une chambre d'hôpital proche d'une école",
+      "prison ou enfermement à proximité d'un espace de liberté",
+      "exil dans un pays étranger où les enfants jouent sans se souvenir de rien",
+      "vieillesse et solitude"
+    ],
+    "emotionsAssociees": [
+      "mélancolie douce",
+      "nostalgie de l'enfance",
+      "solitude en creux",
+      "espoir diffus",
+      "douleur sourde chez les personnages en deuil",
+      "réconfort ambigu"
+    ],
+    "memoires": [
+      "propre enfance et liberté oubliée",
+      "enfants qu'on a élevés ou manqué d'élever",
+      "été de l'enfance avec ses insouciantes journées",
+      "présence d'un enfant disparu"
+    ],
+    "usagesTypiques": [
+      "signaler le contraste entre la légèreté du monde extérieur et la lourdeur intérieure du personnage",
+      "interrompre une scène grave par un détail sonore inattendu",
+      "ancrer le temps dans une heure précise — l'après-midi, la sortie de l'école",
+      "montrer l'isolement d'un personnage sans le dire",
+      "créer une dissonance émotionnelle : le monde continue pendant que le personnage s'effondre",
+      "ouvrir ou fermer une scène de deuil sur une note ambiguë"
+    ],
+    "contraires": [
+      "silence absolu",
+      "bruit de circulation mécanique sans vie",
+      "pleurs d'adultes"
+    ],
+    "combinaisons": [
+      "rires au loin + fenêtre fermée + personnage immobile = isolement volontaire ou imposé",
+      "rires au loin + larmes retenues + lumière d'après-midi = deuil d'enfant ou de maternité",
+      "rires au loin + cellule ou chambre fermée + odeur de béton = enfermement et monde perdu"
+    ],
+    "notesEditoriales": [
+      "La distance est essentielle : des rires proches changent tout. C'est précisément parce qu'ils arrivent de loin qu'ils deviennent spectraux.",
+      "Particulièrement puissant chez les personnages qui ont perdu un enfant, ou qui en désirent un sans pouvoir l'avoir.",
+      "Peut être utilisé en ouverture de chapitre pour créer immédiatement une émotion complexe avant même que la scène commence."
+    ]
+  },
+  {
+    "id": "son-horloge-qui-tique",
+    "label": "Tic-tac d'une horloge",
+    "categorie": "auditif",
+    "definitionCourte": "Battement régulier et inexorable d'une horloge mécanique, perçu dans le silence. Il découpe le temps en unités égales et implacables.",
+    "qualite": "Régulier, métallique, légèrement sourd. On ne l'entend que quand tout le reste se tait. Plus le silence est profond, plus il devient présent — presque agressif.",
+    "associationsNarratives": [
+      "nuit d'insomnie",
+      "attente d'une nouvelle médicale ou judiciaire",
+      "agonie ou veillée funèbre",
+      "interrogatoire ou négociation sous pression temporelle",
+      "maison de vieillesse ou chambre d'ancêtre",
+      "scène d'ultimatum ou de compte à rebours",
+      "moment de décision impossible",
+      "maison familiale figée dans le temps"
+    ],
+    "emotionsAssociees": [
+      "anxiété de l'attente",
+      "angoisse existentielle",
+      "oppression",
+      "solitude nocturne",
+      "sentiment d'impuissance face au temps",
+      "conscience aiguë de la mort"
+    ],
+    "memoires": [
+      "nuits de maladie dans l'enfance",
+      "attente d'un parent qui ne rentrait pas",
+      "veillée funèbre d'un proche",
+      "nuit avant un examen ou une épreuve décisive"
+    ],
+    "usagesTypiques": [
+      "matérialiser l'attente sans la nommer",
+      "créer une tension progressive dans une scène de conflit latent",
+      "signaler la solitude nocturne d'un personnage insomniaque",
+      "ancrer une scène dans un espace daté, figé, hors du temps présent",
+      "ponctuer une agonie ou une veillée avec une cruauté douce",
+      "marquer l'imminence d'un événement sans le nommer"
+    ],
+    "contraires": [
+      "silence absolu et sans rythme",
+      "bruit de fond continu et uniforme",
+      "musique qui couvre tout"
+    ],
+    "combinaisons": [
+      "tic-tac + insomnie + lumière de lune = nuit d'attente ou de deuil",
+      "tic-tac + respiration ralentie d'un mourant + main tenue = agonie",
+      "tic-tac + ultimatum formulé + silence de l'autre = tension maximale avant la rupture"
+    ],
+    "notesEditoriales": [
+      "Cliché facilement évitable si l'on précise le type d'horloge et son contexte : une pendule de grand-mère n'est pas une horloge de commissariat.",
+      "Son efficacité tient à sa régularité : il dit que le temps passe quoi qu'il arrive, indépendamment de ce que ressent le personnage.",
+      "À utiliser avec parcimonie — sa puissance vient de la rareté. Une scène par livre, au maximum."
+    ]
+  },
+  {
+    "id": "son-ambulance",
+    "label": "Sirène d'ambulance",
+    "categorie": "auditif",
+    "definitionCourte": "Son modulé et strident d'une ambulance qui approche puis s'éloigne, traversant la ville sans s'arrêter — ou s'arrêtant juste devant.",
+    "qualite": "Aigu, pénétrant, impossible à ignorer. Il interrompt toute conversation, tout silence. Sa modulation deux tons crée une tension qui monte et descend sans jamais tout à fait disparaître.",
+    "associationsNarratives": [
+      "accident de rue ou de voiture",
+      "appel d'urgence après une découverte",
+      "nuit urbaine depuis une chambre d'hôpital",
+      "personnage qui attend des nouvelles d'un proche hospitalisé",
+      "scène de crime ou d'enquête policière",
+      "immeuble collectif où les vies se croisent sans se toucher",
+      "quartier pauvre où les urgences sont fréquentes",
+      "fenêtre ouverte la nuit pendant une période de crise ou d'épidémie"
+    ],
+    "emotionsAssociees": [
+      "anxiété soudaine",
+      "frayeur réflexe",
+      "soulagement si elle s'éloigne",
+      "culpabilité du survivant",
+      "impuissance",
+      "angoisse diffuse dans les personnages vulnérables"
+    ],
+    "memoires": [
+      "urgence médicale vécue ou assistée",
+      "attente dans une salle d'urgences",
+      "nuit d'accident dans l'enfance",
+      "période de maladie d'un proche"
+    ],
+    "usagesTypiques": [
+      "interrompre une scène intime pour rappeler le monde extérieur",
+      "signaler un tournant narratif avant qu'il soit visible",
+      "créer une anxiété de fond dans une scène apparemment calme",
+      "marquer le contraste entre l'urgence du dehors et la paralysie du dedans",
+      "ancrer une scène dans l'urbain contemporain sans description longue",
+      "déclencher chez un personnage un flashback ou une réaction disproportionnée"
+    ],
+    "contraires": [
+      "silence de nuit de campagne",
+      "sons doux et continus sans rupture",
+      "musique qui enveloppe"
+    ],
+    "combinaisons": [
+      "sirène + fenêtre ouverte + personnage qui se fige = présence de la mort dans l'espace quotidien",
+      "sirène + téléphone qui ne sonne pas + attente = angoisse de la nouvelle",
+      "sirène + sourire forcé continué = dissociation ou contrôle extrême des émotions"
+    ],
+    "notesEditoriales": [
+      "Sa puissance tient dans sa banalité urbaine : tout le monde l'entend, presque personne ne s'arrête — sauf le personnage qui a une raison de s'arrêter.",
+      "Distinguer selon qu'elle s'approche, passe ou s'éloigne : trois effets très différents sur le personnage.",
+      "Particulièrement efficace pour les personnages qui ont vécu une urgence médicale traumatique — la sirène réactive le passé sans que rien ne le justifie dans la scène présente."
+    ]
+  },
+  {
+    "id": "lumiere-bougie",
+    "label": "Lumière de bougie",
+    "categorie": "visuel",
+    "definitionCourte": "Lumière chaude, instable et localisée d'une flamme de bougie, qui éclaire un cercle étroit et laisse le reste dans l'ombre.",
+    "qualite": "Dorée, vacillante, vivante. Elle transforme les visages — creuse les ombres, adoucit les traits, fait bouger les murs. Elle dit à la fois intimité et précarité.",
+    "associationsNarratives": [
+      "panne de courant ou scène de survie",
+      "rituel ou cérémonie — anniversaire, veillée, office religieux",
+      "scène romantique ou de séduction",
+      "chambre d'un mourant veillé",
+      "lieu de culte ou de recueillement",
+      "camp ou refuge précaire sans électricité",
+      "secret partagé dans la nuit",
+      "maison ancienne, époque passée"
+    ],
+    "emotionsAssociees": [
+      "intimité",
+      "recueillement",
+      "fragilité",
+      "espoir ténu",
+      "tendresse",
+      "solennité",
+      "vulnérabilité consentie"
+    ],
+    "memoires": [
+      "pannes d'électricité d'enfance transformées en aventure",
+      "messes de minuit ou cérémonies familiales",
+      "veillées funèbres",
+      "dîners intimes avec quelqu'un d'important"
+    ],
+    "usagesTypiques": [
+      "resserrer l'espace narratif autour de deux personnages",
+      "signaler la fragilité d'un moment — quelque chose peut basculer",
+      "créer une atmosphère hors du temps ordinaire",
+      "montrer ce qu'une lumière crue cacherait — les microexpressions, les larmes retenues",
+      "marquer une scène de rituel ou de seuil symbolique",
+      "ancrer une scène dans la nuit sans recourir à une description longue"
+    ],
+    "contraires": [
+      "néon blanc et froid",
+      "lumière de bureau homogène et sans ombre",
+      "éclairage de supermarché"
+    ],
+    "combinaisons": [
+      "bougie + silence + deux visages qui se regardent = aveu ou déclaration imminente",
+      "bougie + pluie dehors + livres = solitude choisie et heureuse",
+      "bougie + visage d'un mourant + main tenue = dernier contact"
+    ],
+    "notesEditoriales": [
+      "Attention à ne pas en faire un symbole trop appuyé — une bougie dans un roman est souvent chargée avant même que le personnage la regarde.",
+      "Sa vacillement est essentiel : une lumière stable n'a pas le même effet. La flamme qui tremble dit ce que les mots ne disent pas.",
+      "Peut être utilisée pour matérialiser l'espoir dans des scènes sombres — sans que le mot espoir soit prononcé."
+    ]
+  },
+  {
+    "id": "obscurite-totale",
+    "label": "Obscurité totale",
+    "categorie": "visuel",
+    "definitionCourte": "Absence complète de lumière, sans nuance ni gradation. Les yeux ne s'y habituent pas. Rien n'est visible — ni forme, ni mouvement, ni horizon.",
+    "qualite": "Absolue, désorientante, pesante. Elle supprime le repère le plus immédiat et force tous les autres sens à compenser. Elle n'est pas un simple manque — elle a une présence.",
+    "associationsNarratives": [
+      "cave, silo, cellule sans fenêtre",
+      "cécité soudaine ou progressive",
+      "coupure de courant totale en pleine nuit",
+      "enfouissement sous décombres",
+      "enlèvement ou séquestration",
+      "exploration de lieu inconnu",
+      "peur nocturne de l'enfance",
+      "mort imminente ou perçue comme telle"
+    ],
+    "emotionsAssociees": [
+      "peur primaire",
+      "désorientation",
+      "claustrophobie",
+      "vulnérabilité absolue",
+      "calme étrange par saturation",
+      "solitude radicale"
+    ],
+    "memoires": [
+      "peur du noir de l'enfance",
+      "cauchemar dans lequel on ne voit rien",
+      "expérience de cave ou de lieu souterrain",
+      "moment de cécité ou de trouble visuel"
+    ],
+    "usagesTypiques": [
+      "forcer le personnage à utiliser d'autres sens — tactile, auditif, olfactif",
+      "créer une désorientation temporelle autant que spatiale",
+      "amplifier tous les sons environnants par contraste",
+      "signaler une situation d'enfermement ou de perte de contrôle",
+      "permettre des actions ou des aveux que la lumière rendrait impossibles",
+      "ancrer une scène de cauchemar ou d'état dissociatif"
+    ],
+    "contraires": [
+      "lumière blanche et totale",
+      "clarté de plein midi",
+      "lumière de bougie même faible"
+    ],
+    "combinaisons": [
+      "obscurité totale + respiration d'un autre entendue + contact physique = intimité ou danger",
+      "obscurité totale + bruits non identifiés + immobilité forcée = peur primaire",
+      "obscurité totale + voix calme qui guide = confiance absolue accordée à quelqu'un"
+    ],
+    "notesEditoriales": [
+      "L'obscurité totale est différente de la nuit : il faut le préciser. On peut voir dans la nuit. On ne voit rien dans l'obscurité totale.",
+      "Elle oblige l'écrivain à travailler avec d'autres sens — ce qui est souvent une contrainte productive.",
+      "Peut être utilisée comme métaphore de l'état mental d'un personnage, mais à manier avec discernement pour ne pas tomber dans l'allégorie trop visible."
+    ]
+  },
+  {
+    "id": "texture-sable-mouille",
+    "label": "Sable mouillé sous les pieds",
+    "categorie": "tactile",
+    "definitionCourte": "Sensation de sable humide et compact sous la plante des pieds nus, résistant légèrement à chaque pas, frais et granuleux.",
+    "qualite": "Dense, légèrement froid, qui cède juste assez pour épouser le pied. Il laisse une empreinte. Il colle légèrement, puis se détache. Sensation à la frontière du solide et du liquide.",
+    "associationsNarratives": [
+      "plage en dehors de saison, désertée",
+      "enfance et vacances estivales",
+      "fuite ou errance côtière",
+      "scène après une tempête ou une montée des eaux",
+      "traversée d'un estuaire ou d'une zone humide",
+      "retrouvailles ou séparation au bord de la mer",
+      "noyade évitée ou réchappe de naufrage",
+      "deuil vécu près de l'eau"
+    ],
+    "emotionsAssociees": [
+      "liberté physique",
+      "nostalgie de l'enfance",
+      "apaisement provisoire",
+      "solitude choisie",
+      "mélancolie douce",
+      "ancrage dans le présent"
+    ],
+    "memoires": [
+      "plages de l'enfance et jeux dans l'eau",
+      "vacances avec quelqu'un d'important",
+      "promenade solitaire après une rupture",
+      "premier contact avec la mer"
+    ],
+    "usagesTypiques": [
+      "ancrer le personnage dans son corps après une scène émotionnellement intense",
+      "créer une pause sensorielle dans un récit tendu",
+      "signaler un moment de décision prise dans un espace ouvert",
+      "marquer la frontière entre deux espaces — la terre et l'eau, le passé et le présent",
+      "introduire la plage comme lieu de solitude ou de libération",
+      "contraster avec des environnements urbains ou stériles"
+    ],
+    "contraires": [
+      "sol de béton sec et dur",
+      "moquette épaisse et sans vie",
+      "sol de carrelage froid et glissant"
+    ],
+    "combinaisons": [
+      "sable mouillé + bruit de vagues + lumière basse = ouverture ou fermeture de chapitre en plein air",
+      "sable mouillé + pieds nus + solitude = personnage qui reprend possession de lui-même",
+      "sable mouillé + traces de pas qui s'effacent + marée montante = métaphore de la perte ou du temps"
+    ],
+    "notesEditoriales": [
+      "La sensation sous les pieds nus est plus intime et plus corporelle que la simple description visuelle de la plage.",
+      "Les empreintes dans le sable mouillé ont une forte charge symbolique — à utiliser délibérément ou à éviter tout autant.",
+      "La plage hors saison est souvent plus puissante narrativement que la plage estivale bondée."
+    ]
+  },
+  {
+    "id": "texture-main-vieille",
+    "label": "Main ridée d'une personne âgée",
+    "categorie": "tactile",
+    "definitionCourte": "Contact avec une main âgée aux veines saillantes, à la peau fine comme du papier et légèrement froide, dont chaque ride garde la mémoire d'un geste répété.",
+    "qualite": "Douce et rugueuse à la fois, légère, presque sans résistance. La peau glisse sur les os. La chaleur est moindre que celle d'une main jeune. Il y a quelque chose de fragile et d'indestructible dans le même contact.",
+    "associationsNarratives": [
+      "visite à un grand-parent mourant ou très âgé",
+      "accompagnement en fin de vie",
+      "reconciliation tardive avec un ancêtre",
+      "transmission d'un secret ou d'un objet",
+      "enfant qui tient la main d'un aïeul pour la première fois",
+      "adulte qui comprend soudain que ses parents sont vieux",
+      "maison de retraite ou unité de soins palliatifs",
+      "geste de bénédiction ou de pardon"
+    ],
+    "emotionsAssociees": [
+      "tendresse mélancolique",
+      "conscience du temps qui passe",
+      "chagrin anticipé",
+      "amour filial ou filiation",
+      "culpabilité des absences passées",
+      "gratitude tardive"
+    ],
+    "memoires": [
+      "mains de la grand-mère ou du grand-père",
+      "dernier contact physique avec quelqu'un mort depuis",
+      "geste de réconfort reçu dans l'enfance",
+      "propre vieillissement aperçu sur ses mains"
+    ],
+    "usagesTypiques": [
+      "incarner le passage du temps dans une scène sans ellipse",
+      "créer un moment de connexion silencieuse entre générations",
+      "signaler la fragilité d'un personnage âgé sans pathétisme",
+      "ancrer une scène d'adieu dans le corps plutôt que dans les mots",
+      "montrer ce qu'une vie entière a laissé sur un corps",
+      "déclencher une prise de conscience sur la mortalité"
+    ],
+    "contraires": [
+      "main d'enfant, petite et chaude",
+      "poignée de main ferme d'un adulte en bonne santé",
+      "main inconnue sans histoire"
+    ],
+    "combinaisons": [
+      "main ridée + silence + lumière de fin d'après-midi = adieu qui n'ose pas se dire",
+      "main ridée + paroles tronquées + odeur de médicaments = fin de vie",
+      "main ridée + main d'enfant qui la tient = chaîne des générations rendue sensible"
+    ],
+    "notesEditoriales": [
+      "Éviter le registre pathétique : la main âgée n'est pas triste en elle-même — c'est le regard du personnage qui la tient qui la rend émouvante.",
+      "Très efficace en scène de réconciliation tardive : le contact physique dit ce que les personnages ne peuvent pas formuler.",
+      "La finesse de la peau est souvent la première chose qui frappe — la mentionner précisément vaut mieux que 'une main ridée'."
+    ]
+  }
+]

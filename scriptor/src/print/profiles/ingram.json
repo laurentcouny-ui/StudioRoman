@@ -1,0 +1,21 @@
+{
+  "id": "ingramspark",
+  "name": "IngramSpark",
+  "version": "2026.04",
+  "validFrom": "2026-04-01",
+  "iccProfile": "FOGRA39",
+  "bleedIn": 0.125,
+  "safeZoneIn": 0.25,
+  "formatsIn": [
+    { "label": "5x8", "width": 5.0, "height": 8.0 },
+    { "label": "5.5x8.5", "width": 5.5, "height": 8.5 },
+    { "label": "6x9", "width": 6.0, "height": 9.0 },
+    { "label": "7x10", "width": 7.0, "height": 10.0 },
+    { "label": "8.5x11", "width": 8.5, "height": 11.0 }
+  ],
+  "marginsByPagesIn": [
+    { "maxPages": 200, "inside": 0.5, "outside": 0.25, "top": 0.25, "bottom": 0.25 },
+    { "maxPages": 400, "inside": 0.625, "outside": 0.25, "top": 0.25, "bottom": 0.25 },
+    { "maxPages": 700, "inside": 0.75, "outside": 0.25, "top": 0.25, "bottom": 0.25 }
+  ]
+}

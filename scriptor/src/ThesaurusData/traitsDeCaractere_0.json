@@ -1,0 +1,517 @@
+[
+  {
+    "id": "timide",
+    "label": "Timide",
+    "polarite": "ambigu",
+    "alias": [
+      "timide",
+      "timidité",
+      "réservé",
+      "réservée",
+      "discret",
+      "discrète"
+    ],
+    "famille": "trait-social-retrait",
+    "definitionCourte": "Tendance durable à se retenir dans l’exposition sociale, à limiter sa prise de place et à anticiper le regard des autres.",
+    "signesPhysiques": [
+      "regard qui s’abaisse facilement",
+      "posture légèrement refermée",
+      "épaules rentrées",
+      "sourire bref puis effacé",
+      "mains occupées pour se donner une contenance",
+      "voix peu projetée",
+      "gestes retenus",
+      "hésitation avant d’entrer dans un groupe",
+      "rougissement possible",
+      "distance physique maintenue",
+      "mouvements économes",
+      "présence discrète dans l’espace"
+    ],
+    "sensationsInternes": [
+      "conscience aiguë de soi",
+      "gêne diffuse",
+      "tension légère dans la poitrine",
+      "envie de ne pas se faire remarquer",
+      "appréhension sociale",
+      "vigilance au jugement",
+      "soulagement quand l’attention se détourne",
+      "inconfort à devoir s’imposer"
+    ],
+    "pensees": [
+      "Je vais peut-être dire quelque chose de déplacé.",
+      "Ce n’est pas le bon moment pour parler.",
+      "Ils ont sûrement plus intéressant à entendre.",
+      "Je préfère attendre.",
+      "Ne te mets pas trop en avant.",
+      "J’espère qu’on ne me regarde pas trop.",
+      "Je pourrais parler, mais plus tard.",
+      "Mieux vaut rester discret."
+    ],
+    "effetsVoixLangage": [
+      "voix douce ou retenue",
+      "début de phrase hésitant",
+      "phrases parfois plus courtes",
+      "excuses ou précautions verbales",
+      "réponses modestes",
+      "difficulté à couper la parole",
+      "débit moins assuré en groupe",
+      "sous-affirmation"
+    ],
+    "comportements": [
+      "attend qu’on l’invite à parler",
+      "évite de monopoliser la conversation",
+      "choisit une place en retrait",
+      "observe avant d’agir",
+      "laisse les autres décider plus vite",
+      "se retire d’un échange trop exposant",
+      "prépare mentalement ce qu’il va dire",
+      "renonce parfois à intervenir",
+      "s’efface dans un groupe énergique",
+      "préfère le tête-à-tête aux grands rassemblements"
+    ],
+    "masquesPossibles": [
+      "politesse impeccable",
+      "écoute attentive",
+      "sourire discret",
+      "réserve élégante"
+    ],
+    "evolutionsPossibles": [
+      "aisance progressive",
+      "mutisme en contexte hostile",
+      "attachement fort aux personnes rassurantes",
+      "prise de parole plus solide en terrain connu"
+    ],
+    "notesEditoriales": [
+      "La timidité n’est pas forcément de la faiblesse ni de la passivité intellectuelle.",
+      "Elle se montre souvent par la gestion de l’espace, du regard et du temps de réponse.",
+      "Ne pas la confondre automatiquement avec l’introversion."
+    ]
+  },
+  {
+    "id": "orgueilleux",
+    "label": "Orgueilleux",
+    "polarite": "negatif",
+    "alias": [
+      "orgueilleux",
+      "orgueilleuse",
+      "fier",
+      "fière",
+      "vaniteux",
+      "vaniteuse"
+    ],
+    "famille": "trait-ego-domination",
+    "definitionCourte": "Tendance durable à protéger ou exalter sa valeur propre, à mal supporter la remise en cause et à vouloir garder l’avantage symbolique.",
+    "signesPhysiques": [
+      "menton légèrement relevé",
+      "posture droite et tenue",
+      "regard évaluateur",
+      "gestes maîtrisés",
+      "mouvements économes mais assurés",
+      "façon de prendre sa place sans hésiter",
+      "expression retenue face à la critique",
+      "sourire supérieur ou fermé",
+      "peu de signes visibles de doute",
+      "distance parfois imposée aux autres"
+    ],
+    "sensationsInternes": [
+      "refus de se sentir diminué",
+      "tension vive à la contradiction",
+      "besoin de rester au-dessus",
+      "sensibilité à l’humiliation",
+      "piqûre intérieure quand il est dépassé",
+      "satisfaction forte quand il domine la situation",
+      "résistance à reconnaître un tort",
+      "confort dans la position haute"
+    ],
+    "pensees": [
+      "Je vaux mieux que ça.",
+      "On ne va pas me parler sur ce ton.",
+      "Je ne vais pas me rabaisser.",
+      "Il se croit à ma hauteur ?",
+      "Je dois garder l’avantage.",
+      "Je ne vais pas céder devant eux.",
+      "Reconnaître ça m’affaiblirait.",
+      "Je dois rester impeccable."
+    ],
+    "effetsVoixLangage": [
+      "voix assurée",
+      "ton qui tranche",
+      "formulations affirmatives",
+      "peu de concessions verbales",
+      "corrections des autres",
+      "ironie de surplomb",
+      "choix lexical valorisant sa position",
+      "difficulté à présenter des excuses simples"
+    ],
+    "comportements": [
+      "corrige volontiers",
+      "supporte mal d’être contredit en public",
+      "revient sur une blessure d’ego",
+      "valorise ses réussites",
+      "minimise parfois celles des autres",
+      "évite les positions subalternes",
+      "refuse de montrer une faiblesse trop tôt",
+      "transforme un échange en rapport de force",
+      "cherche à reprendre la main",
+      "supporte mal la dépendance"
+    ],
+    "masquesPossibles": [
+      "élégance froide",
+      "calme souverain",
+      "courtoisie distante",
+      "humour sec"
+    ],
+    "evolutionsPossibles": [
+      "arrogance",
+      "rancune",
+      "solitude relationnelle",
+      "grandeur réelle si l’exigence porte aussi sur soi"
+    ],
+    "notesEditoriales": [
+      "L’orgueil est plus intéressant quand il a un prix relationnel.",
+      "Il devient fort narrativement quand il empêche un aveu, une excuse ou une demande d’aide.",
+      "Ne pas le réduire à la simple vantardise."
+    ]
+  },
+  {
+    "id": "patient",
+    "label": "Patient",
+    "polarite": "positif",
+    "alias": [
+      "patient",
+      "patiente",
+      "endurant",
+      "endurante",
+      "constant",
+      "constante"
+    ],
+    "famille": "trait-maitrise-endurance",
+    "definitionCourte": "Tendance durable à supporter le délai, la frustration ou la difficulté sans se disperser ni précipiter inutilement les choses.",
+    "signesPhysiques": [
+      "gestes réguliers",
+      "respiration stable",
+      "posture posée",
+      "regard qui reste présent",
+      "peu d’agitation parasite",
+      "mains calmes",
+      "déplacements mesurés",
+      "absence de précipitation visible",
+      "visage peu emporté par l’impatience",
+      "économie de tension"
+    ],
+    "sensationsInternes": [
+      "capacité à attendre sans se désorganiser",
+      "acceptation du temps long",
+      "stabilité intérieure",
+      "tolérance à la frustration",
+      "ancrage",
+      "résistance au stress immédiat",
+      "marge avant l’irritation",
+      "souplesse face au délai"
+    ],
+    "pensees": [
+      "Ça prendra le temps qu’il faut.",
+      "Inutile de brusquer les choses.",
+      "Une étape après l’autre.",
+      "Mieux vaut solide que rapide.",
+      "Je peux attendre encore.",
+      "Ce n’est pas agréable, mais c’est supportable.",
+      "Le plus important est de tenir.",
+      "Je ne vais pas gâcher ça par précipitation."
+    ],
+    "effetsVoixLangage": [
+      "ton calme",
+      "phrases posées",
+      "débit régulier",
+      "peu de coupures nerveuses",
+      "langage rassurant",
+      "reformulations tranquilles",
+      "faible inflation dramatique"
+    ],
+    "comportements": [
+      "reprend sans se disperser",
+      "supporte un contretemps sans éclater",
+      "écoute jusqu’au bout",
+      "avance par étapes",
+      "tolère mieux les lenteurs",
+      "répète un effort sans se plaindre aussitôt",
+      "laisse aux autres le temps de comprendre",
+      "ne sur-réagit pas au premier obstacle",
+      "reste présent dans la durée",
+      "préfère la constance à l’effet immédiat"
+    ],
+    "masquesPossibles": [
+      "douceur",
+      "neutralité",
+      "stoïcisme léger",
+      "fiabilité tranquille"
+    ],
+    "evolutionsPossibles": [
+      "endurance remarquable",
+      "passivité si poussée trop loin",
+      "résilience",
+      "lassitude silencieuse si trop exploitée"
+    ],
+    "notesEditoriales": [
+      "La patience devient intéressante quand elle est mise à l’épreuve.",
+      "Elle se voit surtout dans la gestion du temps, de l’échec et de la répétition.",
+      "Ne pas la rendre molle : la patience peut être active et volontaire."
+    ]
+  },
+  {
+    "id": "impulsif",
+    "label": "Impulsif",
+    "polarite": "ambigu",
+    "alias": [
+      "impulsif",
+      "impulsive",
+      "fonceur",
+      "fonceuse",
+      "réactif",
+      "réactive"
+    ],
+    "famille": "trait-reactivite-immediate",
+    "definitionCourte": "Tendance durable à agir, parler ou décider très vite sous l’effet du moment, avec peu de délai entre l’impulsion et le passage à l’acte.",
+    "signesPhysiques": [
+      "gestes rapides",
+      "changements brusques de direction",
+      "mains très mobiles",
+      "posture projetée vers l’avant",
+      "réactions corporelles immédiates",
+      "regard qui accroche puis passe vite à l’action",
+      "peu de temps mort visible",
+      "mouvements décidés avant que la réflexion n’apparaisse",
+      "présence nerveuse",
+      "démarrage rapide dans l’espace"
+    ],
+    "sensationsInternes": [
+      "montée immédiate de l’élan",
+      "difficulté à supporter le délai",
+      "envie d’agir avant d’avoir tout pensé",
+      "agacement à la lenteur",
+      "intensité du présent",
+      "pression à répondre tout de suite",
+      "impatience motrice",
+      "besoin de décharger rapidement la tension"
+    ],
+    "pensees": [
+      "On verra après.",
+      "Il faut y aller maintenant.",
+      "Je n’ai pas le temps d’attendre.",
+      "Je réponds tout de suite.",
+      "On réfléchira plus tard.",
+      "Au moins, ça avancera.",
+      "Je déteste tourner autour.",
+      "Mieux vaut agir que subir."
+    ],
+    "effetsVoixLangage": [
+      "débit rapide",
+      "phrases lancées sans préparation",
+      "interruptions fréquentes",
+      "formulations directes",
+      "réponses immédiates",
+      "peu de précautions verbales",
+      "changement soudain de sujet ou d’angle",
+      "montée rapide du ton"
+    ],
+    "comportements": [
+      "agit avant d’avoir toutes les données",
+      "coupe la parole",
+      "prend une décision sur l’instant",
+      "change brutalement de plan",
+      "supporte mal l’attente",
+      "se jette dans l’action",
+      "regrette parfois après coup",
+      "revient en arrière après un emballement",
+      "pousse les autres à accélérer",
+      "déclenche le mouvement dans un groupe"
+    ],
+    "masquesPossibles": [
+      "enthousiasme",
+      "franchise",
+      "énergie communicative",
+      "courage apparent"
+    ],
+    "evolutionsPossibles": [
+      "bavure",
+      "coup d’éclat",
+      "fatigue relationnelle",
+      "culpabilité après excès",
+      "efficacité fulgurante dans l’urgence"
+    ],
+    "notesEditoriales": [
+      "L’impulsivité devient intéressante quand elle produit à la fois de l’élan et du dommage.",
+      "Elle ne signifie pas forcément stupidité : on peut être vif, brillant et impulsif.",
+      "Montrer le très faible délai entre émotion, pensée et action."
+    ]
+  },
+  {
+    "id": "mefiant",
+    "label": "Méfiant",
+    "polarite": "ambigu",
+    "alias": [
+      "méfiant",
+      "méfiante",
+      "soupçonneux",
+      "soupçonneuse",
+      "prudent",
+      "prudente"
+    ],
+    "famille": "trait-vigilance-controle",
+    "definitionCourte": "Tendance durable à douter des intentions, à vérifier davantage qu’à croire, et à protéger son accès à l’information, à la confiance ou à l’engagement.",
+    "signesPhysiques": [
+      "regard évaluateur",
+      "posture peu abandonnée",
+      "distance physique préservée",
+      "mains rarement totalement ouvertes",
+      "visage difficile à lire",
+      "temps d’observation avant l’action",
+      "faible relâchement corporel en terrain incertain",
+      "micro-réactions à l’incohérence",
+      "peu d’élan spontané vers l’autre",
+      "économie des signes de confiance"
+    ],
+    "sensationsInternes": [
+      "alerte discrète mais constante",
+      "besoin de vérifier",
+      "résistance à se livrer trop vite",
+      "inconfort face au flou",
+      "sensibilité aux contradictions",
+      "envie de garder une marge de sécurité",
+      "difficulté à baisser complètement la garde",
+      "distance intérieure"
+    ],
+    "pensees": [
+      "Qu’est-ce qu’il veut vraiment ?",
+      "Je préfère vérifier.",
+      "Il manque quelque chose.",
+      "Je ne vais pas me livrer si vite.",
+      "Ça paraît trop simple.",
+      "Je garde une porte de sortie.",
+      "Je veux voir ce qu’il fait, pas ce qu’il dit.",
+      "Je ne donne pas ma confiance gratuitement."
+    ],
+    "effetsVoixLangage": [
+      "questions précises",
+      "ton prudent",
+      "réponses partielles",
+      "peu de confidences spontanées",
+      "formulations qui gardent une réserve",
+      "reformulation pour tester l’autre",
+      "silences d’évaluation",
+      "adhésion verbale mesurée"
+    ],
+    "comportements": [
+      "observe avant de s’engager",
+      "vérifie les détails",
+      "garde des informations pour lui",
+      "teste la cohérence de l’autre",
+      "prévoit une issue de repli",
+      "accorde sa confiance par étapes",
+      "évite les promesses trop vite",
+      "relit, contrôle, compare",
+      "supporte mal les zones d’ombre",
+      "s’ouvre seulement après des preuves répétées"
+    ],
+    "masquesPossibles": [
+      "calme",
+      "professionnalisme",
+      "froideur légère",
+      "humour de protection"
+    ],
+    "evolutionsPossibles": [
+      "paranïa légère",
+      "prudence salutaire",
+      "isolement",
+      "fidélité très forte une fois convaincu"
+    ],
+    "notesEditoriales": [
+      "La méfiance est intéressante quand elle protège le personnage autant qu’elle l’empêche de vivre certaines relations.",
+      "Elle se montre mieux par les vérifications et les délais que par un discours explicatif."
+    ]
+  },
+  {
+    "id": "genereux",
+    "label": "Généreux",
+    "polarite": "positif",
+    "alias": [
+      "généreux",
+      "généreuse",
+      "altruiste",
+      "serviable"
+    ],
+    "famille": "trait-don-ouverture",
+    "definitionCourte": "Tendance durable à donner, aider, partager ou se rendre disponible plus volontiers que la moyenne, parfois au prix de soi.",
+    "signesPhysiques": [
+      "posture ouverte",
+      "gestes accueillants",
+      "regard attentif aux besoins des autres",
+      "proximité facile",
+      "mains qui offrent, tendent, arrangent",
+      "visage plus vite adouci",
+      "présence rassurante",
+      "élan corporel vers l’aide",
+      "attention visible à l’inconfort d’autrui",
+      "souplesse relationnelle"
+    ],
+    "sensationsInternes": [
+      "élan à soulager",
+      "plaisir à donner",
+      "sensibilité à la détresse",
+      "inconfort quand quelqu’un manque de quelque chose",
+      "ouverture vers l’autre",
+      "facilité à partager",
+      "satisfaction dans l’utilité",
+      "chaleur relationnelle"
+    ],
+    "pensees": [
+      "Je peux faire quelque chose.",
+      "Ce n’est pas grand-chose, mais ça aidera.",
+      "Je ne vais pas laisser ça comme ça.",
+      "Je peux partager.",
+      "Si je peux alléger un peu, autant le faire.",
+      "Ce serait dur de fermer les yeux.",
+      "J’ai de quoi donner.",
+      "Ça compte pour lui, donc ça compte."
+    ],
+    "effetsVoixLangage": [
+      "ton accueillant",
+      "langage rassurant",
+      "offres spontanées",
+      "phrases qui cherchent à alléger",
+      "moins de jugement immédiat",
+      "attention au confort verbal de l’autre",
+      "mots d’encouragement",
+      "disponibilité dans la réponse"
+    ],
+    "comportements": [
+      "propose son aide",
+      "partage sans trop marchander",
+      "pense aux besoins concrets",
+      "se rend disponible",
+      "donne du temps ou de l’énergie",
+      "prend en charge un détail que d’autres ignorent",
+      "protège plus fragile que lui",
+      "offre avant qu’on demande parfois",
+      "allège la charge collective",
+      "pardonne plus facilement certaines maladresses"
+    ],
+    "masquesPossibles": [
+      "simplicité",
+      "bonne humeur",
+      "discrétion",
+      "hospitalité tranquille"
+    ],
+    "evolutionsPossibles": [
+      "dévouement admirable",
+      "épuisement",
+      "exploitation par autrui",
+      "attachement fort",
+      "frustration si le don n’est jamais réciproque"
+    ],
+    "notesEditoriales": [
+      "La générosité devient forte quand elle coûte quelque chose.",
+      "Ne pas la réduire à la gentillesse abstraite : montrer ce qui est donné, sacrifié ou pris en charge."
+    ]
+  }
+]

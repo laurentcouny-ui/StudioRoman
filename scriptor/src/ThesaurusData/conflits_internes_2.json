@@ -1,0 +1,266 @@
+[
+  {
+    "id": "peur-de-reussir",
+    "label": "Peur de réussir",
+    "famille": "conflits-internes",
+    "sousCategorie": "sabotage-identitaire",
+    "definitionCourte": "Le personnage sabote inconsciemment ses propres chances de succès — parce que réussir exigerait de devenir quelqu'un qu'il ne sait pas être.",
+    "forcesEnPresence": [
+      "désir de réussir contre peur de ce que la réussite implique",
+      "image de soi liée à l'échec ou à la lutte",
+      "entourage dont l'affection semble conditionnée à rester 'à sa place'"
+    ],
+    "declencheursFrequents": [
+      "opportunité réelle et imminente de réussir",
+      "compliment ou reconnaissance qui rend le succès visible",
+      "comparaison avec quelqu'un qui a réussi et qu'il méprise ou admire",
+      "approche d'un objectif longtemps poursuivi"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Hésitation au seuil", "description": "Le personnage ralentit juste avant de franchir un palier. Il cherche une raison de temporiser." },
+      { "niveau": 2, "label": "Sous-performance ponctuelle", "description": "Il rate quelque chose qu'il aurait pu réussir — sans comprendre vraiment pourquoi." },
+      { "niveau": 3, "label": "Sabotage discernable", "description": "Un observateur attentif voit le schéma. Le personnage, lui, trouve toujours une explication externe." },
+      { "niveau": 4, "label": "Autosabotage actif", "description": "Il prend des décisions clairement contraires à ses intérêts juste avant une réussite possible." },
+      { "niveau": 5, "label": "Impossibilité de réussir", "description": "Le personnage ne peut pas laisser quoi que ce soit aboutir. Toute tentative de succès déclenche une destruction." }
+    ],
+    "silencesEtNonDits": [
+      "la conviction inavouable qu'il ne mérite pas ce qu'il désire",
+      "la peur que réussir change ses relations — que les gens l'aiment moins ou autrement",
+      "l'identité construite autour de la lutte — sans obstacle, qui est-il ?",
+      "la loyauté envers ceux qui n'ont pas réussi — dépasser serait une trahison"
+    ],
+    "signauxAvantCoureurs": [
+      "retard ou absence inexpliqués avant un événement décisif",
+      "provocation gratuite envers quelqu'un d'important pour lui",
+      "maladie ou incident physique au pire moment",
+      "discours qui minimise l'importance d'une opportunité qu'il désire visiblement"
+    ],
+    "variantes": [
+      {
+        "profil": "Peur de dépasser ses parents",
+        "description": "Réussir là où ils ont échoué serait une trahison de classe, de loyauté, ou une façon de les humilier."
+      },
+      {
+        "profil": "Peur de l'exposition",
+        "description": "Réussir, c'est être vu. Et être vu, c'est être jugé, envié, attaqué."
+      },
+      {
+        "profil": "Peur de perdre son identité",
+        "description": "Le personnage s'est construit comme quelqu'un qui lutte. Réussir ferait s'effondrer ce récit de lui-même."
+      }
+    ],
+    "blessuresUnderlyantes": [
+      "message implicite ou explicite dans l'enfance que réussir était dangereux ou interdit",
+      "échec fondateur après un moment de succès — 'chaque fois que ça va bien, ça se casse'",
+      "entourage jaloux ou hostile à ses réussites passées"
+    ],
+    "positionsDePouvoir": [
+      "le personnage exerce son pouvoir sur lui-même — en se bloquant",
+      "figures du passé exercent un pouvoir symbolique sur sa permission de réussir",
+      "ceux qui croient en lui sont impuissants face à ce mécanisme intérieur"
+    ],
+    "erreursDEcriture": [
+      "Rendre le sabotage trop visible ou trop conscient — le personnage ne se voit généralement pas faire.",
+      "Ne pas montrer la vraie douleur que ça lui cause — l'autosaboteur souffre autant que sa victime.",
+      "Confondre avec la paresse ou le manque d'ambition — c'est l'inverse : trop d'enjeu, pas trop peu."
+    ]
+  },
+  {
+    "id": "identite-dechirement",
+    "label": "Déchirement identitaire",
+    "famille": "conflits-internes",
+    "sousCategorie": "crise-identitaire",
+    "definitionCourte": "Le personnage ne sait plus qui il est — parce que les différentes parties de son identité sont entrées en contradiction, ou parce que ce en quoi il croyait s'est effondré.",
+    "forcesEnPresence": [
+      "identités multiples incompatibles — sociale, intime, héritée, choisie",
+      "événement qui révèle que l'image de soi était fausse ou insuffisante",
+      "pression extérieure qui exige d'être quelqu'un qu'il n'est peut-être pas"
+    ],
+    "declencheursFrequents": [
+      "confrontation entre deux milieux aux valeurs opposées",
+      "découverte d'une vérité sur soi ou son passé",
+      "perte d'un rôle central — parent, partenaire, professionnel",
+      "trahison de quelqu'un dont l'opinion structurait l'image de soi"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Questionnement passager", "description": "Le personnage se demande qui il est dans une situation précise. L'incertitude se dissipe." },
+      { "niveau": 2, "label": "Tension identitaire", "description": "Deux versions de lui coexistent. Il joue des rôles différents selon les contextes sans pouvoir les réconcilier." },
+      { "niveau": 3, "label": "Crise de sens", "description": "Ce qui donnait du sens à sa vie ne tient plus. La question 'qui suis-je vraiment ?' revient sans réponse." },
+      { "niveau": 4, "label": "Effondrement de l'image de soi", "description": "Il ne sait plus qui il est, ni ce qu'il veut, ni pourquoi il faisait ce qu'il faisait." },
+      { "niveau": 5, "label": "Dissolution identitaire", "description": "Le personnage ne se reconnaît plus. Ses croyances, valeurs, désirs lui semblent étrangers." }
+    ],
+    "silencesEtNonDits": [
+      "la partie de lui qu'il n'a jamais osé montrer — et qui commence à prendre de la place",
+      "la peur que se trouver vraiment déçoive ceux qui l'aiment",
+      "le soulagement possible de lâcher une identité construite pour les autres",
+      "ce qu'il ferait si personne ne regardait"
+    ],
+    "signauxAvantCoureurs": [
+      "réponses évasives quand on lui demande ce qu'il veut",
+      "changements de style, de langage, de fréquentations sans explication",
+      "remise en cause soudaine de décisions de longue date",
+      "désintérêt pour des choses qui lui tenaient à cœur"
+    ],
+    "variantes": [
+      {
+        "profil": "Déchirement culturel",
+        "description": "Appartenir à deux cultures, deux classes, deux mondes qui ne se parlent pas. Être 'de là-bas' ici et 'de trop loin' là-bas."
+      },
+      {
+        "profil": "Déchirement vocationnel",
+        "description": "Ce pour quoi on s'est construit toute une vie ne résonne plus. La question : était-ce vraiment moi ?"
+      },
+      {
+        "profil": "Déchirement moral",
+        "description": "Une action passée remet en cause l'image d'une personne bien. Le personnage ne sait plus si son passé définit encore son présent."
+      }
+    ],
+    "blessuresUnderlyantes": [
+      "identité imposée par la famille ou l'environnement sans espace pour en construire une propre",
+      "rupture majeure — perte, deuil, exil — qui a effacé les repères habituels",
+      "double injonction durable : être simultanément deux choses incompatibles"
+    ],
+    "positionsDePouvoir": [
+      "les figures du passé définissent encore son identité dans son for intérieur",
+      "ceux qui l'aiment telle qu'il était exercent une pression pour qu'il reste le même",
+      "il est simultanément bourreau et victime de lui-même"
+    ],
+    "erreursDEcriture": [
+      "Résoudre la crise identitaire par une révélation — la reconstruction est lente, jamais propre.",
+      "Confondre avec l'adolescence tardive : le déchirement identitaire peut frapper à n'importe quel âge.",
+      "Ne pas montrer les moments où il fonctionne malgré la crise — la dissociation n'est pas permanente."
+    ]
+  },
+  {
+    "id": "honte-de-soi",
+    "label": "Honte de soi",
+    "famille": "conflits-internes",
+    "sousCategorie": "auto-perception-negative",
+    "definitionCourte": "Sentiment profond et durable d'être fondamentalement défectueux, indigne ou insuffisant — pas pour ce qu'on a fait, mais pour ce qu'on est.",
+    "forcesEnPresence": [
+      "image de soi négative contre désir d'être aimé ou respecté",
+      "regard des autres — réel ou imaginé — contre impossibilité de s'y soustraire",
+      "conviction que les autres finiraient par voir ce qu'il y a de honteux en lui"
+    ],
+    "declencheursFrequents": [
+      "regard ou jugement perçu d'une figure importante",
+      "comparaison avec quelqu'un jugé 'normal' ou 'réussi'",
+      "intimité qui menace d'exposer ce qu'on cache",
+      "succès qui attire l'attention et donc le risque d'être vu"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Malaise discret", "description": "Le personnage se sent légèrement indigne dans certaines situations. Ça passe." },
+      { "niveau": 2, "label": "Autocritique régulière", "description": "Il se juge sévèrement, souvent en comparaison avec les autres. Le regard intérieur est dur." },
+      { "niveau": 3, "label": "Honte structurante", "description": "La honte de soi organise ses comportements — évitement, masque, refus de l'intimité." },
+      { "niveau": 4, "label": "Honte corrosive", "description": "La conviction d'être fondamentalement mauvais ou insuffisant ronge tout de l'intérieur." },
+      { "niveau": 5, "label": "Honte totale", "description": "Il ne se croit digne de rien — ni d'être aimé, ni de réussir, ni d'exister sans s'excuser." }
+    ],
+    "silencesEtNonDits": [
+      "ce qu'il cache — et la terreur que quelqu'un le voie",
+      "l'impossibilité d'accepter l'amour qu'on lui offre — il doit y avoir une erreur",
+      "le sentiment que ses succès sont des accidents qui révèleront bientôt son vrai visage",
+      "la part de lui qu'il ne montre à personne, jamais"
+    ],
+    "signauxAvantCoureurs": [
+      "anticipation des reproches avant qu'ils soient formulés",
+      "besoin de se justifier sans avoir été accusé",
+      "réactions défensives disproportionnées à une critique mineure",
+      "refus des compliments — les détourner, les minimiser, les retourner"
+    ],
+    "variantes": [
+      {
+        "profil": "Honte héritée",
+        "description": "Il porte la honte d'un secret familial, d'une origine, d'un acte des siens. La honte n'est pas sienne mais l'a formé."
+      },
+      {
+        "profil": "Honte du corps",
+        "description": "Conviction que son corps est défectueux, honteux, ou qu'il ne correspond pas à ce qu'il devrait être."
+      },
+      {
+        "profil": "Honte de désirer",
+        "description": "Ce qu'il veut — une personne, une chose, une vie — lui semble inavouable. Le désir lui-même est source de honte."
+      }
+    ],
+    "blessuresUnderlyantes": [
+      "message répété dans l'enfance qu'il était un problème, un fardeau, une déception",
+      "traumatisme d'exposition — avoir été humilié en public à un moment fondateur",
+      "famille ou milieu qui liait la valeur de la personne à des critères inatteignables"
+    ],
+    "positionsDePouvoir": [
+      "son regard intérieur a plus de pouvoir sur lui que tous les regards extérieurs réunis",
+      "ceux qui l'aiment véritablement se heurtent à l'impossibilité d'être crus",
+      "tout ce qui pourrait l'exposer — succès compris — devient une menace"
+    ],
+    "erreursDEcriture": [
+      "Confondre honte de soi et culpabilité — la honte porte sur l'être, pas sur l'acte.",
+      "Résoudre la honte de soi par une déclaration d'amour — la honte profonde ne disparaît pas sous l'effet d'un mot.",
+      "Réduire la honte à un manque de confiance — c'est plus radical, plus silencieux, plus difficile à nommer."
+    ]
+  },
+  {
+    "id": "desillusion",
+    "label": "Désillusion",
+    "famille": "conflits-internes",
+    "sousCategorie": "effondrement-des-croyances",
+    "definitionCourte": "Moment où une croyance fondamentale — sur une personne, un idéal, une institution ou soi-même — s'effondre au contact de la réalité.",
+    "forcesEnPresence": [
+      "idéal ou croyance investis contre réalité qui ne les supporte pas",
+      "attachement émotionnel à ce qu'on croyait contre évidence impossible à ignorer",
+      "désir de continuer à croire contre impossibilité honnête de le faire"
+    ],
+    "declencheursFrequents": [
+      "découverte d'une vérité cachée sur une figure admirée",
+      "trahison d'un idéal par ceux censés l'incarner",
+      "expérience directe qui contredit ce qu'on avait cru comprendre",
+      "vieillissement qui confronte les rêves de jeunesse à la réalité"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Déception localisée", "description": "Le personnage est déçu par quelqu'un ou quelque chose de précis. Sa vision du monde reste globalement intacte." },
+      { "niveau": 2, "label": "Remise en question", "description": "La déception étend ses ramifications. D'autres croyances connexes sont interrogées." },
+      { "niveau": 3, "label": "Désillusion sensible", "description": "Une part de ce qui donnait du sens ne tient plus. Le personnage voit les choses différemment — moins naïvement, moins chaleureusement." },
+      { "niveau": 4, "label": "Effondrement d'un cadre", "description": "Un système de valeurs ou de croyances s'effondre. Le personnage doit tout reconstruire sur d'autres bases." },
+      { "niveau": 5, "label": "Nihilisme ou cynisme radical", "description": "La désillusion est totale. Plus rien ne vaut la peine d'être cru. Le monde est ce qu'il a toujours craint qu'il soit." }
+    ],
+    "silencesEtNonDits": [
+      "la nostalgie secrète pour ce en quoi il croyait avant",
+      "la honte d'avoir cru si longtemps si naïvement",
+      "la colère contre ceux qui le laissent croire — ils savaient",
+      "la tentation de se reconstruire une nouvelle illusion qui tiendra mieux"
+    ],
+    "signauxAvantCoureurs": [
+      "questions qui testent la solidité de la croyance",
+      "remarques acides ou ironiques sur un idéal défendu autrefois",
+      "détachement progressif des rituels ou pratiques liés à la croyance",
+      "conversations avec des gens qui pensent autrement — chercher à être contredit ou confirmé"
+    ],
+    "variantes": [
+      {
+        "profil": "Désillusion politique ou idéologique",
+        "description": "Ce en quoi il croyait — une cause, un mouvement, un idéal collectif — ne correspond plus à ce qu'il voit. L'idéal a trahi ses propres valeurs."
+      },
+      {
+        "profil": "Désillusion amoureuse",
+        "description": "La personne aimée n'est pas celle qu'il imaginait. La relation était au moins en partie une projection."
+      },
+      {
+        "profil": "Désillusion sur soi-même",
+        "description": "Il n'est pas le personnage qu'il croyait être. La crise est double : perdre l'illusion et accepter qui on est vraiment."
+      }
+    ],
+    "blessuresUnderlyantes": [
+      "naïveté longtemps exploitée — s'être fait avoir plusieurs fois",
+      "attachement fort à des figures idéalisées dans l'enfance",
+      "besoin profond de croire en quelque chose pour tenir"
+    ],
+    "positionsDePouvoir": [
+      "ce en quoi il croyait exercait un pouvoir réel sur ses choix et ses loyautés",
+      "ceux qui incarnaient l'idéal ont trahi sans forcément le savoir",
+      "le personnage est seul à reconstruire — personne ne peut le faire pour lui"
+    ],
+    "erreursDEcriture": [
+      "Traiter la désillusion comme une progression vers la sagesse — elle peut mener aussi vers l'amertume et le repli.",
+      "Ne pas montrer ce qui est perdu : la désillusion coûte quelque chose de réel, pas seulement une erreur.",
+      "Confondre avec la déception simple — la désillusion remet en cause un cadre, pas juste un espoir."
+    ]
+  }
+]

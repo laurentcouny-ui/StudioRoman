@@ -1,0 +1,336 @@
+[
+  {
+    "id": "reparer-une-faute-passee",
+    "label": "Réparer une faute passée",
+    "famille": "réparation",
+    "definitionCourte": "Le personnage agit pour compenser quelque chose qu'il a fait, dit ou laissé faire. Il ne peut pas effacer l'acte — mais il peut agir de façon à ce que son existence compte malgré lui.",
+
+    "moteurProfond": "Ce que j'ai fait ne peut pas être défait. Mais si j'agis assez, peut-être que la balance penchera différemment.",
+
+    "formesConscientes": [
+      "Je dois réparer ça.",
+      "Je lui dois quelque chose — ou à sa mémoire.",
+      "Je ne peux pas continuer comme si rien ne s'était passé.",
+      "C'est le minimum que je puisse faire."
+    ],
+
+    "formesInconscientes": [
+      "Si je répare assez, je me pardonnerai enfin.",
+      "Je n'ai pas le droit d'être heureux avant d'avoir réparé.",
+      "Ma valeur est conditionnelle à ce que je fais maintenant de cette faute."
+    ],
+
+    "signesComportementaux": [
+      "action orientée vers la victime de la faute ou ce qu'elle représente",
+      "refus de certains avantages — 'je ne le mérite pas'",
+      "aide excessive et répétée pour compenser",
+      "retour sur le passé — ne pas pouvoir s'en éloigner",
+      "sacrifice personnel sans explication — la culpabilité n'est pas dite"
+    ],
+
+    "enjeux": [
+      "si la réparation est possible — certaines fautes ne se réparent pas",
+      "si la victime veut cette réparation — ou si elle ne veut pas en entendre parler",
+      "ce que le personnage devient si la réparation est impossible"
+    ],
+
+    "risques": [
+      "réparation qui sert le coupable plus qu'elle ne soulage la victime",
+      "incapacité à s'arrêter — la faute ne sera jamais assez réparée",
+      "nouvelles erreurs commises sous pression de réparation",
+      "pardon accordé que le personnage n'arrive pas à recevoir"
+    ],
+
+    "masquesPossibles": [
+      "altruisme général qui cache une dette personnelle précise",
+      "engagement dans une cause comme substitut à la réparation directe",
+      "aide obsessionnelle présentée comme générosité"
+    ],
+
+    "evolutionsPossibles": [
+      "pardon accordé — et difficulté à le recevoir vraiment",
+      "réparation reconnue — la victime dit 'c'est assez'",
+      "mort de la victime avant la réparation — deuil impossible",
+      "acceptation que certaines fautes ne se réparent pas — et continuité malgré tout"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "emotions", "cible": "remords", "note": "le remords est l'état émotionnel qui génère ce moteur" },
+      { "famille": "blessuresEmotionnelles", "cible": "culpabilite", "note": "la blessure de culpabilité est souvent à la source" },
+      { "famille": "motivations", "cible": "etre-irreprochable-pour-effacer", "note": "quand la réparation prend la forme d'une excellence générale" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est narrativement fort parce qu'il crée un personnage qui avance vers quelque chose sans jamais être sûr d'y arriver.",
+      "La question de si la réparation est possible — et de qui décide — est souvent le cœur du récit.",
+      "À distinguer de la culpabilité (émotion) : ici c'est le moteur d'action, pas l'état ressenti."
+    ]
+  },
+  {
+    "id": "vivre-pour-quelqu-un-qui-ne-peut-plus",
+    "label": "Vivre pour quelqu'un qui ne peut plus",
+    "famille": "réparation",
+    "definitionCourte": "Le personnage agit en nom ou à la place de quelqu'un de mort, disparu ou empêché. Il porte un projet, un idéal ou une vie que l'autre n'a pas pu mener à terme.",
+
+    "moteurProfond": "Il ne peut plus. Moi, je peux. Donc je dois — pour qu'il n'ait pas disparu pour rien.",
+
+    "formesConscientes": [
+      "Je fais ça pour lui.",
+      "Il aurait voulu ça. Je le lui dois.",
+      "Sa mort ne doit pas être vaine.",
+      "Je porte ce qu'il avait commencé."
+    ],
+
+    "formesInconscientes": [
+      "Tant que je fais ça, il est encore là d'une certaine façon.",
+      "Si je m'arrête, c'est vraiment fini.",
+      "Je ne sais pas qui je suis sans cette mission héritée.",
+      "Vivre pleinement pour moi me semble une trahison."
+    ],
+
+    "signesComportementaux": [
+      "accomplissements dédiés — 'c'est pour lui'",
+      "impossibilité à s'arrêter de tenir la promesse même quand ça coûte",
+      "résistance à la joie personnelle — comme si elle était illégitime",
+      "maintien de rituels ou d'habitudes liés à l'absent",
+      "identification forte aux projets de l'absent"
+    ],
+
+    "enjeux": [
+      "à quel moment cette vie héritée commence à empêcher sa propre vie",
+      "si l'absent aurait vraiment voulu ça",
+      "ce que le personnage veut, lui, au fond"
+    ],
+
+    "risques": [
+      "vie entière consacrée à une mission qui n'appartient pas au personnage",
+      "incapacité à deuil réel — vivre pour l'autre empêche de lâcher",
+      "erreur sur ce que l'absent voulait vraiment",
+      "s'effondrer quand la mission est terminée — vide après l'accomplissement"
+    ],
+
+    "masquesPossibles": [
+      "dévouement à une cause présenté comme choix personnel",
+      "engagement total qui masque un deuil non fait",
+      "refus de parler de l'absent tout en agissant entièrement pour lui"
+    ],
+
+    "evolutionsPossibles": [
+      "accomplissement — et moment de vide qui suit",
+      "découverte que l'absent n'aurait pas voulu ça pour lui",
+      "bifurcation — vivre pour lui ET pour soi progressivement",
+      "libération — quelqu'un dit 'tu as le droit de vivre pour toi'"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "emotions", "cible": "culpabilite-du-survivant", "note": "souvent à l'origine de ce moteur" },
+      { "famille": "dynamiquesRelationnelles", "cible": "lien-avec-mort-recent", "note": "le lien qui continue au-delà de la mort" },
+      { "famille": "motivations", "cible": "transmettre-avant-de-disparaitre", "note": "la version inverse — transmettre avant de partir" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est fréquent dans les récits de guerre, de deuil ou de perte prématurée.",
+      "La tension centrale est toujours la même : à quel moment honorer un mort devient-il se trahir soi-même ?",
+      "Le moment de libération — se permettre de vivre pour soi — est souvent la résolution la plus juste."
+    ]
+  },
+  {
+    "id": "restituer-ce-qu-on-a-pris",
+    "label": "Restituer ce qu'on a pris",
+    "famille": "réparation",
+    "definitionCourte": "Le personnage agit pour rendre — concrètement ou symboliquement — quelque chose qui ne lui appartenait pas. L'objet de la restitution peut être matériel, moral, ou identitaire.",
+
+    "moteurProfond": "J'ai pris quelque chose qui ne m'appartenait pas. Tant que ce n'est pas rendu, je porte cette dette.",
+
+    "formesConscientes": [
+      "Je dois lui rendre ce que je lui ai pris.",
+      "Ce n'était pas à moi.",
+      "Je ne peux pas garder ça.",
+      "La rendre — même maintenant, même tard — c'est mieux que rien."
+    ],
+
+    "formesInconscientes": [
+      "Restituer me soulagerait d'un poids que je ne sais pas nommer.",
+      "Je veux être quelqu'un qui rend.",
+      "Cette dette définit qui je suis — m'en libérer changerait mon identité."
+    ],
+
+    "signesComportementaux": [
+      "retour ou tentative de contact avec la personne lésée",
+      "conservation de l'objet ou de la chose prise avec une conscience particulière",
+      "impossibilité de jouir pleinement de ce qui a été pris",
+      "actions compensatoires indirectes — envers d'autres — quand la restitution directe est impossible"
+    ],
+
+    "enjeux": [
+      "si la restitution est encore possible — ou si le temps a tout changé",
+      "si l'autre veut être rendu — ou si ça rouvre une blessure",
+      "ce que la restitution coûte — et si le personnage est prêt à ce prix"
+    ],
+
+    "risques": [
+      "restitution refusée — et ce que ça fait à celui qui voulait rendre",
+      "l'autre ne se souvient plus — ou n'a jamais su qu'on lui avait pris quelque chose",
+      "la restitution crée plus de problèmes qu'elle n'en résout",
+      "l'objet ou la chose ne peut plus être rendu tel quel"
+    ],
+
+    "masquesPossibles": [
+      "philanthropie générale qui substitue la dette particulière",
+      "retour présenté comme une visite ordinaire",
+      "aide offerte sans lien apparent avec ce qui a été pris"
+    ],
+
+    "evolutionsPossibles": [
+      "restitution acceptée — soulagement réel",
+      "restitution refusée — le personnage doit trouver une autre façon de se libérer",
+      "découverte que ce qu'on a pris était lui-même volé — la chaîne remonte",
+      "pardon accordé sans restitution possible — difficile à recevoir"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "blessuresEmotionnelles", "cible": "trahison-confiance", "note": "quand la prise était une trahison" },
+      { "famille": "emotions", "cible": "remords", "note": "l'état émotionnel qui génère ce moteur" }
+    ],
+
+    "notesEditoriales": [
+      "La restitution est plus intéressante quand ce qui a été pris est immatériel — une réputation, une reconnaissance, une chance.",
+      "La question 'est-ce encore possible ?' est souvent le nœud narratif.",
+      "Ce moteur peut traverser des générations — restituer ce que ses ancêtres ont pris."
+    ]
+  },
+  {
+    "id": "reconstruire-ce-qu-on-a-detruit",
+    "label": "Reconstruire ce qu'on a soi-même détruit",
+    "famille": "réparation",
+    "definitionCourte": "Le personnage agit pour rebâtir quelque chose qu'il a lui-même abîmé ou détruit — un lien, une famille, une confiance, une œuvre. La reconstruction est hantée par le fait d'en être l'auteur.",
+
+    "moteurProfond": "C'est moi qui ai cassé ça. C'est à moi de le reconstruire.",
+
+    "formesConscientes": [
+      "J'ai fait ça. Je n'ai pas le droit de laisser quelqu'un d'autre réparer.",
+      "Si ça se reconstruit, ça doit passer par moi.",
+      "Je peux peut-être ne pas effacer — mais je peux rebâtir.",
+      "C'est la seule façon d'aller de l'avant."
+    ],
+
+    "formesInconscientes": [
+      "Reconstruire me prouve que je ne suis pas seulement quelqu'un qui détruit.",
+      "Si je reconstruis exactement ce que j'ai détruit, peut-être que ça n'aura pas compté.",
+      "La reconstruction me redonne du contrôle sur ce que j'ai causé."
+    ],
+
+    "signesComportementaux": [
+      "effort direct et prolongé vers ce qui a été détruit",
+      "refus que quelqu'un d'autre prenne en charge la réparation",
+      "sensibilité extrême à tout nouveau dommage dans ce domaine",
+      "patience inhabituelle — la reconstruction prend le temps qu'il faut",
+      "peut répéter des erreurs si le moteur n'est pas conscient"
+    ],
+
+    "enjeux": [
+      "si ce qui a été détruit peut vraiment être reconstruit — ou seulement remplacé",
+      "si l'autre accepte la reconstruction",
+      "si le personnage peut changer ce qui a causé la destruction"
+    ],
+
+    "risques": [
+      "reconstruire à l'identique en reproduisant les mêmes erreurs",
+      "l'autre qui ne veut pas de reconstruction — il est passé à autre chose",
+      "reconstruction qui sert le besoin de se pardonner plus que le besoin de l'autre",
+      "s'épuiser dans une reconstruction impossible"
+    ],
+
+    "masquesPossibles": [
+      "activité intense présentée comme 'aller de l'avant'",
+      "aide offerte sans lien avoué avec la destruction passée",
+      "enthousiasme pour la reconstruction qui masque la peur de regarder la destruction en face"
+    ],
+
+    "evolutionsPossibles": [
+      "reconstruction réussie — quelque chose de nouveau qui porte la trace mais tient",
+      "découverte qu'on ne peut pas reconstruire l'ancien — mais qu'on peut bâtir quelque chose de différent",
+      "refus de l'autre — et deuil de ce qui ne se reconstruira pas",
+      "transformation du moteur — de réparation en création"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "dynamiquesRelationnelles", "cible": "lien-reconstruit-apres-trahison", "note": "la dynamique relationnelle de cette reconstruction" },
+      { "famille": "emotions", "cible": "remords", "note": "l'émotion motrice" },
+      { "famille": "motivations", "cible": "reparer-une-faute-passee", "note": "quand la faute précède la destruction" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est fort parce qu'il implique une humilité rare — admettre qu'on a détruit quelque chose demande plus que de vouloir réparer.",
+      "La distinction entre reconstruire l'identique et construire quelque chose de nouveau est souvent la clé de la résolution.",
+      "À utiliser dans les récits de réconciliation, de rédemption, de retour."
+    ]
+  },
+  {
+    "id": "etre-irreprochable-pour-effacer",
+    "label": "Être irréprochable pour effacer",
+    "famille": "réparation",
+    "definitionCourte": "Le personnage agit avec une excellence ou une rigueur excessive pour compenser quelque chose de passé. La perfection présente comme tentative de racheter ce qui ne peut pas être effacé.",
+
+    "moteurProfond": "Si je suis assez bien maintenant, peut-être que ça comptera plus que ce que j'ai fait.",
+
+    "formesConscientes": [
+      "Je n'ai pas le droit à l'erreur.",
+      "Je dois montrer que je suis quelqu'un de bien.",
+      "Chaque bonne action compte.",
+      "Je ne peux pas me permettre de faillir à nouveau."
+    ],
+
+    "formesInconscientes": [
+      "Si je suis parfait assez longtemps, j'oublierai ce que j'ai fait.",
+      "L'excellence me protège du regard des autres sur mon passé.",
+      "Être irréprochable est ma punition autant que ma rédemption."
+    ],
+
+    "signesComportementaux": [
+      "standards personnels excessivement élevés",
+      "intolérance à ses propres erreurs",
+      "aide systématique — difficile de refuser ou de ne pas faire",
+      "perfectionnisme dans les domaines liés à la faute passée",
+      "épuisement dissimulé — la performance d'irréprochabilité use"
+    ],
+
+    "enjeux": [
+      "si l'irréprochabilité est possible — et à quel prix",
+      "si quelqu'un sait ce qu'elle cherche à effacer",
+      "ce qui arrive quand le personnage échoue malgré tout"
+    ],
+
+    "risques": [
+      "épuisement — tenir un standard impossible à long terme",
+      "perte de soi — être irréprochable laisse peu de place pour être humain",
+      "la première erreur qui effondre tout l'édifice",
+      "personne ne sait pourquoi — la réparation reste invisible et ne soulage pas"
+    ],
+
+    "masquesPossibles": [
+      "perfectionnisme présenté comme trait de personnalité",
+      "rigueur professionnelle qui masque une dette personnelle",
+      "générosité excessive présentée comme une valeur"
+    ],
+
+    "evolutionsPossibles": [
+      "fissure — une erreur arrive et le personnage doit choisir comment y répondre",
+      "quelqu'un qui sait — et dit que ce n'est pas nécessaire",
+      "épuisement total — ne peut plus tenir",
+      "acceptation — l'irréprochabilité ne comblera jamais la dette, et c'est acceptable"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "traitsDeCaractere", "cible": "perfectionnisme", "note": "quand ce moteur se cristallise en trait de caractère" },
+      { "famille": "emotions", "cible": "honte", "note": "la honte est souvent ce que l'irréprochabilité cherche à couvrir" },
+      { "famille": "motivations", "cible": "reparer-une-faute-passee", "note": "la même dynamique — deux formes différentes" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est sous-représenté narrativement parce qu'il se cache bien — le personnage a l'air simplement rigoureux.",
+      "La révélation de ce qu'il cherche à effacer transforme rétrospectivement tous ses actes antérieurs.",
+      "La question-clé : est-ce que ça fonctionne ? Est-ce qu'on peut vraiment effacer par l'excellence ?"
+    ]
+  }
+]

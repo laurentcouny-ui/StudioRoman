@@ -1,0 +1,569 @@
+[
+  {
+    "id": "aidant-proche-epuise",
+    "label": "Aidant et proche épuisé",
+    "famille": "relations de soin",
+    "definitionCourte": "Relation asymétrique où l'un prend soin de l'autre sans relâche — par amour, par devoir ou par absence d'alternative. L'aidant disparaît progressivement derrière la charge, et le lien original finit par se transformer.",
+
+    "caracteristiques": [
+      "asymétrie totale des besoins — l'un donne, l'autre reçoit",
+      "lien affectif qui précède et dépasse la dimension du soin",
+      "épuisement qui s'installe sans être nommé",
+      "sentiment de l'aidant de ne plus exister en dehors de ce rôle",
+      "culpabilité des deux côtés — l'aidant de ne pas en faire plus, l'aidé d'être un poids"
+    ],
+
+    "tensionsCentrale": [
+      "l'amour qui motive et l'épuisement qui corrode",
+      "l'aidé qui voudrait ne pas avoir besoin d'aide",
+      "l'aidant qui voudrait pouvoir partir — et ne peut pas se le permettre de penser",
+      "la relation d'avant qui se brouille sous le rôle de soignant",
+      "le silence sur ce que coûte vraiment ce soin"
+    ],
+
+    "signesPhysiques": [
+      "aidant : cernes profonds, gestes automatiques, sourire de façade",
+      "aidé : regard qui mesure l'impact de ses besoins sur l'autre",
+      "moments de contact physique qui cherchent à rappeler le lien d'avant",
+      "pauses dans le geste de soin — comme si l'aidant se rappelait qui est vraiment cette personne",
+      "aidant qui ne s'assoit jamais vraiment"
+    ],
+
+    "dynamiquesTypiques": [
+      "l'aidé qui minimise ses besoins pour protéger l'aidant",
+      "l'aidant qui sourit trop pour cacher la fatigue",
+      "ruptures brèves — irritabilité, ton sec — suivies de culpabilité",
+      "moments de grâce où la relation d'avant refait surface",
+      "évitement du sujet de l'avenir"
+    ],
+
+    "masquesPossibles": [
+      "l'aidant qui dit 'ça va, je gère' alors qu'il s'effondre",
+      "l'aidé qui joue à aller mieux pour alléger l'autre",
+      "le couple ou la famille qui présente une image unie à l'extérieur"
+    ],
+
+    "evolutionsPossibles": [
+      "rupture si l'épuisement devient insurmontable",
+      "relève — quelqu'un prend part du soin",
+      "transformation — l'aidant redécouvre qui il est au-delà du rôle",
+      "deuil anticipé — l'un ou l'autre commence à préparer la séparation",
+      "renforcement inattendu du lien par l'épreuve traversée ensemble"
+    ],
+
+    "exemplesNarratifs": [
+      "enfant adulte qui soigne un parent en perte d'autonomie",
+      "conjoint qui accompagne un partenaire malade depuis des années",
+      "fratrie inégalement répartie dans l'effort de soin",
+      "aidant qui n'a jamais voulu ce rôle mais n'a pas su refuser"
+    ],
+
+    "notesEditoriales": [
+      "La relation aidant/aidé est narrativement forte parce qu'elle dit quelque chose sur l'amour : ce qu'on fait quand il n'y a plus de réciprocité possible.",
+      "Le danger d'écriture est d'héroïser l'aidant ou de victimiser l'aidé — les deux sont plus intéressants dans leur ambivalence.",
+      "À distinguer du soignant professionnel : ici, la relation personnelle précède et complique le soin."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "épuisement-moral" },
+      { "type": "souvent_associe_a", "cible": "culpabilité-du-survivant" },
+      { "type": "peut_declencher", "cible": "rupture-relationnelle" }
+    ]
+  },
+  {
+    "id": "soignant-patient-lien-durable",
+    "label": "Soignant et patient — lien qui dure",
+    "famille": "relations de soin",
+    "definitionCourte": "Relation née dans la maladie ou la vulnérabilité, entre un professionnel de soin et quelqu'un qui traverse une épreuve. Quand elle dure, elle dépasse le cadre clinique sans jamais tout à fait le quitter.",
+
+    "caracteristiques": [
+      "asymétrie de rôle qui coexiste avec une proximité inhabituelle",
+      "le soignant voit l'autre dans sa vulnérabilité la plus brute",
+      "le patient connaît du soignant des gestes que ses proches ne connaissent pas",
+      "lien de confiance bâti sur la répétition et la constance",
+      "frontière professionnelle qui protège mais qui parfois gêne"
+    ],
+
+    "tensionsCentrale": [
+      "distance professionnelle vs humanité du lien",
+      "le soignant qui s'attache malgré lui",
+      "le patient qui projette sur le soignant des émotions qui ne lui appartiennent pas",
+      "la fin du soin qui met fin au lien — ou pas",
+      "le soignant qui en sait trop sur le patient pour rester neutre"
+    ],
+
+    "signesPhysiques": [
+      "gestes professionnels qui gardent une douceur personnelle",
+      "regard du soignant qui voit l'être derrière le diagnostic",
+      "patient qui attend la visite de ce soignant plus que des autres",
+      "petites attentions hors protocole",
+      "conversations qui dépassent le suivi médical"
+    ],
+
+    "dynamiquesTypiques": [
+      "le patient qui dit des choses au soignant qu'il ne dit pas à sa famille",
+      "le soignant qui mémorise des détails personnels et y revient",
+      "rituel informel autour des soins — une façon de rendre l'intime supportable",
+      "transfert affectif — le patient prend soin du soignant à sa manière",
+      "le soignant qui garde une distance pour protéger les deux"
+    ],
+
+    "masquesPossibles": [
+      "professionnalisme affiché qui cache l'attachement réel",
+      "patient qui minimise sa reconnaissance pour ne pas gêner",
+      "soignant qui traite 'comme tous les autres' pour se protéger"
+    ],
+
+    "evolutionsPossibles": [
+      "fin du soin — disparition du lien ou conversion en autre chose",
+      "transgression de la frontière professionnelle — avec tout ce que ça implique",
+      "gratitude durable — le patient porte le soignant dans sa mémoire longtemps",
+      "deuil du soignant — quand le patient ne revient pas"
+    ],
+
+    "exemplesNarratifs": [
+      "infirmière de nuit et patient en longue hospitalisation",
+      "kinésithérapeute et rééducation après accident grave",
+      "médecin de campagne et patient de toute une vie",
+      "psy et patient après des années de thérapie"
+    ],
+
+    "notesEditoriales": [
+      "Ce lien est narrativement riche parce qu'il transgresse les catégories habituelles — pas tout à fait professionnel, pas tout à fait personnel.",
+      "La fin du soin est souvent la scène la plus forte — qu'est-ce qui reste quand le cadre disparaît ?",
+      "À utiliser pour explorer la vulnérabilité, l'attachement et les limites que l'on se fixe."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "amour-interdit" },
+      { "type": "souvent_associe_a", "cible": "gratitude" },
+      { "type": "peut_declencher", "cible": "deuil-blanc" }
+    ]
+  },
+  {
+    "id": "benevole-beneficiaire",
+    "label": "Bénévole et bénéficiaire",
+    "famille": "relations de soin",
+    "definitionCourte": "Relation née d'un engagement volontaire d'aide, où l'un vient avec ses ressources et l'autre avec ses besoins. L'asymétrie est structurelle, mais ce qui se construit entre les deux l'est moins.",
+
+    "caracteristiques": [
+      "aide librement choisie d'un côté, reçue de l'autre",
+      "absence de lien préalable — deux étrangers que les circonstances mettent ensemble",
+      "risque de rapport de domination déguisé en générosité",
+      "possibilité d'un lien vrai qui dépasse le service rendu",
+      "bénévole qui apporte souvent plus que du matériel — de la présence"
+    ],
+
+    "tensionsCentrale": [
+      "bénéficiaire qui ressent la charge symbolique de recevoir sans pouvoir rendre",
+      "bénévole qui projette ses représentations sur la situation de l'autre",
+      "question de la dignité — comment recevoir sans être diminué",
+      "attachement qui rend difficile la fin de l'engagement",
+      "différence sociale ou culturelle qui crée une distance malgré la bonne volonté"
+    ],
+
+    "signesPhysiques": [
+      "bénévole qui ajuste son langage ou ses gestes à l'autre sans s'en rendre compte",
+      "bénéficiaire qui observe si l'aide est donnée par obligation ou vraiment",
+      "moments de gêne autour de la transaction d'aide",
+      "regard du bénéficiaire qui teste si l'autre le voit comme une personne",
+      "corps du bénévole qui se relâche quand le bénéficiaire rit ou parle librement"
+    ],
+
+    "dynamiquesTypiques": [
+      "bénéficiaire qui donne ce qu'il peut — un café, une histoire, un renseignement — pour rééquilibrer",
+      "bénévole qui apprend autant qu'il donne",
+      "méfiance initiale du bénéficiaire qui se dissout progressivement",
+      "bénévole qui fixe des limites au lien — et s'y heurte",
+      "moments où les rôles se retournent brièvement"
+    ],
+
+    "masquesPossibles": [
+      "générosité qui cache un besoin de se sentir utile ou supérieur",
+      "bénéficiaire qui joue le rôle attendu pour faciliter la relation",
+      "indifférence feinte du bénéficiaire pour se protéger d'une aide qui peut disparaître"
+    ],
+
+    "evolutionsPossibles": [
+      "amitié réelle qui dépasse le cadre du bénévolat",
+      "rupture si l'asymétrie devient insupportable pour l'un ou l'autre",
+      "bénéficiaire qui devient bénévole à son tour",
+      "attachement douloureux à la fin de l'engagement"
+    ],
+
+    "exemplesNarratifs": [
+      "bénévole dans un refuge et réfugié en attente de papiers",
+      "visiteur de prison et détenu en fin de peine",
+      "aide alimentaire et famille en précarité",
+      "accompagnateur scolaire et enfant en difficulté"
+    ],
+
+    "notesEditoriales": [
+      "Cette relation explore ce que 'aider' veut vraiment dire — et ce qu'on fait à l'autre quand on lui offre de l'aide.",
+      "Le bénéficiaire est souvent mieux écrit comme quelqu'un de complexe et résistant que comme un objet de pitié.",
+      "La question de la réciprocité — même symbolique — est au cœur de la dynamique."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "amitié-improbable" },
+      { "type": "souvent_associe_a", "cible": "honte" },
+      { "type": "peut_declencher", "cible": "gratitude" }
+    ]
+  },
+  {
+    "id": "voisinage-long-terme",
+    "label": "Voisinage de long terme",
+    "famille": "liens communautaires",
+    "definitionCourte": "Relation construite par la seule proximité géographique et la durée. Ni amitié ni neutralité, le voisinage de long terme est un lien particulier — trop proche pour être impersonnel, trop distant pour tout dire.",
+
+    "caracteristiques": [
+      "lien non choisi mais entretenu par les circonstances",
+      "connaissance partielle — on sait beaucoup de détails sans connaître vraiment",
+      "équilibre fragile entre intrusion et indifférence",
+      "histoire partagée à travers des événements du quartier ou de l'immeuble",
+      "rôles informels qui se stabilisent dans le temps"
+    ],
+
+    "tensionsCentrale": [
+      "savoir sans avoir été invité à savoir — les murs n'isolent pas tout",
+      "frontière entre aide et ingérence",
+      "habitude qui crée une fausse intimité",
+      "conflit de longue date enkysté dans le quotidien",
+      "l'un qui voudrait plus de lien, l'autre qui se protège"
+    ],
+
+    "signesPhysiques": [
+      "hochement de tête ou salutation brève en passant",
+      "porte entrouverte plus longtemps quand l'autre passe",
+      "bruit reconnu de l'autre — ses pas, ses habitudes sonores",
+      "regard qui mesure si on est bien reçu ou encombrant",
+      "distance instinctive dans les espaces communs"
+    ],
+
+    "dynamiquesTypiques": [
+      "service ponctuel rendu qui crée un sentiment d'obligation diffus",
+      "surveillance discrète — savoir si l'autre va bien sans avoir à demander",
+      "commérage horizontal — on sait des choses sur les autres par les voisins",
+      "conflit de bruit, d'espace, d'odeur jamais tout à fait résolu",
+      "solidarité qui émerge lors d'une urgence ou d'une catastrophe"
+    ],
+
+    "masquesPossibles": [
+      "cordialité de façade qui cache une indifférence ou une hostilité sourde",
+      "gentillesse calculée pour éviter les conflits futurs",
+      "curiosité déguisée en sollicitude"
+    ],
+
+    "evolutionsPossibles": [
+      "amitié vraie qui se construit lentement à partir du quotidien partagé",
+      "conflit ouvert qui redéfinit les règles du lien",
+      "deuil — la mort d'un voisin de longtemps révèle un attachement insoupçonné",
+      "déménagement de l'un — fin brutale d'une relation installée",
+      "solidarité inattendue lors d'une crise — le lien se révèle"
+    ],
+
+    "exemplesNarratifs": [
+      "voisins d'immeuble depuis vingt ans qui ne se connaissent pas vraiment",
+      "voisins de palier dont l'un entend tout de la vie de l'autre",
+      "lotissement où tout le monde se surveille sans se parler",
+      "ancien conflit de clôture qui a laissé une cicatrice dans la relation"
+    ],
+
+    "notesEditoriales": [
+      "Le voisinage de long terme est un terrain narratif sous-exploité — il explore la frontière entre public et privé, entre appartenance et étrangeté.",
+      "La durée est le facteur clé : ce qui s'accumule sans jamais être dit.",
+      "À utiliser pour introduire un personnage ancré dans un espace et une communauté sans liens dramatiques évidents."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "amitié-inattendue" },
+      { "type": "peut_declencher", "cible": "conflit-de-territoire" },
+      { "type": "souvent_associe_a", "cible": "solitude-entourée" }
+    ]
+  },
+  {
+    "id": "cohabitation-contrainte",
+    "label": "Cohabitation contrainte",
+    "famille": "liens communautaires",
+    "definitionCourte": "Situation où deux personnes ou plus partagent un espace sans l'avoir pleinement choisi — colocation par nécessité, cohabitation familiale imposée, hébergement provisoire devenu durable. La proximité forcée révèle tout.",
+
+    "caracteristiques": [
+      "absence de choix initial ou choix limité par les circonstances",
+      "espace partagé qui force la négociation permanente",
+      "intimité involontaire — on voit des choses qu'on n'aurait pas vues autrement",
+      "friction sur les petites choses qui révèle des incompatibilités profondes",
+      "dépendance mutuelle malgré l'absence de lien choisi"
+    ],
+
+    "tensionsCentrale": [
+      "besoin de territoire personnel dans un espace partagé",
+      "rythmes de vie incompatibles qui imposent des compromis constants",
+      "règles implicites non dites qui finissent par exploser",
+      "un des deux qui a plus de pouvoir dans l'espace — propriétaire, ancienneté",
+      "sortie difficile — économique, familiale, affective"
+    ],
+
+    "signesPhysiques": [
+      "marquage territorial inconscient — objet posé à sa place, porte fermée",
+      "évitement du regard ou de la parole dans les espaces communs",
+      "bruit de fond de la présence de l'autre — reconnaissable et parfois pesant",
+      "corps qui se rétracte pour prendre moins d'espace",
+      "moments de détente partagés qui surprennent les deux"
+    ],
+
+    "dynamiquesTypiques": [
+      "rituel de cuisine ou de salle de bain qui organise la coexistence",
+      "silences qui s'accumulent jusqu'à l'explosion ou la conversation",
+      "alliance ponctuelle contre un problème commun",
+      "l'un qui impose ses habitudes, l'autre qui s'adapte sans rien dire",
+      "conversation de nuit qui dit des choses que le jour n'autoriserait pas"
+    ],
+
+    "masquesPossibles": [
+      "politesse excessive qui cache la tension",
+      "bonne humeur affichée pour ne pas alourdir l'ambiance",
+      "absence — rester le moins possible pour éviter le frottement"
+    ],
+
+    "evolutionsPossibles": [
+      "amitié inattendue née de la vie commune",
+      "conflit ouvert qui force une réorganisation ou une séparation",
+      "pacte tacite de coexistence acceptable sans chaleur",
+      "dépendance affective — l'habitude crée un attachement",
+      "départ de l'un qui révèle combien la présence comptait"
+    ],
+
+    "exemplesNarratifs": [
+      "colocataires contraints par des finances serrées",
+      "enfant adulte revenu vivre chez ses parents",
+      "beau-parent et bel-enfant sous le même toit",
+      "exil ou réfugiés hébergés chez une famille d'accueil",
+      "pensionnaire chez un particulier"
+    ],
+
+    "notesEditoriales": [
+      "La cohabitation contrainte met en scène les tensions entre vie privée et vie partagée de façon concrète et quotidienne.",
+      "Le drame se joue souvent sur des détails infimes — la vaisselle, le bruit, les horaires.",
+      "C'est un terrain fertile pour la comédie comme pour le drame : les deux registres coexistent naturellement."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "amitié-improbable" },
+      { "type": "peut_declencher", "cible": "conflit-ouvert" },
+      { "type": "souvent_associe_a", "cible": "tension-de-fond" }
+    ]
+  },
+  {
+    "id": "lien-de-quartier",
+    "label": "Lien de quartier",
+    "famille": "liens communautaires",
+    "definitionCourte": "Appartenance partagée à un espace vécu — une rue, un marché, un café, un immeuble. Le lien de quartier n'est pas une amitié mais une reconnaissance mutuelle, une mémoire commune construite dans le quotidien.",
+
+    "caracteristiques": [
+      "identité collective sans intimité nécessairement profonde",
+      "lien fondé sur le passage et la répétition plutôt que sur le choix",
+      "figures du quartier qui structurent le tissu social informel",
+      "sentiment d'appartenance qui peut devenir rejet de l'étranger",
+      "mémoire partagée des événements du lieu"
+    ],
+
+    "tensionsCentrale": [
+      "changement du quartier qui efface les repères communs",
+      "nouvelle arrivée perçue comme intrusion",
+      "nostalgie du quartier d'avant vs nécessité de changer",
+      "solidarité de quartier qui peut se retourner en surveillance ou exclusion",
+      "habitant de longue date vs nouvel arrivant"
+    ],
+
+    "signesPhysiques": [
+      "reconnaissance visuelle — le hochement de tête au commerçant",
+      "place attribuée — 'le banc de machin', 'la table du fond de X'",
+      "prise de nouvelles brève mais réelle",
+      "corps détendu dans l'espace comme dans un territoire connu",
+      "regard qui balaye pour voir 'qui est là'"
+    ],
+
+    "dynamiquesTypiques": [
+      "informations circulant par le bouche-à-oreille du quartier",
+      "entraide informelle — garder un colis, surveiller un appartement",
+      "fête de quartier ou événement collectif qui crée un moment de communauté",
+      "personnage central — le commerçant, le concierge — qui tient le réseau",
+      "exclusion implicite de ceux qui ne 'font pas' quartier"
+    ],
+
+    "masquesPossibles": [
+      "appartenance affichée qui cache un isolement réel",
+      "figure du quartier qui maintient une façade de jovialité sans jamais dire ce qui va mal",
+      "nostalgie du passé du quartier qui masque un refus du changement"
+    ],
+
+    "evolutionsPossibles": [
+      "gentrification qui détruit le tissu existant",
+      "solidarité de crise — le quartier se révèle en cas d'urgence",
+      "départ de la figure centrale qui déstructure le réseau",
+      "intégration progressive d'un nouvel arrivant dans le tissu",
+      "conflit communautaire qui fracture le lien"
+    ],
+
+    "exemplesNarratifs": [
+      "quartier populaire avec ses figures et ses histoires partagées",
+      "rue commerçante où tout le monde se connaît de vue",
+      "village dont les habitants partagent une mémoire commune",
+      "immeuble avec son comité de locataires et ses tensions internes"
+    ],
+
+    "notesEditoriales": [
+      "Le lien de quartier permet d'ancrer un personnage dans un tissu social sans famille proche.",
+      "Il est narrativement utile pour introduire des personnages secondaires qui font exister un monde.",
+      "La perte du quartier — déménagement, destruction, transformation — est un deuil narratif souvent sous-estimé."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "deuil-du-lieu" },
+      { "type": "souvent_associe_a", "cible": "appartenance" },
+      { "type": "peut_evoluer_en", "cible": "exclusion-communautaire" }
+    ]
+  },
+  {
+    "id": "solidarite-de-crise",
+    "label": "Solidarité de crise",
+    "famille": "liens communautaires",
+    "definitionCourte": "Lien qui naît sous la pression d'une situation d'urgence entre des inconnus ou des quasi-inconnus. Intense, brève ou durable, cette solidarité révèle ce que les circonstances ordinaires cachent.",
+
+    "caracteristiques": [
+      "lien déclenché par un événement extérieur, non par un choix personnel",
+      "effacement temporaire des hiérarchies sociales habituelles",
+      "sentiment de communauté soudain entre des étrangers",
+      "intensité proportionnelle à la gravité de la situation",
+      "fragilité après la crise — tout peut disparaître quand le danger s'éloigne"
+    ],
+
+    "tensionsCentrale": [
+      "que reste-t-il du lien une fois la crise passée",
+      "différences sociales qui reviennent dès que la pression diminue",
+      "quelqu'un qui profitera de la situation plutôt que de la solidarité",
+      "décision collective sous pression — qui décide, qui obéit",
+      "le lien intense qui ne survit pas au retour du quotidien"
+    ],
+
+    "signesPhysiques": [
+      "barrières corporelles qui tombent — on touche des inconnus, on s'entraide physiquement",
+      "regard direct et chargé d'urgence",
+      "communication accélérée, efficace, dépouillée du superflu",
+      "corps qui fonctionnent ensemble sans se connaître",
+      "épuisement partagé — même posture, même silence après l'effort"
+    ],
+
+    "dynamiquesTypiques": [
+      "inconnus qui prennent des décisions vitales ensemble sans se connaître",
+      "quelqu'un qui prend le leadership naturellement",
+      "geste d'aide qui ne sera jamais rendu parce que les chemins se séparent",
+      "humour noir qui crée une complicité dans l'adversité",
+      "échange d'informations personnelles qui n'auraient jamais été données en temps normal"
+    ],
+
+    "masquesPossibles": [
+      "solidarité de façade qui masque un calcul de survie individuelle",
+      "héroïsme qui compense quelque chose de personnel",
+      "fuite de ses propres émotions dans l'action pour les autres"
+    ],
+
+    "evolutionsPossibles": [
+      "amitié durable née de l'épreuve commune",
+      "dispersion totale — on ne se revoit jamais",
+      "traumatisme partagé qui crée un lien impossible à expliquer aux autres",
+      "déception si l'un des participants trahit la solidarité",
+      "communauté informelle qui se maintient longtemps après"
+    ],
+
+    "exemplesNarratifs": [
+      "passagers bloqués ensemble lors d'une catastrophe",
+      "voisins mobilisés lors d'une inondation ou d'un incendie",
+      "gens coincés ensemble lors d'une panne ou d'un événement imprévu",
+      "témoins d'un accident qui agissent ensemble"
+    ],
+
+    "notesEditoriales": [
+      "La solidarité de crise est un raccourci narratif puissant pour lier des personnages qui n'auraient jamais eu de raison de se rencontrer.",
+      "Sa force tient dans sa durée limitée — elle crée de l'intensité et de l'ambiguïté sur ce qui reste.",
+      "À utiliser pour déclencher des liens, pas pour les sustenter sur la durée sans transformation."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "amitié-improbable" },
+      { "type": "peut_declencher", "cible": "traumatisme-partagé" },
+      { "type": "souvent_associe_a", "cible": "fraternité-éphémère" }
+    ]
+  },
+  {
+    "id": "relation-avec-figure-du-quartier",
+    "label": "Relation avec une figure du quartier",
+    "famille": "liens communautaires",
+    "definitionCourte": "Lien particulier avec une personne qui structure informellement un espace social — le commerçant, l'ancien du quartier, la concierge, le prêtre de la paroisse. Une présence tutélaire qui n'est pas vraiment un ami mais plus qu'un étranger.",
+
+    "caracteristiques": [
+      "rôle informel mais central dans le tissu social du lieu",
+      "connaissance de tout le monde sans nécessairement être intime avec quiconque",
+      "mémoire du lieu — sait d'où viennent les gens et ce qui s'est passé avant",
+      "accès à des informations que les autres n'ont pas",
+      "présence stable qui rassure par sa constance même"
+    ],
+
+    "tensionsCentrale": [
+      "la figure qui sait trop — pouvoir informel parfois inconfortable",
+      "relation avec un inconnu qui vous connaît mieux que vous ne vous y attendiez",
+      "dépendance affective d'un personnage à cette figure structurante",
+      "disparition de la figure qui déstabilise tout un réseau",
+      "rôle public vs vie privée — la figure du quartier a-t-elle une vie à elle ?"
+    ],
+
+    "signesPhysiques": [
+      "accueil reconnaissable — un geste, un mot, une question spécifique à la personne",
+      "espace qui s'organise autour de cette figure",
+      "regard qui observe tout sans avoir l'air de rien",
+      "présence physique stable, prévisible",
+      "geste d'attention mémorisé — 'votre journal du vendredi, comme d'habitude'"
+    ],
+
+    "dynamiquesTypiques": [
+      "transmission d'informations sur le quartier — passées et présentes",
+      "service rendu sans attente explicite de retour",
+      "confidence inattendue — on dit des choses à la figure du quartier qu'on ne dit pas à ses proches",
+      "jugement implicite ou explicite sur les comportements des uns et des autres",
+      "accueil de l'étranger ou méfiance — la figure peut ouvrir ou fermer le tissu social"
+    ],
+
+    "masquesPossibles": [
+      "jovialité de façade qui cache des difficultés personnelles",
+      "neutralité affichée qui masque des préférences bien établies",
+      "intérêt pris pour de la générosité — la figure tire profit de son rôle"
+    ],
+
+    "evolutionsPossibles": [
+      "mort ou départ de la figure — révèle à quel point elle tenait le tissu",
+      "chute du piédestal — on découvre une face cachée",
+      "transmission à un successeur — le rôle se perpétue",
+      "lien plus profond qui se crée avec un habitant en particulier",
+      "figure qui n'arrive plus à tenir son rôle — vieillesse, maladie, désillusion"
+    ],
+
+    "exemplesNarratifs": [
+      "épicier de quartier qui connaît les habitudes de tout le monde",
+      "ancien du village qui détient la mémoire collective",
+      "concierge d'immeuble qui voit tout et garde les secrets",
+      "curé ou imam de quartier qui connaît les familles depuis des générations"
+    ],
+
+    "notesEditoriales": [
+      "Cette figure est utile pour exposer l'histoire d'un lieu sans recours à l'exposition directe.",
+      "Elle peut être narratrice informelle, déclencheur de plot, ou symbole de ce qui est en train de disparaître.",
+      "Éviter d'en faire un personnage purement fonctionnel — sa propre vie mérite d'exister."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "revelation-du-passé" },
+      { "type": "souvent_associe_a", "cible": "mémoire-collective" },
+      { "type": "peut_evoluer_en", "cible": "figure-tutélaire" }
+    ]
+  }
+]

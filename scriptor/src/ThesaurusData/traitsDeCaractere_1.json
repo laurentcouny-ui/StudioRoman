@@ -1,0 +1,820 @@
+[
+  {
+    "id": "courageux",
+    "label": "Courageux",
+    "polarite": "ambigu",
+    "famille": "courage-bravoure",
+    "definitionCourte": "Capacité à agir malgré la peur, à avancer là où d'autres reculent. Le courage n'est pas l'absence de peur mais la décision de ne pas la laisser gouverner — ce qui peut mener aussi bien à l'héroïsme qu'à la témérité.",
+    "signesPhysiques": [
+      "mâchoire serrée mais regard stable",
+      "respiration lente et délibérément contrôlée",
+      "corps orienté vers la menace plutôt qu'à l'écart",
+      "mains qui se ferment une fois avant de s'ouvrir",
+      "pas fermes malgré une légère raideur dans les épaules",
+      "lèvres pincées, ligne droite, sans tremblement",
+      "yeux qui balaient la situation avant de se fixer sur l'objectif",
+      "posture légèrement inclinée vers l'avant, comme prêt à avancer",
+      "tension dans la nuque relâchée volontairement",
+      "geste d'ajustement — vêtement, outil, arme — avant d'agir",
+      "souffle court une fraction de seconde, puis maîtrisé"
+    ],
+    "sensationsInternes": [
+      "battements cardiaques rapides qu'on choisit de ne pas fuir",
+      "chaleur dans la poitrine mêlée d'une légère nausée",
+      "conscience aiguë du danger, comme une lumière froide dans le crâne",
+      "les secondes qui s'étirent juste avant l'action",
+      "frisson dans les avant-bras qui descend jusqu'aux doigts",
+      "sentiment étrange de clarté — tout devient simple, l'objectif unique",
+      "adrénaline qui monte comme une vague et qu'on laisse passer",
+      "lourdeur dans les jambes qui disparaît au premier pas",
+      "gorge sèche qu'on avale avant de parler"
+    ],
+    "pensees": [
+      "J'ai peur. Et alors — ça ne change rien à ce que je dois faire.",
+      "Si je recule maintenant, je ne pourrai plus me regarder en face.",
+      "Quelqu'un doit le faire. Pourquoi pas moi.",
+      "Je ne suis pas sûr d'en sortir. Je le fais quand même.",
+      "La peur, c'est de l'information. Ce n'est pas un ordre.",
+      "Plus tard, j'aurai le droit d'avoir eu peur. Pas maintenant.",
+      "Je pense à ceux pour qui je fais ça. Ça aide.",
+      "Si je reste paralysé, le moment va passer et je ne pourrai plus rien.",
+      "Mon corps me dit de fuir. Je choisis de ne pas l'écouter."
+    ],
+    "effetsVoixLangage": [
+      "voix posée, peut-être légèrement plus grave qu'à l'ordinaire",
+      "phrases courtes et directes quand la situation l'exige",
+      "absence de justification excessive — énonce, n'explique pas",
+      "ton qui ne monte pas même sous la pression",
+      "silence avant de parler, comme pour peser ce qui compte vraiment",
+      "humour bref et sec possible — une façon de désamorcer sans fuir",
+      "dit ce qu'il pense sans détour, même si ce n'est pas confortable"
+    ],
+    "comportements": [
+      "avance vers ce que les autres évitent",
+      "prend des décisions difficiles sans les reporter indéfiniment",
+      "dit la vérité même quand elle est inconfortable à entendre",
+      "assume les conséquences de ses actes sans chercher à les reporter sur autrui",
+      "reste présent dans les situations de forte tension",
+      "protège ceux qui ne peuvent pas se protéger eux-mêmes",
+      "agit en premier dans les moments de paralysie collective",
+      "peut choisir de reculer si c'est la décision la plus juste — le courage n'est pas l'entêtement",
+      "reconnaît sa peur à voix haute sans en faire un obstacle",
+      "revient sur le terrain après un échec ou une blessure",
+      "refuse de laisser la peur des autres décider à sa place"
+    ],
+    "masquesPossibles": [
+      "témérité affichée — le personnage masque sa peur par une bravade excessive",
+      "détachement apparent — parle du danger comme si ça ne le concernait pas",
+      "humour cynique — dédramatise pour ne pas montrer ce qu'il ressent vraiment",
+      "efficacité mécanique — se concentre sur la tâche pour ne pas laisser la peur s'installer",
+      "colère de façade — l'agressivité remplace l'aveu de la peur"
+    ],
+    "manifestationsPositives": [
+      "inspire confiance et calme chez ceux qui l'entourent dans les moments difficiles",
+      "sait trancher là où les autres hésitent",
+      "sa présence peut entraîner d'autres à agir",
+      "ne laisse pas la peur le définir ni le réduire",
+      "capable de défendre une position impopulaire par principe",
+      "accepte la vulnérabilité sans en faire une honte"
+    ],
+    "manifestationsNegatives": [
+      "peut sous-estimer les risques réels par habitude de surmonter la peur",
+      "peut mettre autrui en danger en décidant seul",
+      "parfois perçu comme insensible à la prudence légitime des autres",
+      "peut développer un sentiment de supériorité envers ceux qui fuient",
+      "risque de s'accrocher à une décision même quand le recul serait plus juste"
+    ],
+    "blessuresPossibles": [
+      "a été contraint d'agir seul dans une situation de danger dans l'enfance",
+      "a vu quelqu'un souffrir parce que personne n'a agi à temps",
+      "a vécu la honte d'avoir reculé une fois et ne veut plus jamais la ressentir",
+      "a grandi avec un modèle qui valorisait l'endurance au détriment de l'expression"
+    ],
+    "evolutionsPossibles": [
+      "peut évoluer vers la témérité si le courage n'est plus ancré dans un choix conscient",
+      "peut apprendre à distinguer courage véritable et performance de bravoure",
+      "peut atteindre une forme de sagesse où il choisit ses batailles plutôt que de toutes les mener",
+      "peut s'épuiser si la peur n'est jamais reconnue ni déposée",
+      "peut devenir modèle pour d'autres et trouver dans cette transmission un sens nouveau"
+    ],
+    "notesEditoriales": [
+      "Le courage n'est jamais plus intéressant que lorsqu'il coexiste avec une peur visible — un personnage qui n'a jamais peur n'est pas courageux, il est plat.",
+      "Distinguer courage physique (affronter le danger) et courage moral (dire une vérité, trahir une attente) : les deux méritent des scènes différentes.",
+      "Éviter le héros-courageux sans faille — l'ambiguïté de la polarité doit être exploitée : le courage peut blesser ceux qu'on aime, ignorer leur avis, isoler."
+    ]
+  },
+  {
+    "id": "lache",
+    "label": "Lâche",
+    "polarite": "negatif",
+    "famille": "peur-evitement",
+    "definitionCourte": "Tendance à fuir le danger, le conflit ou la responsabilité par peur des conséquences pour soi. La lâcheté n'est pas seulement physique — elle opère souvent dans les silences, les non-dits, les renoncements discrets.",
+    "signesPhysiques": [
+      "regard qui évite celui de l'autre dans les moments décisifs",
+      "corps qui pivote légèrement vers la sortie",
+      "sourire conciliant qui ne reflète rien de ce qu'il ressent",
+      "épaules légèrement rentrées, posture d'effacement",
+      "mains occupées à quelque chose d'inutile pour ne pas avoir à agir",
+      "souffle qui se retient quand on lui pose une question directe",
+      "hochements de tête excessifs pour éviter de parler",
+      "pieds orientés vers la porte même quand le corps fait face",
+      "regard qui fuit vers le bas ou de côté quand le danger s'approche",
+      "clignements répétés, inconfort qu'il essaie de contenir",
+      "léger recul du corps, presque imperceptible mais constant"
+    ],
+    "sensationsInternes": [
+      "boule froide dans le ventre à l'approche du conflit",
+      "accélération cardiaque qu'il interprète comme un signal de danger absolu",
+      "soulagement immédiat dès qu'il trouve une raison de ne pas agir",
+      "honte sourde qu'il recouvre aussitôt de justifications",
+      "sensation d'étouffement dès que la situation exige quelque chose de lui",
+      "légèreté coupable après avoir évité une confrontation",
+      "nœud dans la gorge quand il doit formuler un refus ou une vérité",
+      "vertige bref devant la possibilité d'être vu tel qu'il est"
+    ],
+    "pensees": [
+      "Ce n'est pas mon problème. Je n'ai rien à y gagner.",
+      "Si j'interviens, ça va se retourner contre moi.",
+      "Quelqu'un d'autre le fera. Il y a des gens pour ça.",
+      "Ce n'est pas si grave. Je m'en fais peut-être trop.",
+      "Je verrai comment ça tourne avant de décider.",
+      "Si je dis rien, ça va se tasser tout seul.",
+      "Je ne suis pas assez fort pour ça. Je le sais.",
+      "Peut-être que j'ai tort. Mieux vaut ne rien dire.",
+      "Je me rattraperai une autre fois. Pas là, pas maintenant."
+    ],
+    "effetsVoixLangage": [
+      "réponses vagues et non engagées — 'peut-être', 'on verra', 'c'est possible'",
+      "voix qui monte légèrement dans les moments où il doit se positionner",
+      "utilisation fréquente de 'je ne sais pas' comme bouclier",
+      "reformulation des questions pour les rendre moins directes",
+      "accord de façade sans conviction réelle dans le ton",
+      "bavardage pour remplir le silence et éviter d'avoir à trancher",
+      "phrases inachevées qui laissent tout ouvert"
+    ],
+    "comportements": [
+      "évite les conflits même quand il est dans son droit",
+      "laisse les autres décider à sa place pour ne pas assumer les conséquences",
+      "disparaît discrètement des situations qui exigent un engagement",
+      "s'arrange pour ne pas être là quand les questions difficiles sont posées",
+      "change d'avis selon son interlocuteur pour ne décevoir personne",
+      "dénonce ou trahit de façon indirecte, sans avoir à assumer",
+      "se range systématiquement du côté du plus fort",
+      "formule des excuses préventives avant même d'avoir agi",
+      "accuse les circonstances plutôt que lui-même",
+      "attend de savoir comment les choses tournent avant de choisir un camp",
+      "fait des demi-promesses qu'il n'a pas l'intention de tenir"
+    ],
+    "masquesPossibles": [
+      "prudence raisonnée — présente sa fuite comme de la sagesse",
+      "humilité feinte — 'je ne suis pas la bonne personne pour ça'",
+      "altruisme de façade — 'je ne veux pas que ça retombe sur les autres'",
+      "pragmatisme cynique — 'de toute façon, ça ne servira à rien'",
+      "conformisme apparent — suit la foule pour ne jamais avoir à se distinguer"
+    ],
+    "manifestationsPositives": [
+      "peut parfois éviter des conflits inutiles par son refus d'escalader",
+      "sa prudence peut le préserver dans des situations réellement dangereuses",
+      "peut reconnaître ses propres limites avec une certaine lucidité",
+      "sa capacité à se fondre dans le groupe peut être utile dans certains contextes",
+      "peut développer une grande habileté à naviguer les situations ambiguës"
+    ],
+    "manifestationsNegatives": [
+      "laisse souffrir ceux qu'il pourrait aider par peur du risque",
+      "sa passivité peut rendre possible des injustices",
+      "perd le respect de ses proches à mesure que les renoncements s'accumulent",
+      "se construit une image de lui-même fausse pour ne pas affronter sa lâcheté",
+      "peut devenir complice de ce qu'il condamne en restant silencieux",
+      "finit par se mépriser sans le nommer, ce qui nourrit une honte chronique"
+    ],
+    "blessuresPossibles": [
+      "a été gravement puni pour s'être opposé — à un parent, une figure d'autorité",
+      "a agi une fois et les conséquences ont été désastreuses pour lui",
+      "a été abandonné quand il avait besoin d'aide, et en a conclu qu'il ne pouvait compter que sur sa survie",
+      "a grandi dans un environnement où l'effacement était la seule stratégie viable"
+    ],
+    "evolutionsPossibles": [
+      "peut être confronté à une situation où le coût de l'inaction dépasse enfin le coût du risque",
+      "peut trouver quelqu'un pour qui il est prêt à vaincre sa peur — un enfant, un être aimé",
+      "peut s'enfoncer dans le déni et construire toute une vie de justifications",
+      "peut atteindre un moment de rupture où la honte de lui-même devient insupportable",
+      "peut évoluer lentement si des succès mineurs lui prouvent que l'action n'est pas mortelle"
+    ],
+    "notesEditoriales": [
+      "La lâcheté est plus intéressante quand elle n'est pas stupide : un personnage lâche peut être très intelligent, très conscient de ce qu'il fait, et s'en haïr sans changer.",
+      "Distinguer lâcheté et peur : la peur est universelle, la lâcheté est le choix récurrent de la fuir. Un personnage peut avoir peur et ne pas être lâche.",
+      "Éviter le personnage lâche unidimensionnel : montrer ce qu'il protège en fuyant — sa famille, ses illusions, sa survie — lui donne de l'épaisseur."
+    ]
+  },
+  {
+    "id": "loyal",
+    "label": "Loyal",
+    "polarite": "positif",
+    "famille": "loyaute-fidelite",
+    "definitionCourte": "Attachement profond et durable à une personne, un groupe ou un idéal, qui résiste à l'adversité, à la tentation et au temps. La loyauté n'est pas de la soumission — c'est un choix renouvelé, même quand il coûte.",
+    "signesPhysiques": [
+      "regard franc et maintenu même quand la conversation est difficile",
+      "présence physique constante aux côtés de celui auquel il est attaché",
+      "posture tournée vers l'autre, signalant l'attention",
+      "gestes d'ancrage — main sur l'épaule, contact bref mais réel",
+      "pas qui ne cèdent pas sous la pression collective",
+      "expression qui ne se décompose pas quand on parle mal de quelqu'un qu'il protège",
+      "mâchoire qui se serre quand la loyauté est mise à l'épreuve",
+      "corps qui ne pivote pas vers la sortie même dans les moments difficiles",
+      "mains stables et ouvertes — pas de contraction défensive",
+      "silence qui tient, sans nervosité, sans fuite du regard"
+    ],
+    "sensationsInternes": [
+      "chaleur stable dans la poitrine à la pensée de celui auquel il est attaché",
+      "résistance intérieure — comme une ancre — quand on lui propose de trahir",
+      "douleur sourde quand la loyauté lui coûte quelque chose",
+      "sentiment de cohérence avec lui-même quand il reste fidèle",
+      "inconfort aigu face aux compromis qui touchent à ses engagements",
+      "fatigue possible quand la loyauté est longtemps à sens unique",
+      "fierté discrète, non affichée, de tenir ses promesses",
+      "culpabilité immédiate, même pour une pensée de trahison"
+    ],
+    "pensees": [
+      "Il compte sur moi. Je ne peux pas le laisser tomber maintenant.",
+      "Peu importe ce que disent les autres — je sais ce que je sais.",
+      "On ne se retourne pas contre quelqu'un simplement parce que c'est difficile.",
+      "Si je l'abandonne maintenant, qui serai-je ?",
+      "La loyauté n'est pas une question de circonstances — c'est une question de caractère.",
+      "J'ai donné ma parole. Ma parole vaut quelque chose.",
+      "Je n'ai pas à être d'accord avec lui pour rester à ses côtés.",
+      "Les autres sont partis. Raison de plus pour rester.",
+      "Ce n'est pas parce que c'est difficile que c'est juste de partir."
+    ],
+    "effetsVoixLangage": [
+      "défend l'absent — corrige calmement les rumeurs ou les attaques",
+      "ne se laisse pas emporter par les consensus hostiles",
+      "parle de ceux à qui il est attaché avec une chaleur sobre, non exagérée",
+      "ton ferme et posé quand sa loyauté est questionnée",
+      "dit 'on' plus souvent que 'je' quand il s'agit de projets partagés",
+      "silence protecteur — ne répète pas ce qu'on lui confie",
+      "formule ses désaccords directement à l'intéressé, pas à des tiers"
+    ],
+    "comportements": [
+      "reste aux côtés de quelqu'un même quand la situation se retourne contre lui",
+      "défend ceux qui ne sont pas là pour se défendre eux-mêmes",
+      "tient ses engagements même quand personne ne le surveille",
+      "ne profite pas des faiblesses de ceux à qui il est lié",
+      "partage les mauvais moments autant que les bons",
+      "dit la vérité difficile à son cercle plutôt que de les laisser dans l'illusion",
+      "n'abandonne pas sous la pression sociale si sa conviction tient",
+      "refuse de participer à des conversations qui trahissent la confiance reçue",
+      "revient après les conflits plutôt que de couper les ponts",
+      "accomplit ses promesses sans avoir besoin d'être rappelé",
+      "met sa réputation en jeu si nécessaire pour protéger quelqu'un"
+    ],
+    "masquesPossibles": [
+      "obéissance — peut confondre loyauté et soumission à une figure d'autorité",
+      "sacrifice ostentatoire — affiche sa loyauté pour en tirer une reconnaissance",
+      "rigidité morale — utilise la loyauté comme refus de questionner ce qui mérite de l'être",
+      "dépendance — la loyauté peut masquer une incapacité à fonctionner sans l'autre",
+      "biais affectif — défend inconditionnellement même face à l'évidence de la faute"
+    ],
+    "manifestationsPositives": [
+      "crée un sentiment de sécurité durable chez ceux qui lui font confiance",
+      "sa parole a du poids parce qu'on sait qu'il la tient",
+      "capable de sacrifices réels quand c'est nécessaire",
+      "reste une constante dans des situations de chaos ou de trahison",
+      "son attachement renforce les autres dans leurs propres moments de doute",
+      "sait garder un secret avec une fiabilité absolue"
+    ],
+    "manifestationsNegatives": [
+      "peut rester loyal à quelqu'un qui ne le mérite plus et en souffrir",
+      "peut devenir aveugle aux défauts de ceux auxquels il est attaché",
+      "peut être exploité par des personnages moins scrupuleux",
+      "peut sacrifier ses propres besoins au point de s'effacer complètement",
+      "peut entrer en conflit violent avec toute remise en cause de ses allégeances"
+    ],
+    "blessuresPossibles": [
+      "a été abandonné dans un moment critique et a décidé de ne jamais faire subir ça à quelqu'un",
+      "a grandi dans un environnement où la parole donnée était sacrée — et la trahison catastrophique",
+      "a lui-même trahi quelqu'un une fois et en a été si profondément marqué qu'il s'est juré de ne plus recommencer"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à distinguer loyauté lucide et loyauté aveugle",
+      "peut être brisé si celui à qui il est loyal le trahit à son tour",
+      "peut grandir vers une loyauté à des principes plutôt qu'à des personnes",
+      "peut s'épuiser si sa loyauté est constamment à sens unique sans reconnaissance",
+      "peut devenir plus sélectif et plus fort une fois qu'il a appris à qui il choisit de s'attacher"
+    ],
+    "notesEditoriales": [
+      "La loyauté est plus intéressante quand elle est mise à l'épreuve : un personnage qui n'a jamais eu à choisir entre deux allégeances n'a pas encore vraiment montré sa loyauté.",
+      "Distinguer loyauté à une personne et loyauté à un idéal — les deux peuvent entrer en conflit et créer une scène de choix dramatiquement puissante.",
+      "Éviter de faire de la loyauté une qualité sans coût : montrer ce qu'elle coûte au personnage est ce qui la rend réelle."
+    ]
+  },
+  {
+    "id": "traitre",
+    "label": "Traître",
+    "polarite": "negatif",
+    "famille": "trahison-deloyaute",
+    "definitionCourte": "Personnage qui trahit la confiance, la fidélité ou l'alliance de ceux qui lui faisaient confiance, le plus souvent pour préserver ses propres intérêts. La trahison peut être froide et calculée ou le fruit d'une faiblesse du moment — les deux sont dévastatrices.",
+    "signesPhysiques": [
+      "regard qui ne se fixe jamais longtemps sur celui qu'il va trahir",
+      "sourire un peu trop ajusté, un peu trop constant",
+      "gestes d'attention légèrement exagérés — compense ce qu'il prépare",
+      "microexpressions de mépris ou d'impatience vite masquées",
+      "posture d'ouverture calculée — signaux d'alliance affichés mais pas ressentis",
+      "mains qui s'occupent — évite l'immobilité qui trahirait la tension",
+      "clignements plus fréquents dans les moments où il ment",
+      "corps légèrement tourné de trois quarts — jamais tout à fait face",
+      "ton de voix qui ne varie pas — trop contrôlé pour être naturel",
+      "regard qui évalue plus qu'il ne se livre",
+      "tension dans la mâchoire dissimulée par un sourire"
+    ],
+    "sensationsInternes": [
+      "froideur calculatrice qui s'installe quand il prend la décision de trahir",
+      "soulagement étrange une fois la décision prise — la culpabilité disparaît dans l'action",
+      "vigilance permanente — surveille les réactions de l'autre sans le montrer",
+      "légère nausée possible dans les premiers instants, vite maîtrisée",
+      "sentiment de supériorité face à la naïveté de celui qu'il trahit",
+      "excitation discrète dans les phases de manipulation",
+      "culpabilité résiduelle possible longtemps après, souvent la nuit",
+      "sentiment de solitude profonde que la trahison ne résout pas"
+    ],
+    "pensees": [
+      "Ce n'est pas personnel. C'est la seule option raisonnable.",
+      "Il aurait fait pareil à ma place. Tout le monde le ferait.",
+      "Je survivrai à ça. Lui aussi, probablement.",
+      "Il est naïf de m'avoir fait confiance. Ce n'est pas ma faute.",
+      "Je n'ai pas le choix. Ou plutôt : je choisis moi.",
+      "Si je ne le fais pas, quelqu'un d'autre le fera.",
+      "La loyauté, c'est bien quand ça ne coûte rien.",
+      "Je rembourserai une autre fois. D'une façon ou d'une autre.",
+      "Ce qu'il ne sait pas ne lui fera pas de mal."
+    ],
+    "effetsVoixLangage": [
+      "formule ses trahisons en les présentant comme des contraintes subies",
+      "utilise souvent le passif — les responsabilités s'évaporent dans la syntaxe",
+      "mots d'amitié ou d'alliance un peu surjoués dans la période précédant la trahison",
+      "discours rationnel et structuré pour justifier l'injustifiable",
+      "évite les formulations directes — tout est enveloppé, nuancé, distancié",
+      "ton légèrement condescendant quand il croit avoir pris le dessus",
+      "silence calculé là où une réponse honnête serait attendue"
+    ],
+    "comportements": [
+      "recueille des informations utiles sous couvert d'amitié ou de confiance",
+      "maintient des liens parallèles avec des parties adverses",
+      "change d'alliance au moment où l'autre en a le plus besoin",
+      "minimise ou nie sa responsabilité dans les conséquences de sa trahison",
+      "cherche à se justifier auprès de tiers pour maintenir une image acceptable",
+      "peut trahir plusieurs fois en construisant des explications différentes à chaque fois",
+      "garde des informations compromettantes comme monnaie d'échange",
+      "utilise les confidences reçues comme levier de pouvoir",
+      "soigne son image auprès de ceux qu'il n'a pas encore trahis",
+      "peut éprouver de vraies émotions envers ceux qu'il trahit — ce qui ne l'arrête pas",
+      "reconstruit rapidement un nouveau réseau de confiance après chaque trahison"
+    ],
+    "masquesPossibles": [
+      "pragmatisme — 'j'ai fait ce qui était raisonnable dans les circonstances'",
+      "loyauté à un idéal supérieur — 'je l'ai trahi pour une cause plus grande'",
+      "victimisation — 'c'est lui qui m'a poussé à ça'",
+      "regret apparent — affiche une culpabilité qui le protège des accusations",
+      "silence — ne nie ni ne confirme, laisse l'ambiguïté travailler pour lui"
+    ],
+    "manifestationsPositives": [
+      "peut parfois trahir par survie dans des contextes de violence extrême — ce qui est compréhensible",
+      "sa lucidité sur les rapports de force peut lui donner une vraie intelligence de situation",
+      "peut reconnaître sa trahison à voix haute si le coût du déni devient trop élevé",
+      "son sens de l'intérêt peut le rendre fiable quand les intérêts convergent",
+      "peut, dans de rares cas, choisir la loyauté quand il réalise ce qu'il perd vraiment"
+    ],
+    "manifestationsNegatives": [
+      "détruit la confiance autour de lui de manière souvent irréparable",
+      "finit par s'isoler à mesure que les trahisons s'accumulent et se savent",
+      "perd progressivement la capacité de nouer des liens sincères",
+      "construit une identité fondée sur le mensonge, ce qui génère une instabilité intérieure",
+      "peut déclencher des spirales de vengeance ou de violence chez ceux qu'il a trahis"
+    ],
+    "blessuresPossibles": [
+      "a été trahi lui-même profondément et en a conclu que la loyauté était une naïveté dangereuse",
+      "a survécu grâce à une trahison et en a gardé le réflexe comme outil de survie",
+      "a grandi dans un environnement où la compétition était totale et la loyauté punissable"
+    ],
+    "evolutionsPossibles": [
+      "peut atteindre un point de bascule où le coût humain de ses trahisons devient réel pour lui",
+      "peut trouver quelqu'un qu'il est incapable de trahir — et en être déstabilisé",
+      "peut s'enfoncer dans la solitude et la paranoïa à force de ne plus croire en personne",
+      "peut choisir une rédemption mais elle doit coûter quelque chose de réel pour être crédible",
+      "peut devenir un personnage tragique s'il comprend trop tard ce qu'il a détruit"
+    ],
+    "notesEditoriales": [
+      "La trahison la plus forte narrativement n'est pas celle du méchant évident — c'est celle du personnage qu'on aimait et à qui on faisait confiance autant que le protagoniste.",
+      "Montrer les micro-justifications du traître est essentiel : aucun traître ne se vit comme un méchant — il a toujours une bonne raison.",
+      "Éviter le traître sans remords ni profondeur : même une culpabilité refoulée, même une nostalgie de ce qu'il détruit, le rend infiniment plus intéressant."
+    ]
+  },
+  {
+    "id": "perfectionniste",
+    "label": "Perfectionniste",
+    "polarite": "ambigu",
+    "famille": "controle-exigence",
+    "definitionCourte": "Exigence de standards très élevés, souvent inaccessibles, appliqués à soi-même et parfois aux autres. Le perfectionnisme peut être un moteur d'excellence ou une prison silencieuse selon la façon dont il est vécu.",
+    "signesPhysiques": [
+      "retouche ses gestes, ses mots, ses objets — ajustements répétés",
+      "regard qui revient sur ce qui vient d'être fait pour en vérifier la qualité",
+      "tension dans les épaules, surtout quand quelque chose ne va pas comme prévu",
+      "froncement discret des sourcils face à l'imperfection",
+      "posture rigide dans les moments de travail, relâchée dans l'évitement",
+      "manipulation soigneuse des objets — les repose exactement là où ils étaient",
+      "mouvement de recul visible face à un rendu qui ne satisfait pas",
+      "grimace brève, vite contrôlée, quand quelqu'un fait quelque chose de travers",
+      "bras croisés ou mains jointes dans les moments d'insatisfaction contenue",
+      "relecture, révision, recommencement — le geste de repartir de zéro",
+      "souffle qui bloque légèrement quand quelque chose lui échappe"
+    ],
+    "sensationsInternes": [
+      "inconfort physique face à l'erreur — comme un faux pas qu'on ne peut pas ignorer",
+      "satisfaction rare et fugace quand quelque chose atteint enfin le standard",
+      "anxiété diffuse liée à la crainte que quelque chose ne soit pas à la hauteur",
+      "tension chronique dans la nuque et les épaules",
+      "soulagement partiel après la correction — mais l'œil cherche déjà le suivant",
+      "honte rapide et disproportionnée à l'erreur",
+      "énergie qui monte dans les phases de travail intense, puis effondrement soudain",
+      "sentiment de ne jamais être vraiment fini, jamais vraiment arrivé"
+    ],
+    "pensees": [
+      "Ce n'est pas encore tout à fait juste. Je peux faire mieux.",
+      "Si je rends ça maintenant, ils vont voir que ce n'est pas parfait.",
+      "Je sais exactement ce qui cloche. Je ne peux pas faire semblant de ne pas le voir.",
+      "Les autres se contentent de suffisant. Pas moi.",
+      "Si je fais quelque chose, autant le faire bien.",
+      "Ce détail que personne d'autre ne voit — moi, je le vois.",
+      "Je vais juste corriger ça, et après je m'arrête.",
+      "La médiocrité, c'est une façon de se respecter à moitié.",
+      "Pourquoi est-ce que personne ne comprend que c'est important ?"
+    ],
+    "effetsVoixLangage": [
+      "corrige les autres ou lui-même à mi-phrase",
+      "précisions nombreuses et non sollicitées",
+      "formule des objections dès qu'une approximation est admise",
+      "difficulté à dire 'c'est bien' sans ajouter 'mais'",
+      "ton légèrement tendu quand un standard est ignoré",
+      "parle lentement pour choisir ses mots avec exactitude",
+      "répète ou reformule si l'expression ne lui semblait pas assez juste"
+    ],
+    "comportements": [
+      "recommence des tâches terminées si elles ne le satisfont pas",
+      "procrastine parfois parce que commencer imparfait est insupportable",
+      "s'attarde sur des détails que personne d'autre ne remarquerait",
+      "délègue difficilement parce que personne ne fait aussi bien",
+      "arrive en avance, prépare plus que nécessaire, anticipe chaque faille",
+      "corrige le travail des autres sans toujours le signaler",
+      "se critique sévèrement après des performances que d'autres jugeraient excellentes",
+      "peut bloquer un projet entier pour un détail non résolu",
+      "range, organise, classe avec un soin qui dépasse la nécessité fonctionnelle",
+      "compare régulièrement son travail à un idéal plutôt qu'à un résultat concret",
+      "a du mal à célébrer les réussites — pense déjà à ce qui aurait pu être mieux"
+    ],
+    "masquesPossibles": [
+      "humilité feinte — 'ce n'est pas encore assez bien' comme protection contre la critique",
+      "exigence altruiste — 'je fais ça pour le bien du groupe ou du résultat'",
+      "procrastination — évite de commencer pour éviter d'échouer le standard",
+      "contrôle bienveillant — impose ses standards aux autres en le présentant comme de l'aide",
+      "excellence sincère — difficile de distinguer de dehors une passion réelle et une peur de l'erreur"
+    ],
+    "manifestationsPositives": [
+      "produit un travail d'une qualité souvent supérieure à la moyenne",
+      "remarque ce que les autres manquent — un atout dans les métiers de détail",
+      "ne se laisse pas aller à la facilité ou au minimum syndical",
+      "sa fiabilité sur la qualité est reconnue et valorisée",
+      "peut tirer le meilleur de lui-même dans des contextes qui récompensent l'excellence",
+      "sa rigueur peut protéger les autres d'erreurs coûteuses"
+    ],
+    "manifestationsNegatives": [
+      "peut s'épuiser à tenir des standards que personne d'autre n'exige de lui",
+      "bloque sur des détails au détriment de l'ensemble",
+      "peut décourager les autres par des exigences perçues comme impossibles",
+      "sa satisfaction est rare et de courte durée — toujours repoussée à la prochaine correction",
+      "peut se montrer dur, voire blessant, avec ceux qui ne partagent pas ses standards",
+      "risque de ne jamais terminer ce qu'il commence — le parfait est l'ennemi du livrable"
+    ],
+    "blessuresPossibles": [
+      "a grandi avec une figure parentale dont l'approbation était conditionnelle à la performance",
+      "a connu un échec marquant pour lequel il se tient encore responsable",
+      "a été humilié pour une erreur perçue comme évitable — et a décidé de ne plus jamais donner prise"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à distinguer excellence et perfectionnisme — l'un construit, l'autre consume",
+      "peut trouver dans la relation à autrui un espace où l'imperfection est non seulement tolérée mais aimée",
+      "peut s'effondrer si les standards deviennent impossibles à maintenir",
+      "peut évoluer vers une acceptation de la finitude qui lui apporte un soulagement réel",
+      "peut canaliser son exigence vers un domaine précis et lâcher prise sur le reste"
+    ],
+    "notesEditoriales": [
+      "Le perfectionnisme est plus riche quand on montre ce qu'il protège — souvent la peur profonde d'être jugé insuffisant en tant que personne, pas seulement comme professionnel.",
+      "Distinguer perfectionnisme et discipline : le perfectionniste ne s'arrête pas quand c'est bon, il s'arrête quand l'inconfort devient insupportable ou quand le temps expire.",
+      "Cliché à éviter : le perfectionniste qui a toujours raison. Le plus intéressant narrativement, c'est quand son perfectionnisme lui fait manquer quelque chose d'essentiel."
+    ]
+  },
+  {
+    "id": "cynique",
+    "label": "Cynique",
+    "polarite": "ambigu",
+    "famille": "desillusion-distanciation",
+    "definitionCourte": "Posture intellectuelle et émotionnelle qui refuse les illusions, les idéaux et les discours trop lisses. Le cynisme peut être une forme de lucidité durement gagnée ou une armure contre la douleur de croire à nouveau.",
+    "signesPhysiques": [
+      "coin de la bouche légèrement relevé — le sourire en biais, entre ironie et mépris",
+      "regard qui évalue avant de s'engager",
+      "posture détendue à l'excès — distance affichée, désinvolture de surface",
+      "sourcil levé face aux affirmations trop enthousiastes",
+      "bras croisés ou mains dans les poches — disponible mais pas ouvert",
+      "léger mouvement de tête en arrière face à quelque chose qu'il juge naïf",
+      "soupir bref, parfois audible, qui précède une réponse",
+      "regard qui glisse sur les enthousiastes comme sur quelque chose de connu",
+      "rire court et sec qui n'est pas tout à fait un vrai rire",
+      "posture d'appui — s'adosse, s'assoit de travers, marque l'informalité comme une distance",
+      "microexpression de fatigue face aux discours d'espoir non nuancés"
+    ],
+    "sensationsInternes": [
+      "satisfaction étrange à voir confirmées ses pires anticipations",
+      "inconfort réel face à quelque chose qui le touche malgré lui",
+      "légèreté défensive quand il parvient à ne pas être ému",
+      "tension subtile quand quelqu'un ou quelque chose menace de le convaincre",
+      "lassitude de fond — être cynique est épuisant mais il ne sait plus comment ne pas l'être",
+      "nostalgie intermittente d'avoir cru sans calcul",
+      "soulagement quand l'ironie lui permet de ne pas avoir à répondre sincèrement",
+      "culpabilité possible face à quelqu'un de sincère qu'il a blessé avec son cynisme"
+    ],
+    "pensees": [
+      "Je l'avais dit. Je le savais.",
+      "Les gens croient ce qu'ils veulent croire. Moi j'ai arrêté.",
+      "Chaque discours altruiste cache un intérêt. Il suffit de chercher.",
+      "L'optimisme, c'est de la naïveté qu'on n'a pas encore payée.",
+      "Je ne suis pas cynique. Je suis réaliste. C'est inconfortable pour les autres.",
+      "Si ça me touchait encore, je ne pourrais plus fonctionner.",
+      "La différence entre un idéaliste et moi ? Quelques années de plus.",
+      "Je préfère avoir tort en espérant peu qu'avoir raison en espérant trop.",
+      "Ils verront bien. On voit toujours."
+    ],
+    "effetsVoixLangage": [
+      "ironie comme outil premier — presque un réflexe",
+      "formulations qui relativisent ou désamorcent sans qu'on lui demande",
+      "questions rhétoriques qui pointent les failles sans les nommer",
+      "'bien sûr', 'évidemment', 'comme par hasard' — sarcasme intégré à la syntaxe",
+      "résistance aux superlatifs et aux affirmations absolues",
+      "ton qui ne monte pas dans l'enthousiasme des autres",
+      "silence éloquent face à ce qu'il ne daigne pas commenter"
+    ],
+    "comportements": [
+      "anticipe le pire et s'y prépare — parfois s'y complait",
+      "déconstruit les motivations des autres avec une précision désagréable",
+      "refuse de s'enthousiasmer publiquement par peur d'être naïf",
+      "teste les gens avant de leur accorder quoi que ce soit",
+      "peut paradoxalement agir avec générosité tout en niant ses propres bonnes intentions",
+      "protège ceux qu'il aime sans le formuler — l'affection passe par les actes, pas les mots",
+      "rechigne à rejoindre des causes collectives ou des mouvements d'adhésion",
+      "réagit avec méfiance aux discours trop beaux, aux promesses trop claires",
+      "s'isole parfois parce que sa lucidité rend la compagnie insupportable",
+      "peut blesser avec des mots qui sonnent trop vrai au mauvais moment",
+      "cherche les failles dans les systèmes, les institutions, les récits officiels"
+    ],
+    "masquesPossibles": [
+      "humour — l'ironie permet de dire des vérités blessantes sans en assumer la charge",
+      "intelligence — affiche sa lucidité comme une supériorité intellectuelle",
+      "réalisme — rebaptise sa désillusion en posture épistémologique",
+      "indifférence — feint de ne pas être touché par ce qui le touche profondément",
+      "pragmatisme — transforme la méfiance en méthode de travail acceptable"
+    ],
+    "manifestationsPositives": [
+      "peut voir ce que l'enthousiasme collectif masque — un atout dans les situations de manipulation",
+      "sa prudence le protège des escrocs, des idéologues et des faux amis",
+      "peut formuler des vérités que d'autres refusent d'entendre",
+      "son ironie peut désamorcer les situations de tension collective",
+      "quand il s'engage malgré tout, c'est avec une profondeur que l'enthousiasme seul n'atteint pas"
+    ],
+    "manifestationsNegatives": [
+      "peut empoisonner l'enthousiasme de ceux qui l'entourent",
+      "se prive de la possibilité d'être surpris en bien",
+      "peut blesser avec des mots sans comprendre qu'il vise juste",
+      "se coupe progressivement des relations qui nécessitent une vraie vulnérabilité",
+      "peut passer à côté de ce qui méritait d'être cru"
+    ],
+    "blessuresPossibles": [
+      "a cru profondément en quelque chose ou quelqu'un — et a été trahi ou déçu de manière dévastatrice",
+      "a grandi dans un environnement où les illusions coûtaient cher et la méfiance était une compétence de survie",
+      "a été moqué pour sa naïveté passée et a décidé de ne plus jamais y être exposé"
+    ],
+    "evolutionsPossibles": [
+      "peut trouver quelqu'un ou quelque chose qui résiste à son cynisme — et en être profondément ébranlé",
+      "peut atteindre une forme de sagesse où la lucidité coexiste avec l'ouverture",
+      "peut s'enfoncer dans un nihilisme de plus en plus profond si rien ne vient remettre en question sa vision",
+      "peut choisir l'engagement malgré la désillusion — le cynique qui agit quand même est un personnage puissant",
+      "peut trouver dans une relation de confiance la permission de baisser la garde"
+    ],
+    "notesEditoriales": [
+      "Le cynique le plus intéressant est celui qui cache quelque chose de tendre — montrer l'idéaliste blessé sous l'ironie est la clé narrative de ce trait.",
+      "Attention au cynique-oracle : éviter le personnage qui a toujours raison et que la narration récompense pour son cynisme — c'est une posture idéologique, pas une psychologie.",
+      "Distinguer cynisme et pessimisme : le pessimiste souffre, le cynique s'est protégé. Les deux ont des postures corporelles et des registres de langage très différents."
+    ]
+  },
+  {
+    "id": "empathique",
+    "label": "Empathique",
+    "polarite": "positif",
+    "famille": "sensibilite-relation",
+    "definitionCourte": "Capacité à percevoir et ressentir les états émotionnels des autres avec une acuité rare, parfois involontaire. L'empathie est une force relationnelle profonde qui peut aussi devenir une source d'épuisement ou de perméabilité excessive.",
+    "signesPhysiques": [
+      "regard qui cherche le visage de l'autre avant d'avoir dit un mot",
+      "corps qui s'oriente instinctivement vers celui qui souffre",
+      "microajustements posturaux qui reflètent l'état de l'interlocuteur",
+      "sourcils légèrement levés, expression ouverte et attentive",
+      "contact physique naturel — main sur le bras, geste d'approche",
+      "respiration qui se synchronise inconsciemment avec celle de l'autre",
+      "émotion visible sur le visage même quand ce n'est pas son histoire",
+      "regard humide ou gorge serrée face à la détresse d'un inconnu",
+      "posture basse, non menaçante, quand l'autre est en état de vulnérabilité",
+      "silence patient — n'interrompt pas, laisse le temps à l'autre de trouver ses mots",
+      "geste de réconfort avant même que l'autre ait formulé sa douleur"
+    ],
+    "sensationsInternes": [
+      "résonance physique face à la douleur de l'autre — ressent dans son propre corps",
+      "chaleur dans la poitrine face à quelqu'un qui se confie",
+      "fatigue émotionnelle après des interactions intenses",
+      "difficulté à 'éteindre' — continue de penser aux autres longtemps après",
+      "inconfort physique dans les environnements émotionnellement chargés",
+      "joie amplifiée face au bonheur des autres",
+      "tension quand quelqu'un souffre et qu'il ne peut rien faire",
+      "sentiment de perméabilité — comme si la frontière entre soi et l'autre était fine"
+    ],
+    "pensees": [
+      "Je le sens avant même qu'il parle. Quelque chose ne va pas.",
+      "Je ne peux pas prétendre ne pas voir ce qu'il ressent.",
+      "Sa douleur est réelle même si les autres ne la voient pas.",
+      "Je voudrais pouvoir porter ça à sa place.",
+      "Je n'arrive pas à rester neutre. J'essaie, mais je n'y arrive pas.",
+      "Comment est-ce qu'on peut continuer normalement quand on sait que quelqu'un souffre là ?",
+      "Ce que je ressens là — c'est le sien. Ce n'est pas le mien.",
+      "Peut-être que si je reste juste là, sans rien dire, ça aidera.",
+      "J'ai trop dit. J'aurais dû juste écouter."
+    ],
+    "effetsVoixLangage": [
+      "reformule ce que l'autre a dit pour montrer qu'il a compris",
+      "questions ouvertes plutôt que conseils — laisse l'autre parler",
+      "ton qui s'adoucit naturellement face à quelqu'un en difficulté",
+      "mots choisis avec soin pour ne pas aggraver ce qui est déjà fragile",
+      "silence offert comme espace, non comme jugement",
+      "voix qui peut se briser légèrement en évoquant la souffrance d'un autre",
+      "évite les formules creuses — préfère la présence à la consolation vide"
+    ],
+    "comportements": [
+      "perçoit les non-dits et les malaises que les autres manquent",
+      "ajuste sa réponse en fonction de l'état émotionnel de l'interlocuteur",
+      "peut interrompre une conversation pour s'occuper de quelqu'un en détresse",
+      "garde les confidences avec une fiabilité naturelle",
+      "peut s'épuiser à soutenir tout le monde sans jamais demander de l'aide pour lui",
+      "souffre dans les environnements conflictuels même quand il n'est pas concerné",
+      "peut avoir du mal à mettre des limites par peur de blesser l'autre",
+      "tend à minimiser sa propre souffrance par rapport à celle des autres",
+      "reste là même après les conversations difficiles — n'abandonne pas quand c'est lourd",
+      "peut absorber les humeurs de son entourage sans s'en rendre compte",
+      "cherche à comprendre avant de juger, même dans des situations qui le touchent personnellement"
+    ],
+    "masquesPossibles": [
+      "froideur — peut se couper de l'autre quand la perméabilité devient insupportable",
+      "humour — dédramatise pour prendre de la distance émotionnelle",
+      "efficacité — se concentre sur le 'que faire' pour ne pas se laisser submerger",
+      "dépersonnalisation légère — parle de lui-même à la troisième personne dans les moments de surcharge",
+      "aide compulsive — remplace le ressenti par l'action pour ne pas s'y noyer"
+    ],
+    "manifestationsPositives": [
+      "crée des relations de confiance profondes et durables",
+      "perçoit les besoins non formulés et peut y répondre",
+      "sa présence est elle-même un apaisement pour les autres",
+      "médiateur naturel dans les conflits — entend toutes les parties",
+      "sa loyauté émotionnelle est rarement remise en question",
+      "peut toucher des vérités que les autres esquivent par son écoute"
+    ],
+    "manifestationsNegatives": [
+      "peut s'épuiser à porter la souffrance des autres sans jamais la déposer",
+      "peut perdre le fil de ses propres émotions dans celles des autres",
+      "peut être manipulé par des personnages qui utilisent sa sensibilité",
+      "difficultés à prendre des décisions qui blesseront quelqu'un, même nécessaires",
+      "peut développer une anxiété sociale liée à la surcharge émotionnelle des espaces collectifs"
+    ],
+    "blessuresPossibles": [
+      "a grandi dans un environnement où il devait sentir et gérer les émotions d'un adulte avant les siennes",
+      "a perdu quelqu'un et n'a pas pu l'aider — et vit depuis avec ce sentiment d'échec",
+      "a été rejeté pour sa sensibilité et a appris à la cacher avant d'accepter qu'elle soit une force"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à différencier empathie et fusion — sentir sans se perdre",
+      "peut trouver dans ses propres limites un espace qui lui appartient",
+      "peut s'épuiser et se fermer si la surcharge n'est pas reconnue et adressée",
+      "peut devenir un personnage d'une profondeur rare s'il apprend à se soigner autant qu'il soigne",
+      "peut mal tourner si son empathie est utilisée et trahie — la fermeture qui suit est alors très dure"
+    ],
+    "notesEditoriales": [
+      "L'empathie mal gérée peut être aussi dramatiquement intéressante que ses aspects positifs — montrer le coût est aussi important que montrer la force.",
+      "Distinguer empathie et sympathie : la sympathie partage, l'empathie comprend. Un personnage empathique n'est pas nécessairement d'accord avec ce qu'il ressent chez l'autre.",
+      "Éviter le personnage empathique sans limites — il devient irréel. L'empathie a des seuils, des ruptures, des jours sans. C'est là qu'il devient intéressant."
+    ]
+  },
+  {
+    "id": "obstine",
+    "label": "Obstiné",
+    "polarite": "ambigu",
+    "famille": "volonte-rigidite",
+    "definitionCourte": "Attachement tenace à une direction, une idée ou un objectif, qui résiste aux obstacles et aux avis contraires. L'obstination peut être la colonne vertébrale d'une victoire difficile ou le moteur d'une destruction inutile.",
+    "signesPhysiques": [
+      "mâchoire serrée face à la contradiction",
+      "regard qui ne cède pas — ne dévie pas sous la pression",
+      "posture stable et peu mobile dans les moments de confrontation",
+      "tête légèrement baissée, comme un animal qui charge",
+      "bras croisés ou mains posées à plat — corps ancré, non ouvert",
+      "respiration profonde et lente dans les moments où on essaie de le faire changer d'avis",
+      "pas réguliers et inébranlables quand il avance vers quelque chose",
+      "tics de patience — tapotement discret, attente sans anxiété visible",
+      "expression qui ne change pas même face aux arguments les plus solides",
+      "geste de fermeture — repli sur lui-même quand la pression monte",
+      "reprise immédiate du fil de la conversation là où elle s'est interrompue"
+    ],
+    "sensationsInternes": [
+      "tension dans la poitrine quand quelqu'un essaie de le faire dévier",
+      "énergie qui monte plutôt que de baisser face aux obstacles",
+      "résistance intérieure quasi physique — comme un ressort comprimé",
+      "satisfaction profonde quand la persistance porte enfin ses fruits",
+      "irritation sourde face à ceux qui capitulent trop vite",
+      "sentiment que céder serait une forme de trahison envers lui-même",
+      "endurance qui étonne parfois lui-même — il dure plus qu'il ne pensait",
+      "fatigue possible mais qu'il refuse de formuler ou d'admettre"
+    ],
+    "pensees": [
+      "J'ai commencé. Je vais finir.",
+      "Ils ont dit que c'était impossible. Ce n'est pas une raison d'arrêter.",
+      "Je ne change pas d'avis sous la pression. Si l'argument est bon, peut-être.",
+      "Persister là où les autres abandonnent — c'est là que ça se joue.",
+      "Je sais que j'ai raison. Ça ne va pas vite, mais ça viendra.",
+      "Me faire changer d'avis parce que c'est difficile ? Jamais.",
+      "S'il faut recommencer, je recommence. Autant de fois qu'il le faut.",
+      "La fatigue c'est dans la tête. Je peux encore continuer.",
+      "Tout le monde est parti. Bien. Moins d'avis à gérer."
+    ],
+    "effetsVoixLangage": [
+      "revient au sujet même après qu'on lui a dit de laisser tomber",
+      "répète sa position en la reformulant différemment jusqu'à ce qu'on l'entende",
+      "ton patient et implacable dans les discussions — ne monte pas mais ne cède pas",
+      "silence utilisé comme résistance — n'acquiesce pas, ne contredit pas, attend",
+      "formulations directes — 'je continue', 'c'est ma décision', 'ce n'est pas négociable'",
+      "refuse les compromis de façade — préfère le désaccord clair",
+      "questions rares mais précises — veut comprendre pour contrer, pas pour s'ouvrir"
+    ],
+    "comportements": [
+      "continue quand tous les autres ont arrêté",
+      "recommence sans se plaindre si la première tentative échoue",
+      "refuse de modifier sa trajectoire sous la pression sociale",
+      "peut accepter de changer de méthode tout en gardant le même objectif",
+      "épuise ses adversaires par la durée plutôt que par la force",
+      "ne délègue pas ce qui lui tient vraiment à cœur",
+      "tient des positions impopulaires dans des contextes où la plupart capitulent",
+      "revient aux discussions qu'on croyait closes si elles ne sont pas résolues",
+      "supporte l'inconfort, la lenteur, le rejet sans s'effondrer",
+      "peut devenir sourd aux signaux qui lui disent que la direction est mauvaise",
+      "garde une trace de ses engagements et s'y réfère comme à des contrats avec lui-même"
+    ],
+    "masquesPossibles": [
+      "conviction — présente son refus de changer comme une force de caractère",
+      "patience — ce que d'autres voient comme de l'entêtement, il le nomme endurance",
+      "principe — transforme l'obstination en position éthique non négociable",
+      "orgueil non avoué — ne peut pas admettre qu'il a peut-être tort",
+      "peur — l'obstination peut masquer la peur de l'incertitude qu'entraînerait un changement de cap"
+    ],
+    "manifestationsPositives": [
+      "atteint des objectifs que d'autres abandonnaient trop tôt",
+      "sa ténacité peut entraîner un groupe dans la durée",
+      "tient ses engagements même quand les conditions ont changé",
+      "résiste aux pressions extérieures qui n'ont pas de légitimité",
+      "peut faire avancer des causes impopulaires par sa seule persistance",
+      "ne se laisse pas décourager par les échecs répétés — rebondit sans excès de dramatisation"
+    ],
+    "manifestationsNegatives": [
+      "peut continuer une direction ruineuse par refus d'admettre l'erreur",
+      "épuise et décourage ceux qui l'entourent",
+      "peut blesser des relations par son refus de compromis",
+      "confond parfois ténacité et aveuglement",
+      "peut rater des opportunités par fidélité à un plan devenu obsolète",
+      "risque de s'isoler si personne ne supporte plus sa rigidité"
+    ],
+    "blessuresPossibles": [
+      "a abandonné quelque chose d'important une fois et le regrette profondément",
+      "a grandi dans un environnement où céder équivalait à être dominé ou effacé",
+      "a appris que la persévérance était la seule arme disponible face à un monde peu favorable"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à distinguer ténacité productive et entêtement destructeur",
+      "peut être confronté à une défaite qui ne peut pas être surmontée par la seule persistance",
+      "peut trouver dans la confiance en quelqu'un d'autre la permission de lâcher",
+      "peut évoluer vers une détermination plus flexible — aussi puissante mais moins rigide",
+      "peut s'effondrer si sa persistance mène enfin à un échec que même lui ne peut nier"
+    ],
+    "notesEditoriales": [
+      "L'obstiné devient dramatiquement intéressant quand on voit clairement ce que son obstination lui coûte — et qu'il continue quand même.",
+      "Distinguer obstination et courage : le courageux avance malgré la peur, l'obstiné avance malgré la raison — la nuance change tout.",
+      "Éviter d'écrire l'obstiné comme un héros sans failles : montrer au moins un moment où sa rigidité blesse ou détruit quelque chose qu'il tenait à conserver."
+    ]
+  }
+]

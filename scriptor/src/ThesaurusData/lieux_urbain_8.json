@@ -1,0 +1,731 @@
+[
+  {
+    "id": "friche-urbaine",
+    "label": "Friche urbaine",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "bâtiment désaffecté aux vitres cassées ou condamnées",
+      "végétation sauvage qui reprend ses droits — ronces, herbes folles, arbustes",
+      "graffitis sur les murs, certains anciens et délavés",
+      "gravats et déchets épars sur le sol craquelé",
+      "clôture rouillée partiellement démontée",
+      "charpente métallique exposée sous un toit effondré",
+      "eau stagnante dans une dépression du sol"
+    ],
+    "bruits": [
+      "silence inattendu malgré la ville proche",
+      "vent qui siffle dans les fenêtres brisées",
+      "craquement de la charpente ou du plancher",
+      "rats ou oiseaux dans les recoins",
+      "grondement sourd de la circulation au loin"
+    ],
+    "odeurs": [
+      "renfermé et moisissure ancienne",
+      "pissat et décomposition",
+      "végétation humide et sauvage",
+      "métal rouillé et béton mouillé",
+      "cendres froides d'anciens feux"
+    ],
+    "textures": [
+      "béton fissuré sous les semelles",
+      "rouille qui tache les doigts",
+      "verre pilé qui croque",
+      "herbes hautes et humides contre les jambes"
+    ],
+    "emotionsTypiques": [
+      "fascination pour l'abandon et le temps arrêté",
+      "malaise lié à la présence possible d'inconnus",
+      "liberté étrange hors des règles ordinaires",
+      "mélancolie face à ce qui fut autrefois vivant",
+      "danger diffus sans source identifiable"
+    ],
+    "usagesNarratifs": [
+      "lieu de rendez-vous secret ou interdit",
+      "espace de jeux d'adolescents défiant l'autorité",
+      "décor pour une scène de violence ou de fuite",
+      "symbole de ce qu'une ville abandonne et oublie"
+    ],
+    "tensionsTypiques": [
+      "personnes en situation de précarité qui squattent le lieu",
+      "trafic ou transaction cachée dans les décombres",
+      "exploration qui tourne à l'accident",
+      "découverte d'un corps ou d'un objet enfoui",
+      "promoteur immobilier qui veut effacer le lieu"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Adolescent explorateur",
+        "description": "Voit un terrain de jeu et un lieu d'appartenance. Chaque recoin est une conquête. Le danger l'attire autant qu'il l'inquiète."
+      },
+      {
+        "profil": "SDF qui y dort",
+        "description": "Connaît les recoins sûrs et les zones dangereuses. A domestiqué l'espace à sa façon. La friche est son logement précaire mais le sien."
+      },
+      {
+        "profil": "Enquêteur ou journaliste",
+        "description": "Cherche des preuves, des témoins, des traces. Progresse prudemment. Voit le lieu comme un récit figé à déchiffrer."
+      }
+    ],
+    "notesEditoriales": [
+      "La friche urbaine est un espace hors-norme — il libère des règles de la ville et permet des scènes impossibles ailleurs.",
+      "La végétation reconquérante est un détail fort : elle dit que le temps passe même quand les hommes partent.",
+      "Attention au cliché du lieu uniquement glauque — une friche peut aussi être belle."
+    ]
+  },
+  {
+    "id": "terrain-vague-urbain",
+    "label": "Terrain vague urbain",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "sol nu, terreux ou caillouteux, sans végétation entretenue",
+      "déchets légers emportés par le vent — sacs plastiques, papiers",
+      "poteaux ou plots délimitant l'espace sans l'enclore vraiment",
+      "traces de passage — sentiers piétinés entre deux points",
+      "vue dégagée sur les immeubles environnants",
+      "panneau d'affichage illicite ou projet d'aménagement annoncé",
+      "pylône électrique ou gaine de câble au sol"
+    ],
+    "bruits": [
+      "vent sans obstacle — plus fort qu'ailleurs",
+      "bruits de la ville en écho sans absorption",
+      "cris d'enfants si des jeux improvisés s'y déroulent",
+      "circulation proche mais sans écran végétal"
+    ],
+    "odeurs": [
+      "poussière sèche en été",
+      "boue froide en hiver",
+      "déchets légers décomposés",
+      "gaz d'échappement sans filtre végétal"
+    ],
+    "textures": [
+      "terre battue dure ou meuble selon la saison",
+      "gravier sous les semelles",
+      "herbe sèche qui craque",
+      "sac plastique qui colle au pied"
+    ],
+    "emotionsTypiques": [
+      "sentiment de vide et d'entre-deux",
+      "espace de transit sans appartenance",
+      "appropriation informelle par les habitants",
+      "attente de ce que le lieu deviendra",
+      "liberté provisoire avant la construction"
+    ],
+    "usagesNarratifs": [
+      "espace de jeux informels ou de rituels adolescents",
+      "lieu de rendez-vous discret en plein air",
+      "décor de scène d'affrontement ou de fuite à ciel ouvert",
+      "symbole de l'espace en suspens dans une ville en mutation"
+    ],
+    "tensionsTypiques": [
+      "conflit entre usagers du terrain et propriétaire",
+      "annonce d'un projet qui va chasser les habitants",
+      "violence qui peut éclater sans témoins",
+      "enfant ou animal disparu dans cet espace sans repères"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Enfant du quartier",
+        "description": "C'est son terrain de foot, son champ de bataille, son espace à lui. Il le connaît mieux que les adultes. Sa disparition serait une perte réelle."
+      },
+      {
+        "profil": "Promoteur",
+        "description": "Voit uniquement le projet à venir. Le terrain existant n'est qu'un obstacle transitoire. Les usages actuels lui sont invisibles."
+      },
+      {
+        "profil": "Habitant de longue date",
+        "description": "Se souvient de ce qu'il y avait avant. Ce terrain vague est une cicatrice dans sa mémoire du quartier. Il regarde avec une nostalgie amère."
+      }
+    ],
+    "notesEditoriales": [
+      "Le terrain vague est un espace de l'entre-deux — entre deux projets, deux usages, deux récits.",
+      "Puissant pour représenter la gentrification et le conflit de territoire.",
+      "Sa pauvreté apparente cache une richesse d'usages informels à exploiter."
+    ]
+  },
+  {
+    "id": "sous-sol-immeuble",
+    "label": "Sous-sol d'immeuble",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "couloir bas de plafond avec ampoule nue à déclenchement",
+      "caves numérotées avec portes en bois ou grillage",
+      "vélos attachés dans un coin, certains rouillés",
+      "poussette pliée abandonnée depuis des années",
+      "compteurs d'eau et d'électricité alignés",
+      "caisse de déménagement restée là pour toujours",
+      "sol en béton brut avec traînées d'humidité"
+    ],
+    "bruits": [
+      "silence pesant coupé de grondements des canalisations",
+      "bruit sourd de l'ascenseur au-dessus",
+      "écho des pas sur le béton",
+      "craquement de la porte de cave",
+      "gouttelettes d'eau dans un coin"
+    ],
+    "odeurs": [
+      "moisissure et humidité ancienne",
+      "renfermé de choses entassées depuis des décennies",
+      "carton mouillé et tissu poussiéreux",
+      "légère odeur de mazout ou de fuel si chaudière présente"
+    ],
+    "textures": [
+      "mur humide et froid au toucher",
+      "poignée de cave froide et rouillée",
+      "sol légèrement glissant",
+      "carton qui s'effondre sous les doigts"
+    ],
+    "emotionsTypiques": [
+      "malaise instinctif lié à l'enfermement",
+      "peur du noir et de l'isolement",
+      "sentiment d'être hors du monde habité",
+      "claustrophobie diffuse",
+      "curiosité mêlée d'appréhension"
+    ],
+    "usagesNarratifs": [
+      "lieu de cachette idéal — personne ne descend sans raison",
+      "espace pour enterrer un secret ou récupérer quelque chose",
+      "décor pour une scène de tension ou d'enfermement",
+      "symbole de ce qui est caché sous la vie ordinaire"
+    ],
+    "tensionsTypiques": [
+      "lumière automatique qui s'éteint au mauvais moment",
+      "présence inattendue dans les caves",
+      "porte verrouillée de l'intérieur ou bloquée",
+      "découverte dans une cave — objet, corps, secret",
+      "dispute entre voisins pour l'accès ou le contenu"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant qui descend rarement",
+        "description": "Mal à l'aise, va vite. La lumière automatique l'angoisse. Il attrape ce qu'il est venu chercher sans regarder autour de lui."
+      },
+      {
+        "profil": "Enfant qui explore en secret",
+        "description": "Mélange de terreur et de fascination. Chaque cave est une histoire possible. Il n'irait pas seul mais avec un autre, c'est une aventure."
+      },
+      {
+        "profil": "Gardien d'immeuble",
+        "description": "Connaît tous les sous-sols. Sait quels locataires stockent quoi. Le sous-sol est son territoire de travail — il y est à l'aise là où les autres sont mal."
+      }
+    ],
+    "notesEditoriales": [
+      "Le sous-sol d'immeuble est un des espaces les plus archétypaux de la peur urbaine — à utiliser avec précision.",
+      "L'ampoule à déclenchement est un détail cinématographique fort : tension garantie.",
+      "Lieu idéal pour les scènes qui jouent sur le secret et la dissimulation."
+    ]
+  },
+  {
+    "id": "toit-immeuble-urbain",
+    "label": "Toit d'immeuble urbain",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-thermique",
+    "elements": [
+      "machinerie de l'ascenseur en volume central",
+      "conduits de ventilation qui dépassent du toit plat",
+      "antennes et paraboles orientées vers le ciel",
+      "ligne de fuite des toits voisins à perte de vue",
+      "bitume chaud et craquelé en été",
+      "garde-corps bas ou inexistant côté rue",
+      "vue sur la ville — toits, cours intérieures, ciel"
+    ],
+    "bruits": [
+      "vent continu sans obstacle",
+      "bruit de la ville amplifié puis atténué par les courants d'air",
+      "ronronnement des machineries de ventilation",
+      "sirènes qui montent depuis la rue",
+      "oiseaux qui passent à hauteur du regard"
+    ],
+    "odeurs": [
+      "air plus libre qu'en bas, moins chargé",
+      "bitume chaud en été",
+      "pluie récente sur les surfaces plates",
+      "fumée des cheminées voisines en hiver"
+    ],
+    "textures": [
+      "bitume rugueux et chaud sous les mains",
+      "métal rouillé des garde-corps",
+      "gravier de toiture sous les semelles",
+      "vent qui plaque les vêtements contre le corps"
+    ],
+    "emotionsTypiques": [
+      "vertige mêlé d'ivresse de domination",
+      "sentiment de solitude choisie et de hauteur",
+      "liberté paradoxale au sommet de l'enfermement urbain",
+      "appréhension de la chute et de l'exposition",
+      "clarté mentale inattendue loin du bruit"
+    ],
+    "usagesNarratifs": [
+      "espace pour une scène de rupture ou de révélation sous le ciel",
+      "lieu de refuge pour un personnage qui fuit sans partir",
+      "décor pour une confrontation sans témoin",
+      "symbole de la fuite vers le haut quand le bas est invivable"
+    ],
+    "tensionsTypiques": [
+      "présence inattendue sur un toit réputé inaccessible",
+      "moment de basculement — suicidaire ou symbolique",
+      "fuite poursuivie sur les toits",
+      "secret partagé dans cet espace hors du monde normal",
+      "orage qui surprend sur le toit plat"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage en crise",
+        "description": "Vient ici parce qu'il ne peut aller nulle part ailleurs. Le vide en contrebas est une présence. L'air lui fait du bien autant qu'il lui fait peur."
+      },
+      {
+        "profil": "Adolescent qui s'y retrouve avec des amis",
+        "description": "Le toit est leur espace à eux — interdit donc précieux. La nuit, avec la ville en dessous, c'est presque magique."
+      },
+      {
+        "profil": "Technicien qui intervient sur les équipements",
+        "description": "Voit les machineries, les conduits, les fixations. L'espace lui est fonctionnel. Il ne regarde pas la vue, il regarde les raccords."
+      }
+    ],
+    "notesEditoriales": [
+      "Le toit est un espace de liberté vertical dans une ville horizontale — fort symboliquement.",
+      "La vue sur la ville peut être utilisée comme métaphore de la perspective narrative.",
+      "Attention à la tentation du cliché du saut — à utiliser avec beaucoup de soin et de contexte."
+    ]
+  },
+  {
+    "id": "couloir-hotel-urbain",
+    "label": "Couloir d'hôtel de milieu de gamme",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "moquette à motif géométrique usée le long du passage central",
+      "portes numérotées à intervalles réguliers, identiques",
+      "éclairage légèrement jaunâtre à intervalles réguliers",
+      "chariots de femme de chambre abandonnés temporairement",
+      "plateaux de room service posés devant les portes",
+      "peinture beige ou grise uniforme du plafond au sol",
+      "issue de secours indiquée en vert à l'extrémité"
+    ],
+    "bruits": [
+      "silence ouaté absorbé par la moquette",
+      "cliquetis de serrure magnétique",
+      "télévision derrière une porte — voix indistinctes",
+      "ascenseur qui s'ouvre et se ferme",
+      "pas étouffés mais perceptibles à l'oreille tendue"
+    ],
+    "odeurs": [
+      "lessive industrielle et assouplissant synthétique",
+      "produits de nettoyage légers",
+      "nourriture froide d'un plateau oublié",
+      "air conditionné recyclé"
+    ],
+    "textures": [
+      "moquette qui amortit chaque pas",
+      "carte magnétique lisse et froide",
+      "poignée de porte en métal froid",
+      "mur légèrement granuleux au toucher"
+    ],
+    "emotionsTypiques": [
+      "anonymat volontaire ou subi",
+      "sentiment d'être hors du temps ordinaire",
+      "solitude du voyageur entre deux lieux",
+      "légère inquiétude de l'inconnu derrière chaque porte",
+      "fatigue du déplacement qui s'accumule"
+    ],
+    "usagesNarratifs": [
+      "lieu de rencontre ou d'échange secret",
+      "espace où une double vie peut se mener",
+      "décor pour une scène de traque ou de surveillance",
+      "symbole du passage et de l'entre-deux identitaire"
+    ],
+    "tensionsTypiques": [
+      "bruit suspect derrière une porte",
+      "rencontre inattendue dans le couloir",
+      "attente devant une porte sans réponse",
+      "fuite d'une chambre vers la sortie",
+      "femme de chambre qui entre au mauvais moment"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Voyageur d'affaires habitué",
+        "description": "Ne voit plus les couloirs. Chemin automatique de la chambre au lobby. L'hôtel est une extension neutre de son quotidien nomade."
+      },
+      {
+        "profil": "Personne en fuite ou en clandestinité",
+        "description": "Chaque porte est une menace possible. Il marche vite, évite le regard. L'anonymat de l'hôtel est sa seule protection."
+      },
+      {
+        "profil": "Enfant avec ses parents en vacances",
+        "description": "Voit le couloir comme un labyrinthe excitant. Toutes ces portes fermées l'intriguent. Il court là où les adultes marchent au pas."
+      }
+    ],
+    "notesEditoriales": [
+      "Le couloir d'hôtel est un des espaces les plus anonymes qui soient — ce qui en fait un espace de projection narrative fort.",
+      "La moquette à motif est un détail universellement reconnu — l'utiliser pour ancrer l'atmosphère.",
+      "Ce lieu dit toujours quelque chose sur la condition provisoire de ceux qui l'habitent."
+    ]
+  },
+  {
+    "id": "coulisses-de-scene",
+    "label": "Coulisses de scène de théâtre",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "décors appuyés contre les murs dans l'obscurité",
+      "cintres avec toiles peintes roulées ou suspendues",
+      "sol marqué de repères colorés au scotch",
+      "costumes sur portiques, chapeaux sur des perches",
+      "câbles électriques et lumières de service orangées",
+      "miroir de loge éclairé de part et d'autre d'ampoules rondes",
+      "personnel technique qui circule en silence"
+    ],
+    "bruits": [
+      "voix amplifiées de la scène qui traversent les cloisons",
+      "chuchotements tendus avant une entrée",
+      "musique ou applaudissements en fond selon la scène",
+      "bruissements de costumes",
+      "instructions du régisseur dans l'oreillette"
+    ],
+    "odeurs": [
+      "maquillage et fond de teint",
+      "poussière de décors anciens",
+      "laque pour cheveux et spray fixateur",
+      "sueur des acteurs entre deux scènes",
+      "bois et peinture des décors"
+    ],
+    "textures": [
+      "tissu épais des costumes contre la peau",
+      "maquillage gras sur le visage",
+      "sol de bois qui craque si on n'est pas attentif",
+      "câble qu'on enjambe dans la pénombre"
+    ],
+    "emotionsTypiques": [
+      "adrénaline de la représentation imminente",
+      "concentration totale avant l'entrée en scène",
+      "intimité forcée dans l'espace étroit",
+      "hiérarchie silencieuse entre techniciens et acteurs",
+      "excitation mêlée de panique de trac"
+    ],
+    "usagesNarratifs": [
+      "espace de vérité où le masque scénique se forme",
+      "lieu de confidence avant une entrée décisive",
+      "décor pour un conflit d'équipe en pleine représentation",
+      "symbole de la dualité entre face et coulisses, public et privé"
+    ],
+    "tensionsTypiques": [
+      "acteur qui disparaît avant son entrée en scène",
+      "problème technique au pire moment",
+      "confidence inattendue entre deux entrées",
+      "conflit de jeu ou de mise en scène qui éclate en coulisse",
+      "public qui approche un espace interdit"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Acteur principal",
+        "description": "Concentré à l'extrême. Répète ses textes en silence, respire, se prépare. Les coulisses sont son sas de décompression — il n'est plus lui mais pas encore son personnage."
+      },
+      {
+        "profil": "Technicien plateau",
+        "description": "Surveille les entrées, les lumières, les cintres. Les acteurs sont des corps à placer. Il est aussi concentré que les comédiens, mais dans une autre direction."
+      },
+      {
+        "profil": "Visiteur des coulisses",
+        "description": "Fasciné et déstabilisé. La magie s'effondre — il voit le mécanisme. Mais une autre magie s'installe, celle du travail invisible."
+      }
+    ],
+    "notesEditoriales": [
+      "Les coulisses sont le lieu de la vérité face à la fiction de la scène — un espace de contraste puissant.",
+      "Utiliser les chuchotements et les gestes silencieux pour la tension.",
+      "Ce lieu révèle les personnages dans leur préparation — souvent plus révélateur que la scène elle-même."
+    ]
+  },
+  {
+    "id": "local-poubelles",
+    "label": "Local à poubelles d'immeuble",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "bacs de tri colorés alignés contre le mur",
+      "sol en béton ou carrelage avec traces de jus",
+      "porte métallique lourde qui grince",
+      "lumière automatique qui s'allume au mouvement",
+      "sacs débordants ou mal fermés",
+      "affiche de consignes de tri plastifiée et délavée",
+      "odeur qui déborde même porte fermée"
+    ],
+    "bruits": [
+      "bourdonnement de la ventilation",
+      "bruit de sac qu'on jette",
+      "grondement sourd du camion-benne le jour de collecte",
+      "claquement de la porte métallique"
+    ],
+    "odeurs": [
+      "déchets organiques fermentés — sucrés et lourds",
+      "plastique chaud dans les poubelles jaunes",
+      "eau de vaisselle aigre",
+      "carton mouillé des bacs à papier",
+      "désinfectant sur le sol — combat inégal"
+    ],
+    "textures": [
+      "poignée froide et légèrement collante",
+      "plastique du sac sous les doigts",
+      "sol légèrement poisseux malgré le nettoyage",
+      "métal rouillé du bac"
+    ],
+    "emotionsTypiques": [
+      "malaise instinctif et hâte d'en partir",
+      "gêne si on croise quelqu'un",
+      "honte sociale d'un espace qui révèle les habitudes",
+      "sentiment d'une tâche dégradante banalisée",
+      "indignation possible face à un mauvais tri des voisins"
+    ],
+    "usagesNarratifs": [
+      "lieu de découverte d'un objet ou d'un indice jeté",
+      "espace pour une rencontre involontaire et révélatrice",
+      "symbole de ce qu'on rejette — au sens propre et figuré",
+      "décor d'une scène d'humiliation ou de résilience"
+    ],
+    "tensionsTypiques": [
+      "document sensible retrouvé dans la poubelle",
+      "rencontre entre voisins en conflit dans cet espace neutre",
+      "chercheur de nourriture dans les bacs",
+      "indice laissé involontairement dans un sac jeté",
+      "conflit sur le tri ou l'occupation des bacs"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant pressé",
+        "description": "Jette et repart le plus vite possible. Respire par la bouche. Ce lieu n'existe que comme corvée rapide."
+      },
+      {
+        "profil": "Glaneur ou chiffonnier",
+        "description": "Cherche méthodiquement ce qui peut encore servir. Il connaît les habitudes des habitants à travers leurs déchets. Le local est une source, pas un repoussoir."
+      },
+      {
+        "profil": "Enquêteur",
+        "description": "Voit les sacs comme des archives involontaires. Ce que les gens jettent dit qui ils sont. Il fouille sans dégoût — ou en le surmontant."
+      }
+    ],
+    "notesEditoriales": [
+      "Le local à poubelles est rarement utilisé en fiction malgré sa richesse — c'est un espace de vérité sur les habitudes.",
+      "Ce lieu force l'égalité : tout le monde y passe, personne n'y est à l'aise.",
+      "Fort pour les récits où ce qu'on cache ou jette joue un rôle narratif."
+    ]
+  },
+  {
+    "id": "cave-collective-immeuble",
+    "label": "Cave collective d'immeuble",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "allée centrale avec portes de caves des deux côtés",
+      "serrures à cadenas de qualités très variables",
+      "ampoule de faible puissance ou ampoule à détection de mouvement",
+      "affaires oubliées dans les recoins communs — skis, vélos trop grands",
+      "murs de parpaings avec traînées de calcaire",
+      "plafond bas avec tuyauterie apparente",
+      "cave commune avec bric-à-brac accumulé"
+    ],
+    "bruits": [
+      "silence lourd ponctué de grincements",
+      "bruit de pas amplifié par le béton",
+      "canalisations qui gurglent",
+      "voix de la cage d'escalier filtrée par la porte"
+    ],
+    "odeurs": [
+      "humidité ancienne et persistante",
+      "bois qui pourrissait dans un coin",
+      "vieux papier journal entassé",
+      "odeur de moisissure sur les murs"
+    ],
+    "textures": [
+      "mur rugueux qui accroche les manches",
+      "serrure froide et dure",
+      "sol de terre battue ou béton brut",
+      "objet poussièreux que personne ne touche depuis des années"
+    ],
+    "emotionsTypiques": [
+      "claustrophobie possible dans l'étroitesse",
+      "curiosité pour ce que les autres gardent",
+      "sentiment de privé dans un espace collectif ambigu",
+      "malaise de l'obscurité et du silence",
+      "nostalgie des objets entassés et oubliés"
+    ],
+    "usagesNarratifs": [
+      "lieu de cachette pour des objets ou des personnes",
+      "espace qui garde la mémoire de ce qu'on n'a pas pu jeter",
+      "décor pour une scène d'exploration ou de découverte",
+      "symbole de ce qui est stocké mais jamais traité"
+    ],
+    "tensionsTypiques": [
+      "intrusion dans la cave d'un voisin",
+      "découverte de quelque chose d'inattendu dans une cave",
+      "conflit de voisinage autour du stockage illicite",
+      "quelqu'un qui se cache là",
+      "objet volé retrouvé dans une cave"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Propriétaire qui déménage",
+        "description": "Rouvre sa cave après des années. C'est un archéologie de sa propre vie. Il retrouve des objets oubliés qui font remonter des souvenirs précis."
+      },
+      {
+        "profil": "Locataire nouveau",
+        "description": "Ne sait pas bien ce qui appartient à qui. Hésite à toucher quoi que ce soit. L'espace lui est étranger et il le respecte par défaut."
+      },
+      {
+        "profil": "Enfant qui explore",
+        "description": "Fasciné par les vieilles choses. Chaque objet est une histoire possible. La pénombre est une aventure, pas un danger."
+      }
+    ],
+    "notesEditoriales": [
+      "La cave collective est différente de la cave individuelle — la limite entre privé et commun y est floue.",
+      "Riche pour les récits où la mémoire et l'oubli jouent un rôle.",
+      "La lumière à détection de mouvement est un détail fort pour la tension."
+    ]
+  },
+  {
+    "id": "cage-ascenseur-urbain",
+    "label": "Cage et cabine d'ascenseur urbain",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "cabine étroite avec miroir ou parois inox rayées",
+      "boutons de niveaux usés et gravés",
+      "sol en caoutchouc ou linoléum marqué de semelles",
+      "panneau d'affichage de l'étage courant",
+      "grille ou porte coulissante des vieux modèles",
+      "ventilation discrète en haut de cabine",
+      "alarme rouge accessible depuis l'intérieur"
+    ],
+    "bruits": [
+      "ronronnement du moteur de traction",
+      "tintement ou sonnerie à chaque étage",
+      "silence entre les étages — presque total",
+      "grincement de la grille des vieux modèles",
+      "voix filtrée de l'interphone en cas de panne"
+    ],
+    "odeurs": [
+      "renfermé d'un espace sans renouvellement d'air",
+      "parfum de la personne qui a pris l'ascenseur avant",
+      "métal et graisse de câble",
+      "désinfectant sur le sol"
+    ],
+    "textures": [
+      "inox froid au toucher",
+      "bouton qui résiste légèrement",
+      "paroi qui vibre légèrement en mouvement",
+      "sol légèrement collant en été"
+    ],
+    "emotionsTypiques": [
+      "proximité forcée et inconfortable avec des inconnus",
+      "anxiété de l'enfermement pour les claustrophobes",
+      "attente suspendue entre deux espaces",
+      "conscience aiguë des corps et des odeurs",
+      "moment de flottement identitaire entre deux étages"
+    ],
+    "usagesNarratifs": [
+      "conversation forcée dans l'espace confiné",
+      "moment de tension ou de révélation entre deux personnages",
+      "panne qui bloque et oblige une confrontation",
+      "espace symbolique de transition entre deux états"
+    ],
+    "tensionsTypiques": [
+      "panne de l'ascenseur entre deux étages",
+      "présence de quelqu'un qu'on cherchait à éviter",
+      "malaise avec un inconnu dans l'espace confiné",
+      "moment de silence forcé qui dit plus que les mots",
+      "rencontre inattendue qui change le cours d'une histoire"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Claustrophobe",
+        "description": "Chaque trajet est un effort. Il regarde les chiffres défiler, compte les secondes. Le silence lui est insupportable. Sa respiration se contrôle."
+      },
+      {
+        "profil": "Voisin en conflit",
+        "description": "Monte seul avec celui qu'il évite depuis des semaines. Le silence dure l'éternité d'un trajet de quatre étages. Chacun regarde les boutons."
+      },
+      {
+        "profil": "Enfant seul pour la première fois",
+        "description": "Appuie sur son étage avec sérieux et s'applaudit intérieurement. L'ascenseur est une petite victoire d'autonomie."
+      }
+    ],
+    "notesEditoriales": [
+      "L'ascenseur est un des espaces de proximité forcée les plus efficaces en fiction — court, inévitable, claustral.",
+      "La panne est un dispositif narratif courant mais efficace — à condition de ne pas l'utiliser comme seul prétexte.",
+      "Ce lieu est aussi un espace de transition symbolique — entre deux états émotionnels ou deux espaces narratifs."
+    ]
+  },
+  {
+    "id": "zone-industrielle-periph",
+    "label": "Zone industrielle périphérique",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "bâtiments bas à façades de tôle ou de béton sans fenêtres",
+      "parkings immenses presque vides en dehors des horaires de travail",
+      "noms d'entreprises sur des enseignes délavées",
+      "camions garés en file le long des quais de chargement",
+      "zone de stockage extérieure — bouteilles de gaz, palettes, déchets",
+      "route large et rectiligne sans trottoir ni arbre",
+      "grillages partout — autour des dépôts, des terrains vides"
+    ],
+    "bruits": [
+      "silence de désert humain hors des heures de travail",
+      "moteurs de poids lourds en ralenti ou en manœuvre",
+      "klaxons de chargement",
+      "bruit de vent sur les tôles",
+      "alarme d'entrepôt qui s'est déclenchée pour rien"
+    ],
+    "odeurs": [
+      "gasoil et huile en fond permanent",
+      "peinture et solvants selon les activités",
+      "poussière de ciment ou de métal",
+      "ordures dans les bennes à l'air libre"
+    ],
+    "textures": [
+      "asphalte craquelé et rapiécé",
+      "grillage froid et rigide",
+      "tôle ondulée qui vibre au vent",
+      "gravier de parking sous les semelles"
+    ],
+    "emotionsTypiques": [
+      "désorientation dans un espace conçu pour les marchandises, pas pour les gens",
+      "sentiment d'être hors de la ville humaine",
+      "anonymat total — on peut passer sans être vu",
+      "malaise d'un espace à l'échelle du camion, pas du corps",
+      "attente interminable dans un lieu qui n'a pas prévu de siège"
+    ],
+    "usagesNarratifs": [
+      "lieu pour une transaction illicite loin des regards",
+      "espace pour une scène de violence sans témoins",
+      "décor nocturne pour une filature ou une surveillance",
+      "symbole de la ville invisible, celle du travail physique"
+    ],
+    "tensionsTypiques": [
+      "personnage à pied dans un espace prévu pour les voitures",
+      "rendez-vous nocturne dans un endroit sans lumière",
+      "camion qui bloque une issue",
+      "gardien de nuit qui ne devrait pas être là",
+      "découverte dans un bac ou un container"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Livreur ou chauffeur",
+        "description": "Espace familier et fonctionnel. Il connaît les quais, les codes d'entrée, les gardiens. C'est son territoire de travail."
+      },
+      {
+        "profil": "Inconnu égaré",
+        "description": "Désemparé par l'absence de signalétique humaine. Tout est prévu pour les véhicules. Il se sent hors de la carte."
+      },
+      {
+        "profil": "Journaliste ou enquêteur la nuit",
+        "description": "Profite de l'absence humaine pour observer. Chaque bâtiment est une boîte noire. Il cherche ce qui se passe derrière les façades de tôle."
+      }
+    ],
+    "notesEditoriales": [
+      "La zone industrielle est un espace de la ville qui nie la présence humaine — fort pour les récits d'aliénation.",
+      "La nuit, ces espaces deviennent presque post-apocalyptiques — à exploiter.",
+      "Riche pour les récits policiers, sociaux ou de survie urbaine."
+    ]
+  }
+]

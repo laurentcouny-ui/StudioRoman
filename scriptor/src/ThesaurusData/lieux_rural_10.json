@@ -1,0 +1,562 @@
+[
+  {
+    "id": "champ-sous-la-neige",
+    "label": "Champ sous la neige",
+    "type": "rural-saison",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "surface blanche uniforme qui efface les reliefs habituels",
+      "sillons du labour invisible sous la neige",
+      "traces d'animaux — lignes parallèles de pattes",
+      "haies qui dépassent, seuls repères du paysage",
+      "ciel bas et blanc qui se confond avec le sol",
+      "couleurs réduites au blanc, au gris, au brun des arbres",
+      "lumière diffuse sans ombre — tout est également éclairé"
+    ],
+    "bruits": [
+      "silence absolu — la neige absorbe le son",
+      "craquement de la neige sous les pas",
+      "vent qui soulève la surface — poudreuse ou croûtée",
+      "corbeau au loin — contraste noir sur blanc"
+    ],
+    "odeurs": [
+      "air froid et sans odeur — la neige neutralise tout",
+      "fumée de cheminée lointaine dans l'air immobile",
+      "neige fraîche — presque sans odeur, minérale"
+    ],
+    "textures": [
+      "neige fraîche — légère et froide sous les pieds",
+      "neige croûtée — qui cède brusquement sous le poids",
+      "froid pénétrant sur les mains et le visage"
+    ],
+    "emotionsTypiques": [
+      "beauté austère qui suspend le temps",
+      "sentiment d'isolement total — le monde a disparu sous la neige",
+      "légère inquiétude si la neige continue de tomber"
+    ],
+    "usagesNarratifs": [
+      "déplacement difficile qui dramatise chaque trajet",
+      "traces qui trahissent — dans la neige, tout passage est enregistré",
+      "beauté comme état de grâce momentané pour un personnage en détresse",
+      "isolement hivernal qui force la confrontation avec soi-même"
+    ],
+    "tensionsTypiques": [
+      "traces dans la neige qui révèlent un passage",
+      "blizzard qui efface les traces et la route",
+      "gelure progressive sans qu'on le remarque"
+    ],
+    "variantesPerception": [
+      {"profil": "Agriculteur", "description": "Il voit les dégâts potentiels sur les cultures, évalue l'épaisseur, calcule si les bâtiments tiendront le poids. La beauté lui est secondaire — l'inquiétude est première."},
+      {"profil": "Enfant", "description": "La neige est une fête. Le monde est transformé pour lui seul. Il court dans la surface vierge, laisse sa trace, fait tomber la neige des branches."},
+      {"profil": "Personnage en errance", "description": "La neige efface les chemins. Il ne sait plus où est la route. Le froid ralentit sa pensée. Chaque pas demande plus d'effort que le précédent."}
+    ],
+    "notesEditoriales": [
+      "Les traces dans la neige sont un motif narratif précis — elles enregistrent le temps, disent où quelqu'un est allé, depuis combien de temps.",
+      "La lumière de la neige est particulière — plate, sans ombre, légèrement aveuglante. Elle change la qualité visuelle de toute scène qui s'y passe."
+    ]
+  },
+  {
+    "id": "prairie-au-printemps",
+    "label": "Prairie au printemps",
+    "type": "rural-saison",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "herbe tendre et courte — le vert le plus vert de l'année",
+      "fleurs des prés — boutons d'or, coucous, trèfles",
+      "bourdons et papillons en première sortie",
+      "sol détrempé par la fonte des neiges ou les pluies",
+      "poulains ou veaux nouveau-nés si élevage",
+      "arbres en bourgeons — encore translucides",
+      "oiseaux migrateurs revenus — chants inconnus en hiver"
+    ],
+    "bruits": [
+      "oiseaux en pleine effervescence — chants multiples et nouveaux",
+      "bourdons qui travaillent les premières fleurs",
+      "vent tiède — différent du vent d'hiver",
+      "eau qui coule — fonte et pluies"
+    ],
+    "odeurs": [
+      "herbe fraîche — odeur très reconnaissable",
+      "sol mouillé et chaud — humus qui se réveille",
+      "fleurs de pré — subtiles et mélangées"
+    ],
+    "textures": [
+      "herbe courte et légèrement humide sous les paumes",
+      "sol meuble qui cède sous les pieds",
+      "chaleur du soleil intermittente selon les nuages"
+    ],
+    "emotionsTypiques": [
+      "soulagement après l'hiver — quelque chose recommence",
+      "légèreté corporelle liée à la lumière qui revient",
+      "énergie nouvelle qui contraste avec la fatigue hivernale"
+    ],
+    "usagesNarratifs": [
+      "renouveau après une période sombre dans le récit",
+      "premier contact d'un personnage avec le monde après un enfermement",
+      "contraste avec un état intérieur sombre — ironie ou espoir selon",
+      "retour à la terre après un hiver long"
+    ],
+    "tensionsTypiques": [
+      "gelée tardive qui détruit les premières fleurs — retour brutal de l'hiver",
+      "sol trop détrempé pour les tracteurs — travail impossible",
+      "allergie pour certains personnages — la beauté est une souffrance"
+    ],
+    "variantesPerception": [
+      {"profil": "Agriculteur", "description": "Le printemps est le début du travail vrai. Il vérifie le sol, planifie les semis, surveille les animaux qui sortent pour la première fois. La beauté est dans le calendrier agricole."},
+      {"profil": "Personnage qui sort d'une dépression", "description": "La prairie en fleur dit quelque chose qu'il n'arrive pas encore à croire. Il préfère ne pas se fier à la saison. Mais il reste debout plus longtemps."},
+      {"profil": "Enfant", "description": "L'herbe est haute assez pour s'y cacher. Les fleurs font des bouquets. Le pré est un monde à disposition — il n'y a qu'à courir."}
+    ],
+    "notesEditoriales": [
+      "Le printemps rural est une promesse avant une certitude — la gelée tardive peut tout effacer. Cette fragilité est narrativement exploitable.",
+      "L'odeur d'herbe fraîche est l'un des déclencheurs de souvenirs les plus universels — à utiliser avec précision pour quel souvenir."
+    ]
+  },
+  {
+    "id": "foret-en-automne",
+    "label": "Forêt en automne",
+    "type": "rural-saison",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "feuilles aux couleurs orange, rouge et jaune — avant la chute",
+      "tapis de feuilles mortes au sol — épais et coloré",
+      "lumière filtrée différemment — les arbres sont moins denses",
+      "champignons en abondance — visible depuis le chemin",
+      "reflets dorés dans toutes les directions",
+      "oiseaux migrateurs en formation au-dessus de la canopée",
+      "châtaignes ou glands sous les arbres selon l'essence"
+    ],
+    "bruits": [
+      "feuilles mortes à chaque pas — bruit omniprésent et impossible à éviter",
+      "vent dans les arbres — plus traversant qu'en été",
+      "oiseaux moins nombreux — ceux qui restent se font entendre",
+      "glands ou châtaignes qui tombent — bruit ponctuel et soudain"
+    ],
+    "odeurs": [
+      "feuilles mortes — odeur de décomposition douce et agréable",
+      "champignons — terreux et fort selon l'espèce",
+      "châtaignes — sucrées et légèrement fermentées"
+    ],
+    "textures": [
+      "feuilles mortes — sèches et croustillantes ou humides et glissantes",
+      "champignon — ferme ou mou selon l'âge",
+      "châtaigne — piquante dans sa bogue"
+    ],
+    "emotionsTypiques": [
+      "mélancolie douce — beauté de ce qui finit",
+      "nostalgie des étés passés dans ce même endroit",
+      "énergie automnale — la saison est encore vivante avant l'hiver"
+    ],
+    "usagesNarratifs": [
+      "fin d'une période du récit — l'automne dit la clôture",
+      "cueillette de champignons comme activité narrative dense",
+      "errance mélancolique dans un paysage qui correspond à l'état intérieur",
+      "retour dans un lieu connu — transformé par la saison"
+    ],
+    "tensionsTypiques": [
+      "champignon vénéneux — la ressemblance avec le comestible",
+      "feuilles glissantes sur les pentes",
+      "nuit qui tombe tôt — le temps disponible se réduit"
+    ],
+    "variantesPerception": [
+      {"profil": "Cueilleur de champignons", "description": "Il lit le sous-bois différemment — il cherche les indices, les espèces, les spots qu'il garde pour lui. La beauté des feuilles est un fond. Les champignons sont le texte."},
+      {"profil": "Personnage nostalgique", "description": "L'automne lui ressemble ou le contredit. Les feuilles qui tombent disent ce qu'il ressent ou lui renvoient ce qu'il ne veut pas voir."},
+      {"profil": "Enfant qui ramasse", "description": "Les feuilles colorées sont des trésors. Il en sélectionne, en compare les rouges et les oranges, en fait un bouquet. Il rentre avec les poches pleines."}
+    ],
+    "notesEditoriales": [
+      "L'odeur des feuilles mortes humides est très précise et mémorable — à ne pas généraliser en 'ça sentait l'automne'.",
+      "La beauté de l'automne est trop facile comme fond de scène mélancolique — l'utiliser en la contrarian est souvent plus efficace."
+    ]
+  },
+  {
+    "id": "nuit-de-canicule-rurale",
+    "label": "Nuit de canicule en campagne",
+    "type": "rural-saison",
+    "dominanteSensorielle": "tactile-sonore",
+    "elements": [
+      "chaleur encore présente à minuit — la pierre a tout emmagasiné",
+      "animaux silencieux — même les grenouilles se taisent passé un seuil",
+      "ciel dégagé et étoilé — pas de nuage pour bloquer la chaleur",
+      "volets fermés depuis la journée — intérieurs étouffants",
+      "herbe sèche et jaunie — craquante sous les pieds",
+      "lumière de la lune sur des champs desséchés",
+      "aucun vent — l'air est immobile"
+    ],
+    "bruits": [
+      "grillons — plus forts qu'en journée",
+      "chien qui aboie au loin sans raison apparente",
+      "silence relatif entre les criquets — différent du silence d'hiver",
+      "bruit de quelqu'un qui ne dort pas dans la maison voisine"
+    ],
+    "odeurs": [
+      "chaleur de la pierre — odeur sèche et minérale",
+      "poussière soulevée par le manque de pluie",
+      "herbe sèche — foin avant d'être fauché"
+    ],
+    "textures": [
+      "air chaud qui ne rafraîchit pas malgré le mouvement",
+      "drap humide collé à la peau",
+      "sol encore chaud sous les pieds nus"
+    ],
+    "emotionsTypiques": [
+      "insomnie imposée par la chaleur",
+      "irritabilité de fond sans objet précis",
+      "sentiment d'attente d'un orage qui ne vient pas"
+    ],
+    "usagesNarratifs": [
+      "nuit blanche qui force la confrontation avec soi-même",
+      "sortie nocturne par nécessité — la maison est irrespirable",
+      "crise qui couve — la canicule exacerbe les tensions",
+      "moment de confluence — tout le monde est dehors en même temps"
+    ],
+    "tensionsTypiques": [
+      "personne vulnérable — vieux, bébé — qui ne supporte pas la chaleur",
+      "incendie de forêt visible au loin",
+      "animaux qui souffrent — bétail sans eau suffisante"
+    ],
+    "variantesPerception": [
+      {"profil": "Agriculteur inquiet", "description": "Il regarde le ciel depuis la cour. Pas de vent, pas de nuage. Encore une nuit sans pluie. Il calcule combien les cultures peuvent encore tenir."},
+      {"profil": "Enfant ravi", "description": "La nuit chaude est une fête. Dormir dehors est possible. Les adultes sont fatigués et moins vigilants. La liberté de la canicule."},
+      {"profil": "Insomniaque", "description": "Il sort à trois heures du matin. La chaleur dehors est la même que dedans. Il s'assoit sur le pas de la porte. La nuit est longue et sans recours."}
+    ],
+    "notesEditoriales": [
+      "La canicule rurale est différente de la canicule urbaine — la pierre et la végétation restituent la chaleur différemment. Éviter la description urbaine.",
+      "L'insomnie collective de la canicule est une situation sociale particulière — tout le monde est dehors, vulnérable, en contact sans l'avoir cherché."
+    ]
+  },
+  {
+    "id": "aube-paysanne",
+    "label": "Aube paysanne",
+    "type": "rural-saison",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "lumière grise qui précède le soleil — tout est visible mais sans couleur",
+      "rosée visible sur chaque brin d'herbe",
+      "premier oiseau — avant les autres, seul dans le silence",
+      "vapeur qui monte des champs si la nuit était froide",
+      "fenêtre éclairée dans une maison — quelqu'un est déjà levé",
+      "chemin de labour encore dans l'ombre",
+      "ciel qui vire du gris au rose à l'est"
+    ],
+    "bruits": [
+      "premier oiseau — puis les suivants, par vagues",
+      "tracteur qui démarre — le son porte loin dans l'air froid",
+      "coq — cliché mais réel dans certains villages",
+      "silence entre les sons — plus dense à l'aube qu'à tout autre moment"
+    ],
+    "odeurs": [
+      "air frais et humide — l'odeur la plus propre de la journée",
+      "rosée — eau froide et herbe fraîche",
+      "café si fenêtre ouverte dans une maison proche"
+    ],
+    "textures": [
+      "froid de l'air sur le visage — plus vif qu'on ne s'y attend en été",
+      "rosée froide sur les mains",
+      "sol froid et dur en hiver, humide en été"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'être seul debout avant le monde",
+      "énergie particulière du commencement — tout est encore possible",
+      "légère mélancolie de n'avoir pas dormi"
+    ],
+    "usagesNarratifs": [
+      "début d'une journée décisive — l'aube dit l'état intérieur du personnage",
+      "fuite avant le lever du jour — l'obscurité encore protectrice",
+      "travail agricole qui commence avant la chaleur",
+      "réveil après une nuit de crise — le monde continue"
+    ],
+    "tensionsTypiques": [
+      "l'aube qui arrive trop tôt — la nuit n'a pas suffi",
+      "rendez-vous à l'aube — quelqu'un d'autre est déjà là",
+      "nuit blanche qui se prolonge en journée épuisante"
+    ],
+    "variantesPerception": [
+      {"profil": "Agriculteur qui se lève tôt par nécessité", "description": "L'aube est l'heure de travail. Il ne la remarque pas. La lumière qui suffit à voir est suffisante."},
+      {"profil": "Insomniaque ou noctambule", "description": "Pour lui, l'aube est la fin de la nuit — pas le début du jour. La lumière qui arrive est une défaite ou un soulagement selon l'humeur."},
+      {"profil": "Personnage qui a pris une décision dans la nuit", "description": "L'aube lui donne le monde en témoin. La décision prise dans l'obscurité tient-elle à la lumière ? Il regarde le paysage pour voir s'il a changé d'avis."}
+    ],
+    "notesEditoriales": [
+      "L'aube paysanne est un lieu temporel plus qu'un lieu physique — elle transforme les espaces connus.",
+      "La progression de la lumière à l'aube — du gris au rose au blanc — est une courbe que peu de personnages se donnent le temps de voir."
+    ]
+  },
+  {
+    "id": "crepuscule-sur-champs",
+    "label": "Crépuscule sur les champs",
+    "type": "rural-saison",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "ciel rouge et orange à l'ouest — gradation vers le bleu à l'est",
+      "silhouettes des arbres noircies contre la lumière",
+      "tracteur qui rentre après une longue journée",
+      "ombres longues qui s'étirent et disparaissent",
+      "oiseaux qui se regroupent pour la nuit — murmurations ou vols en V",
+      "lampes qui s'allument dans les maisons au loin",
+      "fraîcheur qui arrive brusquement avec la perte du soleil"
+    ],
+    "bruits": [
+      "oiseaux qui s'agitent avant de se taire",
+      "cloches si village proche — l'angélus",
+      "tracteur au loin — le son dure longtemps après que la machine a disparu",
+      "silence progressif qui remplace le bruit du jour"
+    ],
+    "odeurs": [
+      "herbe fraîche qui refroidit",
+      "rosée qui commence à se déposer",
+      "fumée de bois si quelqu'un a allumé le feu"
+    ],
+    "textures": [
+      "fraîcheur soudaine après la chaleur du jour",
+      "humidité légère qui commence avec le soir",
+      "sol encore chaud mais air déjà froid"
+    ],
+    "emotionsTypiques": [
+      "nostalgie douce — le jour finit",
+      "satisfaction du travail accompli si journée de travail",
+      "légère tristesse de la beauté qui passe vite"
+    ],
+    "usagesNarratifs": [
+      "fin d'une séquence narrative — le crépuscule clôture",
+      "retour au foyer après une journée décisive",
+      "dernière image d'un lieu avant que le personnage parte",
+      "moment de contemplation forcé par la beauté du lieu"
+    ],
+    "tensionsTypiques": [
+      "nuit qui arrive avant d'avoir terminé ce qu'on avait à faire",
+      "animal ou personne attendus qui ne reviennent pas",
+      "beauté du coucher qui contraste avec une nouvelle terrible"
+    ],
+    "variantesPerception": [
+      {"profil": "Agriculteur qui rentre", "description": "Il ne regarde pas le ciel — il regarde la route, évalue ce qu'il reste à faire demain. La beauté du coucher lui passe derrière la tête sans s'arrêter."},
+      {"profil": "Personnage qui regarde pour la dernière fois", "description": "Le crépuscule sur ces champs est le dernier. Demain, il sera parti. Il regarde en sachant qu'il regarde. Ça ne ressemble à rien d'autre."},
+      {"profil": "Enfant", "description": "Le ciel est rouge — quelque chose de spectaculaire s'est passé. Il pointe du doigt. Les adultes regardent un instant, puis rentrent. Il reste encore un peu."}
+    ],
+    "notesEditoriales": [
+      "Le crépuscule est trop utilisé comme image de mélancolie — à contrebalancer par un détail concret et inattendu.",
+      "La vitesse de la disparition de la lumière au crépuscule est surprenante — en dix minutes, tout change. Cette rapidité est narrativement exploitable."
+    ]
+  },
+  {
+    "id": "brouillard-automne",
+    "label": "Brouillard d'automne en vallée",
+    "type": "rural-saison",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "nappe blanche qui remplit la vallée — les coteaux émergent",
+      "visibilité nulle à quelques mètres dans l'épaisseur",
+      "silhouettes qui surgissent à courte distance",
+      "arbres qui disparaissent au-delà d'une certaine densité",
+      "gouttes sur les vêtements sans pluie réelle",
+      "lumière diffuse et grise — aucune ombre possible",
+      "odeur particulière d'air saturé d'eau"
+    ],
+    "bruits": [
+      "sons amortis — le brouillard étouffe la propagation",
+      "bruit de pas amplifié — on entend venir sans voir",
+      "corne de brume ou klaxon si route proche",
+      "silence de fond — les animaux se taisent dans le brouillard épais"
+    ],
+    "odeurs": [
+      "air saturé d'humidité — presque sans odeur propre",
+      "végétation mouillée",
+      "terre humide sous le couvert"
+    ],
+    "textures": [
+      "humidité froide sur le visage et les cheveux",
+      "vêtements qui se mouillent progressivement sans pluie",
+      "sol glissant et froid"
+    ],
+    "emotionsTypiques": [
+      "désorientation douce — le monde familier est rendu inconnu",
+      "légère inquiétude de ne pas voir assez loin",
+      "beauté fragile et éphémère du paysage caché"
+    ],
+    "usagesNarratifs": [
+      "couverture naturelle pour un déplacement discret",
+      "désorientation — le personnage connaît le chemin mais plus ses repères",
+      "surgissement — quelque chose ou quelqu'un émerge du brouillard",
+      "temps suspendu — le brouillard isole du reste du monde"
+    ],
+    "tensionsTypiques": [
+      "conduite dans le brouillard — danger réel",
+      "rendez-vous manqué — on ne se voit pas à dix mètres",
+      "animal qui surgit de la nappe blanche"
+    ],
+    "variantesPerception": [
+      {"profil": "Habitant de la vallée", "description": "Il connaît ce brouillard. Il attend qu'il se lève — vers dix heures, le soleil l'aura dissous. Il part quand même, il connaît le chemin."},
+      {"profil": "Conducteur", "description": "Feux de brouillard allumés, vitesse réduite. L'asphalte apparaît à vingt mètres. Chaque virage est une surprise potentielle."},
+      {"profil": "Personnage qui n'est pas d'ici", "description": "Le brouillard efface le paysage sur lequel il comptait. Il perd ses repères visuels. Il s'arrête, cherche son téléphone — pas de réseau."}
+    ],
+    "notesEditoriales": [
+      "Le brouillard de vallée a une temporalité — il se lève avec le soleil. Narrativement, il crée une fenêtre limitée dans le temps.",
+      "Ce qui surgit du brouillard est toujours inattendu même si attendu — l'œil n'anticipe pas la forme qui émerge."
+    ]
+  },
+  {
+    "id": "orage-sur-la-plaine",
+    "label": "Orage sur la plaine agricole",
+    "type": "rural-saison",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "cumulonimbus qui monte au-dessus de la ligne d'horizon",
+      "lumière jaune-verte qui précède l'orage de quinze à trente minutes",
+      "ligne de pluie visible à l'horizon — rideau gris qui avance",
+      "vent qui tombe avant la pluie — chute brutale du vent",
+      "éclairs qui durent plus longtemps sur la plaine — nulle part où se cacher",
+      "pluie qui redresse et couche le blé selon l'intensité",
+      "halos de grêle sur les vitres si grêle"
+    ],
+    "bruits": [
+      "tonnerre sur la plaine — sans obstacle, il roule et dure",
+      "pluie sur les cultures — son différent selon la plante",
+      "vent qui s'arrête avant de reprendre en tempête",
+      "grêle sur le toit de tôle — assourdissant et rapide"
+    ],
+    "odeurs": [
+      "ozone avant l'orage — odeur particulière et électrique",
+      "terre qui reçoit les premières gouttes — petrichor très fort",
+      "végétation après la pluie — fraîcheur intense"
+    ],
+    "textures": [
+      "premières gouttes froides sur les bras",
+      "vent chaud puis froid dans les secondes qui précèdent",
+      "grêle qui fait mal si en plein air"
+    ],
+    "emotionsTypiques": [
+      "urgence — rentrer, protéger, terminer",
+      "fascination pour la puissance de l'orage sur le terrain découvert",
+      "anxiété des agriculteurs — une grêle peut détruire une récolte"
+    ],
+    "usagesNarratifs": [
+      "révélateur de caractère — qui se protège, qui reste dehors",
+      "métaphore d'une crise qui arrive visible mais inévitable",
+      "destruction d'une récolte — point de bascule économique",
+      "intimité forcée — deux personnages qui s'abritent ensemble"
+    ],
+    "tensionsTypiques": [
+      "grêle qui détruit une récolte en dix minutes",
+      "foudre sur la plaine — nulle part où se cacher",
+      "inondation des zones basses si pluie intense"
+    ],
+    "variantesPerception": [
+      {"profil": "Céréalier en juillet", "description": "Il regarde le nuage depuis le matin. Il calcule s'il a le temps de finir la parcelle. La grêle peut représenter des milliers d'euros perdus. Il accélère."},
+      {"profil": "Enfant", "description": "L'orage sur la plaine est le plus spectaculaire — il voit tout, loin, de tous les côtés. Il compte les secondes entre l'éclair et le tonnerre."},
+      {"profil": "Personnage surpris à l'extérieur", "description": "Il court vers la haie ou le fossé. La pluie est immédiate et totale. En deux minutes, il est trempé. Le chemin de terre est devenu boue."}
+    ],
+    "notesEditoriales": [
+      "L'orage sur la plaine est sans équivalent en forêt ou en ville — la visibilité totale de ce qui arrive donne un sentiment de fatalité différent.",
+      "L'odeur de petrichor (terre sèche qui reçoit les premières gouttes) est l'une des plus fortes et des plus mémorables — à ne pas rater."
+    ]
+  },
+  {
+    "id": "gel-matinal",
+    "label": "Gel matinal",
+    "type": "rural-saison",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "givre blanc sur chaque surface horizontale",
+      "herbe cassante sous les pieds — les brins se brisent",
+      "buée de respiration visible à l'air",
+      "sol gelé dur — les ornières de tracteur figées",
+      "flaques gelées avec leurs bulles d'air emprisonnées",
+      "toiles d'araignées blanches et visibles grâce au givre",
+      "soleil bas qui fait briller le givre en orange"
+    ],
+    "bruits": [
+      "herbe givrée qui craque sous les pas",
+      "flaque gelée qui cède — craquement et glissement",
+      "silence particulier du matin gelé — sons nets et froids",
+      "moteur qui peine à démarrer dans le froid"
+    ],
+    "odeurs": [
+      "air très froid — presque sans odeur",
+      "givre sur le métal — odeur minérale et froide",
+      "fumée de cheminée — quelqu'un a allumé le feu tôt"
+    ],
+    "textures": [
+      "givre sous les doigts — froid et humide qui fond immédiatement",
+      "sol dur comme du béton — pas de souplesse",
+      "voiture glacée — portière qui résiste, pare-brise opaque"
+    ],
+    "emotionsTypiques": [
+      "beauté fragile du monde figé",
+      "urgence pratique — dégivrer, protéger, réchauffer",
+      "humour de la situation pour celui qui l'a prévu, agacement pour l'autre"
+    ],
+    "usagesNarratifs": [
+      "début de journée difficile — tout prend plus de temps",
+      "détails qui révèlent le passage — givre conserve les traces",
+      "mort d'une plante ou d'un animal par le gel — conséquence narrative",
+      "beauté du monde gelé pour un personnage qui s'arrête de courir"
+    ],
+    "tensionsTypiques": [
+      "gelée tardive qui tue les bourgeons ou les semis",
+      "verglas sur les routes — accident",
+      "canalisation gelée — urgence domestique"
+    ],
+    "variantesPerception": [
+      {"profil": "Agriculteur", "description": "Il évalue la température, vérifie ses cultures vulnérables, met en route les systèmes antigel si présents. La beauté du givre ne l'arrête pas."},
+      {"profil": "Enfant", "description": "La flaque gelée sous les pieds, l'herbe qui craque, la buée qui sort de la bouche — c'est un matin d'aventure. Il tape les flaques pour les briser."},
+      {"profil": "Personne pressée", "description": "Le pare-brise est opaque. Il gratte, gratte, impatient. L'eau chaude qu'il a versée a craqué le verre. Il est en retard et la journée commence mal."}
+    ],
+    "notesEditoriales": [
+      "Le givre révèle des structures habituellement invisibles — toiles d'araignées, veines de feuilles, nervures. Bon détail visuel.",
+      "La différence entre givre léger et gel dur est importante narrativement — l'un est beau, l'autre est dangereux."
+    ]
+  },
+  {
+    "id": "vendanges",
+    "label": "Vendanges",
+    "type": "rural-saison",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "rangées de vignes chargées de raisins mûrs",
+      "vendangeurs pliés entre les rangs — deux mètres par deux mètres",
+      "sécateurs qui claquent sans arrêt",
+      "seaux et caisses qui s'accumulent sur le tracteur remorque",
+      "jus qui coule dans les cuves de transport",
+      "mouches et guêpes attirées par le sucre",
+      "soleil de septembre qui tape fort encore"
+    ],
+    "bruits": [
+      "sécateurs — claquement sec et répété",
+      "caisses qui s'entrechoquent sur la remorque",
+      "conversations — les vendangeurs parlent sans s'arrêter",
+      "tracteur qui avance lentement entre les rangs"
+    ],
+    "odeurs": [
+      "raisin — sucré, fermenté si grains écrasés",
+      "jus de raisin — très fort dans les cuves",
+      "chaleur de la vigne — terre, feuilles, chaleur sèche"
+    ],
+    "textures": [
+      "grappe lourde dans la main",
+      "jus de raisin collant sur les mains et les vêtements",
+      "feuille de vigne rêche"
+    ],
+    "emotionsTypiques": [
+      "solidarité du travail collectif et physique",
+      "satisfaction d'une récolte bonne après une année d'attente",
+      "épuisement physique de la posture courbée"
+    ],
+    "usagesNarratifs": [
+      "rassemblement communautaire — tout le village ou les saisonniers",
+      "travail physique collectif propice aux confidences",
+      "révélation d'un résultat — bonne ou mauvaise récolte",
+      "espace de rencontre entre monde agricole et monde extérieur"
+    ],
+    "tensionsTypiques": [
+      "mauvais temps annoncé — il faut terminer avant la pluie",
+      "conflit entre vendangeurs et propriétaire sur les conditions",
+      "raisin pourri par le botrytis — perte partielle"
+    ],
+    "variantesPerception": [
+      {"profil": "Vigneron", "description": "Il circule entre les rangs, goûte les raisins, vérifie la maturité, calcule ce qui reste à faire. La vendange est la conclusion d'une année d'anxiété."},
+      {"profil": "Vendangeur saisonnier", "description": "Il fait ça depuis dix ans. Il travaille vite et bien, connaît les propriétaires, retrouve les mêmes collègues chaque année. C'est un rituel."},
+      {"profil": "Étudiant pour la première fois", "description": "Le dos lui fait mal après une heure. Le jus colle partout. Les guêpes l'inquiètent. Il comprend d'où vient le vin d'une façon qu'aucun cours ne peut enseigner."}
+    ],
+    "notesEditoriales": [
+      "Les vendanges sont l'un des seuls moments où ville et campagne se mélangent encore réellement — les saisonniers et les étudiants changeaient le tissu social du village.",
+      "L'odeur du jus de raisin dans les cuves est très différente de l'odeur du vin — plus sauvage, plus sucrée, moins élaborée."
+    ]
+  }
+]

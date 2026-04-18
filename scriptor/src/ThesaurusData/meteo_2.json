@@ -1,0 +1,463 @@
+[
+  {
+    "id": "crachin-breton",
+    "label": "Crachin persistant",
+    "type": "pluie",
+    "definitionCourte": "Pluie fine et tenace qui ne tombe pas vraiment — elle est là, dans l'air, sur tout. Pas assez forte pour ouvrir un parapluie, pas assez légère pour l'ignorer.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "air chargé d'humidité végétale",
+        "odeur de laine mouillée",
+        "senteur de pierre gorgée d'eau"
+      ],
+      "auditifs": [
+        "silence moiré, sans pluie franche à entendre",
+        "gouttes qui tombent des feuilles longtemps après",
+        "chaussures qui font un bruit mat sur le bitume humide"
+      ],
+      "visuels": [
+        "halo gris autour des lumières",
+        "tout légèrement flou, comme sous du verre dépoli",
+        "vêtements qui ont l'air plus sombres",
+        "herbe d'un vert presque artificiel",
+        "perles d'eau sur les surfaces lisses"
+      ],
+      "tactiles": [
+        "fraîcheur diffuse qui pénètre dans le cou",
+        "cheveux qui gonflent imperceptiblement",
+        "humidité sur les joues sans sensation de pluie"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "irritabilité diffuse sans raison claire",
+      "impression que la journée ne démarrera jamais vraiment",
+      "vêtements jamais tout à fait secs",
+      "fatigue légère sans raison physique",
+      "envie de rester dedans sans vouloir vraiment y être"
+    ],
+    "emotionsTypiques": [
+      "mélancolie douce",
+      "lassitude",
+      "attente indéfinie",
+      "résignation tranquille"
+    ],
+    "usagesNarratifs": [
+      "créer une atmosphère d'entre-deux sans dramatiser",
+      "accompagner une indécision du personnage",
+      "ancrer une journée ordinaire avant un événement",
+      "exprimer le temps qui passe sans avancer",
+      "contraster avec un intérieur chaleureux"
+    ],
+    "contraste": "S'oppose à l'orage franc — ici rien n'éclate, rien ne se résout. Il amplifie les états d'âme sans les nommer.",
+    "notesEditoriales": [
+      "Le crachin est utile pour les scènes sans climax — il dit la longueur, l'attente, l'indécision.",
+      "Éviter de le rendre trop poétique : sa force est dans le prosaïque, l'inconfort banal.",
+      "Le personnage qui ne remarque pas le crachin est absent à lui-même."
+    ]
+  },
+  {
+    "id": "chaleur-lourde-orage-proche",
+    "label": "Chaleur lourde avant l'orage",
+    "type": "chaleur",
+    "definitionCourte": "Chaleur immobile, épaisse, qui précède un orage sans se résoudre. L'air ne circule plus. Tout attend.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur d'ozone lointain",
+        "poussière chaude soulevée par rien",
+        "végétation en stress hydrique",
+        "asphalt qui dégage sa chaleur accumulée"
+      ],
+      "auditifs": [
+        "silence inhabituel des oiseaux",
+        "ronronnement lointain qu'on ne sait pas nommer",
+        "feuilles immobiles",
+        "son de la propre respiration qu'on entend trop"
+      ],
+      "visuels": [
+        "ciel jaune ou verdâtre à l'horizon",
+        "lumière trop forte, sans douceur",
+        "ombres très dures",
+        "animaux qui cherchent l'ombre",
+        "poussière en suspension dans la lumière"
+      ],
+      "tactiles": [
+        "peau moite sans pouvoir transpirer vraiment",
+        "vêtements qui collent",
+        "air qui résiste à la respiration",
+        "sol chaud sous les semelles"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "irritabilité montante sans objet précis",
+      "impression d'oppression physique",
+      "difficulté à penser clairement",
+      "sentiment que quelque chose va se produire",
+      "tensions physiques qui cherchent une décharge"
+    ],
+    "emotionsTypiques": [
+      "tension",
+      "attente anxieuse",
+      "irritabilité",
+      "pressentiment"
+    ],
+    "usagesNarratifs": [
+      "annoncer une confrontation ou une révélation imminente",
+      "incarner physiquement une tension narrative",
+      "créer un inconfort qui prédispose aux décisions mauvaises",
+      "servir de contrepoint au calme apparent des personnages",
+      "amplifier la nervosité collective d'un groupe"
+    ],
+    "contraste": "La chaleur lourde est l'attente physique — elle prépare l'orage sans le donner encore, et maintient une tension insupportable.",
+    "notesEditoriales": [
+      "Très efficace avant une scène de confrontation — la météo fait le travail émotionnel sans le souligner.",
+      "Attention au cliché : ne pas en faire le signal automatique du drame à venir.",
+      "Le personnage qui ignore la chaleur est dans la dissociation ou dans l'action totale."
+    ]
+  },
+  {
+    "id": "gel-matinal",
+    "label": "Gel matinal",
+    "type": "froid",
+    "definitionCourte": "Froid net et tranchant du petit matin — les surfaces brillent, le souffle forme des nuages blancs, et tout semble suspendu dans la transparence.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "air pur et sans odeur, presque stérile",
+        "légère senteur de terre gelée",
+        "haleine visible qui n'a pas d'odeur"
+      ],
+      "auditifs": [
+        "craquement du sol gelé sous les pas",
+        "silence particulier que le gel impose",
+        "sons qui portent loin dans l'air froid",
+        "givre qui crisse sur le métal"
+      ],
+      "visuels": [
+        "givre blanc sur toutes les surfaces horizontales",
+        "herbe cristallisée qui ne plie pas",
+        "haleine visible à chaque expiration",
+        "ciel d'un bleu presque artificiel",
+        "lumière rasante qui fait étinceler tout"
+      ],
+      "tactiles": [
+        "froid qui mord les joues et le nez immédiatement",
+        "doigts qui raidissent dans les poches",
+        "respiration qui brûle légèrement la gorge"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "éveil brutal et forcé",
+      "sensation d'être le seul debout dans un monde encore endormi",
+      "clarté mentale involontaire",
+      "corps qui se referme sur lui-même pour conserver la chaleur",
+      "conscience aiguë du silence et de l'absence d'autres personnes"
+    ],
+    "emotionsTypiques": [
+      "solitude propre",
+      "clarté mélancolique",
+      "sentiment d'être hors du temps",
+      "beauté froide"
+    ],
+    "usagesNarratifs": [
+      "ouvrir une scène sur la solitude élue d'un personnage",
+      "créer un moment de grâce fragile avant ce qui va suivre",
+      "servir de contraste avec la chaleur d'un intérieur",
+      "ancrer une prise de décision dans la clarté du matin",
+      "marquer la fin d'une saison ou d'une période"
+    ],
+    "contraste": "Le gel matinal est plus silencieux et précis que le froid hivernal lourd — c'est le froid qui réveille plutôt que celui qui épuise.",
+    "notesEditoriales": [
+      "Le gel matinal crée une solitude choisie — utile pour les personnages qui se lèvent avant les autres pour une raison.",
+      "Éviter le cliché de la beauté pure — le froid est aussi pratique, inconfortable, contraignant.",
+      "Ce que le personnage décide de faire dans ce froid du matin dit quelque chose d'essentiel."
+    ]
+  },
+  {
+    "id": "canicule-nuit",
+    "label": "Nuit de canicule",
+    "type": "chaleur",
+    "definitionCourte": "Nuit qui n'apporte pas de fraîcheur — la chaleur reste, stagne, rend le sommeil impossible et les nerfs à vif.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur de corps dans la chaleur",
+        "bitume encore chaud à minuit",
+        "poubelles dans la chaleur",
+        "air conditionné qui filtre par certaines fenêtres"
+      ],
+      "auditifs": [
+        "ventilateurs à travers les cloisons",
+        "voitures plus rares mais plus audibles",
+        "voix portées de terrasses ou de fenêtres ouvertes",
+        "insectes nocturnes plus actifs que d'habitude"
+      ],
+      "visuels": [
+        "fenêtres ouvertes partout",
+        "silhouettes sur les balcons qui cherchent l'air",
+        "lumières dans les appartements tard dans la nuit",
+        "rue déserte mais fenêtres éclairées"
+      ],
+      "tactiles": [
+        "draps collants qui ne rafraîchissent pas",
+        "sueur qui ne sèche pas",
+        "air que la peau perçoit comme dense",
+        "sol encore tiède sous les pieds nus"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "insomnie prolongée qui altère le jugement",
+      "irritabilité extrême pour des raisons mineures",
+      "pensées qui tournent sans pouvoir s'arrêter",
+      "sentiment d'emprisonnement dans son propre corps",
+      "décisions prises à 3h du matin qui ne tiendraient pas le jour"
+    ],
+    "emotionsTypiques": [
+      "exaspération",
+      "claustrophobie",
+      "vulnérabilité nocturne",
+      "solitude de l'insomnie"
+    ],
+    "usagesNarratifs": [
+      "créer les conditions d'une confidence nocturne",
+      "justifier une décision impulsive ou un aveu",
+      "incarner physiquement l'épuisement d'un personnage",
+      "réunir des personnages que la journée sépare",
+      "amplifier l'irritabilité dans une scène de conflit"
+    ],
+    "contraste": "La nuit de canicule est une canicule sans issue — pas de fraîcheur possible, ce qui renforce l'enfermement.",
+    "notesEditoriales": [
+      "La nuit de canicule est un excellent cadre pour les scènes de vérité — le filtre du jour s'est effondré.",
+      "Les personnages qui ne dorment pas se retrouvent dans un espace-temps à part.",
+      "L'insomnie de canicule favorise les pensées qu'on n'a pas le courage d'avoir le jour."
+    ]
+  },
+  {
+    "id": "brume-matinale-riviere",
+    "label": "Brume matinale sur l'eau",
+    "type": "brouillard",
+    "definitionCourte": "Brume basse qui efface la surface de l'eau et les rives proches, créant un sentiment d'irréalité douce et de suspension du monde.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "humidité végétale et vaseuse",
+        "air frais avec une note d'algue",
+        "odeur de nuit qui n'est pas tout à fait partie"
+      ],
+      "auditifs": [
+        "sons étouffés et déformés par la brume",
+        "eau qui clapote sous la brume",
+        "oiseaux qu'on entend sans les voir",
+        "barque ou bateau lointain qu'on identifie par le son avant de le voir"
+      ],
+      "visuels": [
+        "horizon dissous dans le blanc",
+        "silhouettes qui apparaissent puis disparaissent",
+        "lumière diffuse sans source visible",
+        "couleurs désaturées, presque monochromes",
+        "reflets inexistants sous la brume"
+      ],
+      "tactiles": [
+        "humidité sur la peau sans qu'il pleuve",
+        "fraîcheur qui descend vite des épaules",
+        "sol encore humide de la nuit"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "sentiment d'être hors du temps et de l'espace normaux",
+      "diminution de la vigilance — le monde est moins lisible",
+      "calme involontaire imposé par l'atmosphère",
+      "impression de solitude totale même en présence d'autres",
+      "pensées qui se ralentissent, qui flottent"
+    ],
+    "emotionsTypiques": [
+      "paix mélancolique",
+      "sentiment d'irréalité",
+      "beauté fragile",
+      "solitude douce"
+    ],
+    "usagesNarratifs": [
+      "créer un moment suspendu entre deux séquences",
+      "servir de cadre à une rencontre ou une révélation hors du temps",
+      "incarner l'état psychologique d'un personnage entre deux états",
+      "ouvrir un récit sur le mystère et le flottement",
+      "symboliser l'incertitude ou la transition"
+    ],
+    "contraste": "La brume matinale sur l'eau est temporaire — elle disparaît avec le soleil. Son usage est souvent limité à des scènes d'ouverture ou de transition.",
+    "notesEditoriales": [
+      "La brume sur l'eau est poétique mais facilement cliché — à utiliser avec parcimonie.",
+      "Sa force est dans ce qu'elle cache autant que dans ce qu'elle révèle.",
+      "Un personnage seul dans ce paysage dit une solitude choisie ou subie — le contexte fait toute la différence."
+    ]
+  },
+  {
+    "id": "tempête-côtière",
+    "label": "Tempête côtière",
+    "type": "vent",
+    "definitionCourte": "Tempête de bord de mer — vent violent, vagues hautes, embruns. Spectacle de force brute qui réduit l'humain à son échelle réelle.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "sel et iode très forts",
+        "odeur de varech retourné",
+        "air métallique après les éclairs",
+        "humidité dense qui pénètre partout"
+      ],
+      "auditifs": [
+        "rugissement constant du vent qui couvre tout",
+        "fracas des vagues sur les rochers",
+        "grincements de tout ce qui est mal fixé",
+        "impossibilité d'entendre la voix de quelqu'un à deux mètres"
+      ],
+      "visuels": [
+        "mer grise et blanche d'écume",
+        "horizon effacé par les paquets d'embruns",
+        "tout le monde courbé contre le vent",
+        "objets légers emportés",
+        "lumière particulière, presque verte avant la tempête"
+      ],
+      "tactiles": [
+        "vent qui pousse physiquement",
+        "embruns sur le visage comme des gifles légères",
+        "froid mêlé d'humidité qui traverse les vêtements",
+        "difficulté à ouvrir les yeux en entier"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "sentiment d'insignifiance face à la force de la nature",
+      "exaltation mêlée de peur pour les personnages qui cherchent l'intensité",
+      "isolement brutal — communication impossible",
+      "ancrage dans le corps et le moment présent",
+      "révélation de ce qui tient et de ce qui lâche"
+    ],
+    "emotionsTypiques": [
+      "exaltation",
+      "peur propre",
+      "sentiment d'être vivant intensément",
+      "humilité face au monde"
+    ],
+    "usagesNarratifs": [
+      "créer une scène de confrontation où les personnages ne peuvent pas fuir",
+      "incarner la perte de contrôle d'un personnage ou d'une situation",
+      "servir de révélateur — ce qu'on dit dans une tempête est vrai",
+      "isoler deux personnages ensemble",
+      "marquer un tournant brutal dans le récit"
+    ],
+    "contraste": "La tempête côtière est différente de l'orage urbain — ici c'est le vent et la mer, pas la pluie et les éclairs. Plus durable, plus épuisant.",
+    "notesEditoriales": [
+      "La tempête est l'un des rares contextes où la nature impose son rythme aux personnages — à utiliser comme contrainte narrative.",
+      "Après la tempête, le silence est lui-même narrativement fort.",
+      "Éviter l'usage métaphorique trop appuyé — la tempête est concrète avant d'être symbolique."
+    ]
+  },
+  {
+    "id": "neige-fondue",
+    "label": "Neige fondue et boue",
+    "type": "froid",
+    "definitionCourte": "Cette météo de l'entre-deux — la neige qui ne tient pas, la pluie glacée, la boue grise partout. Rien de beau, que l'inconfort du monde qui se défait.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "terre mouillée et froide",
+        "odeur de chaussures trempées",
+        "air sans parfum, simplement humide et froid"
+      ],
+      "auditifs": [
+        "pas mouillés et lourds",
+        "eau qui coule dans les caniveaux",
+        "parapluies qui s'ouvrent et claquent",
+        "voitures qui éclaboussent"
+      ],
+      "visuels": [
+        "sol gris mêlé de neige sale",
+        "flaques grises à éviter",
+        "tout le monde qui regarde ses pieds",
+        "lumière terne sans ombre",
+        "bords de route noircis par la neige ancienne"
+      ],
+      "tactiles": [
+        "pieds mouillés qui refroidissent progressivement",
+        "pantalons qui absorbent l'humidité des chevilles",
+        "froid humide qui ne ressemble pas au froid sec"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "mauvaise humeur diffuse et légitime",
+      "attention constante portée au sol pour éviter de glisser",
+      "corps crispé contre l'humidité",
+      "sentiment que le monde est particulièrement hostile",
+      "envie impérieuse d'un intérieur chaud"
+    ],
+    "emotionsTypiques": [
+      "irritabilité",
+      "lassitude",
+      "dégoût bénin du monde",
+      "nostalgie d'une autre saison"
+    ],
+    "usagesNarratifs": [
+      "ancrer une scène dans l'inconfort physique du quotidien",
+      "servir de repoussoir à un intérieur chaleureux et significatif",
+      "incarner une période de transition sans qualité ni charme",
+      "rendre une journée ordinaire encore plus ordinaire",
+      "exprimer la laideur du monde sans recours au tragique"
+    ],
+    "contraste": "La neige fondue est le contraire de la belle neige — elle dit que la réalité n'est pas poétique, qu'il faut faire avec.",
+    "notesEditoriales": [
+      "La neige fondue est utile pour les scènes qui ne doivent pas être belles — elle résiste à la romantisation.",
+      "Très bon fond pour les scènes de routine ou de journées qui n'avancent pas.",
+      "Un personnage qui ne remarque pas la neige fondue est dans une dissociation ou une concentration extrême."
+    ]
+  },
+  {
+    "id": "soleil-apres-pluie",
+    "label": "Soleil après une longue pluie",
+    "type": "grand-beau",
+    "definitionCourte": "Le retour du soleil après plusieurs jours de pluie — l'air lavé, la lumière plus vive que d'habitude, et la sensation physique que quelque chose a changé.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "terre lavée, petrichor résiduel",
+        "végétation qui respire",
+        "air qui semble plus léger",
+        "odeur de béton séchant au soleil"
+      ],
+      "auditifs": [
+        "oiseaux qui reprennent",
+        "gouttes qui tombent encore des toits longtemps après",
+        "silences qui semblent plus calmes qu'avant",
+        "voix des gens dehors qui reprennent"
+      ],
+      "visuels": [
+        "lumière plus intense que d'habitude sur les surfaces mouillées",
+        "couleurs saturées, presque irréelles",
+        "ombres nettes après des jours sans ombres",
+        "flaques qui brillent",
+        "gens qui lèvent les yeux vers le ciel involontairement"
+      ],
+      "tactiles": [
+        "chaleur du soleil plus appréciée que d'habitude",
+        "air frais mais sans humidité froide",
+        "envie de rester dehors un peu plus longtemps"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "légèreté physique difficile à justifier rationnellement",
+      "optimisme bref et fragile",
+      "conscience du contraste — le même lieu, différent",
+      "envie de bouger, de sortir, de recommencer",
+      "nostalgie possible si le bonheur est trop évident"
+    ],
+    "emotionsTypiques": [
+      "soulagement",
+      "légèreté",
+      "espoir fragile",
+      "joie simple"
+    ],
+    "usagesNarratifs": [
+      "marquer un tournant positif sans le sur-souligner",
+      "créer un contraste cruel si quelque chose de mauvais arrive dans cette lumière",
+      "incarner le retour d'un personnage à la vie",
+      "servir de cadre à une réconciliation ou une décision heureuse",
+      "symboliser la résolution partielle d'une tension"
+    ],
+    "contraste": "Le soleil après la pluie est plus puissant que le beau temps ordinaire — il est vécu comme un don, pas comme un acquis.",
+    "notesEditoriales": [
+      "Attention au cliché du soleil = bonheur = résolution — l'ironie peut être plus forte : beau temps sur un deuil.",
+      "Sa puissance est dans le contraste avec ce qui précède — sans la pluie, il n'a pas d'effet particulier.",
+      "Un personnage qui ne remarque pas le soleil revenu dit quelque chose sur son état intérieur."
+    ]
+  }
+]

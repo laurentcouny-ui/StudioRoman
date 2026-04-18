@@ -1,0 +1,328 @@
+[
+  {
+    "id": "regret",
+    "label": "Regret",
+    "famille": "tristesse-deuil",
+    "definitionCourte": "Tristesse orientée vers une chose non faite, une chance manquée, une route non empruntée. Le regret porte sur l'absence — sur ce qui aurait pu être et ne sera plus.",
+
+    "signesPhysiques": [
+      "regard qui se perd dans le vide, vers un point lointain",
+      "soupir lent et profond",
+      "immobilité contemplative — comme si le corps pausait avec la pensée",
+      "sourire triste qui n'atteint pas les yeux",
+      "gestes qui ralentissent, se font plus économes",
+      "mains au repos, détendues — pas de tension, juste un poids",
+      "silence qui dure un battement de trop"
+    ],
+
+    "sensationsInternes": [
+      "légèreté creuse dans la poitrine — pas une douleur aiguë, une absence",
+      "sentiment d'avoir laissé quelque chose derrière soi sans le voir à l'époque",
+      "douceur amère dans l'évocation du souvenir",
+      "résignation tranquille sur ce qui ne peut pas être changé",
+      "envie fugace de revenir en arrière sans espoir de pouvoir le faire"
+    ],
+
+    "pensees": [
+      "Si j'avais su.",
+      "J'aurais dû y aller.",
+      "Je n'aurais pas dû laisser passer ça.",
+      "Ce n'est plus possible maintenant.",
+      "Qu'est-ce que ça aurait été si...",
+      "J'ai laissé passer quelque chose d'important."
+    ],
+
+    "effetsVoixLangage": [
+      "voix plus douce, légèrement voilée",
+      "temps conditionnels — 'j'aurais', 'ça aurait pu'",
+      "phrases qui s'interrompent sur une pensée non formulée",
+      "tendance à évoquer le passé par des détails précis et sensoriels",
+      "ton méditatif plutôt qu'accusateur"
+    ],
+
+    "comportements": [
+      "revient sur l'événement ou la période de manière récurrente",
+      "peut éviter les sujets qui ravinent le regret",
+      "ou au contraire en parle beaucoup — besoin de le nommer",
+      "observe les autres qui font ce qu'il n'a pas fait avec une attention particulière",
+      "peut prendre des décisions dans le sens inverse du regret — 'cette fois je n'attendrai pas'"
+    ],
+
+    "masquesPossibles": [
+      "rationalisation — 'c'était mieux comme ça finalement'",
+      "humour sur soi — 'c'est ma grande spécialité, les regrets'",
+      "activisme — se remplir pour ne pas penser",
+      "indifférence de surface — 'je n'y pense plus'"
+    ],
+
+    "evolutionsPossibles": [
+      "acceptation que la route non prise appartient au passé",
+      "transformation en leçon — changer ses comportements futurs",
+      "obsession si le regret n'est jamais traité",
+      "deuil de la vie alternative imaginée"
+    ],
+
+    "contextesAggravants": [
+      "voir quelqu'un d'autre vivre ce qu'on n'a pas vécu",
+      "anniversaire ou jalon temporel — 'ça fait dix ans'",
+      "question directe d'un proche sur le sujet",
+      "clôture définitive d'une possibilité"
+    ],
+
+    "contextesAttenuants": [
+      "récit de quelqu'un qui a pris la même route et s'y est perdu",
+      "nouvelle opportunité similaire",
+      "prise de distance temporelle — le regret s'estompe souvent avec les années"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère nostalgie de choix", "description": "Pensée fugace. 'Dommage.' Vite oubliée." },
+      { "niveau": 2, "label": "Regret ponctuel", "description": "Revient dans certains contextes. Mélancolie légère à l'évocation." },
+      { "niveau": 3, "label": "Regret présent", "description": "Colore certaines décisions et relations. Le personnage y revient régulièrement." },
+      { "niveau": 4, "label": "Regret douloureux", "description": "Affecte le rapport au présent. La chose non faite semble prendre plus de place que ce qui a été vécu." },
+      { "niveau": 5, "label": "Regret central", "description": "Ce regret est devenu un axe de l'identité. Le personnage se définit par ce qu'il n'a pas fait." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage âgé",
+        "description": "Le regret prend une ampleur différente — la clôture des possibles est plus concrète. Le bilan de ce qu'on n'a pas fait est plus prégnant. Souvent accompagné d'une douceur résignée."
+      },
+      {
+        "profil": "Personnage jeune",
+        "description": "Le regret peut être excessif pour sa portée réelle — la vie n'est pas finie, mais le personnage n'arrive pas encore à relativiser. L'urgence et l'impatience amplifient."
+      },
+      {
+        "profil": "Personnage d'action",
+        "description": "Le regret est transformé en leçon presque immédiatement. Ce personnage préfère se demander 'qu'est-ce que je fais maintenant' plutôt que de s'attarder."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Distinguer du remords (qui porte sur ce qu'on a fait) : le regret porte sur ce qu'on n'a pas fait, ce qu'on a laissé passer.",
+      "Le regret est souvent lié à un monde alternatif imaginé — ce que le personnage se représente comme 'la vie qu'il aurait pu avoir'.",
+      "À utiliser avec finesse : le regret peut être narrativement mensonger — idéalise souvent la route non prise."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "nostalgie" },
+      { "type": "peut_declencher", "cible": "prise-de-risque" },
+      { "type": "souvent_associe_a", "cible": "melancolie" },
+      { "type": "peut_masquer", "cible": "peur-de-l-echec" }
+    ]
+  },
+  {
+    "id": "langueur",
+    "label": "Langueur",
+    "famille": "tristesse-deuil",
+    "definitionCourte": "État de tristesse douce et prolongée, mêlée d'un désir vague et indéfini. La langueur n'est pas la dépression — c'est une mélancolie qui a une texture presque agréable, un abandon à la douleur plutôt qu'une lutte contre elle.",
+
+    "signesPhysiques": [
+      "mouvements lents, presque fluides — rien n'est urgent",
+      "corps qui se pose plus qu'il ne s'installe",
+      "regard dans le vide ou sur des choses sans importance",
+      "bâillements doux, étirements discrets",
+      "voix basse, légèrement traînante",
+      "visage détendu mais pas souriant — expression neutre teintée de mélancolie",
+      "gestes sans destination précise — touche des objets sans raison"
+    ],
+
+    "sensationsInternes": [
+      "légèreté paradoxale malgré la tristesse — comme une suspension",
+      "absence de désir précis mais présence d'un manque diffus",
+      "douceur triste dans la poitrine",
+      "impression d'être entre deux moments sans en habiter aucun",
+      "fatigue qui n'est pas physique — une lassitude de l'intérieur"
+    ],
+
+    "pensees": [
+      "À quoi bon ?",
+      "Je n'ai envie de rien en particulier.",
+      "Quelque chose me manque mais je ne sais pas quoi.",
+      "Le temps passe lentement.",
+      "Peut-être un autre jour.",
+      "Là, maintenant, ça m'est égal."
+    ],
+
+    "effetsVoixLangage": [
+      "parole peu fréquente — long silence entre les phrases",
+      "phrases qui s'étirent, sans urgence",
+      "soupirs intégrés dans la conversation",
+      "ton doux et non irritable — la langueur n'est pas agressive",
+      "réponses courtes mais sans sécheresse — juste sans énergie"
+    ],
+
+    "comportements": [
+      "reste allongé ou assis sans raison particulière",
+      "reporte les décisions ou les actions sans sentiment d'urgence",
+      "se laisse porter par ce qui arrive sans initiative",
+      "peut lire, écouter de la musique, regarder la pluie — activités passives",
+      "répond aux sollicitations sans enthousiasme mais sans refus"
+    ],
+
+    "masquesPossibles": [
+      "activité frénétique pour fuir cet état",
+      "sociabilité de surface — sourire, présence, mais l'esprit est ailleurs",
+      "prétextes pratiques — 'je suis fatigué'"
+    ],
+
+    "evolutionsPossibles": [
+      "passage naturel — la langueur est souvent transitoire",
+      "installation progressive vers la mélancolie chronique si entretenue",
+      "déclencheur soudain qui sort le personnage de cet état",
+      "création artistique comme canal — certains personnages transforment la langueur en production"
+    ],
+
+    "contextesAggravants": [
+      "mauvais temps prolongé",
+      "isolement",
+      "période de transition sans direction claire",
+      "sentiment que quelque chose est fini sans que rien de nouveau ait commencé"
+    ],
+
+    "contextesAttenuants": [
+      "contact physique bienveillant",
+      "changement sensoriel — sortir, bouger, changer d'air",
+      "tâche simple à accomplir qui redonne un sens à l'instant"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère indolence", "description": "Le personnage n'a pas envie de grand-chose mais ne souffre pas." },
+      { "niveau": 2, "label": "Langueur douce", "description": "Mélancolie agréable, teintée de rêverie. Peut être fertile." },
+      { "niveau": 3, "label": "Langueur installée", "description": "Le temps s'étire. Le personnage est présent mais pas vraiment là." },
+      { "niveau": 4, "label": "Apathie douce", "description": "L'absence de désir devient pesante. Le personnage en souffre sans savoir pourquoi." },
+      { "niveau": 5, "label": "Mélancolie chronique", "description": "La langueur dure trop longtemps et se confond avec une tristesse de fond permanente." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage romantique ou poète",
+        "description": "La langueur est presque une posture esthétique. Ce personnage la cultive, la savoure, en tire quelque chose. Elle nourrit sa créativité ou son rapport au monde."
+      },
+      {
+        "profil": "Personnage pragmatique",
+        "description": "Supporte mal la langueur. S'agite pour en sortir, la nie, la convertit en action dès que possible. La langueur chez ce personnage est source d'inconfort, pas de rêverie."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La langueur a une texture presque sensuelle — elle se distingue de la tristesse ordinaire par son absence d'urgence.",
+      "Elle est à utiliser pour des personnages en attente, en transition, ou pour signifier un entre-deux narratif.",
+      "Éviter le cliché romantico-mélancolique : la langueur peut aussi être banale, quotidienne, sans poésie."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "melancolie" },
+      { "type": "souvent_associe_a", "cible": "attente" },
+      { "type": "peut_masquer", "cible": "tristesse-refoulee" }
+    ]
+  },
+  {
+    "id": "cafard",
+    "label": "Cafard",
+    "famille": "tristesse-deuil",
+    "definitionCourte": "Tristesse sans objet précis, légère mais persistante. Le cafard n'a pas de raison claire — il s'installe sans prévenir et résiste souvent aux tentatives de le chasser.",
+
+    "signesPhysiques": [
+      "yeux légèrement vitreux — regard pas tout à fait présent",
+      "mouvements un peu lents",
+      "soupirs involontaires",
+      "expression neutre ou légèrement baissée aux commissures",
+      "corps qui cherche à s'enrouler — plaid, canapé, position fermée",
+      "petits gestes sans direction — tripote quelque chose, allume et éteint",
+      "moins de soin apporté à l'apparence que d'habitude"
+    ],
+
+    "sensationsInternes": [
+      "impression grise sans couleur — pas de douleur précise, juste une absence de lumière",
+      "légère fatigue de l'intérieur",
+      "tout semble légèrement plus pesant qu'à l'ordinaire",
+      "rien de grave mais rien de bien non plus",
+      "sentiment que la joie est possible en théorie mais inaccessible en pratique"
+    ],
+
+    "pensees": [
+      "Je ne sais pas pourquoi je me sens comme ça.",
+      "Rien n'est vraiment grave, et pourtant.",
+      "Je n'ai envie de rien.",
+      "Ça passera.",
+      "J'aurais dû sortir. Je n'ai pas envie de sortir.",
+      "Qu'est-ce qui ne va pas ?"
+    ],
+
+    "effetsVoixLangage": [
+      "réponses courtes, sans développement",
+      "tendance à mettre fin aux conversations",
+      "voix plate — ni irritable ni chaleureuse",
+      "monosyllabes fréquents",
+      "difficile de mettre des mots sur ce qui cloche"
+    ],
+
+    "comportements": [
+      "reste chez lui ou dans un endroit connu",
+      "fait les choses à moitié — commence sans finir",
+      "cherche des distractions passives — écrans, musique",
+      "mange sans vraiment savourer",
+      "évite les gens sans pouvoir expliquer pourquoi"
+    ],
+
+    "masquesPossibles": [
+      "humour autodépréciatif — 'j'ai le cafard, ça arrive'",
+      "activité sociale par obligation — ça peut aider ou pas",
+      "excuse physique — 'je suis un peu fatigué'"
+    ],
+
+    "evolutionsPossibles": [
+      "résolution spontanée — le lendemain ou dans quelques jours, sans explication",
+      "aggravation si des facteurs extérieurs s'y ajoutent",
+      "expression indirecte qui finit par révéler quelque chose de sous-jacent",
+      "traversée — le personnage choisit de ne pas lutter et de le vivre"
+    ],
+
+    "contextesAggravants": [
+      "mauvais temps",
+      "dimanche ou jours creux",
+      "peu de lumière naturelle",
+      "manque de contact humain",
+      "période de transition ou de fin de quelque chose"
+    ],
+
+    "contextesAttenuants": [
+      "contact physique avec quelqu'un de proche",
+      "activité physique",
+      "conversation inattendue qui tire le personnage hors de lui-même",
+      "lumière, chaleur, nature"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Grisaille légère", "description": "Journée terne. Rien de grave." },
+      { "niveau": 2, "label": "Cafard", "description": "Tristesse sans raison présente. Le personnage ne se sent pas bien sans savoir pourquoi." },
+      { "niveau": 3, "label": "Cafard installé", "description": "Dure quelques jours. Affecte les initiatives et les relations." },
+      { "niveau": 4, "label": "Mélancolie diffuse", "description": "Le fond gris devient un fond permanent. Difficile de s'en souvenir autrement." },
+      { "niveau": 5, "label": "Déprime de fond", "description": "La tristesse sans objet dure depuis trop longtemps — à distinguer d'une dépression clinique." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui l'assume",
+        "description": "Nomme le cafard sans en faire un drame, lui laisse de la place. 'J'ai le cafard, c'est comme ça.' Peut vivre avec sans s'en laisser submerger."
+      },
+      {
+        "profil": "Personnage qui lutte contre",
+        "description": "Ne supporte pas de ne pas savoir pourquoi. S'agite, cherche des causes, des solutions. La résistance peut amplifier l'inconfort."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Le cafard est une des tristesses les plus universelles — choisir de la montrer sans la dramatiser est souvent juste.",
+      "Sa force narrative est dans son mystère : personne ne sait vraiment d'où il vient.",
+      "À distinguer de la mélancolie (plus profonde, plus teintée) et du vide existentiel (plus conceptuel). Le cafard est empirique, quotidien."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "melancolie" },
+      { "type": "souvent_associe_a", "cible": "ennui" },
+      { "type": "peut_masquer", "cible": "tristesse-refoulee" }
+    ]
+  }
+]

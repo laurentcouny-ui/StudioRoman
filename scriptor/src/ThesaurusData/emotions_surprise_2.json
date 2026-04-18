@@ -1,0 +1,315 @@
+[
+  {
+    "id": "perplexite",
+    "label": "Perplexité",
+    "famille": "surprise-confusion",
+    "definitionCourte": "État d'interrogation intellectuelle et émotionnelle face à quelque chose qui ne rentre dans aucune case connue. La perplexité n'est pas la détresse — c'est l'embarras d'une pensée qui ne sait pas encore quoi faire.",
+
+    "signesPhysiques": [
+      "sourcils légèrement froncés, pas de tension — juste une interrogation sur le visage",
+      "tête légèrement inclinée",
+      "regard qui s'éloigne brièvement pour réfléchir",
+      "pause avant de répondre — parfois long",
+      "léger haussement des épaules ou de la main — geste ouvert",
+      "bouche entrouverte à mi-parcours d'une pensée",
+      "regard qui revient chercher confirmation"
+    ],
+
+    "sensationsInternes": [
+      "sensation que quelque chose ne colle pas",
+      "légère irritation intellectuelle — pas de la frustration mais de l'incomplétude",
+      "besoin de tourner et retourner l'information",
+      "impression que la réponse est quelque part mais n'est pas trouvable encore",
+      "curiosité mêlée d'un léger malaise"
+    ],
+
+    "pensees": [
+      "Je ne comprends pas.",
+      "Attends. Ce n'est pas logique.",
+      "Qu'est-ce qui se passe vraiment ?",
+      "Il me manque quelque chose.",
+      "Deux choses vraies qui se contredisent.",
+      "Je dois y réfléchir."
+    ],
+
+    "effetsVoixLangage": [
+      "questions directes et précises — besoin de clarification",
+      "reformulations à voix haute pour tester sa propre compréhension",
+      "hésitation avant les affirmations — 'si je comprends bien...'",
+      "tendance à relire ou réécouter ce qui a été dit",
+      "silence prolongé pendant la pensée"
+    ],
+
+    "comportements": [
+      "relit, revient, reconsidère",
+      "cherche des sources supplémentaires pour résoudre l'ambiguïté",
+      "pose des questions parfois gênantes parce que précises",
+      "peut rester bloqué sur une question sans l'oublier",
+      "peut réveiller l'interlocuteur avec une question tardive — 'j'y ai repensé'"
+    ],
+
+    "masquesPossibles": [
+      "acquiescement de surface pour gagner du temps",
+      "silence pris pour de l'accord alors qu'il ne comprend pas",
+      "changement de sujet pour éviter d'admettre la confusion"
+    ],
+
+    "evolutionsPossibles": [
+      "résolution si l'information manquante est trouvée",
+      "acceptation de l'ambiguïté — certaines choses ne se résolvent pas",
+      "frustration si la perplexité dure trop longtemps",
+      "découverte — la perplexité peut ouvrir sur quelque chose de nouveau"
+    ],
+
+    "contextesAggravants": [
+      "information contradictoire venant de sources fiables",
+      "pression de répondre rapidement",
+      "enjeu important sur la bonne compréhension"
+    ],
+
+    "contextesAttenuants": [
+      "interlocuteur patient qui accepte de reformuler",
+      "temps pour réfléchir sans urgence",
+      "information supplémentaire qui résout l'ambiguïté"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère interrogation", "description": "Quelque chose cloche légèrement. Le personnage y réfléchit sans urgence." },
+      { "niveau": 2, "label": "Perplexité ordinaire", "description": "Ne comprend pas. Cherche à clarifier avant d'aller plus loin." },
+      { "niveau": 3, "label": "Perplexité profonde", "description": "La question occupe vraiment l'esprit. Difficile de passer à autre chose." },
+      { "niveau": 4, "label": "Confusion intellectuelle", "description": "Les repères habituels ne fonctionnent plus. Déstabilisant." },
+      { "niveau": 5, "label": "Désorientation cognitive", "description": "Incapable de trouver un point fixe. La pensée tourne à vide." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage analytique",
+        "description": "La perplexité est un problème à résoudre — pas une menace. Elle génère de l'énergie intellectuelle plutôt que de l'anxiété."
+      },
+      {
+        "profil": "Personnage qui a besoin de certitudes",
+        "description": "La perplexité est inconfortable. Ce personnage veut des réponses et la zone grise lui coûte."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La perplexité est plus douce que la confusion — elle n'est pas désorganisatrice, juste incomplète.",
+      "Utile pour les personnages qui découvrent que la réalité est plus complexe qu'ils ne le croyaient.",
+      "Peut introduire un tournant narratif : le moment où le personnage réalise qu'il ne comprend pas ce qu'il croyait comprendre."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "confusion" },
+      { "type": "peut_declencher", "cible": "curiosite" },
+      { "type": "souvent_associe_a", "cible": "questionnement" }
+    ]
+  },
+  {
+    "id": "incredulite",
+    "label": "Incrédulité",
+    "famille": "surprise-confusion",
+    "definitionCourte": "Refus initial de croire ce qu'on voit, entend ou apprend — non par mauvaise foi mais parce que l'information est trop éloignée de ce qu'on tenait pour certain.",
+
+    "signesPhysiques": [
+      "léger recul ou secoue imperceptiblement la tête",
+      "regard qui se plisse — cherche à mieux voir ou à vérifier",
+      "petit rire bref et sec qui dit 'non'",
+      "regard qui cherche confirmation dans les yeux de l'autre",
+      "silence de choc puis question rapide",
+      "gestes de vérification — relit, demande de répéter",
+      "bouche qui s'ouvre et ne dit rien pendant un instant"
+    ],
+
+    "sensationsInternes": [
+      "sensation que quelque chose a changé dans le sol",
+      "résistance intérieure avant de céder à l'information",
+      "malaise de voir ses certitudes remises en question",
+      "légère accélération cardiaque",
+      "impression que le monde vient de se décaler d'un degré"
+    ],
+
+    "pensees": [
+      "C'est impossible.",
+      "Il dit quoi ?",
+      "Non, sérieusement.",
+      "Ça n'a pas de sens.",
+      "Il doit y avoir une erreur.",
+      "Je rêve."
+    ],
+
+    "effetsVoixLangage": [
+      "questions répétées — vérification",
+      "ton qui monte légèrement — entre la question et l'incrédulité",
+      "rires nerveux et brefs",
+      "reformulation de ce qui vient d'être dit — 'tu veux dire que...'",
+      "interruption brusque pour vérifier"
+    ],
+
+    "comportements": [
+      "cherche une confirmation — demande à d'autres, vérifie",
+      "peut être paralysé pendant quelques secondes le temps de reconfigurer",
+      "questionne la source avant d'accepter",
+      "peut être blessant dans sa résistance si la vérité est douloureuse à donner",
+      "une fois convaincu, réagit souvent plus fortement — le déni amplifie l'impact"
+    ],
+
+    "masquesPossibles": [
+      "scepticisme performatif pour ne pas montrer l'ébranlement",
+      "questions rhétoriques qui retardent l'acceptation",
+      "humour pour désamorcer sans croire encore"
+    ],
+
+    "evolutionsPossibles": [
+      "acceptation progressive — souvent lente, par étapes",
+      "choc soudain quand l'incrédulité cède",
+      "déni prolongé si la nouvelle est trop menaçante",
+      "colère une fois que l'information est intégrée"
+    ],
+
+    "contextesAggravants": [
+      "information en contradiction totale avec une croyance fondamentale",
+      "source peu fiable — l'incrédulité est alors protectrice",
+      "enjeu très élevé sur la véracité"
+    ],
+
+    "contextesAttenuants": [
+      "preuves concrètes et multiples",
+      "temps pour intégrer progressivement",
+      "personne de confiance qui confirme"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Surprise sceptique", "description": "Le personnage doute mais sans grande résistance." },
+      { "niveau": 2, "label": "Incrédulité légère", "description": "Demande confirmation. Le scepticisme est momentané." },
+      { "niveau": 3, "label": "Incrédulité forte", "description": "Refuse de croire sans preuve. Cherche activement à vérifier." },
+      { "niveau": 4, "label": "Résistance", "description": "Même face aux preuves, quelque chose résiste. Le coût de croire est trop élevé." },
+      { "niveau": 5, "label": "Déni", "description": "L'incrédulité devient déni actif — refus d'intégrer malgré l'évidence." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage rationnel",
+        "description": "L'incrédulité est un mécanisme sain — il faut des preuves. Mais quand les preuves arrivent, ce personnage cède vite."
+      },
+      {
+        "profil": "Personnage émotionnellement investi",
+        "description": "L'incrédulité est défensive. L'information menace quelque chose qu'il ne peut pas perdre. La résistance dure plus longtemps."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'incrédulité est très efficace pour les révélations narratives — elle permet de montrer le choc avant l'intégration.",
+      "Le moment entre l'incrédulité et l'acceptation est riche : que fait le personnage de cet espace ?",
+      "À distinguer de la surprise qui est plus brève et moins résistante."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "stupeur" },
+      { "type": "peut_evoluer_en", "cible": "deni" },
+      { "type": "souvent_associe_a", "cible": "verification" }
+    ]
+  },
+  {
+    "id": "ebahissement",
+    "label": "Ébahissement",
+    "famille": "surprise-confusion",
+    "definitionCourte": "Surprise intense et positive face à quelque chose d'extraordinaire, de beau ou d'inattendu qui dépasse les attentes. L'ébahissement est une suspension du monde ordinaire.",
+
+    "signesPhysiques": [
+      "bouche entrouverte, sans son",
+      "yeux grands ouverts — pupilles dilatées",
+      "corps immobile — suspension de tout mouvement",
+      "sourcils levés haut",
+      "légère inclinaison vers l'avant — attirance vers la source",
+      "main levée vers la bouche ou le menton",
+      "respiration suspendue puis lente"
+    ],
+
+    "sensationsInternes": [
+      "sensation d'être saisi par quelque chose de plus grand que soi",
+      "légèreté dans tout le corps — presque lévitation",
+      "temps qui s'arrête momentanément",
+      "quelque chose d'intense dans la poitrine — pas de la douleur, une plénitude",
+      "impression d'être privilégié — 'c'est pour moi, ça ?'"
+    ],
+
+    "pensees": [
+      "C'est incroyable.",
+      "Je n'aurais jamais cru que ça existait.",
+      "Je ne veux pas que ça s'arrête.",
+      "Comment est-ce possible ?",
+      "Je dois mémoriser ça.",
+      "Le monde est plus grand que je ne pensais."
+    ],
+
+    "effetsVoixLangage": [
+      "silence d'abord — les mots ne viennent pas",
+      "murmures ou chuchotements — comme pour ne pas briser le moment",
+      "exclamations courtes et involontaires",
+      "redites — 'c'est magnifique, vraiment, c'est...'",
+      "rires silencieux d'émerveilllement"
+    ],
+
+    "comportements": [
+      "immobilité — ne bouge pas pour ne pas rompre le sort",
+      "photographie, note, mémorise — désir de garder",
+      "cherche spontanément quelqu'un pour partager",
+      "peut pleurer sans tristesse — larmes de beauté ou d'intensité",
+      "revient sur le sujet longtemps après — souvenir saillant"
+    ],
+
+    "masquesPossibles": [
+      "désinvolture protectrice — 'c'est pas mal'",
+      "critique immédiate pour ne pas paraître naïf",
+      "humour pour diluer l'intensité"
+    ],
+
+    "evolutionsPossibles": [
+      "émerveillement durable si le contexte permet",
+      "nostalgie ultérieure — ce moment reste comme référence",
+      "désir de retrouver cet état",
+      "transformation si l'ébahissement provoque une prise de conscience"
+    ],
+
+    "contextesAggravants": [
+      "solitude au moment de la découverte — pas de partage possible",
+      "contexte qui impose la retenue"
+    ],
+
+    "contextesAttenuants": [
+      "partage avec quelqu'un qui ressent la même chose",
+      "moment de silence ou d'espace pour recevoir"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Bonne surprise", "description": "Quelque chose de beau ou d'inattendu. Plaisir franc." },
+      { "niveau": 2, "label": "Émerveillement", "description": "Plus grand que prévu. Le personnage s'arrête et regarde vraiment." },
+      { "niveau": 3, "label": "Ébahissement", "description": "Suspension du temps. Le monde s'est agrandi." },
+      { "niveau": 4, "label": "Stupeur de beauté", "description": "Peut provoquer des larmes ou de l'immobilité prolongée." },
+      { "niveau": 5, "label": "Révélation sensorielle", "description": "Expérience transformatrice. Le personnage n'est plus tout à fait le même après." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage cynique",
+        "description": "L'ébahissement le surprend lui-même — il ne s'y attendait pas, ne le cherchait pas. La résistance rend la capitulation d'autant plus forte."
+      },
+      {
+        "profil": "Personnage sensible",
+        "description": "L'ébahissement est fréquent mais toujours sincère. Ce personnage reste en contact avec la capacité de s'émerveiller."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'ébahissement est rare dans les récits contemporains — réaliste et de ce fait puissant quand il arrive.",
+      "Il est plus fort quand il surgit chez un personnage qui ne s'y attendait pas.",
+      "Le risque est la naïveté — ancrer l'ébahissement dans le concret et le sensoriel lui donne de la crédibilité."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "gratitude" },
+      { "type": "souvent_associe_a", "cible": "emerveillement" },
+      { "type": "peut_declencher", "cible": "desir-de-partage" }
+    ]
+  }
+]

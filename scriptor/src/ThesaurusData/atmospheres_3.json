@@ -1,0 +1,662 @@
+[
+  {
+    "id": "bureau-nuit-seul",
+    "label": "Bureau en open space la nuit",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "rangées de bureaux vides sous une lumière artificielle tamisée",
+      "écrans éteints qui reflètent vaguement les néons du plafond",
+      "chaise tournante abandonnée en biais",
+      "bourdonnement continu des serveurs dans la pièce adjacente",
+      "gobelet de café oublié, cerné d'un anneau brun",
+      "post-it jaune décollé à moitié d'un écran éteint",
+      "lumières de la ville visibles à travers les grandes baies vitrées",
+      "minuterie qui éteint les lumières automatiquement par zones",
+      "téléphone qui clignote en silence sur un bureau sans propriétaire"
+    ],
+    "emotionsTypiques": [
+      "solitude choisie ou subie",
+      "concentration intensifiée par l'absence",
+      "sentiment d'illégitimité, d'être hors du temps social",
+      "légère angoisse de l'espace inhabité",
+      "liberté paradoxale dans un lieu normalement surveillé",
+      "mélancolie douce face aux traces des absents"
+    ],
+    "ambiance": "L'open space vidé de ses occupants révèle une étrange intimité : les objets personnels épars — photo, mug, plante desséchée — racontent des vies suspendues. La nuit transforme ce lieu de collectivité en espace de solitude absolue.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "légère odeur de café froid et de plastique chauffé",
+        "désodorisant d'entreprise qui s'estompe en fin de journée",
+        "effluve de nourriture de midi, persistant dans les poubelles",
+        "odeur métallique et sèche de la climatisation"
+      ],
+      "auditifs": [
+        "bourdonnement grave et continu des serveurs",
+        "cliquetis du chauffage ou de la climatisation qui se régule",
+        "silence presque total, rompu par le craquement d'une chaise sous le poids du corps",
+        "bip lointain d'une alarme de sécurité dans les étages",
+        "bruit sourd d'un ascenseur quelque part dans l'immeuble"
+      ],
+      "visuels": [
+        "écrans noirs qui renvoient une image fantomatique de la pièce",
+        "voyants lumineux verts et oranges clignotant sur les baies de serveurs",
+        "ombres allongées des chaises sur la moquette grise",
+        "ville scintillante derrière les vitres, hors d'atteinte",
+        "lumière de secours verte au-dessus de la sortie de secours",
+        "post-it colorés alignés sur les cloisons comme des confettis figés"
+      ],
+      "tactiles": [
+        "moquette antistatique sous les semelles, légèrement résistante",
+        "air conditionné trop froid, persistant même la nuit",
+        "clavier tiède du dernier utilisateur, presque humain au toucher",
+        "surface lisse et froide du bureau en stratifié"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Employé en surmenage",
+        "description": "Ne remarque plus l'environnement — voit seulement son écran, ses dossiers, l'horloge en bas à droite. Le bureau vide le soulage : plus de regards, plus de jugements. La nuit est son temps à lui, volé à l'entreprise qui le dévore."
+      },
+      {
+        "profil": "Agent de sécurité en ronde",
+        "description": "Lit le bureau comme une carte : ce qui est en ordre, ce qui ne l'est pas. Un tiroir mal fermé, une lumière oubliée, un ordinateur non verrouillé. Le lieu est un décor familier et sans intérêt, parcouru mécaniquement depuis des mois."
+      },
+      {
+        "profil": "Nouveau salarié qui rentre tard",
+        "description": "Ressent un malaise diffus — comme s'il violait quelque chose en restant après les autres. Observe les bureaux de ses collègues avec une curiosité coupable, déchiffre les photos épinglées, les mots griffonnés. Le lieu lui semble soudain plus humain que de jour."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de travail clandestin ou d'enquête nocturne sur des documents sensibles",
+      "moment de révélation intérieure dans le silence inhabituel",
+      "rencontre impromptue entre deux personnages qui se croyaient seuls",
+      "illustration de l'aliénation au travail par les traces laissées par les absents",
+      "souligner l'isolement d'un personnage incapable de quitter le travail",
+      "cadre de découverte d'un secret dissimulé dans les affaires d'un collègue"
+    ],
+    "notesEditoriales": [
+      "Le bureau vide la nuit est l'un des rares lieux où la solitude peut sonner à la fois libératrice et angoissante — exploiter cette ambivalence plutôt que de choisir.",
+      "Éviter de surcharger la description : deux ou trois détails abandonnés par les collègues suffisent à faire exister les absents.",
+      "Le bourdonnement des serveurs est un détail sonore peu utilisé mais très efficace pour ancrer l'atmosphère — plus précis que le simple 'silence'.",
+      "Ce lieu permet d'explorer ce qu'un personnage fait quand personne ne le regarde : révélateur de caractère."
+    ]
+  },
+  {
+    "id": "salle-audience-tribunal",
+    "label": "Salle d'audience de tribunal",
+    "type": "espace-public",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "boiseries sombres et hautes qui écrasent l'espace",
+      "bancs en bois dur alignés face à l'estrade du juge",
+      "sceau de la République ou emblème officiel derrière le siège présidentiel",
+      "table de la défense et du parquet séparées par un espace vide",
+      "box des accusés légèrement surélevé ou isolé",
+      "public massé sur les bancs du fond, silencieux ou agité selon les moments",
+      "huissier debout près de la porte, visage neutre",
+      "greffier qui tape sans lever les yeux depuis son bureau bas",
+      "lumière naturelle filtrée par de hautes fenêtres, souvent insuffisante"
+    ],
+    "emotionsTypiques": [
+      "angoisse du jugement imminent",
+      "sentiment d'impuissance face à l'institution",
+      "tension entre espoir et résignation",
+      "honte publique ou fierté défensive",
+      "attente insupportable du verdict",
+      "impression d'être réduit à un dossier"
+    ],
+    "ambiance": "La salle d'audience impose sa logique avant même que quiconque ait parlé : tout ici est hiérarchie, protocole et rituel. La disposition des corps dans l'espace dit tout de qui détient le pouvoir et qui le subit.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de vieux bois ciré et de papier",
+        "parfum discret d'un avocat ou d'un greffier, incongru dans ce cadre",
+        "légère odeur de renfermé dans les jours sans audience",
+        "odeur de transpiration contenue dans une salle pleine"
+      ],
+      "auditifs": [
+        "silence imposé et lourd entre deux prises de parole",
+        "frappe régulière et mécanique du clavier du greffier",
+        "voix du président portée par l'acoustique de la salle",
+        "froissement de dossiers et de pages tournées aux tables des avocats",
+        "toux étouffée d'un spectateur qui tente de se faire oublier"
+      ],
+      "visuels": [
+        "boiseries sombres jusqu'au plafond, souvent impressionnantes",
+        "robes noires des avocats et magistrats qui contrastent avec les tenues civiles",
+        "dossiers épais empilés sur les tables, marqués de post-it colorés",
+        "regard de l'accusé qui cherche ou évite celui de ses proches dans le public",
+        "horloge murale dont l'avancement semble suspendu",
+        "lumière blafarde sur les visages, sans flatterie"
+      ],
+      "tactiles": [
+        "banc en bois dur, inconfortable après quelques minutes",
+        "bord de la table lisse et froid sous les paumes",
+        "air sec et légèrement stagnant",
+        "rigidité imposée au corps par la solennité du lieu"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Accusé",
+        "description": "Le lieu est vécu comme une machine — froide, impersonnelle, déjà décidée. Le box est une cage transparente. Chaque détail architectural devient oppressant : la hauteur du plafond écrase, les regards du public brûlent. Le temps s'étire de manière insupportable."
+      },
+      {
+        "profil": "Avocat expérimenté",
+        "description": "Connaît ce lieu comme sa propre cuisine. Sait où s'asseoir pour être vu, comment occuper l'espace quand il se lève. La salle est un terrain tactique, pas un espace de jugement moral. Remarque l'humeur du juge avant même qu'il ait parlé."
+      },
+      {
+        "profil": "Proche de l'accusé dans le public",
+        "description": "Ne voit que le dos ou le profil de l'être aimé, isolé dans le box. Ressent une impuissance totale — il ne peut rien faire, rien dire. La solennité du rituel lui semble cruelle, déshumanisante. Guette chaque micro-expression sur le visage des juges."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de révélation d'une vérité longtemps dissimulée",
+      "confrontation entre personnages séparés par un espace ritualisé",
+      "moment de basculement dans la vie d'un personnage : avant et après le verdict",
+      "illustration du rapport entre individu et institution",
+      "scène où la parole est à la fois arme et trahison",
+      "cadre pour explorer la culpabilité, réelle ou injuste"
+    ],
+    "notesEditoriales": [
+      "La puissance de ce lieu tient à sa géographie du pouvoir : tout écrivain devrait avoir en tête qui se tient où avant de décrire la salle.",
+      "Éviter de centrer uniquement sur le verdict — les temps morts (attente, lectures, procédures) sont souvent plus révélateurs émotionnellement.",
+      "Le box des accusés est l'un des rares espaces en architecture publique conçu pour isoler et exposer simultanément — à exploiter symboliquement.",
+      "La voix et le regard du juge sont des outils dramatiques puissants dans ce cadre : leur usage ou leur absence en dit long."
+    ]
+  },
+  {
+    "id": "cimetiere-hiver",
+    "label": "Cimetière en hiver",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "allées gravillonnées bordées de tombes régulières",
+      "végétation morte ou rabougrie sur les sépultures",
+      "chrysanthèmes fanés aux couleurs passées par le gel",
+      "marbre froid et terne sous une lumière d'hiver rasante",
+      "cyprès immobiles dans l'air gelé",
+      "photos de défunts sous verre, certaines délavées",
+      "gravier qui crisse sous les pas dans le silence",
+      "ciel bas et uniforme, presque blanc",
+      "oiseaux absents, ou un seul corbeau perché au loin"
+    ],
+    "emotionsTypiques": [
+      "deuil contenu ou ravivé",
+      "mélancolie douce face au temps qui passe",
+      "paix étrange, presque apaisante",
+      "sentiment de solitude sans détresse",
+      "confrontation silencieuse à sa propre finitude",
+      "tendresse pour les absents"
+    ],
+    "ambiance": "En hiver, le cimetière perd ses couleurs sans perdre sa dignité. Le froid conserve les choses dans un état de suspension : les fleurs figées, le silence épais, les allées désertes. Le lieu impose une lenteur que le monde extérieur refuse.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de terre gelée et minérale",
+        "effluve de fleurs artificielles en plastique légèrement humides",
+        "air froid et propre, sans parfum",
+        "légère odeur de cire d'une lanterne votive oubliée allumée"
+      ],
+      "auditifs": [
+        "gravier qui crisse à chaque pas, très audible dans le silence",
+        "vent bas qui frôle les cyprès sans les agiter vraiment",
+        "cliquetis d'une plaque mal fixée sous les rafales",
+        "silence quasi total, presque oppressant pour qui n'y est pas habitué"
+      ],
+      "visuels": [
+        "lumière rasante d'hiver qui allonge les ombres dès le milieu d'après-midi",
+        "marbre gris, blanc ou noir rendu mat par l'humidité",
+        "fleurs séchées et fanées, chrysanthèmes réduits à leurs tiges",
+        "quelques bougies votives qui luttent contre le vent",
+        "inscriptions sur les pierres tombales partiellement recouvertes de mousse",
+        "traces de pas récentes sur le gravier mouillé"
+      ],
+      "tactiles": [
+        "froid mordant sur les joues et les mains exposées",
+        "gravier humide qui cède légèrement sous la semelle",
+        "surface froide et légèrement rugueuse d'une pierre tombale effleurée",
+        "air immobile qui pénètre dans les vêtements malgré tout"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Personne en deuil récent",
+        "description": "Chaque détail du lieu devient un miroir de l'absence. La tombe du proche est à la fois trop présente et insuffisante. Le froid correspond à quelque chose d'intérieur. Le silence fait du bien et fait mal en même temps."
+      },
+      {
+        "profil": "Enfant qui accompagne un adulte",
+        "description": "Trouve l'endroit étrangement calme mais pas effrayant. Lit les dates sur les pierres, cherche à comprendre les chiffres. Pose des questions que les adultes ne savent pas vraiment répondre. S'ennuie légèrement mais garde le silence par instinct."
+      },
+      {
+        "profil": "Fossoyeur ou gardien de cimetière",
+        "description": "Ne voit plus le lieu avec les yeux du deuil. Remarque ce qui est en ordre ou non, ce qui a besoin d'entretien, les allées à regraviller. Les tombes sont des données administratives. Mais il lui arrive encore, certains matins de gel, de sentir le poids de tous ces noms."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de visite au tombeau d'un proche, pour rouvrir un deuil ou le clore",
+      "lieu de dialogue imaginaire entre un vivant et un mort",
+      "cadre pour une révélation sur le passé, trouvée sur une pierre tombale ou un monument",
+      "espace de réconciliation entre deux personnages face à un tiers disparu",
+      "illustration du passage du temps par les tombes abandonnées",
+      "lieu de solitude choisie pour un personnage qui fuit la société des vivants"
+    ],
+    "notesEditoriales": [
+      "Le cimetière en hiver est un lieu à fort risque de cliché — éviter la métaphore trop explicite ('comme sa vie intérieure'). Laisser le lieu parler par ses détails concrets.",
+      "La lumière rasante d'hiver est un outil visuel sous-utilisé : elle transforme les ombres et donne au lieu une dimension presque théâtrale sans effort.",
+      "L'absence de visiteurs en hiver accentue l'isolement du personnage présent — ce détail suffit, inutile de le commenter.",
+      "Un seul détail de vie humaine (une bougie récemment allumée, des fleurs fraîches) suffit à modifier entièrement l'atmosphère."
+    ]
+  },
+  {
+    "id": "supermarche-nuit",
+    "label": "Supermarché ouvert la nuit",
+    "type": "espace-public",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "allées larges et désertées sous une lumière blanche agressive",
+      "rayons pleins à ras bord, rangés avec une symétrie presque inquiétante",
+      "sol carrelé qui renvoie le bruit des chariots à vide",
+      "employé solitaire qui réapprovisionne un rayon sans lever la tête",
+      "musique d'ambiance douce et absurde dans le silence général",
+      "caisse automatique avec sa voix synthétique répétitive",
+      "produits sous emballage plastique luisant sous les néons",
+      "panneaux de promotion qui parlent à personne",
+      "chariot abandonné en travers d'une allée"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'être hors du monde normal",
+      "solitude accentuée par la présence humaine résiduelle",
+      "légère angoisse de la lumière agressive dans le noir extérieur",
+      "liberté bizarre de l'espace sans foule",
+      "mélancolie des courses nocturnes solitaires",
+      "sentiment d'appartenir à une catégorie de gens à part"
+    ],
+    "ambiance": "Le supermarché de nuit ressemble à un décor sans spectacle : tout est en place, rien ne manque, mais l'absence de foule révèle quelque chose d'artificiel dans l'abondance. Les rares clients croisés semblent venir là pour autre chose que des courses.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur froide et neutre des réfrigérateurs ouverts dans les rayons frais",
+        "légère odeur de pain chaud venant de la boulangerie automatique",
+        "produits d'entretien dont l'odeur filtre du rayon voisin",
+        "odeur de plastique sous les néons, presque chimique"
+      ],
+      "auditifs": [
+        "bourdonnement constant des réfrigérateurs et congélateurs",
+        "voix synthétique de la caisse automatique, répétitive et neutre",
+        "bruit métallique d'un chariot poussé sur le carrelage",
+        "musique d'ambiance fade et continue, sans rythme identifiable",
+        "bip du scanner à chaque passage d'article"
+      ],
+      "visuels": [
+        "lumière blanche et verticale, sans ombre, qui uniformise tout",
+        "alignement parfait des produits sur les rayons, presque agressif",
+        "seul employé visible au fond d'une allée, de dos",
+        "reflet des néons dans le sol carrelé humide récemment nettoyé",
+        "panneaux de promotion criards qui semblent s'adresser au vide",
+        "produits emballés sous cellophane qui brillent d'un éclat artificiel"
+      ],
+      "tactiles": [
+        "air très froid près des rayons réfrigérés",
+        "poignée du chariot en plastique dur et légèrement collant",
+        "sol légèrement humide, traître si on ne fait pas attention",
+        "emballage plastique rigide et froid des produits frais"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Insomniaque chronique",
+        "description": "Fréquente cet endroit non par nécessité mais pour ne pas rester seul chez lui. L'indifférence du lieu est un soulagement. Ici, personne ne lui demande pourquoi il n'est pas couché. Il pousse son chariot lentement, s'arrête longtemps devant les rayons sans vraiment choisir."
+      },
+      {
+        "profil": "Employé de réapprovisionnement",
+        "description": "Travaille en mode automatique, le corps guidé par la répétition. Sait exactement où va chaque produit. Les clients nocturnes sont une anomalie dans sa routine — il les contourne poliment, sans curiosité. Le lieu lui est si familier qu'il ne le voit plus."
+      },
+      {
+        "profil": "Parent d'un nourrisson en crise de larmes",
+        "description": "Venu acheter en urgence quelque chose qui manquait. Le calme du supermarché de nuit contraste violemment avec l'agitation laissée à la maison. Quelques minutes dans les allées désertes ressemblent à une trêve. Il tarde un peu avant de rentrer."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de rencontre improbable entre deux personnages hors du temps social normal",
+      "moment de rupture ou de prise de décision dans un cadre résolument prosaïque",
+      "cadre pour montrer l'isolement social d'un personnage par contraste avec l'abondance muette des rayons",
+      "scène de crise intérieure contenue dans un lieu indifférent",
+      "illustration de la solitude urbaine moderne sans le signaler explicitement",
+      "espace de transition entre deux moments narratifs — les courses comme rituel du quotidien qui tient debout"
+    ],
+    "notesEditoriales": [
+      "La dissonance entre l'abondance des rayons et la solitude du client est l'un des ressorts les plus efficaces de ce lieu — ne pas l'expliciter, laisser le contraste agir.",
+      "La musique d'ambiance douce dans le silence nocturne est un détail à ne pas négliger : elle dit quelque chose de l'absurdité de la situation.",
+      "Éviter le cliché du supermarché de nuit comme lieu glauque ou inquiétant — il peut être mélancolique, voire apaisant selon le personnage.",
+      "Les autres clients nocturnes sont des présences utiles : leur simple apparence (tenue, chariot, produits) en dit long sur leurs vies."
+    ]
+  },
+  {
+    "id": "appartement-voisin-bruit",
+    "label": "Appartement avec bruits de voisins",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "sonore",
+    "elements": [
+      "murs fins qui laissent passer chaque son de l'appartement adjacent",
+      "plafond d'où arrivent les bruits de pas, de chaises traînées, de vie",
+      "télévision d'à côté dont on entend la trame sonore sans les images",
+      "dispute lointaine qui monte et descend en intensité",
+      "rire ou voix d'enfant à travers la cloison",
+      "odeur de cuisine qui filtre sous la porte ou par la ventilation",
+      "silence soudain et total qui succède au bruit, presque plus inquiétant",
+      "sonnette ou interphone d'un autre appartement",
+      "bruit de douche, d'eau qui coule dans les tuyaux de l'immeuble"
+    ],
+    "emotionsTypiques": [
+      "agacement sourd ou aigu selon le degré de bruit",
+      "curiosité involontaire pour la vie de l'autre",
+      "sentiment d'empiètement sur son propre espace",
+      "solitude par contraste — entendre une vie sans y participer",
+      "anxiété légère quand le bruit cesse brusquement",
+      "intimité contrainte et non désirée"
+    ],
+    "ambiance": "L'appartement avec bruits de voisins crée une étrange promiscuité à distance : on est chez soi, mais jamais vraiment seul. Les sons de l'autre filtrent sans permission, composant une bande sonore de l'existence d'un inconnu.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de cuisine de l'autre filtrée par la cloison ou la ventilation",
+        "tabac froid qui passe par les prises électriques ou les fissures",
+        "produit nettoyant de la cage d'escalier",
+        "odeur de renfermé de son propre appartement, qu'on ne remarque plus sauf en rentrant"
+      ],
+      "auditifs": [
+        "pas lourds au-dessus, rythmés ou imprévisibles",
+        "voix de l'autre côté du mur, sourd murmure ou éclat ponctuel",
+        "tuyauterie qui siffle ou gronde quand les voisins utilisent l'eau",
+        "sonnerie de téléphone ou d'interphone d'un voisin",
+        "musique diffuse, reconnaissable ou non, continue ou fragmentée"
+      ],
+      "visuels": [
+        "mur nu qu'on regarde en tendant l'oreille",
+        "légères vibrations d'un objet posé sur une étagère partagée avec la cloison",
+        "traits de lumière sous la porte si le couloir est éclairé",
+        "fenêtre d'en face qui s'allume ou s'éteint dans la nuit",
+        "reflet de ses propres gestes dans la vitre noire de la fenêtre"
+      ],
+      "tactiles": [
+        "vibrations légères du plancher quand quelqu'un marche fort au-dessus",
+        "fraîcheur d'une cloison extérieure en hiver, trop perméable",
+        "main posée sur le mur pour tenter d'entendre mieux ou moins",
+        "coussin contre les oreilles pour étouffer les sons"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Personne seule depuis peu",
+        "description": "Les bruits de voisins sont paradoxalement réconfortants — preuve que le monde continue d'exister au-delà de ses murs. Un rire entendu par hasard peut déclencher une vague de mélancolie ou, au contraire, une forme de compagnie involontaire."
+      },
+      {
+        "profil": "Parent d'un jeune enfant qui vient de s'endormir",
+        "description": "Chaque bruit du voisin devient un ennemi potentiel. Guette le seuil au-delà duquel l'enfant va se réveiller. L'agacement est disproportionné mais parfaitement compréhensible — c'est la fatigue qui parle autant que le bruit."
+      },
+      {
+        "profil": "Écrivain ou personne qui travaille chez soi",
+        "description": "Développe une relation ambivalente avec les sons du voisin : d'abord distraction, puis parfois source involontaire d'inspiration. Invente des vies pour les voix entendues. Finit par connaître les routines de l'autre mieux qu'il ne le voudrait."
+      }
+    ],
+    "usagesNarratifs": [
+      "révéler indirectement la vie d'un personnage secondaire à travers les sons qu'il produit",
+      "créer une tension narrative autour d'un bruit qui dure ou qui cesse trop brusquement",
+      "illustrer la solitude par contraste avec la vie entendue mais inaccessible",
+      "déclencheur d'une interaction entre voisins qui peut changer le cours du récit",
+      "espace de réflexion intérieure forcée par l'impossibilité de faire abstraction",
+      "cadre symbolique pour l'intimité involontaire dans la vie urbaine"
+    ],
+    "notesEditoriales": [
+      "Le bruit du voisin est un outil narratif souple : selon le personnage, il peut être oppressant, réconfortant ou indifférent — à moduler avec soin.",
+      "Le silence soudain après un bruit continu est souvent plus dramatique que le bruit lui-même : à ne pas négliger.",
+      "Ce lieu parle essentiellement par le son — éviter de compenser avec une description visuelle trop chargée.",
+      "La dispute entendue à travers un mur soulève une question éthique pour le personnage : intervenir ou ne pas intervenir — ressort dramatique efficace."
+    ]
+  },
+  {
+    "id": "route-nationale-nuit",
+    "label": "Route nationale la nuit",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "bande d'asphalte noire absorbant les phares",
+      "lignes blanches discontinues qui défilent en hypnose",
+      "panneaux de signalisation verts ou blancs surgissant dans la lumière",
+      "obscurité totale au-delà des bas-côtés",
+      "camions de nuit croisés ou doublés, imposants et lumineux",
+      "stations-service isolées, îlots de lumière dans le noir",
+      "ciel dégagé avec des étoiles visibles loin des villes",
+      "rares fenêtres allumées dans des maisons invisibles",
+      "brume légère possible au niveau des champs"
+    ],
+    "emotionsTypiques": [
+      "sentiment de fuite ou de liberté",
+      "hypnose légère de la conduite nocturne",
+      "angoisse sourde de la panne ou de l'accident",
+      "solitude absolue et consentie",
+      "impression de suspendre le temps entre deux lieux",
+      "mélancolie de la route qui ne mène nulle part ou qui mène trop loin"
+    ],
+    "ambiance": "La route nationale de nuit est un espace de suspension : on n'est plus là d'où l'on vient, pas encore là où l'on va. La monotonie des lignes blanches crée une transe légère, propice aux pensées qu'on s'autorise enfin à avoir.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur d'asphalte chaud ou froid selon la saison",
+        "effluves de carburant au passage d'une station-service",
+        "odeur de champs, de terre ou de foin selon le paysage traversé",
+        "air froid et propre qui entre par une vitre entrouverte"
+      ],
+      "auditifs": [
+        "bourdonnement régulier du moteur, presque méditatif",
+        "sifflement du vent contre la carrosserie à grande vitesse",
+        "bruit des pneus sur l'asphalte, changeant selon le revêtement",
+        "musique ou radio dans l'habitacle, souvent le seul lien avec le monde",
+        "rugissement bref d'un camion en sens inverse"
+      ],
+      "visuels": [
+        "cône de lumière des phares qui avance sans cesse sur l'asphalte noir",
+        "lignes blanches qui défilent en rythme hypnotique",
+        "obscurité totale et impénétrable des champs de chaque côté",
+        "étoiles visibles dans les zones sans pollution lumineuse",
+        "halos orangés des villes à l'horizon, qui attirent ou repoussent"
+      ],
+      "tactiles": [
+        "vibrations du volant ou du siège selon le revêtement de la route",
+        "air froid par la vitre entrouverte sur le visage",
+        "yeux qui picotent après des heures de conduite nocturne",
+        "fatigue dans les bras et les épaules après une longue distance"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Conducteur qui fuit une situation",
+        "description": "La route est une métaphore qu'il essaie de ne pas voir. Conduit trop vite sans s'en rendre compte. Les kilomètres ne l'éloignent pas vraiment de ce qu'il fuit — mais le mouvement remplace la pensée, ce qui est tout ce qu'il veut pour l'instant."
+      },
+      {
+        "profil": "Routier habitué",
+        "description": "La nuit sur la nationale est son bureau. Connaît les stations, les relais, les zones à gendarmes. La solitude nocturne ne l'angoisse plus depuis longtemps — elle a même quelque chose de familier et de reposant. Il écoute la radio comme d'autres lisent le journal."
+      },
+      {
+        "profil": "Jeune conducteur inexpérimenté",
+        "description": "Ressent l'immensité du noir au-delà des phares comme une menace. Tient le volant trop fort. La moindre brume ou le moindre camion croisant trop vite déclenche un pic d'adrénaline. La route de nuit est un test dont il n'est pas sûr de connaître les règles."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de fuite réelle ou symbolique après une rupture ou une révélation",
+      "espace de dialogue intense entre deux personnages captifs dans l'habitacle",
+      "monologue intérieur permis par la monotonie hypnotique de la conduite",
+      "cadre pour une rencontre fortuite dans une station-service de nuit",
+      "illustration de l'entre-deux : le personnage n'est plus d'un côté ni encore de l'autre",
+      "accident, panne ou arrêt inattendu comme déclencheur narratif"
+    ],
+    "notesEditoriales": [
+      "La route de nuit est un lieu de pensée : c'est l'un des rares espaces où un personnage est seul avec lui-même sans distraction. En exploiter le potentiel intérieur autant qu'extérieur.",
+      "Les lignes blanches qui défilent sont un cliché visuel qui reste puissant — à utiliser avec parcimonie et dans un contexte émotionnel précis.",
+      "Une station-service isolée dans la nuit est un micro-lieu narratif à part entière : elle peut changer le cours d'une scène en quelques lignes.",
+      "Le son est l'outil principal de ce lieu : moteur, vent, radio — ils peuvent porter autant d'émotion que la description paysagère."
+    ]
+  },
+  {
+    "id": "piscine-municipale",
+    "label": "Piscine municipale",
+    "type": "espace-public",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "carrelage blanc ou beige mouillé autour des bassins",
+      "couloirs de nage délimités par des flotteurs de plastique colorés",
+      "odeur de chlore qui imprègne tout, vêtements et cheveux compris",
+      "bruit démultiplié des voix et des éclaboussures sous la verrière",
+      "brassards et planches en mousse emilées au bord du bassin",
+      "vestiaires aux casiers métalliques et aux douches obligatoires",
+      "maître-nageur sur sa chaise haute, regard circulaire et impersonnel",
+      "eau turquoise et trouble, légèrement opaque",
+      "horaires stricts affichés, créneaux par public"
+    ],
+    "emotionsTypiques": [
+      "plaisir physique simple et non intellectualisé",
+      "légère gêne de l'exposition corporelle",
+      "sentiment d'égalité sociale dans les corps en maillot",
+      "détente ou agacement selon l'affluence",
+      "nostalgie d'une enfance passée dans ces mêmes lieux",
+      "concentration sur le corps et le souffle, absence du reste"
+    ],
+    "ambiance": "La piscine municipale est un des rares lieux publics où les corps sont exposés sans artifice. Le chlore et le bruit créent une bulle à part, coupée du reste du monde — une parenthèse humide et bruyante qui efface provisoirement tout le reste.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "chlore omniprésent, qui pique les yeux et reste dans les cheveux des heures",
+        "odeur d'eau stagnante dans les vestiaires",
+        "légère odeur de transpiration mêlée au chlore après l'effort",
+        "odeur de shampooing bon marché dans les douches collectives"
+      ],
+      "auditifs": [
+        "réverbération extrême des voix sous la verrière ou le plafond bas",
+        "éclaboussures et bruits de plongeons amplifiés",
+        "sifflet du maître-nageur, bref et impératif",
+        "claquement des portes de vestiaires métalliques",
+        "voix d'enfants qui crient ou rient, portées par l'acoustique"
+      ],
+      "visuels": [
+        "eau turquoise légèrement trouble, lumineuse de l'intérieur",
+        "reflets mouvants sur le fond du bassin",
+        "corps en maillots de toutes formes et couleurs",
+        "carrelage mouillé qui brille sous les néons",
+        "flotteurs orange ou bleus délimitant les couloirs",
+        "affiche de sécurité délavée sur le mur"
+      ],
+      "tactiles": [
+        "eau fraîche et légèrement visqueuse du chlore sur la peau",
+        "carrelage dur et froid sous les pieds nus",
+        "lunettes de natation qui marquent les yeux",
+        "cheveux lourds et imprégnés d'eau après la baignade"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Nageur assidu qui vient le matin avant le travail",
+        "description": "La piscine est un rituel de mise en ordre intérieure. Le bruit lui est invisible, le chlore ne le dérange plus. Compte ses longueurs avec précision, ressort avec la tête claire. Le lieu lui appartient — il en connaît chaque carrelage décollé."
+      },
+      {
+        "profil": "Enfant à sa première leçon de natation",
+        "description": "L'eau est immense, froide, étrangère. Le bruit est assourdissant. L'odeur de chlore est agressive et nouvelle. Le carrelage mouillé est traître. Tout est trop grand, trop fort, trop impersonnel. Il cherche des yeux l'adulte qui l'a amené."
+      },
+      {
+        "profil": "Adulte qui reprend la natation après une longue absence",
+        "description": "La piscine réveille une mémoire musculaire et sensorielle vieille de vingt ans. L'odeur du chlore ramène des images d'enfance précises et inattendues. Le corps retrouve les gestes avant que la tête les commande. C'est troublant et un peu émouvant."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène d'apprentissage ou de dépassement d'une peur physique",
+      "lieu de révélation ou de conversation inattendue entre deux personnages côte à côte dans l'eau",
+      "cadre pour une scène de honte ou d'exposition corporelle non désirée",
+      "espace où la hiérarchie sociale est provisoirement suspendue par les corps en maillot",
+      "moment de retour vers l'enfance déclenché par les odeurs et les sons",
+      "scène où la concentration physique permet une décision ou une pensée qui bloquerait ailleurs"
+    ],
+    "notesEditoriales": [
+      "Le chlore est l'odeur signature de ce lieu : la mentionner une seule fois suffit à tout activer dans la mémoire du lecteur.",
+      "La piscine est l'un des rares espaces publics où tous les corps sont visibles et comparables — à exploiter pour des scènes de vulnérabilité ou d'egalité inattendue.",
+      "Le bruit de la piscine couverte est si particulier qu'il peut servir à lui seul de marqueur de lieu sans autre description.",
+      "Éviter de surcharger la scène : chlore + bruit + eau + un détail personnel du personnage — c'est suffisant."
+    ]
+  },
+  {
+    "id": "grenier-poussiéreux",
+    "label": "Grenier poussiéreux",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "objets entassés sans logique apparente, couverts de housses ou de draps jaunis",
+      "malles fermées à clé ou dont la serrure a rouillé",
+      "vieux vêtements sur des cintres ou dans des cartons ouverts",
+      "couche de poussière grise sur chaque surface horizontale",
+      "lumière filtrant par un vasistas ou une lucarne encrassée",
+      "poutres apparentes basses sous lesquelles il faut se baisser",
+      "odeur de renfermé, de vieux papier et de bois sec",
+      "boîtes de photos, de lettres ou de documents épars",
+      "jouets d'enfants oubliés, poupées ou voitures décolorées"
+    ],
+    "emotionsTypiques": [
+      "nostalgie lourde ou douce selon ce qu'on y trouve",
+      "sentiment d'entrer dans le temps suspendu",
+      "curiosité légèrement coupable vis-à-vis du passé des autres",
+      "mélancolie face aux traces de vies antérieures",
+      "malaise possible si les objets appartiennent à des morts",
+      "étrange paix dans le silence et la chaleur étouffante"
+    ],
+    "ambiance": "Le grenier est le musée intime d'une famille : ici, le temps n'avance plus depuis que les objets y ont été déposés. L'odeur de poussière et de vieux bois enveloppe tout d'une même patine, comme si les choses attendaient d'être à nouveau reconnues.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "poussière sèche et minérale, presque poudreuse sur la langue",
+        "bois sec et chaud sous la chaleur du toit",
+        "papier vieilli, légèrement acide, des livres et cartons",
+        "légère odeur de naphtaline des vêtements conservés"
+      ],
+      "auditifs": [
+        "silence épais, coupé du monde extérieur",
+        "craquement du plancher sous le poids du corps",
+        "frôlement de tissu ou de papier quand on déplace un objet",
+        "bruit sourd du vent contre les tuiles, très présent en été ou par tempête"
+      ],
+      "visuels": [
+        "lumière poussiéreuse et oblique du vasistas, pleine de particules en suspension",
+        "ombres épaisses dans les coins hors de portée de la lumière",
+        "objets reconnaissables mais déformés par le temps et les housses",
+        "écriture passée sur des cartons : noms, dates, catégories presque illisibles",
+        "vieux cadres appuyés contre le mur, faces cachées ou défraîchies",
+        "toiles d'araignée dans les angles des poutres"
+      ],
+      "tactiles": [
+        "chaleur lourde et stagnante en été sous le toit",
+        "poussière qui se dépose sur les mains et les avant-bras dès qu'on touche à quelque chose",
+        "surface granuleuse et froide d'un cadre en bois ancien",
+        "tissu d'un vieux vêtement, sec et légèrement cassant"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Adulte qui trie la maison de ses parents après leur décès",
+        "description": "Chaque objet est une question : qu'est-ce qu'on garde, qu'est-ce qu'on jette, qu'est-ce qu'on ne savait pas ? Les découvertes peuvent être anodines ou bouleversantes. Le grenier devient un inventaire de ce qu'on ne savait pas des gens qu'on croyait connaître."
+      },
+      {
+        "profil": "Enfant explorant seul pour la première fois",
+        "description": "Voit un trésor là où les adultes voient un fatras. Chaque malle est un mystère, chaque vieux jouet une relique d'un monde d'avant. La chaleur et la poussière n'existent presque pas — l'attention est entièrement absorbée par ce qu'on trouve."
+      },
+      {
+        "profil": "Personne cherchant un objet précis",
+        "description": "L'entassement devient une frustration. Le grenier, qui semblait contenir tout ce qu'une famille peut accumuler, ne contient pas ce qu'il cherche. L'absence de l'objet cherché est soudain plus éloquente que tous les objets présents."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de découverte d'un secret familial dissimulé parmi les affaires d'un mort",
+      "retour vers l'enfance déclenché par un objet oublié et retrouvé",
+      "lieu de révélation sur l'identité d'un personnage par ce qu'il a conservé ou caché",
+      "cadre d'un deuil en cours, avec tri des affaires comme rite de passage",
+      "espace d'exploration pour un enfant, levier de curiosité et d'aventure",
+      "lieu symbolique de l'accumulation familiale, du poids des générations"
+    ],
+    "notesEditoriales": [
+      "Le grenier fonctionne presque toujours comme métaphore de la mémoire : à utiliser avec conscience pour ne pas tomber dans le symbolisme trop lourd.",
+      "Un seul objet bien choisi suffit à faire exister le lieu — inutile d'inventorier tout le grenier.",
+      "La lumière poussiéreuse du vasistas est un détail visuel à la fois précis et évocateur : les particules en suspension dans la lumière sont une image souvent efficace.",
+      "La chaleur estivale sous les tuiles est un détail physique qui ancre le personnage dans son corps — à ne pas négliger pour éviter une scène trop cérébrale."
+    ]
+  }
+]

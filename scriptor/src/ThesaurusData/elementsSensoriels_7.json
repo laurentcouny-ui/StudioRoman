@@ -1,0 +1,532 @@
+[
+  {
+    "id": "son-silence-apres-dispute",
+    "label": "Silence après une dispute",
+    "categorie": "auditif",
+    "definitionCourte": "Silence qui succède à une dispute — pas un silence vide, mais un silence saturé de ce qui vient d'être dit, chargé de la respiration de deux personnes qui ne se regardent pas encore.",
+    "qualite": "Lourd, tendu, légèrement électrique — un silence qui a une texture propre, différente du silence ordinaire, que les deux protagonistes sentent simultanément.",
+    "associationsNarratives": [
+      "cuisine ou salon après une dispute de couple",
+      "voiture où l'on se retrouve enfermés ensemble après un éclat",
+      "chambre à coucher avec une porte claquée qui ne se rouvre pas",
+      "bureau après une confrontation professionnelle",
+      "repas de famille qui a mal tourné",
+      "silence entre un parent et un adolescent après une scène",
+      "première dispute dans une relation naissante"
+    ],
+    "emotionsAssociees": [
+      "honte et regret mêlés",
+      "colère qui ne s'est pas encore éteinte",
+      "peur de ce que le silence signifie pour la suite",
+      "soulagement mêlé de honte d'avoir enfin dit",
+      "désir de réconciliation qui n'ose pas se nommer",
+      "orgueil qui retient les premiers pas"
+    ],
+    "memoires": [
+      "disputes parentales entendues dans l'enfance, silence de l'après",
+      "propres ruptures ou crises de couple",
+      "silences après des mots que l'on ne peut pas reprendre",
+      "réconciliations qui ont commencé par un silence"
+    ],
+    "usagesTypiques": [
+      "installer la tension d'une relation sans avoir à reproduire la dispute",
+      "créer un espace de transition entre l'éclat et ce qui vient après",
+      "signifier l'état intérieur des deux personnages par leur posture dans ce silence",
+      "forcer un choix narratif : qui brise le silence, comment, et ce que ça dit",
+      "marquer l'irréversibilité de certains mots par leur écho dans le silence",
+      "contraster avec les disputes à venir ou passées pour souligner l'évolution"
+    ],
+    "contraires": [
+      "bruit-et-agitation-apres-dispute",
+      "réconciliation-immediate-sans-silence",
+      "silence-ordinaire-absence-tension"
+    ],
+    "combinaisons": [
+      "silence après dispute + son de vaisselle qui reprend : vie ordinaire qui continue malgré tout",
+      "silence après dispute + regard qui cherche l'autre et se détourne : désir de réconciliation bloqué",
+      "silence après dispute + enfant dans la pièce d'à côté : responsabilité qui pèse sur le silence"
+    ],
+    "notesEditoriales": [
+      "Ce silence est narrativement actif — ne pas le traiter comme une pause mais comme une scène à part entière.",
+      "Ce qui se passe dans ce silence dit autant sur les personnages que la dispute elle-même.",
+      "Qui brise le silence en premier est presque toujours significatif : à ne pas laisser au hasard."
+    ]
+  },
+  {
+    "id": "son-voix-qui-tremble",
+    "label": "Voix qui tremble en parlant",
+    "categorie": "auditif",
+    "definitionCourte": "Légère instabilité dans la voix — vibration imperceptible ou audible qui trahit une émotion que le personnage tente de contrôler, souvent malgré lui.",
+    "qualite": "Irrégulière, légèrement brisée sur certaines syllabes, plus grave ou plus haute que la voix ordinaire — une voix qui dit ce que les mots ne disent pas.",
+    "associationsNarratives": [
+      "tentative de tenir un discours ou une annonce difficile",
+      "confrontation émotionnelle où le personnage veut rester fort",
+      "aveu long retenu qui sort enfin",
+      "personnage qui apprend une nouvelle bouleversante",
+      "plaidoyer ou défense sous pression",
+      "déclaration d'amour ou de séparation",
+      "personnage qui ment et dont la voix le trahit"
+    ],
+    "emotionsAssociees": [
+      "émotion contenue à la limite de la rupture",
+      "peur de perdre le contrôle de soi",
+      "honte du tremblement lui-même",
+      "intensité d'une émotion que l'on ne peut plus cacher",
+      "vulnérabilité non voulue",
+      "soulagement parfois de ne plus pouvoir prétendre"
+    ],
+    "memoires": [
+      "moments de discours difficiles en public ou en privé",
+      "annonces ou aveux qui ont coûté",
+      "entendre la voix d'un proche se briser",
+      "propres moments où la voix a lâché avant les larmes"
+    ],
+    "usagesTypiques": [
+      "révéler l'état intérieur d'un personnage sans le dire explicitement",
+      "créer un moment de vérité involontaire dans une scène de contrôle",
+      "signifier la limite d'un personnage qui voulait tenir",
+      "marquer le moment exact où une façade commence à se fissurer",
+      "créer de l'empathie pour un personnage qui n'en demande pas",
+      "introduire la vulnérabilité d'un personnage fort"
+    ],
+    "contraires": [
+      "voix-ferme-et-assurée",
+      "silence-choisi-refus-de-parler",
+      "ton-monocorde-detachement-total"
+    ],
+    "combinaisons": [
+      "voix qui tremble + effort visible pour la contrôler : double signal, la lutte intérieure lisible",
+      "voix qui tremble + mots choisis avec soin : le fond et la forme en décalage poignant",
+      "voix qui tremble + personage qui détourne le regard : corps entier en retrait de l'émotion"
+    ],
+    "notesEditoriales": [
+      "La voix qui tremble est plus efficace quand elle surprend : un personnage réputé fort, un moment où ce n'est pas attendu.",
+      "Ne pas la signaler explicitement dans la narration — mieux vaut la décrire et laisser le lecteur la nommer.",
+      "Un seul tremblement bien placé vaut plus que dix mentions du même phénomène."
+    ]
+  },
+  {
+    "id": "vision-photographie-passee",
+    "label": "Se voir en photo jeune",
+    "categorie": "visuel",
+    "definitionCourte": "Expérience de tomber sur une photographie de soi à un âge révolu — se voir avec les yeux du présent, étranger et familier à la fois, dans une image qui fige un moment que l'on ne peut plus rejoindre.",
+    "qualite": "Visuelle et temporelle à la fois — une image qui dit le temps écoulé plus fort que n'importe quelle horloge.",
+    "associationsNarratives": [
+      "fouille de vieilles affaires lors d'un déménagement ou d'un deuil",
+      "album photo sorti pour montrer à quelqu'un",
+      "découverte d'une photo dans un livre ou un tiroir oublié",
+      "réseaux sociaux qui remontent des souvenirs d'une autre époque",
+      "photo trouvée par un enfant qui demande : c'est qui ?",
+      "confrontation à sa propre jeunesse lors d'un retour aux sources",
+      "photo prise juste avant un événement qui a tout changé"
+    ],
+    "emotionsAssociees": [
+      "nostalgie douce-amère",
+      "sentiment de dépossession de soi-même",
+      "tendresse pour qui on était",
+      "mélancolie sur ce qu'on espérait devenir",
+      "étrangeté face à sa propre continuité",
+      "émotion sans nom qui mêle la perte et la reconnaissance"
+    ],
+    "memoires": [
+      "découvertes de vieilles photos de famille",
+      "premières fois qu'on s'est vu vieux dans son regard d'enfant",
+      "albums parcourus après un deuil",
+      "photos d'une époque révolue et heureuse ou difficile"
+    ],
+    "usagesTypiques": [
+      "ouvrir une réflexion sur l'identité et le temps sans philosophie abstraite",
+      "déclencher un souvenir ou une révélation sur le passé du personnage",
+      "créer un moment de solitude contemplative dans une scène d'action",
+      "signifier le vieillissement ou le changement d'un personnage de l'intérieur",
+      "ancrer une scène de deuil ou de succession",
+      "introduire un contraste entre l'espoir d'autrefois et le présent"
+    ],
+    "contraires": [
+      "miroir-présent-sans-passé",
+      "photo-autre-sans-rapport-à-soi",
+      "refus-de-regarder-les-photos"
+    ],
+    "combinaisons": [
+      "photo de soi jeune + regard d'un enfant qui demande qui c'est : fissure dans la continuité identitaire",
+      "photo de soi jeune + sourire d'une époque que l'on ne souvient pas : mémoire sélective, vie non vécue",
+      "photo de soi jeune + lieu du présent où rien n'a changé : vertige du temps"
+    ],
+    "notesEditoriales": [
+      "Éviter la réflexion explicite du personnage sur le temps qui passe — laisser la photo agir seule.",
+      "La photo dit ce que le miroir ne peut pas dire : elle montre qui on était, pas seulement qui on est.",
+      "Ce moment est souvent plus fort quand il arrive dans un contexte inattendu, pas lors d'une fouille nostalgique planifiée."
+    ]
+  },
+  {
+    "id": "vision-lieu-change",
+    "label": "Lieu familier complètement transformé",
+    "categorie": "visuel",
+    "definitionCourte": "Expérience de retrouver un endroit connu — maison d'enfance, ancienne école, quartier — et de le découvrir transformé au point que le souvenir et le réel ne coïncident plus.",
+    "qualite": "Déstabilisante, presque vertigineuse — la vision est nette mais l'émotion est floue, comme si le lieu réel effaçait le lieu mémorisé.",
+    "associationsNarratives": [
+      "retour dans la ville ou la maison d'enfance après des années",
+      "ancienne école devenue autre chose",
+      "quartier gentrifié qui a perdu son visage familier",
+      "maison de famille vendue ou rénovée par de nouveaux propriétaires",
+      "lieu du premier amour ou d'un souvenir fort devenu méconnaissable",
+      "retour sur un lieu de deuil ou de traumatisme transformé",
+      "voyage dans un pays que l'on croyait connaître"
+    ],
+    "emotionsAssociees": [
+      "sentiment de perte sans objet de deuil clair",
+      "désorientation douce",
+      "mélancolie de ce qui n'existe plus",
+      "sentiment que sa propre mémoire est fausse",
+      "colère ou tristesse face à l'irréversibilité",
+      "soulagement parfois que le passé difficile soit recouvert"
+    ],
+    "memoires": [
+      "retours aux sources après de longues absences",
+      "découverte que l'endroit idéalisé était moins grand ou moins beau que dans le souvenir",
+      "lieux de l'enfance devenus méconnaissables",
+      "quartiers transformés par la gentrification ou le temps"
+    ],
+    "usagesTypiques": [
+      "signifier le temps écoulé de manière concrète et émotionnelle",
+      "introduire le thème du retour et de l'impossibilité de revenir en arrière",
+      "créer un vertige identitaire : si le lieu a changé, qui suis-je par rapport à lui ?",
+      "ouvrir une réflexion sur la mémoire et la réalité sans l'expliciter",
+      "ancrer une scène de retrouvailles avec le passé",
+      "signifier la rupture entre le personnage d'avant et celui d'aujourd'hui"
+    ],
+    "contraires": [
+      "lieu-retrouvé-intact-comme-dans-le-souvenir",
+      "lieu-inconnu-sans-mémoire-associée",
+      "lieu-détruit-absence-totale"
+    ],
+    "combinaisons": [
+      "lieu transformé + quelqu'un qui n'a pas changé, lui : contraste entre la permanence humaine et le changement matériel",
+      "lieu transformé + photo ancienne du même endroit : dialogue entre le souvenir et le présent",
+      "lieu transformé + enfant du personnage qui ne voit que le présent : fossé des générations et des mémoires"
+    ],
+    "notesEditoriales": [
+      "Le lieu transformé parle toujours de temps, mais ce n'est pas une lamentation obligatoire : il peut aussi dire la libération.",
+      "Résister à l'envie d'inventorier tout ce qui a changé — un ou deux détails précis suffisent.",
+      "La réaction du personnage (quête des traces du passé ou acceptation du présent) dit beaucoup de son rapport au temps."
+    ]
+  },
+  {
+    "id": "texture-main-enfant",
+    "label": "Petite main d'enfant dans la sienne",
+    "categorie": "tactile",
+    "definitionCourte": "Sensation d'une main d'enfant — douce, légèrement potelée, chaude et confiante — posée dans une grande main d'adulte, souvent sans que l'enfant en mesure le poids.",
+    "qualite": "Douce, légèrement humide de vie, légère comme quelque chose que l'on pourrait briser sans le vouloir — une douceur qui engage la responsabilité.",
+    "associationsNarratives": [
+      "traversée d'une rue, l'enfant qui attrape la main par réflexe",
+      "nuit où l'enfant a peur et vient chercher la main de l'adulte",
+      "hôpital : enfant malade dont la main est tenue",
+      "départ ou séparation, la main que l'on lâche",
+      "promenade ordinaire chargée d'une émotion non dite",
+      "adulte peu habitué aux enfants surpris par ce contact",
+      "dernière fois sans le savoir — main tenue avant une séparation définitive"
+    ],
+    "emotionsAssociees": [
+      "tendresse protectrice intense",
+      "sentiment de responsabilité absolue",
+      "amour simple et corporel",
+      "émotion des fins : cette main va grandir, cette main va partir",
+      "réconfort mutuel — l'adulte aussi est tenu",
+      "vulnérabilité acceptée de celui qui se laisse tenir"
+    ],
+    "memoires": [
+      "propres enfances, main dans celle d'un parent",
+      "premières fois qu'un enfant nous a tenu la main",
+      "accompagnement d'un enfant dans un moment de peur",
+      "séparations — lâcher la main d'un enfant qui part"
+    ],
+    "usagesTypiques": [
+      "signifier l'attachement et la responsabilité sans dialogue",
+      "créer un moment de douceur absolue dans un récit tendu",
+      "marquer l'amour parental dans son expression la plus simple et la plus physique",
+      "introduire la fragilité d'un enfant par le sens du toucher",
+      "signifier une séparation imminente par la conscience du contact",
+      "humaniser un personnage dur ou fermé par un contact inattendu avec un enfant"
+    ],
+    "contraires": [
+      "main-adulte-froide-et-ferme",
+      "main-lâchée-sans-réponse",
+      "absence-de-contact-distance-voulue"
+    ],
+    "combinaisons": [
+      "petite main + marche silencieuse : présence sans mots, l'essentiel dit par le contact",
+      "petite main + personnage qui pleure intérieurement : la douceur de l'enfant comme révélateur de la douleur adulte",
+      "petite main + contexte de danger : responsabilité amplifiée, amour comme protection physique"
+    ],
+    "notesEditoriales": [
+      "L'une des sensations les plus difficiles à rendre clichée tellement elle est précise et vraie — mais y prendre garde quand même.",
+      "La symétrie est narrative : qui tient qui ? L'enfant tient autant qu'il est tenu.",
+      "Éviter la scène uniquement illustrative — la main doit servir un moment narratif réel, pas seulement être belle."
+    ]
+  },
+  {
+    "id": "texture-argent-poche-vide",
+    "label": "Poche vide là où il y avait de l'argent",
+    "categorie": "tactile",
+    "definitionCourte": "Geste de la main qui cherche dans une poche et trouve le vide là où une présence était attendue — sensation d'absence qui se traduit immédiatement en réalité.",
+    "qualite": "Creuse, décevante, légèrement paniquante — les doigts qui cherchent, qui tâtent, qui refusent de croire ce qu'ils trouvent.",
+    "associationsNarratives": [
+      "vol ou perte d'argent dans un moment critique",
+      "personnage qui réalise qu'il n'a plus les moyens qu'il croyait avoir",
+      "geste mécanique qui révèle soudain une situation",
+      "moment de honte devant une caisse ou face à quelqu'un",
+      "personnage en voyage qui découvre qu'il a été dévalisé",
+      "fin du mois, calcul de ce qui reste et ne reste plus",
+      "enfant qui avait économisé et dont l'argent a disparu"
+    ],
+    "emotionsAssociees": [
+      "panique soudaine",
+      "honte anticipée",
+      "sentiment d'impuissance et de vulnérabilité",
+      "colère froide si c'est un vol",
+      "résignation si c'est la pauvreté chronique",
+      "désorientation brève mais aiguë"
+    ],
+    "memoires": [
+      "premier vol ou première perte d'argent",
+      "périodes de précarité ou de fin de mois difficile",
+      "scènes de honte face à une caisse ou un restaurant",
+      "enfance et rapport à l'argent de poche"
+    ],
+    "usagesTypiques": [
+      "signifier la précarité ou une crise financière par le corps avant le récit",
+      "créer une tension soudaine dans une scène ordinaire",
+      "marquer un vol ou une perte sans le nommer immédiatement",
+      "révéler le rapport d'un personnage à l'argent et à la sécurité",
+      "ancrer une scène de pauvreté dans une sensation physique concrète",
+      "introduire un moment de honte sociale"
+    ],
+    "contraires": [
+      "main-qui-trouve-ce-qu-elle-cherchait",
+      "portefeuille-plein-et-rassurant",
+      "indifference-à-l-argent"
+    ],
+    "combinaisons": [
+      "poche vide + regard d'une caissière qui attend : honte sociale, temps suspendu",
+      "poche vide + tâtonnement répété de la main : refus de croire, réalité qui s'impose",
+      "poche vide + souvenir précis d'y avoir mis quelque chose : certitude du vol, colère naissante"
+    ],
+    "notesEditoriales": [
+      "La sensation du vide est plus forte que la mention de la pauvreté ou du vol — laisser le geste parler.",
+      "Le tâtonnement répété (vérifier deux fois, trois fois) est un détail comportemental révélateur à ne pas élider.",
+      "Peut aussi signifier une perte symbolique au-delà de l'argent : quelque chose que l'on cherche et qui n'est plus là."
+    ]
+  },
+  {
+    "id": "gout-nourriture-sans-faim",
+    "label": "Nourriture avalée sans faim",
+    "categorie": "gustatif",
+    "definitionCourte": "Goût d'aliments consommés mécaniquement, sans appétit ni plaisir — nourriture qui passe sans être vraiment sentie, avalée pour tenir ou pour faire semblant que tout va.",
+    "qualite": "Insipide non par défaut du plat mais par absence de désir — les saveurs sont là mais ne parviennent pas jusqu'à la conscience.",
+    "associationsNarratives": [
+      "repas pris après un choc ou une mauvaise nouvelle",
+      "deuil récent : manger par obligation, par pression de l'entourage",
+      "dépression légère ou état dissociatif",
+      "repas de famille tendu où l'on mange pour s'occuper les mains",
+      "personnage épuisé qui mange debout, en marchant, sans s'asseoir",
+      "alimentation mécanique d'un soignant qui oublie ses propres besoins",
+      "prison ou enfermement : manger sans goût ni choix"
+    ],
+    "emotionsAssociees": [
+      "dissociation légère ou profonde",
+      "tristesse qui coupe l'appétit et les sens",
+      "épuisement total",
+      "sentiment d'obligation envers le corps",
+      "détachement de soi",
+      "honte de ne pas pouvoir profiter"
+    ],
+    "memoires": [
+      "périodes de dépression ou de deuil",
+      "maladie qui coupe l'appétit",
+      "repas de crise sous le regard des autres",
+      "nuits sans sommeil et matins sans faim"
+    ],
+    "usagesTypiques": [
+      "signifier un état de choc ou de dépression par un comportement alimentaire",
+      "créer un contraste avec un personnage qui mange habituellement avec plaisir",
+      "ancrer la tristesse dans le corps de manière concrète",
+      "marquer une rupture dans le quotidien ordinaire d'un personnage",
+      "signifier l'absence à soi-même dans une scène collective",
+      "installer l'atmosphère d'un après-choc sans le nommer"
+    ],
+    "contraires": [
+      "faim-vive-et-plaisir-de-manger",
+      "repas-partagé-avec-appétit",
+      "saveur-retrouvée-signe-de-guerison"
+    ],
+    "combinaisons": [
+      "nourriture sans faim + regard vide posé ailleurs : absence totale du moment présent",
+      "nourriture sans faim + quelqu'un qui surveille si l'on mange : regard de l'autre sur la détresse",
+      "nourriture sans faim + plat préféré rendu insipide : mesure concrète d'un état émotionnel"
+    ],
+    "notesEditoriales": [
+      "L'insipidité dit mieux la dépression que beaucoup de descriptions psychologiques — à utiliser tôt dans les scènes d'état second.",
+      "La reprise du goût peut signaler narrativement une guérison ou un retour à soi sans qu'il soit nécessaire de le commenter.",
+      "Éviter l'inventaire des plats : l'absence de goût ne doit pas être illustrée par une liste, mais par le geste mécanique."
+    ]
+  },
+  {
+    "id": "gout-victoire-amère",
+    "label": "Victoire qui a un goût amer",
+    "categorie": "gustatif",
+    "definitionCourte": "Sensation intérieure — métaphoriquement gustative — d'un succès qui ne procure pas la satisfaction attendue, ou dont le prix a été trop élevé pour que le triomphe soit simple.",
+    "qualite": "Mêlée, décevante, parfois écœurante — une victoire qui laisse un arrière-goût de perte, de trahison ou de vide là où la joie devrait être.",
+    "associationsNarratives": [
+      "gagner en ayant sacrifié quelque chose ou quelqu'un d'important",
+      "réussir ce pour quoi on s'est battu mais trop tard ou à trop grand prix",
+      "victoire sur un adversaire devenu inutile ou décédé",
+      "obtenir ce qu'on voulait et se rendre compte que ce n'était pas ça",
+      "succès professionnel qui creuse un écart dans une relation",
+      "gain juridique après une bataille longue et épuisante",
+      "vengeance accomplie qui ne soulage pas comme prévu"
+    ],
+    "emotionsAssociees": [
+      "désillusion",
+      "vide existentiel post-accomplissement",
+      "culpabilité du moyen employé",
+      "deuil de ce qu'il a fallu sacrifier",
+      "solitude du gagnant",
+      "regret mêlé d'orgueil blessé"
+    ],
+    "memoires": [
+      "victoires professionnelles ou académiques qui n'ont pas apporté ce qu'on espérait",
+      "réconciliations gagnées mais pas senties",
+      "moments de revanche qui ont semblé creux",
+      "succès obtenus seul quand on voulait les partager"
+    ],
+    "usagesTypiques": [
+      "signifier la complexité d'une victoire narrative sans la commenter",
+      "créer un moment de désillusion pour un personnage qui croyait savoir ce qu'il voulait",
+      "ouvrir la question du prix payé pour ce qui a été obtenu",
+      "nuancer un arc narratif de rédemption ou de revanche",
+      "ancrer la tension entre le succès externe et l'état intérieur",
+      "introduire une nouvelle phase du récit après un faux dénouement"
+    ],
+    "contraires": [
+      "joie-pure-victoire-sans-ambivalence",
+      "défaite-assumée-sans-amertume",
+      "soulagement-simple-après-épreuve"
+    ],
+    "combinaisons": [
+      "victoire amère + absence de la personne à qui l'annoncer : le succès vidé de sens par la perte",
+      "victoire amère + sourire que l'on force : façade sociale et vérité intérieure",
+      "victoire amère + retour dans un lieu familier qui n'a pas changé : décalage entre ce qu'on est devenu et ce qui reste"
+    ],
+    "notesEditoriales": [
+      "La métaphore gustative de l'amertume est usée en surface mais puissante quand elle est incarnée dans des actions concrètes.",
+      "Ne pas l'expliquer : montrer les gestes du personnage après la victoire et laisser le lecteur nommer l'amertume.",
+      "Particulièrement efficace pour les fins de récit qui refusent la résolution nette."
+    ]
+  },
+  {
+    "id": "odeur-maison-enfance-reelle",
+    "label": "Retrouver l'odeur exacte d'une maison d'enfance",
+    "categorie": "olfactif",
+    "definitionCourte": "Moment où une odeur — celle d'une maison, d'un appartement, d'une pièce spécifique de l'enfance — surgit à l'identique dans le présent et déclenche un retour involontaire et total.",
+    "qualite": "Instantanée, irrésistible, sans filtre conscient — une odeur qui n'est pas perçue puis reconnue, mais qui arrive et emporte tout.",
+    "associationsNarratives": [
+      "retour dans la maison familiale après des années",
+      "chez quelqu'un dont la maison sent comme celle d'autrefois",
+      "objet conservé qui a retenu l'odeur",
+      "produit ménager ou alimentaire spécifique qui ramène en arrière",
+      "personnage qui cherche cette odeur sans la trouver depuis des années",
+      "retrouver l'odeur au moment d'un deuil : la maison après la mort du parent",
+      "enfant qui reconnaît une odeur et ne sait pas pourquoi il est ému"
+    ],
+    "emotionsAssociees": [
+      "nostalgie fulgurante",
+      "sécurité d'avant retrouvée une seconde",
+      "chagrin immédiat de ce qui n'est plus",
+      "tendresse involontaire",
+      "confusion temporelle — être ici et là-bas en même temps",
+      "émotion sans objet précis ni raison claire"
+    ],
+    "memoires": [
+      "maisons d'enfance perdues ou vendues",
+      "odeurs des grands-parents ou des parents",
+      "retours aux sources qui n'ont pas pu avoir lieu",
+      "deuils où l'odeur de la personne disparue est la dernière trace"
+    ],
+    "usagesTypiques": [
+      "déclencher une mémoire involontaire de type proustien sans le citer",
+      "signifier le lien au passé par le sens le plus direct à la mémoire",
+      "créer un moment de rupture temporelle dans une scène du présent",
+      "ancrer un deuil ou une perte dans le corps sans l'intellect",
+      "humaniser un personnage qui se croyait détaché de son passé",
+      "ouvrir une scène de retour ou de confrontation au passé"
+    ],
+    "contraires": [
+      "lieu-d-enfance-sans-odeur-reconnaissable",
+      "odeur-etrangere-dans-la-maison-familiale",
+      "absence-de-mémoire-olfactive"
+    ],
+    "combinaisons": [
+      "odeur de la maison d'enfance + silence de l'adulte qui s'arrête : choc muet, tout arrive à la fois",
+      "odeur de la maison d'enfance + enfant qui court sans s'en apercevoir : deux temps en parallèle",
+      "odeur de la maison d'enfance + contexte totalement étranger : rupture, l'inattendu amplifie l'émotion"
+    ],
+    "notesEditoriales": [
+      "La mémoire olfactive est la plus directe et la moins filtrée — ne pas l'intellectualiser dans la narration.",
+      "Un personnage qui ne peut pas nommer l'odeur mais la reconnaît est plus puissant qu'un personnage qui l'analyse.",
+      "Résister à l'envie de développer le souvenir déclenché : parfois, l'odeur seule, et le silence après, suffisent."
+    ]
+  },
+  {
+    "id": "froid-mains-peur",
+    "label": "Mains froides sous l'effet de la peur",
+    "categorie": "thermique",
+    "definitionCourte": "Refroidissement brutal des extrémités lorsque le corps se prépare à une menace — sang qui afflue vers les organes vitaux, mains qui deviennent soudain glacées sans raison climatique.",
+    "qualite": "Soudain, irrationnel, légèrement moite puis froid — une sensation que le personnage peut constater mais pas contrôler.",
+    "associationsNarratives": [
+      "attente avant une confrontation ou une annonce redoutée",
+      "menace perçue avant d'être comprise",
+      "trac extrême avant une prise de parole ou un acte décisif",
+      "moment où le personnage réalise qu'il est en danger",
+      "entretien ou interrogatoire sous pression",
+      "découverte d'une information qui change tout",
+      "peur nocturne, bruit entendu dans l'obscurité"
+    ],
+    "emotionsAssociees": [
+      "peur viscérale avant même la pensée",
+      "préparation physique instinctive au danger",
+      "sentiment que le corps sait avant la tête",
+      "honte de la réaction physique incontrôlable",
+      "concentration aiguë ou paralysie selon le personnage",
+      "vulnérabilité corporelle révélatrice"
+    ],
+    "memoires": [
+      "premières grandes peurs physiques",
+      "moments de danger réel ou perçu",
+      "trac intense avant un examen ou une performance",
+      "annonces médicales ou judiciaires redoutées"
+    ],
+    "usagesTypiques": [
+      "signifier la peur avant que le personnage la nomme ou la comprenne",
+      "créer un signal physique involontaire dans une scène de dissimulation",
+      "ancrer la peur dans le corps et pas seulement dans le récit intérieur",
+      "révéler l'état d'un personnage qui prétend ne pas avoir peur",
+      "marquer le début d'une montée de tension sans la nommer",
+      "créer de l'empathie pour un personnage en danger par le biais du corps"
+    ],
+    "contraires": [
+      "chaleur-des-mains-calme-assurance",
+      "corps-chaud-et-détendu",
+      "mains-sèches-indifférence-totale"
+    ],
+    "combinaisons": [
+      "mains froides + effort pour que l'autre ne le remarque pas : contrôle de façade, peur réelle",
+      "mains froides + décision d'agir quand même : le corps dit non, le personnage dit oui",
+      "mains froides + contact avec la main de quelqu'un : trahison de l'état intérieur par le toucher"
+    ],
+    "notesEditoriales": [
+      "La réponse corporelle précède la réponse consciente — utiliser les mains froides avant que le personnage comprenne le danger.",
+      "Contraste puissant avec les mains tendues vers l'autre : la chaleur attendue qui ne vient pas dit la peur sans l'expliquer.",
+      "Éviter de commenter la réaction depuis l'extérieur — la laisser dans le ressenti du personnage."
+    ]
+  }
+]

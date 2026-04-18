@@ -1,0 +1,442 @@
+[
+  {
+    "id": "ecrivain",
+    "label": "Écrivain",
+    "domaine": "art, littérature",
+    "definitionCourte": "Un personnage qui vit deux vies en simultané : la sienne, et celle qu'il observe pour l'écrire. Il ne peut pas éteindre le regard qui enregistre.",
+    "perceptionDuMonde": "Voit chaque situation comme un matériau potentiel. Écoute les conversations pour leur rythme autant que pour leur sens. Peut se sentir à la fois intensément présent et perpétuellement en dehors de ce qu'il vit.",
+    "signesDistinctifs": [
+      "regard qui s'absente au milieu d'une conversation, comme s'il prenait une note mentale",
+      "lèvres qui bougent légèrement quand il formule intérieurement",
+      "cahier ou carnet toujours à portée de main",
+      "tendance à reformuler ce que les autres disent, comme pour en tester la sonorité",
+      "posture penchée en avant quand il écoute, dos légèrement courbé",
+      "doigts qui bougent parfois sur une surface plane, comme s'il tapait",
+      "réaction retardée aux émotions : les ressent, les analyse, puis les exprime"
+    ],
+    "langageSpecifique": [
+      "\"C'est une bonne scène\" (en parlant d'un moment réel)",
+      "\"Je ne sais pas encore ce que ça veut dire\"",
+      "\"Ça sonnait faux\" (sur une interaction humaine)",
+      "\"J'ai besoin de temps pour digérer ça\"",
+      "références fréquentes à d'autres livres comme grille de lecture du réel"
+    ],
+    "tensionsTypiques": [
+      "vivre pleinement versus observer pour écrire : les deux s'excluent parfois",
+      "exposer sa vie intérieure dans l'œuvre sans trahir ceux qui l'entourent",
+      "l'insécurité financière permanente qui mine la liberté créative",
+      "le doute sur la valeur de ce qu'il produit, même après publication",
+      "la solitude du processus opposée au besoin de reconnaissance"
+    ],
+    "blessuresProfessionnelles": [
+      "difficulté à être pleinement présent : chaque moment est aussi un matériau",
+      "relation fragile à l'identité hors de l'écriture",
+      "hypersensibilité à la critique, même bienveillante"
+    ],
+    "usagesNarratifs": [
+      "personnage capable de nommer ce que les autres ressentent sans pouvoir le vivre lui-même",
+      "narrateur unreliable par excellence : il réécrit le réel en le vivant",
+      "figure du témoin qui finit par devenir acteur malgré lui"
+    ],
+    "notesEditoriales": [
+      "Éviter le cliché romantique de l'écrivain torturé : la douleur n'est pas sa marque de fabrique, l'attention l'est.",
+      "Son rapport au langage crée une distance réelle avec autrui — à utiliser comme friction dramatique, pas comme pose."
+    ]
+  },
+  {
+    "id": "acteur",
+    "label": "Acteur",
+    "domaine": "art, spectacle",
+    "definitionCourte": "Un personnage entraîné à habiter des états émotionnels sur commande, ce qui peut brouiller la frontière entre ce qu'il ressent vraiment et ce qu'il performe.",
+    "perceptionDuMonde": "Lit les gens en termes de jeu, de présence, de rythme. Perçoit très rapidement les émotions non dites chez autrui — et peut les imiter sans nécessairement les partager. Doute parfois de l'authenticité de ses propres émotions.",
+    "signesDistinctifs": [
+      "conscience permanente de son corps dans l'espace, jamais vraiment décontracté",
+      "voix modulée instinctivement selon l'interlocuteur",
+      "tendance à observer les mimiques des autres comme une documentation",
+      "gestes plus expressifs que la moyenne, même dans la vie ordinaire",
+      "silence habité : même quand il ne parle pas, il occupe l'espace",
+      "adaptation rapide de son registre émotionnel selon le groupe",
+      "regard qui accroche, difficile à soutenir longtemps"
+    ],
+    "langageSpecifique": [
+      "\"Je ne trouve pas encore le personnage\" (sur lui-même en situation difficile)",
+      "\"Il y avait quelque chose de pas joué là-dedans\"",
+      "\"Je dois travailler l'intention\" (même hors scène)",
+      "\"C'était du souffle, pas du sens\"",
+      "descriptions d'émotions en termes de couleur ou de texture plutôt que de mots"
+    ],
+    "tensionsTypiques": [
+      "ne plus savoir ce qu'il ressent vraiment versus ce qu'il joue",
+      "être aimé pour un rôle plutôt que pour soi",
+      "dépendance au regard du public, inconfort dans l'invisibilité",
+      "le corps vieillissant contre les rôles disponibles",
+      "la discontinuité des contrats versus le besoin de stabilité"
+    ],
+    "blessuresProfessionnelles": [
+      "identité propre fragilisée à force d'habiter des identités autres",
+      "difficulté à formuler ses propres désirs sans les jouer",
+      "vulnérabilité au rejet amplifié par l'exposition publique"
+    ],
+    "usagesNarratifs": [
+      "personnage dont on ne sait jamais exactement ce qu'il ressent vraiment — ressort dramatique puissant",
+      "miroir émotionnel : reflète ce que les autres veulent voir, parfois sans s'en rendre compte",
+      "figure capable de changer complètement de registre émotionnel — utile dans les scènes de tension"
+    ],
+    "notesEditoriales": [
+      "Éviter la caricature du comédien menteur : son rapport à la vérité est plus complexe — il cherche une vérité plus grande que le réel.",
+      "Sa conscience du corps en fait un personnage physiquement précis à décrire, même au repos."
+    ]
+  },
+  {
+    "id": "musicien-professionnel",
+    "label": "Musicien professionnel",
+    "domaine": "art, musique",
+    "definitionCourte": "Un personnage dont le corps est un instrument autant que le talent, et dont la vie entière s'organise autour d'une discipline exigeante souvent invisible au public.",
+    "perceptionDuMonde": "Perçoit le monde en termes de rythme, de tempo, de silence. Entend les sons parasites là où les autres n'entendent rien. La musique est un filtre constant sur l'expérience, pas un loisir.",
+    "signesDistinctifs": [
+      "doigts qui bougent imperceptiblement sur une surface, répétant une phrase musicale",
+      "oreille qui tourne légèrement vers une source sonore avant le regard",
+      "posture spécifique selon l'instrument (dos droit chez un pianiste, nuque tendue chez un violoniste)",
+      "sensibilité marquée aux sons aigus ou aux fréquences particulières",
+      "rythme de marche souvent régulier, presque mesuré",
+      "gestes économes et précis dans la vie quotidienne",
+      "inconfort visible dans les environnements sonores chaotiques"
+    ],
+    "langageSpecifique": [
+      "\"C'est trop chargé\" (sur une conversation ou une situation)",
+      "\"Ça manque de dynamique\" (sur un récit, un projet)",
+      "\"Il faut laisser respirer\" (sur à peu près tout)",
+      "\"C'était en dessous\" ou \"au-dessus\" (sur une performance humaine ou artistique)",
+      "références fréquentes à la structure, à la forme, à la répétition"
+    ],
+    "tensionsTypiques": [
+      "le corps comme outil de travail : une blessure peut tout arrêter",
+      "la pratique solitaire intense versus la performance collective",
+      "l'instabilité financière des carrières musicales non commerciales",
+      "le sacrifice de la vie ordinaire pour les heures de travail",
+      "la relation ambivalente au public : besoin de lui, méfiance de son jugement"
+    ],
+    "blessuresProfessionnelles": [
+      "anxiété de performance chronique, même après des années de scène",
+      "difficulté à écouter de la musique de façon non analytique",
+      "solitude du praticien incompris par ceux qui n'ont pas ce niveau d'exigence"
+    ],
+    "usagesNarratifs": [
+      "personnage dont la discipline intérieure contraste avec le chaos d'une situation",
+      "figure capable d'entendre ce que les autres manquent — utile pour des scènes de tension ou de danger",
+      "relation à l'échec particulièrement riche : l'erreur est publique, irréparable, immédiate"
+    ],
+    "notesEditoriales": [
+      "Le musicien professionnel n'aime pas toujours la musique au sens romantique : il la travaille, parfois avec épuisement.",
+      "Son rapport au silence est un levier narratif puissant — le silence n'est jamais vide pour lui."
+    ]
+  },
+  {
+    "id": "photographe",
+    "label": "Photographe",
+    "domaine": "art, image, témoignage",
+    "definitionCourte": "Un personnage dont le regard est devenu un cadre : il voit le monde en plans, en lumières, en instants à capturer, parfois au détriment de ce qu'il vit directement.",
+    "perceptionDuMonde": "Découpe instinctivement ce qu'il voit en cadres potentiels. Perçoit la lumière avant la forme, l'ombre avant le visage. Peut se sentir séparé du monde par l'œil qui observe en permanence.",
+    "signesDistinctifs": [
+      "regard qui balaie la pièce en cherchant un point de lumière ou un angle",
+      "tendance à former un cadre avec ses doigts ou à fermer un œil pour tester une composition",
+      "posture d'attente silencieuse très développée",
+      "patience inhabituelle dans des situations où les autres s'impatientent",
+      "réaction physique à une belle lumière, comme une légère crispation de satisfaction",
+      "appareil photo ou téléphone toujours accessible, réflexe de saisie automatique",
+      "sensibilité aux détails visuels que les autres ne remarquent pas"
+    ],
+    "langageSpecifique": [
+      "\"Il y avait quelque chose là\" (sur un moment manqué)",
+      "\"C'est pas la bonne lumière\" (sur une situation, pas seulement une photo)",
+      "\"Ça se voit pas mais ça se sent\"",
+      "\"J'avais pas le bon angle\"",
+      "descriptions des gens en termes de visage, de posture, de lumière plutôt que de caractère"
+    ],
+    "tensionsTypiques": [
+      "photographier la souffrance versus intervenir pour la stopper",
+      "le regard documentaire qui crée une distance émotionnelle parfois souhaitée, parfois subie",
+      "la frontière floue entre témoigner et voyeuriser",
+      "l'image fixe versus la vie qui continue : le deuil de ce qui n'a pas été cadré",
+      "la concurrence des images dans un monde saturé de photographies"
+    ],
+    "blessuresProfessionnelles": [
+      "désensibilisation progressive à ce qu'on photographie trop longtemps",
+      "culpabilité de regarder plutôt que d'agir dans des situations extrêmes",
+      "rapport difficile à sa propre image : photographie tout sauf lui-même"
+    ],
+    "usagesNarratifs": [
+      "témoin privilégié : voit et retient ce que les autres oublient",
+      "personnage dont les archives photographiques peuvent devenir un élément de plot",
+      "figure dont la distance observatrice peut être perçue comme de la froideur par les autres personnages"
+    ],
+    "notesEditoriales": [
+      "Le photographe de guerre ou de terrain a une psychologie différente du photographe de studio : ne pas les confondre.",
+      "Son rapport au temps est particulier : il cherche l'instant, ce qui le rend parfois incapable de vivre dans la durée."
+    ]
+  },
+  {
+    "id": "traducteur",
+    "label": "Traducteur",
+    "domaine": "langue, littérature, communication",
+    "definitionCourte": "Un personnage qui vit dans l'entre-deux des langues, capable de comprendre des nuances que les monolingues ne perçoivent pas, mais aussi condamné à une solitude de l'exactitude.",
+    "perceptionDuMonde": "Perçoit le langage comme un système relatif, jamais absolu. Sait que les mots ne traduisent pas : ils trahissent, adaptent, interprètent. Peut avoir du mal à croire en la communication directe.",
+    "signesDistinctifs": [
+      "légère pause avant de répondre, comme s'il traduisait mentalement",
+      "tendance à chercher le mot exact plutôt qu'un mot approximatif",
+      "réaction physique aux contresens ou aux formulations maladroites",
+      "capacité à changer de registre stylistique selon l'interlocuteur",
+      "lèvres qui bougent parfois en lisant, testant la sonorité d'une phrase",
+      "regard qui se plisse légèrement face à une ambiguïté",
+      "dictionnaires et sources de référence partout, en papier ou en numérique"
+    ],
+    "langageSpecifique": [
+      "\"Ça dépend ce qu'on entend par là\"",
+      "\"Il n'y a pas vraiment d'équivalent en français\"",
+      "\"C'est une question de registre\"",
+      "\"L'original dit autre chose\"",
+      "introductions de mots étrangers dans la conversation pour leur précision"
+    ],
+    "tensionsTypiques": [
+      "être un passeur invisible : son travail réussit quand on l'oublie",
+      "la fidélité à l'auteur versus la lisibilité pour le lecteur cible",
+      "le sentiment d'imposture : parler au nom d'une voix qui n'est pas la sienne",
+      "l'isolement du travail et la dépendance aux commandes extérieures",
+      "la dévalorisation sociale d'un travail jugé mécanique alors qu'il est créatif"
+    ],
+    "blessuresProfessionnelles": [
+      "sentiment de ne jamais s'exprimer en son propre nom",
+      "difficulté à faire confiance à la communication directe : il sait trop bien ce qu'on peut perdre",
+      "perfectionnisme chronique qui ralentit tout, y compris la vie personnelle"
+    ],
+    "usagesNarratifs": [
+      "personnage idéal pour des situations de médiation ou de conflit entre cultures",
+      "figure dont les compétences linguistiques peuvent devenir un enjeu de plot",
+      "narrateur dont la précision lexicale révèle la psychologie de façon subtile"
+    ],
+    "notesEditoriales": [
+      "Le traducteur littéraire et l'interprète de conférence ont des psychologies très différentes : l'un travaille dans le silence, l'autre dans l'urgence.",
+      "Son rapport aux mots peut créer une distance avec les gens qui parlent \"approximativement\" — tension sociale intéressante."
+    ]
+  },
+  {
+    "id": "guide-touristique",
+    "label": "Guide touristique",
+    "domaine": "tourisme, médiation culturelle",
+    "definitionCourte": "Un personnage condamné à raconter la même histoire des centaines de fois tout en devant paraître passionné, et qui finit par voir les lieux à travers les yeux des autres plutôt que les siens.",
+    "perceptionDuMonde": "Voit chaque lieu comme un récit à transmettre plutôt qu'un endroit à habiter. A développé une lecture rapide des groupes humains et de leurs attentes. Peut avoir perdu l'émerveillement originel qui l'a amené là.",
+    "signesDistinctifs": [
+      "projection vocale naturelle, parle légèrement plus fort que nécessaire",
+      "geste du bras levé pour rassembler, même hors contexte professionnel",
+      "regard qui compte les têtes dans un groupe par réflexe",
+      "posture de dos tourné aux lieux pour faire face aux visiteurs",
+      "sourire professionnel activable immédiatement",
+      "marche à reculons confortable et assurée",
+      "tendance à enchaîner les informations sans pause, par habitude du débit"
+    ],
+    "langageSpecifique": [
+      "\"Si vous regardez à votre gauche...\" (dans des contextes non touristiques)",
+      "\"La plupart des gens pensent que... mais en réalité\"",
+      "\"On va se retrouver ici dans vingt minutes\"",
+      "anecdotes racontées avec la même inflexion, même à des amis",
+      "réponses préformatées aux questions fréquentes, débitées sans y penser"
+    ],
+    "tensionsTypiques": [
+      "l'épuisement de la performance répétée contre le besoin d'authenticité",
+      "la saisonnalité brutale du travail et l'insécurité financière associée",
+      "les groupes difficiles qui testent la patience et le professionnalisme",
+      "la connaissance profonde d'un lieu versus l'impossibilité d'y vivre vraiment",
+      "le sentiment d'être un prestataire de service face à des gens qui ne respectent pas le lieu"
+    ],
+    "blessuresProfessionnelles": [
+      "désenchantement progressif vis-à-vis des lieux qu'il aimait",
+      "difficulté à voyager pour lui-même sans activer le mode guide",
+      "sentiment d'être une fonction plutôt qu'une personne pendant le travail"
+    ],
+    "usagesNarratifs": [
+      "personnage qui connaît mieux un lieu que ceux qui y habitent : source d'informations et de contradictions",
+      "figure dont la surface professionnelle cache une lassitude ou une passion enfouie",
+      "relation au temps particulière : il vit par saisons et par groupes, pas de façon linéaire"
+    ],
+    "notesEditoriales": [
+      "Le guide passionné et le guide épuisé sont deux personnages très différents — choisir avant d'écrire.",
+      "Son rapport au groupe humain est analytique et rapide : il détecte les tensions en quelques minutes."
+    ]
+  },
+  {
+    "id": "agent-immobilier",
+    "label": "Agent immobilier",
+    "domaine": "commerce, immobilier",
+    "definitionCourte": "Un personnage entraîné à vendre des projections de vie plutôt que des murs, et qui voit dans chaque appartement ce que les gens veulent y trouver plutôt que ce qui s'y trouve vraiment.",
+    "perceptionDuMonde": "Évalue les espaces et les gens simultanément. Sait lire les désirs non formulés d'un acheteur mieux que lui-même. A appris que ce qu'on achète n'est jamais vraiment ce qu'on cherche.",
+    "signesDistinctifs": [
+      "regard circulaire en entrant dans un espace, calcul rapide et instinctif",
+      "sourire activé dès le contact, sincère ou non selon le contexte",
+      "poignée de main ferme, contact visuel maintenu",
+      "discours d'emblée orienté vers les avantages, les points négatifs reformulés",
+      "voiture toujours propre, tenue soignée même les jours sans rendez-vous",
+      "téléphone constamment consulté, disponibilité permanente",
+      "tendance à évaluer mentalement chaque espace qu'il traverse"
+    ],
+    "langageSpecifique": [
+      "\"C'est un bien avec du potentiel\"",
+      "\"Le quartier évolue très bien en ce moment\"",
+      "\"On peut retravailler ça\" (sur à peu près tout défaut)",
+      "\"C'est une opportunité\" (sur ce qui ne se vend pas)",
+      "usage fréquent du prénom de l'interlocuteur pour créer une fausse intimité"
+    ],
+    "tensionsTypiques": [
+      "la pression du chiffre d'affaires contre l'intérêt réel du client",
+      "vendre des rêves dans un marché qui les rend inaccessibles pour beaucoup",
+      "la frontière entre convaincre et manipuler, que certains franchissent sans le voir",
+      "les clients qui projettent des attentes impossibles à satisfaire",
+      "l'instabilité du marché qui peut effacer des mois de travail en quelques semaines"
+    ],
+    "blessuresProfessionnelles": [
+      "cynisme progressif sur les désirs humains, perçus comme prévisibles et répétitifs",
+      "difficulté à habiter un lieu sans l'évaluer commercialement",
+      "sentiment de superficialité dans les relations professionnelles"
+    ],
+    "usagesNarratifs": [
+      "personnage utile pour des scènes d'exposition d'un lieu : il en parle mieux que n'importe qui",
+      "figure ambiguë moralement : ses techniques de persuasion peuvent servir ou nuire à l'intrigue",
+      "accès à des lieux, des réseaux, des informations discrètes sur les gens et leurs situations"
+    ],
+    "notesEditoriales": [
+      "Éviter la caricature du vendeur malhonnête : la plupart croient sincèrement à ce qu'ils vendent.",
+      "Sa lecture des désirs non formulés peut en faire un personnage perceptif et utile dans des rôles secondaires."
+    ]
+  },
+  {
+    "id": "detective-prive",
+    "label": "Détective privé",
+    "domaine": "investigation, droit, sécurité",
+    "definitionCourte": "Un personnage dont le métier est de voir ce que les gens veulent cacher, et qui vit avec la conscience que presque tout le monde ment, au moins un peu.",
+    "perceptionDuMonde": "Ne prend jamais une information pour comptant. Cherche systématiquement le détail qui cloche. A développé une méfiance fonctionnelle, parfois difficile à éteindre dans la vie privée.",
+    "signesDistinctifs": [
+      "s'assoit toujours face à l'entrée, dos au mur",
+      "regard qui enregistre sans paraître regarder",
+      "mémoire des détails apparemment insignifiants : couleur d'une veste, heure d'arrivée",
+      "patience physique inhabituelle : peut attendre sans bouger ni se plaindre",
+      "voix neutre qui n'oriente pas les réponses de l'interlocuteur",
+      "tenue volontairement terne pour ne pas être mémorisé",
+      "réflexe de localiser les sorties de secours en entrant quelque part"
+    ],
+    "langageSpecifique": [
+      "\"Vous m'avez dit\" (plutôt que \"vous avez dit\")",
+      "\"À quelle heure exactement ?\" (sur n'importe quelle information floue)",
+      "\"Qui d'autre était présent ?\"",
+      "\"C'est intéressant\" (quand quelque chose ne colle pas)",
+      "questions ouvertes enchaînées pour laisser parler l'autre sans l'orienter"
+    ],
+    "tensionsTypiques": [
+      "collecter des informations qui peuvent briser des vies : à qui appartient la vérité ?",
+      "travailler pour des clients dont les motivations sont parfois pires que ce qu'ils cherchent",
+      "la légalité des méthodes de surveillance, ligne floue et mouvante",
+      "voir le pire des gens tout en devant rester professionnel et non impliqué",
+      "le deuil de la confiance ordinaire : difficile de ne pas surveiller ceux qu'on aime"
+    ],
+    "blessuresProfessionnelles": [
+      "cynisme installé sur la nature humaine, difficile à déloger",
+      "isolement social : ses compétences mettent les gens mal à l'aise",
+      "difficulté à se laisser surprendre, même agréablement"
+    ],
+    "usagesNarratifs": [
+      "personnage idéal pour mener une enquête ou dénouer une situation opaque",
+      "regard extérieur lucide sur les autres personnages : peut voir ce que l'intrigue cache encore au lecteur",
+      "figure dont la méfiance systématique crée une friction intéressante avec des personnages naïfs ou ouverts"
+    ],
+    "notesEditoriales": [
+      "Éviter l'archétype noir américain : le détective privé français a un cadre légal et social très différent.",
+      "Sa solitude n'est pas romantique : elle est le résultat fonctionnel d'un métier qui empêche la confiance."
+    ]
+  },
+  {
+    "id": "gardien-de-nuit",
+    "label": "Gardien de nuit",
+    "domaine": "sécurité, surveillance",
+    "definitionCourte": "Un personnage qui vit dans l'envers du monde, quand les autres dorment, et qui connaît des espaces habituellement peuplés dans leur version vide et silencieuse.",
+    "perceptionDuMonde": "Connaît les lieux dans leurs états intermédiaires : jamais fermés, jamais vraiment ouverts. A développé une familiarité avec le silence et l'obscurité que peu de gens partagent. Voit les gens différemment — aux marges de leur emploi du temps normal.",
+    "signesDistinctifs": [
+      "yeux habitués à lire dans la pénombre, clignements fréquents en pleine lumière",
+      "marche silencieuse, pas posés avec soin",
+      "rythme biologique inversé : difficultés à fonctionner en journée",
+      "vigilance périphérique : perçoit les mouvements sur les côtés",
+      "habitude du calme absolu, inconfort dans les bruits soudains",
+      "lampe torche portée même hors service",
+      "connaissance intime des bruits normaux d'un lieu, oreille tendue au moindre écart"
+    ],
+    "langageSpecifique": [
+      "\"À cette heure-là, il ne devrait rien y avoir\"",
+      "\"Le bâtiment fait son bruit\" (des craquements, des vibrations)",
+      "\"La nuit ça change les choses\"",
+      "références au temps par rondes plutôt que par heures",
+      "langage radio ou protocole : concis, orienté information"
+    ],
+    "tensionsTypiques": [
+      "la solitude structurelle du poste versus le besoin de contact humain",
+      "l'ennui chronique qui émousse la vigilance censée être permanente",
+      "ce qu'on peut voir la nuit et qu'on n'est pas censé avoir vu",
+      "le mépris social implicite pour un travail jugé peu qualifié mais psychologiquement exigeant",
+      "le décalage avec le rythme de vie des proches, qui vivent à des heures opposées"
+    ],
+    "blessuresProfessionnelles": [
+      "désynchronisation sociale et familiale difficile à compenser",
+      "accumulation de solitude nocturne sans espace pour la nommer",
+      "fatigue chronique liée au décalage du rythme circadien"
+    ],
+    "usagesNarratifs": [
+      "témoin idéal de ce qui se passe quand personne ne regarde",
+      "personnage dont la connaissance intime d'un lieu peut devenir un atout ou une vulnérabilité",
+      "figure marginale qui voit le monde par ses angles morts : les heures, les espaces, les gens ordinairement invisibles"
+    ],
+    "notesEditoriales": [
+      "La nuit modifie ce que ce personnage voit et ressent : exploiter la désorientation temporelle et sensorielle.",
+      "Ne pas confondre avec le veilleur de nuit médical : le contexte et la tension psychologique sont très différents."
+    ]
+  },
+  {
+    "id": "vigile-securite",
+    "label": "Vigile / Agent de sécurité",
+    "domaine": "sécurité, surveillance, commerce",
+    "definitionCourte": "Un personnage dont l'autorité est réelle mais symbolique, debout entre le monde et ses débordements, souvent sous-estimé et surexposé en même temps.",
+    "perceptionDuMonde": "Scanne les comportements en permanence pour détecter ce qui sort de la norme. A appris à catégoriser vite, ce qui peut mener à des raccourcis injustes. Sait que son uniforme change la façon dont les gens lui parlent et le regardent.",
+    "signesDistinctifs": [
+      "posture debout prolongée, pieds légèrement écartés",
+      "regard circulaire régulier, automatisé",
+      "mains dans le dos ou croisées devant, jamais dans les poches",
+      "réaction immédiate à tout bruit ou mouvement hors norme",
+      "voix qui se pose et s'assure d'être entendue sans crier",
+      "identification rapide des sorties et angles morts d'un espace",
+      "tenue impeccable même en fin de long service"
+    ],
+    "langageSpecifique": [
+      "\"Je vais vous demander de...\" (formulation d'autorité douce)",
+      "\"Vous avez une pièce d'identité ?\"",
+      "\"C'est le règlement\"",
+      "\"Je fais mon travail\"",
+      "protocoles intériorisés qui ressortent dans la vie courante : vérifications, périmètres"
+    ],
+    "tensionsTypiques": [
+      "exercer une autorité sans en avoir les moyens légaux réels",
+      "être le premier face à des situations pour lesquelles il n'a pas été formé",
+      "les incivilités répétées qui usent la patience sans pouvoir être sanctionnées",
+      "les stéréotypes liés à l'uniforme : ni vraiment policier, ni vraiment civil",
+      "la monotonie du poste face à l'imprévisibilité soudaine d'un incident"
+    ],
+    "blessuresProfessionnelles": [
+      "mépris ordinaire de la part de ceux qu'il surveille, vécu en silence",
+      "hypervigilance difficile à désactiver hors du travail",
+      "sentiment d'être au bas d'une hiérarchie qui ne le voit pas vraiment"
+    ],
+    "usagesNarratifs": [
+      "figure de seuil : il contrôle l'accès, ce qui en fait un gardien au sens narratif plein",
+      "personnage dont la position donne une vision transversale d'un lieu et de ses usagers",
+      "présence souvent ignorée qui peut avoir tout vu sans jamais être interrogée"
+    ],
+    "notesEditoriales": [
+      "Éviter la caricature du vigile borné : beaucoup sont des gens réfléchis dans des conditions difficiles.",
+      "Sa position entre deux mondes (public/privé, autorité/service) crée des ambiguïtés morales intéressantes."
+    ]
+  }
+]

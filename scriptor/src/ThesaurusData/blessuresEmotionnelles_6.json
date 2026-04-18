@@ -1,0 +1,590 @@
+[
+  {
+    "id": "peur-abandon-chronique",
+    "label": "Peur d'abandon chronique",
+    "famille": "attachement-insecure",
+    "definitionCourte": "Le personnage ne vit pas la peur de l'abandon comme un épisode lié à une séparation précise, mais comme un état de fond permanent — une vigilance constante qui surveille chaque relation pour y détecter les signes annonciateurs du départ. L'abandon n'est pas un souvenir : c'est une certitude future contre laquelle il se prépare en permanence.",
+    "originesPossibles": [
+      "parent absent, décédé ou parti sans explication dans la petite enfance",
+      "multiples placements successifs en famille d'accueil, sans figure stable",
+      "parent émotionnellement imprévisible — présent et chaleureux un jour, absent et froid le lendemain",
+      "ruptures répétées dans l'enfance : déménagements, changements d'école, pertes d'amis",
+      "abandon par un partenaire adulte lors d'un moment de grande vulnérabilité",
+      "parent qui menaçait de partir lors des conflits, même sans le faire",
+      "hospitalisation prolongée dans l'enfance avec impossibilité de voir ses parents"
+    ],
+    "croyancesNegativesInduites": [
+      "Tous ceux que j'aime finissent par partir.",
+      "Je ne suis pas suffisamment aimable pour qu'on reste.",
+      "Chaque relation a une date de fin — je dois juste trouver laquelle.",
+      "Être abandonné est ma condition naturelle.",
+      "Si je m'attache trop, la douleur du départ sera insupportable.",
+      "Les gens qui disent qu'ils resteront le croient sincèrement — mais ils partiront quand même.",
+      "Je suis trop intense, trop demandant, trop quelque chose — c'est pour ça qu'ils partent."
+    ],
+    "peursCentrees": [
+      "peur que chaque adieu, même bref, soit définitif",
+      "peur du silence ou de l'absence de nouvelles comme signe de départ imminent",
+      "peur que ses besoins affectifs soient trop lourds et provoquent l'abandon",
+      "peur d'être remplacé dès qu'une autre personne entre dans le champ",
+      "peur que l'amour que les autres lui expriment soit temporaire ou conditionnel",
+      "peur de se retrouver seul pour toujours si une relation clé se rompt"
+    ],
+    "comportementsDefensifs": [
+      "surveille les comportements de l'autre pour détecter les signes de désintérêt",
+      "envoie des messages excessifs ou vérifie la disponibilité de l'autre de façon répétée",
+      "anticipe le départ et se retire le premier pour reprendre le contrôle",
+      "teste la solidité des liens en se montrant difficile ou exigeant",
+      "s'efface complètement pour ne pas prendre de risque — ne rien demander pour qu'on ne parte pas",
+      "s'accroche à des relations clairement toxiques par peur de la solitude qui suivrait",
+      "crée des crises pour forcer l'autre à réaffirmer son attachement"
+    ],
+    "conflitsInternesTypiques": [
+      "désire la proximité et la fuit simultanément — trop près, c'est risquer la douleur du départ",
+      "sait que sa surveillance et ses tests éloignent les gens, mais ne peut pas s'en empêcher",
+      "oscille entre la fusion (tout donner pour que l'autre reste) et le retrait brutal (partir avant d'être quitté)",
+      "ressent de la honte pour l'intensité de ses besoins affectifs",
+      "interprète comme abandon toute distance normale dans une relation saine"
+    ],
+    "manifestationsPhysiques": [
+      "réaction physique intense aux adieux, même temporaires : accélération cardiaque, gorge serrée",
+      "incapacité à dormir quand un proche ne répond pas à un message",
+      "nausée ou serrement à l'idée d'une confrontation qui pourrait pousser l'autre à partir",
+      "hypervigilance aux expressions du visage de l'autre — lit chaque microexpression comme un signal",
+      "état de tension de fond, comme si le corps était toujours prêt à encaisser le départ"
+    ],
+    "declencheurs": [
+      "un proche qui met du temps à répondre à un message",
+      "voir son partenaire apprécier la compagnie d'une autre personne",
+      "un changement de ton ou de disponibilité de quelqu'un d'important",
+      "une dispute même légère qui pourrait « tout faire basculer »",
+      "les départs physiques — aéroports, gares, au revoir sur le pas de la porte",
+      "entendre quelqu'un parler de séparation ou de divorce dans son entourage"
+    ],
+    "cheminsVersResolution": [
+      "vivre une séparation temporaire et constater que l'autre revient — vraiment",
+      "un partenaire ou un ami qui reste explicitement malgré les tests et les moments difficiles",
+      "apprendre à tolérer l'incertitude relationnelle sans la résoudre par la fuite ou le contrôle",
+      "nommer la peur à l'autre et être accueilli sans jugement ni retrait",
+      "distinguer les signaux réels de départ et les projections de sa propre blessure"
+    ],
+    "impactRelationnel": [
+      "relations souvent intenses et épuisantes pour les deux parties",
+      "peut provoquer exactement ce qu'il craint en testant trop les liens",
+      "difficultés à vivre la distance normale dans une relation saine sans l'interpréter comme abandon",
+      "parfois incapable de rompre lui-même, même dans des relations douloureuses",
+      "jalousie chronique, pas par désir de possession mais par peur de perte",
+      "amis et partenaires qui finissent par se sentir étouffés ou sous surveillance"
+    ],
+    "notesEditoriales": [
+      "Cette blessure est particulièrement efficace dans les romances ou les récits d'amitié profonde parce qu'elle crée une tension relationnelle continue sans qu'il y ait nécessairement un antagoniste.",
+      "Le danger narratif est de la rendre trop visible trop tôt : la peur d'abandon est souvent dissimulée derrière la colère, le sarcasme ou l'indépendance affichée.",
+      "Distinguer la peur d'abandon anxieuse (s'accrocher, surveiller) de la peur d'abandon évitante (fuir avant d'être quitté) — deux expressions très différentes de la même blessure.",
+      "Le plus beau moment narratif autour de cette blessure est souvent quand le personnage se retrouve dans une situation d'abandon réel et découvre qu'il peut survivre."
+    ]
+  },
+  {
+    "id": "manque-reconnaissance",
+    "label": "Manque de reconnaissance chronique",
+    "famille": "invisibilite-affective",
+    "definitionCourte": "Le personnage a grandi — et parfois vécu toute sa vie — dans un environnement où ses efforts, ses qualités et sa présence n'étaient pas vus, pas nommés, pas célébrés. Il n'a pas été maltraité : il a été ignoré. La blessure de l'invisibilité affective est souvent plus difficile à nommer que la maltraitance ouverte.",
+    "originesPossibles": [
+      "parent absorbé par une dépression, une carrière ou un autre enfant, sans capacité d'attention",
+      "fratrie nombreuse dans laquelle il passait inaperçu, ni le plus performant ni le plus difficile",
+      "parent qui valorisait les réussites sans jamais voir la personne derrière",
+      "enfant sage et discret dont la discrétion était confondue avec l'absence de besoin",
+      "carrière professionnelle marquée par le travail des ombres — jamais mis en avant, jamais cité",
+      "partenaire qui ne voyait pas, ou ne disait pas, ce qu'il appréciait chez lui",
+      "famille ou culture dans laquelle l'expression de la fierté ou de l'affection était taboue"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne suis pas assez remarquable pour être vu.",
+      "Mes contributions ne comptent pas vraiment pour les autres.",
+      "Personne ne se souvient de ce que je fais.",
+      "Je suis remplaçable — ma présence ou mon absence change peu.",
+      "Désirer être reconnu est une faiblesse ou une forme de vanité.",
+      "Je dois faire encore plus pour espérer être vu un jour.",
+      "Ma valeur n'est visible que pour moi — et peut-être même pas."
+    ],
+    "peursCentrees": [
+      "peur de passer toute sa vie sans que personne ne l'ait vraiment vu",
+      "peur de mourir sans laisser de trace dans l'esprit de ceux qu'il aime",
+      "peur d'être congédié, oublié, remplacé sans que personne ne s'en aperçoive vraiment",
+      "peur que son désir de reconnaissance trahisse un ego fragile qu'il préfère cacher",
+      "peur que s'il demande à être vu, il soit jugé trop exigeant ou narcissique",
+      "peur que la reconnaissance, si elle vient, soit fausse ou temporaire"
+    ],
+    "comportementsDefensifs": [
+      "minimise ses propres accomplissements avant que les autres puissent le faire",
+      "se propose compulsivement pour des tâches invisibles mais indispensables",
+      "réagit de façon disproportionnée aux signes d'inattention ou d'oubli",
+      "cherche la validation à travers des accomplissements toujours plus grands",
+      "rejette les compliments reçus — pas par modestie mais par impossibilité d'y croire",
+      "peut devenir amer ou cynique si le manque de reconnaissance dure trop longtemps",
+      "parfois, éclate lors d'une accumulation — une colère disproportionnée qui surprend tout le monde"
+    ],
+    "conflitsInternesTypiques": [
+      "désire être vu mais a honte de ce désir, qu'il juge puéril ou vaniteux",
+      "s'investit énormément dans les relations mais ne sait pas comment recevoir en retour",
+      "oscille entre l'effort pour se rendre visible et la résignation à l'invisibilité",
+      "peut simultanément se plaindre de ne pas être reconnu et refuser toute reconnaissance quand elle arrive",
+      "honte de ressentir de la jalousie envers ceux qui reçoivent la reconnaissance qu'il n'a pas"
+    ],
+    "manifestationsPhysiques": [
+      "réaction émotionnelle intense — parfois larmes, parfois colère contenue — lors d'une reconnaissance inattendue",
+      "tension légère et permanente liée à la surveillance des réactions des autres à ce qu'il fait",
+      "fatigue de fond liée à l'effort constant de se rendre utile et visible",
+      "malaise lors des cérémonies de distinction ou des moments de célébration collective",
+      "expressions faciales qui cherchent à ne pas trahir le désir de reconnaissance — contrôle permanent"
+    ],
+    "declencheurs": [
+      "voir quelqu'un d'autre être congratulé pour un travail similaire au sien",
+      "une réunion où son nom n'est pas mentionné alors qu'il a contribué",
+      "un proche qui oublie quelque chose qu'il lui a dit ou fait",
+      "être interrompu ou ignoré dans une conversation de groupe",
+      "voir ses idées reprises par quelqu'un d'autre sans citation",
+      "entendre « je ne savais pas que tu avais fait ça » de quelqu'un qui aurait dû le savoir"
+    ],
+    "cheminsVersResolution": [
+      "une reconnaissance sincère et détaillée — pas vague — par quelqu'un qu'il respecte",
+      "apprendre à se témoigner à lui-même la reconnaissance qu'il n'a pas reçue",
+      "une relation dans laquelle il est vu avec précision et constance sur la durée",
+      "comprendre que le besoin d'être vu n'est pas une faiblesse mais une nécessité humaine légitime",
+      "trouver un espace créatif ou professionnel où sa contribution est indéniablement visible"
+    ],
+    "impactRelationnel": [
+      "attentes implicites très élevées envers les proches, qui peuvent ne pas les percevoir",
+      "peut garder une comptabilité mentale des oublis et des inattentions",
+      "difficultés à exprimer ses besoins affectifs directement — espère être deviné",
+      "amis et partenaires souvent déconcertés par des explosions émotionnelles qui semblent disproportionnées",
+      "tendance à surinvestir des relations avec des personnes qui le voient, parfois au détriment d'autres liens",
+      "peut se montrer généreux en reconnaissance envers les autres, cherchant à donner ce qu'il aurait voulu recevoir"
+    ],
+    "notesEditoriales": [
+      "La blessure du manque de reconnaissance est d'autant plus difficile à raconter qu'elle ne produit pas de scène dramatique nette — c'est l'accumulation du rien qui blesse.",
+      "Le personnage invisible est souvent le plus intéressant à écrire dans un récit chœur : tous les autres le voient passer sans vraiment le voir — jusqu'au moment où son absence crée un vide inattendu.",
+      "Attention à ne pas confondre avec l'ambition frustrée : ici le besoin n'est pas de pouvoir ou de statut mais d'être vu tel qu'on est.",
+      "La scène la plus forte autour de cette blessure n'est pas la reconnaissance publique mais le moment intime où quelqu'un dit, simplement et précisément, « j'ai vu ce que tu as fait »."
+    ]
+  },
+  {
+    "id": "honte-corps",
+    "label": "Honte du corps",
+    "famille": "honte-identitaire",
+    "definitionCourte": "Le personnage entretient avec son propre corps un rapport profondément teinté de honte — que celle-ci vienne d'un handicap, d'une différence visible, d'un corps jugé non-conforme par son entourage ou par la culture, ou d'abus subis qui ont transformé le corps en lieu de danger. Le corps n'est pas un chez-soi : c'est une source de risque ou de honte.",
+    "originesPossibles": [
+      "moqueries répétées sur l'apparence physique pendant l'enfance ou l'adolescence",
+      "parent qui commentait négativement le corps de l'enfant — poids, apparence, développement",
+      "handicap ou différence physique qui a rendu visible et différent dans un groupe",
+      "abus sexuels qui ont transformé le corps en espace de trahison ou de danger",
+      "maladie grave qui a altéré durablement le rapport au corps",
+      "culture ou famille dans laquelle la pudeur était associée à la honte corporelle",
+      "atteinte à l'intégrité physique — cicatrices, amputations, effets de traitements médicaux"
+    ],
+    "croyancesNegativesInduites": [
+      "Mon corps est un problème.",
+      "Les gens me regardent et voient d'abord ce qui ne va pas.",
+      "Je ne mérite pas le regard ou le désir de quelqu'un.",
+      "Mon corps me trahit — il ne correspond pas à ce que je suis à l'intérieur.",
+      "Être vu physiquement, c'est être exposé à un jugement que je ne pourrai pas supporter.",
+      "Si quelqu'un m'aime, c'est malgré mon corps, pas avec.",
+      "Je dois me couvrir, me contrôler, m'excuser."
+    ],
+    "peursCentrees": [
+      "peur d'être vu dans des situations où le corps est exposé (piscine, intimité, soin médical)",
+      "peur que le désir de l'autre disparaisse dès que le corps est vraiment vu",
+      "peur que les autres lisent sur son corps une histoire qu'il ne veut pas raconter",
+      "peur du regard médical ou thérapeutique qui va nommer ce qu'il préfère taire",
+      "peur que la honte ne le quitte jamais, même si les regards changent",
+      "peur de transmettre cette honte à ses enfants"
+    ],
+    "comportementsDefensifs": [
+      "évite les miroirs ou s'y regarde de façon ritualisée et critique",
+      "se couvre, porte des vêtements amples, évite les contextes qui exposent le corps",
+      "évite l'intimité physique ou la précède d'une désarmorçage défensif (« prévenir avant qu'on le remarque »)",
+      "contrôle obsessionnel de l'alimentation, de l'exercice ou de l'apparence",
+      "se dissocie partiellement lors des rapports physiques ou des soins médicaux",
+      "répond aux compliments sur son apparence par une dénégation immédiate",
+      "anticipe le regard des autres dans chaque espace public"
+    ],
+    "conflitsInternesTypiques": [
+      "désire l'intimité physique mais y voit une exposition intolérable",
+      "sait intellectuellement que son corps n'est pas ce que la honte lui dit mais ne le ressent pas",
+      "oscille entre des efforts pour modifier son corps et une résignation épuisée",
+      "ressentir du désir pour lui-même est quasi impossible — le regard intérieur est celui du juge",
+      "colère contre la culture ou les individus qui ont créé cette honte, mais aussi honte de cette colère"
+    ],
+    "manifestationsPhysiques": [
+      "posture qui cherche à réduire l'espace occupé par le corps — épaules rentrées, bras collés",
+      "tension constante dans le corps lors des situations d'exposition",
+      "rougissement ou malaise physique lors de tout commentaire sur l'apparence, positif ou négatif",
+      "réactions de nausée ou de figement lors des soins médicaux impliquant une nudité",
+      "dissociation légère en contexte d'intimité — sentiment d'observer son corps de l'extérieur",
+      "difficultés à ressentir le plaisir physique sans que la honte vienne l'interrompre"
+    ],
+    "declencheurs": [
+      "se déshabiller dans un vestiaire ou devoir être vu physiquement par des inconnus",
+      "un commentaire sur son corps, même positif — le regard déclenche la honte",
+      "voir des images de corps considérés comme « normaux » ou désirables",
+      "une visite médicale où le corps doit être observé et commenté",
+      "l'intimité naissante avec un partenaire qui crée l'imminence de l'exposition",
+      "un souvenir sensoriel lié à la source originelle de la honte"
+    ],
+    "cheminsVersResolution": [
+      "un regard d'un proche qui voit le corps avec désir ou tendresse et dont la sincérité ne peut pas être niée",
+      "un contexte de soin (médical ou autre) qui traite le corps avec respect et sans jugement",
+      "un travail somatique qui réapprend au corps à être habité plutôt que surveillé",
+      "rencontrer d'autres personnes qui partagent la même différence et qui vivent avec une autre relation à leur corps",
+      "un acte de réclamation du corps — choisir délibérément de l'exposer dans un contexte sûr"
+    ],
+    "impactRelationnel": [
+      "difficultés à initier ou à maintenir une intimité physique dans les relations amoureuses",
+      "tendance à interpréter le désir de l'autre comme condescendance ou pitié",
+      "peut s'investir dans des relations à distance ou peu physiques par sécurité",
+      "parfois incapable de recevoir une caresse, un massage ou un geste de soin sans tension",
+      "rapports à la maternité ou à la paternité parfois complexes si le corps a été un lieu de violence",
+      "rapport difficile à la vieillesse ou aux changements corporels liés au temps"
+    ],
+    "notesEditoriales": [
+      "La honte du corps est souvent une blessure silencieuse : elle ne se raconte pas, elle s'incarne dans des comportements que le lecteur observe sans que le personnage ne les nomme.",
+      "Très puissante dans les scènes d'intimité naissante : l'enjeu n'est pas seulement romantique mais existentiel.",
+      "Distinguer la honte du corps liée aux regards extérieurs (culturelle, relationnelle) et celle liée aux abus subis (traumatique) : les ressorts et les manifestations sont différents.",
+      "La résolution n'est jamais l'amour du corps — c'est une relation plus neutre, moins chargée, avec lui. Viser la paix plutôt que la fierté."
+    ]
+  },
+  {
+    "id": "echec-couple-fondateur",
+    "label": "Rupture fondatrice",
+    "famille": "deuil-amoureux",
+    "definitionCourte": "Le personnage a vécu une rupture amoureuse qui a reconfiguré sa façon d'aimer — non pas parce qu'elle était la plus douloureuse en surface, mais parce qu'elle a touché quelque chose de fondamental dans sa croyance en l'amour. Cette relation ne s'est pas seulement terminée : elle a réécrit ce qu'il croyait possible entre deux personnes.",
+    "originesPossibles": [
+      "première relation amoureuse intense brisée sans explication ou de façon brutale",
+      "relation dans laquelle il s'était entièrement engagé et qui s'est révélée unilatérale",
+      "rupture au moment d'un projet commun central — enfant, mariage, construction d'une vie",
+      "trahison par le partenaire jugé « l'amour de sa vie », impossible à remplacer",
+      "relation qui a duré des années et dans laquelle il avait construit toute son identité adulte",
+      "séparation imposée par des circonstances (exil, maladie, mort) plutôt que choisie",
+      "relation marquée par une intensité émotionnelle sans précédent qui rend toutes les suivantes fades"
+    ],
+    "croyancesNegativesInduites": [
+      "Ce niveau d'amour n'existera plus pour moi.",
+      "Je ne suis pas quelqu'un avec qui on reste.",
+      "M'investir pleinement dans une relation conduit à la destruction.",
+      "J'aurais dû voir que ça allait finir — j'étais aveugle.",
+      "Chaque nouvelle relation est condamnée à être une copie appauvrie de celle-là.",
+      "Je ne sais pas aimer de façon raisonnable — j'aime trop ou pas assez.",
+      "Je n'ai plus la même capacité à m'ouvrir qu'avant cette rupture."
+    ],
+    "peursCentrees": [
+      "peur de ne jamais retrouver une intensité comparable",
+      "peur de trahir l'ancienne relation en aimant quelqu'un d'autre",
+      "peur de s'ouvrir à nouveau et de subir la même destruction",
+      "peur de n'être jamais vraiment présent dans les relations futures",
+      "peur que cette relation reste « la mesure de toutes choses » et empoisonne tout",
+      "peur d'être encore naïf, encore aveugle, encore trahi de la même façon"
+    ],
+    "comportementsDefensifs": [
+      "compare inconsciemment chaque nouveau partenaire à l'ancien",
+      "sabote les relations prometteuses dès qu'elles approchent d'une profondeur similaire",
+      "garde une distance émotionnelle calculée pour ne pas atteindre le même niveau de vulnérabilité",
+      "idéalise l'ancienne relation avec le temps, effaçant ses défauts réels",
+      "peut rester célibataire longtemps, non par désintérêt mais par protection",
+      "parle de l'ancienne relation avec une précision ou une intensité qui déroute les nouveaux partenaires",
+      "cherche des partenaires qui ne ressemblent pas à l'ancien — ou exactement comme l'ancien"
+    ],
+    "conflitsInternesTypiques": [
+      "désire aimer à nouveau mais perçoit tout nouvel amour comme une trahison de l'ancien",
+      "sait que l'idéalisation de l'ancienne relation la fausse mais ne peut pas s'en empêcher",
+      "oscille entre la conviction que « c'était unique » et l'espoir que ce n'est pas vrai",
+      "lutte entre le vouloir être présent dans une nouvelle relation et la distraction constante du passé",
+      "ressent de la culpabilité envers les nouveaux partenaires, qu'il ne peut pas aimer sans réserve"
+    ],
+    "manifestationsPhysiques": [
+      "réaction physique lors d'une chanson, d'une odeur ou d'un lieu lié à l'ancienne relation",
+      "malaise lors des premières étapes d'intimité avec un nouveau partenaire — mémoire du corps",
+      "rêves récurrents ou intenses impliquant l'ancienne relation, parfois des années après",
+      "tension ou blocage physique lors des moments d'ouverture émotionnelle dans de nouveaux liens",
+      "pleurs inattendus lors de situations qui rappellent — même de loin — l'ancienne relation"
+    ],
+    "declencheurs": [
+      "une chanson, un film, un plat partagé avec l'ancien partenaire",
+      "passer devant un lieu chargé de souvenirs de cette relation",
+      "apprendre une nouvelle sur l'ex-partenaire via les réseaux ou un ami commun",
+      "un nouveau partenaire qui fait un geste identique à celui de l'ancien",
+      "un anniversaire de la rencontre ou de la rupture, même si le calendrier n'est plus suivi consciemment",
+      "un ami qui demande innocemment « tu as refait ta vie ? »"
+    ],
+    "cheminsVersResolution": [
+      "une nouvelle relation qui atteint une profondeur différente mais réelle, non comparable mais précieuse",
+      "une conversation honnête avec l'ancien partenaire qui désidéalise la relation et permet le deuil",
+      "réaliser que l'idéalisation protège d'une tristesse qui n'a jamais été pleinement vécue — et la vivre",
+      "comprendre que cette relation a changé qui il est, et que c'est une part de lui, pas une prison",
+      "trouver quelqu'un qui accepte la place de cette blessure sans s'y sentir concurrencé"
+    ],
+    "impactRelationnel": [
+      "relations suivantes souvent perçues comme moins intenses, moins réelles par le personnage",
+      "partenaires futurs qui peuvent se sentir en compétition avec un fantôme",
+      "difficultés à s'engager durablement dans de nouvelles relations",
+      "peut chercher dans l'amitié ou le travail l'intensité qu'il ne cherche plus dans l'amour",
+      "parfois, reconstitue la même dynamique avec un partenaire différent — de façon inconsciente",
+      "amis qui ne savent plus quoi dire sur « l'autre » — le sujet reste sensible longtemps"
+    ],
+    "notesEditoriales": [
+      "La rupture fondatrice est souvent plus intéressante narrativement que la rupture dramatique : ce n'est pas la plus violente, c'est celle qui a changé quelque chose d'irréversible dans le personnage.",
+      "L'ancien partenaire ne doit pas nécessairement être idéalisé par le lecteur — montrer les défauts de la relation tout en respectant l'intensité de ce qu'elle représentait est la nuance à viser.",
+      "Éviter la résolution par « oublier l'ancien » : le chemin narratif le plus juste est d'intégrer cette relation dans son histoire sans en faire sa prison.",
+      "Très puissant dans les récits qui alternent passé et présent : le lecteur voit les deux relations simultanément et comprend ce que le personnage ne peut pas encore lâcher."
+    ]
+  },
+  {
+    "id": "surprotection-parentale",
+    "label": "Surprotection parentale",
+    "famille": "autonomie-entravee",
+    "definitionCourte": "Le personnage a été élevé par un parent ou des parents qui, par amour ou par anxiété, l'ont protégé de tout obstacle, décision ou risque. Cette sur-protection, vécue comme soin, a produit un adulte qui doute de ses propres capacités, craint l'échec et n'a jamais vraiment appris à se faire confiance.",
+    "originesPossibles": [
+      "parent anxieux qui voyait le danger partout et intervenait avant que l'enfant n'expérimente",
+      "enfant unique sur-investi par des parents ayant perdu un précédent enfant ou subi une infertilité",
+      "enfant malade dans l'enfance, autour duquel s'est construit un dispositif de protection permanent",
+      "parent issu d'un milieu de violence ou de précarité qui voulait à tout prix épargner à l'enfant ce qu'il avait vécu",
+      "parent qui gérait à la place de l'enfant : devoirs, conflits, choix, relations",
+      "culture ou famille dans laquelle la protection de l'enfant définissait la valeur du parent",
+      "parent narcissique qui surprotégeait pour maintenir l'enfant en état de dépendance"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne suis pas capable de gérer les difficultés seul.",
+      "Le monde est plus dangereux que je ne l'imagine — quelqu'un doit me protéger.",
+      "Si je prends une décision seul et que ça échoue, ce sera entièrement ma faute.",
+      "Je n'ai pas les ressources intérieures pour traverser les épreuves.",
+      "Demander de l'aide est normal — être autonome est risqué.",
+      "Je dois être pris en charge pour fonctionner.",
+      "L'échec est une catastrophe, pas une information."
+    ],
+    "peursCentrees": [
+      "peur des situations nouvelles, non balisées par quelqu'un d'autre",
+      "peur de commettre une erreur irréversible sans filet",
+      "peur d'être seul face à une décision difficile",
+      "peur de l'échec comme preuve définitive de son incapacité",
+      "peur de ne pas savoir gérer les conflits, les urgences ou les imprévus",
+      "peur de décevoir les parents en ne vivant pas la vie qu'ils ont organisée pour lui"
+    ],
+    "comportementsDefensifs": [
+      "reporte les décisions jusqu'à obtenir validation d'une figure d'autorité",
+      "évite les situations à risque même mineur — préfère les chemins connus",
+      "peut rester dans des relations, emplois ou modes de vie insatisfaisants par peur du changement",
+      "délègue facilement les responsabilités importantes plutôt que d'y faire face",
+      "peut devenir dépendant d'un partenaire qui reproduit la fonction parentale",
+      "minimise ses propres accomplissements — incapable de croire qu'il a « vraiment » réussi seul",
+      "cherche constamment la réassurance avant d'agir"
+    ],
+    "conflitsInternesTypiques": [
+      "désire l'autonomie mais la peur d'échouer sans filet la rend presque impossible à assumer",
+      "ressent de la rage contre ses parents mais aussi une gratitude sincère qui complique la colère",
+      "se sent incompétent face à des adultes qui semblent naturellement capables — et ne comprend pas pourquoi",
+      "oscille entre la tentation de trouver quelqu'un qui le prenne en charge et le désir de prouver qu'il peut seul",
+      "honte de sa propre dépendance — d'autant plus vive qu'il sait d'où elle vient"
+    ],
+    "manifestationsPhysiques": [
+      "réactions d'anxiété physique — palpitations, souffle court — face aux décisions importantes",
+      "paralysie ou procrastination prolongée avant d'agir sans validation externe",
+      "fatigue liée à la rumination des risques d'une situation nouvelle",
+      "malaise physique lorsqu'il est seul face à un problème qu'il ne sait pas si quelqu'un va résoudre",
+      "soulagement physique intense quand quelqu'un prend une décision à sa place"
+    ],
+    "declencheurs": [
+      "être seul face à une décision sans pouvoir consulter quelqu'un",
+      "un parent ou un mentor qui dit « tu t'en sortiras seul » sans proposer d'aide",
+      "se retrouver dans une situation imprévue sans mode d'emploi",
+      "voir quelqu'un d'autre gérer facilement ce qu'il trouve insurmontable",
+      "un échec, même mineur, qui confirme sa peur d'être fondamentalement incapable",
+      "l'éloignement géographique de la figure protectrice"
+    ],
+    "cheminsVersResolution": [
+      "traverser une épreuve seul et constater qu'il a survécu — et peut-être même réussi",
+      "un contexte qui l'oblige à l'autonomie sans possibilité de déléguer",
+      "réaliser que ses parents lui ont transmis une carte du monde fausse, par amour",
+      "construire de petites expériences de réussite autonome qui recalibrent l'image de lui-même",
+      "trouver un partenaire ou un ami qui croit en ses capacités et le laisse faire"
+    ],
+    "impactRelationnel": [
+      "peut recréer la dynamique parentale avec un partenaire qui prend les décisions",
+      "difficultés à gérer les conflits de façon autonome — a besoin de médiation",
+      "parentalité parfois oscillant entre la reproduction de la surprotection et une liberté excessive comme réaction",
+      "amis parfois lassés de devoir réassurer, conseiller ou décider pour lui",
+      "sur-dépendance envers les figures d'autorité professionnelles — besoin de validation constante",
+      "peut provoquer inconsciemment chez l'autre un désir de le protéger — ce qui reproduit le schéma"
+    ],
+    "notesEditoriales": [
+      "La blessure de surprotection est peu spectaculaire en surface mais profondément handicapante dans les situations ordinaires — ce qui en fait un excellent ressort pour les récits de « coming of age » tardif.",
+      "Le parent surprotecteur n'est pas un antagoniste simple : il aime l'enfant. La complexité narrative vient de cette ambivalence.",
+      "Éviter de résoudre cette blessure par un seul grand défi victorieux — la vraie transformation est dans l'accumulation de petites victoires sur la peur.",
+      "Très efficace dans les récits qui mettent le personnage dans une situation d'urgence où personne ne peut l'aider : le lecteur voit en temps réel si la confiance en soi peut se construire."
+    ]
+  },
+  {
+    "id": "succes-non-partage",
+    "label": "Succès vécu dans la solitude",
+    "famille": "solitude-existentielle",
+    "definitionCourte": "Le personnage a atteint quelque chose de grand — un objectif, une reconnaissance, un accomplissement — et s'est retrouvé seul au moment d'y arriver. Personne ne l'attendait, personne ne comprenait vraiment, ou ceux qui auraient dû partager n'étaient plus là. La réussite a produit non de la joie mais un vide inattendu et durable.",
+    "originesPossibles": [
+      "réussite professionnelle ou académique majeure après la mort du parent qui l'aurait célébré",
+      "accomplissement d'un rêve sans témoin : personne dans l'entourage pour comprendre ce que ça signifie",
+      "succès survenu après une rupture — la personne avec qui tout aurait été partagé n'est plus là",
+      "premier de la famille à atteindre un niveau d'éducation ou de statut que personne ne peut mesurer",
+      "réussite dans un domaine si éloigné du monde des proches qu'elle ne peut pas être vraiment vue",
+      "succès public (artistique, sportif, professionnel) qui crée une distance avec l'entourage intime",
+      "victoire dans une lutte longue (maladie, procès, reconstruction) sans que personne n'ait vraiment été témoin de l'effort"
+    ],
+    "croyancesNegativesInduites": [
+      "Le succès ne sert à rien si personne n'est là pour le partager.",
+      "J'ai obtenu ce que je voulais et je ne suis toujours pas heureux — quelque chose ne va pas en moi.",
+      "Je suis fondamentalement seul, même dans mes meilleurs moments.",
+      "Ma réussite a créé une distance avec les gens que j'aime.",
+      "Il n'y a personne qui comprend vraiment ce que j'ai accompli.",
+      "La solitude est ma récompense naturelle.",
+      "Désirer que quelqu'un célèbre avec moi est puéril."
+    ],
+    "peursCentrees": [
+      "peur que chaque futur succès soit également vide de sens parce que solitaire",
+      "peur que sa réussite l'ait définitivement séparé de ceux qu'il aime",
+      "peur de ne jamais trouver quelqu'un qui comprend vraiment ce qu'il a traversé",
+      "peur que le vide ressenti après le succès soit permanent — et que ça révèle quelque chose de cassé en lui",
+      "peur de ne plus savoir pourquoi il continue à vouloir réussir si ce n'est pas pour partager",
+      "peur que personne ne puisse jamais être à la hauteur de ce qu'il a traversé seul"
+    ],
+    "comportementsDefensifs": [
+      "minimise ou cache ses réussites pour ne pas mettre en évidence la distance avec les autres",
+      "continue à se donner de nouveaux objectifs immédiatement après en avoir atteint un — pour ne pas ressentir le vide",
+      "cherche des communautés de pairs capables de comprendre ce qu'il a accompli",
+      "peut se montrer cynique sur le sens de la réussite pour protéger contre la déception",
+      "s'investit dans des causes ou des projets qui permettent de partager une réussite collective",
+      "peut devenir trop généreux envers les autres dans leur succès — compensation pour ce qu'il n'a pas reçu"
+    ],
+    "conflitsInternesTypiques": [
+      "honte de la tristesse ressentie lors du succès — « je devrais être heureux »",
+      "désire du témoignage et de la célébration mais n'ose pas le demander directement",
+      "lutte entre la fierté réelle de ce qu'il a accompli et la douleur du vide qui l'entoure",
+      "peut ressentir de la jalousie envers ceux dont les réussites sont célébrées en famille ou en groupe",
+      "se demande si la solitude du succès était le prix à payer ou une punition"
+    ],
+    "manifestationsPhysiques": [
+      "pleurs inattendus lors de la reconnaissance ou du succès — larmes qui déroulent les proches",
+      "épuisement profond après l'accomplissement, là où la joie aurait dû être",
+      "sensation de vide dans la poitrine lors des moments de célébration solitaire",
+      "fatigue de fond entre deux succès — le corps cherche le repos que l'affect n'a pas donné",
+      "réactions émotionnelles différées — la joie arrive parfois longtemps après, dans un moment banal"
+    ],
+    "declencheurs": [
+      "recevoir une récompense ou une reconnaissance sans avoir quelqu'un à appeler immédiatement",
+      "voir quelqu'un d'autre célébrer un succès entouré de sa famille ou de ses amis",
+      "une date anniversaire de l'accomplissement qui revient sans que personne ne s'en souvienne",
+      "devoir expliquer sa réussite à quelqu'un qui ne peut pas en mesurer la portée",
+      "la question « tu es content ? » posée par quelqu'un qui n'a pas été là"
+    ],
+    "cheminsVersResolution": [
+      "trouver — ou construire — une communauté qui comprend vraiment ce qu'il a accompli",
+      "accepter que certains succès ne pourront jamais être partagés, et trouver comment les honorer seul",
+      "raconter son histoire à quelqu'un qui l'écoute avec la précision et la présence que cela méritait",
+      "un futur succès dans lequel quelqu'un est vraiment là — et laisser cela compter",
+      "comprendre que le vide n'est pas un signe d'insuffisance mais de deuil"
+    ],
+    "impactRelationnel": [
+      "parfois incapable d'expliquer pourquoi il ne semble pas heureux malgré ses réussites",
+      "peut chercher des partenaires capables de comprendre ses ambitions — et les perdre si la réussite les dépasse",
+      "tendance à surinvestir des relations avec des pairs ou des mentors qui partagent son univers",
+      "peut sous-investir les relations avec l'entourage originel par sentiment d'incompréhension mutuelle",
+      "difficultés à célébrer les succès des autres sans ressentir le poids de ses propres célébrations solitaires",
+      "parfois généreux jusqu'à l'excès pour donner aux autres ce que lui n'a pas reçu"
+    ],
+    "notesEditoriales": [
+      "Ce n'est pas une blessure spectaculaire mais elle touche à une solitude existentielle profonde — très efficace chez les personnages en apparence accomplis et enviables.",
+      "Le paradoxe du succès vide est un moteur dramatique puissant parce qu'il va à l'encontre des attentes culturelles : on attend que la réussite apporte le bonheur.",
+      "La mort du parent ou du proche à qui le succès était destiné est la forme la plus poignante de cette blessure — particulièrement dans les œuvres qui traitent de deuil.",
+      "Attention à ne pas réduire cela à un problème de solitude générique : le cœur est l'impossibilité du partage d'un accomplissement spécifique — pas juste la solitude."
+    ]
+  },
+  {
+    "id": "deuil-perinatal",
+    "label": "Deuil périnatal",
+    "famille": "deuil-invisible",
+    "definitionCourte": "Le personnage a perdu un enfant avant, pendant ou peu après sa naissance — fausse couche, mort in utero, mort néonatale. Cette perte est souvent peu reconnue socialement : l'enfant n'a pas eu de vie visible, le deuil est parfois minimisé par l'entourage. La blessure porte sur la perte d'un enfant réel et d'un futur imaginé.",
+    "originesPossibles": [
+      "fausse couche précoce, parfois répétée, vécue en quasi-solitude",
+      "mort in utero à un stade avancé de la grossesse",
+      "mort néonatale après quelques heures ou quelques jours de vie",
+      "interruption médicale de grossesse suite à un diagnostic grave",
+      "mort d'un nourrisson dans les premières semaines de vie",
+      "grossesse extra-utérine ou complications médicales entraînant la perte",
+      "don d'organes d'un enfant mort-né, vécu dans une solitude extrême"
+    ],
+    "croyancesNegativesInduites": [
+      "Mon corps a failli — il n'était pas capable de porter la vie.",
+      "J'ai été parent d'un enfant que personne n'a vraiment reconnu.",
+      "Ma douleur n'est pas légitime aux yeux des autres.",
+      "Le bonheur d'une grossesse future sera toujours contaminé par la peur.",
+      "Je suis le seul à me souvenir de cet enfant.",
+      "Je n'aurais pas dû m'attacher si tôt.",
+      "Cette perte dit quelque chose d'irréparable sur ma capacité à être parent."
+    ],
+    "peursCentrees": [
+      "peur d'une nouvelle grossesse et de la répétition de la perte",
+      "peur d'annoncer une nouvelle grossesse — et le bonheur qui la rend vulnérable",
+      "peur que personne ne comprenne vraiment la profondeur de ce deuil",
+      "peur que l'enfant perdu soit progressivement oublié, même par les proches",
+      "peur de ne jamais être pleinement heureux d'une naissance future",
+      "peur d'être incapable d'aimer un enfant suivant sans le projeter sur le précédent"
+    ],
+    "comportementsDefensifs": [
+      "ne parle pas de l'enfant perdu, ou seulement à très peu de personnes de confiance",
+      "maintient des rituels privés de souvenir que l'entourage ne connaît pas",
+      "sur-contrôle les grossesses suivantes, incapable de s'y abandonner",
+      "évite les espaces liés aux bébés et aux jeunes enfants — hôpitaux, parcs, magasins de puériculture",
+      "peut se refermer émotionnellement sur son partenaire, la perte créant une distance difficile à nommer",
+      "réagit de façon disproportionnée aux annonces de grossesse ou de naissance dans l'entourage",
+      "minimise publiquement son deuil pour ne pas avoir à le défendre"
+    ],
+    "conflitsInternesTypiques": [
+      "veut parler de cet enfant mais a peur de n'être pas compris ou d'être jugé excessif",
+      "oscille entre le besoin de souvenir et la volonté d'avancer sans être défini par cette perte",
+      "peut ressentir de la colère envers des proches qui ont eu des enfants sans difficultés",
+      "culpabilité irrationnelle — « qu'est-ce que j'aurais pu faire différemment ? »",
+      "incapacité à se réjouir pleinement d'une naissance dans l'entourage sans que la douleur s'invite"
+    ],
+    "manifestationsPhysiques": [
+      "réactions physiques violentes lors des dates anniversaires — nausée, larmes, épuisement soudain",
+      "corps qui « se souvient » : la période de la perte peut déclencher des réactions somatiques chaque année",
+      "malaise physique lors des visites prénatales ou des passages devant une maternité",
+      "fatigue profonde lors des périodes d'anniversaire, incomprise de l'entourage",
+      "réactions cutanées ou tensions lors des interactions avec des nourrissons",
+      "perturbation du sommeil autour des moments de rappel"
+    ],
+    "declencheurs": [
+      "une annonce de grossesse dans l'entourage",
+      "voir un bébé du même âge qu'aurait eu l'enfant perdu",
+      "la date du terme prévu ou de la perte",
+      "quelqu'un qui dit innocemment « vous n'avez pas d'enfants ? »",
+      "une chambre d'enfant préparée, des vêtements de bébé, des objets achetés avant la perte",
+      "une échographie lors d'une grossesse suivante"
+    ],
+    "cheminsVersResolution": [
+      "trouver un espace — thérapeutique, communautaire ou rituel — où cet enfant est reconnu comme réel",
+      "un entourage qui nomme l'enfant perdu et maintient son souvenir sans forcer",
+      "une grossesse suivante menée à terme — avec tout ce que ça implique de peur et de joie mélangées",
+      "pouvoir dire le nom, raconter, être entendu sans que l'autre minimise ou se défile",
+      "trouver une façon de porter le souvenir qui ne soit pas seulement de la douleur"
+    ],
+    "impactRelationnel": [
+      "la perte peut créer une fracture dans le couple si elle n'est pas traversée ensemble",
+      "décalage possible entre les deux partenaires dans le rythme et l'intensité du deuil",
+      "difficultés dans les relations avec les parents de jeunes enfants — mélange de joie vicariante et de douleur",
+      "peut surinvestir une grossesse suivante jusqu'à l'épuisement émotionnel",
+      "relations avec l'entourage parfois distendues si ceux-ci n'ont pas su accompagner la perte",
+      "rapport complexe à la parentalité si une naissance suivante a lieu — peur de l'attachement"
+    ],
+    "notesEditoriales": [
+      "Le deuil périnatal est l'un des deuils les moins reconnus socialement — sa représentation en fiction a un rôle de légitimation important.",
+      "Ne pas confondre la réaction de la mère et celle du père ou du second parent : les trajectoires de deuil peuvent être très différentes et la friction entre elles est dramatiquement fertile.",
+      "Éviter les représentations qui résolvent cette blessure par une naissance heureuse — c'est plus complexe que ça.",
+      "Le détail le plus puissant narrativement est souvent l'objet gardé : le bracelet de l'hôpital, la photo d'échographie, le prénom qui n'a été prononcé qu'une fois."
+    ]
+  }
+]

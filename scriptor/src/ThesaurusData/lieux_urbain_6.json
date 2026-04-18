@@ -1,0 +1,729 @@
+[
+  {
+    "id": "bar-de-quartier",
+    "label": "Bar de quartier",
+    "type": "urbain-loisir",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "comptoir en zinc rayé aux angles arrondis",
+      "tabourets de bar aux pieds chromés usés",
+      "ardoise murale avec les plats du jour écrits à la craie",
+      "miroir derrière les bouteilles alignées, légèrement teinté de brun",
+      "caisse enregistreuse ancienne à côté d'un terminal CB neuf",
+      "affiche de match de foot décollée dans un coin",
+      "rideaux de perles en plastique séparant la salle des toilettes",
+      "carrelage blanc et noir à joints gris foncé"
+    ],
+    "bruits": [
+      "claquement de verres posés sur le zinc",
+      "brouhaha de conversations superposées",
+      "sonnerie d'un flipper ou d'un baby-foot",
+      "voix du patron qui interpelle un habitué par son prénom",
+      "grincement de la porte chaque fois qu'elle s'ouvre"
+    ],
+    "odeurs": [
+      "bière éventée et fond de cendrier",
+      "café fort du percolateur",
+      "graillon de la cuisine qui filtre par la porte",
+      "parfum bon marché d'une cliente mêlé à la sueur"
+    ],
+    "textures": [
+      "zinc froid et lisse sous les paumes",
+      "tabouret légèrement collant au siège",
+      "verre tenu à pleine main, condensation sur les doigts"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'appartenance à un territoire",
+      "relâchement après une journée de travail",
+      "solitude paradoxale au milieu du bruit",
+      "nostalgie d'un temps plus simple",
+      "légère ivresse de la familiarité"
+    ],
+    "usagesNarratifs": [
+      "lieu de révélation en aparté, entre deux tournées",
+      "espace de rencontre fortuite entre deux personnages opposés",
+      "refuge du personnage qui ne veut pas rentrer chez lui",
+      "microcosme social où se lisent les hiérarchies de quartier",
+      "lieu de rumeurs et d'informations circulant sans filtre"
+    ],
+    "tensionsTypiques": [
+      "tension entre habitués et nouvel arrivant qui ne connaît pas les codes",
+      "querelle latente entre deux clients qui se supportent à peine",
+      "patron coincé entre deux réguliers en conflit",
+      "personnage qui boit trop et que personne ne sait comment arrêter",
+      "conversation qui dérape sur la politique ou l'argent"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitué depuis vingt ans",
+        "description": "Ne voit plus le lieu, il le ressent. Chaque détail est une routine rassurante. Le moindre changement — un tabouret déplacé, un nouveau rouge à lèvres sur la patronne — le déstabilise sans qu'il sache pourquoi."
+      },
+      {
+        "profil": "Journaliste en reportage",
+        "description": "Observe tout avec une distance légèrement condescendante qu'il essaie de cacher. Prend des notes mentales sur les postures, les accents, les dynamiques. Se sent à la fois fasciné et hors de sa zone."
+      },
+      {
+        "profil": "Personne en état de chagrin",
+        "description": "Le bruit l'isole au lieu de le connecter. Les rires lui semblent offensants. Commande quelque chose qu'il ne boira pas vraiment. Reste parce qu'il ne peut pas rester seul."
+      }
+    ],
+    "notesEditoriales": [
+      "Éviter de le traiter comme un décor folklorique : ce qui s'y joue est souvent une politique du territoire et de la reconnaissance.",
+      "Le zinc est un personnage en soi — la façon dont un personnage s'y appuie dit quelque chose de son rapport à la verticalité sociale.",
+      "Les silences dans un bar de quartier ont une texture propre : ils ne sont jamais neutres."
+    ]
+  },
+  {
+    "id": "nightclub",
+    "label": "Nightclub",
+    "type": "urbain-loisir",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "piste de danse en plancher lustré réfléchissant les lumières",
+      "jeu de projecteurs mobiles découpant l'espace en tranches de couleur",
+      "banquettes en similicuir bordant les murs, usées aux coutures",
+      "bar en miroir avec rétro-éclairage bleuté",
+      "cabine du DJ surélevée sur une estrade protégée par une vitre",
+      "portemanteau saturé de vestes et de sacs à l'entrée",
+      "couloir sombre menant aux toilettes, sol poisseux",
+      "caméra de surveillance fixée au plafond dans un angle"
+    ],
+    "bruits": [
+      "basse qui vibre dans le sternum et les jambes",
+      "rires et cris qui percent la musique par intermittence",
+      "glaçons contre les verres, inaudibles mais visibles",
+      "musique atténuée mais persistante dans les toilettes",
+      "signal de retour de vestiaire, une sonnerie métallique"
+    ],
+    "odeurs": [
+      "transpiration collective mêlée aux parfums",
+      "fumée de machine à brouillard légère et sucrée",
+      "alcool renversé sur les planches",
+      "air conditionné recyclé, légèrement acide"
+    ],
+    "textures": [
+      "sol poisseux sous les semelles à chaque pas",
+      "vibration de la basse perçue dans la cage thoracique",
+      "corps d'inconnus effleurés sur la piste sans y prêter attention"
+    ],
+    "emotionsTypiques": [
+      "euphorie diffuse alimentée par le bruit et la lumière",
+      "anonymat libérateur",
+      "sentiment d'être regardé ou ignoré selon les moments",
+      "tension sexuelle de fond",
+      "vertige léger entre présence et dissolution"
+    ],
+    "usagesNarratifs": [
+      "lieu où un personnage peut disparaître dans la foule",
+      "espace de rencontre ou de prédation selon les personnages",
+      "lieu de rupture avec l'identité quotidienne",
+      "scène de crise que personne n'entend à cause de la musique",
+      "révélation d'une information criée dans l'oreille, presque incompréhensible"
+    ],
+    "tensionsTypiques": [
+      "regard de trop qui peut basculer en conflit ou en séduction",
+      "personnage qui a trop bu et que ses amis ne surveillent plus",
+      "deal qui se fait en pleine vue mais hors de portée des vigiles",
+      "groupe qui marque son territoire sur la piste",
+      "quelqu'un qui cherche une personne disparue dans la foule"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitué de la scène",
+        "description": "Décode immédiatement les hiérarchies — qui est VIP, qui est régulier, qui est touriste. La musique est un fond familier. Scanne les visages avec efficacité."
+      },
+      {
+        "profil": "Personne qui sort rarement",
+        "description": "Saturé dès l'entrée. La basse lui fait mal. Ne sait pas où poser les mains. Sourit trop fort pour compenser son malaise. Cherche une sortie de secours visuelle."
+      },
+      {
+        "profil": "Vigile",
+        "description": "Voit les flux, pas les individus. Repère les anomalies de comportement avant qu'elles deviennent des incidents. Le plaisir des autres lui est parfaitement indifférent."
+      }
+    ],
+    "notesEditoriales": [
+      "La privation de langage par le bruit est narrative : les personnages ne peuvent pas se parler normalement, ce qui crée des malentendus structurels.",
+      "Le jeu de lumières fragmenté empêche de lire les visages — à exploiter pour les scènes de méfiance ou de désir ambigu.",
+      "Éviter la description de la musique elle-même : c'est la vibration physique qui compte, pas le genre."
+    ]
+  },
+  {
+    "id": "salle-de-concert",
+    "label": "Salle de concert",
+    "type": "urbain-loisir",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "scène surélevée sous un damier de projecteurs orientables",
+      "fosse debout avec barrières de sécurité en métal brossé",
+      "mur de son en colonnes noires dressées en arc de cercle",
+      "mezzanine avec gradins en bois et rampe de sécurité",
+      "régie son au fond de la salle, table de mixage éclairée de LEDs vertes",
+      "bâches noires tendues sur les murs pour l'acoustique",
+      "couloir latéral en béton brut menant aux loges",
+      "merchandising installé sur des tréteaux près de l'entrée"
+    ],
+    "bruits": [
+      "larsen aigu qui précède le son, strident et bref",
+      "accord de guitare d'accordage, répété sans rythme",
+      "murmure de la foule qui monte avant le début",
+      "applaudissements qui éclatent et s'effondrent d'un coup",
+      "basse-caisse résonnant dans la cage thoracique"
+    ],
+    "odeurs": [
+      "transpiration collective chauffée par les projecteurs",
+      "câbles électriques légèrement chauds",
+      "bière vendue en plastique, sucrée et fade",
+      "fumée de scène artificielle, légèrement chimique"
+    ],
+    "textures": [
+      "sol béton ou bois légèrement collant en fosse",
+      "barrière métallique froide et dure dans le dos si poussé",
+      "vibrations du sol lors des temps forts"
+    ],
+    "emotionsTypiques": [
+      "anticipation avant l'entrée de l'artiste",
+      "sentiment d'appartenance à une communauté temporaire",
+      "débordement émotionnel autorisé par le groupe",
+      "nostalgie liée à une chanson connue",
+      "légèreté ou catharsis selon l'intensité du concert"
+    ],
+    "usagesNarratifs": [
+      "lieu de retrouvaille entre personnages qui ne se voient que là",
+      "moment de vérité émotionnelle pour un personnage trop contrôlé",
+      "espace où une décision est prise sans être explicitée",
+      "rencontre amoureuse fondatrice sur fond musical",
+      "lieu d'incident qui passe inaperçu dans la masse"
+    ],
+    "tensionsTypiques": [
+      "pression de la foule en fosse qui peut devenir étouffante",
+      "personnage qui perd de vue quelqu'un dans la masse",
+      "dispute muette qui ne peut pas être résolue pendant le concert",
+      "quelqu'un qui ne ressent pas ce que les autres ressentent — isolement visible",
+      "incident technique qui casse l'élan émotionnel"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Fan de longue date",
+        "description": "Connaît chaque setlist possible, chante avant même que la mélodie commence. Le lieu est un temple. La moindre modification de disposition des enceintes l'agace."
+      },
+      {
+        "profil": "Personne qui accompagne sans connaître l'artiste",
+        "description": "Observe la foule plus que la scène. Surpris par l'intensité collective. Peut vivre une conversion inattendue ou rester dehors malgré lui."
+      },
+      {
+        "profil": "Technicien son",
+        "description": "Entend la salle, pas la musique. Chaque résonance est un problème potentiel. Le concert réussi est celui dont il n'entend pas les défauts."
+      }
+    ],
+    "notesEditoriales": [
+      "Le concert permet l'ellipse émotionnelle : un personnage entre dans la salle dans un état, en sort changé — sans que l'on ait besoin d'expliquer la transformation.",
+      "L'alternance fosse-gradins est une hiérarchie sociale déguisée en choix esthétique.",
+      "Éviter de décrire la musique par ses paroles — privilégier l'effet physique et émotionnel sur le personnage."
+    ]
+  },
+  {
+    "id": "cinema-de-quartier",
+    "label": "Cinéma de quartier",
+    "type": "urbain-loisir",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "façade en carrelage beige des années soixante-dix avec lettres en relief",
+      "caisse vitrée avec un guichetier derrière une vitre rayée",
+      "hall étroit avec affiches plastifiées en bandes verticales",
+      "distribueur de pop-corn ancien avec vitre jaunie",
+      "moquette bordeaux à motifs géométriques usée sur les passages",
+      "rideaux velours rouge tiré sur l'écran avant la séance",
+      "fauteuils basculants en tissu, certains coincés en position levée",
+      "projecteur visible dans la lucarne au fond de la salle"
+    ],
+    "bruits": [
+      "ronronnement du projecteur en arrière-plan pendant la séance",
+      "froissement de papier d'emballage trop fort dans le silence",
+      "chuchotements entre voisins dans le noir",
+      "déclic du fauteuil qui se relève à la fin de la séance",
+      "générique de début avec volume trop élevé"
+    ],
+    "odeurs": [
+      "beurre artificiel du pop-corn, légèrement rance",
+      "renfermé de salle peu ventilée",
+      "tissu légèrement moisi des fauteuils anciens"
+    ],
+    "textures": [
+      "velours du fauteuil usé sous les doigts",
+      "accoudoir en plastique dur, partagé ou disputé",
+      "sol légèrement collant dans l'allée centrale"
+    ],
+    "emotionsTypiques": [
+      "nostalgie pour un cinéma résistant à la modernisation",
+      "sentiment de rituel intime et répété",
+      "concentration volontaire coupée du monde extérieur",
+      "légère frustration si la salle est trop froide ou l'image floue",
+      "attachement au lieu en dehors même du film"
+    ],
+    "usagesNarratifs": [
+      "rendez-vous entre personnages qui ont besoin du noir pour se dire quelque chose",
+      "lieu de solitude choisie — on vient seul pour ne pas être seul",
+      "espace de coupure du monde réel, transition narrative",
+      "rencontre entre deux habitués qui ne se parlent que là",
+      "retour d'un personnage dans un lieu chargé de souvenirs"
+    ],
+    "tensionsTypiques": [
+      "voisin de fauteuil trop bruyant ou trop présent physiquement",
+      "téléphone qui sonne dans le silence de la salle",
+      "film qui dérange un personnage trop fragile pour ça",
+      "désaccord entre deux personnages après la séance sur ce qu'ils ont vu",
+      "menace de fermeture du cinéma qui fragilise toute une communauté"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Cinéphile régulier",
+        "description": "Entre avec le même rituel depuis des années. Connaît les meilleures places acoustiques. Remarque les changements de programmation comme des signaux de politique culturelle."
+      },
+      {
+        "profil": "Enfant qui vient pour la première fois",
+        "description": "Surdimensionne chaque détail — le rideau, l'obscurité, le volume. Le moment de l'extinction des lumières est presque effrayant. L'écran est plus grand que l'imagination."
+      },
+      {
+        "profil": "Personne en rupture sentimentale",
+        "description": "Vient pour ne pas rentrer dans un appartement vide. Choisit n'importe quel film. Reste pendant le générique de fin."
+      }
+    ],
+    "notesEditoriales": [
+      "Le cinéma de quartier est un lieu de résistance culturelle — sa survie ou sa disparition peut structurer un sous-récit entier.",
+      "L'obscurité de la salle autorise des comportements que la lumière interdirait : pleurer, se toucher, regarder l'autre."
+    ]
+  },
+  {
+    "id": "musee",
+    "label": "Musée",
+    "type": "urbain-loisir",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "parquet à larges lames qui craque sous chaque pas",
+      "œuvres sous vitre ou derrière corde de velours rouge",
+      "cartels blancs fixés au mur avec typographie institutionnelle",
+      "gardiens en uniforme assis sur des tabourets pliants dans les angles",
+      "escalier monumental en pierre avec rampe en fer forgé",
+      "luminaires orientables fixés en rail sur les plafonds hauts",
+      "banc de bois au centre d'une salle pour la contemplation",
+      "plan du musée froissé dans la main d'un visiteur perdu"
+    ],
+    "bruits": [
+      "silence presque complet, rendu sonore par son absence",
+      "chuchotements de groupes scolaires qui s'efforcent d'être discrets",
+      "pas étouffés ou résonants selon le sol",
+      "audioguide émettant un murmure continu dans les oreillettes",
+      "annonce de fermeture des salles diffusée par haut-parleur plafond"
+    ],
+    "odeurs": [
+      "poussière ancienne mêlée à la cire de parquet",
+      "air climatisé légèrement sec et neutre",
+      "papier et toile vieillis dans les salles de peintures"
+    ],
+    "textures": [
+      "parquet lisse et légèrement glissant sous les semelles",
+      "rampe en métal froid de l'escalier",
+      "brochure glacée entre les doigts"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'infériorité culturelle ou d'imposture",
+      "contemplation vraie, rare et précieuse",
+      "ennui courtois pour les œuvres qui ne parlent pas",
+      "saisissement inattendu devant une œuvre imprévue",
+      "légère solennité héritée de l'architecture"
+    ],
+    "usagesNarratifs": [
+      "lieu de rendez-vous discret entre personnages qui ne doivent pas être vus ensemble",
+      "espace de confrontation d'un personnage à sa propre histoire via une œuvre",
+      "lieu de travail pour un personnage qui y fait ce qu'il ne fait nulle part ailleurs",
+      "scène de filature dans un espace semi-public",
+      "passage d'une information déguisée en commentaire d'une œuvre"
+    ],
+    "tensionsTypiques": [
+      "personnage qui ne comprend rien et ne veut pas le montrer",
+      "gardien soupçonneux qui surveille trop ostensiblement",
+      "œuvre volée ou manquante qui crée un vide visible sur le mur",
+      "désaccord sur la valeur d'une œuvre qui révèle une fracture plus profonde",
+      "groupe scolaire envahissant qui détruit la concentration d'un personnage"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Spécialiste en histoire de l'art",
+        "description": "Ne voit plus les œuvres entières, seulement les détails — un rehauts de blanc, une signature, un encadrement d'époque. Sa vision est fragmentée mais précise."
+      },
+      {
+        "profil": "Touriste en visite rapide",
+        "description": "Photographie plus qu'il ne regarde. Cherche les œuvres connues d'avance. Se sent légitime une fois la photo prise."
+      },
+      {
+        "profil": "Gardien de salle",
+        "description": "Le lieu est son bureau. Les œuvres sont des collègues muets. Il surveille les visiteurs, pas les tableaux, et connaît chaque comportement anormal avant qu'il n'arrive."
+      }
+    ],
+    "notesEditoriales": [
+      "Le silence du musée est une convention sociale forcée — la tension naît souvent de sa transgression.",
+      "Un personnage qui réagit fort devant une œuvre dit quelque chose qu'il ne pourrait pas dire autrement."
+    ]
+  },
+  {
+    "id": "theatre",
+    "label": "Théâtre",
+    "type": "urbain-loisir",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "façade en pierre de taille avec colonnes et fronton sculpté",
+      "hall en marbre avec vestiaire à numéros de métal",
+      "programme imprimé sur papier épais, légèrement glacé",
+      "orchestre avec fauteuils en velours rouge numérotés à la laque dorée",
+      "loges en surplomb avec balustrades ouvragées",
+      "rideau de scène en velours bordeaux avec frange dorée effilochée",
+      "lustre central éteint pendant la représentation",
+      "couloir de circulation étroit entre les rangées"
+    ],
+    "bruits": [
+      "silence absolu au lever de rideau, plus dense qu'ailleurs",
+      "bruissement de programme et froissement de tenues",
+      "toux retenue et presque honteuse dans le public",
+      "voix projetée des comédiens sans amplification",
+      "applaudissements progressifs, d'abord hésitants puis collectifs"
+    ],
+    "odeurs": [
+      "tissu ancien des fauteuils, légèrement poussiéreux",
+      "parfum concentré du public en tenue de sortie",
+      "bois de scène et toile de décor légèrement chauffés par les projecteurs"
+    ],
+    "textures": [
+      "velours du fauteuil plus usé sur le dossier que l'assise",
+      "programme papier entre les doigts, un peu épais",
+      "rampe de l'escalier lisse et froide"
+    ],
+    "emotionsTypiques": [
+      "attente rituelle avant le lever de rideau",
+      "sentiment d'appartenance à une classe culturelle — ou d'en être exclu",
+      "émotion suspendue et collective pendant la représentation",
+      "gêne ou fascination selon la distance au texte joué",
+      "légère supériorité ou contrariété pendant l'entracte"
+    ],
+    "usagesNarratifs": [
+      "lieu de rencontre entre personnages de milieux différents réunis par hasard",
+      "représentation qui fait miroir à la situation du personnage dans le récit",
+      "entracte comme moment de révélation ou de décision",
+      "conversation chuchotée dans le noir qui ne peut pas être entendue",
+      "scène vue de la loge comme métaphore du regard surplombant"
+    ],
+    "tensionsTypiques": [
+      "spectateur qui perturbe la salle et que personne n'ose faire taire",
+      "personnage qui reconnaît quelqu'un dans le public ou sur scène",
+      "pièce qui aborde un sujet trop proche du vécu d'un des protagonistes",
+      "désaccord esthétique après la représentation qui révèle une fracture",
+      "invitation à un spectacle qui cache une intention autre"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Abonné de longue date",
+        "description": "Connaît son fauteuil, connaît le personnel, connaît les coulisses par ouï-dire. Le théâtre est un club dont il a la clé. Juge la mise en scène avec propriété."
+      },
+      {
+        "profil": "Personne qui vient pour la première fois",
+        "description": "Intimidé par les codes vestimentaires, l'architecture, le silence obligatoire. Observe comment se comportent les autres pour ne pas faire de faux pas."
+      },
+      {
+        "profil": "Comédien qui y a joué",
+        "description": "Ne voit pas la salle — voit la scène. Évalue le jeu avec une précision technique et une envie difficile à réprimer. La nostalgie et la jalousie se mêlent."
+      }
+    ],
+    "notesEditoriales": [
+      "Le théâtre est un lieu où les émotions sont à la fois intensifiées et conventionnelles — le personnage qui pleure vraiment se distingue de celui qui pleure comme il le faut.",
+      "L'entracte est souvent plus dramatiquement dense que la représentation elle-même."
+    ]
+  },
+  {
+    "id": "bibliotheque-publique",
+    "label": "Bibliothèque publique",
+    "type": "urbain-loisir",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "rayonnages en métal gris jusqu'au plafond, classés par lettres collées",
+      "tables longues en bois stratifié avec lampes de bureau à col de cygne",
+      "banque de prêt avec scanner et tampons posés côte à côte",
+      "bac de retours à fente dans le mur du hall",
+      "panneau d'affichage avec prospectus d'activités culturelles épinglés",
+      "coins lecture avec fauteuils bas et tables basses en plastique",
+      "rayon jeunesse avec tapis multicolore et coussins épars",
+      "ordinateurs en rang sur une longue table, séparés par des cloisons basses"
+    ],
+    "bruits": [
+      "silence de fond ponctué par le glissement des chaises",
+      "chuchotements de la banque de prêt",
+      "bruissement de pages tournées",
+      "clavier d'ordinateur cliquetant doucement",
+      "roulement d'un chariot de réassort dans les allées"
+    ],
+    "odeurs": [
+      "papier vieilli, légèrement vanillé",
+      "plastique des couvertures de protection",
+      "café d'un thermos ouvert discrètement sous une table"
+    ],
+    "textures": [
+      "dos de livres sous les doigts lors d'une recherche en rayon",
+      "table froide et lisse sous les avant-bras",
+      "papier qui résiste légèrement avant de se tourner"
+    ],
+    "emotionsTypiques": [
+      "sentiment de légitimité gratuite — tout est accessible",
+      "concentration acquise malgré soi par le silence collectif",
+      "nostalgie liée aux livres lus enfant",
+      "légère solitude confortable dans l'espace partagé",
+      "frustration si le livre cherché est absent ou réservé"
+    ],
+    "usagesNarratifs": [
+      "lieu de refuge pour un personnage sans domicile stable ou en fuite",
+      "point de départ d'une recherche qui va changer la trajectoire du récit",
+      "espace neutre de rencontre entre deux personnages sans histoire commune",
+      "lieu de travail discret pour quelqu'un qui cache ce qu'il fait",
+      "microcosme social d'une ville — la bibliothèque publique accueille tout le monde"
+    ],
+    "tensionsTypiques": [
+      "personne qui perturbe le silence sans s'en rendre compte",
+      "sans-abri qui vient pour la chaleur et que le personnel ne sait comment gérer",
+      "livre censuré ou manquant qui crée un incident diplomatique local",
+      "personnage qui trouve dans un livre quelque chose qu'il n'aurait pas dû trouver",
+      "bibliothécaire qui connaît trop bien les habitudes d'un personnage"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Étudiant en période d'examen",
+        "description": "La bibliothèque est un champ de bataille pour les places. Chaque bruit est une agression. Le silence des autres est une pression tacite à la productivité."
+      },
+      {
+        "profil": "Retraité habitué",
+        "description": "Vient tous les matins. Connaît les bibliothécaires par prénom. Le lieu est un prolongement de chez lui, mais avec de la compagnie silencieuse."
+      },
+      {
+        "profil": "Enfant en autonomie pour la première fois",
+        "description": "L'espace est immense et légèrement intimidant. Les rayons sont une forêt. La bibliothécaire est une figure d'autorité bienveillante mais étrange."
+      }
+    ],
+    "notesEditoriales": [
+      "La bibliothèque est l'un des rares espaces publics où la pauvreté et la richesse se côtoient sans hiérarchie visible — à exploiter pour des rencontres improbables.",
+      "Le catalogue ou le rayon comme dispositif narratif : ce qu'un personnage cherche est une fenêtre sur ce qu'il veut vraiment."
+    ]
+  },
+  {
+    "id": "stade-populaire",
+    "label": "Stade populaire",
+    "type": "urbain-loisir",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "gradins en béton couverts de sièges en plastique coloré, certains cassés",
+      "gazon synthétique ou naturel délimité par des bandes blanches",
+      "grille de séparation entre le public et le terrain, rouillée par endroits",
+      "panneaux publicitaires en bordure de terrain, certains décolorés",
+      "tribune officielle avec auvent, plus protégée que les virages",
+      "buvette en béton avec volet métallique relevé, queue devant",
+      "toilettes collectives à l'odeur persistante",
+      "drapeaux et écharpes aux couleurs du club noués aux rambardes"
+    ],
+    "bruits": [
+      "chant collectif qui monte et s'effondre selon l'action",
+      "sifflet de l'arbitre coupant le bruit général",
+      "cris d'approbation ou d'indignation en même temps dans toute la tribune",
+      "tambour du groupe de supporters, régulier comme un battement",
+      "sono annonçant les noms des joueurs avec un léger écho"
+    ],
+    "odeurs": [
+      "herbe coupée ou plastique chaud du gazon synthétique",
+      "merguez grillée de la buvette extérieure",
+      "sueur et alcool mêlés dans les virages",
+      "béton humide sous les gradins couverts"
+    ],
+    "textures": [
+      "siège plastique froid ou brûlant selon la saison",
+      "métal de la rambarde dans la main, légèrement rouillé",
+      "banc de béton brut dans les gradins debout"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'appartenance tribale et territoriale",
+      "exaltation collective lors d'un but",
+      "frustration partagée qui renforce la cohésion",
+      "légère agressivité de fond lors des matchs tendus",
+      "nostalgie pour une époque glorieuse du club"
+    ],
+    "usagesNarratifs": [
+      "lieu où des personnages très différents partagent brièvement la même émotion",
+      "espace de négociation ou de règlement de compte dans le bruit",
+      "fond sonore qui couvre une conversation que personne ne doit entendre",
+      "révélateur des appartenances sociales et géographiques d'un personnage",
+      "moment de défaite ou de victoire comme catalyseur émotionnel"
+    ],
+    "tensionsTypiques": [
+      "incident entre supporters des deux équipes dans un virage mixte",
+      "personnage isolé dans un groupe soudé qui ne partage pas ses codes",
+      "décision arbitrale contestée qui dégénère",
+      "personnage qui cache sa présence là à quelqu'un",
+      "ancienne connaissance croisée dans les tribunes au mauvais moment"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Supporter de la première heure",
+        "description": "Connaît les chants, les rituels, les anciens joueurs. Juge les nouveaux venus. L'attachement au club est identitaire, pas seulement sportif."
+      },
+      {
+        "profil": "Journaliste sportif",
+        "description": "Prend des notes, cherche l'angle. Ne regarde pas le match mais les réactions. Remarque ce que le stade dit du quartier, de la ville, du pays."
+      },
+      {
+        "profil": "Enfant qui vient pour la première fois avec son père",
+        "description": "Submergé par la foule, le bruit, les odeurs. Ne comprend pas toutes les règles. Retient surtout un détail — une écharpe, un cri, une lumière — plutôt que le score."
+      }
+    ],
+    "notesEditoriales": [
+      "Le stade populaire n'est pas le même espace selon qu'on y gagne ou qu'on y perd — la défaite y a une texture propre.",
+      "Éviter le cliché de la violence gratuite : la tension dans un stade est souvent ritualisée et codée."
+    ]
+  },
+  {
+    "id": "terrain-de-sport-quartier",
+    "label": "Terrain de sport de quartier",
+    "type": "urbain-loisir",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "béton ou bitume tracé de lignes à la peinture blanche efface",
+      "buts en métal sans filet ou avec un filet rapiécé",
+      "grillage vert rouillé encadrant le terrain sur trois ou quatre côtés",
+      "bancs en bois ou béton le long de la clôture pour les attendants",
+      "éclairage public à mi-hauteur, parfois insuffisant ou grillé",
+      "bouteilles en plastique et emballages dans les angles des buts",
+      "marques de brûlure ou de graffiti sur le sol et les poteaux",
+      "portail à cadenas laissé ouvert ou forcé"
+    ],
+    "bruits": [
+      "claquement du ballon contre le béton ou le métal",
+      "cris et appels en plusieurs langues selon les équipes",
+      "rires et insulses légères circulant librement",
+      "grillage qui vibre quand le ballon le frappe",
+      "bruit de la ville en fond — voitures, klaxons, musique lointaine"
+    ],
+    "odeurs": [
+      "bitume chaud en été, humide au printemps",
+      "transpiration sans vestiaire ni douche",
+      "cigarette fumée sur le banc des attendants"
+    ],
+    "textures": [
+      "asphalte granuleux sous les semelles de sport",
+      "grillage métallique sous les doigts si l'on s'y accroche",
+      "poussière ou sable selon les saisons"
+    ],
+    "emotionsTypiques": [
+      "liberté informelle loin des règles institutionnelles",
+      "compétition intense dans un cadre sans arbitre",
+      "appartenance au groupe et à l'espace revendiqué",
+      "frustration lors des désaccords sur les règles",
+      "légèreté physique, relâchement"
+    ],
+    "usagesNarratifs": [
+      "lieu de socialisation entre personnages qui ne se fréquentent pas autrement",
+      "espace de négociation de la domination par le sport",
+      "décor d'un incident qui fait basculer une relation",
+      "territoire disputé entre groupes de jeunes",
+      "lieu de retrouvaille ou de rupture après une longue absence"
+    ],
+    "tensionsTypiques": [
+      "faute non reconnue qui dégénère en conflit",
+      "terrain occupé par un groupe qui n'accepte pas d'être délogé",
+      "personnage de retour après une absence qui ne reconnaît plus sa place",
+      "rapport de force entre équipes de quartiers différents",
+      "surveillance policière extérieure qui modifie les comportements"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Adolescent du quartier",
+        "description": "Le terrain est un territoire. Il connaît les hiérarchies, les créneaux non dits, les règles implicites. Sa légitimité à jouer n'est pas négociée, elle est acquise."
+      },
+      {
+        "profil": "Habitant riverain âgé",
+        "description": "Voit le bruit, les horaires non respectés, les déchets. Le terrain est une nuisance autant qu'un fait de vie. Regarde depuis sa fenêtre avec une ambivalence non résolue."
+      },
+      {
+        "profil": "Travailleur social en visite",
+        "description": "Analyse les dynamiques de groupe, les leaderships informels, les exclusions. Le jeu est un révélateur que ses rapports ne peuvent pas capter."
+      }
+    ],
+    "notesEditoriales": [
+      "Le terrain de quartier est un espace autogéré — ses règles tacites disent plus sur la sociologie locale que n'importe quel rapport.",
+      "La présence ou l'absence de quelqu'un sur ce terrain peut marquer un avant et un après dans une trajectoire narrative."
+    ]
+  },
+  {
+    "id": "parc-urbain-nuit",
+    "label": "Parc urbain la nuit",
+    "type": "urbain-loisir",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "allées éclairées par des lampadaires à cônes jaunes entre zones d'ombre",
+      "arbres dont les frondaisons absorbent ou diffusent la lumière des lampadaires",
+      "bancs vides ou occupés par des silhouettes immobiles",
+      "pelouses obscures où le sol disparaît",
+      "fontaine éteinte ou continuant de couler dans le noir",
+      "poubelles renversées ou pleines débordant sur le sol",
+      "grilles de fermeture partiellement franchissables",
+      "ombre d'un pigeon ou d'un renard urbain traversant l'allée"
+    ],
+    "bruits": [
+      "bruit de la ville atténué mais jamais absent",
+      "pas qui résonnent différemment selon la surface",
+      "voix isolée ou rires provenant d'une zone non visible",
+      "bruissement des arbres en cas de vent",
+      "aboiement de chien lointain, puis silence"
+    ],
+    "odeurs": [
+      "herbe humide de rosée ou de pluie récente",
+      "feuilles en décomposition selon la saison",
+      "fumée de cigarette ou autre substance portée par le vent"
+    ],
+    "textures": [
+      "gravier qui crisse ou herbe humide qui cède sous le pied",
+      "banc de métal froid en pleine nuit",
+      "feuilles mortes ou boue selon la saison sous la semelle"
+    ],
+    "emotionsTypiques": [
+      "vigilance diffuse, sentiment d'être observé sans voir qui regarde",
+      "liberté étrange liée à l'absence de regard social",
+      "mélancolie amplifiée par le silence relatif",
+      "légère peur ou fascination selon le caractère du personnage",
+      "sentiment d'être hors du temps de la ville"
+    ],
+    "usagesNarratifs": [
+      "lieu de rendez-vous clandestin ou amoureux",
+      "espace de solitude choisie pour un personnage qui ne veut pas être trouvé",
+      "décor d'une filature ou d'une confrontation dans l'obscurité",
+      "lieu de transition entre deux états émotionnels d'un personnage",
+      "scène où quelque chose est dissimulé ou trouvé"
+    ],
+    "tensionsTypiques": [
+      "présence non identifiée qui suit ou précède",
+      "personnage en état de vulnérabilité dans un espace peu sûr",
+      "rencontre imprévue avec quelqu'un que l'on ne voulait pas croiser",
+      "bruit inexpliqué qui relance l'anxiété",
+      "découverte d'un objet ou d'une scène anormale"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Promeneur nocturne habituel",
+        "description": "Connaît le parc de nuit mieux que de jour. A ses repères dans l'obscurité. Distingue les présences habituelles des présences anormales."
+      },
+      {
+        "profil": "Personne qui coupe par le parc par nécessité",
+        "description": "Accélère le pas. Évite les zones d'ombre. Téléphone en main comme signal ou bouclier. Ne regarde pas les bancs occupés."
+      },
+      {
+        "profil": "Personne qui y vit la nuit sans domicile",
+        "description": "Connaît les abris naturels, les zones de chaleur, les horaires des rondes. Le parc est un territoire domestiqué, pas un espace inquiétant."
+      }
+    ],
+    "notesEditoriales": [
+      "Le parc de nuit transforme les détails du parc de jour : les mêmes arbres, les mêmes allées, mais le sens est inversé.",
+      "La lumière des lampadaires crée des zones de visibilité et d'invisibilité qui structurent naturellement le découpage d'une scène."
+    ]
+  }
+]

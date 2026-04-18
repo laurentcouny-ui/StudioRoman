@@ -1,0 +1,606 @@
+[
+  {
+    "id": "conflit-d-autorite",
+    "label": "Conflit d'autorité",
+    "alias": [
+      "conflit de pouvoir",
+      "lutte hiérarchique",
+      "affrontement de légitimité",
+      "crise d'autorité",
+      "contestation de l'ordre",
+      "résistance à l'autorité",
+      "guerre de commandement",
+      "clash de leadership",
+      "bataille de contrôle",
+      "refus d'obéissance"
+    ],
+    "famille": "conflits interpersonnels",
+    "definitionCourte": "Tension entre une figure d'autorité et quelqu'un qui conteste sa légitimité, ses décisions ou son droit à commander.",
+    "natureDuConflit": "Conflit de hiérarchie, de légitimité et de contrôle. L'un impose, l'autre résiste — ou les deux revendiquent le même droit de décider.",
+    "forcesEnPresence": [
+      "besoin de contrôle",
+      "peur de perdre le pouvoir",
+      "besoin d'autonomie",
+      "blessure d'injustice ancienne",
+      "orgueil de rang",
+      "ressentiment accumulé",
+      "peur de l'obéissance aveugle"
+    ],
+    "declencheursFrequents": [
+      "décision unilatérale imposée",
+      "critique publique de l'autorité",
+      "promotion ou rétrogradation",
+      "humiliation devant un groupe",
+      "règle perçue comme arbitraire",
+      "autorité nouvelle qui bouscule l'ancienne",
+      "erreur manifeste de la figure d'autorité",
+      "refus d'expliquer une décision"
+    ],
+    "signauxAvantCoureurs": [
+      "ton légèrement plus sec dans les échanges",
+      "délais qui s'allongent sans explication",
+      "micro-désobéissances sur des détails",
+      "regards échangés entre subordonnés",
+      "questions rhétoriques qui remettent en cause",
+      "absences ou retards répétés",
+      "travail fait mais de manière minimale",
+      "silence ostensible lors des réunions"
+    ],
+    "silencesEtNonDits": [
+      "personne ne dit vraiment que la décision est injuste",
+      "l'autorité ne reconnaît pas qu'elle a peur de perdre le contrôle",
+      "le subordonné ne dit pas qu'il veut lui-même prendre la place",
+      "la question de la compétence reste non formulée",
+      "le ressentiment ancien n'est jamais nommé",
+      "la loyauté forcée n'est jamais questionnée"
+    ],
+    "penseesTypiques": [
+      "Qui lui donne le droit de me dicter ça ?",
+      "Il n'a aucune légitimité à décider pour moi.",
+      "Si je cède maintenant, je cède pour toujours.",
+      "Il n'est là que par le titre, pas par la compétence.",
+      "Je fais semblant d'obéir mais je suis le seul à vraiment comprendre.",
+      "Je ne suis pas là pour exécuter des ordres absurdes.",
+      "Elle panique dès qu'on ne suit pas ses instructions.",
+      "Pourquoi est-ce que je devrais me taire encore ?",
+      "Si je me soumets, je perds quelque chose d'essentiel."
+    ],
+    "comportementsTypiques": [
+      "exécute les ordres mais avec un retard ou une résistance passive",
+      "remet en question les décisions devant les autres",
+      "cherche des alliés pour contester l'autorité",
+      "respecte la forme mais torpille le fond",
+      "provoque des confrontations calculées",
+      "prend des initiatives non autorisées pour prouver sa valeur",
+      "documente les erreurs de l'autorité",
+      "quitte ou menace de quitter pour reprendre le contrôle"
+    ],
+    "positionsDePouvoir": [
+      "L'autorité a le pouvoir formel mais risque de perdre le pouvoir réel si contestée.",
+      "Le subordonné a le pouvoir de l'inertie — il peut bloquer sans s'exposer.",
+      "Le groupe observe et choisit à qui il accorde sa loyauté silencieuse.",
+      "Celui qui contrôle l'information contrôle souvent plus que le titre ne le laisse croire."
+    ],
+    "variantes": [
+      {
+        "relation": "Parent / Adolescent",
+        "description": "L'enjeu est l'émancipation. L'autorité est contestée non par ambition mais par besoin d'exister séparément. La contestation est souvent bruyante mais fragile."
+      },
+      {
+        "relation": "Chef / Subordonné compétent",
+        "description": "Le subordonné surpasse parfois le chef en compétence. La tension porte sur la reconnaissance, pas sur la survie. Le chef peut devenir persécuteur par insécurité."
+      },
+      {
+        "relation": "Ancien / Nouveau",
+        "description": "L'ancien conteste la légitimité du nouveau nommé. Le conflit mêle piqûre d'orgueil, peur du changement et loyauté envers l'ordre ancien."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Friction sourde", "description": "Quelques désaccords sur les méthodes. Le subordonné se plie mais intérieurement résiste. Aucune confrontation ouverte." },
+      { "niveau": 2, "label": "Résistance passive", "description": "Retards, demi-mesures, questions rhétoriques. L'autorité sent qu'elle perd le fil sans pouvoir le nommer." },
+      { "niveau": 3, "label": "Confrontation directe", "description": "Le désaccord est verbalisé devant témoins. Les positions se durcissent. L'issue incertaine." },
+      { "niveau": 4, "label": "Crise d'autorité", "description": "L'autorité est publiquement remise en cause. Des tiers prennent parti. Le groupe se fracture." },
+      { "niveau": 5, "label": "Effondrement de la hiérarchie", "description": "L'autorité est destitutée, contournée ou abandonnée. Le système se réorganise autour d'un nouveau centre de gravité." }
+    ],
+    "escaladeTypique": [
+      "désaccord silencieux sur une décision",
+      "micro-résistances accumulées sans confrontation",
+      "premier accroc public qui fige les positions",
+      "recherche d'alliés et constitution de camps",
+      "confrontation ouverte ou rupture de la relation d'autorité"
+    ],
+    "voiesDeResolution": [
+      "l'autorité reconnaît une erreur et regagne la crédibilité perdue",
+      "le subordonné obtient une autonomie réelle dans un domaine délimité",
+      "un tiers arbitre et redistribue les responsabilités",
+      "la blessure d'origine (injustice, mépris, non-reconnaissance) est nommée",
+      "la séparation — l'un des deux quitte le champ — résout la tension sans réconciliation"
+    ],
+    "blessuresUnderlyantes": [
+      "sentiment d'avoir toujours été contrôlé sans jamais avoir pu décider",
+      "honte ancienne liée à l'obéissance forcée",
+      "peur de ne jamais être reconnu à sa juste valeur",
+      "blessure d'une autorité passée qui a trahi ou abusé",
+      "besoin d'autonomie non comblé depuis l'enfance"
+    ],
+    "contextesFavorables": [
+      "institution avec hiérarchie rigide (armée, entreprise, famille stricte)",
+      "période de crise où les décisions sont contestables",
+      "personnage qui a été subordonné toute sa vie et atteint un point de bascule",
+      "autorité nouvellement nommée qui n'a pas encore fait ses preuves"
+    ],
+    "personnagesSouventConcernes": [
+      "le chef insécure qui compense par l'autorité formelle",
+      "le subordonné brillant qui se sait plus compétent",
+      "l'adolescent en construction identitaire",
+      "le soldat ou l'employé loyal poussé jusqu'à sa limite morale",
+      "le nouveau venu qui bouscule l'ordre établi par sa seule présence"
+    ],
+    "erreursDEcriture": [
+      "rendre l'autorité entièrement mauvaise et le contestataire entièrement héroïque — l'ambiguïté est plus riche",
+      "résoudre le conflit par la seule démonstration de compétence — la légitimité est aussi affective",
+      "oublier les silencieux qui observent et alimentent le conflit sans le dire",
+      "confondre autorité contestée et tyrannie — le conflit d'autorité peut exister sans abus",
+      "résolution trop rapide après la confrontation — la méfiance dure"
+    ],
+    "notesEditoriales": [
+      "Le conflit d'autorité est plus intéressant quand les deux parties ont raison sur quelque chose.",
+      "La résistance passive est souvent plus dramatiquement riche que la confrontation ouverte.",
+      "Différencier : conflit d'autorité (légitimité) / conflit de pouvoir (ressources) / conflit de domination (contrôle personnel).",
+      "La figure d'autorité qui doute d'elle-même est souvent plus dangereuse que celle qui est sûre d'elle."
+    ]
+  },
+  {
+    "id": "conflit-de-loyaute",
+    "label": "Conflit de loyauté",
+    "alias": [
+      "loyautés contradictoires",
+      "double allégeance",
+      "tiraillement de fidélité",
+      "conflit d'appartenance",
+      "trahison forcée",
+      "entre deux feux",
+      "dilemme de camp",
+      "fidélité impossible",
+      "crise de loyauté",
+      "choix impossible d'allégeance"
+    ],
+    "famille": "conflits interpersonnels",
+    "definitionCourte": "Le personnage doit choisir entre deux loyautés incompatibles — deux personnes, deux groupes, deux valeurs auxquelles il est sincèrement attaché.",
+    "natureDuConflit": "Conflit de fidélité. Quelle que soit la décision, le personnage trahit quelqu'un ou quelque chose. L'issue est toujours douloureuse.",
+    "forcesEnPresence": [
+      "attachement sincère aux deux parties",
+      "peur de la trahison",
+      "culpabilité anticipée",
+      "pression de chaque camp",
+      "besoin d'approbation",
+      "valeurs en tension",
+      "identité liée à l'appartenance"
+    ],
+    "declencheursFrequents": [
+      "demande explicite de choisir son camp",
+      "secret confié par l'un qui compromet l'autre",
+      "crise qui force une prise de position",
+      "information que l'un a sur l'autre",
+      "conflit entre famille et ami proche",
+      "conflit entre ami et partenaire amoureux",
+      "conflit entre groupe d'appartenance et valeur personnelle",
+      "trahison découverte de l'un des camps"
+    ],
+    "signauxAvantCoureurs": [
+      "le personnage évite les conversations où les deux camps pourraient se croiser",
+      "réponses évasives quand on lui demande son opinion",
+      "fatigue liée à la gestion des deux relations en parallèle",
+      "sourires forcés dans les situations qui impliquent les deux",
+      "mensonges par omission de plus en plus fréquents",
+      "irritabilité sans cause apparente",
+      "distancement progressif de l'un des camps pour différer le choix",
+      "rumination nocturne sur les conséquences possibles"
+    ],
+    "silencesEtNonDits": [
+      "personne ne nomme que le personnage souffre de la situation",
+      "chaque camp croit avoir la loyauté entière du personnage",
+      "la peur de décevoir n'est jamais dite directement",
+      "le personnage ne dit pas qu'il ne sait pas quel camp a raison",
+      "la question de ce que le personnage veut vraiment reste sans réponse",
+      "les deux camps ne savent pas qu'il est tiraillé"
+    ],
+    "penseesTypiques": [
+      "Si je dis la vérité à l'un, je trahis l'autre.",
+      "Je ne peux pas choisir sans tout perdre.",
+      "Comment peut-on me demander ça ?",
+      "Quel que soit mon choix, quelqu'un me détestera.",
+      "J'aurais dû refuser de m'impliquer dès le début.",
+      "Est-ce que ma loyauté vaut vraiment quelque chose si je dois la choisir ?",
+      "Je les aime tous les deux — ce n'est pas censé fonctionner comme ça.",
+      "Si j'avais été plus courageux, je n'en serais pas là.",
+      "Je vais finir par perdre les deux de toute façon."
+    ],
+    "comportementsTypiques": [
+      "reporte indéfiniment la décision en espérant que la situation se résolve seule",
+      "essaie de satisfaire les deux sans trancher",
+      "ment à l'un ou à l'autre pour préserver la paix",
+      "cherche un tiers à qui déléguer la responsabilité du choix",
+      "s'isole pour éviter les situations où le choix deviendrait inévitable",
+      "prend parti puis se rétracte quand les conséquences deviennent réelles",
+      "devient irritable et injuste envers ceux qui lui posent des questions",
+      "sacrifie finalement celui qu'il croit le plus en mesure de le comprendre"
+    ],
+    "positionsDePouvoir": [
+      "Chaque camp a un levier émotionnel sur le personnage — l'attachement est la vulnérabilité.",
+      "Celui qui formule le choix en premier impose souvent les termes du dilemme.",
+      "Le personnage a parfois plus de pouvoir qu'il ne le croit — les deux camps ont besoin de lui.",
+      "Refuser de choisir est aussi une forme de pouvoir — et de lâcheté possible."
+    ],
+    "variantes": [
+      {
+        "relation": "Famille contre ami proche",
+        "description": "La famille invoque la dette, le sang, les sacrifices consentis. L'ami invoque la confiance construite librement. Le personnage doit choisir entre appartenance et affection choisie."
+      },
+      {
+        "relation": "Ami contre partenaire amoureux",
+        "description": "L'amitié ancienne contre le nouveau lien intime. Le choix dit quelque chose de l'identité du personnage — vers qui il gravite quand les deux tirent."
+      },
+      {
+        "relation": "Groupe contre valeur",
+        "description": "Le personnage reste loyal à son groupe d'appartenance (bande, institution, famille) mais le groupe commet quelque chose qui viole ses valeurs. Loyauté contre intégrité."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Inconfort silencieux", "description": "Le personnage gère les deux loyautés sans trop de friction. La tension est intérieure, pas encore visible." },
+      { "niveau": 2, "label": "Tiraillement visible", "description": "Les hésitations se voient. Le personnage est moins présent, plus distrait, plus évasif dans ses réponses." },
+      { "niveau": 3, "label": "Dilemme actif", "description": "La situation force un choix imminent. Le personnage ne peut plus différer. La souffrance est réelle." },
+      { "niveau": 4, "label": "Rupture partielle", "description": "Le personnage a choisi mais n'assume pas pleinement. Il entretient encore un lien avec l'autre camp, ce qui prolonge la douleur." },
+      { "niveau": 5, "label": "Choix définitif et ses conséquences", "description": "La loyauté est tranchée. L'un des camps est perdu. Le personnage vit avec le poids de ce qu'il a sacrifié." }
+    ],
+    "escaladeTypique": [
+      "situation ambiguë où les deux camps ont des attentes contradictoires",
+      "premier mensonge ou omission pour préserver les deux",
+      "demande explicite de se positionner",
+      "tentative de compromis qui mécontente tout le monde",
+      "confrontation ou révélation qui force le choix définitif"
+    ],
+    "voiesDeResolution": [
+      "l'un des camps libère le personnage de sa loyauté en révélant une vérité qui change tout",
+      "le personnage choisit en pleine conscience et accepte la perte qui en découle",
+      "les deux camps apprennent à coexister — résolution rare mais possible",
+      "le personnage découvre que sa loyauté reposait sur une illusion",
+      "le temps et la distance règlent la tension sans affrontement direct"
+    ],
+    "blessuresUnderlyantes": [
+      "enfant d'un couple conflictuel habitué à être pris entre deux feux",
+      "peur intense de décevoir les autres",
+      "identité construite sur l'appartenance à un groupe",
+      "besoin d'être aimé de tous, incapacité à accepter de ne pas l'être",
+      "expérience passée où un choix mal fait a tout détruit"
+    ],
+    "contextesFavorables": [
+      "fratrie divisée après décès d'un parent",
+      "personnage qui travaille pour deux camps ennemis sans que l'un le sache",
+      "personnage pris entre sa famille d'origine et sa famille choisie",
+      "ami qui connaît un secret compromettant sur le partenaire du personnage"
+    ],
+    "personnagesSouventConcernes": [
+      "l'enfant adulte tiraillé entre ses parents séparés",
+      "l'espion ou le traître dont la loyauté est structurellement impossible",
+      "l'ami intime de deux ennemis",
+      "le personnage issu d'une minorité intégré dans un groupe dominant",
+      "celui qui a changé de camp mais n'a pas coupé les liens avec l'ancien"
+    ],
+    "erreursDEcriture": [
+      "rendre la bonne réponse évidente — si l'un des camps est clairement mauvais, il n'y a pas de dilemme réel",
+      "résoudre la tension par un événement extérieur qui ôte le choix au personnage",
+      "ne pas montrer la souffrance silencieuse avant la confrontation",
+      "oublier que celui qui n'est pas choisi ressent aussi quelque chose",
+      "faire du choix un moment de clarté héroïque au lieu d'un moment de deuil"
+    ],
+    "notesEditoriales": [
+      "Le conflit de loyauté n'est puissant que si les deux camps méritent vraiment la fidélité du personnage.",
+      "La résolution la plus honnête n'est pas forcément la plus heureuse.",
+      "Ce conflit dit quelque chose de l'identité profonde du personnage — vers qui il va quand tout tire.",
+      "Différencier : conflit de loyauté (attachement) / conflit moral (valeurs) / conflit d'autorité (hiérarchie)."
+    ]
+  },
+  {
+    "id": "desaccord-de-valeurs",
+    "label": "Désaccord de valeurs",
+    "alias": [
+      "choc de valeurs",
+      "incompatibilité de convictions",
+      "conflit de croyances",
+      "guerre idéologique",
+      "opposition de principes",
+      "désaccord fondamental",
+      "incompréhension profonde",
+      "fossé de vision du monde",
+      "conflit de fond",
+      "désaccord irréductible"
+    ],
+    "famille": "conflits interpersonnels",
+    "definitionCourte": "Deux personnages ont des valeurs, des convictions ou des visions du monde fondamentalement incompatibles, et cette divergence devient source de friction ou de rupture.",
+    "natureDuConflit": "Conflit de sens et d'identité. Ici, personne n'a forcément tort — mais les deux ne peuvent pas coexister sans heurts sur certains terrains essentiels.",
+    "forcesEnPresence": [
+      "conviction profonde de sa propre vérité",
+      "incapacité à comprendre l'autre de l'intérieur",
+      "besoin d'être validé dans ses valeurs",
+      "peur que l'autre ait raison",
+      "mépris ou incompréhension de l'autre vision",
+      "loyauté envers un groupe qui partage les mêmes valeurs",
+      "histoire personnelle qui a forgé ces convictions"
+    ],
+    "declencheursFrequents": [
+      "sujet sensible abordé à table ou en public",
+      "décision qui incarne concrètement la différence de valeurs",
+      "événement extérieur qui oblige à se positionner",
+      "commentaire maladroit sur le mode de vie de l'autre",
+      "jugement implicite ressenti comme une attaque",
+      "présence d'un tiers qui prend parti",
+      "moment de crise qui expose les priorités réelles de chacun",
+      "révélation d'une décision passée incompatible avec les valeurs affichées"
+    ],
+    "signauxAvantCoureurs": [
+      "évitement de certains sujets lors des conversations",
+      "sourires crispés quand l'autre parle de ses convictions",
+      "petites piques déguisées en humour",
+      "désaccords croissants sur des décisions pratiques",
+      "moments de silence après certaines phrases",
+      "commentaires à un tiers sur l'incompréhensibilité de l'autre",
+      "mauvaise foi croissante dans les discussions",
+      "ton de plus en plus condescendant ou impatient"
+    ],
+    "silencesEtNonDits": [
+      "chacun pense que l'autre est fondamentalement dans l'erreur mais ne le dit pas clairement",
+      "la question de savoir si la relation peut survivre à cette différence n'est jamais posée",
+      "le mépris implicite n'est jamais nommé",
+      "personne ne reconnaît que ses valeurs lui ont aussi été transmises, pas seulement choisies",
+      "la peur d'être changé par l'autre n'est pas dite",
+      "la douleur d'être jugé dans ce qu'on a de plus intime reste sans mots"
+    ],
+    "penseesTypiques": [
+      "Comment peut-il croire sincèrement à ça ?",
+      "Il y a des choses sur lesquelles on ne peut pas transiger.",
+      "Elle ne comprend pas ce qui est vraiment important.",
+      "Si je cède sur ce point, je cède sur tout.",
+      "On peut coexister mais on ne sera jamais vraiment proches.",
+      "Je ne cherche pas à le convaincre — c'est peine perdue.",
+      "Pourquoi est-ce que ça me dérange autant qu'il pense ça ?",
+      "Je l'aime mais une partie de moi le juge.",
+      "Est-ce qu'on peut vraiment se respecter si on n'est pas d'accord là-dessus ?"
+    ],
+    "comportementsTypiques": [
+      "évite les sujets qui pourraient rouvrir le conflit",
+      "se tait là où il aurait envie de rétorquer",
+      "cherche des alliés qui valident sa position",
+      "laisse échapper des remarques révélatrices sous stress",
+      "répond avec une fausse neutralité qui masque le jugement",
+      "s'éloigne progressivement de l'autre sans en expliquer la raison",
+      "tente de convaincre par des exemples concrets plutôt que par des arguments abstraits",
+      "capitule en apparence mais reste convaincu de son point de vue"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui représente la norme sociale dominante a souvent l'avantage dans le conflit.",
+      "Celui qui a le plus besoin de l'autre est en position de faiblesse relative.",
+      "Le langage lui-même peut être un terrain d'inégalité — certaines valeurs ont un vocabulaire plus légitime socialement.",
+      "Celui qui refuse de débattre garde un certain pouvoir — il prive l'autre de la validation d'une confrontation."
+    ],
+    "variantes": [
+      {
+        "relation": "Parents / Enfant adulte",
+        "description": "Les valeurs transmises n'ont pas été intégrées ou ont été remplacées. L'enfant a changé, les parents ne le savent pas encore. Le conflit porte sur la trahison de l'héritage."
+      },
+      {
+        "relation": "Couple avec vision du monde divergente",
+        "description": "Les valeurs coexistaient en surface tant que la vie n'exigeait pas de trancher. Une décision concrète — enfants, argent, politique — révèle l'incompatibilité."
+      },
+      {
+        "relation": "Amis de longue date",
+        "description": "Un événement fait apparaître une divergence invisible. La surprise augmente la blessure — on croyait se connaître. La question devient : est-ce qu'on peut encore se voir autrement ?"
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Irritation sourde", "description": "Le désaccord existe mais reste en dessous de la surface. Quelques petites tensions, vite étouffées." },
+      { "niveau": 2, "label": "Désaccord exprimé", "description": "Les positions sont dites. Chacun reste poli mais il est clair qu'on ne s'entend pas." },
+      { "niveau": 3, "label": "Confrontation de fond", "description": "La discussion devient sérieuse. Les positions se durcissent. On commence à remettre en cause la relation elle-même." },
+      { "niveau": 4, "label": "Incompatibilité assumée", "description": "L'un ou l'autre reconnaît que le désaccord est trop profond pour être ignoré. L'éloignement commence." },
+      { "niveau": 5, "label": "Rupture de relation", "description": "Le désaccord de valeurs est la raison explicite ou implicite de la séparation — amitié, couple ou famille." }
+    ],
+    "escaladeTypique": [
+      "irritation silencieuse devant les convictions de l'autre",
+      "première confrontation déclenchée par un sujet concret",
+      "tentative de convaincre l'autre qui se solde par un durcissement des positions",
+      "sentiment que la relation elle-même est en jeu",
+      "rupture ou accommodation résignée"
+    ],
+    "voiesDeResolution": [
+      "découverte d'une expérience commune qui nuance les convictions de chacun",
+      "l'un change réellement d'avis — sans capitulation, mais par compréhension",
+      "les deux apprennent à délimiter les domaines où le désaccord est inacceptable et ceux où il peut coexister",
+      "la relation est redéfinie sur ce qui est partagé, pas sur ce qui ne l'est pas",
+      "le désaccord est accepté comme permanent — la relation survit à condition de ne pas chercher l'accord"
+    ],
+    "blessuresUnderlyantes": [
+      "valeurs forgées dans une expérience douloureuse que l'autre ne comprend pas",
+      "peur d'être jugé ou rejeté pour ce qu'on croit vraiment",
+      "honte ancienne liée à l'appartenance à un groupe dont on veut se distancier",
+      "besoin de validation identitaire — être compris dans ses valeurs est être compris comme personne",
+      "expérience passée d'une trahison de valeurs par quelqu'un de proche"
+    ],
+    "contextesFavorables": [
+      "famille multigénérationnelle avec évolutions sociales entre générations",
+      "couple formé dans un contexte où les différences n'étaient pas visibles",
+      "personnage changé par une expérience forte que son entourage n'a pas partagée",
+      "communauté homogène confrontée à l'arrivée d'un point de vue extérieur"
+    ],
+    "personnagesSouventConcernes": [
+      "l'enfant adulte revenu transformé dans sa famille d'origine",
+      "le couple dont l'un a radicalement changé",
+      "les amis d'enfance aux trajectoires de vie divergentes",
+      "le converti ou le désenchanté confronté à ceux qu'il a quittés",
+      "deux personnages de milieux différents forcés de cohabiter"
+    ],
+    "erreursDEcriture": [
+      "donner raison à l'un sans ambiguïté — le désaccord de valeurs est puissant quand il n'y a pas de bonne réponse",
+      "faire du désaccord une simple incompréhension que le dialogue peut résoudre",
+      "oublier que les valeurs sont incarnées dans des actes concrets, pas dans des idées abstraites",
+      "utiliser le conflit de valeurs comme prétexte à un discours idéologique de l'auteur",
+      "résoudre trop vite — les vrais désaccords de fond ne s'effacent pas avec une conversation"
+    ],
+    "notesEditoriales": [
+      "Le désaccord de valeurs est plus fort quand les deux parties sont sympathiques — et ont toutes deux une bonne raison de croire ce qu'elles croient.",
+      "Ce conflit révèle l'identité des personnages plus que n'importe quelle action.",
+      "Attention à la tentation de l'auteur de trancher — le lecteur doit pouvoir comprendre les deux.",
+      "À distinguer du désaccord de faits (qui a raison sur ce qui s'est passé) et du conflit moral (ce qu'on doit faire)."
+    ]
+  },
+  {
+    "id": "ressentiment",
+    "label": "Ressentiment",
+    "alias": [
+      "rancœur",
+      "rancune tenace",
+      "amertume ancienne",
+      "colère froide retenue",
+      "griefs accumulés",
+      "blessure non digérée",
+      "hostilité silencieuse",
+      "haine douce",
+      "venin de l'oubli impossible",
+      "plaie refermée trop vite"
+    ],
+    "famille": "conflits interpersonnels",
+    "definitionCourte": "Hostilité sourde nourrie par une blessure passée que le personnage n'a jamais vraiment digérée — ni pardonnée, ni dite, ni déposée.",
+    "natureDuConflit": "Conflit asymétrique et différé. L'un porte une blessure que l'autre a souvent oubliée ou minimisée. Le ressentiment vit dans le silence et s'alimente de lui-même.",
+    "forcesEnPresence": [
+      "blessure ancienne jamais réparée",
+      "impossibilité ou refus du pardon",
+      "injustice ressentie mais non reconnue",
+      "orgueil qui empêche d'exprimer la douleur",
+      "peur de rouvrir une blessure en la nommant",
+      "habitude de l'amertume qui est devenue identitaire",
+      "absence de réparation symbolique"
+    ],
+    "declencheursFrequents": [
+      "revoir la personne qui a causé la blessure",
+      "situation qui rappelle le moment fondateur",
+      "succès de l'autre perçu comme une injustice supplémentaire",
+      "compliment fait à l'autre en présence du personnage",
+      "demande de normalisation de la relation sans reconnaissance préalable",
+      "souvenir involontaire ressurgi",
+      "question naïve d'un tiers sur la relation",
+      "geste maladroit de l'autre qui ravive tout"
+    ],
+    "signauxAvantCoureurs": [
+      "ton légèrement plus froid que la normale avec cette personne",
+      "micro-piques déguisées en plaisanteries",
+      "aide refusée ou donnée à contrecœur",
+      "éloges sur les autres mais silence sur cette personne",
+      "regard qui se détourne imperceptiblement",
+      "fatigue ou crispation physique quand cette personne est mentionnée",
+      "souvenir de la blessure convoqué dans d'autres contextes",
+      "méfiance systématique envers les bonnes intentions de l'autre"
+    ],
+    "silencesEtNonDits": [
+      "la blessure originelle n'a jamais été dite clairement",
+      "l'autre ne sait peut-être pas ce qu'il a fait ou quelle en a été l'ampleur",
+      "le personnage ne reconnaît pas que son ressentiment lui coûte autant",
+      "la question du pardon possible n'est jamais posée",
+      "la honte d'encore porter cette blessure n'est pas dite",
+      "le désir de réconciliation cohabite en silence avec la rancœur"
+    ],
+    "penseesTypiques": [
+      "Il ne s'en souvient même pas, j'en suis sûr.",
+      "Elle a eu ce qu'elle voulait et moi j'ai tout perdu.",
+      "Comment peut-on faire ça à quelqu'un et continuer à sourire ?",
+      "Je ne lui en veux plus — mais je ne l'oublie pas.",
+      "Il ne mérite pas mon pardon.",
+      "Un jour elle comprendra ce qu'elle m'a fait.",
+      "Ce n'est pas de la rancune, c'est de la mémoire.",
+      "Je ne dirai rien. Mais je n'oublierai pas.",
+      "Si je parle, ça ne changera rien — il ne comprendra pas."
+    ],
+    "comportementsTypiques": [
+      "maintient une politesse froide et distante",
+      "garde des informations ou une aide qu'il aurait normalement offerts",
+      "rappelle indirectement la blessure sans la nommer",
+      "refuse les tentatives de rapprochement sans les expliquer",
+      "saisit les occasions de voir l'autre échouer avec une satisfaction secrète",
+      "parle de l'autre à des tiers sur un ton subtilement dévalorisants",
+      "s'évite avec cette personne en organisant sa vie autour de cette absence",
+      "rouvre la blessure intérieurement à chaque interaction"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui porte le ressentiment a un pouvoir invisible — il peut révéler la blessure à tout moment.",
+      "Celui qui a causé la blessure a souvent un pouvoir réel (social, affectif) que le ressentiment compense symboliquement.",
+      "Tant que la blessure n'est pas nommée, l'autre ne peut pas réparer — ce qui entretient le ressentiment.",
+      "Pardonner peut être perçu comme une capitulation — le ressentiment est parfois la seule façon de garder de la dignité."
+    ],
+    "variantes": [
+      {
+        "relation": "Frère / Sœur",
+        "description": "L'injustice perçue est souvent ancienne — enfance, héritage, préférence parentale. Le ressentiment dure parce que la proximité le ravive régulièrement sans permettre de le nommer."
+      },
+      {
+        "relation": "Ancien ami / Personne qui l'a dépassé",
+        "description": "Le ressentiment se nourrit du contraste entre les trajectoires. La blessure est moins dans l'acte que dans la comparaison — l'autre a réussi là où le personnage a échoué."
+      },
+      {
+        "relation": "Subordonné / Figure d'autorité passée",
+        "description": "L'injustice n'a jamais pu être contestée publiquement. Le ressentiment s'est fossilisé dans l'impossibilité de la réponse. Il ressurgit quand le rapport de force change."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère amertume", "description": "Une pointe d'acidité dans les interactions. Le personnage fonctionne normalement mais ne peut s'empêcher de noter les défauts de l'autre." },
+      { "niveau": 2, "label": "Rancune active", "description": "Le ressentiment colore les interactions. Le personnage évite, pique, retire. L'autre commence à sentir quelque chose." },
+      { "niveau": 3, "label": "Hostilité sourde", "description": "Le ressentiment structure la relation. Chaque rencontre est une épreuve. Le personnage pense à la blessure régulièrement." },
+      { "niveau": 4, "label": "Rancœur identitaire", "description": "La blessure est devenue une partie de l'identité. Le personnage se définit en partie par ce qu'on lui a fait. Il ne veut pas guérir." },
+      { "niveau": 5, "label": "Haine froide", "description": "Le ressentiment s'est transformé en hostilité durable et organisée. Le personnage peut souhaiter activement du mal à l'autre." }
+    ],
+    "escaladeTypique": [
+      "blessure initiale minimisée ou ignorée par l'autre",
+      "ressentiment silencieux qui se fossilise faute de réparation",
+      "accumulation de griefs secondaires qui confirment la blessure originelle",
+      "moment de revoir l'autre qui rouvre tout",
+      "confrontation ou rupture définitive — ou pourrissement durable"
+    ],
+    "voiesDeResolution": [
+      "l'autre reconnaît la blessure sans minimiser — la réparation symbolique est souvent suffisante",
+      "le personnage découvre un contexte qui change son interprétation de l'acte originel",
+      "le personnage décide de pardonner non pour l'autre mais pour lui-même",
+      "la blessure est nommée à voix haute pour la première fois — le seul acte suffit parfois",
+      "la distance et le temps permettent au ressentiment de se dissoudre sans confrontation"
+    ],
+    "blessuresUnderlyantes": [
+      "blessure d'injustice non réparée et non reconnue",
+      "honte de ne pas avoir répondu à l'époque",
+      "sentiment d'avoir été rendu invisible ou sans valeur",
+      "impuissance face à quelqu'un qui avait plus de pouvoir",
+      "incapacité à exprimer la colère autrement que par le silence et la rancœur"
+    ],
+    "contextesFavorables": [
+      "réunions de famille où une ancienne blessure ressurgit",
+      "retrouvailles après des années entre anciens amis ou collègues",
+      "personnage confronté au succès de celui qui lui a fait du mal",
+      "situation où le rapport de force s'inverse enfin"
+    ],
+    "personnagesSouventConcernes": [
+      "l'enfant adulte qui n'a jamais pu s'expliquer avec un parent",
+      "le collègue qui a vu quelqu'un lui voler une opportunité",
+      "l'ami délaissé quand l'autre a mieux réussi",
+      "le personnage qui a toujours obéi sans jamais être reconnu",
+      "celui qui a pardonné trop vite et porte encore la blessure"
+    ],
+    "erreursDEcriture": [
+      "rendre le ressentiment uniquement négatif — il peut aussi protéger d'une vraie injustice",
+      "résoudre par une explication rationnelle — le ressentiment est émotionnel, pas intellectuel",
+      "oublier que celui qui a causé la blessure a souvent sa propre version des faits",
+      "faire du pardon une solution facile — le vrai pardon est un travail long",
+      "confondre ressentiment et colère — le ressentiment est froid, patient, silencieux"
+    ],
+    "notesEditoriales": [
+      "Le ressentiment est narrativement puissant parce qu'il est invisible de l'extérieur — il peut exploser à n'importe quel moment.",
+      "Différencier : ressentiment (passé non digéré) / jalousie (présent comparatif) / rancune (colère gelée).",
+      "Le personnage qui porte un ressentiment est rarement conscient de son ampleur — il se croit 'juste' dans sa méfiance.",
+      "La scène la plus forte autour du ressentiment n'est souvent pas la confrontation mais la révélation que l'autre ne se souvient de rien."
+    ]
+  }
+]

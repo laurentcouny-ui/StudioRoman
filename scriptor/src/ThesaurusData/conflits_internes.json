@@ -1,0 +1,1349 @@
+[
+  {
+    "id": "ambivalence",
+    "label": "Ambivalence",
+    "alias": [
+      "ambivalence",
+      "tiraillement",
+      "déchirement intérieur",
+      "dechirement interieur",
+      "entre-deux",
+      "indécision profonde",
+      "indecision profonde",
+      "conflit intérieur",
+      "conflit interieur",
+      "double sentiment"
+    ],
+    "famille": "conflits-internes",
+    "sousCategorie": "tiraillement-affectif",
+    "definitionCourte": "État dans lequel un personnage ressent simultanément deux sentiments opposés envers la même personne, situation ou choix — sans pouvoir trancher ni résoudre.",
+    "forcesEnPresence": [
+      "désir d'une chose et peur de cette même chose",
+      "attachement à deux valeurs incompatibles",
+      "raison et émotion qui tirent dans des directions contraires",
+      "loyauté envers deux personnes ou deux camps",
+      "besoin de sécurité contre besoin de changement",
+      "amour pour quelqu'un et conscience que cette relation est nuisible",
+      "envie d'agir contre la peur des conséquences"
+    ],
+    "declencheursFrequents": [
+      "relation avec quelqu'un qu'on aime et qu'on craint",
+      "opportunité qui exige de sacrifier quelque chose d'important",
+      "retour d'une personne ou d'une situation qu'on pensait avoir résolue",
+      "moment où les deux options semblent également acceptables et inacceptables",
+      "demande d'engagement définitif sur un sujet encore ouvert",
+      "confrontation avec quelqu'un qui attend une réponse claire",
+      "situation qui force une décision que le personnage repoussait"
+    ],
+    "signauxAvantCoureurs": [
+      "propos contradictoires sur le même sujet selon les moments",
+      "demande d'avis répétée sans jamais suivre les conseils",
+      "sourire qui se superpose à un regard vide",
+      "comportements d'approche-évitement dans la même journée",
+      "réponses vagues à des questions directes",
+      "changements d'humeur inexpliqués liés à un même sujet",
+      "retards ou oublis récurrents autour d'une décision précise",
+      "refus de parler d'un sujet tout en y revenant constamment"
+    ],
+    "silencesEtNonDits": [
+      "le fait qu'il veut les deux choses en même temps",
+      "la conscience que résoudre l'ambivalence exige de perdre quelque chose",
+      "la peur que le choix final révèle qui il est vraiment",
+      "la honte de ne pas savoir alors qu'on devrait savoir",
+      "l'espoir secret que la décision se prenne d'elle-même",
+      "ce que chaque option dit de lui qu'il ne veut pas entendre"
+    ],
+    "penseesTypiques": [
+      "Je veux ça — et en même temps je ne le veux pas.",
+      "Si je choisis, je perds quelque chose d'irremplaçable.",
+      "Pourquoi est-ce que je n'arrive pas à trancher ?",
+      "Dans un mois, ce sera peut-être plus clair.",
+      "Les deux ont tort. Les deux ont raison.",
+      "Je ferais n'importe quoi pour que quelqu'un décide à ma place.",
+      "Est-ce que j'ai vraiment envie de ça, ou juste peur de le perdre ?",
+      "Je ne me reconnais plus.",
+      "Si j'attendais encore un peu, peut-être que ça se résoudrait seul."
+    ],
+    "comportementsTypiques": [
+      "avance vers quelque chose puis recule sans raison apparente",
+      "demande des avis puis n'en tient pas compte",
+      "reporte les décisions importantes sans explication",
+      "se montre enthousiaste puis distant dans la même journée",
+      "fait le tour de la question encore et encore sans conclure",
+      "délègue à l'autre la décision puis la reprend",
+      "cherche des signes extérieurs pour valider ce qu'il ne sait pas décider seul",
+      "évite les conversations qui forcerait la clarté",
+      "oscille entre excès d'investissement et retrait brutal"
+    ],
+    "positionsDePouvoir": [
+      "le personnage est seul face à lui-même — les autres ne peuvent pas décider à sa place",
+      "les personnes concernées par son choix exercent une pression sans forcément en être conscientes",
+      "l'entourage peut finir par perdre patience avec l'indécision",
+      "celui qui attend une réponse détient un pouvoir de pression croissant"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Hésitation ordinaire", "description": "Le personnage pèse le pour et le contre sans vraie souffrance. L'indécision est temporaire et sans conséquence immédiate." },
+      { "niveau": 2, "label": "Tiraillement visible", "description": "L'ambivalence colore ses comportements — il avance et recule, dit oui puis hésite. L'entourage commence à le remarquer." },
+      { "niveau": 3, "label": "Paralysie partielle", "description": "Le personnage ne peut pas décider. Il remet à plus tard, trouve des prétextes, délègue sans le reconnaître." },
+      { "niveau": 4, "label": "Conflit intérieur actif", "description": "Les deux pôles se battent ouvertement en lui. Il souffre d'être tiraillé, se reproche son incapacité à trancher." },
+      { "niveau": 5, "label": "Effondrement décisionnel", "description": "L'ambivalence paralyse tout fonctionnement. Le personnage ne peut plus agir, ni parler clairement, ni maintenir ses liens." }
+    ],
+    "variantes": [
+      {
+        "profil": "Ambivalence amoureuse",
+        "description": "Aimer et vouloir fuir la même personne. Chaque avancée est suivie d'un recul instinctif. La relation progresse par à-coups, épuise les deux parties, et reste suspendue à une décision que le personnage ne prend pas."
+      },
+      {
+        "profil": "Ambivalence morale",
+        "description": "Savoir ce qui est juste et être incapable de le faire — ou vouloir faire quelque chose de condamnable en étant pleinement conscient que c'est condamnable. La lucidité aggrave la souffrance sans la résoudre."
+      },
+      {
+        "profil": "Ambivalence identitaire",
+        "description": "Le personnage ne sait plus qui il veut être. Il se retrouve à jouer des rôles contradictoires selon les contextes, sans pouvoir les réconcilier ni en choisir un seul."
+      }
+    ],
+    "escaladeTypique": [
+      "premier tiraillement ignoré ou rationalisé",
+      "retours répétés sur la même question sans avancer",
+      "comportements contradictoires qui brouillent les relations",
+      "pression extérieure qui exige une clarté impossible",
+      "crise ou décision forcée par les circonstances"
+    ],
+    "voiesDeResolution": [
+      "une circonstance extérieure qui rend l'un des deux pôles impossible",
+      "la prise de conscience que l'indécision est elle-même un choix",
+      "le personnage accepte que choisir implique de perdre quelque chose",
+      "une relation de confiance où il peut nommer les deux pôles sans honte",
+      "une limite atteinte — le corps, les autres, ou le temps qui force la main"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience passée où un choix définitif a entraîné une perte irréparable",
+      "éducation contradictoire — double injonction, amour conditionnel à des critères incompatibles",
+      "terreur de décevoir quelqu'un peu importe ce qu'il choisit",
+      "figure parentale elle-même incapable de s'engager",
+      "perte d'un lien important à la suite d'un choix antérieur"
+    ],
+    "contextesFavorables": [
+      "relation amoureuse à un moment charnière",
+      "décision professionnelle irréversible",
+      "conflit de loyauté entre deux proches",
+      "moment de transition identitaire — départ, deuil, rupture",
+      "situation où les deux options ont une valeur réelle et un coût réel"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage écartelé entre deux appartenances ou deux mondes",
+      "personnage dont l'identité est encore en construction",
+      "personnage ayant vécu une perte liée à un choix passé",
+      "personnage avec des loyautés multiples impossibles à satisfaire toutes",
+      "personnage naturellement empathique qui ressent trop bien les deux côtés"
+    ],
+    "erreursDEcriture": [
+      "Résoudre l'ambivalence trop vite — laisser le personnage dans cet état inconfortable plus longtemps qu'il ne le voudrait.",
+      "Confondre avec l'indécision simple : l'ambivalence implique que les deux options ont une vraie valeur, pas que l'une soit meilleure.",
+      "Ne pas montrer comment l'ambivalence affecte concrètement les relations autour du personnage.",
+      "Rendre le personnage agaçant sans lui donner de profondeur — l'ambivalence vient de quelque chose, pas du vide.",
+      "Oublier les moments où il agit malgré l'ambivalence — ce sont ces moments qui révèlent ce qu'il est vraiment."
+    ],
+    "notesEditoriales": [
+      "L'ambivalence est l'un des états les plus honnêtes qu'un personnage puisse traverser — et l'un des plus difficiles à écrire sans le rendre flou.",
+      "Sa force narrative est dans la tension qu'elle crée autour du personnage, pas seulement en lui.",
+      "Distinguer l'ambivalence genuine (deux vrais pôles) du personnage qui tergiverse par peur — ce sont deux dynamiques différentes.",
+      "Les moments où le personnage choisit malgré l'ambivalence sont souvent les plus forts de l'arc."
+    ]
+  },
+  {
+    "id": "culpabilite",
+    "label": "Culpabilité",
+    "alias": [
+      "culpabilité",
+      "culpabilite",
+      "remords",
+      "regret",
+      "mauvaise conscience",
+      "auto-accusation",
+      "sentiment de faute",
+      "honte de l'acte",
+      "poids de la faute"
+    ],
+    "famille": "conflits-internes",
+    "sousCategorie": "auto-accusation",
+    "definitionCourte": "Sentiment douloureux d'avoir fait quelque chose de mal ou d'avoir manqué à ses propres valeurs — orienté vers l'acte, pas vers soi-même.",
+    "forcesEnPresence": [
+      "l'image que le personnage a de lui-même contre ce qu'il a fait",
+      "les valeurs intériorisées contre l'action réelle",
+      "la pression de réparer contre l'impossibilité parfois de le faire",
+      "le désir d'absolution contre la conviction de ne pas la mériter",
+      "la loyauté envers la victime contre le besoin d'aller de l'avant",
+      "l'honnêteté contre la tentation de minimiser"
+    ],
+    "declencheursFrequents": [
+      "action ayant causé du tort à quelqu'un d'innocent",
+      "inaction au moment où il aurait fallu agir",
+      "trahison d'un engagement ou d'une promesse",
+      "survivre à ce qu'un autre n'a pas survécu",
+      "croiser la personne qu'on a blessée",
+      "entendre parler de la victime ou de ses conséquences",
+      "moment de bonheur qui semble injuste compte tenu de la faute",
+      "anniversaire de l'événement"
+    ],
+    "signauxAvantCoureurs": [
+      "évitement des sujets en lien avec l'acte",
+      "surcompensation — attentions excessives envers celui qu'on a blessé",
+      "humour qui tourne soudain quand on aborde certains sujets",
+      "discours moral dur envers les autres pour des fautes similaires",
+      "résistance inexpliquée à recevoir du bien — cadeau, compliment, bonheur",
+      "insomnie récurrente sans cause apparente",
+      "besoin de se confesser à mi-mots sans jamais aller jusqu'au bout"
+    ],
+    "silencesEtNonDits": [
+      "ce qu'il a vraiment fait et n'a dit à personne",
+      "le soulagement honteux s'il y en a un — survivre, s'en sortir, ne pas avoir été le plus touché",
+      "la conscience que la réparation est parfois impossible",
+      "la peur que pardonner soi-même soit une trahison de la victime",
+      "l'espoir inavoué que l'autre soit au courant sans qu'il ait à le dire",
+      "la question impossible : est-ce que ça compte si personne ne le sait ?"
+    ],
+    "penseesTypiques": [
+      "Je n'aurais pas dû.",
+      "J'aurais pu faire autrement.",
+      "Il ne méritait pas ça.",
+      "Je ne suis pas quelqu'un de bien.",
+      "Si j'avais juste agi à ce moment-là.",
+      "Comment est-ce qu'il va, maintenant ?",
+      "Je n'ai pas le droit d'être heureux après ça.",
+      "Personne ne sait et c'est peut-être pire.",
+      "Est-ce que ça me définit pour toujours ?"
+    ],
+    "comportementsTypiques": [
+      "cherche des façons de réparer, parfois de façon disproportionnée",
+      "sabote ses propres succès ou refuse les plaisirs",
+      "s'occupe excessivement des autres pour ne pas penser",
+      "avoue à demi-mot sans jamais aller jusqu'au bout",
+      "devient excessivement sévère envers lui-même dans d'autres domaines",
+      "évite les lieux, les personnes ou les sujets liés à la faute",
+      "se met en danger comme pour expier",
+      "cherche la punition dans les comportements des autres",
+      "parle de la faute à la troisième personne ou sous forme hypothétique"
+    ],
+    "positionsDePouvoir": [
+      "le personnage se soumet à sa propre condamnation intérieure",
+      "la victime — présente ou absente — exerce un pouvoir symbolique",
+      "l'entourage peut aggraver ou alléger la culpabilité sans le savoir",
+      "le personnage a le pouvoir de réparer ou de se murer — et cette liberté pèse"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Regret léger", "description": "Le personnage sait qu'il aurait pu mieux faire. Il y pense brièvement, l'écarte, continue. Ça laisse une légère trace sans peser." },
+      { "niveau": 2, "label": "Remords discret", "description": "La culpabilité revient régulièrement, colore ses décisions, l'amène à compenser dans des domaines non directement liés." },
+      { "niveau": 3, "label": "Charge persistante", "description": "La culpabilité pèse continuellement. Le personnage cherche des façons de réparer, parfois de façon disproportionnée." },
+      { "niveau": 4, "label": "Auto-punition active", "description": "Le personnage sabote ses propres succès, refuse le confort, se met en danger — comme pour payer une dette qu'il ne sait pas chiffrer." },
+      { "niveau": 5, "label": "Effondrement moral", "description": "La culpabilité écrase tout. Le personnage ne se croit plus digne d'aucun bien, d'aucune relation, d'aucun avenir." }
+    ],
+    "variantes": [
+      {
+        "profil": "Culpabilité méritée",
+        "description": "Le personnage a réellement fait du mal. La culpabilité est proportionnée à l'acte. La question narrative est : va-t-il réparer, fuir, ou s'effondrer ? Et la réparation est-elle même possible ?"
+      },
+      {
+        "profil": "Culpabilité déplacée",
+        "description": "Le personnage se sent coupable de quelque chose qui n'est pas de sa faute. La culpabilité lui sert à garder un semblant de contrôle — si c'est sa faute, il pouvait prévenir, il n'est pas impuissant."
+      },
+      {
+        "profil": "Culpabilité du survivant",
+        "description": "Le personnage s'en est sorti quand d'autres non. Il n'a rien fait de mal au sens strict — mais vivre lui semble une transgression. Chaque bonheur est une trahison de ceux qui ne sont plus là."
+      }
+    ],
+    "escaladeTypique": [
+      "acte ou omission initiale",
+      "rationalisation ou minimisation immédiate",
+      "retour de la culpabilité malgré la rationalisation",
+      "comportements de compensation ou d'évitement",
+      "confrontation — avec la victime, avec soi-même, ou par les circonstances"
+    ],
+    "voiesDeResolution": [
+      "aveu à la personne blessée, sans garantie de pardon",
+      "action concrète de réparation qui ne demande pas l'absolution",
+      "acceptation que la faute fait partie de soi sans la définir entièrement",
+      "rencontre avec quelqu'un qui a traversé la même chose et survécu à sa culpabilité",
+      "compréhension que se punir n'efface rien et ne répare rien"
+    ],
+    "blessuresUnderlyantes": [
+      "éducation qui liait la valeur de la personne à ses actes",
+      "responsabilité excessive imposée trop tôt dans l'enfance",
+      "faute passée jamais vraiment expiée ni pardonnée",
+      "figure parentale dont l'amour était retiré en cas d'erreur",
+      "croyance profonde que les bonnes personnes ne font pas de mal"
+    ],
+    "contextesFavorables": [
+      "situation où le personnage avait réellement le pouvoir d'agir autrement",
+      "faute avec une victime identifiable et visible",
+      "contexte de guerre, de crise ou de survie qui a forcé des choix impossibles",
+      "relation où la confiance était totale avant la faute",
+      "acte commis par peur, par lâcheté ou par intérêt personnel"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage au code moral rigide confronté à un écart",
+      "personnage qui a survécu à une catastrophe collective",
+      "personnage en position d'autorité qui a failli",
+      "personnage dont l'identité est liée à la notion d'être une 'bonne personne'",
+      "personnage portant un secret depuis longtemps"
+    ],
+    "erreursDEcriture": [
+      "Confondre honte et culpabilité : la culpabilité porte sur l'acte ('j'ai fait quelque chose de mal'), la honte sur la personne ('je suis mauvais').",
+      "Résoudre la culpabilité par un pardon trop facile — les personnages portent souvent des culpabilités que personne ne peut absoudre.",
+      "Oublier que la culpabilité peut coexister avec la colère — contre soi, contre la situation, contre la victime.",
+      "Rendre la culpabilité paralysante sans montrer les moments où le personnage continue malgré tout.",
+      "Ne pas distinguer la culpabilité vraie de la culpabilité instrumentalisée par quelqu'un d'autre."
+    ],
+    "notesEditoriales": [
+      "La culpabilité la plus intéressante narrativement est celle où le personnage ne peut pas entièrement avoir tort — ni entièrement avoir raison.",
+      "Elle gagne en force quand elle se manifeste dans des comportements concrets plutôt que dans des monologues intérieurs.",
+      "Distinguer la culpabilité qui pousse à agir (réparer, avouer) de celle qui paralyse (se punir, fuir) — les deux sont valides mais donnent des arcs très différents.",
+      "Ne pas confondre la résolution de la culpabilité avec la disparition de la faute — l'acte reste, même si le personnage apprend à vivre avec."
+    ]
+  },
+  {
+    "id": "doute-de-soi",
+    "label": "Doute de soi",
+    "alias": [
+      "doute de soi",
+      "manque de confiance",
+      "insécurité",
+      "syndrome de l'imposteur",
+      "syndrome imposteur",
+      "autodépréciation",
+      "autodepréciation",
+      "peur de ne pas être à la hauteur",
+      "sentiment d'imposture",
+      "sous-estimation de soi"
+    ],
+    "famille": "conflits-internes",
+    "sousCategorie": "remise-en-question-identitaire",
+    "definitionCourte": "Remise en question de sa propre valeur, compétence ou légitimité — indépendamment des preuves objectives. Le personnage ne se croit pas à la hauteur.",
+    "forcesEnPresence": [
+      "image de soi fragilisée contre les attentes perçues des autres",
+      "désir de réussir contre la conviction que l'échec est probable",
+      "besoin de reconnaissance contre incapacité à y croire quand elle vient",
+      "performance réelle contre perception interne de l'insuffisance",
+      "regard admiratif des autres contre voix intérieure critique",
+      "ambition contre terreur d'être 'découvert'"
+    ],
+    "declencheursFrequents": [
+      "critique d'une figure d'autorité ou d'un pair admiré",
+      "comparaison défavorable — réelle ou imaginée",
+      "situation nouvelle qui sort le personnage de sa zone de maîtrise",
+      "succès inattendu qui renforce la peur d'être 'découvert'",
+      "regard d'approbation qui semble injustifié",
+      "question directe sur ses compétences ou ses intentions",
+      "entourage qui exprime une confiance que le personnage ne partage pas",
+      "erreur commise devant un public important"
+    ],
+    "signauxAvantCoureurs": [
+      "questions de confirmation répétées avant d'agir",
+      "minimisation systématique de ses propres réussites",
+      "attente de la validation avant de commencer quelque chose",
+      "préparation excessive pour des situations ordinaires",
+      "excuses ou précautions avant de donner son avis",
+      "formulations qui dépossèdent — 'j'ai eu de la chance', 'c'est vous qui m'avez aidé'",
+      "hésitation prolongée devant des décisions qui ne la méritent pas"
+    ],
+    "silencesEtNonDits": [
+      "la peur de réussir — parce que réussir élève les attentes",
+      "l'incapacité à intégrer les compliments comme vrais",
+      "la conviction que les autres finissent toujours par le voir tel qu'il est vraiment",
+      "le comparatif permanent avec quelqu'un qu'il idéalise",
+      "la honte d'avoir besoin d'autant de validation",
+      "ce qu'il dirait de lui-même s'il parlait sans filtre"
+    ],
+    "penseesTypiques": [
+      "Ils vont finir par réaliser que je ne suis pas à la hauteur.",
+      "J'ai eu de la chance, c'est tout.",
+      "Les autres savent des choses que je ne saurai jamais.",
+      "Si je fais une seule erreur, tout s'effondre.",
+      "Pourquoi est-ce qu'ils me font confiance ? Ils ont tort.",
+      "Je ne mérite pas d'être ici.",
+      "La prochaine fois, ça ne marchera pas.",
+      "Qu'est-ce qu'ils penseraient s'ils savaient vraiment ?",
+      "Je dois travailler deux fois plus pour cacher ce que je ne sais pas."
+    ],
+    "comportementsTypiques": [
+      "demande de validation avant d'agir sur des décisions mineures",
+      "sous-estime systématiquement son propre travail",
+      "prépare des excuses avant même que le problème existe",
+      "évite de se positionner clairement pour ne pas pouvoir avoir tort",
+      "accepte les compliments en les retournant vers les autres",
+      "procrastine sur des projets importants pour retarder le jugement",
+      "sur-prépare au point que la préparation remplace l'action",
+      "compare ses coulisses aux vitrines des autres",
+      "abandonne avant la ligne d'arrivée pour prévenir l'échec"
+    ],
+    "positionsDePouvoir": [
+      "le personnage se place lui-même en position d'infériorité même quand ce n'est pas justifié",
+      "les figures d'autorité ou pairs admirés exercent un pouvoir disproportionné sur son estime",
+      "ceux qui croient en lui ont un levier narratif fort — mais la confiance qu'ils offrent est souvent refusée",
+      "le personnage donne involontairement du pouvoir à ceux qui le critiquent"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Questionnement ponctuel", "description": "Le personnage doute dans un domaine précis, à un moment donné. L'incertitude est ciblée, gérée, et se dissipe." },
+      { "niveau": 2, "label": "Insécurité régulière", "description": "Le doute revient sur des décisions importantes. Le personnage cherche beaucoup de validation extérieure, souvent sans pouvoir l'intégrer." },
+      { "niveau": 3, "label": "Syndrome de l'imposteur", "description": "Le personnage est convaincu que ses succès sont de la chance et que ses échecs révèlent sa vraie valeur. L'asymétrie est totale." },
+      { "niveau": 4, "label": "Sabotage actif", "description": "Pour prévenir l'échec qu'il juge inévitable, le personnage se sabote — reporte, abandonne, ne tente pas, provoque ce qu'il redoute." },
+      { "niveau": 5, "label": "Paralysie identitaire", "description": "Le personnage ne sait plus qui il est ni ce qu'il vaut. Toute décision semble exposer une insuffisance fondamentale." }
+    ],
+    "variantes": [
+      {
+        "profil": "Doute du débutant",
+        "description": "Le manque d'expérience est réel. La question narrative est : va-t-il avoir la foi en lui avant d'avoir les preuves ? Ou va-t-il attendre des preuves qui ne suffiront jamais ?"
+      },
+      {
+        "profil": "Doute de l'expert",
+        "description": "La compétence est réelle mais non intériorisée. Plus le personnage en sait, plus il voit ce qu'il ignore. Les autres le voient comme une référence, il se voit comme un imposteur de plus en plus sophistiqué."
+      },
+      {
+        "profil": "Doute construit",
+        "description": "Un environnement passé — parent, institution, partenaire — a systématiquement miné la confiance. Le doute est une cicatrice, pas un trait naturel. Le personnage n'a pas toujours été comme ça."
+      }
+    ],
+    "escaladeTypique": [
+      "performance ou opportunité qui met en jeu la valeur du personnage",
+      "voix intérieure critique qui s'amplifie",
+      "comportements de compensation — surpréparation, évitement, autosabotage",
+      "confrontation avec la réalité — succès ou échec",
+      "réinterprétation de ce résultat à travers le filtre du doute"
+    ],
+    "voiesDeResolution": [
+      "action malgré le doute — pas besoin de le faire disparaître pour avancer",
+      "relation avec quelqu'un qui nomme le schéma sans jugement",
+      "accumulation d'expériences où la compétence est vérifiable",
+      "prise de conscience que le doute et la valeur peuvent coexister",
+      "confrontation avec la source du doute — la voix intériorisée"
+    ],
+    "blessuresUnderlyantes": [
+      "critiques répétées pendant l'enfance ou l'adolescence",
+      "figure d'autorité dont l'amour était conditionnel aux performances",
+      "échec fondateur jamais vraiment digéré",
+      "milieu qui valorisait l'humilité au point de punir la confiance",
+      "comparaison systématique avec un frère, une sœur ou un pair présenté comme modèle"
+    ],
+    "contextesFavorables": [
+      "domaine où le personnage aspire à être reconnu",
+      "regard d'une figure d'autorité ou d'un pair admiré",
+      "moment d'exposition — présentation, audition, entretien",
+      "succès récent qui élève les attentes",
+      "entourage qui croit en lui plus qu'il ne croit en lui-même"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage en position d'autorité non désirée ou non choisie",
+      "personnage qui a réussi plus vite que prévu",
+      "personnage dont l'entourage d'origine ne partage pas ses aspirations",
+      "personnage premier de sa famille à accéder à un certain niveau",
+      "personnage ayant connu un succès suivi d'un échec marquant"
+    ],
+    "erreursDEcriture": [
+      "Résoudre le doute par un grand discours de soutien — la confiance en soi se reconstruit par l'expérience et l'action, pas par les mots.",
+      "Confondre doute de soi et humilité — l'humilité est choisie et proportionnée, le doute de soi est subi et souvent excessif.",
+      "Rendre le personnage agaçant à force de chercher validation — équilibrer avec des moments où il agit malgré le doute.",
+      "Ne pas montrer ce que le doute coûte concrètement — des occasions ratées, des relations abîmées, une vie rétrécie.",
+      "Confondre avec la modestie : le personnage qui doute sincèrement souffre, celui qui se montre modeste peut parfois se protéger."
+    ],
+    "notesEditoriales": [
+      "Le doute de soi est l'un des états intérieurs les plus universels — ce qui le rend difficile à écrire sans tomber dans le banal.",
+      "Il gagne en précision quand il est lié à un domaine ou une relation spécifique plutôt qu'à une vague insécurité générale.",
+      "Le personnage qui agit malgré le doute est souvent plus intéressant que celui qui en est paralysé.",
+      "Distinguer le doute productif (qui pousse à se dépasser) du doute toxique (qui justifie l'abandon)."
+    ]
+  },
+  {
+    "id": "choix-impossible",
+    "label": "Choix impossible",
+    "alias": [
+      "choix impossible",
+      "dilemme",
+      "dilemme cornélien",
+      "dilemme moral",
+      "impasse",
+      "décision impossible",
+      "decision impossible",
+      "choix cornélien",
+      "choix entre deux maux",
+      "situation sans bonne réponse"
+    ],
+    "famille": "conflits-internes",
+    "sousCategorie": "dilemme-existentiel",
+    "definitionCourte": "Situation où le personnage doit choisir entre deux options dont chacune implique une perte inacceptable — il n'existe pas de bonne réponse.",
+    "forcesEnPresence": [
+      "deux loyautés, valeurs ou désirs également légitimes",
+      "pression du temps ou des circonstances qui interdit l'attente",
+      "conscience que le non-choix est aussi un choix",
+      "regard des personnes concernées qui attendent une réponse",
+      "besoin d'intégrité contre impossibilité de la maintenir entière",
+      "amour ou loyauté qui tire dans deux directions opposées"
+    ],
+    "declencheursFrequents": [
+      "devoir choisir entre deux personnes qu'on aime",
+      "choisir entre sa survie et ses valeurs",
+      "choisir entre la vérité et la protection de quelqu'un",
+      "devoir agir avec une information partielle qui ne se complétera jamais",
+      "ultimatum posé par l'une des parties",
+      "crise qui force une décision immédiate sans temps de réflexion",
+      "révélation qui rend les deux options incompatibles définitivement"
+    ],
+    "signauxAvantCoureurs": [
+      "atermoiements inhabituels chez quelqu'un de décidé",
+      "conversations qui évitent soigneusement le sujet central",
+      "demandes de signes ou d'avis extérieurs sans les suivre",
+      "colère ou irritabilité dirigée vers ceux qui l'y ont placé",
+      "repli soudain ou silence prolongé",
+      "questions rhétoriques qui ne cherchent pas vraiment de réponse",
+      "tentative de trouver une troisième voie inexistante"
+    ],
+    "silencesEtNonDits": [
+      "le fait qu'il sait déjà ce qu'il va choisir mais refuse de se l'avouer",
+      "ce que chaque option dit de lui — et ce qu'il ne veut pas que ça dise",
+      "la peur que l'autre option ait été la bonne",
+      "l'impossibilité de jamais savoir si c'était le bon choix",
+      "la colère contre ceux qui l'ont mis dans cette position",
+      "le deuil anticipé de ce qui sera perdu quelle que soit la décision"
+    ],
+    "penseesTypiques": [
+      "Il n'y a pas de bonne réponse.",
+      "Quelle que soit ma décision, je vais blesser quelqu'un.",
+      "Pourquoi est-ce que c'est à moi de choisir ?",
+      "Je veux les deux. C'est ça le problème.",
+      "Si j'attends encore un peu, peut-être que la situation se résoudra seule.",
+      "Je ne me pardonnerai pas si je choisis mal.",
+      "Comment vais-je vivre avec ça après ?",
+      "Il doit y avoir une autre option que je n'ai pas vue.",
+      "Celui que je ne choisis pas ne me le pardonnera jamais."
+    ],
+    "comportementsTypiques": [
+      "cherche une troisième voie qui n'existe pas",
+      "consulte des avis mais n'en tient aucun compte",
+      "repousse la décision par des prétextes",
+      "fait semblant de ne pas avoir à choisir",
+      "teste discrètement les réactions de chacun avant de décider",
+      "prend une décision puis revient dessus",
+      "cherche une confirmation que son choix est le bon avant même de l'avoir fait",
+      "se met en colère contre ceux qui attendent sa réponse"
+    ],
+    "positionsDePouvoir": [
+      "le personnage est seul à décider — et seul à porter le poids",
+      "ceux entre lesquels il choisit peuvent ne pas savoir qu'ils sont en compétition",
+      "les circonstances extérieures ont plus de pouvoir que lui sur l'issue",
+      "après le choix, le pouvoir se redistribue entre celui qu'il a choisi et celui qu'il n'a pas choisi"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Dilemme ordinaire", "description": "Les deux options ont des inconvénients, mais l'une est clairement préférable. Le conflit est court et résolu rapidement." },
+      { "niveau": 2, "label": "Choix difficile", "description": "Les deux options ont une vraie valeur. Le personnage hésite, cherche une troisième voie, retarde sans pouvoir trancher." },
+      { "niveau": 3, "label": "Dilemme réel", "description": "Quel que soit le choix, quelque chose d'important est perdu. Le personnage le sait et ne peut pas l'éviter." },
+      { "niveau": 4, "label": "Choix imposé dans l'urgence", "description": "Le personnage est forcé de décider immédiatement, sans pouvoir peser les conséquences. Le choix précède la compréhension." },
+      { "niveau": 5, "label": "Choix qui brise", "description": "Ce que le personnage choisit le change définitivement. Il ne peut pas revenir à ce qu'il était avant d'avoir choisi." }
+    ],
+    "variantes": [
+      {
+        "profil": "Choix entre deux êtres aimés",
+        "description": "Sauver l'un ou l'autre. Rester avec l'un ou suivre l'autre. Quelle que soit la décision, quelqu'un souffre — et le personnage en sera tenu pour responsable, par les autres et par lui-même."
+      },
+      {
+        "profil": "Choix entre idéal et survie",
+        "description": "Tenir ses valeurs ou s'adapter pour survivre. Chaque option a un coût identitaire. Choisir la survie peut vider le personnage de ce qui lui donnait un sens."
+      },
+      {
+        "profil": "Choix sans retour possible",
+        "description": "Une fois décidé, il n'y a plus de marche arrière. Le personnage doit vivre avec — et avec ce que ça dit de lui. L'irréversibilité est le vrai enjeu."
+      }
+    ],
+    "escaladeTypique": [
+      "apparition des deux options incompatibles",
+      "tentative de trouver une troisième voie",
+      "pression croissante qui rend l'attente insupportable",
+      "décision forcée par les circonstances ou prise dans l'urgence",
+      "conséquences du choix qui révèlent ce qui a été perdu"
+    ],
+    "voiesDeResolution": [
+      "acceptation que choisir est la seule issue, même imparfaite",
+      "compréhension que le non-choix a un coût plus grand que le choix",
+      "clarification de ce qui compte vraiment — les valeurs fondamentales",
+      "prise en charge des conséquences sans se murer dans le regret",
+      "réconciliation avec la perte inévitable de ce qui n'a pas été choisi"
+    ],
+    "blessuresUnderlyantes": [
+      "choix passé dont les conséquences ont été catastrophiques",
+      "enfance où ses choix n'avaient aucune importance — ou au contraire trop d'importance",
+      "conviction que choisir pour soi est un acte égoïste",
+      "expérience de ne pas avoir pu choisir et d'en avoir souffert",
+      "loyauté apprise très tôt envers des personnes incompatibles entre elles"
+    ],
+    "contextesFavorables": [
+      "situation de crise ou d'urgence qui supprime le temps de réflexion",
+      "personnage au carrefour de deux mondes, deux familles ou deux loyautés",
+      "contexte de guerre ou de survie où les choix ont des conséquences immédiates",
+      "relation amoureuse triangulaire",
+      "conflit entre obligation familiale et aspiration personnelle"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage en position de leader ou de protecteur",
+      "personnage partagé entre deux appartenances",
+      "personnage dont l'intégrité morale est un trait central",
+      "personnage ayant déjà vécu un choix catastrophique dans le passé",
+      "personnage aimé de plusieurs personnes dont les intérêts s'excluent"
+    ],
+    "erreursDEcriture": [
+      "Offrir une troisième voie qui résout tout — l'impossibilité doit être réelle pour que le dilemme ait du poids.",
+      "Laisser le personnage choisir sans conséquence réelle — la perte doit être montrée, pas évitée.",
+      "Faire du choix impossible un moment purement logique — c'est d'abord une crise émotionnelle et identitaire.",
+      "Résoudre trop vite après le choix — les répercussions doivent durer et transformer le personnage.",
+      "Ne pas montrer ce que le personnage perd concrètement, pas seulement ce qu'il gagne."
+    ],
+    "notesEditoriales": [
+      "Le dilemme le plus fort est celui où le lecteur lui-même ne sait pas ce qu'il aurait choisi.",
+      "Sa puissance narrative dépend de l'égalité réelle des deux options — si l'une est clairement meilleure, ce n'est plus un dilemme.",
+      "L'après du choix est souvent plus riche narrativement que le choix lui-même.",
+      "Distinguer le dilemme éthique (valeur contre valeur) du simple choix difficile (option moins bonne contre option meilleure)."
+    ]
+  },
+  {
+    "id": "renoncement",
+    "label": "Renoncement",
+    "alias": [
+      "renoncement",
+      "abandon",
+      "sacrifice",
+      "lâcher prise",
+      "lacher prise",
+      "deuil d'un rêve",
+      "deuil d'un espoir",
+      "acceptation d'une perte",
+      "résignation choisie"
+    ],
+    "famille": "conflits-internes",
+    "sousCategorie": "perte-et-acceptation",
+    "definitionCourte": "Acte par lequel un personnage abandonne quelque chose de fondamental — un rêve, une personne, une version de lui-même — non par lâcheté mais parce qu'il n'y a plus d'autre chemin.",
+    "forcesEnPresence": [
+      "attachement profond à ce qu'on abandonne",
+      "reconnaissance que continuer coûte plus que renoncer",
+      "deuil anticipé de ce qui ne sera pas",
+      "soulagement possible de ne plus avoir à se battre",
+      "honte de laisser tomber contre lucidité sur l'impossibilité",
+      "loyauté envers ce à quoi on renonce contre loyauté envers soi-même"
+    ],
+    "declencheursFrequents": [
+      "moment où la réalité rend l'espoir objectivement impossible",
+      "bien-être d'un autre qui exige qu'on s'efface",
+      "épuisement après une lutte trop longue",
+      "révélation qui change la valeur de ce à quoi on s'accrochait",
+      "prise de conscience que tenir coûte plus qu'on ne gagne",
+      "demande explicite de laisser partir",
+      "limite du corps ou de l'esprit atteinte"
+    ],
+    "signauxAvantCoureurs": [
+      "regard prolongé sur quelque chose ou quelqu'un — comme pour mémoriser",
+      "gestes de mise à distance progressive",
+      "conversations qui tournent autour sans nommer la décision",
+      "calme inhabituel après une période d'agitation",
+      "rangement ou mise en ordre inexpliquée",
+      "questions sur l'avenir formulées différemment — plus ouvertes, moins attachées",
+      "don ou partage d'objets liés à ce à quoi on renonce"
+    ],
+    "silencesEtNonDits": [
+      "la question qu'il ne posera jamais : et si j'avais tenu plus longtemps ?",
+      "le soulagement mêlé de honte de ne plus avoir à se battre",
+      "ce qu'il emporte avec lui de ce qu'il abandonne",
+      "la conviction que personne ne comprendra vraiment ce qu'il a perdu",
+      "l'amour ou l'attachement qu'il ressent encore pour ce à quoi il renonce",
+      "l'espoir résiduel qu'il essaie d'éteindre"
+    ],
+    "penseesTypiques": [
+      "Je ne peux pas continuer à me battre contre quelque chose d'impossible.",
+      "Ce n'est pas abandonner. C'est accepter.",
+      "Si je reste, je détruis les deux.",
+      "Il mérite mieux que ce que je peux lui donner.",
+      "Je ne serai jamais ce que j'espérais être.",
+      "C'est la chose la plus difficile que j'aie jamais faite — et personne ne le verra.",
+      "Et si j'avais tenu encore un peu ?",
+      "Ça ne veut pas dire que ça n'avait pas de valeur.",
+      "Je dois arrêter de croire que ça peut changer."
+    ],
+    "comportementsTypiques": [
+      "prend de la distance progressivement plutôt que brutalement",
+      "met en ordre ce qui peut l'être avant de partir",
+      "parle de la situation au passé alors qu'elle est encore présente",
+      "cherche à rendre le départ aussi propre que possible pour l'autre",
+      "évite les scènes qui rendraient le renoncement plus difficile",
+      "recommence à s'investir dans d'autres domaines abandonnés",
+      "parle moins de ses projets liés à ce à quoi il renonce",
+      "devient plus calme — calme de quelqu'un qui a décidé, pas de quelqu'un qui va bien"
+    ],
+    "positionsDePouvoir": [
+      "le personnage qui renonce exerce paradoxalement une forme de pouvoir — il choisit de partir, même si c'est contraint",
+      "celui à qui on renonce peut ignorer ce que ça coûte",
+      "l'entourage peut soutenir ou juger — rarement comprendre pleinement",
+      "le renoncement peut donner à l'autre une liberté qu'il n'avait pas demandée"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Abandon pragmatique", "description": "Le personnage laisse tomber quelque chose sans grande douleur — ce n'était pas si important, ou le moment n'est simplement pas le bon." },
+      { "niveau": 2, "label": "Renoncement raisonné", "description": "La perte est réelle mais le personnage la comprend. Il sait pourquoi et ça l'aide, sans effacer la douleur." },
+      { "niveau": 3, "label": "Deuil actif", "description": "Le renoncement est douloureux mais accepté. Le personnage pleure ce qu'il abandonne tout en sachant qu'il doit avancer." },
+      { "niveau": 4, "label": "Sacrifice consenti", "description": "Abandonner quelque chose de précieux pour quelque chose de plus important. Le coût est immense et visible." },
+      { "niveau": 5, "label": "Renoncement à soi", "description": "Le personnage abandonne une part de son identité. Ce qu'il laisse, c'est ce qu'il croyait être — une vocation, un lien, une version de lui-même." }
+    ],
+    "variantes": [
+      {
+        "profil": "Renoncement par amour",
+        "description": "Laisser partir quelqu'un pour son bien. Le personnage souffre d'autant plus qu'il a raison de renoncer. La justesse de la décision n'atténue pas la douleur — parfois elle l'aggrave."
+      },
+      {
+        "profil": "Renoncement à un rêve",
+        "description": "Admettre que ce qui faisait sens ne peut pas se réaliser. La question devient : qu'est-ce qui reste ? Qui est-on sans ce rêve ?"
+      },
+      {
+        "profil": "Renoncement imposé",
+        "description": "Les circonstances ont décidé à sa place. Il ne renonce pas vraiment — il est forcé à constater qu'il a déjà perdu. La différence entre subir et choisir."
+      }
+    ],
+    "escaladeTypique": [
+      "prise de conscience progressive que tenir est impossible ou destructeur",
+      "résistance et dernières tentatives",
+      "moment de rupture — une limite atteinte, une vérité nommée",
+      "décision prise dans le silence",
+      "passage à l'acte du renoncement et premiers effets sur les relations"
+    ],
+    "voiesDeResolution": [
+      "acceptation que ce qu'on perd avait vraiment de la valeur — sans en nier le coût",
+      "découverte de ce qui reste après le renoncement",
+      "reconstruction d'une identité qui n'est pas définie par ce à quoi on a renoncé",
+      "rencontre de quelqu'un qui a traversé la même chose et survécu",
+      "action nouvelle qui n'efface pas la perte mais lui donne un sens"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience d'abandon subi dans l'enfance — renoncer réactive la peur d'être abandonné à son tour",
+      "identité entièrement construite autour de ce à quoi on renonce",
+      "conviction que tenir à tout prix est une vertu",
+      "peur profonde que renoncer signifie avoir gâché quelque chose d'irremplaçable",
+      "modèle parental qui n'a jamais abandonné — même quand il l'aurait dû"
+    ],
+    "contextesFavorables": [
+      "fin d'une relation longue et investie",
+      "abandon d'une vocation ou d'une carrière construite",
+      "décision de partir d'un lieu, d'une famille ou d'une communauté",
+      "fin d'un combat mené trop longtemps",
+      "moment où tenir blesserait quelqu'un qu'on aime plus que soi"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage dont toute l'identité était liée à ce à quoi il renonce",
+      "personnage altruiste qui finit par choisir l'autre plutôt que soi",
+      "personnage épuisé après une longue lutte",
+      "personnage lucide sur l'impossibilité mais habituellement tenace",
+      "personnage arrivé à un tournant qui exige une perte pour continuer"
+    ],
+    "erreursDEcriture": [
+      "Confondre renoncement et abandon lâche — l'un est une décision lucide et douloureuse, l'autre une fuite.",
+      "Ne pas montrer ce que le personnage garde après avoir renoncé — le renoncement transforme, il ne vide pas.",
+      "Résoudre le renoncement trop vite par une nouvelle aspiration — laisser le deuil exister avant la renaissance.",
+      "Rendre le renoncement héroïque d'emblée — sa force vient de sa douleur, pas de sa noblesse.",
+      "Oublier l'ambivalence résiduelle — le personnage peut avoir renoncé et continuer à désirer ce à quoi il a renoncé."
+    ],
+    "notesEditoriales": [
+      "Le renoncement est l'un des arcs les plus difficiles à écrire parce qu'il n'est pas spectaculaire — il est silencieux.",
+      "Sa force vient de l'attachement préalable : plus le lecteur a cru en ce à quoi le personnage renonce, plus le renoncement coûte.",
+      "Distinguer le renoncement qui libère du renoncement qui brise — les deux sont valides et donnent des arcs très différents.",
+      "Le renoncement le plus fort n'est pas toujours le plus grand — renoncer à une habitude, à une certitude, peut changer un personnage autant que renoncer à une personne."
+    ]
+  },
+  {
+    "id": "peur-de-reussir",
+    "label": "Peur de réussir",
+    "alias": [
+      "peur de réussir",
+      "peur de reussir",
+      "autosabotage",
+      "auto-sabotage",
+      "sabotage de soi",
+      "peur du succès",
+      "peur du succes",
+      "peur de dépasser",
+      "peur de depasser",
+      "blocage face au succès"
+    ],
+    "famille": "conflits-internes",
+    "sousCategorie": "sabotage-identitaire",
+    "definitionCourte": "Le personnage sabote inconsciemment ses propres chances de succès — parce que réussir exigerait de devenir quelqu'un qu'il ne sait pas être, ou de perdre quelque chose à quoi il tient sans le nommer.",
+    "forcesEnPresence": [
+      "désir de réussir contre peur de ce que la réussite implique",
+      "image de soi liée à l'échec ou à la lutte",
+      "entourage dont l'affection semble conditionnée à rester 'à sa place'",
+      "loyauté envers ceux qui n'ont pas réussi",
+      "peur d'être vu, exposé, jugé à la hauteur de la réussite",
+      "identité construite autour de la difficulté et de l'obstacle"
+    ],
+    "declencheursFrequents": [
+      "opportunité réelle et imminente de réussir",
+      "compliment ou reconnaissance qui rend le succès visible",
+      "comparaison avec quelqu'un qui a réussi et qu'il méprise ou admire",
+      "approche d'un objectif longtemps poursuivi",
+      "moment où quelqu'un croit en lui explicitement",
+      "invitation à prendre une place plus grande",
+      "premier signe concret que ça pourrait vraiment marcher"
+    ],
+    "signauxAvantCoureurs": [
+      "retard ou absence inexpliqués avant un événement décisif",
+      "provocation gratuite envers quelqu'un d'important pour lui",
+      "maladie ou incident physique au pire moment",
+      "discours qui minimise l'importance d'une opportunité qu'il désire visiblement",
+      "distraction soudaine vers des préoccupations mineures",
+      "oubli de détails importants juste avant une étape clé",
+      "excuse ou désistement de dernière minute"
+    ],
+    "silencesEtNonDits": [
+      "la conviction inavouable qu'il ne mérite pas ce qu'il désire",
+      "la peur que réussir change ses relations — que les gens l'aiment moins ou autrement",
+      "l'identité construite autour de la lutte — sans obstacle, qui est-il ?",
+      "la loyauté envers ceux qui n'ont pas réussi — dépasser serait une trahison",
+      "ce que sa famille ou son milieu d'origine penserait de lui s'il réussissait",
+      "la question qu'il ne se pose pas directement : est-ce que je veux vraiment ça ?"
+    ],
+    "penseesTypiques": [
+      "Ce n'est probablement pas pour moi.",
+      "Si ça marche, ils vont attendre encore plus la prochaine fois.",
+      "Les gens qui réussissent vraiment ne sont pas comme moi.",
+      "Pourquoi est-ce que je traîne des pieds alors que c'est ce que je veux ?",
+      "Je n'ai rien fait de spécial pour mériter ça.",
+      "Ma mère n'a jamais eu ça. Mon père n'a jamais eu ça.",
+      "Et si je réussis et que c'est toujours aussi vide ?",
+      "Dès que ça commence à bien aller, quelque chose cloche.",
+      "Je ne sais pas qui je suis si je ne me bats plus."
+    ],
+    "comportementsTypiques": [
+      "reporte les étapes décisives sans raison objective",
+      "provoque des conflits inutiles au mauvais moment",
+      "sous-livre sur des projets importants tout en se surpassant sur les mineurs",
+      "oublie des détails clés juste avant une échéance",
+      "minimise ses réussites au moment même où elles se produisent",
+      "s'investit dans d'autres projets juste quand l'un d'eux prend son envol",
+      "demande de l'aide puis ne la suit pas",
+      "prend des risques inutiles qui compromettent ce qu'il a construit"
+    ],
+    "positionsDePouvoir": [
+      "le personnage exerce son pouvoir sur lui-même — en se bloquant",
+      "figures du passé exercent un pouvoir symbolique sur sa permission de réussir",
+      "ceux qui croient en lui sont impuissants face à ce mécanisme intérieur",
+      "la réussite elle-même devient une forme de menace"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Hésitation au seuil", "description": "Le personnage ralentit juste avant de franchir un palier. Il cherche une raison de temporiser sans en trouver une valable." },
+      { "niveau": 2, "label": "Sous-performance ponctuelle", "description": "Il rate quelque chose qu'il aurait pu réussir — sans comprendre vraiment pourquoi. Les explications sont toujours externes." },
+      { "niveau": 3, "label": "Sabotage discernable", "description": "Un observateur attentif voit le schéma. Le personnage, lui, trouve toujours une explication externe convaincante." },
+      { "niveau": 4, "label": "Autosabotage actif", "description": "Il prend des décisions clairement contraires à ses intérêts juste avant une réussite possible. La destruction est méthodique, même si inconsciente." },
+      { "niveau": 5, "label": "Impossibilité de réussir", "description": "Le personnage ne peut pas laisser quoi que ce soit aboutir. Toute tentative de succès déclenche une destruction systématique." }
+    ],
+    "variantes": [
+      {
+        "profil": "Peur de dépasser ses parents",
+        "description": "Réussir là où ils ont échoué serait une trahison de classe, de loyauté, ou une façon de les humilier sans le vouloir. Même adulte, le personnage se limite pour rester dans les limites du monde d'où il vient."
+      },
+      {
+        "profil": "Peur de l'exposition",
+        "description": "Réussir, c'est être vu. Et être vu, c'est être jugé, envié, attaqué. Le personnage préfère l'obscurité sûre à la lumière dangereuse."
+      },
+      {
+        "profil": "Peur de perdre son identité",
+        "description": "Le personnage s'est construit comme quelqu'un qui lutte, qui résiste, qui n'a pas eu de chance. Réussir ferait s'effondrer ce récit de lui-même — et il ne sait pas qui il serait sans lui."
+      }
+    ],
+    "escaladeTypique": [
+      "opportunité ou momentum favorable",
+      "ralentissement inexpliqué ou comportement autodestructeur",
+      "rationalisation — raison externe trouvée",
+      "répétition du schéma sur une nouvelle opportunité",
+      "prise de conscience possible — ou répétition indéfinie"
+    ],
+    "voiesDeResolution": [
+      "identification du schéma par le personnage lui-même",
+      "compréhension de ce que réussir lui ferait perdre symboliquement",
+      "séparation entre loyauté envers les siens et limitation de soi",
+      "expérience d'un succès qui ne détruit pas ce qu'il craignait de perdre",
+      "relation avec quelqu'un qui a réussi sans trahir son origine"
+    ],
+    "blessuresUnderlyantes": [
+      "message implicite ou explicite dans l'enfance que réussir était dangereux ou interdit",
+      "échec fondateur après un moment de succès — 'chaque fois que ça va bien, ça se casse'",
+      "entourage jaloux ou hostile à ses réussites passées",
+      "honte de son ambition dans un milieu où elle était mal vue",
+      "conviction profonde qu'il n'est pas fait pour autre chose que la lutte"
+    ],
+    "contextesFavorables": [
+      "première génération à accéder à un certain niveau dans sa famille",
+      "personnage venant d'un milieu où le succès était rare ou puni",
+      "personnage ayant vécu un succès suivi d'une perte ou d'une rupture",
+      "contexte où les enjeux sont élevés et le succès visible pour tous",
+      "relation où la réussite menacerait l'équilibre existant"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage venu d'un milieu défavorisé qui accède à autre chose",
+      "personnage dont l'identité est construite autour de la résistance ou de la lutte",
+      "personnage entouré de gens qui n'ont pas réussi et qui l'aiment",
+      "personnage ayant vécu une perte importante liée à un moment de réussite",
+      "personnage ambitieux qui ne se reconnaît pas dans son ambition"
+    ],
+    "erreursDEcriture": [
+      "Rendre le sabotage trop visible ou trop conscient — le personnage ne se voit généralement pas faire.",
+      "Ne pas montrer la vraie douleur que ça lui cause — l'autosaboteur souffre autant de ses échecs que sa victime.",
+      "Confondre avec la paresse ou le manque d'ambition — c'est l'inverse : trop d'enjeu, pas trop peu.",
+      "Résoudre par une prise de conscience soudaine — les schémas profonds changent lentement, par l'action pas par la révélation.",
+      "Oublier la logique interne du sabotage — il protège quelque chose, même si ce quelque chose n'est pas nommé."
+    ],
+    "notesEditoriales": [
+      "L'autosabotage est l'un des comportements les plus douloureux à observer pour le lecteur — parce qu'il voit ce que le personnage ne voit pas.",
+      "Sa force narrative est dans l'écart entre le désir affiché et le comportement réel.",
+      "Distinguer l'autosabotage inconscient de la sabotage délibéré — les deux existent, mais donnent des arcs très différents.",
+      "Le personnage qui commence à voir son propre schéma est souvent au tournant le plus intéressant de son arc."
+    ]
+  },
+  {
+    "id": "identite-dechirement",
+    "label": "Déchirement identitaire",
+    "alias": [
+      "déchirement identitaire",
+      "dechirement identitaire",
+      "crise d'identité",
+      "crise identitaire",
+      "perte d'identité",
+      "perte identitaire",
+      "identité fragmentée",
+      "qui suis-je",
+      "conflit d'appartenance",
+      "tiraillement identitaire"
+    ],
+    "famille": "conflits-internes",
+    "sousCategorie": "crise-identitaire",
+    "definitionCourte": "Le personnage ne sait plus qui il est — parce que les différentes parties de son identité sont entrées en contradiction, ou parce que ce en quoi il croyait s'est effondré.",
+    "forcesEnPresence": [
+      "identités multiples incompatibles — sociale, intime, héritée, choisie",
+      "événement qui révèle que l'image de soi était fausse ou insuffisante",
+      "pression extérieure qui exige d'être quelqu'un qu'il n'est peut-être pas",
+      "partie de lui refoulée qui commence à prendre de la place",
+      "loyauté envers ce qu'il a toujours été contre désir de devenir autre chose",
+      "regard des autres qui le fige dans une identité qu'il ne reconnaît plus"
+    ],
+    "declencheursFrequents": [
+      "confrontation entre deux milieux aux valeurs opposées",
+      "découverte d'une vérité sur soi ou son passé",
+      "perte d'un rôle central — parent, partenaire, professionnel",
+      "trahison de quelqu'un dont l'opinion structurait l'image de soi",
+      "acte commis qui ne correspond pas à l'image qu'il avait de lui-même",
+      "retour dans un lieu ou un milieu d'origine après en être parti",
+      "fin d'une relation qui définissait une part de son identité"
+    ],
+    "signauxAvantCoureurs": [
+      "réponses évasives quand on lui demande ce qu'il veut",
+      "changements de style, de langage, de fréquentations sans explication",
+      "remise en cause soudaine de décisions de longue date",
+      "désintérêt pour des choses qui lui tenaient à cœur",
+      "irritabilité quand quelqu'un le définit avec certitude",
+      "comportements différents selon les contextes, de plus en plus incompatibles",
+      "questions inhabituelles sur le sens, la valeur, l'utilité de ce qu'il fait"
+    ],
+    "silencesEtNonDits": [
+      "la partie de lui qu'il n'a jamais osé montrer — et qui commence à prendre de la place",
+      "la peur que se trouver vraiment déçoive ceux qui l'aiment",
+      "le soulagement possible de lâcher une identité construite pour les autres",
+      "ce qu'il ferait si personne ne regardait",
+      "la honte de ne plus savoir qui il est à son âge",
+      "l'attirance pour une vie ou une identité que tout le monde autour de lui jugerait incompréhensible"
+    ],
+    "penseesTypiques": [
+      "Je ne me reconnais plus.",
+      "Qui est-ce que j'essaie d'être, là ?",
+      "J'ai passé des années à construire quelque chose qui ne me ressemble pas.",
+      "Là-bas, je suis quelqu'un d'autre. Ici, je suis quelqu'un d'autre. Où est le vrai ?",
+      "Est-ce que j'ai jamais su qui j'étais vraiment ?",
+      "Je ne sais pas ce que je veux.",
+      "Les gens que j'aime aiment quelqu'un que je ne suis peut-être pas.",
+      "Et si ce que j'ai toujours cru être moi n'était qu'une façade ?"
+    ],
+    "comportementsTypiques": [
+      "change de comportement selon les contextes de façon de plus en plus incompatible",
+      "questionne des choix passés qu'il n'aurait jamais remis en cause",
+      "explore des identités nouvelles de façon parfois erratique",
+      "prend de la distance avec des gens ou des lieux qui le définissaient",
+      "devient instable dans ses opinions et ses préférences",
+      "cherche des miroirs — des personnes ou des histoires qui lui ressemblent",
+      "ne se projette plus dans l'avenir avec la même certitude",
+      "pose des questions inhabituelles sur les autres — comment ils ont su qui ils étaient"
+    ],
+    "positionsDePouvoir": [
+      "les figures du passé définissent encore son identité dans son for intérieur",
+      "ceux qui l'aiment telle qu'il était exercent une pression pour qu'il reste le même",
+      "il est simultanément bourreau et victime de lui-même",
+      "les nouveaux contextes ont le pouvoir de lui révéler des parties de lui-même inconnues"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Questionnement passager", "description": "Le personnage se demande qui il est dans une situation précise. L'incertitude est ciblée et se dissipe." },
+      { "niveau": 2, "label": "Tension identitaire", "description": "Deux versions de lui coexistent. Il joue des rôles différents selon les contextes sans pouvoir les réconcilier." },
+      { "niveau": 3, "label": "Crise de sens", "description": "Ce qui donnait du sens à sa vie ne tient plus. La question 'qui suis-je vraiment ?' revient sans réponse." },
+      { "niveau": 4, "label": "Effondrement de l'image de soi", "description": "Il ne sait plus qui il est, ni ce qu'il veut, ni pourquoi il faisait ce qu'il faisait. Tout est remis en question simultanément." },
+      { "niveau": 5, "label": "Dissolution identitaire", "description": "Le personnage ne se reconnaît plus. Ses croyances, valeurs et désirs lui semblent étrangers — comme s'ils appartenaient à quelqu'un d'autre." }
+    ],
+    "variantes": [
+      {
+        "profil": "Déchirement culturel",
+        "description": "Appartenir à deux cultures, deux classes, deux mondes qui ne se parlent pas. Être 'de là-bas' ici et 'de trop loin' là-bas. Aucun des deux espaces ne reconnaît pleinement le personnage."
+      },
+      {
+        "profil": "Déchirement vocationnel",
+        "description": "Ce pour quoi on s'est construit toute une vie ne résonne plus. La question : était-ce vraiment moi, ou ce qu'on attendait de moi ?"
+      },
+      {
+        "profil": "Déchirement moral",
+        "description": "Une action passée remet en cause l'image d'une personne bien. Le personnage ne sait plus si son passé définit encore son présent — ou si ce qu'il a fait révèle qui il a toujours été."
+      }
+    ],
+    "escaladeTypique": [
+      "premier signal d'incompatibilité entre deux parties de l'identité",
+      "tentatives de maintenir les deux simultanément",
+      "friction croissante — les deux identités s'excluent de plus en plus",
+      "crise ouverte déclenchée par un événement ou une confrontation",
+      "effondrement ou reconstruction — l'une des deux identités disparaît ou les deux se transforment"
+    ],
+    "voiesDeResolution": [
+      "acceptation qu'une identité composite est possible — être plusieurs choses à la fois",
+      "choix conscient de l'identité qui correspond le mieux à ce qu'il veut être",
+      "deuil de la partie de soi qu'on ne peut pas garder",
+      "rencontre d'une communauté ou d'un individu qui reconnaît toutes ses parties",
+      "action qui incarne une nouvelle version de soi sans en demander la permission"
+    ],
+    "blessuresUnderlyantes": [
+      "identité imposée par la famille ou l'environnement sans espace pour en construire une propre",
+      "rupture majeure — perte, deuil, exil — qui a effacé les repères habituels",
+      "double injonction durable : être simultanément deux choses incompatibles",
+      "milieu d'origine qui n'avait pas de place pour qui il voulait devenir",
+      "expérience de rejet liée à une partie de son identité"
+    ],
+    "contextesFavorables": [
+      "immigration ou déracinement",
+      "changement de milieu social ou professionnel radical",
+      "fin d'une relation qui structurait l'identité",
+      "confrontation avec son milieu d'origine après l'avoir quitté",
+      "vieillissement ou transition de vie majeure"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage entre deux cultures ou deux classes sociales",
+      "personnage en transition de vie majeure",
+      "personnage dont l'identité professionnelle ou sociale vient de s'effondrer",
+      "personnage ayant grandi avec des injonctions identitaires contradictoires",
+      "personnage revenant dans son milieu d'origine après l'avoir dépassé"
+    ],
+    "erreursDEcriture": [
+      "Résoudre la crise identitaire par une révélation — la reconstruction est lente, jamais propre.",
+      "Confondre avec l'adolescence tardive : le déchirement identitaire peut frapper à n'importe quel âge.",
+      "Ne pas montrer les moments où il fonctionne malgré la crise — la dissolution n'est pas permanente.",
+      "Rendre la nouvelle identité trop cohérente trop vite — les identités reconstruites gardent des cicatrices.",
+      "Oublier que le déchirement peut être invisible de l'extérieur — le personnage peut fonctionner parfaitement tout en se désintégrant intérieurement."
+    ],
+    "notesEditoriales": [
+      "Le déchirement identitaire est plus intéressant quand il est spécifique — pas 'qui suis-je' en général, mais 'qui suis-je dans ce contexte précis, face à cette personne précise'.",
+      "Sa force narrative vient de l'écart entre l'identité que le personnage montre et celle qu'il cherche.",
+      "Distinguer la crise identitaire qui libère (découverte de soi) de celle qui détruit (perte de tout ancrage).",
+      "Le personnage qui traverse une crise identitaire est souvent aux antipodes de ses comportements habituels — ce décalage est une mine pour les scènes."
+    ]
+  },
+  {
+    "id": "honte-de-soi",
+    "label": "Honte de soi",
+    "alias": [
+      "honte de soi",
+      "honte intérieure",
+      "honte interieure",
+      "honte profonde",
+      "honte chronique",
+      "indignité",
+      "indignite",
+      "se sentir fondamentalement mauvais",
+      "sentiment d'être défectueux",
+      "honte toxique"
+    ],
+    "famille": "conflits-internes",
+    "sousCategorie": "auto-perception-negative",
+    "definitionCourte": "Sentiment profond et durable d'être fondamentalement défectueux, indigne ou insuffisant — pas pour ce qu'on a fait, mais pour ce qu'on est.",
+    "forcesEnPresence": [
+      "image de soi négative contre désir d'être aimé ou respecté",
+      "regard des autres — réel ou imaginé — contre impossibilité de s'y soustraire",
+      "conviction que les autres finiraient par voir ce qu'il y a de honteux en lui",
+      "besoin d'appartenance contre certitude de ne pas la mériter",
+      "désir d'intimité contre terreur d'être exposé",
+      "image publique maintenue contre vérité intérieure cachée"
+    ],
+    "declencheursFrequents": [
+      "regard ou jugement perçu d'une figure importante",
+      "comparaison avec quelqu'un jugé 'normal' ou 'réussi'",
+      "intimité qui menace d'exposer ce qu'on cache",
+      "succès qui attire l'attention et donc le risque d'être vu",
+      "question directe sur soi qui touche à ce qu'on dissimule",
+      "erreur commise en public",
+      "compliment qui semble injustifié et donc menaçant",
+      "moment de vulnérabilité involontaire"
+    ],
+    "signauxAvantCoureurs": [
+      "anticipation des reproches avant qu'ils soient formulés",
+      "besoin de se justifier sans avoir été accusé",
+      "réactions défensives disproportionnées à une critique mineure",
+      "refus des compliments — les détourner, les minimiser, les retourner",
+      "évitement des situations où il pourrait être vu ou jugé",
+      "perfectionnisme excessif comme armure contre la critique",
+      "humour autodépréciatif utilisé comme bouclier"
+    ],
+    "silencesEtNonDits": [
+      "ce qu'il cache — et la terreur que quelqu'un le voie",
+      "l'impossibilité d'accepter l'amour qu'on lui offre — il doit y avoir une erreur",
+      "le sentiment que ses succès sont des accidents qui révéleront bientôt son vrai visage",
+      "la part de lui qu'il ne montre à personne, jamais",
+      "la question impossible : est-ce que je mérite d'être aimé tel que je suis vraiment ?",
+      "ce qu'il dirait de lui-même si la vérité sortait"
+    ],
+    "penseesTypiques": [
+      "S'ils savaient vraiment qui je suis.",
+      "Je ne mérite pas d'être aimé comme ça.",
+      "Il doit y avoir quelque chose qui ne va pas chez moi.",
+      "Je suis différent des autres d'une façon que je ne peux pas nommer.",
+      "Chaque fois que je me sens bien, j'attends que ça s'effondre.",
+      "Pourquoi est-ce qu'il m'aime ? Il n'a pas encore vu.",
+      "Je dois continuer à faire semblant.",
+      "Même moi je n'arrive pas à m'aimer — comment les autres pourraient ?",
+      "Je suis fondamentalement cassé."
+    ],
+    "comportementsTypiques": [
+      "maintient une façade irréprochable pour compenser la honte intérieure",
+      "fuit les situations d'intimité avant d'être exposé",
+      "accepte les mauvais traitements comme s'ils étaient mérités",
+      "sabote les bonnes relations — elles ne peuvent pas durer si on est qui on est",
+      "travaille compulsivement pour prouver sa valeur",
+      "minimise ou détourne tout ce qui pourrait faire du bien",
+      "isole certaines parties de sa vie pour les garder hors de vue",
+      "punit les autres pour avoir vu ce qu'il ne voulait pas montrer",
+      "se montre parfait dans les domaines qui masquent ce qu'il cache"
+    ],
+    "positionsDePouvoir": [
+      "son regard intérieur a plus de pouvoir sur lui que tous les regards extérieurs réunis",
+      "ceux qui l'aiment véritablement se heurtent à l'impossibilité d'être crus",
+      "tout ce qui pourrait l'exposer — succès compris — devient une menace",
+      "la honte donne un pouvoir involontaire à ceux qui critiquent"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Malaise discret", "description": "Le personnage se sent légèrement indigne dans certaines situations. Ça passe, ça ne structure pas sa vie." },
+      { "niveau": 2, "label": "Autocritique régulière", "description": "Il se juge sévèrement, souvent en comparaison avec les autres. Le regard intérieur est dur mais gérable." },
+      { "niveau": 3, "label": "Honte structurante", "description": "La honte de soi organise ses comportements — évitement, masque, refus de l'intimité, perfectionnisme défensif." },
+      { "niveau": 4, "label": "Honte corrosive", "description": "La conviction d'être fondamentalement mauvais ou insuffisant ronge tout de l'intérieur. Les relations n'y résistent pas." },
+      { "niveau": 5, "label": "Honte totale", "description": "Il ne se croit digne de rien — ni d'être aimé, ni de réussir, ni d'exister sans s'excuser." }
+    ],
+    "variantes": [
+      {
+        "profil": "Honte héritée",
+        "description": "Il porte la honte d'un secret familial, d'une origine, d'un acte des siens. La honte n'est pas sienne mais l'a formé. Il porte quelque chose qu'il n'a pas commis."
+      },
+      {
+        "profil": "Honte du corps",
+        "description": "Conviction que son corps est défectueux, honteux, ou qu'il ne correspond pas à ce qu'il devrait être. La honte est localisée mais envahissante."
+      },
+      {
+        "profil": "Honte de désirer",
+        "description": "Ce qu'il veut — une personne, une chose, une vie — lui semble inavouable. Le désir lui-même est source de honte. Il se punit de vouloir."
+      }
+    ],
+    "escaladeTypique": [
+      "message répété que quelque chose ne va pas en lui",
+      "intériorisation progressive du jugement extérieur",
+      "construction d'une façade qui protège et isole",
+      "moment d'exposition — réelle ou imaginée — qui réactive la honte centrale",
+      "effondrement ou renforcement de la façade"
+    ],
+    "voiesDeResolution": [
+      "être vu dans sa vérité et ne pas être rejeté — expérience concrète, pas promesse",
+      "distinction progressive entre ce qu'on a fait et ce qu'on est",
+      "contact avec quelqu'un qui porte la même honte et y survit",
+      "action qui contredit le message honteux par l'expérience, pas par la conviction",
+      "décision de laisser quelqu'un approcher malgré la certitude que ça va mal finir"
+    ],
+    "blessuresUnderlyantes": [
+      "message répété dans l'enfance qu'il était un problème, un fardeau, une déception",
+      "traumatisme d'exposition — avoir été humilié en public à un moment fondateur",
+      "famille ou milieu qui liait la valeur de la personne à des critères inatteignables",
+      "secret familial dont la honte a été transmise sans explication",
+      "expérience d'être aimé conditionnellement — tu es bien si tu es comme ça"
+    ],
+    "contextesFavorables": [
+      "situation d'intimité qui menace d'exposer",
+      "succès qui attire les regards indésirables",
+      "relation où l'autre semble trop bien pour lui",
+      "environnement qui juge la différence ou la vulnérabilité",
+      "retour dans un lieu ou un contexte lié à la honte originelle"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage portant un secret honteux — personnel ou familial",
+      "personnage venant d'un milieu marginalisé ou stigmatisé",
+      "personnage dont l'identité réelle est cachée",
+      "personnage ayant grandi avec une figure parentale critique ou humiliante",
+      "personnage qui réussit en surface mais se sent illégitime"
+    ],
+    "erreursDEcriture": [
+      "Confondre honte de soi et culpabilité — la honte porte sur l'être ('je suis mauvais'), la culpabilité sur l'acte ('j'ai fait quelque chose de mal').",
+      "Résoudre la honte de soi par une déclaration d'amour — la honte profonde ne disparaît pas sous l'effet d'un mot.",
+      "Réduire la honte à un manque de confiance — c'est plus radical, plus silencieux, plus difficile à nommer.",
+      "Ne pas montrer la façade — la plupart des personnages honteux fonctionnent parfaitement bien en surface.",
+      "Oublier que la honte peut pousser à l'excellence — certains performent compulsivement pour prouver qu'ils valent quelque chose."
+    ],
+    "notesEditoriales": [
+      "La honte de soi est l'une des émotions les plus silencieuses — elle ne se montre pas, elle se cache.",
+      "Elle est plus forte quand elle est spécifique : honte d'une origine, d'un désir, d'une partie du corps, d'un secret — pas honte en général.",
+      "Distinguer la honte saine (signal temporaire) de la honte toxique (identité permanente).",
+      "Le personnage honteux qui laisse quelqu'un approcher malgré tout est souvent au moment le plus fort de son arc."
+    ]
+  },
+  {
+    "id": "desillusion",
+    "label": "Désillusion",
+    "alias": [
+      "désillusion",
+      "desillusion",
+      "déception profonde",
+      "deception profonde",
+      "perte d'illusions",
+      "effondrement des croyances",
+      "désenchantement",
+      "desenchantement",
+      "lucidité douloureuse",
+      "réveil difficile"
+    ],
+    "famille": "conflits-internes",
+    "sousCategorie": "effondrement-des-croyances",
+    "definitionCourte": "Moment où une croyance fondamentale — sur une personne, un idéal, une institution ou soi-même — s'effondre au contact de la réalité.",
+    "forcesEnPresence": [
+      "idéal ou croyance investis contre réalité qui ne les supporte pas",
+      "attachement émotionnel à ce qu'on croyait contre évidence impossible à ignorer",
+      "désir de continuer à croire contre impossibilité honnête de le faire",
+      "naïveté ou foi contre lucidité forcée",
+      "loyauté envers l'idéal contre loyauté envers la vérité",
+      "besoin de sens contre réalité qui ne l'offre pas"
+    ],
+    "declencheursFrequents": [
+      "découverte d'une vérité cachée sur une figure admirée",
+      "trahison d'un idéal par ceux censés l'incarner",
+      "expérience directe qui contredit ce qu'on avait cru comprendre",
+      "vieillissement qui confronte les rêves de jeunesse à la réalité",
+      "fin d'une relation idéalisée",
+      "confrontation avec les coulisses de quelque chose qu'on ne voyait que de loin",
+      "accumulation de petites déceptions qui finit par faire basculer"
+    ],
+    "signauxAvantCoureurs": [
+      "questions qui testent la solidité de la croyance",
+      "remarques acides ou ironiques sur un idéal défendu autrefois",
+      "détachement progressif des rituels ou pratiques liés à la croyance",
+      "conversations avec des gens qui pensent autrement — chercher à être contredit ou confirmé",
+      "doutes exprimés puis rapidement rétractés",
+      "évitement des situations qui pourraient forcer une confrontation avec la réalité",
+      "colère disproportionnée face à des critiques de ce en quoi on croit"
+    ],
+    "silencesEtNonDits": [
+      "la nostalgie secrète pour ce en quoi il croyait avant",
+      "la honte d'avoir cru si longtemps si naïvement",
+      "la colère contre ceux qui le laissaient croire — ils savaient",
+      "la tentation de se reconstruire une nouvelle illusion qui tiendra mieux",
+      "ce qu'il ferait s'il acceptait vraiment que c'était faux",
+      "le vide que la désillusion laisse — et la peur de rien trouver pour le remplir"
+    ],
+    "penseesTypiques": [
+      "J'aurais dû voir.",
+      "Comment ai-je pu croire ça aussi longtemps ?",
+      "Si c'était faux, alors qu'est-ce qui reste ?",
+      "Je me sens idiot.",
+      "Ils savaient — et ils m'ont laissé croire.",
+      "À quoi ça servait, alors ?",
+      "Est-ce que j'ai envie de recommencer à croire en quelque chose ?",
+      "Le monde est exactement ce que je craignais qu'il soit.",
+      "Je ne sais pas si je veux savoir la vérité sur le reste."
+    ],
+    "comportementsTypiques": [
+      "se retire des espaces, des groupes ou des relations liés à l'illusion perdue",
+      "devient cynique sur des sujets précis",
+      "évite les personnes qui croient encore ce qu'il ne croit plus",
+      "cherche des preuves supplémentaires de l'illusion — pour confirmer ou infirmer",
+      "adopte une distance ironique sur ce qui le touchait",
+      "tente de reconstruire une croyance de remplacement",
+      "relit le passé à la lumière de la désillusion",
+      "devient méfiant vis-à-vis des enthousiasmes des autres"
+    ],
+    "positionsDePouvoir": [
+      "ce en quoi il croyait exerçait un pouvoir réel sur ses choix et ses loyautés",
+      "ceux qui incarnaient l'idéal ont trahi sans forcément le savoir",
+      "le personnage est seul à reconstruire — personne ne peut le faire pour lui",
+      "ceux qui n'ont pas été désillusionnés lui semblent naïfs — et il leur est impossible de communiquer"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Déception localisée", "description": "Le personnage est déçu par quelqu'un ou quelque chose de précis. Sa vision du monde reste globalement intacte." },
+      { "niveau": 2, "label": "Remise en question", "description": "La déception étend ses ramifications. D'autres croyances connexes sont interrogées. Le doute s'élargit." },
+      { "niveau": 3, "label": "Désillusion sensible", "description": "Une part de ce qui donnait du sens ne tient plus. Le personnage voit les choses différemment — moins naïvement, avec une légère amertume." },
+      { "niveau": 4, "label": "Effondrement d'un cadre", "description": "Un système de valeurs ou de croyances s'effondre. Le personnage doit tout reconstruire sur d'autres bases." },
+      { "niveau": 5, "label": "Nihilisme ou cynisme radical", "description": "La désillusion est totale. Plus rien ne vaut la peine d'être cru. Le monde est exactement ce qu'il avait toujours craint qu'il soit." }
+    ],
+    "variantes": [
+      {
+        "profil": "Désillusion politique ou idéologique",
+        "description": "Ce en quoi il croyait — une cause, un mouvement, un idéal collectif — ne correspond plus à ce qu'il voit. L'idéal a trahi ses propres valeurs. La communauté de croyants devient étrangère."
+      },
+      {
+        "profil": "Désillusion amoureuse",
+        "description": "La personne aimée n'est pas celle qu'il imaginait. La relation était au moins en partie une projection. La désillusion touche autant l'autre que soi-même."
+      },
+      {
+        "profil": "Désillusion sur soi-même",
+        "description": "Il n'est pas le personnage qu'il croyait être. La crise est double : perdre l'illusion sur soi et accepter qui on est vraiment — souvent plus complexe, moins héroïque."
+      }
+    ],
+    "escaladeTypique": [
+      "foi ou idéal clairement tenu",
+      "premier signe contradictoire minimisé",
+      "accumulation de signes impossibles à ignorer",
+      "confrontation directe avec la réalité",
+      "effondrement ou reconstruction sur de nouvelles bases"
+    ],
+    "voiesDeResolution": [
+      "acceptation que l'idéal avait une valeur réelle même s'il était imparfait",
+      "distinction entre la chose en laquelle on croyait et ceux qui la représentaient",
+      "construction d'une croyance plus nuancée — ni naïve ni cynique",
+      "rencontre de quelqu'un qui croit encore mais avec lucidité",
+      "action dans le monde réel qui réengage sans réclamer de certitude"
+    ],
+    "blessuresUnderlyantes": [
+      "naïveté longtemps exploitée — s'être fait avoir plusieurs fois",
+      "attachement fort à des figures idéalisées dans l'enfance",
+      "besoin profond de croire en quelque chose pour tenir",
+      "peur du vide que laisse une croyance effondrée",
+      "éducation qui présentait le monde de façon trop simple ou trop belle"
+    ],
+    "contextesFavorables": [
+      "fin d'une période idéaliste — jeunesse, premier emploi, première relation",
+      "confrontation avec les coulisses d'une institution admirée",
+      "découverte d'une vérité sur une figure parentale ou tutélaire",
+      "événement collectif qui révèle la faillite d'un idéal partagé",
+      "vieillissement qui confronte aux compromis que la vie exige"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage ayant longtemps vécu dans un système clos — religieux, politique, idéologique",
+      "personnage idéaliste confronté pour la première fois à la réalité du pouvoir",
+      "personnage qui a construit son identité autour d'une croyance ou d'une cause",
+      "personnage en transition d'âge — adolescence vers adulte, adulte vers vieillesse",
+      "personnage qui a investi affectivement dans une figure ou une institution"
+    ],
+    "erreursDEcriture": [
+      "Traiter la désillusion comme une progression vers la sagesse — elle peut mener aussi vers l'amertume et le repli.",
+      "Ne pas montrer ce qui est perdu : la désillusion coûte quelque chose de réel, pas seulement une erreur.",
+      "Confondre avec la déception simple — la désillusion remet en cause un cadre entier, pas juste un espoir.",
+      "Résoudre par une nouvelle foi trop vite trouvée — le vide de la désillusion doit exister avant qu'on le remplisse.",
+      "Oublier la nostalgie résiduelle — le personnage désillusionné garde souvent une tendresse pour ce qu'il croyait."
+    ],
+    "notesEditoriales": [
+      "La désillusion est l'une des grandes transitions narratives — elle marque souvent le passage de l'innocence à la complexité.",
+      "Sa force vient de la qualité de la croyance initiale : plus elle était réelle et sincère, plus la désillusion coûte.",
+      "Distinguer la désillusion qui libère (la vérité était préférable à l'illusion) de celle qui détruit (la vérité ne laisse rien debout).",
+      "Le personnage désillusionné qui choisit de croire à nouveau — différemment, sans naïveté — est souvent au bout d'un arc très puissant."
+    ]
+  }
+]

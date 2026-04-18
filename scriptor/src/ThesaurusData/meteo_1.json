@@ -1,0 +1,481 @@
+[
+  {
+    "id": "pluie-battante",
+    "label": "Pluie battante",
+    "type": "pluie",
+    "definitionCourte": "Pluie qui ne demande pas la permission — elle s'abat, couvre tout, rend les voix inaudibles et les repères flous. Elle ne permet pas l'indifférence.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur de terre mouillée, presque animale — le pétrichor après les premières gouttes",
+        "odeur de bitume chaud soudainement trempé, âcre et familière",
+        "odeur de laine mouillée, de tissu trempé, de cuir saturé d'eau"
+      ],
+      "auditifs": [
+        "martèlement continu sur les vitres — rythme sans pause qui couvre tout",
+        "ruissellement dans les gouttières, gargouillis dans les bouches d'égout",
+        "choc de l'eau sur les flaques — bruit de gifle répétée",
+        "voix humaines étouffées, coupées, portées par le vent et déformées",
+        "silence paradoxal sous la pluie battante — le monde extérieur disparaît derrière le bruit"
+      ],
+      "visuels": [
+        "vitres transformées en miroirs déformants, le dehors devient une peinture abstraite",
+        "passants courbés, tête basse, qui courent sans regarder autour d'eux",
+        "flaques qui s'élargissent rapidement, avalent les trottoirs",
+        "lumières de la rue déformées dans les reflets tremblants sur le sol",
+        "arbres qui se courbent et se redressent en cadence"
+      ],
+      "tactiles": [
+        "froid immédiat de la pluie sur le crâne, le cou, les épaules — pénétration rapide sous les vêtements",
+        "tissu mouillé collé contre la peau, lourd et froid",
+        "mains rougies par le froid et l'eau, doigts engourdis"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "urgence corporelle — le personnage ne peut pas rester en dehors sans intention, il doit décider",
+      "isolation acoustique : les conversations semblent avoir lieu sous l'eau, les mots comptent moins",
+      "libération paradoxale — la pluie battante permet de crier sans être entendu, de pleurer sans être vu",
+      "tension physique — le corps se raidit, le rythme cardiaque s'accélère légèrement sous le froid",
+      "sens de l'urgence augmenté — tout devient provisoire, il faut aller quelque part, abriter quelque chose",
+      "dissolution des distances sociales : sous une pluie battante, tout le monde cherche le même abri"
+    ],
+    "emotionsTypiques": [
+      "urgence mêlée d'une forme d'abandon au chaos",
+      "isolement soudain dans un monde qui continue",
+      "libération — la pluie donne une permission d'être moins visible",
+      "mélancolie douce ou vive selon l'état du personnage"
+    ],
+    "usagesNarratifs": [
+      "scène de rupture ou de confrontation sous la pluie — l'inconfort physique rend les mots plus vrais",
+      "transition entre deux états narratifs — avant la pluie et après, le monde n'est pas le même",
+      "révélateur de caractère : comment un personnage réagit à la pluie battante dit quelque chose sur lui",
+      "couverture sonore pour une action, une confidence, un aveu qui ne devrait pas être entendu",
+      "dissolution visuelle utile pour brouiller les repères dans une scène de fuite ou de recherche",
+      "écho émotionnel d'une crise intérieure — la pluie externalise ce qui se passe dedans"
+    ],
+    "contraste": "Amplifie les scènes de tension ou de rupture ; contraste avec le soleil qui suivra pour marquer un basculement. En intérieur face à la pluie, elle sépare le monde en dehors et en dedans — utile pour les scènes d'attente ou d'enfermement.",
+    "notesEditoriales": [
+      "Éviter la pluie battante comme simple effet d'atmosphère triste — elle peut aussi libérer, couvrir, permettre.",
+      "La pluie battante est cliché dans les scènes de rupture sentimentale — si on l'utilise là, le faire avec conscience et le justifier par un détail concret inattendu.",
+      "Plus efficace si un personnage ignore la pluie alors que les autres courent — ce détail en dit plus sur lui que trois lignes de description intérieure."
+    ]
+  },
+  {
+    "id": "canicule",
+    "label": "Canicule",
+    "type": "chaleur",
+    "definitionCourte": "Chaleur qui s'installe et ne repart pas, qui épuise les corps et les volontés, rend les conflits plus proches de la surface et les pensées plus lentes. La ville devient un four à ciel ouvert.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur de bitume surchauffé qui monte en vague quand on approche du sol",
+        "transpiration omniprésente — celle des autres, la sienne, celle des espaces mal ventilés",
+        "odeur de fleurs fanées, de végétation brûlée, de terre craquelée"
+      ],
+      "auditifs": [
+        "bourdonnement continu des ventilateurs et des climatiseurs qui couvre tout",
+        "silence inhabituel de midi — les oiseaux se taisent, les rues se vident",
+        "crissement des cigales si la scène est en zone méridionale",
+        "voix plus basses, plus lentes, conversations amollies par la chaleur",
+        "bruit des glaçons dans un verre, d'une fenêtre qu'on ouvre sans que ça change rien"
+      ],
+      "visuels": [
+        "air qui tremble au-dessus du bitume, halos de chaleur déformant l'horizon",
+        "lumière crue, sans ombre, qui efface les contours et aplatit les reliefs",
+        "passants lents, démarche molle, vêtements humides de transpiration",
+        "stores baissés, volets clos — les façades qui refusent le soleil",
+        "chiens allongés à l'ombre, langues sorties, indifférents au monde"
+      ],
+      "tactiles": [
+        "chaleur prise dans les poumons à chaque inspiration — l'air brûle avant de rafraîchir",
+        "sueur qui coule dans le dos, sous les bras, derrière les genoux",
+        "objets chauds au toucher — poignée de porte, siège de voiture, balustrade métallique"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "ralentissement physique et mental — les décisions prennent plus de temps, les mots viennent moins vite",
+      "irritabilité de fond sans déclencheur précis — la chaleur transforme les petites tensions en frictions",
+      "sensualité augmentée ou épuisement total selon le personnage et le contexte",
+      "impression d'être piégé — trop chaud pour bouger, trop inconfortable pour rester",
+      "rapport au corps plus immédiat — on transpire, on sent, on est dans la matière",
+      "dissolution des politesses habituelles — les gens sont plus directs, parfois plus durs"
+    ],
+    "emotionsTypiques": [
+      "irritabilité lente qui monte sans objet précis",
+      "torpeur douce ou lourde selon l'état de départ",
+      "désir ou répulsion physique selon le contexte de la relation",
+      "sentiment d'impuissance face à quelque chose qui dépasse le personnage"
+    ],
+    "usagesNarratifs": [
+      "contexte idéal pour les conflits qui couvent depuis longtemps — la chaleur lève les inhibitions",
+      "scènes d'attente ou d'immobilité forcée qui deviennent insupportables",
+      "tension sexuelle amplifiée — les corps sont plus présents, les distances réduites",
+      "scène de rupture ou d'aveu que la chaleur rend inévitable : on n'a plus la force de taire",
+      "contexte de ralentissement narratif délibéré — la canicule justifie la lenteur, l'enlisement",
+      "révélateur social : qui souffre de la chaleur et qui y survit sans mal"
+    ],
+    "contraste": "Contraste fort avec l'orage qui éclate en fin de canicule — tension maximale suivie de décharge. Contraste avec les intérieurs climatisés où le monde extérieur n'existe plus — utile pour les personnages qui se coupent de la réalité.",
+    "notesEditoriales": [
+      "La canicule est l'une des rares météos qui agit directement sur le corps du personnage — en faire un personnage à part entière.",
+      "Excellent contexte pour les scènes entre personnages qui ne peuvent pas se fuir — ils sont trop épuisés pour aller ailleurs.",
+      "Attention à l'usage symbolique trop attendu : canicule = tension sexuelle ou conflit. Peut aussi être utilisée pour la torpeur, l'indolence, la beauté étrange."
+    ]
+  },
+  {
+    "id": "brouillard-epais",
+    "label": "Brouillard épais",
+    "type": "brouillard",
+    "definitionCourte": "Brouillard qui efface les repères, dissout les contours et transforme le monde connu en espace inconnu. Il n'a pas de bruit propre, il absorbe ceux des autres.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur d'humidité froide, de mousse et de pierre mouillée",
+        "odeur d'air immobile, presque stagnant, qui n'a pas circulé",
+        "odeur de feu de bois lointain, portée par le brouillard mais impossible à localiser"
+      ],
+      "auditifs": [
+        "sons déformés et sans direction — une voix qu'on n'arrive pas à situer",
+        "silence opaque entre les bruits, comme une ouate qui absorbe les intervalles",
+        "pas sur un sol humide, sans qu'on sache d'où ils viennent",
+        "sons de cloches, de voitures, de trains — lointains et rapprochés alternativement sans logique",
+        "propre respiration soudainement audible, amplifiée par le silence extérieur"
+      ],
+      "visuels": [
+        "les contours qui s'effacent à quelques mètres — l'horizon se rapproche à la distance d'un bras tendu",
+        "silhouettes qui apparaissent et disparaissent sans crier gare",
+        "lumières qui ne portent pas — les réverbères n'éclairent qu'un halo autour d'eux",
+        "propre corps qui disparaît au-delà des mains tendues",
+        "monde tronqué, raccourci, réduit à ce qui est immédiatement devant"
+      ],
+      "tactiles": [
+        "froid humide qui pénètre différemment du froid sec — plus lent, plus profond",
+        "humidité sur la peau du visage, les cheveux, les cils",
+        "sensation d'être dans un espace dont on ne voit pas les limites — à la fois ouvert et enfermant"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "déorientation spatiale et temporelle — on ne sait plus où on est ni depuis combien de temps",
+      "acuité auditive augmentée en compensation — le personnage écoute plus qu'il ne regarde",
+      "sentiment d'isolement absolu même en plein milieu d'une ville ou d'un groupe",
+      "ralentissement — on marche moins vite, on hésite, on s'arrête pour chercher un repère",
+      "impression d'anonymat et d'invisibilité — personne ne peut nous voir non plus",
+      "anxiété sourde ou sentiment de liberté selon la psychologie du personnage"
+    ],
+    "emotionsTypiques": [
+      "anxiété douce ou aiguë selon le contexte",
+      "sentiment de suspension — ni dans un monde ni dans un autre",
+      "libération paradoxale liée à l'invisibilité temporaire",
+      "mélancolie dense, comme si le monde avait décidé de disparaître doucement"
+    ],
+    "usagesNarratifs": [
+      "scène de rencontre inattendue — deux personnages qui surgissent l'un de l'autre",
+      "fuite ou poursuite où les repères visuels sont annulés",
+      "moment de confession ou d'aveu rendu possible par l'invisibilité mutuelle",
+      "transition narrative — le personnage entre dans le brouillard dans un état, en sort dans un autre",
+      "espace de danger ou de mystère sans avoir besoin de le nommer",
+      "métaphore incarnée d'un état intérieur : confusion, deuil, dissociation"
+    ],
+    "contraste": "Contraste fort avec la clarté d'un matin ensoleillé qui suit — le monde retrouvé après la dissolution. Amplifie les scènes d'incertitude narrative : ce qu'on cherche est là, quelque part, mais on ne sait pas encore où.",
+    "notesEditoriales": [
+      "Le brouillard est plus fort quand il agit sur la perception du personnage que quand il est décrit de l'extérieur.",
+      "Éviter d'en faire un simple décor de suspense gothique — le brouillard peut aussi être doux, cotonneux, presque bienveillant.",
+      "Très efficace pour les scènes où un personnage doit prendre une décision seul, coupé du monde — le brouillard externalise le processus intérieur."
+    ]
+  },
+  {
+    "id": "neige-silencieuse",
+    "label": "Chute de neige silencieuse",
+    "type": "neige",
+    "definitionCourte": "Neige qui tombe sans vent, lentement, et transforme le monde connu en quelque chose de propre et d'étranger. Elle impose un silence qui n'est pas l'absence de bruit mais une présence à part entière.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur d'air froid, pur, presque sans odeur — comme si le monde avait été lavé",
+        "odeur de bois sous la neige, de sous-bois humide et immobile",
+        "odeur de feu de cheminée portée par l'air immobile"
+      ],
+      "auditifs": [
+        "silence dense et actif — pas l'absence de son mais une présence qui absorbe",
+        "crissement des pas dans la neige fraîche — son localisé, intime, qui isole",
+        "chute occasionnelle d'un paquet de neige depuis une branche — bruit unique et espacé",
+        "voix humaines portées différemment — la neige change l'acoustique",
+        "absence des sons habituels de la ville ou de la nature — le monde s'est mis en sourdine"
+      ],
+      "visuels": [
+        "flocons qui tombent lentement, presque horizontalement, dans la lumière",
+        "couche qui efface progressivement les aspérités — angles arrondis, reliefs gommés",
+        "monde en noir et blanc avec des ombres bleues dans les creux",
+        "propres traces de pas — les seules, parfois — qui disent exactement où on est passé",
+        "lumière réfléchie par la neige qui éclaircit les nuits"
+      ],
+      "tactiles": [
+        "froid sec qui pique le visage et les mains, différent de l'humide",
+        "flocon sur la main tendue — léger comme rien, fondu avant d'avoir été vraiment touché",
+        "sol instable sous les pieds — équilibre modifié, chaque pas est une négociation"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "ralentissement du monde qui impose un ralentissement du personnage — on ne peut pas aller vite sous la neige",
+      "sentiment d'être dans un monde parallèle, suspendu, en dehors du temps ordinaire",
+      "nostalgie presque automatique — la neige ramène des souvenirs d'enfance chez la plupart",
+      "conscience aiguë de sa propre présence dans le paysage — les traces laissées sont visibles",
+      "paix temporaire ou tristesse augmentée selon l'état de départ — la neige amplifie ce qui est déjà là",
+      "solitude rendue belle ou insupportable par le même paysage"
+    ],
+    "emotionsTypiques": [
+      "paix douce, fragile, qui sait qu'elle ne durera pas",
+      "nostalgie involontaire et parfois douloureuse",
+      "solitude qui peut être choisie ou subie selon le personnage",
+      "sentiment de suspension hors du monde réel"
+    ],
+    "usagesNarratifs": [
+      "moment de pause narrative — la neige justifie l'arrêt, la contemplation, le retour sur soi",
+      "scène de révélation ou d'aveu dans un contexte de douceur qui contraste avec le contenu",
+      "décor d'un deuil ou d'une fin — la neige couvre ce qui était, efface les traces",
+      "cadre de début ou de renaissance — le monde couvert de neige comme page blanche",
+      "tension entre la beauté du décor et la gravité de ce qui se passe — le contraste est narrativement puissant",
+      "solitude du personnage rendue visible par ses seules traces dans la neige"
+    ],
+    "contraste": "Contraste immédiat avec la boue et le gris qui suivent la fonte — la beauté de la neige fraîche est temporaire. Amplifie les scènes de recueillement ou de deuil par le silence qu'elle impose.",
+    "notesEditoriales": [
+      "La neige silencieuse est parmi les météos les plus clichées — l'utiliser avec une précision sensorielle qui la renouvelle.",
+      "Les traces dans la neige sont un outil narratif sous-utilisé : elles disent exactement qui est passé, quand, dans quelle direction.",
+      "Éviter de la réduire à un symbole de pureté ou de mort — la neige est aussi oppressante, lourde, dangereuse selon le contexte."
+    ]
+  },
+  {
+    "id": "orage-electrique",
+    "label": "Orage électrique",
+    "type": "orage",
+    "definitionCourte": "Orage qui s'annonce avant d'arriver, chargé d'une électricité que le corps perçoit avant les yeux. L'air devient dense, les corps se tendent, et quelque chose finit toujours par éclater.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur d'ozone avant l'orage — électrique, métallique, annonciateur",
+        "odeur de terre qui se souvient de la pluie avant qu'elle arrive",
+        "après la foudre proche : odeur de brûlé, de bois carbonisé, de sève"
+      ],
+      "auditifs": [
+        "tonnerre qui précède ou suit l'éclair — grondement sourd ou détonation sèche selon la distance",
+        "silence des animaux et des oiseaux juste avant — le monde retient son souffle",
+        "pluie qui commence en quelques gouttes et explose en un battement",
+        "foudre : craquement sec et immédiat, différent du tonnerre lointain",
+        "vent qui se lève d'un coup, fait claquer les volets, courbe les arbres"
+      ],
+      "visuels": [
+        "ciel qui vire au jaune-verdâtre, couleur impossible, qui n'existe qu'à ces moments",
+        "éclairs qui découpent le ciel — une fraction de seconde qui révèle tout en noir et blanc",
+        "nuages qui s'accumulent avec une rapidité anormale, comme une montée dramatique",
+        "lumière stroboscopique pendant le cœur de l'orage — le monde en images saccadées",
+        "grêle éventuelle — billes blanches qui rebondissent sur le bitume"
+      ],
+      "tactiles": [
+        "pression atmosphérique perceptible physiquement — migraine, pesanteur, picotement",
+        "cheveux qui se dressent légèrement dans les zones d'électricité forte",
+        "chaleur qui tombe d'un coup à l'arrivée de la pluie — changement de température brutal"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "tension physique avant même que l'orage arrive — le corps répond à la pression atmosphérique",
+      "montée d'adrénaline qui amplifie ce qui est déjà là — joie, peur, colère, désir",
+      "impression de passage de seuil — quelque chose va changer, doit changer",
+      "excitation primitive mêlée d'inquiétude — le danger est là mais pas encore arrivé",
+      "après l'orage : soulagement physique net, pensées plus claires, corps détendu",
+      "sensation d'être au bord de quelque chose — narrativement et physiquement"
+    ],
+    "emotionsTypiques": [
+      "tension qui cherche une résolution",
+      "excitation primitive difficile à nommer",
+      "peur irrationnelle de la foudre, même chez les adultes",
+      "soulagement libérateur après l'éclatement — l'orage résout la tension qu'il créait"
+    ],
+    "usagesNarratifs": [
+      "scène de climax ou de confrontation annoncée et accompagnée par l'orage",
+      "déclencheur d'une action que le personnage retardait — l'orage donne une permission",
+      "scène de proximité forcée — deux personnages coincés quelque part sous l'orage",
+      "contraste entre la tension extérieure et le calme apparent d'un personnage — ou l'inverse",
+      "rupture de tension narrative — l'orage arrive quand la situation humaine ne peut plus tenir",
+      "scène après l'orage pour marquer un après — quelque chose a changé, le monde est lavé"
+    ],
+    "contraste": "Contraste maximal avec l'accalmie qui suit — le calme après l'orage est un état narratif distinct. Amplifie toute confrontation humaine en dupliquant la tension dans le monde extérieur.",
+    "notesEditoriales": [
+      "L'orage est parmi les météos les plus utilisées dans la fiction — la différencier par un détail sensoriel précis et inattendu.",
+      "Le moment juste avant l'orage est souvent plus dramatiquement puissant que l'orage lui-même.",
+      "L'orage qui ne coïncide pas avec la tension narrative — qui éclate pendant une scène douce — crée un contrepoint efficace."
+    ]
+  },
+  {
+    "id": "vent-violent",
+    "label": "Vent violent",
+    "type": "vent",
+    "definitionCourte": "Vent qui ne laisse pas le choix — il entre partout, s'impose aux corps, rend les conversations impossibles et donne l'impression que le monde essaie d'empêcher quelque chose.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur de mer si côtier — sel et iode amenés de loin",
+        "odeur de terre, de feuilles arrachées, de bois cassé",
+        "odeur changeante, instable — le vent mélange tout, rien ne reste"
+      ],
+      "auditifs": [
+        "rugissement continu qui varie en intensité — jamais tout à fait pareil",
+        "sifflements dans les interstices — fenêtres, portes, lacunes dans les murs",
+        "chocs d'objets emportés — volets, poubelles, mobilier de terrasse",
+        "arbres qui craquent, branches qui frappent les fenêtres",
+        "voix humaines emportées, coupées, inaudibles dès quelques mètres"
+      ],
+      "visuels": [
+        "cheveux et vêtements battus dans tous les sens, corps qui résistent",
+        "arbres qui plient dans la même direction, comme inclinés par une main",
+        "objets qui volent — feuilles, papiers, sacs plastiques — trajectoires imprévisibles",
+        "mer démontée si bord de mer, vagues qui montent trop haut",
+        "nuages qui filent à une vitesse anormale — le ciel en mouvement"
+      ],
+      "tactiles": [
+        "froid qui s'infiltre malgré les couches — le vent passe à travers",
+        "yeux qui pleurent involontairement, peau qui rougit",
+        "effort musculaire pour avancer — le corps qui pousse contre quelque chose d'invisible"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "effort physique constant même sans bouger — tenir debout dans le vent demande quelque chose",
+      "communication rendue difficile ou impossible — on ne peut pas parler normalement",
+      "sentiment d'être bousculé, déplacé, de ne pas maîtriser sa trajectoire",
+      "exaltation chez certains personnages — le vent amplifie l'énergie, donne un sentiment d'existence intense",
+      "irritation ou anxiété chez d'autres — l'imprévisibilité et le bruit épuisent",
+      "isolement dans le bruit — même entouré, le vent crée une solitude acoustique"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'être confronté à quelque chose qui ne tient pas compte de soi",
+      "exaltation ou irritation selon le profil du personnage",
+      "liberté paradoxale — aller quelque part sous le vent, même sans direction",
+      "sentiment de petitesse face à une force indifférente"
+    ],
+    "usagesNarratifs": [
+      "scène de confrontation entre deux personnages dont les mots sont emportés — ce qui est dit doit l'être fort",
+      "déplacement difficile qui justifie l'effort narratif d'un trajet",
+      "vent comme obstacle physique qui dit la résistance du monde aux intentions du personnage",
+      "exaltation d'un personnage sur un promontoire, face au vent — scène d'état intérieur",
+      "le vent qui emporte quelque chose — un papier, un objet — déclencheur d'action",
+      "contexte de danger imminent : le vent avant la tempête"
+    ],
+    "contraste": "Contraste fort avec le calme plat qui précède parfois — le vent surgit de rien. Amplifie les scènes de désorientation ou de perte de contrôle.",
+    "notesEditoriales": [
+      "Le vent est sous-utilisé comparé à la pluie et à la neige — il a une qualité dramatique propre, notamment par son bruit.",
+      "La difficulté de parler sous le vent est une contrainte narrative intéressante — elle oblige à des gestes, des cris, des approches.",
+      "Peut être utilisé de façon comique aussi : le vent qui malmène les personnages dans des situations formelles."
+    ]
+  },
+  {
+    "id": "froid-sec-hivernal",
+    "label": "Froid sec hivernal",
+    "type": "froid",
+    "definitionCourte": "Froid qui contracte tout — l'air, les muscles, les mots. Il est clair, précis, sans humidité, et il pénètre avec la même logique que lui : directement, sans détour.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "absence presque totale d'odeur — le froid sec suspend les molécules odorantes",
+        "haleine visible qui se condense — pas une odeur, mais une présence de l'air respiré",
+        "odeur de pin ou de conifère si la scène est en forêt, portée loin par l'air froid"
+      ],
+      "auditifs": [
+        "craquement du givre sous les pas — son cristallin, définitif",
+        "sons qui portent loin et clairement — l'air froid sec est un excellent conducteur",
+        "silence du monde hivernal — pas gelé comme sous la neige, mais aminci, réduit",
+        "cliquetis métalliques amplifiés — véhicules, grilles, poignées dans le froid",
+        "voix plus nettes, plus portées — la chaleur de la voix contre le froid de l'air"
+      ],
+      "visuels": [
+        "ciel bleu profond et presque dur, sans nuage, lumineux sans chaleur",
+        "givre sur les surfaces — toiles d'araignée cristallisées, herbe blanche au matin",
+        "lumière rasante qui allonge les ombres et accentue les textures",
+        "haleine visible, buée blanche à chaque expiration",
+        "couleurs plus contrastées — le froid sec durcit les frontières visuelles"
+      ],
+      "tactiles": [
+        "brûlure immédiate sur la peau exposée — nez, joues, oreilles, doigts",
+        "muscles qui se contractent involontairement — le corps se défend",
+        "inhalation qui fait mal, légèrement, très légèrement, à l'intérieur du nez"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "état d'alerte physique légère — le froid maintient éveillé, affûté",
+      "pensées plus claires, parfois — comme si le froid tranchait dans le brouillard mental",
+      "contraction émotionnelle : les sentiments semblent plus maîtrisés, plus rentrés",
+      "besoin de chaleur humaine amplifié — la proximité physique prend un sens différent",
+      "endurance qui s'érode progressivement — le froid ne frappe pas vite, mais il épuise",
+      "sentiment de vivre dans quelque chose de pur, de non encombré"
+    ],
+    "emotionsTypiques": [
+      "clarté mentale inhabituelle, parfois inconfortable",
+      "solitude propre, ni mélancolique ni pesante",
+      "désir de chaleur et de contact humain",
+      "deuil qui se porte différemment dans le froid sec — plus dignement, peut-être"
+    ],
+    "usagesNarratifs": [
+      "scène de confrontation dans le froid : les mots sont courts, les corps contractés, les décisions rapides",
+      "cadre d'un deuil hivernal — enterrement, retour sur un lieu de l'enfance",
+      "contraste entre la froideur du décor et la chaleur d'un intérieur ou d'un rapport humain",
+      "marche dans le froid comme processus de pensée — le personnage avance et réfléchit",
+      "révélateur d'endurance : comment le personnage se comporte dans l'inconfort prolongé",
+      "scène d'aube froide et claire après une nuit de décision — le monde qui recommence"
+    ],
+    "contraste": "Contraste avec le dégel qui vient — la libération du froid est une métaphore de libération intérieure. Amplifie la chaleur des intérieurs, des corps, des présences humaines.",
+    "notesEditoriales": [
+      "Le froid sec a une qualité dramatique différente du froid humide — plus austère, plus digne, moins déprimant.",
+      "Les halènes visibles sont un détail sensoriel très concret pour ancrer une scène dans ce froid sans l'annoncer.",
+      "Le froid sec est sous-utilisé pour les scènes de clarté ou de résolution — il est trop souvent réservé au seul deuil."
+    ]
+  },
+  {
+    "id": "soleil-automne",
+    "label": "Soleil d'automne bas sur l'horizon",
+    "type": "grand-beau",
+    "definitionCourte": "Lumière de fin d'année qui rase les choses plutôt que de les plomber, dore tout d'une couleur qui n'appartient qu'à cette saison, et ment doucement sur la durée — il sera parti dans deux heures.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur de feuilles mortes et de sol humide — champignons, humus, fin des choses",
+        "odeur de fumée de bois qui commence à revenir avec les premières cheminées",
+        "odeur plus sèche que l'été, moins lourde — l'air s'est vidé de quelque chose"
+      ],
+      "auditifs": [
+        "crissement des feuilles sèches sous les pas — son d'automne par excellence",
+        "oiseaux moins présents, silences entre les chants plus longs",
+        "vent léger qui fait courir les feuilles sur le sol — bruissement doux et continu",
+        "sons qui portent plus loin qu'en été — l'air d'automne est un bon conducteur"
+      ],
+      "visuels": [
+        "lumière oblique qui transforme chaque chose en objet de peinture — textures exagérées",
+        "ombres très longues dès la mi-journée, qui avancent vite",
+        "couleurs chaudes du feuillage — orange, roux, jaune d'or — contre le ciel encore bleu",
+        "contre-jour permanent quand on marche vers l'ouest l'après-midi",
+        "lumière qui dure moins — le jour rétrécit visiblement d'une semaine à l'autre"
+      ],
+      "tactiles": [
+        "douceur sur la peau exposée au soleil, froid immédiat dès qu'on entre dans l'ombre",
+        "fraîcheur de l'air qui contraste avec la chaleur du soleil — les deux en même temps",
+        "sol de sous-bois mou, tapissé de feuilles mortes, qui cède légèrement sous le pied"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "conscience aiguë du caractère temporaire de la beauté — il fait beau, mais ça ne durera pas",
+      "nostalgie active, non pas du passé mais du présent lui-même, déjà en train de passer",
+      "désir de saisir, de retenir — photographier, noter, regarder encore avant que ça disparaisse",
+      "mélancolie douce qui n'est pas triste exactement, mais qui ressemble à une fin",
+      "acuité visuelle augmentée — la lumière rasante force à regarder les choses autrement",
+      "rapport au temps plus présent que d'habitude — le soleil d'automne est une horloge"
+    ],
+    "emotionsTypiques": [
+      "mélancolie douce et consentie, ni choisie ni refusée",
+      "nostalgie du moment présent lui-même",
+      "gratitude silencieuse pour quelque chose qui ne sera bientôt plus là",
+      "beauté légèrement douloureuse — trop belle pour ne pas blesser"
+    ],
+    "usagesNarratifs": [
+      "scène de bilan ou de retour sur une vie — le soleil d'automne fait le tour des choses",
+      "contexte d'une conversation importante entre deux personnages en fin de quelque chose",
+      "contraste entre la beauté extérieure et un état intérieur sombre — ou l'accord entre les deux",
+      "scène de départ ou de fin — le soleil d'automne accompagne les fins sans les dramatiser",
+      "moment de pause narrative dans un récit chargé — une heure de lumière avant la nuit",
+      "révélateur d'un rapport au temps : le personnage voit la lumière ou ne la voit pas"
+    ],
+    "contraste": "Contraste immédiat avec l'ombre froide qui commence dès que le soleil disparaît — la transition est brutale en automne. Amplifie les scènes de fin, de bilan, de séparation sans les rendre mélodrmatiques.",
+    "notesEditoriales": [
+      "Le soleil d'automne est l'une des météos les plus complexes émotionnellement — beauté et perte en même temps, sans contradiction.",
+      "La lumière rasante qui transforme les textures ordinaires est un outil descriptif très efficace : elle révèle ce qu'on ne voit pas en plein été.",
+      "Éviter d'en faire un symbole trop chargé de fin et de mort — il peut aussi être lumineux, vivant, presque joyeux dans sa mélancolie."
+    ]
+  }
+]

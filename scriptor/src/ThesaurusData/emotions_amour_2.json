@@ -1,0 +1,368 @@
+[
+  {
+    "id": "jalousie",
+    "label": "Jalousie",
+    "alias": [
+      "jalousie",
+      "jalousie amoureuse",
+      "envie possessive",
+      "crainte de perdre",
+      "jalousie froide",
+      "jalousie brûlante",
+      "possessivité",
+      "suspicion amoureuse",
+      "peur du rival",
+      "jalousie muette"
+    ],
+    "famille": "amour-lien",
+    "definitionCourte": "Peur mêlée de colère et de douleur de perdre une relation ou un attachement au profit d'un tiers réel ou imaginaire.",
+    "signesPhysiques": [
+      "regard qui surveille sans en avoir l'air",
+      "mâchoire légèrement serrée",
+      "silence soudain quand le rival est mentionné",
+      "sourire tendu ou trop appliqué",
+      "regard qui cligne peu, fixé",
+      "posture qui se referme imperceptiblement",
+      "voix qui perd sa chaleur habituelle",
+      "gestes plus contrôlés, moins spontanés",
+      "attention qui capte chaque détail sans le montrer"
+    ],
+    "sensationsInternes": [
+      "brûlure dans la poitrine à l'évocation du rival",
+      "nœud dans le ventre",
+      "chaleur dans les mains et le visage",
+      "envie simultanée d'attaquer et de fuir",
+      "honte de ressentir ça",
+      "sentiment d'insécurité profond",
+      "douleur qui ressemble à une trahison même sans trahison réelle"
+    ],
+    "pensees": [
+      "Est-ce qu'il lui préfère cet autre ?",
+      "Je n'aurais pas dû laisser ça se passer.",
+      "Je ne vaux pas mieux que lui.",
+      "Il ne me regarde plus pareil.",
+      "Je ne suis pas fou — quelque chose a changé.",
+      "Je ne peux pas laisser ça continuer.",
+      "Si je dis quelque chose, je passe pour un idiot.",
+      "Et si tout ça n'était que dans ma tête ?"
+    ],
+    "effetsVoixLangage": [
+      "ton qui se refroidit sans raison apparente",
+      "questions anodines avec un fond d'interrogation",
+      "silence après les réponses — comme si l'autre n'était pas dupe",
+      "ironie sèche",
+      "formulations prudentes qui cachent l'accusation"
+    ],
+    "comportements": [
+      "surveille les interactions de l'aimé avec les autres",
+      "pose des questions apparemment neutres",
+      "cherche des signes de trahison dans les détails",
+      "teste l'autre sans le dire",
+      "se retire pour voir si l'autre le remarque",
+      "compare — silencieusement, constamment",
+      "tente de regagner l'attention par des changements de comportement"
+    ],
+    "masquesPossibles": [
+      "indifférence froide",
+      "humour cinglant",
+      "occupations frénétiques",
+      "excès de bienveillance envers le rival"
+    ],
+    "evolutionsPossibles": [
+      "colère si la jalousie est nourrie par des preuves",
+      "insécurité durable si jamais résolue",
+      "rupture si la jalousie devient insupportable",
+      "confiance retrouvée si le doute est levé",
+      "obsession si le personnage s'y enfonce"
+    ],
+    "contextesAggravants": [
+      "manque de communication dans la relation",
+      "passé de trahison ou d'abandon",
+      "rival réel et présent",
+      "comparaison défavorable implicite",
+      "insécurité déjà ancienne"
+    ],
+    "contextesAttenuants": [
+      "confirmation de l'attachement de l'autre",
+      "dialogue direct sur la peur",
+      "absence du rival",
+      "expérience de sécurité dans la relation"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère inquiétude", "description": "Doute passager. Le personnage s'en distrait facilement." },
+      { "niveau": 2, "label": "Jalousie sensible", "description": "L'inquiétude revient. Le personnage surveille sans le montrer." },
+      { "niveau": 3, "label": "Jalousie marquée", "description": "La jalousie infuse les échanges. Elle modifie le comportement." },
+      { "niveau": 4, "label": "Jalousie intense", "description": "La souffrance est réelle. La relation est mise en danger par la jalousie elle-même." },
+      { "niveau": 5, "label": "Jalousie dévorante", "description": "Le personnage est envahi. La jalousie prend des décisions à sa place." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui a déjà été trahi",
+        "description": "La jalousie est vécue comme une évidence, presque une prophétie. Elle n'a pas besoin de preuve — elle est convaincue d'avance. Le passé habite le présent."
+      },
+      {
+        "profil": "Personnage très sûr de lui en temps normal",
+        "description": "La jalousie est humiliante. Elle révèle une faille qu'il ignorait avoir. Il lutte contre elle autant que contre l'objet de son inquiétude."
+      },
+      {
+        "profil": "Personnage anxieux",
+        "description": "La jalousie est l'extension naturelle de l'anxiété. Elle s'alimente de presque rien. Elle s'emballe seule avant que l'autre ait eu le temps de répondre."
+      }
+    ],
+    "notesEditoriales": [
+      "La jalousie est plus intéressante dans ce qu'elle dit de la peur du personnage que dans l'accusation qu'elle porte.",
+      "Elle est souvent plus douloureuse pour celui qui la ressent que pour celui qui en est l'objet.",
+      "Éviter d'en faire une caricature possessive : la jalousie peut être discrète, silencieuse, presque invisible.",
+      "La jalousie injustifiée révèle une blessure ancienne — la relier à une origine précise la rend plus crédible."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "amour" },
+      { "type": "peut_evoluer_en", "cible": "colere" },
+      { "type": "peut_evoluer_en", "cible": "rupture" },
+      { "type": "peut_masquer", "cible": "peur-de-l-abandon" },
+      { "type": "peut_declencher", "cible": "conflit-amoureux" },
+      { "type": "souvent_associe_a", "cible": "insecurite" }
+    ]
+  },
+  {
+    "id": "tendresse-coupable",
+    "label": "Tendresse coupable",
+    "alias": [
+      "tendresse coupable",
+      "affection interdite",
+      "amour honteux",
+      "attachement illégitime",
+      "tendresse inavouable",
+      "affection déplacée",
+      "sentiment mal placé",
+      "amour impossible",
+      "affection qui ne devrait pas être",
+      "lien interdit"
+    ],
+    "famille": "amour-lien",
+    "definitionCourte": "Affection réelle et profonde pour quelqu'un envers qui ce sentiment est jugé déplacé, interdit ou problématique — par les circonstances, les rôles, les engagements ou les convenances.",
+    "signesPhysiques": [
+      "sourire qui vient puis s'efface aussitôt",
+      "geste vers l'autre arrêté à mi-chemin",
+      "regard détourné précisément quand la tendresse monte",
+      "légère tension dans le visage qui lutte contre lui-même",
+      "voix qui se modifie à l'adresse de l'autre puis se corrige",
+      "maintien physique plus rigide que d'habitude",
+      "attention excessive au respect des distances"
+    ],
+    "sensationsInternes": [
+      "chaleur dans la poitrine immédiatement suivie d'une contraction",
+      "sentiment d'être en faute sans avoir rien fait",
+      "désir de proximité et honte de le désirer",
+      "lutte entre ce qu'on ressent et ce qu'on devrait ressentir",
+      "culpabilité légère permanente",
+      "douceur douloureux d'un sentiment qu'on ne peut pas honorer"
+    ],
+    "pensees": [
+      "Je n'aurais pas dû ressentir ça.",
+      "Ce n'est pas ma place.",
+      "Si quelqu'un savait ce que je ressens en ce moment.",
+      "Ce serait une erreur.",
+      "Ce sentiment n'existe pas. Je me l'interdis.",
+      "Il ne faut pas que ça se voie.",
+      "Je ferai ce qu'il faut — même si ça coûte.",
+      "Ce n'est pas bien — mais c'est réel."
+    ],
+    "effetsVoixLangage": [
+      "voix légèrement trop formelle avec l'autre",
+      "distance dans les formulations qui contraste avec l'intensité intérieure",
+      "soin excessif dans les mots pour ne pas laisser passer quelque chose",
+      "silence brusque quand la conversation devient trop proche",
+      "changement de sujet qui ne correspond à rien de visible"
+    ],
+    "comportements": [
+      "maintient une distance rigoureuse",
+      "s'interdit les petits gestes naturels",
+      "évite les situations de proximité qui le mettraient en danger",
+      "compense par une froideur légèrement excessive",
+      "fait des choses pour l'autre de façon indirecte, sans explication",
+      "protège l'autre sans que ça se sache",
+      "quitte la pièce quand la situation devient trop chargée"
+    ],
+    "masquesPossibles": [
+      "professionnalisme rigide",
+      "indifférence jouée",
+      "brusquerie défensive",
+      "humour distanciateur"
+    ],
+    "evolutionsPossibles": [
+      "aveu si la retenue cède",
+      "refoulement durable si le personnage tient",
+      "rupture de la situation pour éviter la tentation",
+      "souffrance silencieuse si aucune issue n'est possible"
+    ],
+    "contextesAggravants": [
+      "lien hiérarchique ou professionnel avec l'autre",
+      "engagement amoureux existant de l'un ou l'autre",
+      "lien familial déplacé",
+      "situation de vulnérabilité de l'autre",
+      "proximité prolongée sans possibilité d'éviter"
+    ],
+    "contextesAttenuants": [
+      "distance géographique",
+      "changement de contexte qui rompt le lien",
+      "clarification du cadre de la relation"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère gêne", "description": "Le personnage remarque que l'autre compte un peu plus qu'il ne devrait. Pas de drame." },
+      { "niveau": 2, "label": "Affection inquiète", "description": "La tendresse est là et ça pose problème. Le personnage surveille ses propres réactions." },
+      { "niveau": 3, "label": "Tendresse coupable installée", "description": "Le sentiment est profond et difficile à ignorer. La culpabilité est constante." },
+      { "niveau": 4, "label": "Lutte intérieure intense", "description": "Le personnage est déchiré entre ce qu'il ressent et ce qu'il juge juste." },
+      { "niveau": 5, "label": "Impasse totale", "description": "La tendresse est trop forte pour être niée, trop interdite pour être exprimée. Le personnage est paralysé." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage très moral",
+        "description": "La culpabilité domine. Ressentir ce sentiment est déjà une faute. Il se punit lui-même bien avant d'avoir agi."
+      },
+      {
+        "profil": "Personnage pragmatique",
+        "description": "Reconnaît ce qu'il ressent, décide de ne pas en tenir compte. La lutte est moins morale que pratique. Il gère — jusqu'à ce qu'il ne puisse plus."
+      },
+      {
+        "profil": "Personnage ayant peu de repères",
+        "description": "Ne perçoit pas forcément le caractère interdit du sentiment, ou le réalise trop tard. La culpabilité arrive en retard, après l'action ou la révélation."
+      }
+    ],
+    "notesEditoriales": [
+      "La tendresse coupable est une émotion narrativement très fertile précisément parce qu'elle ne peut pas s'exprimer normalement.",
+      "Sa tension tient dans l'écart entre ce que le personnage ressent et ce qu'il montre.",
+      "Ne pas la réduire à l'attrait physique — la tendresse coupable peut être totalement pure et d'autant plus douloureuse.",
+      "Elle peut exister entre figures parentales, entre collègues, entre amis — pas seulement en contexte romantique."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "culpabilite" },
+      { "type": "peut_evoluer_en", "cible": "aveu" },
+      { "type": "peut_evoluer_en", "cible": "retrait-total" },
+      { "type": "peut_masquer", "cible": "amour" },
+      { "type": "souvent_associe_a", "cible": "tension-non-dite" },
+      { "type": "peut_declencher", "cible": "conflit-interieur" }
+    ]
+  },
+  {
+    "id": "attachement-anxieux",
+    "label": "Attachement anxieux",
+    "alias": [
+      "attachement anxieux",
+      "peur de perdre l'autre",
+      "amour envahissant",
+      "dépendance affective",
+      "besoin de rassurance",
+      "attachement collant",
+      "peur de l'abandon dans la relation",
+      "amour craintif",
+      "lien anxieux",
+      "affection inquiète"
+    ],
+    "famille": "amour-lien",
+    "definitionCourte": "Forme d'attachement dans laquelle le sentiment amoureux est indissociable d'une peur de l'abandon, qui pousse le personnage à chercher des confirmations permanentes et à interpréter les silences comme des menaces.",
+    "signesPhysiques": [
+      "regard qui guette les réactions de l'autre",
+      "corps légèrement tendu en présence de l'aimé",
+      "gestes de recherche de contact — main, bras",
+      "déglutitions fréquentes lors des moments de distance",
+      "voix qui se fait plus douce, presque suppliante",
+      "agitation visible quand l'autre ne répond pas",
+      "immobilité tendue dans l'attente d'une réponse"
+    ],
+    "sensationsInternes": [
+      "peur sourde permanente de la perte",
+      "besoin de confirmation qui ne se satisfait jamais longtemps",
+      "soulagement court suivi d'une nouvelle inquiétude",
+      "douleur intense lors de chaque distance",
+      "sentiment que l'autre ne peut pas vraiment l'aimer durablement",
+      "élan vers l'autre mêlé de peur de le repousser en étant trop présent"
+    ],
+    "pensees": [
+      "Est-ce qu'il est toujours là ?",
+      "Je n'ai rien fait de mal — peut-être que si.",
+      "Pourquoi il ne répond pas ?",
+      "Il finira par partir comme les autres.",
+      "Je prends trop de place.",
+      "Je devrais être moins démonstratif mais je n'y arrive pas.",
+      "Si je ne dis rien, il va croire que ça va — et ça n'ira pas.",
+      "Ce n'est pas normal d'avoir autant besoin d'être rassuré."
+    ],
+    "effetsVoixLangage": [
+      "questions répétées sur l'état de la relation",
+      "reformulations en cherchant une confirmation",
+      "silence suivi d'un débordement verbal",
+      "ton légèrement plus haut dans les moments d'insécurité",
+      "demandes indirectes de réassurance"
+    ],
+    "comportements": [
+      "envoie des messages quand l'autre ne répond pas",
+      "cherche des confirmations verbales régulières",
+      "interprète les silences comme des signes négatifs",
+      "fait des concessions excessives pour maintenir le lien",
+      "s'efface puis explose",
+      "surveille les comportements de l'autre avec l'entourage",
+      "met en scène des crises pour tester l'attachement de l'autre"
+    ],
+    "masquesPossibles": [
+      "désinvolture jouée",
+      "indépendance affichée",
+      "humour sur ses propres besoins",
+      "agressivité légère qui couvre la peur"
+    ],
+    "evolutionsPossibles": [
+      "confiance progressive si la relation est sécurisante",
+      "épuisement de l'autre si les besoins sont trop intenses",
+      "rupture provoquée par la peur de la rupture",
+      "travail intérieur si la blessure d'origine est reconnue"
+    ],
+    "contextesAggravants": [
+      "abandon ou rejet dans le passé",
+      "relation avec un partenaire distant ou imprévisible",
+      "silence ou froideur soudaine de l'autre",
+      "menace réelle ou perçue d'un rival",
+      "période de stress qui réduit les ressources disponibles"
+    ],
+    "contextesAttenuants": [
+      "relation stable et prévisible sur la durée",
+      "partenaire capable de nommer et d'honorer les besoins",
+      "travail thérapeutique ou prise de conscience",
+      "expérience répétée que l'autre revient"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère inquiétude affective", "description": "Le personnage a besoin de contact plus que la moyenne. Pas encore problématique." },
+      { "niveau": 2, "label": "Insécurité sensible", "description": "Les silences pèsent. Le personnage cherche des confirmations." },
+      { "niveau": 3, "label": "Attachement anxieux marqué", "description": "La peur de la perte infuse la relation. L'autre en prend conscience." },
+      { "niveau": 4, "label": "Dépendance affective", "description": "Le personnage ne peut pas fonctionner normalement sans contact régulier." },
+      { "niveau": 5, "label": "Lien de fusion", "description": "Le personnage perd ses repères quand l'autre n'est pas là. L'autonomie a disparu." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage conscient de son attachement anxieux",
+        "description": "Il sait ce qu'il fait mais ne peut pas s'en empêcher. La conscience ne suffit pas. Il observe son propre comportement avec une lucidité douloureuse."
+      },
+      {
+        "profil": "Personnage qui ignore sa propre blessure",
+        "description": "Croit être simplement quelqu'un qui aime fort. Ne comprend pas pourquoi ses relations finissent toujours de la même façon. La blessure est là mais pas nommée."
+      },
+      {
+        "profil": "Personnage avec partenaire distant",
+        "description": "L'attachement anxieux s'emballe face à quelqu'un d'imperméable. Plus l'autre recule, plus il s'approche. La dynamique les épuise tous les deux."
+      }
+    ],
+    "notesEditoriales": [
+      "L'attachement anxieux crée des dynamiques de couple très lisibles et très conflictuelles — narrativement utile.",
+      "Il n'est pas un défaut de caractère : c'est une réponse à une blessure ancienne.",
+      "Le montrer sans pathologiser : ce personnage aime réellement, il a juste peur.",
+      "L'écart entre ses besoins et ce que l'autre peut donner est le moteur du conflit."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "jalousie" },
+      { "type": "peut_evoluer_en", "cible": "rupture" },
+      { "type": "peut_evoluer_en", "cible": "confiance" },
+      { "type": "peut_masquer", "cible": "blessure-d-abandon" },
+      { "type": "peut_declencher", "cible": "conflit-de-couple" },
+      { "type": "souvent_associe_a", "cible": "peur-de-l-abandon" }
+    ]
+  }
+]

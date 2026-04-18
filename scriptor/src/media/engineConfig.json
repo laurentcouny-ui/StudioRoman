@@ -1,0 +1,8 @@
+﻿{
+  "defaultEngine": "pollinations",
+  "engines": {
+    "pollinations": { "enabled": true, "baseUrl": "https://image.pollinations.ai/prompt/" },
+    "leonardo": { "enabled": true, "baseUrl": "https://cloud.leonardo.ai/api/rest/v1/generations" },
+    "midjourney": { "enabled": true, "webUrl": "https://www.midjourney.com/imagine" }
+  }
+}

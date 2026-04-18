@@ -1,0 +1,8 @@
+services:
+  scriptor:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      # Données et clés : persistantes sur la machine hôte
+      - ./config:/app/config

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "medecin-urgentiste",
+    "label": "Médecin urgentiste",
+    "domaine": "médical",
+    "definitionCourte": "Personnage habitué à prendre des décisions irréversibles en quelques secondes, dans un chaos organisé où la mort est une variable ordinaire. Il voit les gens à leur point de rupture.",
+    "perceptionDuMonde": "Lit les situations en termes de priorités, de risques et de délais. Tendance à évaluer les gens par leur état de fonctionnement, à distinguer l'urgent du grave, à garder une distance émotionnelle comme mécanisme de survie. Le monde hors de l'hôpital lui semble souvent lent, peu grave, trop bruyant pour rien.",
+    "signesDistinctifs": [
+      "regard qui fait rapidement le tour d'une pièce à l'entrée, évalue les sorties, les risques",
+      "mains habituées à agir sans trembler même dans l'urgence",
+      "silence rapide sous le stress — économie de paroles quand l'action est nécessaire",
+      "réflexes ancrés : prend le pouls d'un geste naturel, remarque les pupilles, la respiration",
+      "tolérance élevée au bruit, au désordre, aux situations inconfortables",
+      "fatigue portée sans se plaindre, parfois sans même la percevoir",
+      "posture détendue dans les situations que les autres vivent comme des crises"
+    ],
+    "langageSpecifique": [
+      "vocabulaire médical entré dans le langage courant sans effort de traduction — 'il fait un choc', 'elle sature'",
+      "formulations directes et factuelles, sans adoucissement rhétorique",
+      "tendance à quantifier : 'il lui reste combien de temps', 'à combien tu l'évalues'",
+      "humour noir entre collègues comme soupape — incompris par ceux qui ne partagent pas le contexte",
+      "discours patient radicalement différent : plus doux, plus lent, plus métaphorique, comme une seconde langue"
+    ],
+    "tensionsTypiques": [
+      "conflit entre la nécessité de s'attacher et le besoin de rester fonctionnel émotionnellement",
+      "tension entre ce que la médecine peut faire et ce que le patient ou la famille veut entendre",
+      "épuisement structurel qui compromet la qualité de la présence humaine — on soigne mais on n'est plus vraiment là",
+      "culpabilité diffuse face aux morts qu'on n'a pas pu éviter, même quand tout a été fait correctement",
+      "décalage entre la vie à l'hôpital et la vie dehors — difficulté à réhabituer au monde ordinaire"
+    ],
+    "blessuresProfessionnelles": [
+      "mort d'un patient jeune, surtout un enfant, qui ne se digère jamais vraiment",
+      "erreur médicale — réelle ou perçue — qui continue à hanter même des années après",
+      "épuisement professionnel silencieux, progressif, nié jusqu'au point de rupture",
+      "déshumanisation progressive qui s'installe sans qu'on s'en aperçoive : les patients deviennent des dossiers"
+    ],
+    "usagesNarratifs": [
+      "personnage central d'un récit sur l'épuisement des soignants et la limite entre dévouement et destruction",
+      "figure de contraste dans un roman : quelqu'un qui gère des crises vitales et s'effondre sur une question intime",
+      "présence dans une scène d'urgence pour donner une perspective clinique — ce qu'il voit que les autres ne voient pas",
+      "personnage secondaire dont la profession explique des réflexes inattendus dans des scènes du quotidien"
+    ],
+    "notesEditoriales": [
+      "Éviter le cliché du héros médical au bloc opératoire — les urgentistes passent autant de temps à gérer l'humain qu'à soigner.",
+      "La distance émotionnelle n'est pas de la froideur : c'est un mécanisme appris, coûteux, parfois douloureusement conscient.",
+      "Le décalage entre la vie professionnelle et la vie intime est souvent la vraie friction narrative de ce personnage.",
+      "Attention aux détails techniques : un lecteur médecin repérera immédiatement les erreurs — un minimum de recherche s'impose."
+    ]
+  },
+  {
+    "id": "avocat-penaliste",
+    "label": "Avocat pénaliste",
+    "domaine": "juridique",
+    "definitionCourte": "Personnage qui vit dans l'interface entre la loi et la réalité humaine, défendant des gens qu'il n'estime pas forcément pour préserver un principe qui le dépasse. Il connaît les mots qui tuent et ceux qui sauvent.",
+    "perceptionDuMonde": "Pense en termes de récits concurrents, de preuves, de ce qui peut être dit et ce qui doit rester tu. Évalue constamment la cohérence des histoires qu'on lui raconte. Méfiance professionnelle envers les évidences et les certitudes des autres. Sait que la vérité et la culpabilité sont deux choses différentes.",
+    "signesDistinctifs": [
+      "écoute active et silencieuse, avec des relances précises qui destabilisent",
+      "peu de gestes parasites — économie gestuelle qui donne une impression de contrôle permanent",
+      "regard qui s'arrête sur les contradictions sans les signaler immédiatement",
+      "mémoire des détails — noms, dates, formulations — retenue sans effort apparent",
+      "façon de poser une question qui ressemble à une affirmation",
+      "aisance dans le silence, utilisé comme outil dans les conversations",
+      "discours structuré même dans le registre intime — introduit, argumente, conclut"
+    ],
+    "langageSpecifique": [
+      "précision lexicale extrême : les mots ont un sens technique et il ne les confond pas",
+      "reformulations fréquentes — 'ce que vous me dites, c'est que...' — pour vérifier et cadrer",
+      "usage du conditionnel et du subjonctif là où d'autres seraient plus affirmatifs",
+      "humour au second degré, parfois incompris — il dit des choses graves avec un ton léger",
+      "tendance à contextualiser avant d'affirmer : 'dans ce cas précis', 'au sens strictement juridique'"
+    ],
+    "tensionsTypiques": [
+      "tension entre la conviction personnelle sur la culpabilité du client et l'obligation professionnelle de le défendre",
+      "conflit entre la performance rhétorique et l'honnêteté — savoir convaincre d'une chose qu'on ne croit pas",
+      "épuisement moral face aux dossiers lourds : crimes contre enfants, violences systémiques, injustices irréparables",
+      "rapport à la vérité : être payé pour construire une version du réel qui serve son client",
+      "pression financière — les affaires pénales sont souvent mal payées, les clients souvent insolvables"
+    ],
+    "blessuresProfessionnelles": [
+      "client condamné qu'il savait innocent — impuissance face à un système qu'il ne peut pas corriger seul",
+      "client acquitté dont la dangerosité s'est confirmée après le procès — question de la complicité par compétence",
+      "carrière construite sur des victoires qui ont parfois eu des victimes",
+      "cynisme progressif — au début on croit changer quelque chose, à la fin on gère des dossiers"
+    ],
+    "usagesNarratifs": [
+      "personnage central d'un récit moral sur la défense de l'indéfendable et ce que ça coûte",
+      "figure de tension dans une enquête : il sait des choses qu'il ne peut pas dire — le secret professionnel comme contrainte dramatique",
+      "personnage dont la compétence rhétorique est aussi une arme dans sa vie personnelle — et un problème",
+      "présence dans des scènes de confrontation où il déstabilise les autres par ses questions plutôt que ses affirmations"
+    ],
+    "notesEditoriales": [
+      "Le pénaliste ne croit pas en la culpabilité ou l'innocence — il croit en la preuve. Cette nuance est dramatiquement très fertile.",
+      "Éviter le cliché de l'avocat sans scrupules : la plupart ont une éthique interne complexe, pas absente.",
+      "Sa façon de parler dans la vie privée peut être une source de tension comique ou dramatique — il argumente, même à la maison.",
+      "Les affaires réelles qui ont marqué sa carrière peuvent transparaître sans être nommées — à utiliser en sous-texte."
+    ]
+  },
+  {
+    "id": "enseignant-secondaire",
+    "label": "Enseignant au collège/lycée",
+    "domaine": "éducation",
+    "definitionCourte": "Personnage qui passe ses journées à essayer de transmettre quelque chose à des gens qui n'ont pas demandé à être là. Entre la discipline, la passion et le désenchantement, il tient debout grâce à quelques élèves et une résistance tranquille.",
+    "perceptionDuMonde": "Voit les gens en termes de potentiel et de freins. Sensible aux dynamiques de groupe, aux hiérarchies non dites, aux adolescents qui font du bruit pour couvrir leur fragilité. Tendance à expliquer et à reformuler spontanément. Évaluation permanente inconsciente des situations — qui comprend, qui décroche, qui souffre sans le dire.",
+    "signesDistinctifs": [
+      "voix qui porte sans effort, habituée à remplir une salle",
+      "capacité à parler devant un groupe sans perdre le fil de sa pensée",
+      "regard qui fait le tour de la pièce régulièrement, vérifie sans avoir l'air de surveiller",
+      "reformulation spontanée quand l'interlocuteur ne semble pas avoir compris",
+      "patience visible à court terme, épuisement silencieux à long terme",
+      "sens de l'organisation hérité de la gestion de classe — listes, priorités, cadre",
+      "réaction calibrée aux provocations — ni ignorée ni amplifiée"
+    ],
+    "langageSpecifique": [
+      "formulations inclusives habituelles : 'on va voir ensemble', 'vous me suivez ?'",
+      "tendance à illustrer les idées abstraites par des exemples concrets spontanément",
+      "usage fréquent de l'interrogatif pour faire réfléchir plutôt qu'affirmer",
+      "langage adaptatif — registre différent selon l'interlocuteur, passage fluide entre les niveaux",
+      "expressions de la salle de classe qui s'infiltrent dans le quotidien : 'prenons un moment pour', 'revenons à l'essentiel'"
+    ],
+    "tensionsTypiques": [
+      "conflit entre la passion pour la matière et la résistance ou l'indifférence des élèves",
+      "tension entre l'autorité institutionnelle et la relation humaine — être respecté ou être aimé",
+      "épuisement face à l'injonction à être à la fois pédagogue, psychologue, médiateur et garant de l'ordre",
+      "décalage entre l'idéal vocationnel du début et la réalité administrative et matérielle du métier",
+      "rapport à certains élèves en difficulté dont le devenir reste une question ouverte, parfois toute une vie"
+    ],
+    "blessuresProfessionnelles": [
+      "élève dont la chute n'a pas pu être empêchée malgré l'attention portée",
+      "classe perdue — une année entière où rien n'a passé, où tout a résisté",
+      "mépris social diffus pour un métier que tout le monde croit connaître de l'extérieur",
+      "sentiment d'invisibilité institutionnelle — faire bien ne laisse pas de trace, faire mal est immédiatement visible"
+    ],
+    "usagesNarratifs": [
+      "personnage observateur dans un récit centré sur des adolescents — il voit ce que les parents ne voient pas",
+      "figure de transmission dans un récit de formation — ce qu'on garde d'un enseignant des décennies plus tard",
+      "personnage dont la vie privée contraste fortement avec la vie professionnelle — deux mondes étanches qui finissent par se toucher",
+      "présence dans des scènes de tension collective pour montrer la gestion du groupe sous pression"
+    ],
+    "notesEditoriales": [
+      "Éviter la caricature en deux sens : ni le professeur héros qui sauve tout le monde, ni le désabusé qui n'en a plus rien à faire.",
+      "Les meilleurs personnages enseignants ont une matière précise — ce qu'ils enseignent dit quelque chose sur qui ils sont.",
+      "Les élèves qu'il préfère ou qu'il a abandonnés en silence sont des leviers narratifs très efficaces.",
+      "Le rapport à l'institution — syndicat, hiérarchie, réforme — peut être une source de conflit discret mais persistant."
+    ]
+  },
+  {
+    "id": "infirmier",
+    "label": "Infirmier/Infirmière",
+    "domaine": "médical",
+    "definitionCourte": "Personnage qui reste quand le médecin est parti, qui tient la main, refait le pansement, entend la peur de trois heures du matin. Il est le corps du soin là où le médecin en est souvent la tête.",
+    "perceptionDuMonde": "Attentif aux signaux non verbaux, aux variations subtiles, aux corps qui parlent sans que les gens parlent. Rapport direct à la matière humaine — la douleur, l'odeur, la fragilité physique — qui construit une forme de familiarité avec la vulnérabilité. Tendance à voir ce que les familles et les médecins ne voient pas.",
+    "signesDistinctifs": [
+      "gestes précis et économes — pas de geste inutile, chaque mouvement a une fonction",
+      "observation continue sans paraître surveiller — présence sans intrusion",
+      "aisance avec les corps des autres, sans pudeur disproportionnée ni indiscrétion",
+      "mémoire des préférences et habitudes des patients réguliers — les petits détails qui comptent",
+      "résistance physique développée — debout depuis six heures, encore capable d'écouter vraiment",
+      "humor de décalage dans les couloirs, absent au chevet — deux registres très différents",
+      "capacité à rassurer avec peu de mots et beaucoup de présence"
+    ],
+    "langageSpecifique": [
+      "voix qui baisse d'un cran naturellement quand on entre dans une chambre",
+      "formulations douces mais directes — pas de détour, mais sans brutalité",
+      "usage du prénom du patient comme ancre de présence",
+      "langage interne médical avec les collègues, langage humain avec les patients — passage fluide",
+      "économie de promesses — il dit ce qu'il peut faire, pas ce que le patient voudrait entendre"
+    ],
+    "tensionsTypiques": [
+      "tension entre la charge de travail et la qualité de présence — on voudrait rester, on doit partir",
+      "invisibilité hiérarchique face au médecin, alors qu'on passe plus de temps avec le patient",
+      "confrontation quotidienne à la mort et à la souffrance sans la distance de l'acte médical",
+      "lien fort avec certains patients à long terme — séparation ou décès vécu de près",
+      "burn-out silencieux — on tient parce qu'on croit en ce qu'on fait, puis un jour on ne peut plus"
+    ],
+    "blessuresProfessionnelles": [
+      "patient mort seul pendant une nuit chargée — on n'était pas là au bon moment",
+      "violence d'un patient ou d'une famille qui n'est jamais vraiment traitée institutionnellement",
+      "sentiment d'être instrumentalisé — indispensable mais ni reconnu ni considéré",
+      "dissonance entre la vocation initiale et la réalité logistique et administrative du métier"
+    ],
+    "usagesNarratifs": [
+      "personnage témoin privilégié dans un récit hospitalier — il entend les confidences de nuit",
+      "figure d'attachement pour un patient isolé — relation qui déborde les cadres professionnels",
+      "contraste utile avec le médecin : même environnement, rapport au soin radicalement différent",
+      "personnage portant une fatigue invisible qui explose dans la vie privée de façon inattendue"
+    ],
+    "notesEditoriales": [
+      "Ne pas confondre l'infirmier avec l'assistant du médecin — il a une expertise propre, une autonomie réelle, un rôle central.",
+      "La relation avec les patients de longue durée est une mine narrative : intimité construite dans un cadre très codifié.",
+      "Attention à ne pas en faire un personnage purement sacrificiel — sa vie hors de l'hôpital doit exister et respirer.",
+      "Le genre du personnage change la façon dont les patients et les médecins l'adressent — un infirmier homme vit des dynamiques différentes."
+    ]
+  },
+  {
+    "id": "policier",
+    "label": "Policier",
+    "domaine": "sécurité",
+    "definitionCourte": "Personnage qui vit dans l'interface entre l'ordre et le chaos, entre la loi et la réalité des rues. Il est formé à voir le danger avant qu'il arrive et à ne pas montrer ce que ça lui coûte.",
+    "perceptionDuMonde": "Lit l'espace et les corps en termes de menace potentielle, de comportement anormal, de détails que les autres ne voient pas. Tendance à la méfiance initiale comme réflexe de survie appris. Vision du monde souvent binaire en surface — coupable/innocent, dangereux/inoffensif — avec une complexité croissante à mesure de l'expérience.",
+    "signesDistinctifs": [
+      "s'assoit toujours dos au mur, face à la porte — positionnement tactique devenu habitude",
+      "regard qui balaie l'espace à l'entrée, identifie les sorties, évalue les personnes présentes",
+      "démarche légèrement en avant, alerte, jamais tout à fait détendu dans un espace inconnu",
+      "mains libres — ne les met pas dans les poches dans les endroits inconnus",
+      "mémoire des plaques d'immatriculation, des visages, des détails — activée sans effort conscient",
+      "réactions mesurées dans les conflits ordinaires — ni n'escalade, ni ne fuit",
+      "distance de sécurité maintenue instinctivement avec les inconnus"
+    ],
+    "langageSpecifique": [
+      "formulations factuelles, sans adjectifs inutiles — les faits, leur chronologie, leur conséquence",
+      "usage du passif pour dépersonnaliser dans les rapports, usage direct en privé",
+      "questions ouvertes d'abord, fermées ensuite — technique d'interrogatoire transposée dans le quotidien",
+      "jargon professionnel avec les collègues : codes, sigles, noms des procédures",
+      "ton particulier avec le public selon le contexte — autorité tempérée, autorité ferme, présence rassurante"
+    ],
+    "tensionsTypiques": [
+      "tension entre l'institution et la morale personnelle — appliquer des règles qu'on ne juge pas toujours justes",
+      "violence psychologique de la confrontation répétée avec la misère, la violence, l'injustice",
+      "conflit entre la loyauté au corps et la dénonciation d'un collègue fautif",
+      "rapport à l'autorité : être l'autorité pour les autres tout en étant soumis à une hiérarchie",
+      "décalage entre la vie professionnelle et la vie intime — difficile d'éteindre les réflexes de veille"
+    ],
+    "blessuresProfessionnelles": [
+      "violence subie ou exercée qui a laissé une empreinte durable — acte sur le terrain qui ne passe pas",
+      "erreur qui a eu des conséquences irréparables sur quelqu'un d'innocent",
+      "usure par exposition répétée à la violence sans soutien psychologique institutionnel",
+      "cynisme construit comme protection — plus capable de croire en ce pour quoi on avait rejoint le métier"
+    ],
+    "usagesNarratifs": [
+      "personnage d'enquête classique, mais rendu intéressant par ses contradictions plutôt que par ses compétences",
+      "figure d'autorité ambivalente dans un récit sur la justice — il représente la loi mais pas forcément le juste",
+      "personnage en décalage dans la vie privée — ses réflexes professionnels créent des tensions domestiques",
+      "témoin d'une scène clé dont la lecture policière diffère de celle des autres personnages présents"
+    ],
+    "notesEditoriales": [
+      "Éviter les deux clichés opposés : le flic héroïque sans failles et le flic corrompu sans nuance.",
+      "L'institution policière est un personnage en soi dans le récit — le rapport du policier à son institution est toujours dramatiquement riche.",
+      "Le grade et la spécialité comptent : un gardien de la paix, un capitaine de brigade criminelle et un policier de proximité n'ont pas du tout le même rapport au travail.",
+      "Les études de la littérature policière montrent que c'est souvent la vie privée du policier qui fait le roman, pas l'enquête."
+    ]
+  },
+  {
+    "id": "artiste-peintre",
+    "label": "Peintre/Artiste plasticien",
+    "domaine": "artistique",
+    "definitionCourte": "Personnage dont le rapport au monde passe d'abord par le visible, la couleur, la forme, la texture. Il traduit ce qu'il vit en images avant de le traduire en mots — et parfois ne le traduit qu'en images.",
+    "perceptionDuMonde": "Voit la lumière avant les objets, les ombres avant les visages. Tendance à cadrer mentalement les scènes, à noter les couleurs des choses ordinaires, à ressentir les espaces physiquement avant de les analyser. Rapport au temps non linéaire — une toile prend le temps qu'elle prend.",
+    "signesDistinctifs": [
+      "mains souvent marquées — taches de pigment sous les ongles, callus spécifiques",
+      "regard qui s'attarde sur des détails inattendus : la lumière sur un mur, la texture d'un tissu",
+      "silences confortables — capacité à rester sans parler sans que ce soit un malaise",
+      "rapport détendu au désordre de l'espace de travail, inconfort dans les espaces trop lisses",
+      "mémoire visuelle très précise — se souvient des couleurs, des positions, des éclairages",
+      "difficulté parfois à verbaliser ce qui fonctionne ou ne fonctionne pas dans son travail",
+      "réaction physique aux espaces : lumière naturelle, espace, hauteur sous plafond — il les évalue"
+    ],
+    "langageSpecifique": [
+      "métaphores visuelles spontanées — décrit les émotions en termes de couleurs, de lumière, de composition",
+      "vocabulaire technique précis pour les matières et les techniques : pigments, médiums, formats, supports",
+      "difficulté à parler de son propre travail en termes non techniques — 'ça marche' ou 'ça ne marche pas'",
+      "enthousiasme soudain et détaillé sur des sujets visuels — couleurs d'une ville, lumière d'une saison",
+      "pudeur ou résistance quand on lui demande ce que son œuvre 'signifie'"
+    ],
+    "tensionsTypiques": [
+      "tension entre la nécessité économique et l'intégrité du travail — ce qu'on vend et ce qu'on fait vraiment",
+      "rapport ambigu au marché de l'art — besoin de reconnaissance et méfiance envers le système qui la donne",
+      "solitude inhérente à la création — des heures seul, avec son travail, sans validation extérieure",
+      "doute permanent sur la valeur de ce qu'on fait — la confiance d'un jour peut s'effondrer le lendemain",
+      "rapport au corps du travail accumulé : toiles stockées, vendues, perdues, détruites"
+    ],
+    "blessuresProfessionnelles": [
+      "rejet critique ou commercial d'un travail dans lequel on s'est profondément investi",
+      "période de blocage créatif — l'impossibilité de faire, vécu comme une perte d'identité",
+      "travail copié, volé ou plagié sans recours possible",
+      "trahison d'un galeriste, d'un commanditaire ou d'un collègue sur lequel on comptait"
+    ],
+    "usagesNarratifs": [
+      "personnage dont l'atelier est un espace dramatique en soi — on peut lire sa vie dans ce qu'il a peint",
+      "figure de perception dans un récit — il voit ce que les autres ne voient pas, et parfois le dit autrement",
+      "personnage en tension autour d'une œuvre clé — une toile qui concentre tout un conflit intérieur",
+      "relation avec un commanditaire, un galeriste ou un collègue comme source de friction dramatique"
+    ],
+    "notesEditoriales": [
+      "Éviter l'artiste bohème romantique ou l'artiste torturé cliché — la banalité quotidienne de la création est plus intéressante.",
+      "Son rapport à son propre travail est toujours ambigu : fierté, honte, distance, attachement excessif — rarement simple.",
+      "Le type de peinture ou de pratique artistique doit être précis et cohérent avec le personnage — vague n'est pas suffisant.",
+      "Sa façon de regarder les autres personnages — comme des sujets potentiels, des compositions — peut être une source de tension relationnelle."
+    ]
+  },
+  {
+    "id": "journaliste",
+    "label": "Journaliste",
+    "domaine": "médias",
+    "definitionCourte": "Personnage dont le métier est d'aller chercher ce qu'on ne lui dit pas et de le rendre visible. Il vit entre la curiosité, le doute, la pression et la question de ce que la vérité coûte une fois trouvée.",
+    "perceptionDuMonde": "Voit le monde en termes de sources, de contradictions, d'angles possibles et de ce qui manque dans la version officielle. Méfiance instinctive des discours préparés, des gens trop lisses, des coïncidences trop propres. Rapport à la narration très conscient — sait que toute histoire est une construction.",
+    "signesDistinctifs": [
+      "carnet ou dictaphone toujours à portée — note sans avoir l'air de noter",
+      "écoute active mais distante — laisse les silences se remplir sans les combler",
+      "questions posées de façon indirecte pour éviter les réponses préformatées",
+      "mémoire des noms, des dates, des détails publics — informations recoupées en continu",
+      "rapport au temps tendu : toujours une deadline, même hors du bureau",
+      "posture d'observateur dans les situations collectives — en retrait, il regarde avant de participer",
+      "attention aux micros-expressions, aux formulations qui glissent, aux non-dits"
+    ],
+    "langageSpecifique": [
+      "formulations économes, actives, sans adjectifs superflus — l'écriture de presse entre dans le langage oral",
+      "questions faussement naïves pour obtenir des précisions que l'autre n'aurait pas données spontanément",
+      "sourcing permanent : 'selon qui ?', 'à quelle date ?', 'comment tu le sais ?'",
+      "débit rapide dans les conversations informelles, ralenti dans les interviews — deux vitesses distinctes",
+      "humour de presse — distance ironique sur les événements, surtout les graves"
+    ],
+    "tensionsTypiques": [
+      "conflit entre l'intérêt public d'une information et le dommage personnel de sa publication",
+      "tension entre la loyauté envers une source et les exigences de la rédaction",
+      "pression économique des médias — publier vite versus publier bien",
+      "rapport à la vérité dans un environnement où la vérité partielle est la norme",
+      "usure par exposition répétée aux zones de conflit, de violence ou de misère — traumatisme vicaire"
+    ],
+    "blessuresProfessionnelles": [
+      "enquête qui a eu des conséquences graves sur une source ou un sujet — responsabilité non assumée par la rédaction",
+      "information publiée trop vite, incomplète ou fausse — erreur qui ne s'efface pas",
+      "menaces, pressions ou censure exercées sur un travail qui comptait",
+      "désillusion progressive sur la capacité du journalisme à changer quoi que ce soit"
+    ],
+    "usagesNarratifs": [
+      "personnage d'enquête alternatif au policier — il cherche la vérité sans les mêmes outils ni les mêmes contraintes légales",
+      "figure de tension dans un récit politique ou social — ce qu'il sait, quand il peut le dire, à qui",
+      "personnage dont la vie personnelle est sacrifiée à la mission professionnelle — coût invisible jusqu'à la rupture",
+      "présence dans des scènes de révélation comme catalyseur — il est là quand la vérité éclate"
+    ],
+    "notesEditoriales": [
+      "La spécialisation du journaliste compte beaucoup : reporter de guerre, journaliste d'investigation, pigiste culturel — ce ne sont pas les mêmes personnages.",
+      "Éviter le cliché du journaliste sans scrupules prêt à tout pour son scoop — ou de l'héroïque chercheur de vérité sans ambiguïté.",
+      "Son rapport à ses sources est l'un des fils dramatiques les plus riches : confiance, trahison, dette, protection.",
+      "La question de ce qu'on publie et de ce qu'on garde dans ses tiroirs est une tension morale permanente, peu exploitée."
+    ]
+  },
+  {
+    "id": "travailleur-social",
+    "label": "Travailleur social",
+    "domaine": "social",
+    "definitionCourte": "Personnage qui travaille dans l'espace entre les gens en difficulté et les institutions censées les aider. Il connaît les deux langues — celle des dossiers et celle des vies — et ne peut jamais tout à fait les réconcilier.",
+    "perceptionDuMonde": "Voit la structure sociale derrière les situations individuelles — la pauvreté, la violence, l'exclusion comme systèmes, pas seulement comme histoires personnelles. Résistance acquise à la tentation de sauver seul — ou à la désillusion qui suit. Rapport complexe à l'impuissance : il ne peut pas tout, mais s'arrêter n'est pas une option.",
+    "signesDistinctifs": [
+      "écoute sans jugement apparent même dans des situations que d'autres trouveraient choquantes",
+      "capacité à adapter son registre de façon fluide selon l'interlocuteur",
+      "connaissance pratique des ressources disponibles — qui appeler, quel formulaire, quel délai",
+      "rapport au corps et à la proximité physique détendu — les bureaux sont souvent trop petits",
+      "mémoire des situations en cours, des noms, des dates clés de suivi",
+      "fatigue visible en fin de journée, dissimulée en début — il faut tenir pour que les autres tiennent",
+      "humour discret utilisé pour dédramatiser, jamais aux dépens des personnes suivies"
+    ],
+    "langageSpecifique": [
+      "vocabulaire institutionnel maîtrisé mais traduit spontanément pour les personnes suivies",
+      "formulations qui laissent de la place — 'vous pouvez me dire', 'si vous le souhaitez'",
+      "usage du 'on' collectif pour inclure sans imposer",
+      "prudence dans les formulations d'espoir — ne promet pas ce qu'il ne peut pas garantir",
+      "récit des situations en termes de ressources et d'obstacles plutôt que de bien et de mal"
+    ],
+    "tensionsTypiques": [
+      "conflit entre l'intérêt de la personne suivie et les obligations légales ou institutionnelles",
+      "tension entre l'attachement personnel et la nécessaire distance professionnelle",
+      "surcharge permanente — trop de dossiers, pas assez de temps, ressources insuffisantes",
+      "sentiment d'impuissance face à des systèmes qui produisent les problèmes qu'on lui demande de résoudre",
+      "question de l'efficacité réelle — ce qu'on fait change-t-il vraiment quelque chose ?"
+    ],
+    "blessuresProfessionnelles": [
+      "enfant confié à une famille d'accueil qu'on pensait sûre — la suite a été mauvaise",
+      "personne suivie qui disparaît ou qui meurt sans qu'on ait pu faire plus",
+      "burn-out profond, souvent nié jusqu'au bout — le métier de l'aide ne tolère pas la fragilité avouée",
+      "sentiment de trahison institutionnelle — on t'a formé à aider, le système t'empêche de le faire"
+    ],
+    "usagesNarratifs": [
+      "personnage privilégié dans des récits sur la précarité, l'enfance en danger, les invisibles sociaux",
+      "figure de connexion entre des mondes qui ne se parlent pas — il passe de l'un à l'autre",
+      "personnage dont la vie personnelle souffre de la charge émotionnelle du travail — frontières poreuses",
+      "présence dans des scènes de révélation — il est souvent le premier à savoir ce que personne ne voulait voir"
+    ],
+    "notesEditoriales": [
+      "Les travailleurs sociaux sont massivement sous-représentés dans la fiction alors qu'ils voient des pans entiers de la réalité ignorés.",
+      "Eviter le sauveur blanc ou la figure sacrificielle épuisée — la complexité de ce métier mérite mieux.",
+      "Sa connaissance du système est un atout narratif énorme : il sait comment les choses fonctionnent vraiment, pas officiellement.",
+      "Le rapport aux familles suivies sur le long terme produit une intimité très particulière — ni amitié ni simple relation professionnelle."
+    ]
+  },
+  {
+    "id": "cuisinier",
+    "label": "Cuisinier/Chef",
+    "domaine": "artisanat",
+    "definitionCourte": "Personnage dont l'art est éphémère — on mange ce qu'il fait, puis ça disparaît. Il travaille dans l'urgence, la chaleur, le bruit, avec une précision qui laisse peu de place à l'erreur et aucune place à la mauvaise journée.",
+    "perceptionDuMonde": "Rapport sensoriel intense au monde — goûte, sent, touche avant de voir. Sensible aux saisons, aux produits, aux fournisseurs. Rapport au temps découpé en services — avant, pendant, après — avec une intensité qui n'a pas d'équivalent dans beaucoup de métiers. Perfectionnisme souvent difficile à éteindre hors du contexte professionnel.",
+    "signesDistinctifs": [
+      "mains marquées — cicatrices de coupures et de brûlures accumulées, peau calleuse",
+      "rapport au temps très précis — sait à la seconde où en est une cuisson",
+      "capacité à agir vite sans s'agiter — l'urgence est une condition de travail normale",
+      "dos souvent douloureux, stations debout prolongées absorbées sans commentaire",
+      "odorat et goût hyperactifs — remarque immédiatement les odeurs de cuisson dans n'importe quel espace",
+      "économie gestuelle en cuisine — pas de mouvement inutile, l'espace est toujours compté",
+      "rapport à la nourriture en dehors du travail souvent ambigu : plaisir ou indifférence totale"
+    ],
+    "langageSpecifique": [
+      "ordres brefs en cuisine — la communication est fonctionnelle, pas relationnelle pendant le service",
+      "vocabulaire technique précis : 'mettre en place', 'tourner', 'monter', 'lier' — intraduisibles pour les autres",
+      "critique des plats en termes d'équilibre, de texture, de température — jamais vague",
+      "humour de brigade — souvent cru, parfois impénétrable pour les extérieurs",
+      "discours sur la nourriture empreint d'une sensibilité presque artistique, en dehors du service"
+    ],
+    "tensionsTypiques": [
+      "tension entre la créativité et la rentabilité — ce qu'on veut cuisiner et ce qui se vend",
+      "rapport à l'équipe de brigade — autorité nécessaire dans un espace sous pression, violence ordinaire parfois",
+      "conflit entre la vie de cuisine — horaires décalés, weekends travaillés — et la vie personnelle",
+      "rapport à la critique extérieure : les avis clients, les critiques gastronomiques, la note en ligne",
+      "vieillissement du corps face aux exigences physiques du métier — jusqu'où peut-on tenir ?"
+    ],
+    "blessuresProfessionnelles": [
+      "service catastrophique vécu comme une honte collective irréparable",
+      "restaurant fermé — perte d'un projet dans lequel tout avait été investi",
+      "conflits de brigade — violence physique ou psychologique exercée ou subie, rarement dite",
+      "perte d'un mentor qui avait été déterminant dans la formation et l'identité professionnelle"
+    ],
+    "usagesNarratifs": [
+      "personnage dont l'espace de travail — la cuisine — est un univers dramatique très fort en termes de hiérarchie et de pression",
+      "figure sensorielle dans un récit : sa façon de voir le monde par le goût et l'odeur enrichit la narration",
+      "personnage en décalage dans la vie sociale ordinaire — les horaires, les références, les habitudes sont différents",
+      "relation maître-apprenti comme structure narrative classique mais très vivante dans ce contexte"
+    ],
+    "notesEditoriales": [
+      "La distinction entre chef de cuisine et cuisinier de brigade n'est pas anodine — la position hiérarchique change tout.",
+      "Éviter la glorification romantique du chef étoilé — la réalité des cuisines professionnelles est souvent dure et peu glamour.",
+      "Le rapport à la nourriture en dehors du travail est complexe : certains ne mangent plus avec plaisir, d'autres vivent pour ça.",
+      "Les cicatrices sur les mains sont un signe distinctif discret et très efficace pour ancrer le personnage sans exposition."
+    ]
+  },
+  {
+    "id": "veterinaire",
+    "label": "Vétérinaire",
+    "domaine": "médical",
+    "definitionCourte": "Personnage qui soigne des patients qui ne peuvent pas dire où ils ont mal, avec des propriétaires qui projettent tout sur leur animal. Il est à la fois médecin, détective et médiateur émotionnel.",
+    "perceptionDuMonde": "Attentif aux corps et aux comportements non verbaux — animaux comme humains. Lecture des dynamiques relationnelles entre propriétaire et animal comme miroir de quelque chose de plus vaste. Rapport à la mort plus direct que beaucoup de soignants — l'euthanasie est une pratique régulière, légale, vécue comme un acte de soin.",
+    "signesDistinctifs": [
+      "approche corporelle détendue avec les animaux — gestes lents, voix basse, sans brusquerie",
+      "observation du comportement animal avant de toucher — lit la posture, les yeux, la respiration",
+      "mains habituées aux corps de toutes tailles — du chat au cheval",
+      "vêtements qui gardent la trace du travail — poils, odeurs, taches — acceptés sans gêne",
+      "lecture simultanée de l'animal et du propriétaire — les deux font partie du diagnostic",
+      "économie de mots dans les explications techniques, précision dans les questions",
+      "rapport très calme aux situations qui sembleraient urgentes à d'autres"
+    ],
+    "langageSpecifique": [
+      "adaptation constante du discours selon le propriétaire — technique pour les professionnels, imagé pour les autres",
+      "questions indirectes sur les conditions de vie, les habitudes, les stress du foyer — l'animal comme indicateur",
+      "vocabulaire latin de la médecine animale, traduit ou non selon le contexte",
+      "formulations douces pour annoncer des nouvelles graves — 'la qualité de vie devient compromise'",
+      "silence confortable pendant l'examen — n'explique pas tout en temps réel, observe d'abord"
+    ],
+    "tensionsTypiques": [
+      "tension entre la décision médicale et la capacité financière ou émotionnelle du propriétaire",
+      "conflit entre ce qui est médicalement souhaitable et ce que le propriétaire peut entendre",
+      "rapport à l'euthanasie — acte de soin régulier qui laisse des traces même quand il est justifié",
+      "décalage entre l'amour porté par le propriétaire à son animal et la réalité médicale de la situation",
+      "conditions de travail physiques — animaux grands, imprévisibles, douloureux — qui exposent aux accidents"
+    ],
+    "blessuresProfessionnelles": [
+      "animal sacrifié par contrainte financière alors qu'un traitement était possible",
+      "erreur de diagnostic avec des conséquences irréparables",
+      "euthanasie d'un animal aimé du propriétaire vécu dans l'empathie — accumulation de ces moments",
+      "violence d'un animal panique ou d'un propriétaire en détresse — physique et psychologique"
+    ],
+    "usagesNarratifs": [
+      "personnage dont le rapport aux animaux révèle quelque chose sur son rapport aux humains",
+      "présence dans une scène de crise familiale où l'animal malade est le déclencheur d'une tension latente",
+      "figure de médiation dans un récit — il voit la relation propriétaire-animal comme symptôme de quelque chose de plus large",
+      "personnage secondaire utile pour ancrer une scène dans une réalité concrète et souvent peu représentée"
+    ],
+    "notesEditoriales": [
+      "La spécialité du vétérinaire change tout : vétérinaire rurale (bovins, équins) versus vétérinaire urbaine (chats, chiens) sont deux personnages différents.",
+      "Le rapport à l'euthanasie est un aspect unique de ce métier — rarement exploré avec la complexité qu'il mérite.",
+      "Les propriétaires d'animaux sont souvent des personnages secondaires très révélateurs : ce que les gens font pour leur animal dit quelque chose sur eux.",
+      "Éviter de faire du vétérinaire un simple amoureux des animaux : c'est d'abord quelqu'un qui prend des décisions difficiles dans des situations complexes."
+    ]
+  }
+]

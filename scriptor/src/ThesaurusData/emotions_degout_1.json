@@ -1,0 +1,478 @@
+[
+  {
+    "id": "degout",
+    "label": "Dégoût",
+    "alias": [
+      "dégoût",
+      "dégout",
+      "répugnance",
+      "aversion",
+      "nausée morale",
+      "répulsion",
+      "écœurement",
+      "horreur physique",
+      "revulsion",
+      "dégoût viscéral",
+      "nausée"
+    ],
+    "famille": "degout-mepris",
+    "definitionCourte": "Réaction d'évitement intense face à quelque chose perçu comme contaminant, immoral ou physiquement repoussant, qui mobilise le corps avant la pensée.",
+    "signesPhysiques": [
+      "lèvre supérieure relevée d'un côté",
+      "narines qui se pincent ou se contractent",
+      "regard qui se détourne ou se ferme à demi",
+      "recul physique involontaire",
+      "menton qui rentre légèrement",
+      "sourcils froncés et abaissés",
+      "bouche qui se tord ou qui se referme",
+      "frissons courts sur les bras",
+      "nausée perceptible dans l'expression",
+      "main qui se lève pour faire barrage"
+    ],
+    "sensationsInternes": [
+      "nausée légère à forte selon l'intensité",
+      "contraction de l'estomac",
+      "salivation augmentée juste avant la nausée",
+      "impression de contamination même sans contact",
+      "besoin urgent de distance",
+      "chair de poule",
+      "sensation désagréable sur la peau ou dans la bouche sans raison physique"
+    ],
+    "pensees": [
+      "C'est immonde.",
+      "Je ne veux pas toucher ça.",
+      "Comment est-ce que quelqu'un peut faire ça ?",
+      "Je dois m'éloigner.",
+      "Juste y penser me rend malade.",
+      "Ça ne devrait pas exister.",
+      "Je ne veux même pas que ça soit dans mon champ de vision.",
+      "Je ne peux pas m'y habituer."
+    ],
+    "effetsVoixLangage": [
+      "ton qui se durcit",
+      "mots courts et tranchants",
+      "refus de développer le sujet",
+      "onomatopées de répulsion",
+      "silence brusque si le sujet revient",
+      "voix plus haute dans les moments aigus"
+    ],
+    "comportements": [
+      "recule, se détourne",
+      "couvre le nez ou la bouche",
+      "se lave les mains après contact même symbolique",
+      "refuse catégoriquement la proximité avec l'objet",
+      "exprime sa répulsion verbalement ou physiquement",
+      "évite le sujet dans la conversation",
+      "quitte la pièce si l'objet est présent"
+    ],
+    "masquesPossibles": [
+      "politesse froide qui contient la répulsion",
+      "professionnalisme qui ignore la réaction",
+      "humour noir pour dédramatiser"
+    ],
+    "evolutionsPossibles": [
+      "mépris si le dégoût est moral",
+      "colère si le dégoût est couplé à une injustice",
+      "phobie si la réaction s'ancre et se répète",
+      "habituation si l'exposition est répétée"
+    ],
+    "contextesAggravants": [
+      "odeur ou texture qui amplifie la réaction",
+      "surprise — ne pas avoir vu venir",
+      "association avec une expérience traumatique passée",
+      "avoir faim ou être fatigué augmente la sensibilité"
+    ],
+    "contextesAttenuants": [
+      "distance physique suffisante",
+      "contexte professionnel qui impose la maîtrise",
+      "habituation progressive"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère aversion", "description": "Le personnage n'aime pas mais supporte. Légère grimace, pas de trouble." },
+      { "niveau": 2, "label": "Dégoût sensible", "description": "La réaction est visible. Le personnage prend de la distance." },
+      { "niveau": 3, "label": "Répugnance", "description": "Le dégoût mobilise le corps. Nausée légère, retrait marqué." },
+      { "niveau": 4, "label": "Révulsion", "description": "La réaction est forte et difficile à contenir. Le personnage perd une part de sa maîtrise." },
+      { "niveau": 5, "label": "Écœurement total", "description": "Le personnage est physiquement affecté. Nausée intense, incapacité à rester proche." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Médecin ou professionnel de santé",
+        "description": "Le dégoût physique est largement dissocié du geste technique. Mais le dégoût moral — envers certains actes ou certaines situations — peut être au contraire plus vif que chez les non-professionnels."
+      },
+      {
+        "profil": "Personnage très sensible aux odeurs",
+        "description": "La réaction de dégoût arrive bien avant le contact visuel. L'odorat est le premier déclencheur. Le corps réagit avant que la raison ait le temps d'intervenir."
+      },
+      {
+        "profil": "Personnage confronté pour la première fois",
+        "description": "Ne sait pas encore s'il peut tenir. La réaction est brute et sans filtre. Il ne sait pas encore ce qu'il peut surmonter."
+      }
+    ],
+    "notesEditoriales": [
+      "Le dégoût est l'émotion la plus corporelle — ancrer les descriptions dans le corps est essentiel.",
+      "Le dégoût moral (face à une action, un individu) est narrativement plus riche que le dégoût physique seul.",
+      "La répulsion d'un personnage peut révéler ses valeurs et ses limites précises.",
+      "Éviter la grimace systématique : un dégoût contenu est souvent plus puissant."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "mepris" },
+      { "type": "peut_evoluer_en", "cible": "colere" },
+      { "type": "souvent_associe_a", "cible": "revulsion-morale" },
+      { "type": "peut_masquer", "cible": "peur" },
+      { "type": "peut_declencher", "cible": "evitement" },
+      { "type": "peut_suivre", "cible": "decouverte-d-une-verite-choquante" }
+    ]
+  },
+  {
+    "id": "mepris",
+    "label": "Mépris",
+    "alias": [
+      "mépris",
+      "condescendance",
+      "dédain",
+      "arrogance dirigée",
+      "snobisme",
+      "sentiment de supériorité",
+      "mépris froid",
+      "dédain hautain",
+      "regard de haut",
+      "dévalorisation de l'autre"
+    ],
+    "famille": "degout-mepris",
+    "definitionCourte": "Sentiment de supériorité qui invalide l'autre — ses actes, ses valeurs ou son être — et se manifeste par une distance calculée ou un abaissement implicite.",
+    "signesPhysiques": [
+      "coin de la bouche légèrement relevé d'un côté",
+      "regard en biais, légèrement baissé vers l'autre",
+      "sourcil relevé d'un côté",
+      "posture plus haute, redressée",
+      "regard qui glisse sur l'autre sans s'arrêter",
+      "soupir très court et très contrôlé",
+      "pause avant de répondre — comme si ça ne méritait pas mieux",
+      "sourire trop lent, trop maîtrisé"
+    ],
+    "sensationsInternes": [
+      "sentiment de distance confortable avec l'autre",
+      "légère impatience face à ce qu'il juge inférieur",
+      "absence d'effort pour comprendre l'autre",
+      "satisfaction froide de sa propre position",
+      "indifférence mêlée d'irritation légère"
+    ],
+    "pensees": [
+      "Il ne peut pas comprendre.",
+      "Ce n'est pas la peine d'expliquer.",
+      "Il ne vaut pas l'effort.",
+      "C'est prévisible.",
+      "Il fait ce qu'on pouvait attendre de quelqu'un comme lui.",
+      "Je n'ai rien à apprendre de ce côté-là.",
+      "Ça ne m'étonne pas.",
+      "La médiocrité a ses représentants."
+    ],
+    "effetsVoixLangage": [
+      "ton poli mais vide de chaleur",
+      "formulations qui simplifient excessivement — comme pour un enfant",
+      "temps de latence plus long que nécessaire",
+      "monosyllabes comme réponses",
+      "ironie légère qui creuse la distance"
+    ],
+    "comportements": [
+      "ne cherche pas à convaincre — ça ne servirait à rien",
+      "coupe court poliment mais définitivement",
+      "ignore les arguments plutôt que de les réfuter",
+      "ne regarde pas vraiment l'autre en face",
+      "préfère parler à quelqu'un d'autre",
+      "condescend sans s'en rendre compte",
+      "corrige avec une patience excessive qui humilie"
+    ],
+    "masquesPossibles": [
+      "politesse exquise qui contient tout le mépris",
+      "intérêt factice",
+      "générosité condescendante"
+    ],
+    "evolutionsPossibles": [
+      "hostilité ouverte si le mépris est défié",
+      "indifférence totale si l'autre disparaît",
+      "humilité forcée si le mépris est retourné contre lui",
+      "remise en question si l'autre se révèle différent"
+    ],
+    "contextesAggravants": [
+      "l'autre qui tente quand même de s'imposer",
+      "validation sociale du mépris par le groupe",
+      "passé de rivalité avec l'autre"
+    ],
+    "contextesAttenuants": [
+      "découverte d'une qualité inattendue chez l'autre",
+      "contexte qui force une collaboration réelle",
+      "propre échec qui relativise la supériorité"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère condescendance", "description": "Une distance légère dans le ton. Le personnage s'en rend à peine compte lui-même." },
+      { "niveau": 2, "label": "Dédain sensible", "description": "La dévalorisation est perceptible pour l'autre. Légère humiliation produite sans intention déclarée." },
+      { "niveau": 3, "label": "Mépris franc", "description": "Le personnage ne cherche plus à le dissimuler. Il invalide ouvertement." },
+      { "niveau": 4, "label": "Mépris profond", "description": "L'autre n'existe quasiment plus en tant que personne. Il est un symbole ou un obstacle." },
+      { "niveau": 5, "label": "Dédain absolu", "description": "Le personnage ne reconnaît plus à l'autre aucune valeur ou humanité. Dangereux." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage d'élite sociale",
+        "description": "Le mépris est inconscient, culturellement intégré. Il n'est pas cruel — il est simplement aveugle. Il ne voit pas l'autre comme inférieur — il ne le voit pas vraiment du tout."
+      },
+      {
+        "profil": "Personnage qui a réussi seul",
+        "description": "Le mépris est projeté sur ceux qui n'ont pas fait le même chemin. Il est fait d'une comparaison implicite permanente. La réussite justifie le jugement."
+      },
+      {
+        "profil": "Personnage blessé qui méprise pour se protéger",
+        "description": "Le mépris est défensif. Il invalide l'autre avant que l'autre puisse l'invalider. C'est une armure — souvent retournée contre des gens qui n'ont pas dit un mot."
+      }
+    ],
+    "notesEditoriales": [
+      "Le mépris est une émotion qui révèle plus sur celui qui la ressent que sur son objet.",
+      "Il est narrativement intéressant quand il se retourne contre son auteur.",
+      "Éviter le mépris unidimensionnel : un personnage méprisant a une raison, même mauvaise.",
+      "Le mépris poli est souvent plus dévastateur que le mépris affiché."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "degout" },
+      { "type": "peut_evoluer_en", "cible": "hostilite" },
+      { "type": "peut_masquer", "cible": "blessure-d-orgueil" },
+      { "type": "souvent_associe_a", "cible": "arrogance" },
+      { "type": "peut_declencher", "cible": "humiliation-de-l-autre" },
+      { "type": "peut_suivre", "cible": "trahison-percue" }
+    ]
+  },
+  {
+    "id": "repulsion",
+    "label": "Répulsion",
+    "alias": [
+      "répulsion",
+      "aversion profonde",
+      "rejet physique",
+      "répugnance totale",
+      "horreur viscérale",
+      "refus du corps",
+      "réaction de rejet",
+      "répulsion morale",
+      "horreur silencieuse",
+      "révulsion"
+    ],
+    "famille": "degout-mepris",
+    "definitionCourte": "Réaction de rejet intense, physique et immédiate, face à quelque chose qui viole une limite profonde — qu'elle soit sensorielle, morale ou existentielle.",
+    "signesPhysiques": [
+      "recul brusque, parfois involontaire",
+      "corps qui se ferme entièrement",
+      "grimace intense et non contrôlée",
+      "voix qui change de registre",
+      "bras ou mains qui font barrage",
+      "déglutition forcée",
+      "frissons longs le long du dos",
+      "regard qui cherche à fuir l'objet",
+      "respiration coupée brièvement"
+    ],
+    "sensationsInternes": [
+      "nausée intense et immédiate",
+      "impression que la frontière du corps a été violée",
+      "besoin physique urgent de s'éloigner",
+      "picotement ou chair de poule sur tout le corps",
+      "accélération du pouls sans désir d'action",
+      "sensation de contamination même sans contact",
+      "froid dans les extrémités"
+    ],
+    "pensees": [
+      "Non.",
+      "Pas ça.",
+      "Je ne peux pas.",
+      "C'est inhumain.",
+      "Je ne le supporterai pas.",
+      "Il ne faut pas que ça m'atteigne.",
+      "Je dois partir d'ici.",
+      "Je ne pensais pas que c'était possible."
+    ],
+    "effetsVoixLangage": [
+      "silence total ou exclamation brusque",
+      "phrases très courtes, presque réflexes",
+      "ton qui monte sans contrôle",
+      "impossibilité de nommer calmement ce qui provoque la répulsion",
+      "hésitation avant d'avoir à décrire"
+    ],
+    "comportements": [
+      "fuit — physiquement ou mentalement",
+      "refuse de regarder ou d'écouter",
+      "s'isole après la confrontation",
+      "parle peu de ce qu'il a vu ou ressenti",
+      "évite soigneusement tout ce qui pourrait ramener l'objet",
+      "se lave, se change, cherche à éliminer la trace"
+    ],
+    "masquesPossibles": [
+      "maîtrise professionnelle qui tient à peine",
+      "stoïcisme forcé",
+      "humour morbide pour exorciser"
+    ],
+    "evolutionsPossibles": [
+      "traumatisme si l'expérience est trop violente",
+      "habituation progressive si l'exposition est régulière et contrôlée",
+      "phobie installée si la répulsion n'est jamais traversée",
+      "compassion si la répulsion se double d'une compréhension"
+    ],
+    "contextesAggravants": [
+      "surprise totale",
+      "manque d'issue physique",
+      "répétition de la confrontation",
+      "fragilité physique ou psychologique du personnage"
+    ],
+    "contextesAttenuants": [
+      "distance physique garantie",
+      "contexte qui impose la maîtrise",
+      "soutien d'un tiers"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Léger rejet", "description": "Le personnage n'aime pas mais gère." },
+      { "niveau": 2, "label": "Aversion sensible", "description": "La réaction est visible. Il prend de la distance." },
+      { "niveau": 3, "label": "Répulsion franche", "description": "Le corps répond avant la raison. La maîtrise est difficile." },
+      { "niveau": 4, "label": "Révulsion intense", "description": "La réaction déborde. La présence de l'objet est insupportable." },
+      { "niveau": 5, "label": "Horreur viscérale", "description": "La frontière du personnage est franchie. L'expérience peut laisser une trace durable." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage entraîné à l'exposition",
+        "description": "La répulsion est dissociée dans l'instant mais revient plus tard — la nuit, seul. Le corps garde ce que l'esprit a mis de côté."
+      },
+      {
+        "profil": "Personnage émotionnellement sensible",
+        "description": "La répulsion arrive vite, forte, et ne passe pas facilement. Elle s'imprime dans le souvenir avec une précision inconfortable."
+      },
+      {
+        "profil": "Personnage confronté à une répulsion morale",
+        "description": "La répulsion n'est pas physique mais intellectuelle et éthique. Elle est plus froide, plus analytique — mais pas moins intense."
+      }
+    ],
+    "notesEditoriales": [
+      "La répulsion bien écrite est sensorielle : elle passe par ce que le personnage perçoit, pas seulement par ce qu'il pense.",
+      "Elle peut révéler les valeurs d'un personnage aussi efficacement que ses choix.",
+      "La répulsion morale est souvent plus narrative que la répulsion physique.",
+      "Éviter l'excès : une répulsion trop décrite devient comique ou désensibilise."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "phobie" },
+      { "type": "peut_evoluer_en", "cible": "traumatisme" },
+      { "type": "souvent_associe_a", "cible": "degout" },
+      { "type": "peut_declencher", "cible": "fuite" },
+      { "type": "peut_masquer", "cible": "peur" },
+      { "type": "peut_suivre", "cible": "decouverte-de-l-horreur" }
+    ]
+  },
+  {
+    "id": "indifference",
+    "label": "Indifférence",
+    "alias": [
+      "indifférence",
+      "détachement",
+      "absence d'intérêt",
+      "apathie",
+      "froideur",
+      "imperméabilité",
+      "insensibilité",
+      "neutralité affective",
+      "vide de réaction",
+      "désintérêt"
+    ],
+    "famille": "degout-mepris",
+    "definitionCourte": "Absence de réaction affective face à ce qui devrait en provoquer une — indifférence genuine ou construite, qui peut être une protection ou un symptôme.",
+    "signesPhysiques": [
+      "regard neutre, sans variation",
+      "posture détendue mais fermée",
+      "absence de soupir, de grimace, de sourire",
+      "gestes économiques, sans énergie",
+      "voix plate et égale",
+      "absence de contact physique spontané",
+      "regard qui ne cherche pas à accrocher celui de l'autre"
+    ],
+    "sensationsInternes": [
+      "vide tranquille là où il pourrait y avoir de l'émotion",
+      "légère distance avec ce qui se passe",
+      "absence de tension liée à l'objet",
+      "ennui léger si le contexte traîne",
+      "ou au contraire — profond épuisement caché sous la neutralité"
+    ],
+    "pensees": [
+      "Ça ne me touche pas.",
+      "Ce n'est pas mon problème.",
+      "Ça m'est égal.",
+      "Je ne vois pas en quoi ça me concerne.",
+      "Qu'est-ce que ça change ?",
+      "Je n'ai rien à faire de ça.",
+      "Qu'ils fassent ce qu'ils veulent.",
+      "Je ne ressens rien — et c'est reposant."
+    ],
+    "effetsVoixLangage": [
+      "ton neutre et égal",
+      "réponses brèves et factuelles",
+      "absence de questions de suivi",
+      "pas d'initiative dans la conversation",
+      "interruptions acceptées sans réaction"
+    ],
+    "comportements": [
+      "ne réagit pas aux provocations",
+      "ne cherche pas à savoir",
+      "s'occupe d'autre chose si la conversation ne l'intéresse pas",
+      "ne prend pas parti",
+      "laisse les décisions aux autres",
+      "ne retient pas ce qui ne le touche pas"
+    ],
+    "masquesPossibles": [
+      "indifférence vraie qui cache une souffrance dissociée",
+      "indifférence de protection — ne plus laisser entrer",
+      "indifférence de fatigue — ne plus avoir les ressources pour ressentir"
+    ],
+    "evolutionsPossibles": [
+      "retour de l'affect si quelque chose brise la carapace",
+      "approfondissement du détachement vers la dépression",
+      "colère froide si l'indifférence est une armure",
+      "épuisement émotionnel reconnu"
+    ],
+    "contextesAggravants": [
+      "épuisement émotionnel prolongé",
+      "traumatisme non résolu qui a coupé l'accès aux émotions",
+      "relation dans laquelle s'investir a toujours coûté sans retour"
+    ],
+    "contextesAttenuants": [
+      "repos et distance de la source d'épuisement",
+      "événement fort qui réveille l'affect",
+      "présence aimée qui pénètre la neutralité"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère désaffection", "description": "Le personnage n'est pas touché par ce sujet précis. Rien d'inquiétant." },
+      { "niveau": 2, "label": "Détachement sensible", "description": "L'indifférence est visible. L'autre s'en rend compte." },
+      { "niveau": 3, "label": "Indifférence marquée", "description": "Le personnage ne participe plus vraiment. Il est là mais ailleurs." },
+      { "niveau": 4, "label": "Froideur installée", "description": "L'indifférence touche la plupart des sujets. L'entourage commence à s'inquiéter." },
+      { "niveau": 5, "label": "Apathie totale", "description": "Plus rien n'atteint le personnage. État potentiellement alarmant." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage épuisé émotionnellement",
+        "description": "L'indifférence n'est pas un choix — c'est une conséquence. Il n'a plus les ressources pour ressentir. La neutralité est de la survie."
+      },
+      {
+        "profil": "Personnage de caractère distant par nature",
+        "description": "L'indifférence est constitutive. Il n'est pas épuisé — il est simplement peu affecté par la plupart des choses. Ce n'est ni un masque ni un symptôme."
+      },
+      {
+        "profil": "Personnage qui se protège",
+        "description": "L'indifférence est construite. Quelque chose l'a blessé et il a fermé l'accès. Elle est maintenue par un effort constant, même si cet effort est invisible."
+      }
+    ],
+    "notesEditoriales": [
+      "L'indifférence est ambiguë : elle peut être saine, pathologique, défensive ou authentique.",
+      "Un personnage indifférent peut être le plus fascinant d'une scène s'il est le seul à ne pas réagir.",
+      "Distinguer l'indifférence de la froideur : la froideur implique un contrôle actif, l'indifférence est une absence.",
+      "L'indifférence qui se brise est un moment narratif très fort."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "mepris" },
+      { "type": "peut_evoluer_en", "cible": "depression" },
+      { "type": "peut_masquer", "cible": "blessure-ancienne" },
+      { "type": "peut_masquer", "cible": "epuisement-emotionnel" },
+      { "type": "souvent_associe_a", "cible": "detachement" },
+      { "type": "peut_suivre", "cible": "deception-repetee" }
+    ]
+  }
+]

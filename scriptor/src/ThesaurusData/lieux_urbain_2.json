@@ -1,0 +1,702 @@
+[
+  {
+    "id": "rue-commercante-populaire",
+    "label": "Rue commerçante populaire",
+    "type": "urbain-rue",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "devantures serrées aux enseignes en plastique coloré, certaines passées",
+      "trottoir étroit parcouru de gens qui se croisent sans se regarder",
+      "caisses de fruits et légumes débordant sur le pas des épiceries",
+      "vitrine de boucherie halal ou casher avec prix écrits à la main",
+      "banderoles promotionnelles tendues entre deux façades",
+      "vendeurs ambulants avec chariot ou table pliante non homologuée",
+      "porte de boutique ouverte sur un fond de musique ou de télévision",
+      "poubelles débordantes aux angles, cartons aplatis contre les murs"
+    ],
+    "bruits": [
+      "appel des commerçants vers les passants, insistant ou aimable selon les jours",
+      "klaxons et moteurs au ralenti dans le flux de circulation",
+      "musique de trois boutiques différentes qui se superposent sans s'annuler",
+      "chariots de courses roulant sur le trottoir pavé",
+      "conversations à voix haute entre commerçants qui se connaissent"
+    ],
+    "odeurs": [
+      "mélange de viande, d'épices et de cuisine de rue",
+      "fruit trop mûr chauffé par le soleil en été",
+      "échappements de scooters livrant au ralenti",
+      "pain chaud depuis la boulangerie en milieu de matinée"
+    ],
+    "textures": [
+      "trottoir encombré où on avance en slalomant",
+      "sac plastique qu'on attrape à la volée tendu par le commerçant",
+      "étale légèrement humide des fruits et légumes qu'on palpe avant d'acheter"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'appartenance à un quartier vivant",
+      "légère tension de la foule dense aux heures de pointe",
+      "plaisir diffus du marché, du choix, de la négociation",
+      "indifférence bienveillante de la foule anonyme"
+    ],
+    "usagesNarratifs": [
+      "décor d'une filature ou d'une rencontre fortuite dans la foule",
+      "espace qui révèle la composition sociale d'un quartier en transition",
+      "lieu d'une transaction — commerciale ou autre — dans un cadre banal",
+      "scène de cohabitation entre mondes qui se croisent sans se mêler"
+    ],
+    "tensionsTypiques": [
+      "contrôle inopiné des marchands sans autorisation",
+      "dispute entre commerçant et client qui bloque la rue",
+      "voleur à la tire dans la foule dense",
+      "embourgeoisement qui pousse les enseignes populaires vers la sortie"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant du quartier depuis longtemps",
+        "description": "Connaît chaque commerçant par son prénom, ses horaires, ses humeurs. Navigue sans regarder, salue sans s'arrêter. La rue lui appartient par la familiarité."
+      },
+      {
+        "profil": "Nouveau venu dans le quartier",
+        "description": "Cherche ses repères dans le flux. Observe les prix, compare, hésite. La rue lui semble dense, bruyante, presque hostile avant de devenir familière."
+      },
+      {
+        "profil": "Commerçant de la rue",
+        "description": "Voit d'abord le flux de clients, la concurrence d'à côté, le temps qu'il fait. La rue est son outil de travail, il la lit comme un baromètre de ses recettes."
+      }
+    ],
+    "notesEditoriales": [
+      "La rue commerçante populaire est un excellent révélateur de l'état d'un quartier : sa vitalité ou son déclin se lit dans les devantures.",
+      "Éviter l'exoticisation des commerces ethniques — ils font partie d'un tissu ordinaire, pas d'un décor.",
+      "Le bruit superposé de plusieurs sources est caractéristique : ne pas réduire à un seul son, mais montrer le mélange."
+    ]
+  },
+  {
+    "id": "boulevard-la-nuit",
+    "label": "Boulevard de nuit",
+    "type": "urbain-rue",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "halos de lampadaires jaunes sur le bitume mouillé ou sec",
+      "façades aux volets fermés, quelques fenêtres encore éclairées",
+      "feux de signalisation qui passent sans que personne ne traverse",
+      "bancs vides ou occupés par une silhouette allongée",
+      "pharmacie avec croix verte clignotante — seule enseigne lumineuse active",
+      "brasserie avec terrasse réduite aux irréductibles de la nuit",
+      "déchets qui traînent en bord de trottoir depuis la collecte ratée",
+      "voitures garées serrées des deux côtés, une place vide par-ci par-là"
+    ],
+    "bruits": [
+      "moteur d'une voiture qui ralentit sans raison puis repart",
+      "talons sur le trottoir dont le claquement porte loin",
+      "musique sourde depuis un appartement en hauteur",
+      "bruit de verre sur le bitume depuis un café qui ferme",
+      "sirène lointaine qui traverse le silence sans s'approcher"
+    ],
+    "odeurs": [
+      "asphalte encore chaud après une journée d'été",
+      "alcool et bière renversés devant les entrées de bar",
+      "échappement d'un diesel qui passe lentement",
+      "odeur propre de la nuit froide en hiver"
+    ],
+    "textures": [
+      "trottoir légèrement humide de rosée sous les semelles",
+      "métal froid d'un banc où on s'appuie de la main",
+      "grille d'un commerce abaissée, froide et rigide"
+    ],
+    "emotionsTypiques": [
+      "liberté particulière de la nuit qui rend l'espace plus grand",
+      "vigilance sourde qui accompagne la solitude nocturne",
+      "sentiment de décalage agréable ou angoissant selon l'état du personnage",
+      "mélancolie douce des lumières et du vide"
+    ],
+    "usagesNarratifs": [
+      "espace de transit d'un personnage qui ne veut pas rentrer",
+      "décor d'une rencontre improbable dans l'espace libéré par la nuit",
+      "lieu d'une filature ou d'une fuite dans l'obscurité partielle",
+      "révélateur de l'état intérieur d'un personnage par ce qu'il remarque"
+    ],
+    "tensionsTypiques": [
+      "sentiment d'être suivi ou observé sans pouvoir le vérifier",
+      "groupe de noctambules dont l'humeur est ambiguë",
+      "voiture qui ralentit à hauteur d'un piéton seul",
+      "bruit soudain dans une ruelle adjacente"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Noctambule habituel",
+        "description": "Se sent plus libre la nuit que le jour dans les mêmes rues. Connaît les endroits ouverts, les trajets éclairés, les zones à éviter. La nuit lui appartient autant que le boulevard."
+      },
+      {
+        "profil": "Personne peu habituée à sortir seule la nuit",
+        "description": "Marche plus vite sans y penser. Évite le regard des silhouettes assises. Chaque son inattendu déclenche une micro-alerte. Le boulevard familier le jour lui semble étranger."
+      },
+      {
+        "profil": "Riverain qui rentre chez lui",
+        "description": "Traverse sans voir. Son appartement est son objectif unique. Le boulevard n'est qu'un corridor entre la soirée et le lit. Il s'arrête si quelque chose sort du cadre habituel."
+      }
+    ],
+    "notesEditoriales": [
+      "La nuit transforme les espaces connus en espaces légèrement étrangers — exploiter ce décalage de familiarité.",
+      "Les halos de lumière créent une dramaturgie naturelle : ce qui est éclairé et ce qui ne l'est pas structure l'attention.",
+      "Éviter le boulevard nocturne comme simple décor de danger : c'est aussi un lieu de liberté, de solitude choisie, de déambulation."
+    ]
+  },
+  {
+    "id": "ruelle-urbaine",
+    "label": "Ruelle urbaine",
+    "type": "urbain-rue",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "passage étroit entre deux immeubles, largeur d'un bras et demi",
+      "murs couverts de mousse verte dans les parties jamais ensoleillées",
+      "pavés disjoints aux joints envahis d'herbe rase",
+      "poubelles ou containers rangés en file dans la partie la plus large",
+      "fenêtres basses donnant directement sur la ruelle, souvent avec voilage",
+      "câbles et fils électriques anciens courant le long des murs",
+      "porte en bois sombre avec heurtoir rouillé — accès à une cour intérieure",
+      "flaque persistante même par temps sec dans le renfoncement du fond"
+    ],
+    "bruits": [
+      "silence relatif, coupé du bruit de la rue principale",
+      "gouttière qui dégoutte longtemps après la pluie",
+      "chats qui se disputent ou se fuient dans l'obscurité",
+      "sons de cuisine depuis les fenêtres basses le soir"
+    ],
+    "odeurs": [
+      "humidité de pierre non séchée, légèrement froide",
+      "odeur de container à déchets selon la saison et l'exposition",
+      "mousse et végétation des murs en décrépitude douce",
+      "urine dans le renfoncement le plus sombre"
+    ],
+    "textures": [
+      "mur rugueux légèrement humide si on l'effleure en passant",
+      "pavé glissant dans les zones non séchées",
+      "porte dont le bois a gonflé, difficile à ouvrir ou à fermer"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'être sorti du monde, suspendu entre deux espaces",
+      "légère tension de l'espace étroit qui limite les options de fuite",
+      "curiosité pour ce que le fond de la ruelle cache",
+      "calme étrange d'un espace laissé à lui-même"
+    ],
+    "usagesNarratifs": [
+      "lieu d'un rendez-vous discret ou d'une confrontation inévitable",
+      "espace de transition entre deux scènes — le personnage y passe et quelque chose change",
+      "décor d'une découverte ou d'un passage secret dans la géographie urbaine",
+      "révélateur de la ville souterraine, invisible depuis les artères principales"
+    ],
+    "tensionsTypiques": [
+      "impossibilité de croiser quelqu'un sans contact dans l'espace étroit",
+      "sentiment d'être observé depuis les fenêtres basses",
+      "fond de ruelle sans issue de secours en cas de problème",
+      "obscurité même en plein jour dans les passages non exposés"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant riverain qui l'emprunte quotidiennement",
+        "description": "Raccourci connu, traversé sans y penser. Remarque l'anomalie — un objet, une personne, une odeur nouvelle. La ruelle est un texte qu'il lit vite et bien."
+      },
+      {
+        "profil": "Touriste ou étranger au quartier",
+        "description": "Hésite à s'y engager, évalue le fond d'un coup d'œil. Si l'esthétique est belle — pavés, mousse, vieilles pierres — il la photographie. Si elle est sordide, il fait demi-tour."
+      },
+      {
+        "profil": "Personne qui cherche à n'être pas vue",
+        "description": "L'espace étroit est à la fois un avantage et un piège. On y est invisible depuis la rue mais pris au piège si quelqu'un entre derrière. Le silence y est double tranchant."
+      }
+    ],
+    "notesEditoriales": [
+      "La ruelle fonctionne narrativement comme un entre-deux : ni l'espace public large, ni l'espace privé fermé. Elle autorise ce que les deux extrêmes n'autorisent pas.",
+      "L'étroitesse physique crée une contrainte dramatique naturelle : les personnages doivent se croiser, se frôler, se laisser passer.",
+      "Éviter la ruelle-cliché de thriller : elle peut aussi être un lieu de beauté discrète, de silence bienvenu, de vie ordinaire hors du regard."
+    ]
+  },
+  {
+    "id": "place-du-marche",
+    "label": "Place du marché",
+    "type": "urbain-rue",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "tables de marché en métal avec bâches de couleur tendues",
+      "sol de béton ou de pavés tachés de terre et de feuilles",
+      "balance à plateau posée sur l'étal du maraîcher",
+      "cagettes empilées derrière les étals, certaines vides",
+      "sacs de toile ou paniers des acheteurs qui slaloment entre les allées",
+      "fontaine ou arbre en centre de place, rare ombre ou repère",
+      "camion-librairie ou camion-épicerie garé dans un angle",
+      "bar de la place avec terrasse tournée vers l'animation du marché"
+    ],
+    "bruits": [
+      "voix des marchands qui annoncent leurs prix à intervalles réguliers",
+      "chariots de livraison qui roulent sur les pavés inégaux",
+      "conversations simultanées de dizaines de personnes qui forment un bourdonnement",
+      "cloche ou haut-parleur qui sonne la fin du marché",
+      "papier journal froissé qu'on froisse autour d'un achat"
+    ],
+    "odeurs": [
+      "terre sur les légumes-racines et les poireaux",
+      "poisson frais et glace pilée depuis l'étal de la poissonnerie",
+      "pain et viennoiseries depuis le stand de la boulangerie ambulante",
+      "fromage à pâte lavée depuis l'étal de la fromagerie"
+    ],
+    "textures": [
+      "tomate qu'on palpe doucement pour juger la maturité",
+      "sol légèrement glissant de feuilles et d'épluchures en fin de marché",
+      "tissu d'une bâche de marché tendu et froid le matin"
+    ],
+    "emotionsTypiques": [
+      "plaisir du choix et de la négociation directe",
+      "sentiment d'appartenir à une communauté locale",
+      "légère impatience dans la file ou face à l'indécision d'un autre client",
+      "satisfaction physique du panier rempli"
+    ],
+    "usagesNarratifs": [
+      "lieu de rencontre ordinaire qui permet des conversations en mouvement",
+      "révélateur des habitudes et de la condition d'un personnage par ses achats",
+      "espace de la vie collective où les rumeurs circulent naturellement",
+      "décor d'une scène de surveillance discrète dans un cadre animé"
+    ],
+    "tensionsTypiques": [
+      "dispute entre un client et un commerçant sur le prix ou la qualité",
+      "vol à la tire profitant de la foule et de l'attention dispersée",
+      "fin de marché où les étals se vident et la place se transforme",
+      "présence d'un personnage qu'on ne voulait pas croiser"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Client régulier",
+        "description": "Fait son tour dans l'ordre habituel, connaît les meilleurs étals, salue certains marchands. Le marché est une routine sociale autant qu'un approvisionnement."
+      },
+      {
+        "profil": "Marchand ambulant",
+        "description": "Voit le flux de clients, la météo, la concurrence d'à côté. Lit les visages pour anticiper les achats. La journée se lit en recettes et en invendus."
+      },
+      {
+        "profil": "Enfant amené au marché",
+        "description": "Voit d'abord la hauteur des jambes des adultes, les couleurs des étals vus d'en bas, les odeurs qui viennent de partout à la fois. Le marché est un monde démesuré et sensoriel."
+      }
+    ],
+    "notesEditoriales": [
+      "Le marché fonctionne avec un début, un pic et une fin — la même place est trois lieux différents selon l'heure.",
+      "La fin du marché, quand les marchands plient et que la place se retrouve jonchée, est un moment narratif souvent sous-exploité.",
+      "Les conversations y sont naturellement fragmentées, interrompues, reprises — le dialogue de marché a son propre rythme."
+    ]
+  },
+  {
+    "id": "parvis-deglise-urbain",
+    "label": "Parvis d'église urbain",
+    "type": "urbain-rue",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "dalles de pierre légèrement irrégulières, polies par des siècles de passages",
+      "portail en chêne massif, souvent entr'ouvert en journée",
+      "marches usées au centre par le flux des fidèles depuis des générations",
+      "petite fontaine ou vasque désaffectée dans un angle",
+      "bancs en pierre ou en métal à l'ombre de la façade",
+      "panneau d'affichage de la paroisse avec horaires et annonces",
+      "pigeons qui se regroupent en milieu de journée",
+      "grille du côté avec cadenas — accès au jardin ou au cimetière attenant"
+    ],
+    "bruits": [
+      "sonnerie de cloches à heures fixes, lointaine ou très proche selon l'heure",
+      "murmure de la messe filtrant par la porte entrouverte",
+      "enfants qui courent sur les dalles après la sortie du catéchisme",
+      "silence particulier entre la rue et le porche — zone acoustique suspendue"
+    ],
+    "odeurs": [
+      "encens venu de l'intérieur lors des offices",
+      "pierre froide et légèrement humide sous le porche",
+      "fleurs fraîches déposées devant la porte aux jours de célébration"
+    ],
+    "textures": [
+      "dalle usée et lisse sous le pied — presque glissante par temps humide",
+      "portail en bois massif, légèrement froid et dur sous la main",
+      "marche d'angle, mal visible, sur laquelle on trébuche toujours"
+    ],
+    "emotionsTypiques": [
+      "sentiment de seuil — ni dedans ni dehors, ni sacré ni profane",
+      "calme imposé par le lieu même chez ceux qui ne le fréquentent pas",
+      "légère solennité que l'espace architectural produit malgré soi",
+      "sentiment d'appartenir ou de ne pas appartenir selon qu'on entre ou pas"
+    ],
+    "usagesNarratifs": [
+      "espace de rencontre neutre entre des personnages aux histoires chargées",
+      "lieu de délibération avant une décision difficile",
+      "décor d'un après-enterrement ou d'un baptême, avec ses foules hétérogènes",
+      "seuil narratif : entrer ou ne pas entrer dans l'église"
+    ],
+    "tensionsTypiques": [
+      "fidèle et non-croyant se trouvant côte à côte dans un même espace",
+      "cérémonie qui déborde sur le parvis — foule mal organisée",
+      "mendicité sur les marches et réaction des passants",
+      "présence incongrue qui rompt le registre du lieu"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Paroissien régulier",
+        "description": "Traverse le parvis avec la familiarité d'un seuil domestique. Salue, s'arrête, échange quelques mots. C'est son espace de sociabilité autant que de foi."
+      },
+      {
+        "profil": "Passant non-croyant",
+        "description": "Le parvis lui impose un registre qu'il n'a pas sollicité. Ralentit malgré lui, baisse la voix si accompagné. Le lieu crée une pression sociale indépendante de toute conviction."
+      },
+      {
+        "profil": "Touriste ou visiteur de passage",
+        "description": "Voit d'abord l'architecture, le vieux portail, les pierres. Consulte son téléphone pour l'horaire d'ouverture. Le parvis est un seuil touristique avant d'être un espace spirituel."
+      }
+    ],
+    "notesEditoriales": [
+      "Le parvis est l'un des rares espaces publics à imposer un registre — même aux non-croyants. Cette tension implicite est narrativement riche.",
+      "La sortie de messe du dimanche matin transforme le parvis en espace de sociabilité intense pendant vingt minutes, puis le vide tombe rapidement.",
+      "Éviter d'en faire un simple décor religieux : c'est d'abord un espace public urbain avec ses propres logiques sociales."
+    ]
+  },
+  {
+    "id": "passage-couvert",
+    "label": "Passage couvert",
+    "type": "urbain-rue",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "verrière en fer forgé et verre givré ou coloré filtrant la lumière",
+      "sol en mosaïque de petits carreaux noirs et blancs, usé au centre",
+      "boutiques des deux côtés avec vitrines de bois et laiton",
+      "galerie étroite où deux personnes se croisent en se frôlant",
+      "luminaires anciens — globes en opale ou lanternes en métal",
+      "commerce anachronique — philatélie, édition ancienne, jouets de collection",
+      "odeur de moisi et de livre ancien mêlée à celle de la cire",
+      "porte vitrée à chaque extrémité, souvent munie d'une grille qu'on abaisse le soir"
+    ],
+    "bruits": [
+      "pas qui résonnent sur le carrelage — le son porte plus qu'à l'extérieur",
+      "clochette au-dessus d'une porte de boutique qu'on pousse",
+      "conversation à voix normale qui semble trop forte dans l'écho",
+      "silence presque total certains après-midis où les boutiques sont vides"
+    ],
+    "odeurs": [
+      "vieux papier, cuir et boiseries des boutiques de collection",
+      "encaustique sur le carrelage passé par le gardien",
+      "légère moisissure dans les recoins non chauffés",
+      "café chaud depuis la petite brasserie en milieu de galerie"
+    ],
+    "textures": [
+      "carrelage légèrement glissant dans les zones humides proches des entrées",
+      "rampe en laiton poli par des générations de mains",
+      "vitrine en bois légèrement gondolée par l'humidité des années"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'être hors du temps, dans une bulle urbaine",
+      "nostalgie d'un Paris qui n'existe plus ou qui n'a peut-être jamais existé",
+      "calme anachronique en plein milieu d'une ville bruyante",
+      "légère mélancolie face aux boutiques à moitié vides"
+    ],
+    "usagesNarratifs": [
+      "espace de rendez-vous discret entre des personnages qui ne veulent pas être vus",
+      "lieu de transition qui dit quelque chose du rapport d'un personnage au passé",
+      "décor d'une enquête — le passage garde des traces que la rue efface",
+      "révélateur du rapport d'un personnage au temps et à la modernité"
+    ],
+    "tensionsTypiques": [
+      "boutique fermée au moment où le personnage en avait besoin",
+      "présence d'un inconnu qui suit le même chemin sans raison apparente",
+      "grille abaissée avant l'heure officielle de fermeture",
+      "vente aux enchères ou liquidation imminente qui signe la fin du passage"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitué qui y vient chaque semaine",
+        "description": "Connaît chaque boutique, chaque commerçant, chaque heure creuse. Le passage est son musée personnel, vivant mais fragile. Il surveille les signes de fermeture prochaine."
+      },
+      {
+        "profil": "Touriste qui le découvre",
+        "description": "Surpris par la beauté anachronique. Photographie la verrière, les mosaïques, les devantures. Achète quelque chose d'inutile pour avoir une raison d'entrer dans une boutique."
+      },
+      {
+        "profil": "Riverain qui l'emprunte comme raccourci",
+        "description": "Ne le voit plus. Traverse sans lever les yeux, connaît l'heure exacte de fermeture, sort son badge ou ajuste son pas pour ne pas glisser. Le passage est fonctionnel, pas esthétique."
+      }
+    ],
+    "notesEditoriales": [
+      "Le passage couvert est un des lieux les plus littéraires de Paris — Aragon, Benjamin, Perec y ont posé leur regard. L'utiliser avec conscience de cet héritage ou l'ignorer délibérément.",
+      "Sa beauté tient à son déclin : les boutiques à moitié vides, les propriétaires qui vieillissent, la verrière qui se fissure. Ne pas lisser cela.",
+      "L'acoustique particulière — les pas qui résonnent, la voix qui porte — en fait un espace naturellement dramatique."
+    ]
+  },
+  {
+    "id": "impasse",
+    "label": "Impasse",
+    "type": "urbain-rue",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "entrée signalée par une plaque ou un panneau parfois illisible",
+      "maisons basses ou immeubles anciens en rangée sur un ou deux côtés",
+      "fond de passage fermé par un mur de brique ou de parpaing",
+      "voitures garées perpendiculairement au fond, faute de mieux",
+      "quelques jardinières ou pots de fleurs devant les portes — tentative d'appropriation",
+      "éclairage réduit à un ou deux lampadaires pour tout l'espace",
+      "grillages ou fils tendus entre deux bâtiments où sèche le linge",
+      "chat assis sur le capot d'une voiture chaude"
+    ],
+    "bruits": [
+      "silence relatif comparé à la rue principale — sons étouffés",
+      "voix d'un résident depuis une fenêtre ouverte",
+      "moteur d'une voiture qui entre puis réalise qu'il n'y a pas d'issue",
+      "enfant qui joue seul avec un vélo ou un ballon dans l'espace fermé"
+    ],
+    "odeurs": [
+      "linge frais sur les fils tendus par temps de vent",
+      "odeur de cuisine depuis les cuisines orientées vers la cour",
+      "humidité de fond depuis le mur de clôture peu exposé"
+    ],
+    "textures": [
+      "revêtement de sol inégal — entre pavé et asphalte rapiécé",
+      "mur de fond rugueux si on le touche du plat de la main",
+      "poignée de porte froide des résidences qui donnent sur l'impasse"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'être dans un espace hors du flux de la ville",
+      "légère sensation d'enfermement liée à l'absence d'issue",
+      "calme protégé que les habitants cultivent précisément",
+      "inconfort de l'étranger qui a pris l'impasse pour une rue traversante"
+    ],
+    "usagesNarratifs": [
+      "espace-piège : le personnage ne peut que repartir sur ses pas",
+      "lieu d'une vie de quartier resserrée, presque villageoise dans la ville",
+      "décor d'une confrontation sans témoins dans un espace fermé",
+      "révélateur d'une vie qui tourne sur elle-même"
+    ],
+    "tensionsTypiques": [
+      "voiture qui bloque l'accès et prive les résidents de leur espace",
+      "conflit entre voisins d'une communauté trop proche",
+      "présence d'un étranger qui entre et ne repart pas",
+      "chantier du fond qui va transformer le caractère du lieu"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Résident de l'impasse",
+        "description": "L'impasse est sa rue, son village minuscule. Il connaît chaque voisin, chaque voiture, chaque plante. La fermeture du fond est une protection, pas une contrainte."
+      },
+      {
+        "profil": "Passant qui s'y est trompé",
+        "description": "Réalise son erreur en atteignant le fond. Fait demi-tour sous les regards possibles des fenêtres. Sensation fugace de s'être aventuré dans un espace qui ne lui appartient pas."
+      },
+      {
+        "profil": "Enfant du quartier",
+        "description": "L'impasse est un terrain de jeu protégé, sans voitures de passage. Les adultes peuvent surveiller depuis les fenêtres. C'est l'espace le plus sûr de l'enfance de quartier."
+      }
+    ],
+    "notesEditoriales": [
+      "L'impasse est à la fois piège et refuge — les deux faces de son absence d'issue sont à exploiter selon le point de vue du personnage.",
+      "Sa vie sociale est très particulière : les résidents se connaissent forcément, ce qui crée une intimité contrainte.",
+      "La voiture qui entre par erreur est un moment micro-dramatique récurrent dans l'impasse — petit révélateur de codes sociaux."
+    ]
+  },
+  {
+    "id": "avenue-haussmannienne",
+    "label": "Avenue haussmannienne",
+    "type": "urbain-rue",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "façades en pierre de taille beige au même gabarit, balcons filants aux étages",
+      "arbres en double rangée dont les branches se rejoignent au-dessus de la chaussée",
+      "trottoir large avec dalles de calcaire régulières, borne en métal gris",
+      "chaussée à six voies dont le flux est continu aux heures de pointe",
+      "haussmannien de prestige : ambassade, grand magasin, siège social en rez-de-chaussée",
+      "bouche de métro en fonte verte ou grise dans l'axe du carrefour",
+      "kiosque à journaux dans une intersection, décollant légèrement",
+      "vélib' ou scooters électriques garés en rangée devant les immeubles"
+    ],
+    "bruits": [
+      "flux automobile continu, fond sonore permanent",
+      "klaxon ponctuel dans les embouteillages du matin",
+      "bruit de la pluie sur le toit d'un abribus",
+      "son du métro sourdant depuis les bouches et les grilles de sol"
+    ],
+    "odeurs": [
+      "gaz d'échappement dilués dans l'air — plus perceptibles par vent nul",
+      "pluie sur le calcaire chaud en été",
+      "café chaud depuis les terrasses de brasserie",
+      "asphalte frais après des travaux récents"
+    ],
+    "textures": [
+      "dalle de trottoir lisse et légèrement froide par temps couvert",
+      "borne en métal froid si on la saisit de la main",
+      "tronc d'arbre rugueux contre lequel on s'appuie brièvement"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'insignifiance dans l'échelle imposante du lieu",
+      "énergie urbaine dense qui porte ou qui écrase selon l'état du personnage",
+      "impression d'être dans le flux de quelque chose de plus grand que soi",
+      "sentiment d'ordre et de pouvoir lié à l'architecture régulière"
+    ],
+    "usagesNarratifs": [
+      "décor d'une scène de foule anonyme où quelqu'un est repéré ou perdu",
+      "avenue comme ligne de force géographique dans un récit parisien",
+      "révélateur de classe sociale par contraste avec d'autres espaces",
+      "espace de la vitesse et du passage — rarement un lieu d'ancrage"
+    ],
+    "tensionsTypiques": [
+      "manifestation ou cortège qui transforme l'avenue en espace de confrontation",
+      "accident de la circulation dans le flux dense",
+      "personnage qui cherche à traverser six voies sans passage clouté",
+      "livraison qui bloque une voie et déclenche une séquence de klaxons"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Parisien qui y vit ou y travaille",
+        "description": "L'avenue est un fond sonore permanent qu'il n'entend plus. Il connaît les feux, les passages, les boulangeries. L'échelle ne l'impressionne plus — elle est simplement son décor."
+      },
+      {
+        "profil": "Provincial ou étranger en visite",
+        "description": "Levé la tête vers les façades, senti l'écrasement de l'échelle. La vitesse du flux le désoriente. Il cherche un repère — une boutique connue, un panneau — pour se situer."
+      },
+      {
+        "profil": "Coursier à vélo ou en scooter",
+        "description": "Lit l'avenue comme un réseau de flux à naviguer. Feux, files de bus, portes de taxi — chaque élément est un obstacle ou une ressource. L'esthétique haussmannienne lui est invisible."
+      }
+    ],
+    "notesEditoriales": [
+      "L'avenue haussmannienne est le décor le plus représenté de Paris en fiction — l'utiliser sans clichés suppose de trouver un angle précis et peu attendu.",
+      "Son échelle écrase les personnages : la mettre en rapport avec l'état intérieur du personnage qui la traverse crée une ressource narrative.",
+      "Éviter la carte postale : montrer l'usure, le trafic, les travaux, les devantures quelconques entre les grandes façades."
+    ]
+  },
+  {
+    "id": "trottoir-de-banlieue",
+    "label": "Trottoir de banlieue pavillonnaire",
+    "type": "urbain-rue",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "trottoir étroit ou inexistant par endroits — les piétons marchent en bordure de route",
+      "haies de thuyas ou de lauriers dépassant sur l'espace public",
+      "asphalte craquelé aux joints avec herbe poussant dans les fentes",
+      "lampadaires à intervalles irréguliers, certains grillés",
+      "boîtes aux lettres à l'entrée de chaque parcelle, alignées ou dispersées",
+      "panneau de stop ou de cédez-le-passage au carrefour non signalisé",
+      "vélos ou poussettes laissés contre la grille d'un jardin",
+      "poubelles sorties la veille du ramassage, encore debout ou déjà renversées"
+    ],
+    "bruits": [
+      "voiture qui passe trop vite sur une route sans limitation efficace",
+      "chien qui aboie derrière une clôture au passage d'un piéton",
+      "enfant qui passe en courant depuis une entrée de jardin",
+      "silence entre deux passages — silence de banlieue, différent du silence de campagne"
+    ],
+    "odeurs": [
+      "herbe coupée depuis un jardin récemment entretenu",
+      "asphalte chauffé en été",
+      "fumée de barbecue certains soirs depuis les jardins adjacents"
+    ],
+    "textures": [
+      "asphalte légèrement mou en plein été sous le soleil",
+      "gravier d'une allée qui déborde sur le trottoir",
+      "tronc d'arbre planté maladroitement dans un carré de terre trop petit"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'être dans un espace ni fait pour les piétons ni pour la voiture",
+      "impression d'absence de centre, de lieu public réel",
+      "légère mélancolie d'un espace conçu pour le transit et pas pour la présence",
+      "familiarité froide du décor quotidien de l'enfance de banlieue"
+    ],
+    "usagesNarratifs": [
+      "trajet à pied d'un personnage qui rentre ou qui fuit",
+      "décor d'une conversation entre deux personnages qui marchent faute de lieu pour s'asseoir",
+      "révélateur d'un type d'urbanisme qui exclut le corps hors de la voiture",
+      "espace de solitude choisie ou subie dans un environnement sans centre"
+    ],
+    "tensionsTypiques": [
+      "voiture trop rapide sur une route partagée avec les piétons",
+      "absence d'éclairage la nuit dans une portion du trajet",
+      "rencontre imprévue dans un espace sans possibilité de détour",
+      "ennui qui vire à l'errance sans destination"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Enfant ou adolescent qui y grandit",
+        "description": "Connaît chaque mètre par cœur. Chaque maison a une histoire, chaque chien un nom. L'absence de centre lui pèse sans qu'il sache le nommer — il rêve d'une vraie ville."
+      },
+      {
+        "profil": "Parent qui rentre du travail à pied depuis la gare",
+        "description": "Fait ce trajet en automatique, téléphone à l'oreille ou perdu dans ses pensées. Le trottoir est un sas de décompression entre le travail et la maison."
+      },
+      {
+        "profil": "Urbain de passage",
+        "description": "Étrangeté de l'espace sans trottoir continu, sans café, sans banc. Sent qu'il est dans un lieu organisé pour d'autres logiques que la sienne. Se sent légèrement de trop."
+      }
+    ],
+    "notesEditoriales": [
+      "Le trottoir de banlieue est un espace de l'entre-deux qui dit beaucoup de l'urbanisme français de la seconde moitié du XXe siècle — sans avoir besoin de le théoriser.",
+      "L'absence de piétons est en elle-même un signe à exploiter : quand quelqu'un marche là, c'est déjà une rupture du code.",
+      "Ne pas confondre avec le trottoir de grand ensemble : celui-ci est pavillonnaire, horizontal, parsemé de jardins — une solitude différente."
+    ]
+  },
+  {
+    "id": "venelle",
+    "label": "Venelle",
+    "type": "urbain-rue",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "passage piéton entre deux rangées de jardins clôturés ou de murs",
+      "sol en terre battue, en gravier ou en asphalte grossier",
+      "végétation qui déborde des jardins adjacents sur le passage",
+      "poteau électrique planté au milieu avec boîte de dérivation",
+      "panneau indicateur rouillé avec le nom de la venelle — souvent poétique",
+      "chats qui se glissent sous les grilles des jardins",
+      "ombre des arbres qui transforme la lumière en taches",
+      "portillon en bois ou en métal donnant sur un jardin privé"
+    ],
+    "bruits": [
+      "oiseaux depuis les jardins adjacents — sons proches et nombreux",
+      "pas sur le gravier ou la terre — bruits mous, sans écho",
+      "arrosage automatique ou manuel depuis un jardin en saison",
+      "enfants dans le jardin derrière le mur — voix proches mais invisibles"
+    ],
+    "odeurs": [
+      "herbe et terre humide depuis les jardins",
+      "fleurs de saison qui débordent des clôtures",
+      "compost ou tas de feuilles depuis une propriété adjacente",
+      "résine de pin ou odeur d'arbuste selon la végétation"
+    ],
+    "textures": [
+      "gravier ou terre meuble sous les pieds — son et sensation à la fois",
+      "feuille mouillée sur le bras si on frôle la végétation",
+      "portillon en bois qui résiste légèrement, à soulever pour ouvrir"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'avoir trouvé un passage que tout le monde ignore",
+      "calme végétal inattendu en milieu urbain",
+      "légère sensation d'intrusion dans un espace semi-privé",
+      "plaisir du détour, du raccourci inconnu"
+    ],
+    "usagesNarratifs": [
+      "passage secret que le personnage est le seul à connaître",
+      "espace de transition douce entre deux scènes ou deux états",
+      "lieu d'une conversation à l'abri des regards dans un cadre inattendu",
+      "révélateur de la géographie intime d'un personnage qui connaît son quartier"
+    ],
+    "tensionsTypiques": [
+      "venelle barrée ou transformée — disparition d'un repère connu",
+      "présence d'un inconnu dans un passage qu'on croyait exclusif",
+      "obscurité le soir dans un passage mal éclairé",
+      "portillon qui ne s'ouvre plus — accès coupé sans explication"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant du quartier qui la connaît",
+        "description": "La venelle est son raccourci, son secret géographique. Il y passe vite, sans y penser, mais avec une satisfaction diffuse de connaître la ville mieux que les autres."
+      },
+      {
+        "profil": "Promeneur qui la découvre",
+        "description": "S'arrête, hésite à l'emprunter. La végétation et le sol meuble tranchent avec la ville minérale. S'y engage lentement, curieux, légèrement méfiant."
+      },
+      {
+        "profil": "Enfant qui la fréquente pour jouer",
+        "description": "C'est son territoire de jeu préféré — ni rue, ni jardin, ni chemin ordinaire. La végétation est une jungle, le portillon un accès interdit. L'imagination y est souveraine."
+      }
+    ],
+    "notesEditoriales": [
+      "La venelle est un espace géographiquement simple mais narrativement riche : elle dit la connaissance intime d'un lieu mieux que n'importe quel dialogue.",
+      "Sa végétation en fait un espace saisonnier — très différent selon que c'est l'été exubérant ou l'hiver dénudé.",
+      "Éviter la venelle uniquement comme décor de suspense : c'est aussi un lieu de beauté discrète et d'appartenance à un quartier."
+    ]
+  }
+]

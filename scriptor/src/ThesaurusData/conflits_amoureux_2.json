@@ -1,0 +1,423 @@
+[
+  {
+    "id": "couple-qui-etouffe",
+    "label": "Couple qui s'étouffe",
+    "alias": ["couple étouffant", "relation étouffante", "fusion toxique", "couple fusionnel", "perte d'identité dans le couple", "dépendance affective", "manque d'espace dans le couple", "relation fusionnelle", "amour qui asphyxie", "dissolution dans l'autre"],
+    "famille": "conflits-amoureux",
+    "definitionCourte": "Relation dans laquelle l'un ou les deux partenaires perdent progressivement leur espace propre — psychologique, social ou physique — au point de ne plus se sentir exister hors du couple.",
+    "natureDuConflit": "Conflit entre le besoin d'amour et le besoin d'exister — être aimé et être libre semblent incompatibles.",
+    "forcesEnPresence": [
+      "amour réel mais envahissant qui ne se vit pas comme un contrôle",
+      "peur de l'abandon qui pousse à la fusion comme protection",
+      "identité progressivement absorbée par la relation sans décision consciente",
+      "attentes implicites jamais discutées qui deviennent des règles tacites",
+      "culpabilité à vouloir de l'espace dans une relation aimante",
+      "modèle de couple transmis comme idéal de fusion totale",
+      "dépendance émotionnelle symétrique ou asymétrique selon les cas"
+    ],
+    "declencheursFrequents": [
+      "demande de temps ou d'espace seul mal reçue — interprétée comme un rejet",
+      "amitié ou activité extérieure perçue comme une menace pour le couple",
+      "projet personnel qui échappe au couple et ne l'inclut pas",
+      "besoin d'autonomie qui émerge après une longue phase fusionnelle",
+      "reproche sur une absence ou une distraction hors du couple",
+      "retour d'un ami ou d'un lien d'avant la relation",
+      "moment de solitude choisi et découvert par l'autre",
+      "activité reprise sans en parler au préalable"
+    ],
+    "signauxAvantCoureurs": [
+      "activités personnelles progressivement abandonnées sans décision consciente",
+      "amis vus de moins en moins sans que personne ne le remarque",
+      "malaise diffus lors des rares moments passés seul",
+      "culpabilité à ne pas vouloir être ensemble en permanence",
+      "irritabilité sans raison apparente dans la vie commune quotidienne",
+      "fatigue inexplicable attribuée à autre chose que la relation",
+      "rêves ou pensées d'ailleurs de plus en plus fréquents",
+      "sensation de ne plus savoir ce qu'on aime faire seul"
+    ],
+    "silencesEtNonDits": [
+      "'j'ai besoin de souffler' ne se dit pas pour ne pas blesser l'autre",
+      "'tu m'aimes trop' est impossible à formuler sans paraître ingrat",
+      "le besoin d'espace n'est pas dit — il se manifeste en irritabilité ou en distance",
+      "l'autre ne sait pas qu'il étouffe — il croit juste aimer fort et bien",
+      "'je me perds dans cette relation' reste une pensée intérieure, jamais un aveu",
+      "la souffrance de l'étouffé reste souvent invisible parce que rien de concret ne se passe"
+    ],
+    "positionsDePouvoir": [
+      "celui qui étouffe l'autre détient le pouvoir affectif sans en avoir conscience",
+      "celui qui étouffe est souvent en position de demandeur — il dépend de l'autre pour se sentir en sécurité",
+      "la prise de distance de l'étouffé peut déclencher une crise chez l'autre et renverser les positions",
+      "l'étouffé devient paradoxalement celui qui décide de l'avenir de la relation en choisissant de rester ou de partir"
+    ],
+    "penseesTypiques": [
+      "Je l'aime mais je ne sais plus qui je suis sans lui.",
+      "Pourquoi est-ce que je me sens coupable de vouloir du temps seul ?",
+      "Il pense que si je veux être seul, c'est que je ne l'aime plus.",
+      "J'ai arrêté de voir mes amis et je n'ai même pas remarqué quand.",
+      "Je voudrais respirer sans que ça soit une trahison.",
+      "Il est gentil. Il m'aime vraiment. Alors pourquoi je me sens enfermé ?",
+      "Est-ce que c'est moi le problème ? Peut-être que je n'aime pas assez.",
+      "Je me souviens à peine de ce que j'aimais avant lui.",
+      "Si je lui dis, il va croire que je veux rompre. Et ce n'est pas ce que je veux."
+    ],
+    "comportementsTypiques": [
+      "double vie discrète pour préserver un espace propre et invisible",
+      "irritabilité reportée sur des détails pratiques sans rapport avec la vraie cause",
+      "distance physique prise soudainement sans l'expliquer",
+      "reprise progressive d'activités personnelles avec une culpabilité constante",
+      "explosion soudaine après une longue accumulation silencieuse",
+      "mensonges par omission pour éviter d'avoir à négocier son espace",
+      "fuite dans le travail ou dans des obligations extérieures comme prétexte",
+      "dépression silencieuse attribuée à autre chose qu'à l'étouffement"
+    ],
+    "variantes": [
+      {
+        "relation": "Début de relation très intense",
+        "description": "La fusion initiale est vécue comme de l'amour. Les deux ont renoncé à leur espace propre avec enthousiasme. Quand l'un commence à étouffer, l'autre ne comprend pas — rien n'a changé selon lui. C'est l'intensité choisie qui est devenue un piège."
+      },
+      {
+        "relation": "Partenaire anxieux et partenaire qui fuit",
+        "description": "L'un cherche la fusion par peur de l'abandon, l'autre prend de la distance pour respirer. Plus l'un s'approche, plus l'autre recule. Le cycle est épuisant pour les deux et se renforce lui-même."
+      },
+      {
+        "relation": "Couple après un traumatisme commun",
+        "description": "Deuil, maladie, crise — l'événement a soudé mais aussi enfermé. La fusion protectrice est devenue étouffante. En sortir semble une trahison de ce qu'ils ont traversé ensemble."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère dépendance", "description": "Le couple passe beaucoup de temps ensemble. L'espace propre se réduit sans inquiéter ni l'un ni l'autre." },
+      { "niveau": 2, "label": "Fusion installée", "description": "Les identités commencent à se confondre. Les activités séparées provoquent une légère tension." },
+      { "niveau": 3, "label": "Étouffement ressenti", "description": "L'un ressent le manque d'espace clairement. Il ne sait pas comment le dire sans tout remettre en cause." },
+      { "niveau": 4, "label": "Tension ouverte", "description": "La demande d'espace a créé une crise. L'autre se sent rejeté. Le conflit est nommé mais mal compris." },
+      { "niveau": 5, "label": "Rupture de l'équilibre", "description": "L'un choisit sa liberté — dans la relation ou hors d'elle. L'autre doit reconstruire seul ce qu'il a mis dans le couple." }
+    ],
+    "escaladeTypique": [
+      "fusion vécue comme de l'amour et valorisée par les deux",
+      "étouffement ressenti en silence par l'un — honte de le ressentir",
+      "distance prise progressivement sans explication",
+      "crise déclenchée par une demande d'espace ou une absence",
+      "négociation difficile ou rupture"
+    ],
+    "voiesDeResolution": [
+      "nommer le besoin d'espace sans accuser l'autre d'étouffer",
+      "acceptation par les deux que deux personnes distinctes font un couple plus solide",
+      "reconstruction active d'activités et de liens propres à chacun",
+      "conversation honnête sur les besoins respectifs sans jugement ni culpabilisation",
+      "thérapie de couple pour nommer la dynamique sans la vivre comme une attaque"
+    ],
+    "blessuresUnderlyantes": [
+      "peur de l'abandon qui pousse à la fusion comme protection contre la perte",
+      "identité fragile qui cherche à se définir dans l'autre faute de base propre",
+      "modèle relationnel fusionnel transmis comme idéal dans la famille d'origine",
+      "traumatisme passé où la distance avait précédé une perte réelle",
+      "expérience d'une solitude si douloureuse que la fusion semble préférable"
+    ],
+    "contextesFavorables": [
+      "début de relation très intense avec retrait progressif du monde extérieur",
+      "partenaire avec fort attachement anxieux et peur de l'abandon",
+      "couple isolé géographiquement ou socialement sans réseau autour",
+      "période de crise qui a resserré les liens au-delà du sain"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage avec peur de l'abandon qui fusionne pour se protéger de la perte",
+      "personnage dont l'identité était fragile avant la relation et qui se construit dedans",
+      "personnage qui étouffe sans le savoir — il croit juste aimer fort",
+      "personnage qui s'éteint progressivement dans une relation sincèrement aimante",
+      "personnage dont l'entourage remarque la disparition avant lui-même"
+    ],
+    "erreursDEcriture": [
+      "Rendre celui qui étouffe l'autre entièrement coupable — il aime souvent sincèrement, c'est sa manière d'aimer qui pose problème.",
+      "Confondre avec la jalousie — l'étouffement n'est pas toujours lié à la peur d'un rival mais au besoin de fusion.",
+      "Résoudre par une grande conversation — la dynamique fusionnelle se change dans les actes et le temps, pas dans les mots seuls.",
+      "Oublier que celui qui étouffe souffre aussi — il ne comprend pas ce qui ne va pas.",
+      "Présenter la rupture comme la seule issue — certains couples rééquilibrent réellement leur espace respectif."
+    ],
+    "notesEditoriales": [
+      "Ce conflit est particulièrement délicat à écrire parce que le 'coupable' aime sincèrement — c'est ça qui le rend complexe et humain.",
+      "Sa force narrative est dans le personnage qui disparaît progressivement sans que personne ne s'en alarme, pas même lui.",
+      "Distinguer l'étouffement temporaire lié à une période difficile de l'étouffement structurel lié au fonctionnement du couple.",
+      "Le personnage étouffé peut être sympathique — ce n'est pas une victime, c'est quelqu'un qui a besoin d'air et ne sait pas comment le dire."
+    ],
+    "dynamiqueAssociee": { "id": "relation-amoureuse-etouffante", "label": "Relation amoureuse étouffante" }
+  },
+  {
+    "id": "fin-amitie-amoureuse",
+    "label": "Fin d'une amitié amoureuse",
+    "alias": ["amitié qui bascule", "amis amoureux", "sortir de la friendzone", "amour entre amis", "amitié brisée par l'amour", "amis qui deviennent amants", "aveu entre amis", "amitié traversée par l'amour", "sentiment pour un ami", "tout perdre en avouant"],
+    "famille": "conflits-amoureux",
+    "definitionCourte": "Moment de bascule où une amitié profonde est traversée par des sentiments amoureux — partagés ou non — qui transforment ou détruisent le lien original.",
+    "natureDuConflit": "Conflit entre deux formes d'amour — le personnage risque de perdre l'amitié en cherchant autre chose, ou de perdre autre chose en restant dans l'amitié.",
+    "forcesEnPresence": [
+      "amitié réelle et profonde qui vaut la peine d'être préservée",
+      "sentiments amoureux qui changent la relation de l'intérieur sans qu'on le décide",
+      "peur de tout perdre en avouant — l'amitié ET la possibilité d'autre chose",
+      "ambiguïté possible des deux côtés qui entretient l'espoir et la confusion",
+      "histoire commune longue qui complique tout changement de registre",
+      "attentes contradictoires sur ce que la relation peut devenir",
+      "pression de l'entourage commun qui observe et interprète"
+    ],
+    "declencheursFrequents": [
+      "moment d'intimité inhabituel qui franchit une ligne tacite",
+      "jalousie face à une nouvelle relation de l'ami révélant des sentiments cachés",
+      "aveu de l'un qui change tout en un instant",
+      "geste ou parole qui révèle ce qui était tu sans le vouloir",
+      "période de vulnérabilité partagée qui rapproche plus qu'habituellement",
+      "séparation ou éloignement qui révèle l'attachement réel",
+      "question directe d'un tiers qui force à mettre des mots",
+      "relation amoureuse de l'un qui devient insupportable pour l'autre"
+    ],
+    "signauxAvantCoureurs": [
+      "jalousie face aux nouvelles relations de l'ami qui dépasse l'amitié normale",
+      "pensées qui débordent du cadre de l'amitié sans qu'on le décide",
+      "gestes d'affection dont le sens devient progressivement ambigu",
+      "conversations qui s'attardent plus longtemps que nécessaire",
+      "évitement soudain pour se protéger des sentiments qu'on commence à reconnaître",
+      "comparaison constante entre l'ami et les partenaires amoureux",
+      "malaise quand l'ami parle d'une relation ou d'un rendez-vous",
+      "rêves ou pensées sur l'ami qui débordent du registre amical"
+    ],
+    "silencesEtNonDits": [
+      "les sentiments restent souvent portés seul pendant longtemps pour ne pas perdre l'amitié",
+      "'si je te dis ça, on ne pourra pas revenir en arrière' — et les deux le savent",
+      "l'ambiguïté peut être entretenue par les deux sans que personne ne parle pour ne pas rompre le charme",
+      "après le rejet, 'on reste amis' est dit mais rarement possible vraiment",
+      "'je pensais que tu ressentais la même chose' ne se dit souvent qu'après la rupture de l'amitié",
+      "la jalousie face aux nouvelles relations de l'ami n'est jamais nommée pour ce qu'elle est vraiment"
+    ],
+    "penseesTypiques": [
+      "Si je lui dis, je perds l'amitié. Si je ne dis rien, je perds quelque chose d'autre.",
+      "Est-ce que ce que je ressens, c'est de l'amour ou juste de l'attachement très fort ?",
+      "Il sait. Il ne peut pas ne pas savoir. Mais il ne dit rien non plus.",
+      "On ne peut pas rester amis après ça — et pourtant c'est tout ce que je veux.",
+      "Je préfère le garder comme ami que de tout risquer. Mais je n'y arrive plus.",
+      "Est-ce que j'ai toujours ressenti ça ou est-ce que ça a changé un jour sans que je m'en rende compte ?",
+      "Si je ne dis rien et qu'il se met avec quelqu'un d'autre, je le regretterai toute ma vie.",
+      "Peut-être que l'amitié était déjà de l'amour — juste pas avoué.",
+      "Il me traitera différemment après. Même s'il dit oui. Même si tout va bien."
+    ],
+    "comportementsTypiques": [
+      "tests discrets pour tenter de sentir si les sentiments sont partagés",
+      "évitement puis rapprochement contradictoires qui déconcertent l'ami",
+      "jalousie mal masquée face aux nouvelles relations de l'autre",
+      "distance prise après l'aveu ou le rejet pour se protéger",
+      "tentative de reconstruction de l'amitié qui ne fonctionne plus comme avant",
+      "surcompensation en mode 'super ami' pour noyer les sentiments",
+      "interprétation de chaque geste de l'autre pour y chercher des signes",
+      "confession à des tiers communs qui complexifie encore la situation"
+    ],
+    "positionsDePouvoir": [
+      "celui qui a les sentiments est en position vulnérable — il a quelque chose à perdre",
+      "celui qui reçoit l'aveu détient le pouvoir de garder ou de perdre les deux",
+      "si les sentiments sont partagés, la prise de risque devient symétrique mais la première parole reste un acte de courage",
+      "le refus de parler pour préserver l'amitié donne tacitement le pouvoir à l'autre sur la suite"
+    ],
+    "variantes": [
+      {
+        "relation": "Amitié longue durée",
+        "description": "L'histoire commune est riche et irremplaçable. Le risque est à la hauteur de ce qui a été construit. Un rejet ne détruit pas seulement une relation — il remet en question des années de confiance partagée."
+      },
+      {
+        "relation": "Sentiments partagés découverts",
+        "description": "Les deux ressentaient la même chose sans le savoir. La révélation est libératrice mais terrifiante. La transition d'amis à amants doit se faire sans écraser ce qui existait avant."
+      },
+      {
+        "relation": "Amour non partagé dans une amitié",
+        "description": "L'un aime, l'autre pas de la même façon. Le rejet crée une gêne impossible à effacer. L'amitié survit rarement telle quelle. Les deux perdent quelque chose de précis."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Attirance remarquée", "description": "Le personnage note un changement dans ses sentiments. L'amitié continue normalement, rien ne le montre." },
+      { "niveau": 2, "label": "Tension secrète", "description": "Les sentiments occupent de la place intérieure. L'amitié commence à changer de l'intérieur sans que l'autre s'en aperçoive." },
+      { "niveau": 3, "label": "Seuil critique", "description": "Le silence devient difficile à tenir. Chaque interaction est chargée d'un sous-texte que les deux ressentent." },
+      { "niveau": 4, "label": "Révélation", "description": "Les sentiments sont exprimés ou un acte les révèle involontairement. La relation ne sera plus jamais exactement la même." },
+      { "niveau": 5, "label": "Transformation ou perte", "description": "L'amitié devient relation amoureuse ou s'effondre. Il n'y a pas de retour possible au point de départ." }
+    ],
+    "escaladeTypique": [
+      "amitié forte, bien établie, vécue comme précieuse",
+      "sentiments qui se développent discrètement sans décision",
+      "tension et ambiguïté croissantes qui colorent chaque échange",
+      "aveu ou acte révélateur qui change tout",
+      "transformation en couple ou rupture progressive du lien amical"
+    ],
+    "voiesDeResolution": [
+      "distance temporaire pour retrouver une base stable avant de tenter de reconstruire",
+      "honnêteté claire sur ce que chacun peut offrir et ce qu'il ne peut pas",
+      "acceptation que la relation a changé et ne reviendra jamais à l'exact avant",
+      "temps suffisant pour que les sentiments changent de nature ou s'apaisent",
+      "deuil explicite de l'amitié telle qu'elle était pour avancer vers autre chose"
+    ],
+    "blessuresUnderlyantes": [
+      "peur de la perte qui retarde l'aveu jusqu'à ce que la situation devienne insupportable",
+      "attachement si fort que toute autre relation semble insuffisante en comparaison",
+      "schéma de tomber amoureux de personnes déjà présentes et sûres dans la vie",
+      "difficulté à distinguer amour profond et amour romantique — les deux sont réels",
+      "peur du rejet si grande que l'amitié comme substitut semble préférable"
+    ],
+    "contextesFavorables": [
+      "amitié longue avec forte intimité émotionnelle et habitude de tout partager",
+      "période de vulnérabilité partagée — deuil, séparation, crise",
+      "contexte de proximité intense et inhabituel — voyage, cohabitation, urgence",
+      "personnage dont les relations amoureuses passées ont toutes découlé d'une amitié"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage dont le meilleur ami est aussi la personne la plus importante dans sa vie",
+      "personnage qui fait difficilement confiance et a tout investi dans cette amitié",
+      "personnage qui préfère le risque à l'ambiguïté et ne peut plus se taire",
+      "personnage qui se protège de l'amour romantique derrière l'amitié comme espace sûr",
+      "personnage qui réalise que l'amitié était de l'amour depuis longtemps"
+    ],
+    "erreursDEcriture": [
+      "Résoudre systématiquement par la réciprocité — l'amour non partagé dans une amitié est souvent plus honnête et plus fort narrativement.",
+      "Oublier le deuil de l'amitié même quand la relation amoureuse commence — quelque chose se transforme toujours.",
+      "Rendre la transition trop fluide — passer d'amis à amants crée une gêne réelle, un temps d'adaptation, de nouveaux codes à trouver.",
+      "Confondre avec l'amour non réciproque simple — ici il y a une histoire d'amitié forte à perdre, ce qui change tout le poids de la scène.",
+      "Oublier l'entourage commun — les amis partagés ont souvent vu avant les intéressés et leur réaction compte."
+    ],
+    "notesEditoriales": [
+      "Ce conflit est particulièrement riche parce qu'il met en danger deux choses simultanément — l'amitié existante et la possibilité d'un amour.",
+      "La scène la plus forte n'est souvent pas l'aveu mais le moment juste avant — quand les deux savent et que rien n'est encore dit.",
+      "Distinguer l'amitié qui devient amour de l'amour habillé en amitié dès le départ — les deux trajectoires sont très différentes à écrire.",
+      "Après le rejet, ne pas accélérer — la maladresse, la gêne et le deuil prennent du temps et c'est là que tout se joue."
+    ]
+  },
+  {
+    "id": "jalousie-amoureuse",
+    "label": "Jalousie amoureuse",
+    "alias": ["jalousie dans le couple", "possessivité amoureuse", "jaloux pathologique", "jalousie maladive", "jalousie chronique", "peur de perdre l'autre", "jalousie réactive", "contrôle jaloux", "surveillance dans le couple", "jalousie par insécurité"],
+    "famille": "conflits-amoureux",
+    "definitionCourte": "Sentiment douloureux et souvent irrationnel dans le couple, né de la peur de perdre le partenaire au profit d'un tiers réel ou imaginé, qui peut prendre des formes légères ou destructrices.",
+    "natureDuConflit": "Conflit intérieur projeté sur la relation — la jalousie dit plus sur la blessure du jaloux que sur le comportement réel du partenaire.",
+    "forcesEnPresence": [
+      "peur de la perte ou du remplacement comme moteur irrationnel",
+      "insécurité affective profonde souvent antérieure à la relation",
+      "histoire passée de trahison ou d'abandon qui installe une vigilance permanente",
+      "confiance insuffisante en soi — le personnage ne croit pas pouvoir être choisi durablement",
+      "comportements ambigus réels ou interprétés du partenaire qui alimentent la peur",
+      "attachement très fort qui rend la perte insupportable à imaginer",
+      "honte de la jalousie elle-même qui empêche d'en parler directement"
+    ],
+    "declencheursFrequents": [
+      "attention accordée par le partenaire à une tierce personne perçue comme menaçante",
+      "absence non expliquée ou explication jugée insuffisante",
+      "contact avec un ex ou une personne perçue comme une concurrence",
+      "changement de comportement inexpliqué du partenaire",
+      "souvenir d'une trahison passée réactivé par un détail anodin",
+      "compliment fait à quelqu'un d'autre devant le jaloux",
+      "message ou interaction sur les réseaux sociaux qui intrigue",
+      "retard non signalé ou changement de plans sans prévenir"
+    ],
+    "signauxAvantCoureurs": [
+      "questions anodines sur l'emploi du temps de l'autre qui cachent une vérification",
+      "vérification discrète du téléphone ou des réseaux sociaux",
+      "légère irritation quand l'autre mentionne quelqu'un d'une certaine façon",
+      "besoin de réassurance plus fréquent qu'habituellement",
+      "humeur qui change selon les allées et venues du partenaire",
+      "attention anormale portée aux interactions de l'autre en public",
+      "malaise face aux amis du partenaire sans raison précise",
+      "demandes d'information qui deviennent progressivement plus systématiques"
+    ],
+    "silencesEtNonDits": [
+      "'j'ai peur que tu me quittes pour quelqu'un d'autre' est rarement dit directement — trop vulnérable",
+      "la vraie question — 'est-ce que tu m'aimes encore ?' — se pose sous forme d'accusations ou de reproches",
+      "la honte de la jalousie reste souvent muette — le jaloux sait que c'est irrationnel",
+      "l'origine de la peur — blessure passée — n'est jamais nommée parce qu'elle est trop douloureuse",
+      "'je te surveille' ne se dit jamais — ça se fait discrètement",
+      "le partenaire ne dit pas 'tu m'étouffes' pour ne pas provoquer une crise de plus"
+    ],
+    "penseesTypiques": [
+      "Pourquoi il lui sourit comme ça ? Il ne me sourit plus comme ça.",
+      "Si j'étais suffisant, il n'aurait pas besoin de l'attention des autres.",
+      "Je sais que c'est irrationnel. Mais je ne peux pas m'en empêcher.",
+      "Il me ment — ou peut-être que c'est moi qui deviens fou.",
+      "Je surveille tellement que je finis peut-être par créer ce que j'ai peur de trouver.",
+      "S'il m'aimait vraiment, il comprendrait pourquoi ça me fait peur.",
+      "Chaque fois qu'il est parti et qu'il revient, je suis soulagé. Jusqu'à la prochaine fois.",
+      "Je vais le perdre de toute façon. Ça a toujours fini comme ça.",
+      "Il n'a rien fait de mal. C'est moi le problème. Et je ne sais pas comment m'arrêter."
+    ],
+    "comportementsTypiques": [
+      "vérification répétée de l'emploi du temps de l'autre sous prétexte de curiosité",
+      "questions indirectes et détournées pour tester la fidélité sans accuser directement",
+      "isolement progressif du partenaire de son entourage pour réduire les 'menaces'",
+      "punition silencieuse — froideur, bouderie, distance — après une jalousie non exprimée",
+      "demande de réassurance constante qui n'apaise jamais vraiment",
+      "contrôle discret des communications — téléphone, réseaux, messageries",
+      "interrogatoire déguisé en conversation normale après chaque absence",
+      "explosion lors d'un déclencheur mineur après accumulation de petites jalousies"
+    ],
+    "positionsDePouvoir": [
+      "le jaloux est en position basse — il dépend de l'autre pour se sentir en sécurité",
+      "le partenaire détient le pouvoir de rassurer ou de blesser par ses comportements",
+      "la jalousie peut devenir un outil de contrôle inconscient — ou conscient — qui renverse les positions",
+      "le partenaire se retrouve responsable de l'état émotionnel du jaloux sans l'avoir choisi"
+    ],
+    "variantes": [
+      {
+        "relation": "Jalousie réactive — signal réel",
+        "description": "Le partenaire a effectivement un comportement ambigu ou trompeur. La jalousie est une réponse à des signaux réels. La distinction entre perception et réalité est le cœur du conflit — et souvent la question la plus difficile à résoudre."
+      },
+      {
+        "relation": "Jalousie chronique — origine intérieure",
+        "description": "Aucun comportement du partenaire ne justifie l'intensité de la jalousie. Elle vient d'une blessure ancienne. Le partenaire peut tout faire 'bien' sans que la jalousie s'apaise durablement."
+      },
+      {
+        "relation": "Jalousie réciproque",
+        "description": "Les deux sont jaloux. Le couple crée ses propres déclencheurs en miroir. La relation est intense mais épuisante. Elle peut devenir compétitive ou se détruire par accumulation de petites crises."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Pointe de jalousie", "description": "Légère irritation passagère. Le personnage la gère seul sans impact sur la relation." },
+      { "niveau": 2, "label": "Jalousie consciente", "description": "Le personnage sait ce qu'il ressent et essaie de le contenir. Quelques signes visibles mais contrôlés." },
+      { "niveau": 3, "label": "Jalousie active", "description": "La jalousie oriente les comportements. Questions, vérifications discrètes, tension perceptible dans la relation." },
+      { "niveau": 4, "label": "Contrôle jaloux", "description": "La jalousie dicte une partie de l'organisation de la vie commune. L'autre commence à s'auto-censurer." },
+      { "niveau": 5, "label": "Jalousie destructrice", "description": "La jalousie est devenue le centre de la relation. Elle isole, contrôle, détruit ou explose violemment." }
+    ],
+    "escaladeTypique": [
+      "insécurité ou blessure ancienne non travaillée",
+      "déclencheur réel ou imaginé qui réactive la peur",
+      "surveillance discrète et interprétation des comportements",
+      "confrontation ou explosion sous l'effet de l'accumulation",
+      "crise puis réconciliation puis nouveau cycle — ou rupture"
+    ],
+    "voiesDeResolution": [
+      "nommer la peur réelle — 'j'ai peur de te perdre' — plutôt que l'accusation",
+      "partenaire qui pose des limites claires avec bienveillance sans punir",
+      "travail individuel sur la blessure d'origine qui alimente la jalousie",
+      "reconstruction de la confiance en soi indépendamment de la validation de la relation",
+      "communication sur les besoins de réassurance avant que la crise n'arrive"
+    ],
+    "blessuresUnderlyantes": [
+      "trahison ou abandon passé qui a installé une vigilance permanente comme protection",
+      "estime de soi insuffisante pour croire qu'on peut être choisi durablement sans méfier",
+      "attachement insécure anxieux appris tôt dans l'enfance",
+      "comparaison défavorable chronique avec d'autres interprétée comme une menace constante",
+      "relation passée dans laquelle la jalousie était justifiée — difficile à ne plus appliquer"
+    ],
+    "contextesFavorables": [
+      "relation à très fort investissement émotionnel où la perte serait dévastatrice",
+      "partenaire avec réseau social large ou vie sociale active perçue comme concurrente",
+      "personnage avec histoire personnelle de trahison ou d'abandon non surmontée",
+      "relation avec un passé de jalousie ou d'infidélité qui a établi un précédent"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage avec attachement insécure ou anxieux forgé tôt",
+      "personnage ayant vécu une infidélité dans une relation passée qui ne s'en est pas remis",
+      "personnage dont l'estime de soi dépend entièrement d'être le seul et l'unique",
+      "personnage dont l'identité est entièrement construite autour de la relation",
+      "personnage qui a été très seul et pour qui perdre la relation signifie retourner au vide"
+    ],
+    "erreursDEcriture": [
+      "Confondre jalousie amoureuse et jalousie générale — ici c'est la peur de perdre la relation qui est centrale, pas la comparaison de valeur.",
+      "Rendre le jaloux uniquement toxique — la jalousie naît souvent d'une vraie vulnérabilité et d'une vraie peur, pas d'un désir de contrôler.",
+      "Résoudre par la réassurance — elle apaise ponctuellement mais ne règle jamais la blessure d'origine.",
+      "Oublier la honte du jaloux — il souffre souvent autant de ce qu'il ressent que de la situation elle-même.",
+      "Confondre jalousie et violence — la jalousie peut mener au contrôle mais les deux ne sont pas synonymes et méritent d'être distinguées."
+    ],
+    "notesEditoriales": [
+      "La jalousie amoureuse est plus intéressante narrativement quand elle dit quelque chose sur la blessure du personnage plutôt que sur son partenaire.",
+      "Distinguer la jalousie comme symptôme d'un problème de couple réel et la jalousie comme schéma intérieur indépendant du partenaire.",
+      "La scène la plus forte n'est pas la crise — c'est le moment où le jaloux se voit lui-même, reconnaît l'irrationalité et ne sait pas comment s'arrêter.",
+      "La jalousie chronique isole le jaloux autant que le partenaire — il ne peut se confier à personne sans honte."
+    ]
+  }
+]

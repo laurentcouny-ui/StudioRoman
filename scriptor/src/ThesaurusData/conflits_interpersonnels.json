@@ -1,0 +1,704 @@
+[
+  {
+    "id": "rivalite",
+    "label": "Rivalité",
+    "alias": ["rivalité entre pairs", "compétition acharnée", "concurrence relationnelle", "opposition de prestige", "lutte pour la première place", "se mesurer à l'autre", "duel symbolique", "affrontement d'égaux", "désir de dépasser", "combat de reconnaissance"],
+    "famille": "conflits-interpersonnels",
+    "definitionCourte": "Opposition entre deux personnes qui cherchent chacune à prendre l'avantage sur l'autre, souvent sur un terrain où la comparaison est inévitable.",
+    "natureDuConflit": "Affrontement de position, de prestige ou de reconnaissance — chacun veut être premier dans un espace où il n'y a qu'une seule place.",
+    "forcesEnPresence": [
+      "besoin de gagner et d'être reconnu comme supérieur",
+      "orgueil blessé ou orgueil à protéger",
+      "insécurité profonde dissimulée derrière la compétition",
+      "comparaison constante imposée par le contexte ou choisie",
+      "peur d'être insuffisant si l'autre réussit mieux",
+      "admiration refoulée qui se retourne en hostilité",
+      "histoire commune chargée de comparaisons passées"
+    ],
+    "declencheursFrequents": [
+      "succès visible et public de l'autre dans un domaine partagé",
+      "mise en concurrence explicite par un tiers — jury, supérieur, parent",
+      "reconnaissance accordée à l'adversaire et refusée à soi",
+      "partage d'un même objectif limité — poste, prix, partenaire",
+      "promotion ou récompense accordée à sens unique",
+      "comparaison faite ouvertement par quelqu'un d'important",
+      "victoire de l'autre qui réactive une défaite passée",
+      "opportunité unique qui ne peut aller qu'à l'un des deux"
+    ],
+    "signauxAvantCoureurs": [
+      "surveillance discrète des faits et gestes de l'autre sous couvert d'intérêt",
+      "comparaisons anodines qui reviennent trop souvent dans la conversation",
+      "sourire qui se crispe imperceptiblement quand l'autre est félicité",
+      "questions posées pour évaluer l'autre, pas pour s'intéresser à lui",
+      "intérêt soudain et inhabituel pour les projets de l'autre",
+      "légère irritation lors des succès de l'autre sans raison avouable",
+      "effort supplémentaire déclenché par la performance de l'autre, jamais par la sienne",
+      "commentaires habillés en plaisanteries qui ont un fond de vrai"
+    ],
+    "silencesEtNonDits": [
+      "jamais l'un ne dira directement qu'il admire l'autre — c'est la donnée la plus enfouie",
+      "personne ne nomme la compétition pour ce qu'elle est vraiment",
+      "la peur d'être inférieur reste soigneusement enfouie",
+      "l'attachement possible entre les deux — car la rivalité présuppose du respect — n'est jamais évoqué",
+      "'tu es meilleur que moi sur ce point' est une phrase qui ne sera peut-être jamais dite",
+      "la question 'est-ce qu'on sera amis après ?' n'est pas formulée"
+    ],
+    "positionsDePouvoir": [
+      "souvent équilibrée au départ — c'est pour ça qu'il y a rivalité",
+      "bascule quand l'un réussit visiblement ou est désigné meilleur",
+      "peut devenir asymétrique si l'un des deux abandonne la lutte — ce qui libère ou dévaste l'autre",
+      "l'inversion de pouvoir est un moment dramatique fort qui réveille tout"
+    ],
+    "penseesTypiques": [
+      "Je dois être meilleur que lui. C'est la seule chose qui compte.",
+      "Il ne mérite pas ce qu'il a. Pas autant que moi.",
+      "Je refuse d'être derrière. Pas lui. Pas maintenant.",
+      "Pourquoi lui et pas moi ? Qu'est-ce qu'il a que je n'ai pas ?",
+      "Je vais lui montrer ce que je vaux. Il ne m'a pas encore vu vraiment.",
+      "Je me fous de lui. Vraiment. Ce n'est pas de la jalousie.",
+      "Si j'étais honnête, il est bon. Mais je ne vais pas le dire.",
+      "Chaque fois qu'il gagne, j'ai l'impression de perdre quelque chose de plus que le prix.",
+      "On se ressemble trop pour que ça soit simple."
+    ],
+    "comportementsTypiques": [
+      "surenchère systématique — faire toujours un peu plus que l'autre",
+      "sabotage discret — renseigner mal, retarder une information",
+      "défi lancé sans raison apparente pour reprendre l'avantage",
+      "surveillance constante des progrès et succès de l'autre",
+      "tentative de récupérer les mérites d'autrui ou de minimiser ses succès",
+      "mobilisation de ressources supplémentaires dès que l'autre avance",
+      "alliances tactiques avec des tiers pour isoler l'adversaire",
+      "refus de collaborer ou de partager ce qui pourrait aider l'autre"
+    ],
+    "variantes": [
+      {
+        "relation": "Frères ou sœurs",
+        "description": "La rivalité est ancienne, souvent non choisie. Elle porte la mémoire des comparaisons parentales. La fierté rend la réconciliation difficile même quand les deux le souhaitent."
+      },
+      {
+        "relation": "Collègues",
+        "description": "La rivalité est masquée par la politesse professionnelle. Elle s'exprime dans les réunions, les projets, les opportunités. La façade de coopération est obligatoire et épuisante."
+      },
+      {
+        "relation": "Anciens amis",
+        "description": "La rivalité est d'autant plus douloureuse qu'il y avait de l'affection. Elle mêle la blessure et l'attachement. Chaque victoire de l'un est ressentie comme une trahison."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Friction légère", "description": "Comparaisons ponctuelles, légère tension. Le personnage minimise ce qu'il ressent." },
+      { "niveau": 2, "label": "Compétition active", "description": "Surveillance réciproque, piques régulières. La relation est colorée par la compétition." },
+      { "niveau": 3, "label": "Rivalité déclarée", "description": "L'un ou les deux reconnaissent intérieurement la compétition. Les choix sont guidés par elle." },
+      { "niveau": 4, "label": "Hostilité ouverte", "description": "La façade disparaît. Les attaques deviennent directes. L'entourage perçoit la tension." },
+      { "niveau": 5, "label": "Destruction mutuelle", "description": "L'un ou les deux sabotent activement. La relation est consumée. Les dommages dépassent largement l'enjeu initial." }
+    ],
+    "escaladeTypique": [
+      "comparaison anodine ou première mise en concurrence",
+      "frustration intérieure non dite mais qui oriente les comportements",
+      "pique voilée ou test de la réaction de l'autre",
+      "confrontation directe ou incident révélateur",
+      "rupture ou réconciliation forcée — souvent par un contexte qui impose la coopération"
+    ],
+    "voiesDeResolution": [
+      "l'un reconnaît sincèrement la valeur de l'autre sans y être forcé",
+      "un ennemi commun ou une épreuve partagée crée une alliance temporaire qui change tout",
+      "l'enjeu disparaît ou perd toute valeur — la compétition s'effondre faute d'objet",
+      "l'un des deux abandonne la lutte, ce qui libère l'autre d'avoir à gagner",
+      "reconnaissance mutuelle que la rivalité coûtait plus qu'elle ne rapportait"
+    ],
+    "blessuresUnderlyantes": [
+      "manque de reconnaissance dans l'enfance ou à une période clé",
+      "comparaison parentale répétée qui a installé la compétition comme norme",
+      "humiliation passée liée à une défaite publique jamais surmontée",
+      "sentiment persistant de ne jamais être suffisant sauf en étant premier",
+      "identité construite entièrement sur la performance et la comparaison"
+    ],
+    "contextesFavorables": [
+      "environnement où les ressources, postes ou opportunités sont explicitement limités",
+      "présence d'un juge, d'un jury ou d'un public qui compare et classe",
+      "passé commun chargé de comparaisons récurrentes",
+      "domaine où les deux personnages excellent et où il n'y a pas de place pour deux"
+    ],
+    "personnagesSouventConcernes": [
+      "frères et sœurs marqués par les comparaisons parentales",
+      "anciens amis devenus concurrents dans le même domaine",
+      "collègues visant le même poste ou la même reconnaissance",
+      "élèves d'un même maître qui se disputent son héritage ou sa préférence",
+      "personnage dont l'identité entière est construite sur la performance"
+    ],
+    "erreursDEcriture": [
+      "Confondre rivalité et jalousie — la rivalité se joue en face à face, la jalousie se cache et se nie.",
+      "Rendre la rivalité unidimensionnelle : un bon rival est quelqu'un qu'on admire malgré soi.",
+      "Résoudre trop vite — une rivalité qui dure crée plus de tension narrative qu'une confrontation expédiée.",
+      "Oublier ce que la rivalité révèle sur les deux personnages, pas seulement sur leur relation.",
+      "Manquer l'ironie : les rivaux se ressemblent souvent plus qu'ils ne le savent — c'est là que ça devient intéressant."
+    ],
+    "notesEditoriales": [
+      "La rivalité la plus forte est souvent celle où les deux personnages se ressemblent plus qu'ils ne le croient.",
+      "Elle peut coexister avec une forme d'affection ou de respect — c'est là qu'elle devient complexe et intéressante.",
+      "Distinguer la rivalité choisie — compétition sportive — de la rivalité subie — fratrie, même mentor, même contexte.",
+      "Le moment où l'un des deux lâche peut être plus fort narrativement que la victoire de l'autre."
+    ],
+    "dynamiqueAssociee": { "id": "rivalite-structurelle-entre-egaux", "label": "Rivalité structurelle entre égaux" }
+  },
+  {
+    "id": "trahison",
+    "label": "Trahison",
+    "alias": ["traîtrise", "coup de poignard dans le dos", "rupture de loyauté", "trahison d'un allié", "trahison par un proche", "confidence trahie", "confiance brisée", "forfaiture intime", "retournement de camp", "loyauté vendue"],
+    "famille": "conflits-interpersonnels",
+    "definitionCourte": "Rupture d'une loyauté ou d'une confiance accordée, commise par quelqu'un en qui le personnage croyait.",
+    "natureDuConflit": "Fracture brutale d'un lien de confiance, souvent irréparable — non parce que l'acte est irréversible, mais parce que la naïveté ne peut pas être recouvrée.",
+    "forcesEnPresence": [
+      "confiance aveugle ou sincère d'un côté — la condition de la trahison",
+      "intérêt personnel, peur ou lâcheté de l'autre côté",
+      "dépendance émotionnelle qui rendait la trahison particulièrement accessible",
+      "secret partagé devenu une arme une fois la loyauté rompue",
+      "contexte de pression ou d'enjeu qui a rendu le choix difficile",
+      "incapacité du traître à mesurer les conséquences avant l'acte",
+      "relation longue qui a créé une vulnérabilité exposée"
+    ],
+    "declencheursFrequents": [
+      "révélation d'un secret confié dans l'intimité",
+      "alliance formée avec l'ennemi ou le rival du personnage",
+      "mensonge prolongé découvert après des mois ou des années",
+      "abandon au moment le plus vulnérable — maladie, crise, perte",
+      "profit tiré directement au détriment du personnage trahi",
+      "dénonciation publique de ce qui devait rester privé",
+      "changement de camp lors d'un conflit ou d'une crise collective",
+      "acte de sabotage discret attribué à un autre, découvert après"
+    ],
+    "signauxAvantCoureurs": [
+      "petits mensonges passés inaperçus ou rationalisés",
+      "distances inexpliquées et progressives dans la relation",
+      "évitement de certains sujets devenus soudainement sensibles",
+      "comportements qui ne collent plus avec les paroles données",
+      "loyautés qui semblent se déplacer discrètement sans que rien soit dit",
+      "intérêt inhabituel pour des informations concernant le personnage",
+      "nouvelles amitiés ou alliances qui créent un malaise non formulé",
+      "légèreté feinte sur des sujets qui comptaient auparavant"
+    ],
+    "silencesEtNonDits": [
+      "le traître ne dira souvent jamais pourquoi vraiment — sa vraie raison reste enfouie",
+      "la victime n'avoue pas toujours qu'elle avait des doutes avant la découverte",
+      "la question 'depuis combien de temps ?' reste parfois volontairement sans réponse",
+      "ce que la trahison dit de la relation initiale — qu'elle était peut-être déjà fissurée — n'est jamais dit",
+      "'j'aurais dû voir' reste intérieur — la honte de la naïveté s'ajoute à la blessure",
+      "le traître ne dira pas 'j'ai eu peur' — même si c'est vrai"
+    ],
+    "positionsDePouvoir": [
+      "la victime perd tout pouvoir au moment de la découverte — elle réalise qu'elle n'en avait peut-être jamais eu",
+      "le traître détient temporairement le pouvoir mais risque de le perdre s'il est exposé publiquement",
+      "la révélation publique peut inverser les positions — le traître devient l'accusé",
+      "la victime reprend du pouvoir en choisissant ce qu'elle fait de la trahison — pardon, silence ou exposition"
+    ],
+    "penseesTypiques": [
+      "Comment a-t-il pu faire ça ? Après tout ce qu'on a partagé.",
+      "J'aurais dû voir les signes. Ils étaient tous là.",
+      "Est-ce que tout était faux depuis le début ? Chaque moment ?",
+      "Je ne peux plus faire confiance à personne maintenant.",
+      "Il savait exactement où ça allait faire le plus mal.",
+      "Est-ce que je l'ai poussé à ça ? Est-ce que c'est ma faute ?",
+      "Je veux comprendre. Et en même temps, je ne veux pas savoir.",
+      "La pire partie, c'est que je l'aime encore. Ou que je l'aimais.",
+      "Qu'est-ce que j'aurais dû faire différemment pour que ça n'arrive pas ?"
+    ],
+    "comportementsTypiques": [
+      "repasser mentalement chaque souvenir pour y chercher les signes et les mensonges",
+      "couper tout contact brutalement sans explication ni transition",
+      "tester les autres de manière compulsive pour détecter la prochaine trahison",
+      "alterner entre rage froide et effondrement émotionnel",
+      "chercher une explication qui rendrait la trahison plus supportable ou compréhensible",
+      "raconter la trahison en boucle pour la traiter ou pour la faire reconnaître",
+      "garder le silence total sur ce qui s'est passé par orgueil ou par honte",
+      "surveiller à distance ce que fait le traître sans le contacter"
+    ],
+    "variantes": [
+      {
+        "relation": "Ami proche",
+        "description": "La trahison est d'autant plus dévastatrice que l'intimité était grande. Le personnage remet en question chaque souvenir partagé. La blessure touche l'identité autant que la relation."
+      },
+      {
+        "relation": "Partenaire amoureux",
+        "description": "La trahison mêle humiliation, perte et choc. Elle touche la confiance en soi et la confiance en l'autre simultanément. La question du 'depuis combien de temps' est souvent obsessionnelle."
+      },
+      {
+        "relation": "Allié ou associé",
+        "description": "La trahison a souvent une dimension stratégique ou intéressée. Elle laisse une blessure moins intime mais une méfiance durable envers toute alliance future."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Manquement", "description": "Une promesse non tenue, un secret légèrement éventé. Déception réelle mais relation récupérable." },
+      { "niveau": 2, "label": "Rupture de confiance", "description": "Un mensonge significatif découvert. La relation continue mais avec une fissure visible." },
+      { "niveau": 3, "label": "Trahison caractérisée", "description": "La loyauté a été délibérément rompue. Le personnage ne peut plus ignorer ce qui s'est passé." },
+      { "niveau": 4, "label": "Trahison profonde", "description": "La trahison porte sur quelque chose d'essentiel — un secret intime, une alliance vitale. Les conséquences sont durables." },
+      { "niveau": 5, "label": "Trahison totale", "description": "Tout ce que la relation portait est compromis rétroactivement. Le personnage remet en question qui il est lui-même." }
+    ],
+    "escaladeTypique": [
+      "confiance accordée — aveugle ou non",
+      "signes ignorés ou minimisés par le personnage",
+      "doute qui s'installe sans qu'on puisse encore nommer ce qui ne va pas",
+      "découverte ou aveu — le moment de bascule",
+      "effondrement puis reconstruction ou rupture définitive"
+    ],
+    "voiesDeResolution": [
+      "aveu complet et sans conditions du traître — sans minimiser",
+      "compréhension des circonstances qui ont mené à la trahison sans excuser l'acte",
+      "temps et distance qui permettent une reconstruction partielle de la confiance",
+      "rencontre forcée par les circonstances qui oblige les deux à se reparler sans agenda",
+      "acceptation que la relation d'avant ne reviendra pas — construire autre chose ou ne rien construire"
+    ],
+    "blessuresUnderlyantes": [
+      "trahison ancienne non résolue qui rend celle-ci doublement douloureuse",
+      "attachement insécure qui pousse à faire confiance trop vite ou trop fort",
+      "besoin de croire en la loyauté des autres malgré les signaux contraires",
+      "identité liée à la confiance en son propre jugement — être trahi, c'est avoir eu tort",
+      "peur de la solitude qui avait rendu la relation indispensable"
+    ],
+    "contextesFavorables": [
+      "période de vulnérabilité ou de crise du personnage trahi",
+      "relation où les enjeux sont élevés des deux côtés",
+      "contexte de secret ou d'information sensible partagée",
+      "loyautés multiples impossibles à tenir toutes — le traître a dû choisir"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage qui fait confiance facilement ou intensément",
+      "personnage dont les secrets ont une valeur ou un pouvoir pour les autres",
+      "personnage isolé qui n'a qu'un seul allié et a tout misé dessus",
+      "personnage qui choisit consciemment de ne pas voir les signes pour garder la relation",
+      "personnage dont l'identité repose sur sa capacité à lire les gens"
+    ],
+    "erreursDEcriture": [
+      "Rendre la trahison gratuite — elle est plus forte quand le traître avait ses propres raisons, même mauvaises.",
+      "Résoudre trop vite avec un pardon — la trahison laisse des traces même dans les réconciliations.",
+      "Oublier l'ambivalence de la victime : rage et désir de récupérer la relation peuvent coexister longuement.",
+      "Confondre trahison et simple désaccord — la trahison implique une loyauté préexistante, délibérément rompue.",
+      "Rendre le traître entièrement mauvais — la trahison la plus forte est celle qui comprend une peur ou un dilemme réel."
+    ],
+    "notesEditoriales": [
+      "La trahison la plus durable narrative est celle qui oblige le personnage à se remettre lui-même en question.",
+      "Distinguer la trahison active — agir contre — de la trahison passive — ne pas agir pour — la seconde est souvent plus complexe.",
+      "Le traître bien écrit n'est pas un monstre : il a eu peur, ou a choisi quelque chose d'autre. Ce choix est le cœur de la scène.",
+      "La honte de la naïveté est souvent plus difficile à porter que la rage — c'est elle qui empêche d'en parler."
+    ]
+  },
+  {
+    "id": "jalousie",
+    "label": "Jalousie",
+    "alias": ["jalousie relationnelle", "envie douloureuse", "convoitise d'une place", "crainte de perdre sa place", "jalousie amicale", "jalousie fraternelle", "peur d'être remplacé", "sentiment d'insuffisance face à l'autre", "désir de ce que l'autre a", "insécurité affective projetée"],
+    "famille": "conflits-interpersonnels",
+    "definitionCourte": "Sentiment douloureux né de la perception que quelqu'un possède ce que le personnage désire — une relation, une qualité, une place — et qu'il risque de le perdre ou de ne jamais l'obtenir.",
+    "natureDuConflit": "Conflit intérieur projeté sur l'extérieur, mêlant désir, insécurité et peur de la perte ou du remplacement.",
+    "forcesEnPresence": [
+      "peur de la perte ou de l'exclusion comme moteur central",
+      "sentiment d'insuffisance qui rend la comparaison insupportable",
+      "désir non assouvi d'une place, d'une qualité ou d'une relation",
+      "comparaison douloureuse avec quelqu'un perçu comme meilleur ou plus chanceux",
+      "attachement intense à une personne ou une place qui semble menacée",
+      "honte de ressentir ce qu'on ressent — la jalousie se cache",
+      "histoire passée de perte ou d'abandon qui amplifie la peur"
+    ],
+    "declencheursFrequents": [
+      "attention accordée à un tiers par quelqu'un de précieux",
+      "réussite ou qualité admirée chez l'autre qui rappelle ce qu'on n'a pas",
+      "exclusion perçue ou réelle d'un cercle ou d'une conversation",
+      "changement visible dans une relation importante — quelqu'un prend de la place",
+      "comparaison publique défavorable ou implicite",
+      "nouvelle amitié ou relation de l'autre qui semble plus intense",
+      "souvenir réactivé d'une perte similaire passée",
+      "signe d'indépendance ou d'éloignement de la personne à qui on tient"
+    ],
+    "signauxAvantCoureurs": [
+      "questions anodines pour savoir où est l'autre et ce qu'il fait",
+      "légère irritation quand un tiers est mentionné de façon positive",
+      "besoin inhabituellement fort d'être rassuré sur sa place",
+      "surveillance discrète des interactions de l'autre sans raison avouable",
+      "humeur changeante liée aux allées et venues de la personne",
+      "interprétation de détails neutres comme des signaux de remplacement",
+      "dénigrement intérieur silencieux du tiers perçu comme une menace",
+      "inconfort lors de compliments faits à quelqu'un d'autre en présence"
+    ],
+    "silencesEtNonDits": [
+      "le personnage ne dira pas 'je suis jaloux' — il dira autre chose ou ne dira rien",
+      "ce qui est vraiment craint — être remplacé, ne pas être suffisant — n'est jamais formulé directement",
+      "la question 'est-ce que tu me préfères ?' reste souvent dans la gorge",
+      "'je t'en veux pour ça' n'est jamais dit clairement — ça sort sous forme d'autre chose",
+      "la honte de la jalousie elle-même reste muette — on ne s'avoue pas jaloux facilement",
+      "l'autre ne sait souvent pas pourquoi l'ambiance a changé"
+    ],
+    "positionsDePouvoir": [
+      "le jaloux est en position basse — il dépend de l'autre pour se sentir suffisant et en sécurité",
+      "l'autre détient le pouvoir de rassurer ou de blesser, souvent sans le savoir",
+      "le tiers, souvent inconscient du rôle qu'on lui fait jouer, concentre une partie du conflit",
+      "la jalousie peut devenir un outil de contrôle inconscient si elle est exprimée comme une pression"
+    ],
+    "penseesTypiques": [
+      "Pourquoi lui plutôt que moi ? Qu'est-ce qu'il a que je n'ai pas ?",
+      "Est-ce qu'il pense encore à moi quand il est avec eux ?",
+      "Je ne suis pas assez. Pas autant que l'autre.",
+      "Il finira par me remplacer. C'est comme ça que ça finit toujours.",
+      "Je ne devrais pas ressentir ça. C'est mesquin. Mais je n'y peux rien.",
+      "Si je disparaissais, est-ce qu'il le remarquerait ?",
+      "Je préfère m'éloigner avant qu'il le fasse lui-même.",
+      "Peut-être que l'autre mérite vraiment plus que moi.",
+      "Je suis en train de gâcher ça à cause de quelque chose qui est dans ma tête."
+    ],
+    "comportementsTypiques": [
+      "surveillance discrète des interactions de l'autre avec le tiers",
+      "tentatives subtiles de reprendre le contrôle de la relation",
+      "attaques indirectes ou dénigrement du tiers sous couvert de remarques neutres",
+      "repli ou froideur comme protection anticipée",
+      "alternance entre reproche implicite et besoin intense de proximité",
+      "overcompensation — être plus présent, plus drôle, plus utile",
+      "test de la fidélité ou de la préférence sans poser la question directement",
+      "rumination intense seul sur des détails qui semblent insignifiants à l'autre"
+    ],
+    "variantes": [
+      {
+        "relation": "Amoureux",
+        "description": "La jalousie amoureuse mêle la peur de la perte à la question de la valeur personnelle. Elle peut devenir oppressante. Distinguer la jalousie réactive — danger réel — de la jalousie chronique — doute intérieur."
+      },
+      {
+        "relation": "Ami",
+        "description": "La jalousie amicale est souvent plus difficile à nommer et à avouer. Elle naît quand un ami accorde à un tiers une place que le personnage pensait avoir. Elle peut rester muette pendant longtemps."
+      },
+      {
+        "relation": "Fratrie",
+        "description": "La jalousie fraternelle porte souvent la mémoire de l'enfance. Elle se réactive facilement à l'âge adulte face aux parents ou à l'héritage symbolique. Elle peut coexister avec un amour sincère."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Pointe d'envie", "description": "Légère irritation passagère, vite rationalisée. Le personnage ne s'y attarde pas vraiment." },
+      { "niveau": 2, "label": "Jalousie consciente", "description": "Le personnage reconnaît ce qu'il ressent mais tente de le contenir. La relation reste fonctionnelle." },
+      { "niveau": 3, "label": "Jalousie active", "description": "La jalousie oriente les comportements. Surveillance, tentatives de contrôle, humeur affectée." },
+      { "niveau": 4, "label": "Obsession jalouse", "description": "La jalousie occupe une place centrale dans les pensées. Elle altère le jugement et empoisonne la relation." },
+      { "niveau": 5, "label": "Jalousie dévorante", "description": "La jalousie dicte chaque acte. Elle peut mener à la destruction de la relation ou à des actes graves." }
+    ],
+    "escaladeTypique": [
+      "sentiment d'insuffisance diffus qui cherche un objet",
+      "déclencheur perçu comme une menace — réelle ou projetée",
+      "surveillance et interprétation excessive de chaque signe",
+      "confrontation ou repli protecteur",
+      "crise ou rupture — ou reconnaissance de l'origine intérieure"
+    ],
+    "voiesDeResolution": [
+      "l'autre nomme clairement sa place et son choix sans ambiguïté",
+      "le jaloux reconnaît l'origine intérieure de ce qu'il ressent — pas une vérité sur l'autre",
+      "une épreuve commune qui restaure la confiance et redonne une place claire",
+      "la peur sous-jacente est enfin exprimée et entendue sans jugement",
+      "distance temporaire qui permet de distinguer la peur réelle de la projection"
+    ],
+    "blessuresUnderlyantes": [
+      "abandon ou perte d'un proche dans l'histoire personnelle qui a installé une vigilance permanente",
+      "comparaison défavorable répétée dans l'enfance qui a creusé le sentiment d'insuffisance",
+      "sentiment durable de ne pas mériter ce qu'on a et d'attendre qu'on le reprenne",
+      "trahison passée qui a installé une surveillance permanente des relations",
+      "identité entièrement dépendante d'une relation ou d'une place"
+    ],
+    "contextesFavorables": [
+      "relation à fort investissement émotionnel où la perte serait dévastatrice",
+      "présence d'un tiers réel ou imaginé qui crée la comparaison",
+      "période d'insécurité ou de fragilité du personnage",
+      "contexte où la comparaison est structurelle — même milieu, même cercle"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage à attachement insécure forgé tôt dans l'enfance",
+      "personnage ayant subi une perte ou un abandon qui a installé la vigilance",
+      "personnage dont l'identité dépend entièrement d'une relation ou d'une appartenance",
+      "personnage en période de transition ou de fragilité qui ne se sent plus sûr de sa place",
+      "personnage dont l'estime de soi est insuffisante pour croire qu'on peut être choisi durablement"
+    ],
+    "erreursDEcriture": [
+      "Confondre jalousie et rivalité — la jalousie porte sur une relation ou une place, pas sur une performance publique.",
+      "Rendre le jaloux uniquement toxique — la jalousie naît souvent d'une vraie vulnérabilité, pas d'un défaut de caractère.",
+      "Résoudre par un seul aveu — la jalousie chronique a des racines plus profondes qu'une scène ne peut dénouer.",
+      "Oublier la honte du jaloux — il souffre souvent autant de ce qu'il ressent que de la situation elle-même.",
+      "Négliger le tiers — il est souvent innocent mais sa présence structure tout le conflit."
+    ],
+    "notesEditoriales": [
+      "La jalousie est plus intéressante quand elle dit quelque chose sur la blessure du personnage, pas seulement sur sa relation.",
+      "Distinguer la jalousie réactive — danger objectif réel — de la jalousie projectée — peur intérieure sans base.",
+      "Ne pas confondre avec l'envie : l'envie veut ce que l'autre a, la jalousie veut garder ce qu'elle possède déjà.",
+      "La scène la plus forte n'est pas la crise — c'est le moment où le jaloux se voit lui-même et ne sait pas comment s'arrêter."
+    ]
+  },
+  {
+    "id": "dependance-affective",
+    "label": "Dépendance affective",
+    "alias": ["attachement excessif", "besoin maladif de l'autre", "dépendance émotionnelle", "amour qui étouffe", "relation fusionnelle par peur", "besoin de validation constant", "peur panique de l'abandon", "incapacité à être seul", "survie par l'autre", "identité construite sur la relation"],
+    "famille": "conflits-interpersonnels",
+    "definitionCourte": "État dans lequel un personnage a besoin de la présence, de l'approbation ou de l'amour d'un autre pour fonctionner, au point de subordonner ses propres besoins à ceux de la relation.",
+    "natureDuConflit": "Déséquilibre relationnel où l'un des deux porte un besoin que l'autre ne peut ou ne veut pas combler entièrement.",
+    "forcesEnPresence": [
+      "peur intense de l'abandon comme moteur central de toutes les décisions",
+      "identité construite entièrement à travers l'autre, sans base propre",
+      "besoin constant de validation qui ne peut jamais être pleinement satisfait",
+      "incapacité à tolérer la solitude même brève",
+      "attachement disproportionné à une seule personne qui concentre tout",
+      "honte profonde du besoin ressenti qui empêche de le nommer",
+      "modèle d'attachement appris tôt qui se reproduit dans chaque relation"
+    ],
+    "declencheursFrequents": [
+      "absence ou distance de l'autre, même courte et anodine",
+      "signe d'autonomie ou d'indépendance de l'autre perçu comme un prélude à l'abandon",
+      "nouveau tiers dans la vie de l'autre qui semble prendre de la place",
+      "absence de réassurance lors d'une période d'insécurité",
+      "désaccord interprété immédiatement comme un rejet ou une fin",
+      "retard dans une réponse ou silence non expliqué",
+      "projet ou activité de l'autre sans le personnage",
+      "question directe sur l'avenir de la relation"
+    ],
+    "signauxAvantCoureurs": [
+      "besoin que l'autre confirme chaque décision même mineure",
+      "inquiétude disproportionnée lors de courtes séparations prévisibles",
+      "difficulté à occuper un temps seul de façon sereine",
+      "réajustement permanent de ses propres goûts sur ceux de l'autre",
+      "peur de décevoir qui dicte chaque action et chaque parole",
+      "vérification compulsive des messages pour s'assurer que tout va bien",
+      "accumulation de petits sacrifices présentés comme normaux",
+      "humeur entièrement dépendante de l'état émotionnel de l'autre"
+    ],
+    "silencesEtNonDits": [
+      "jamais le personnage ne dira 'j'ai peur que tu m'abandonnes' — trop exposé",
+      "l'autre ne dit souvent pas qu'il étouffe — par pitié ou par peur de la réaction",
+      "la vraie blessure d'origine — l'abandon ou la perte fondatrice — n'est jamais évoquée",
+      "'je t'aime trop' reste dans la gorge — même le personnage ne sait pas si c'est vrai",
+      "'sans toi je ne suis rien' est pensé mais jamais dit parce que ça fait peur même à soi",
+      "la demande réelle — 'dis-moi que tu ne partiras jamais' — n'est jamais formulée"
+    ],
+    "positionsDePouvoir": [
+      "le dépendant est structurellement en position basse — tout dépend de l'autre",
+      "l'autre détient le pouvoir de rassurer ou de déclencher une crise par le moindre geste",
+      "cette asymétrie peut générer chez l'autre de la culpabilité, de l'épuisement ou de l'abus",
+      "le dépendant peut exercer un contre-pouvoir par la culpabilisation ou la victimisation — souvent inconsciente"
+    ],
+    "penseesTypiques": [
+      "S'il est distant, c'est forcément que j'ai fait quelque chose de mal.",
+      "Sans lui, je ne sais pas qui je suis. Je n'existe que dans cette relation.",
+      "Je dois tout faire pour qu'il reste. Je ne peux pas le perdre.",
+      "Si je dis ce que je ressens vraiment, il va partir. Mieux vaut taire.",
+      "Je ne mérite pas qu'on reste pour moi. Mais j'ai tellement besoin qu'il reste.",
+      "Peut-être que si je suis encore plus là pour lui, il partira moins.",
+      "Je passe mon temps à surveiller les signes que ça va ou que ça va mal.",
+      "Je suis épuisant. Je sais que je suis épuisant.",
+      "La seule chose que j'aie peur de plus que de perdre cette relation, c'est de rester seul."
+    ],
+    "comportementsTypiques": [
+      "annulation de ses propres besoins, projets et opinions pour satisfaire l'autre",
+      "surveillance anxieuse des moindres signes de désaffection",
+      "surexplication et sur-justification de ses propres actes pour prévenir le reproche",
+      "séduction ou manipulation douce pour retenir l'autre sans en avoir l'air",
+      "effondrement lors de conflits même mineurs comme si la fin était là",
+      "messages ou appels répétés lors des absences pour vérifier que tout va bien",
+      "sacrifice d'opportunités, de relations ou de projets pour rester disponible",
+      "dépression ou crise lors d'une séparation même temporaire et prévisible"
+    ],
+    "variantes": [
+      {
+        "relation": "Relation amoureuse",
+        "description": "La dépendance est souvent confondue avec de l'amour intense. L'autre peut se sentir aimé puis envahi puis piégé. La rupture est vécue comme une destruction identitaire totale."
+      },
+      {
+        "relation": "Amitié",
+        "description": "Plus difficile à identifier. Le personnage fait tout pour l'ami, s'efface, ne refuse jamais. Quand l'ami prend de la distance, la réaction est disproportionnée et incompréhensible pour lui."
+      },
+      {
+        "relation": "Relation parent-enfant adulte",
+        "description": "Le parent ou l'enfant adulte qui maintient la dépendance ne la reconnaît pas comme telle. Elle peut s'exprimer par la culpabilisation, la maladie récurrente, ou le sacrifice permanent."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Besoin de proximité marqué", "description": "Le personnage préfère la présence de l'autre mais fonctionne seul. Légère anxiété lors des absences." },
+      { "niveau": 2, "label": "Attachement fusionnel", "description": "L'autre occupe une place disproportionnée dans les pensées. La solitude est difficile à habiter." },
+      { "niveau": 3, "label": "Dépendance installée", "description": "Le personnage adapte sa vie aux besoins de l'autre. Ses propres désirs s'effacent progressivement." },
+      { "niveau": 4, "label": "Dépendance oppressante", "description": "Le besoin de l'autre structure chaque journée. Toute distance est vécue comme un danger existentiel." },
+      { "niveau": 5, "label": "Fusion totale", "description": "Le personnage n'existe plus hors de la relation. Toute menace de perte est une menace à son existence même." }
+    ],
+    "escaladeTypique": [
+      "attachement fort et rassurant au début — le personnage se sent enfin en sécurité",
+      "besoin croissant de présence et de validation qui dépasse ce que l'autre peut donner",
+      "comportements de contrôle doux — messages, présence, sacrifices",
+      "l'autre commence à prendre de la distance — ce qui aggrave la peur",
+      "crise, effondrement ou rupture — ou reconstruction si l'origine est nommée"
+    ],
+    "voiesDeResolution": [
+      "le personnage nomme sa peur et commence à l'explorer dans un espace sûr",
+      "l'autre pose des limites claires et bienveillantes sans punir",
+      "le personnage reconstruit un espace personnel et des liens hors de la relation",
+      "une perte surmontée démontre concrètement que la survie est possible",
+      "travail sur la blessure d'origine — l'abandon ou la perte fondatrice"
+    ],
+    "blessuresUnderlyantes": [
+      "abandon réel ou perçu dans l'enfance comme événement fondateur",
+      "figure d'attachement imprévisible — chaude puis froide — qui a installé la vigilance",
+      "sentiment précoce de ne valoir que si l'on est utile, aimé ou présent",
+      "perte traumatique d'un lien important qui a renforcé la peur de toute séparation",
+      "message implicite reçu tôt : 'tu n'es rien sans quelqu'un'"
+    ],
+    "contextesFavorables": [
+      "relation avec fort déséquilibre de départ — l'un donne, l'autre reçoit",
+      "isolement social du personnage dépendant — la relation est tout ce qu'il a",
+      "partenaire qui valorise le dévouement et en profite inconsciemment",
+      "période de fragilité ou de transition où le besoin est à son maximum"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage ayant perdu un parent ou une figure clé à un moment formateur",
+      "personnage sans réseau social élargi pour qui la relation est la seule attache",
+      "personnage dont l'estime de soi est entièrement relationnelle — elle dépend d'être aimé",
+      "personnage en sortie d'une relation précédente marquante qui cherche à reconstituer le lien",
+      "personnage ayant grandi dans un environnement où la dépendance était présentée comme de l'amour"
+    ],
+    "erreursDEcriture": [
+      "Confondre dépendance affective et amour profond — l'amour laisse l'autre libre, la dépendance le retient.",
+      "Rendre le personnage dépendant uniquement pathétique — il est souvent sincèrement aimant, généreux, dévoué.",
+      "Oublier la résistance intérieure — le personnage dépendant souffre de ce qu'il ressent, il ne le choisit pas.",
+      "Résoudre par une décision — la dépendance affective est un schéma profond, pas un simple mauvais choix.",
+      "Négliger la perspective de l'autre — être aimé de cette façon peut être étouffant même quand c'est sincère."
+    ],
+    "notesEditoriales": [
+      "Le personnage dépendant est souvent l'un des plus aimants de l'histoire — c'est là que réside la tragédie.",
+      "L'intérêt narratif est dans le moment où le personnage commence à percevoir le schéma sans pouvoir encore le changer.",
+      "Distinguer la dépendance subie de la dépendance entretenue par l'autre — les deux coexistent souvent.",
+      "La dépendance est presque invisible au début — elle ressemble à de l'amour, de la dévotion, de la générosité."
+    ],
+    "dynamiqueAssociee": { "id": "dependance-affective-mutuelle", "label": "Dépendance affective mutuelle" }
+  },
+  {
+    "id": "rejet",
+    "label": "Rejet",
+    "alias": ["exclusion volontaire", "mise à l'écart", "être ignoré", "ne pas avoir sa place", "être écarté", "ostracisme", "rejet social", "exclusion d'un cercle", "être remplacé", "perte d'appartenance"],
+    "famille": "conflits-interpersonnels",
+    "definitionCourte": "Expérience d'être écarté, ignoré ou refusé par une personne ou un groupe dont l'appartenance ou l'approbation compte pour le personnage.",
+    "natureDuConflit": "Blessure de non-appartenance — le personnage se retrouve hors d'un cercle dans lequel il voulait ou croyait avoir sa place.",
+    "forcesEnPresence": [
+      "besoin d'appartenance fondamental non satisfait",
+      "différence réelle ou perçue qui motive l'exclusion",
+      "peur de la contamination ou de la différence de la part de celui qui rejette",
+      "honte du rejeté qui s'interroge sur ce qu'il a fait ou ce qu'il est",
+      "jugement ou mépris de groupe — le rejet collectif est le plus dévastateur",
+      "dynamique de groupe qui a besoin d'un exclu pour se souder",
+      "incapacité à exprimer directement ce qu'on reproche à l'autre"
+    ],
+    "declencheursFrequents": [
+      "rupture unilatérale sans explication — le silence est parfois pire que les mots",
+      "exclusion d'un groupe ou d'un événement sans raison donnée",
+      "silence ou froideur inexpliqués après une relation apparemment normale",
+      "remplacement visible par quelqu'un d'autre dans une place qu'on croyait sienne",
+      "jugement public ou condamnation collective qui fait basculer le groupe",
+      "différence qui devient visible ou problématique dans le nouveau contexte",
+      "trahison d'un secret qui crée une distance irréparable",
+      "changement de milieu ou de cercle qui rend l'appartenance précédente caduque"
+    ],
+    "signauxAvantCoureurs": [
+      "réponses de plus en plus courtes ou tardives sans raison expliquée",
+      "invitations qui se raréfient progressivement sans justification",
+      "conversations qui s'arrêtent ou changent de ton quand le personnage arrive",
+      "regard de l'autre qui glisse sans s'accrocher — le personnage devient transparent",
+      "excuses répétées pour des absences qui semblent peu convaincantes",
+      "exclusion de conversations ou de décisions qui le concernaient avant",
+      "changement d'ambiance imperceptible qui n'est pas encore formulable",
+      "sentiment de devoir faire des efforts plus grands pour rester dans le cercle"
+    ],
+    "silencesEtNonDits": [
+      "la raison réelle du rejet est rarement dite clairement — c'est une partie de la blessure",
+      "le personnage rejeté ne demande souvent pas pourquoi — par orgueil ou par peur d'entendre la réponse",
+      "la douleur n'est avouée qu'après coup, jamais dans le moment",
+      "'tu me manques' ne sortira probablement pas — trop exposé",
+      "'j'ai besoin de savoir pourquoi' reste intérieur — poser la question confirme la réalité du rejet",
+      "la honte de souffrir d'un rejet — 'ce n'est que des gens' — reste muette"
+    ],
+    "positionsDePouvoir": [
+      "le rejeté est en position entièrement basse — il n'a aucune prise sur la décision",
+      "celui qui rejette détient le pouvoir de réintégrer ou de confirmer l'exclusion",
+      "le groupe exerce un pouvoir collectif souvent sans en avoir pleinement conscience",
+      "le rejeté peut reprendre du pouvoir en choisissant un nouveau cercle plutôt qu'en attendant réintégration"
+    ],
+    "penseesTypiques": [
+      "Qu'est-ce que j'ai fait de mal ? Qu'est-ce qui a changé ?",
+      "Il doit y avoir quelque chose qui ne va pas chez moi. Sinon pourquoi ?",
+      "Ils ont tous remarqué ce que j'essaie de cacher — ma différence, mon inadaptation.",
+      "Je ne mérite pas d'être ici. Je ne l'ai peut-être jamais mérité.",
+      "Ça va se reproduire. C'est toujours comme ça que ça finit pour moi.",
+      "Je pourrais peut-être changer pour qu'ils me reprennent.",
+      "Je fais comme si ça ne me touchait pas. Je ne peux pas montrer que ça me touche.",
+      "Peut-être que je m'en sors mieux seul. Peut-être que c'est mieux comme ça.",
+      "Si je pars avant qu'ils me rejettent, au moins c'est moi qui choisis."
+    ],
+    "comportementsTypiques": [
+      "chercher une explication dans chaque souvenir pour trouver ce qui a merdé",
+      "tenter un rapprochement discret pour tester si le rejet est réel ou imaginé",
+      "se retirer avant d'être rejeté à nouveau — l'anticipation comme protection",
+      "minimiser l'importance de la relation perdue pour se protéger de la douleur",
+      "redoubler d'efforts pour plaire ou être accepté — surcompensation",
+      "investir dans un nouveau cercle avec une intensité qui reproduit le schéma",
+      "repli total et isolement pour éviter tout risque de nouvelle blessure",
+      "observer de loin le groupe qui a exclu pour chercher des signes de regret"
+    ],
+    "variantes": [
+      {
+        "relation": "Groupe social ou amical",
+        "description": "Le rejet de groupe active des mécanismes primitifs d'exclusion. Le personnage remet tout en question — sa valeur, ses comportements, sa place dans le monde. La douleur est à la fois sociale et identitaire."
+      },
+      {
+        "relation": "Personne aimée",
+        "description": "Le rejet d'une personne singulière est vécu comme un verdict sur ce que l'on est. Il laisse une empreinte sur les relations futures — prudence excessive, retrait anticipé avant d'être exposé."
+      },
+      {
+        "relation": "Famille",
+        "description": "Le rejet familial est le plus durable. Il touche à l'appartenance primordiale. Il peut rester non dit pendant des décennies, activé à chaque réunion ou événement."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Froideur perçue", "description": "Le personnage perçoit un léger refroidissement. Doute encore. La douleur est sourde." },
+      { "niveau": 2, "label": "Distance confirmée", "description": "Les signaux s'accumulent. Le personnage ne peut plus nier mais n'a pas encore de certitude." },
+      { "niveau": 3, "label": "Rejet établi", "description": "L'exclusion est réelle et reconnaissable. Le personnage doit la digérer." },
+      { "niveau": 4, "label": "Rejet explicite", "description": "Le rejet est dit ou montré clairement. La blessure est immédiate et vive." },
+      { "niveau": 5, "label": "Rejet total et public", "description": "L'exclusion est collective et visible. Elle touche à l'identité et à la dignité simultanément." }
+    ],
+    "escaladeTypique": [
+      "distance perçue mais non encore confirmée — le personnage doute",
+      "tentatives de rapprochement qui restent sans réponse ou sont ignorées",
+      "confirmation du rejet — explicite ou par accumulation de signaux",
+      "honte et repli — ou surcompensation pour tenter de revenir",
+      "reconstruction dans un autre cercle ou enfermement dans la blessure"
+    ],
+    "voiesDeResolution": [
+      "explication honnête, même douloureuse, qui permet de comprendre et d'avancer",
+      "un nouveau cercle d'appartenance trouvé qui redonne une place réelle",
+      "compréhension que le rejet dit quelque chose sur celui qui rejette autant que sur soi",
+      "rencontre d'une personne qui choisit activement d'inclure le personnage",
+      "travail intérieur sur la croyance que le rejet est mérité ou inévitable"
+    ],
+    "blessuresUnderlyantes": [
+      "rejet précoce dans l'enfance — par la famille ou les pairs — qui a installé la croyance",
+      "différence non acceptée dans un groupe formateur qui a laissé une marque",
+      "honte ancienne liée à une caractéristique personnelle jamais acceptée",
+      "perte d'un groupe ou d'un cercle d'appartenance à un moment clé de l'identité",
+      "message implicite reçu tôt : 'tu es trop différent pour avoir ta place'"
+    ],
+    "contextesFavorables": [
+      "groupe soudé avec des codes implicites difficiles à décoder de l'extérieur",
+      "période de transition où les appartenances se redéfinissent",
+      "différence visible ou perçue entre le personnage et le groupe",
+      "personnage ayant une histoire de rejets répétés qui sensibilise aux moindres signaux"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage différent du groupe — par l'origine, les choix, les valeurs ou la façon d'être",
+      "personnage en entrée dans un nouveau milieu qui ne connaît pas encore les codes",
+      "personnage dont l'identité est fragile ou en construction et dépend d'une appartenance",
+      "personnage déjà marqué par des expériences d'exclusion qui voit des signaux partout",
+      "personnage dont le comportement protecteur — retrait anticipé — finit par créer le rejet qu'il craint"
+    ],
+    "erreursDEcriture": [
+      "Rendre le rejet anecdotique — pour un personnage déjà blessé, même un petit rejet peut être dévastateur.",
+      "Oublier la honte — le rejeté ne souffre pas seulement de l'absence, il se demande ce qui en lui mérite ça.",
+      "Résoudre par intégration forcée — une appartenance reconstruite prend du temps et des preuves répétées.",
+      "Confondre rejet et simple désaccord — le rejet touche à la place du personnage, pas à ses idées.",
+      "Montrer uniquement la souffrance passive — le personnage rejeté a souvent aussi des comportements qui contribuent à l'isolement."
+    ],
+    "notesEditoriales": [
+      "Le rejet est l'une des douleurs les plus universelles et les plus rarement nommées directement dans les scènes.",
+      "Sa force narrative est dans ce qu'il fait au personnage après — comment il se protège, comment il s'adapte.",
+      "Un personnage qui s'attend toujours au rejet est souvent plus intéressant qu'un personnage qui le vit pour la première fois.",
+      "La scène la plus forte n'est pas toujours le moment du rejet — c'est parfois le moment juste avant, quand il commence à comprendre."
+    ]
+  }
+]

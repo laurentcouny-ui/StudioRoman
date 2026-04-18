@@ -1,0 +1,551 @@
+[
+  {
+    "id": "adversaire-devenu-respecte",
+    "label": "Adversaire devenu respecté",
+    "famille": "rivalités",
+    "definitionCourte": "Relation avec quelqu'un qu'on a longtemps combattu, contré ou ignoré — et dont on a fini par reconnaître la valeur. Pas de réconciliation nécessairement, mais une forme d'estime qui change la nature du conflit.",
+
+    "caracteristiques": [
+      "opposition initiale franche — les deux s'affrontent réellement",
+      "moment de bascule où l'un reconnaît quelque chose chez l'autre",
+      "respect sans nécessairement de sympathie",
+      "la rivalité peut se poursuivre, mais à un autre niveau",
+      "estime qui n'est pas dite directement — se montre dans les actes"
+    ],
+
+    "tensionsCentrale": [
+      "admettre qu'on respecte quelqu'un qu'on a combattu",
+      "peur que le respect soit perçu comme une faiblesse",
+      "sentiment que les autres ne comprendraient pas ce changement",
+      "tentation de revenir à l'hostilité quand ça va mal",
+      "question de ce qu'on fait de ce respect — on l'ignore ? on le dit ?"
+    ],
+
+    "signesPhysiques": [
+      "ton qui change imperceptiblement — moins tranchant",
+      "regard qui écoute vraiment, même en désaccord",
+      "geste d'acknowledge — le hochement de tête qui dit 'bien joué'",
+      "corps qui ne fuit plus le contact ou la confrontation"
+    ],
+
+    "dynamiquesTypiques": [
+      "compliment minimal mais sincère — 'c'était bien ce que vous avez fait'",
+      "défense de l'adversaire contre un tiers qui l'attaque injustement",
+      "moment de coopération forcée qui révèle la valeur de l'autre",
+      "confidence inattendue — on dit à l'adversaire ce qu'on ne dirait pas à ses alliés"
+    ],
+
+    "masquesPossibles": [
+      "hostilité maintenue pour ne pas perdre la face",
+      "critique qui dit plus de respect qu'elle n'en a l'air",
+      "aide accordée sans l'expliquer — pour ne pas avoir à le reconnaître"
+    ],
+
+    "evolutionsPossibles": [
+      "alliance — le respect débouche sur une coopération",
+      "rivalité raffinée — les deux se poussent à se dépasser mutuellement",
+      "amitié improbable si les circonstances s'y prêtent",
+      "statu quo — le respect reste silencieux et ne change pas la surface"
+    ],
+
+    "exemplesNarratifs": [
+      "deux avocats adversaires qui s'estiment malgré tout",
+      "concurrent qui a gagné honnêtement — difficile à ne pas respecter",
+      "ennemi politique dont on reconnaît l'intégrité",
+      "athlète adverse dont le niveau oblige à s'améliorer"
+    ],
+
+    "notesEditoriales": [
+      "Cette dynamique explore ce que le respect fait à l'identité d'un personnage construit sur l'opposition.",
+      "Elle est narrativement forte quand le personnage doit choisir entre maintenir l'hostilité de façade et admettre l'estime.",
+      "Différent de la réconciliation — le conflit peut continuer, mais la nature du lien a changé."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "alliance-inattendue" },
+      { "type": "souvent_associe_a", "cible": "estime" },
+      { "type": "peut_suivre", "cible": "rivalite" }
+    ]
+  },
+  {
+    "id": "temoin-privilegie",
+    "label": "Témoin privilégié",
+    "famille": "liens singuliers",
+    "definitionCourte": "Quelqu'un qui a vu le personnage dans un moment de vulnérabilité, de faiblesse ou de vérité — et qui porte ce témoignage. Le lien est asymétrique : l'un sait quelque chose que peu de gens savent.",
+
+    "caracteristiques": [
+      "connaissance unilatérale ou partagée d'un moment de vérité",
+      "lien fondé sur ce qu'on a vu plutôt que sur ce qu'on a vécu ensemble",
+      "pouvoir implicite — le témoin sait",
+      "peut être un fardeau ou une grâce pour les deux",
+      "relation transformée par ce moment même si on n'en parle jamais"
+    ],
+
+    "tensionsCentrale": [
+      "le personnage qui a été vu — vulnérable, honteux ou différent — et qui se demande si l'autre s'en souvient",
+      "tentation pour le témoin de le mentionner ou de l'utiliser",
+      "gratitude et malaise mêlés d'être connu aussi profondément",
+      "peur que le témoin parle à d'autres",
+      "désir de savoir ce que l'autre a vraiment pensé"
+    ],
+
+    "signesPhysiques": [
+      "regard qui cherche dans les yeux de l'autre une confirmation ou une menace",
+      "légère raideur en présence du témoin — souvenir de la vulnérabilité",
+      "tendresse inattendue — quelqu'un qui vous a vu et reste là",
+      "conversation qui évite ou qui tourne autour du moment"
+    ],
+
+    "dynamiquesTypiques": [
+      "allusion subtile ou complice — les deux savent sans le nommer",
+      "témoin qui garde le secret sans qu'on le lui ait demandé",
+      "personnage qui teste si le témoin va parler",
+      "moment où le personnage dit 'tu te souviens ?' — ou ne le dit pas",
+      "témoin qui offre son soutien parce qu'il a vu"
+    ],
+
+    "masquesPossibles": [
+      "normalité affichée — faire comme si le moment n'avait pas eu lieu",
+      "distance maintenue pour éviter d'avoir à y revenir",
+      "témoin qui protège le personnage en ne mentionnant jamais ce qu'il a vu"
+    ],
+
+    "evolutionsPossibles": [
+      "lien de confiance profond qui grandit autour de ce secret partagé",
+      "rupture si le témoin révèle — ou si le personnage croit qu'il va révéler",
+      "reconnaissance — le personnage finit par remercier d'avoir été vu sans être jugé",
+      "le moment perd de son poids avec le temps — ce qui semblait énorme devient supportable"
+    ],
+
+    "exemplesNarratifs": [
+      "quelqu'un qui a vu un personnage pleurer alors qu'il cache toujours ses émotions",
+      "témoin d'un acte courageux ou honteux que le personnage n'a jamais raconté",
+      "soignant qui a vu quelqu'un dans sa pire nuit",
+      "ami présent lors d'un effondrement que le personnage préfère oublier"
+    ],
+
+    "notesEditoriales": [
+      "Le témoin privilégié est un levier narratif discret mais puissant — il porte une connaissance que les autres personnages n'ont pas.",
+      "Le non-dit autour de ce moment est souvent plus fort que s'il était verbalisé.",
+      "À utiliser pour créer une intimité particulière entre deux personnages sans avoir à la montrer directement."
+    ],
+
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "honte" },
+      { "type": "peut_evoluer_en", "cible": "confiance-profonde" },
+      { "type": "peut_declencher", "cible": "peur-de-la-revelation" }
+    ]
+  },
+  {
+    "id": "ami-enfance-retrouve",
+    "label": "Ami d'enfance retrouvé",
+    "famille": "liens singuliers",
+    "definitionCourte": "Retrouvailles avec quelqu'un dont on a partagé l'enfance — et qui a continué à exister, à changer, à devenir quelqu'un d'autre. La mémoire partagée est là, mais les personnes ne le sont peut-être plus.",
+
+    "caracteristiques": [
+      "mémoire commune d'un avant — avant d'être ce qu'on est devenu",
+      "lien fondé sur des versions passées plus que présentes",
+      "reconnaissance immédiate malgré le temps",
+      "écart possible entre la personne souvenue et la personne retrouvée",
+      "sentiment de pouvoir être vu autrement qu'on ne l'est maintenant"
+    ],
+
+    "tensionsCentrale": [
+      "est-ce que l'ami d'avant est encore là quelque part ?",
+      "qu'est-ce qui reste d'une amitié dont les racines sont dans l'enfance ?",
+      "liberté ou enfermement dans ce que l'autre se rappelle de nous",
+      "changement dont l'un ou l'autre n'est pas fier — et qui remonte",
+      "tentation d'être la version d'avant plutôt que la version actuelle"
+    ],
+
+    "signesPhysiques": [
+      "sourire qui vient d'un endroit ancien",
+      "regard qui cherche le gamin dans le visage adulte",
+      "geste ou expression qui déclenche un souvenir précis",
+      "rires qui arrivent plus vite — la complicité ancienne refait surface"
+    ],
+
+    "dynamiquesTypiques": [
+      "rappel d'un souvenir partagé que personne d'autre ne connaît",
+      "comparaison implicite entre le personnage d'avant et d'aujourd'hui",
+      "confidence sur ce qu'est devenu le personnage — dit à quelqu'un qui le connaissait autrement",
+      "question sur les autres — 'tu as des nouvelles de X ?'",
+      "nostalgie partagée vs vie présente"
+    ],
+
+    "masquesPossibles": [
+      "enthousiasme de façade qui cache la déception — l'autre a changé",
+      "idéalisation de l'amitié d'avant qui efface ses limites réelles",
+      "fuite dans la nostalgie pour éviter de voir l'écart entre les deux"
+    ],
+
+    "evolutionsPossibles": [
+      "renouveau — les deux se découvrent adultes et construisent quelque chose de nouveau",
+      "déception — trop de distance, l'amitié d'avant ne survit pas à la rencontre",
+      "lien hybride — mi-nostalgie mi-présent, confortable sans être profond",
+      "révélation — l'autre se rappelle de quelque chose qu'on avait oublié ou enfoui"
+    ],
+
+    "exemplesNarratifs": [
+      "copain d'école primaire retrouvé à un enterrement ou un mariage",
+      "meilleur ami d'adolescence perdu de vue et retrouvé par hasard",
+      "voisin d'enfance qui a grandi dans le même quartier et qu'on recroisse",
+      "camarade de classe qui se rappelle une version de vous que vous aimeriez oublier"
+    ],
+
+    "notesEditoriales": [
+      "L'ami d'enfance retrouvé est un personnage narrativement utile parce qu'il porte un avant — il permet de montrer qui était le personnage sans faire de flashback.",
+      "La tension entre la mémoire et la réalité présente est le cœur de cette dynamique.",
+      "À utiliser pour les récits où l'identité et le passage du temps sont des thèmes centraux."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "nostalgie" },
+      { "type": "peut_evoluer_en", "cible": "amitié-renouvelée" },
+      { "type": "souvent_associe_a", "cible": "identité-passée" }
+    ]
+  },
+  {
+    "id": "double-relation-ami-superieur",
+    "label": "Double relation — ami et supérieur",
+    "famille": "relations professionnelles",
+    "definitionCourte": "Lien où deux personnes sont à la fois amies et dans une relation hiérarchique. Les deux registres s'alimentent et se compliquent mutuellement — chaque décision professionnelle a un impact affectif, et inversement.",
+
+    "caracteristiques": [
+      "deux codes qui coexistent — celui de l'amitié et celui de la hiérarchie",
+      "le tutoiement ou le prénom en contexte professionnel pose une question",
+      "l'ami-supérieur doit parfois prendre des décisions qui affectent l'ami-subordonné",
+      "le subordonné qui ne sait jamais s'il parle à son ami ou à son chef",
+      "les autres collègues qui observent et questionnent"
+    ],
+
+    "tensionsCentrale": [
+      "favoritisme perçu ou réel",
+      "décision difficile — licencier, recadrer, ne pas promouvoir un ami",
+      "confidence entre amis qui devient information professionnelle",
+      "le subordonné qui ne peut pas se plaindre à son ami de son chef — c'est la même personne",
+      "l'un qui profite de l'amitié dans le contexte professionnel"
+    ],
+
+    "signesPhysiques": [
+      "changement de ton selon le contexte — réunion vs café",
+      "regard qui mesure où on en est — ami ou chef ce soir ?",
+      "distance physique différente en public et en privé",
+      "tension dans les épaules en réunion entre les deux"
+    ],
+
+    "dynamiquesTypiques": [
+      "conversation qui commence comme entre amis et finit comme entre collègues",
+      "reproche professionnel qui résonne différemment venant d'un ami",
+      "protection que l'un accorde à l'autre — et que les autres voient",
+      "moment où l'un doit choisir : le lien ou le rôle"
+    ],
+
+    "masquesPossibles": [
+      "sévérité excessive du supérieur pour prouver l'absence de favoritisme",
+      "amitié maintenue en surface alors que le lien s'est abîmé professionnellement",
+      "neutralité affichée en public qui cache une tension privée"
+    ],
+
+    "evolutionsPossibles": [
+      "séparation des registres réussie — rare, difficile, mais possible",
+      "rupture de l'un ou l'autre lien — soit l'amitié soit la relation pro",
+      "crise qui force un choix — et révèle où est la priorité",
+      "transformation : l'un change de poste et les deux registres se réalignent"
+    ],
+
+    "exemplesNarratifs": [
+      "ami de longue date promu manager d'une équipe dont l'autre fait partie",
+      "entrepreneur et premier employé — qui était un ami d'abord",
+      "mentor devenu chef direct de son ancien protégé"
+    ],
+
+    "notesEditoriales": [
+      "Cette double relation est une source de conflit inépuisable — les deux registres se polluent mutuellement.",
+      "La question du pouvoir est centrale : qui a le pouvoir dans l'amitié, qui l'a dans le boulot — et comment ça se règle ?",
+      "À utiliser pour les récits professionnels où les liens humains compliquent les structures."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "conflit-de-loyauté" },
+      { "type": "souvent_associe_a", "cible": "double-standard" },
+      { "type": "peut_evoluer_en", "cible": "rupture-relationnelle" }
+    ]
+  },
+  {
+    "id": "relation-avec-animal",
+    "label": "Relation avec un animal",
+    "famille": "liens singuliers",
+    "definitionCourte": "Lien affectif avec un animal — chien, chat, cheval ou autre — qui occupe dans la vie du personnage une place que les relations humaines n'occupent pas. Présence inconditionnelle, sans langage, sans jugement.",
+
+    "caracteristiques": [
+      "amour sans réciprocité verbale — mais perçu comme réel",
+      "présence physique constante qui structure le quotidien",
+      "l'animal réagit à l'état émotionnel du personnage",
+      "relation sans masque — le personnage ne joue pas de rôle devant son animal",
+      "attachement qui peut dépasser ce qu'on s'autorise avec les humains"
+    ],
+
+    "tensionsCentrale": [
+      "mort ou perte de l'animal — deuil souvent minimisé par l'entourage",
+      "animal qui révèle un état émotionnel que le personnage nie",
+      "jalousie ou incompréhension des proches face à cet attachement",
+      "animal malade — décision vétérinaire difficile",
+      "l'animal comme seul témoin de certains moments"
+    ],
+
+    "signesPhysiques": [
+      "contact physique naturel et fréquent — la main qui cherche l'animal",
+      "ton de voix qui change — plus doux, plus direct",
+      "sourire qui vient sans effort",
+      "présence de l'animal remarquée immédiatement quand on entre",
+      "ritual autour de l'animal — nourrissage, promenade, soin"
+    ],
+
+    "dynamiquesTypiques": [
+      "conversation à l'animal — dire des choses qu'on ne dirait pas à un humain",
+      "l'animal qui perçoit la détresse et vient sans qu'on lui demande",
+      "soin de l'animal comme ancrage dans les moments de crise",
+      "perte qui révèle l'importance du lien — et l'isolement de ceux qui ne comprennent pas"
+    ],
+
+    "masquesPossibles": [
+      "minimiser l'attachement — 'c'est juste un chat'",
+      "projeter sur l'animal des états qu'on ne s'autorise pas à s'attribuer",
+      "reporter sur l'animal des soins qu'on ne peut pas donner à des humains"
+    ],
+
+    "evolutionsPossibles": [
+      "deuil de l'animal — l'un des deuils les moins accompagnés socialement",
+      "arrivée d'un nouvel animal — question de la loyauté au précédent",
+      "l'animal comme pont entre deux personnages",
+      "prise de conscience — via l'animal — de quelque chose sur soi-même"
+    ],
+
+    "exemplesNarratifs": [
+      "chien comme seule compagnie d'un personnage isolé",
+      "cheval dans une relation équestre de longue durée",
+      "chat comme témoin silencieux d'une vie intérieure riche",
+      "animal de ferme dont la perte a un impact réel sur le personnage"
+    ],
+
+    "notesEditoriales": [
+      "La relation avec un animal dit quelque chose sur le personnage que ses relations humaines ne montrent pas toujours.",
+      "Elle est narrativement efficace parce qu'elle est inconditionnelle — et donc contraste avec les relations humaines complexes.",
+      "Le deuil d'un animal est souvent le premier deuil d'un enfant — et peut être le seul que certains adultes s'autorisent à vivre pleinement."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "deuil" },
+      { "type": "souvent_associe_a", "cible": "solitude" },
+      { "type": "peut_evoluer_en", "cible": "attachement-inconditionnel" }
+    ]
+  },
+  {
+    "id": "groupe-de-soutien-informel",
+    "label": "Groupe de soutien informel",
+    "famille": "liens communautaires",
+    "definitionCourte": "Ensemble de personnes liées par une épreuve commune — non par choix délibéré mais par circonstance. Parents d'enfants malades, survivants, familles en deuil, personnes vivant la même situation. Solidarité sans intimité préalable.",
+
+    "caracteristiques": [
+      "lien fondé sur une expérience partagée que les autres ne peuvent pas comprendre",
+      "intimité rapide née de la reconnaissance mutuelle",
+      "pas d'amitié nécessairement — mais une solidarité réelle",
+      "chacun voit dans l'autre où il en est ou où il pourrait en arriver",
+      "hétérogénéité totale par ailleurs — rien d'autre en commun"
+    ],
+
+    "tensionsCentrale": [
+      "comparaison de la souffrance — est-ce que la mienne est légitimée ?",
+      "voir dans l'autre une version de soi-même qui fait peur",
+      "celui qui s'en sort vs celui qui stagne — comment coexister",
+      "intimité qui peut devenir pesante — on ne veut pas être défini par ça",
+      "fin du groupe ou départ de membres — deuil d'un soutien"
+    ],
+
+    "signesPhysiques": [
+      "regard de reconnaissance — 'toi aussi tu sais'",
+      "contact physique permis plus vite qu'ailleurs",
+      "sourire qui dit plus qu'il ne dit",
+      "corps qui se détend d'être enfin dans un espace où on n'a pas à expliquer"
+    ],
+
+    "dynamiquesTypiques": [
+      "confidence partagée sans avoir besoin de tout le contexte",
+      "conseil pratique — 'voilà ce qui m'a aidé'",
+      "humour sur la situation — que personne à l'extérieur ne comprendrait",
+      "figure qui s'en est sorti et qui incarne l'espoir",
+      "celui qui n'arrive pas à y croire — et que le groupe soutient malgré tout"
+    ],
+
+    "masquesPossibles": [
+      "présence maintenue par devoir social plus que par besoin réel",
+      "performance du rétablissement pour ne pas décevoir le groupe",
+      "dépendance au groupe qui empêche de reconstruire ailleurs"
+    ],
+
+    "evolutionsPossibles": [
+      "amitié durable avec un ou plusieurs membres",
+      "sortie du groupe — guérison ou distance prise",
+      "retour pour aider à son tour",
+      "isolement si le groupe se dissout avant d'être prêt"
+    ],
+
+    "exemplesNarratifs": [
+      "groupe de parents d'enfants hospitalisés",
+      "survivants d'un même événement traumatique",
+      "personnes en deuil d'un proche par suicide",
+      "groupe AA ou équivalent — sobriété comme point commun"
+    ],
+
+    "notesEditoriales": [
+      "Ce lien explore ce que 'être compris' veut dire — et combien c'est rare.",
+      "Les groupes informels sont souvent plus honnêtes que les groupes formels — les rôles y sont moins définis.",
+      "Narrativement utile pour montrer un personnage dans un espace où il n'a pas à se justifier."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "amitié-improbable" },
+      { "type": "souvent_associe_a", "cible": "traumatisme-partagé" },
+      { "type": "peut_declencher", "cible": "renaissance" }
+    ]
+  },
+  {
+    "id": "ex-partenaire-devenu-ami",
+    "label": "Ex-partenaire devenu ami",
+    "famille": "relations amoureuses passées",
+    "definitionCourte": "Relation avec quelqu'un qu'on a aimé et avec qui on a construit quelque chose — et qu'on tente de conserver différemment. Ni le couple ni des étrangers, quelque chose de nouveau qui se cherche.",
+
+    "caracteristiques": [
+      "histoire commune dense qui ne disparaît pas",
+      "intimité ancienne qui peut refaire surface sans crier gare",
+      "redéfinition des règles du lien — sans manuel",
+      "regard des autres qui questionne ou juge",
+      "mémoire partagée du couple qui vit dans les détails"
+    ],
+
+    "tensionsCentrale": [
+      "frontière physique ou émotionnelle qui se déplace selon les jours",
+      "jalousie si l'un refait sa vie — le paradoxe de vouloir qu'il soit heureux mais pas trop",
+      "regret qui refait surface dans certains contextes",
+      "les autres qui ne comprennent pas pourquoi on maintient ce lien",
+      "moment où le passé remonte — une odeur, un lieu, une chanson"
+    ],
+
+    "signesPhysiques": [
+      "geste d'ancienne complicité qui revient naturellement",
+      "hésitation sur la façon de se saluer",
+      "regard qui sait des choses — toute l'histoire est là",
+      "corps qui garde des réflexes de l'autre temps"
+    ],
+
+    "dynamiquesTypiques": [
+      "confidence réciproque sur les nouvelles relations respectives",
+      "aide mutuelle dans les moments difficiles — le réflexe de l'appeler reste",
+      "moment de régression — on retombe dans les anciens rôles",
+      "décision de maintenir le lien malgré la pression extérieure",
+      "conversation sur pourquoi ça n'a pas marché — enfin, vraiment"
+    ],
+
+    "masquesPossibles": [
+      "amitié affichée qui cache des sentiments non résolus",
+      "indifférence performée pour protéger sa propre vulnérabilité",
+      "fréquence des contacts maintenue par peur de la perte complète"
+    ],
+
+    "evolutionsPossibles": [
+      "amitié vraie et stable — rare mais existant",
+      "recouplement — le lien se retransforme",
+      "distance progressive — l'amitié ne tient pas",
+      "rupture définitive si l'un ou l'autre refait sa vie sérieusement"
+    ],
+
+    "exemplesNarratifs": [
+      "ex de jeunesse retrouvé adulte avec qui le lien a survécu",
+      "ex-époux qui co-parentent et maintiennent quelque chose",
+      "ex-partenaire avec qui on partage encore un cercle social",
+      "ex qui reste la première personne appelée dans les moments de crise"
+    ],
+
+    "notesEditoriales": [
+      "Cette relation est narrativement riche parce qu'elle n'a pas de nom officiel — et cette absence de cadre crée une liberté et une ambiguïté permanentes.",
+      "La mémoire du couple est un personnage à part entière dans cette dynamique.",
+      "À utiliser pour explorer ce que 'finir' une relation signifie vraiment — et ce qui peut survire à la rupture."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "recouplement" },
+      { "type": "souvent_associe_a", "cible": "ambivalence" },
+      { "type": "peut_declencher", "cible": "jalousie" }
+    ]
+  },
+  {
+    "id": "silence-partage-entre-deux",
+    "label": "Silence partagé entre deux personnes",
+    "famille": "liens singuliers",
+    "definitionCourte": "Capacité de deux personnes à coexister en silence sans inconfort — ni besoin de remplir, ni gêne. Ce silence-là est une forme d'intimité, un signe de confiance, et parfois plus dense que les mots.",
+
+    "caracteristiques": [
+      "absence de pression à parler — le silence est tenu par les deux",
+      "confiance qui permet de ne pas se justifier de se taire",
+      "présence physique qui suffit",
+      "lien suffisamment solide pour ne pas avoir besoin de mots pour exister",
+      "rare — la plupart des relations modernes ne s'y installent pas"
+    ],
+
+    "tensionsCentrale": [
+      "silence mal lu — l'autre interprète le silence comme colère, distance ou rejet",
+      "l'un qui supporte moins bien le silence que l'autre",
+      "silence qui dit des choses que les mots ne diraient pas — parfois trop",
+      "moment où le silence devient un évitement",
+      "différence culturelle sur ce qu'est un silence acceptable"
+    ],
+
+    "signesPhysiques": [
+      "corps détendus et présents — pas de tension de remplissage",
+      "regard qui se pose ailleurs sans chercher à établir le contact",
+      "gestes ordinaires partagés — lecture, cuisine, marche — sans commentaire",
+      "légère conscience de la présence de l'autre sans en avoir besoin"
+    ],
+
+    "dynamiquesTypiques": [
+      "compagnie dans les tâches ordinaires sans échange verbal",
+      "voyage ou trajet silencieux — confortable",
+      "nuit ensemble sans beaucoup parler",
+      "silence après un moment fort — les mots seraient moins que ça",
+      "lecture côte à côte — chacun dans son monde mais ensemble"
+    ],
+
+    "masquesPossibles": [
+      "silence perçu comme relation harmonieuse alors qu'il cache un éloignement",
+      "confort du silence utilisé pour éviter une conversation difficile",
+      "l'un qui s'est résigné à ne plus parler — pas du tout la même chose"
+    ],
+
+    "evolutionsPossibles": [
+      "approfondissement — le silence devient la marque d'un lien très fort",
+      "rupture progressive — le silence devient distance sans qu'on s'en rende compte",
+      "conversation qui surgit du silence — souvent plus vraie",
+      "témoignage de la durée — seules les longues relations permettent ces silences"
+    ],
+
+    "exemplesNarratifs": [
+      "deux vieux amis qui se retrouvent après des années et n'ont pas besoin de rattraper",
+      "couple qui travaille côte à côte sans se parler — confortable",
+      "parent et enfant adulte dans la maison familiale",
+      "deux personnages après une épreuve — les mots semblent dérisoires"
+    ],
+
+    "notesEditoriales": [
+      "Le silence partagé est l'une des formes d'intimité les plus difficiles à montrer en prose — mais les détails sensoriels y suffisent.",
+      "Il révèle souvent plus sur la qualité d'un lien que les dialogues.",
+      "À utiliser en contraste avec les relations où chaque silence doit être rempli."
+    ],
+
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "confiance" },
+      { "type": "peut_suivre", "cible": "moment-fort-partage" },
+      { "type": "peut_evoluer_en", "cible": "distance-silencieuse" }
+    ]
+  }
+]

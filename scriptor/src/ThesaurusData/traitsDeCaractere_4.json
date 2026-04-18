@@ -1,0 +1,778 @@
+[
+  {
+    "id": "protecteur",
+    "label": "Protecteur",
+    "polarite": "ambigu",
+    "famille": "relation-aux-autres",
+    "definitionCourte": "Pulsion profonde de mettre les autres à l'abri du danger, du mal ou de la souffrance. Ce besoin de protéger peut être une force généreuse et aimante, mais il peut aussi glisser vers le contrôle, l'étouffement ou le refus de laisser l'autre grandir.",
+    "signesPhysiques": [
+      "corps qui se place instinctivement entre l'autre et la source de danger",
+      "regard qui balaye constamment l'environnement à la recherche de menaces",
+      "main posée en bouclier sur l'épaule ou le bras de l'autre",
+      "posture élargie, légèrement penchée vers l'avant",
+      "mâchoire qui se serre au moindre signal d'alerte",
+      "sourcils froncés dans les situations perçues comme risquées",
+      "tension dans les bras, prêts à agir",
+      "regard qui revient sans cesse vers la personne protégée",
+      "position en retrait mais jamais hors de portée",
+      "voix qui baisse et se stabilise pour rassurer"
+    ],
+    "sensationsInternes": [
+      "vigilance permanente qui s'installe comme un fond sonore",
+      "chaleur dans la poitrine quand la personne protégée est en sécurité",
+      "crispation immédiate à la moindre sensation de danger",
+      "soulagement physique presque douloureux quand la menace passe",
+      "sentiment de vide ou d'inutilité quand personne n'a besoin de lui",
+      "tension diffuse dans les épaules quand il ne peut pas surveiller",
+      "impression d'être le dernier rempart entre l'autre et le chaos",
+      "plaisir sourd, presque honteux, d'être indispensable"
+    ],
+    "pensees": [
+      "Si je ne veille pas, quelque chose va arriver.",
+      "Elle n'est pas capable de mesurer le danger à sa juste valeur.",
+      "Je ne peux pas me permettre de relâcher la garde.",
+      "Je ne protège pas par peur — je protège parce que je les aime.",
+      "Pourquoi est-ce qu'il prend des risques pareils ? Il ne pense pas aux conséquences ?",
+      "Si je l'avais vu venir, j'aurais pu l'arrêter.",
+      "Ma vigilance, c'est ma façon d'aimer.",
+      "Ils me reprochent de les étouffer. Ils ne comprennent pas ce que j'empêche."
+    ],
+    "effetsVoixLangage": [
+      "ton calme et posé, même dans l'urgence",
+      "questions directes sur l'état de l'autre avant de parler de soi",
+      "formulations qui minimisent le danger pour ne pas alarmer",
+      "avertissements émis comme des faits, sans dramatisation",
+      "voix qui se durcit légèrement quand quelqu'un menace ce qu'il protège",
+      "tend à interrompre pour corriger une information dangereuse",
+      "dit souvent 'laisse-moi faire' ou 'je m'en occupe'"
+    ],
+    "comportements": [
+      "vérifie les sorties dès qu'il entre dans un lieu inconnu",
+      "prend les devants dans les situations à risque sans demander l'avis",
+      "surveille discrètement les allées et venues autour de ceux qu'il aime",
+      "s'interpose physiquement ou verbalement sans hésitation",
+      "garde des informations pour lui s'il juge l'autre trop fragile pour les entendre",
+      "prend des décisions à la place de l'autre quand il perçoit un danger",
+      "vérifie régulièrement que tout va bien, parfois à l'excès",
+      "anticipe les besoins de l'autre avant qu'ils soient exprimés",
+      "peut couper des relations qu'il juge dangereuses pour ses proches",
+      "accepte difficilement que l'autre prenne ses propres risques"
+    ],
+    "masquesPossibles": [
+      "détachement apparent — protège en silence, sans le montrer",
+      "agressivité envers la source de menace pour masquer la peur",
+      "pragmatisme froid — 'c'est juste logique de prendre précautions'",
+      "humour pour dédramatiser ce qui est en réalité une surveillance constante"
+    ],
+    "manifestationsPositives": [
+      "crée un espace de sécurité réel pour ceux qui lui font confiance",
+      "agit vite et bien en situation de crise",
+      "ne lâche pas quand les autres fuient",
+      "porte le poids des décisions difficiles pour épargner les autres",
+      "son attention est un ancrage pour les personnages fragiles"
+    ],
+    "manifestationsNegatives": [
+      "étouffe l'autonomie de ceux qu'il prétend protéger",
+      "prend des décisions à leur place sans leur demander",
+      "peut devenir autoritaire ou tyrannique au nom de la sécurité",
+      "traite parfois les autres comme des incapables ou des enfants",
+      "souffre quand l'autre revendique son indépendance, le vit comme un rejet"
+    ],
+    "blessuresPossibles": [
+      "a perdu quelqu'un qu'il n'a pas su protéger",
+      "a été lui-même sans protection dans l'enfance ou l'adolescence",
+      "a vécu une situation de danger extrême qui a laissé une vigilance permanente"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à lâcher prise et faire confiance à l'autre pour se protéger lui-même",
+      "peut basculer vers le contrôle et l'isolement de ses proches si la peur augmente",
+      "peut reconnaître que son besoin de protéger sert aussi à masquer sa propre peur de perdre",
+      "peut trouver un équilibre entre protection et respect de l'autonomie d'autrui"
+    ],
+    "notesEditoriales": [
+      "Le personnage protecteur fonctionne mieux quand sa protection est parfois non sollicitée — la tension avec l'autre est là.",
+      "Distinguer protection généreuse et contrôle déguisé : les deux peuvent coexister chez le même personnage.",
+      "La blessure sous-jacente (peur de perdre, sentiment de responsabilité excessive) est plus intéressante que la protection elle-même.",
+      "Éviter d'en faire un héros sans failles — sa force est aussi sa limite la plus dramatique."
+    ]
+  },
+  {
+    "id": "jaloux",
+    "label": "Jaloux",
+    "polarite": "negatif",
+    "famille": "relation-aux-autres",
+    "definitionCourte": "État chronique d'insécurité relationnelle qui se traduit par une surveillance constante de l'autre, une interprétation des signes neutres comme des menaces et une possessivité qui peut aller jusqu'à l'étouffement. La jalousie n'est pas une émotion ponctuelle mais un trait structurant qui colore toutes les relations.",
+    "signesPhysiques": [
+      "regard qui se fixe sur les interactions de l'autre avec les tiers",
+      "mâchoire contractée quand l'autre parle à quelqu'un d'autre",
+      "gestes de marquage territorial subtils (main sur l'épaule, bras autour)",
+      "sourcils légèrement froncés dans les conversations anodines",
+      "tension dans le cou et les épaules lors des sorties sociales",
+      "regard qui fait le tour de la pièce avant de revenir sur l'autre",
+      "lèvres pincées quand l'autre rit avec quelqu'un d'autre",
+      "corps qui se rapproche imperceptiblement de l'autre en présence de tiers",
+      "poings légèrement fermés dans les situations perçues comme menaçantes",
+      "yeux qui ne lâchent pas l'autre dans un espace social"
+    ],
+    "sensationsInternes": [
+      "brûlure dans la poitrine à la vue d'une interaction suspecte",
+      "nœud dans l'estomac qui monte et descend selon les comportements de l'autre",
+      "vertige bref quand une peur se confirme partiellement",
+      "irritabilité sourde qui n'a pas d'objet précis mais cherche une cible",
+      "surveillance intérieure constante, comme un radar qu'on ne peut pas éteindre",
+      "sentiment d'être en compétition même avec des inconnus",
+      "honte diffuse de ressentir ce qu'il ressent",
+      "soulagement fragile et temporaire quand l'autre rassure"
+    ],
+    "pensees": [
+      "Elle a souri différemment à lui qu'à moi.",
+      "Pourquoi est-ce qu'il a besoin de lui parler autant ?",
+      "Je le sais quand ça se passe. Je le sens.",
+      "S'il m'aimait vraiment, il ne passerait pas son temps à regarder les autres.",
+      "Je ne suis pas jaloux. Je fais juste attention.",
+      "Elle dit que je suis parano. C'est exactement ce que dirait quelqu'un qui a quelque chose à cacher.",
+      "Si je perds ça, je ne m'en remettrai pas.",
+      "Je mérite mieux que d'être traité comme si j'étais interchangeable."
+    ],
+    "effetsVoixLangage": [
+      "questions anodines en apparence mais chargées de sous-entendus",
+      "ton légèrement froid après un événement social",
+      "reformulations qui cherchent à confirmer une suspicion",
+      "silences calculés pour forcer l'autre à se justifier",
+      "ironie discrète quand il parle des tiers perçus comme menaçants",
+      "accent mis sur certains détails pour voir la réaction de l'autre",
+      "ton qui se lisse excessivement pour masquer la tension"
+    ],
+    "comportements": [
+      "vérifie le téléphone ou les messages de l'autre quand c'est possible",
+      "pose des questions apparemment innocentes pour reconstituer les emplois du temps",
+      "interprète les retards, les silences et les absences comme des signaux",
+      "teste l'autre en créant des situations ambiguës",
+      "garde une mémoire précise des interactions passées pour les comparer",
+      "s'arrange pour être présent là où l'autre pourrait le tromper",
+      "émet des commentaires dévalorisants sur les personnes perçues comme concurrentes",
+      "peut devenir froid ou distant pour punir l'autre d'une impair imaginaire",
+      "cherche la réassurance de manière répétée, ne croit jamais complètement",
+      "peut s'isoler avec l'autre pour réduire ses contacts extérieurs"
+    ],
+    "masquesPossibles": [
+      "indifférence calculée — 'ça m'est complètement égal'",
+      "humour auto-dépréciatif sur sa propre jalousie pour la rendre acceptable",
+      "générosité soudaine après un accès de jalousie pour compenser",
+      "rationalisation — 'je pose des questions, c'est tout, c'est normal'"
+    ],
+    "manifestationsPositives": [
+      "peut signaler un investissement émotionnel réel dans la relation",
+      "parfois associé à une vigilance qui protège effectivement d'une vraie menace",
+      "peut pousser à des gestes d'attention ou de séduction soutenus",
+      "révèle une capacité à s'attacher profondément",
+      "peut être le moteur d'une évolution personnelle si confronté à ses sources"
+    ],
+    "manifestationsNegatives": [
+      "étouffe l'autre par une surveillance constante",
+      "détruit la confiance à force de la tester",
+      "isole progressivement l'autre de son réseau social",
+      "crée une atmosphère de tension et de marche sur des œufs",
+      "peut basculer dans la violence verbale ou physique si non contenu"
+    ],
+    "blessuresPossibles": [
+      "a été abandonné ou remplacé dans une relation importante",
+      "a été trompé ou trahi et n'a jamais pu faire confiance de nouveau",
+      "a grandi dans un environnement où l'amour était conditionnel et rare"
+    ],
+    "evolutionsPossibles": [
+      "peut s'aggraver et devenir du contrôle, de la manipulation ou de la violence",
+      "peut s'atténuer si une relation stable et honnête lui donne les preuves répétées qu'il n'est pas remplaçable",
+      "peut être confronté à ses propres actions et en prendre conscience avec douleur",
+      "peut comprendre que sa jalousie vient de lui et entamer un travail sur lui-même"
+    ],
+    "notesEditoriales": [
+      "La jalousie est plus intéressante quand elle est partiellement lucide — le personnage sait que c'est disproportionné mais ne peut pas s'en empêcher.",
+      "Éviter d'en faire un simple méchant : montrer la peur sous-jacente d'être insuffisant ou remplaçable.",
+      "La jalousie non fondée est dramatiquement riche parce qu'elle révèle une vérité sur le personnage jaloux, pas sur l'autre.",
+      "Distinguer jalousie (peur de perdre ce qu'on a) et envie (désir de ce que l'autre possède) — les deux peuvent coexister."
+    ]
+  },
+  {
+    "id": "ambitieux",
+    "label": "Ambitieux",
+    "polarite": "ambigu",
+    "famille": "rapport-a-soi",
+    "definitionCourte": "Désir ardent de s'élever, de réussir et de laisser une trace. L'ambition peut être une force créatrice et mobilisatrice extraordinaire, mais elle peut aussi broyer les liens, aveugler sur les moyens employés et transformer la réussite en fin en soi, oubliant ce pour quoi on voulait réussir.",
+    "signesPhysiques": [
+      "regard qui évalue rapidement les situations et les personnes",
+      "posture droite et présente, même dans des espaces informels",
+      "gestes décidés, peu de flottements",
+      "contact visuel soutenu, presque assertif",
+      "légère tension dans la mâchoire lors des obstacles",
+      "mouvements rapides et économes, peu d'énergie gaspillée",
+      "sourire calculé dans les contextes professionnels ou sociaux",
+      "tête légèrement levée dans les situations de compétition",
+      "impatience physique visible — tappe, pieds, stylo",
+      "attention qui se détourne des conversations qu'il juge inutiles"
+    ],
+    "sensationsInternes": [
+      "énergie qui monte à l'approche d'un défi ou d'une opportunité",
+      "frustration sourde quand les autres vont moins vite ou visent moins haut",
+      "sentiment de manquer quelque chose si une journée ne fait pas avancer",
+      "plaisir presque physique à dépasser un obstacle ou un concurrent",
+      "malaise dans les situations de stagnation ou d'attente",
+      "fièvre légère dans les moments de concentration intense",
+      "vide étrange après une réussite, avant que le prochain objectif se fixe",
+      "vigilance constante sur sa propre progression"
+    ],
+    "pensees": [
+      "Je ne suis pas là pour faire de la figuration.",
+      "Je peux faire mieux. Je vais faire mieux.",
+      "Le temps que je passe à ne pas avancer, d'autres l'utilisent.",
+      "Ce n'est pas de l'arrogance — je sais juste ce que je vaux.",
+      "Quand j'aurai atteint ça, tout le reste viendra.",
+      "Est-ce qu'il est meilleur que moi ? Vraiment ?",
+      "Je ne peux pas me permettre de m'arrêter maintenant.",
+      "Pourquoi se contenter de moins si on peut viser plus haut ?"
+    ],
+    "effetsVoixLangage": [
+      "phrases courtes et directes, peu de détours",
+      "vocabulaire précis, peu de fioritures dans les échanges professionnels",
+      "tend à recadrer les conversations vers l'action et les résultats",
+      "questions qui vont droit au but, sans préambule social excessif",
+      "peut couper la parole si l'interlocuteur tourne autour du pot",
+      "ton légèrement différent selon que l'interlocuteur est utile ou non",
+      "enthousiasme sincère et contagieux quand un projet l'engage vraiment"
+    ],
+    "comportements": [
+      "planifie à long terme et adapte ses décisions à une trajectoire globale",
+      "sélectionne ses relations en partie selon leur utilité ou leur valeur d'apprentissage",
+      "travaille plus longtemps et plus intensément que la plupart",
+      "observe les personnes qui l'ont précédé pour en tirer des leçons",
+      "accepte difficilement l'échec mais en tire des enseignements rapidement",
+      "peut sacrifier du temps personnel, familial ou amical pour avancer",
+      "ne supporte pas d'être sous-utilisé ou mal employé",
+      "prend des risques calculés, rarement impulsifs",
+      "revient sans cesse sur ses propres performances pour les améliorer",
+      "peut marcher sur des pieds sans s'en rendre compte ou en s'en rendant compte"
+    ],
+    "masquesPossibles": [
+      "fausse modestie — minimise ses objectifs pour ne pas paraître menaçant",
+      "générosité stratégique — aide les autres quand ça lui coûte peu et lui rapporte de la loyauté",
+      "désintérêt apparent — dit 'ça m'est égal' alors qu'il surveille chaque détail",
+      "passion affichée pour masquer le calcul"
+    ],
+    "manifestationsPositives": [
+      "entraîne les autres par son énergie et sa conviction",
+      "fixe des objectifs clairs et travaille méthodiquement pour les atteindre",
+      "ne baisse pas les bras facilement devant les obstacles",
+      "peut élever le niveau d'un groupe ou d'une équipe par son exigence",
+      "crée des choses qui durent et qui comptent"
+    ],
+    "manifestationsNegatives": [
+      "traite les autres comme des moyens plutôt que des fins",
+      "peut trahir ses valeurs ou ses proches si l'objectif est assez important",
+      "n'est jamais pleinement satisfait — la réussite ne comble pas le vide",
+      "peut devenir impitoyable quand il perçoit une menace à sa trajectoire",
+      "souffre souvent d'une vie affective appauvrie à force de tout mettre dans l'ambition"
+    ],
+    "blessuresPossibles": [
+      "a grandi dans un environnement où la valeur était conditionnelle aux résultats",
+      "a subi un échec ou une humiliation qui a transformé l'ambition en besoin de prouver",
+      "a manqué de reconnaissance alors qu'il la méritait et cherche à ne plus jamais dépendre du jugement des autres"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à distinguer ce qu'il veut vraiment de ce qu'il veut prouver",
+      "peut perdre tout ce qui comptait en dehors de sa trajectoire et en prendre acte",
+      "peut transformer son ambition en service d'une cause qui le dépasse",
+      "peut s'effondrer si l'objectif ultime est atteint et ne comble rien"
+    ],
+    "notesEditoriales": [
+      "L'ambition n'est dramatiquement intéressante que si on voit ce qu'elle coûte — pas seulement ce qu'elle rapporte.",
+      "Distinguer ambition saine (désir de créer, de s'accomplir) et ambition réparatrice (besoin de prouver, de compenser).",
+      "Le vide après la réussite est un des moments les plus riches narrativement pour ce personnage.",
+      "Éviter le stéréotype du 'carriériste sans scrupules' : l'ambition peut coexister avec une réelle générosité et un vrai code éthique."
+    ]
+  },
+  {
+    "id": "humilite",
+    "label": "Humble",
+    "polarite": "positif",
+    "famille": "rapport-a-soi",
+    "definitionCourte": "Capacité rare à tenir une juste mesure de soi-même — ni s'effacer par fausse modestie, ni s'imposer par orgueil. L'humilité véritable n'est pas une faiblesse mais une force tranquille : elle permet d'apprendre, d'écouter et de reconnaître ses erreurs sans en mourir.",
+    "signesPhysiques": [
+      "contact visuel égal avec tous, sans distinction de statut",
+      "posture ouverte, ni soumise ni dominante",
+      "gestes calmes, sans chercher à occuper l'espace",
+      "sourire qui s'allume genuinement à l'idée d'apprendre quelque chose",
+      "légère inclinaison de la tête quand on lui parle",
+      "absence de gestes de domination ou de marquage territorial",
+      "regard qui s'attarde sur l'autre avec une curiosité sincère",
+      "mains au repos, pas de tambourinement ou d'agitation",
+      "rit facilement, y compris de lui-même",
+      "s'arrête réellement quand quelqu'un parle"
+    ],
+    "sensationsInternes": [
+      "sentiment de légèreté quand il reconnaît une erreur sans drama",
+      "curiosité douce à l'idée d'apprendre de quelqu'un d'inattendu",
+      "soulagement d'être simplement ce qu'il est, sans devoir prouver",
+      "confort dans les situations où il n'est pas le plus compétent",
+      "absence de la brûlure habituelle de l'ego blessé",
+      "solidité intérieure qui ne dépend pas du regard des autres",
+      "plaisir simple à voir les autres réussir sans se comparer",
+      "calme devant les critiques quand elles sont fondées"
+    ],
+    "pensees": [
+      "Je n'avais pas vu les choses comme ça. C'est intéressant.",
+      "Je me suis trompé. Ça ne change pas qui je suis.",
+      "Elle en sait plus que moi là-dessus. J'écoute.",
+      "Ce n'est pas grave si personne ne sait que c'était mon idée.",
+      "Je peux toujours faire mieux, mais je n'ai pas besoin d'être parfait.",
+      "Leur regard sur moi n'est pas ce qui me définit.",
+      "Je n'ai pas besoin que ce soit moi qui aie raison.",
+      "Est-ce que je prends en compte ce que je ne vois pas encore ?"
+    ],
+    "effetsVoixLangage": [
+      "reconnaît ses doutes et ses lacunes sans honte dans la conversation",
+      "utilise souvent 'je pense que' ou 'peut-être que' sans que ce soit de l'hésitation",
+      "écoute jusqu'au bout avant de répondre",
+      "ne cherche pas à avoir le dernier mot",
+      "accepte une correction sans défense immédiate",
+      "parle de ses réussites sans les amplifier ni les minimiser",
+      "pose des questions genuines plutôt que rhétoriques"
+    ],
+    "comportements": [
+      "reconnaît ses erreurs sans s'y attarder excessivement",
+      "cède le mérite quand il ne lui appartient pas en totalité",
+      "cherche des personnes plus compétentes que lui pour apprendre",
+      "ne se dérobe pas aux tâches ingrates",
+      "écoute les critiques avant de les évaluer",
+      "traite les personnes de statut inférieur avec le même respect",
+      "ne met pas en scène sa propre vertu",
+      "demande de l'aide quand il en a besoin",
+      "peut changer d'avis publiquement sans en faire un drame",
+      "prend sa place dans un groupe sans l'écraser ni s'y effacer"
+    ],
+    "masquesPossibles": [
+      "fausse modestie — dit 'c'est rien' mais attend d'être contredit",
+      "effacement stratégique — s'humilie pour éviter la confrontation",
+      "humilité de façade qui cache un orgueil blessé jamais traité",
+      "humilité performative en public, arrogance en privé"
+    ],
+    "manifestationsPositives": [
+      "crée une atmosphère où les autres osent s'exprimer et se tromper",
+      "apprend vite parce qu'il n'a pas à défendre une image",
+      "construit des relations de confiance durable",
+      "prend de meilleures décisions parce qu'il intègre les retours des autres",
+      "inspire sans chercher à le faire"
+    ],
+    "manifestationsNegatives": [
+      "peut être mal lu comme manque de confiance ou de compétence",
+      "peut être exploité par des personnages qui confondent humilité et faiblesse",
+      "peut avoir du mal à s'imposer quand la situation l'exige",
+      "peut passer inaperçu dans des environnements où la vantardise est valorisée",
+      "peut souffrir en silence plutôt que de faire valoir ses droits"
+    ],
+    "blessuresPossibles": [
+      "a grandi dans l'ombre d'un parent ou d'un aîné que tout le monde admirait",
+      "a fait l'expérience d'une chute brutale après une période d'orgueil",
+      "a appris très tôt que se mettre en avant coûtait cher"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à affirmer ses besoins sans perdre son humilité",
+      "peut devenir un leader remarquable précisément parce qu'il n'en a pas besoin",
+      "peut être mis à l'épreuve par une situation qui exige qu'il s'impose",
+      "peut vaciller si son humilité est systématiquement prise pour de la faiblesse"
+    ],
+    "notesEditoriales": [
+      "L'humilité véritable est rare à l'écran et sur la page — elle ne se dit pas, elle se montre dans des choix concrets.",
+      "Distinguer humilité et effacement : un personnage humble peut prendre de la place, défendre une position, refuser une injustice.",
+      "L'humilité est plus intéressante sous pression — quand le personnage a toutes les raisons de s'enorgueillir et ne le fait pas.",
+      "Éviter l'humilité caricaturale où le personnage ne cesse de se rabaisser — c'est de l'auto-dépréciation, pas de l'humilité."
+    ]
+  },
+  {
+    "id": "vengeur",
+    "label": "Vengeur",
+    "polarite": "negatif",
+    "famille": "rapport-a-autrui",
+    "definitionCourte": "Orientation intérieure où le désir de rétablir une justice perçue par la punition de l'offenseur devient une force motrice centrale. La vengeance n'est pas une colère qui passe — c'est un projet, une patience, parfois une raison de vivre qui organise les actions du personnage autour d'un seul axe.",
+    "signesPhysiques": [
+      "regard qui se fixe longuement sur la cible avant de se détourner",
+      "visage qui se ferme imperceptiblement à la mention de l'offenseur",
+      "sourire bref et froid à la pensée du moment à venir",
+      "posture qui se redresse légèrement dans les moments de résolution",
+      "mâchoire serrée quand le plan est contrarié",
+      "mains calmes alors que tout le reste est tendu",
+      "regard qui prend du recul et évalue, ne réagit pas à chaud",
+      "légère crispation autour des yeux quand il feint l'indifférence",
+      "rythme cardiaque visible dans la gorge lors des confrontations proches",
+      "silence physique — immobilité calculée plutôt qu'agitation"
+    ],
+    "sensationsInternes": [
+      "chaleur sourde et persistante dans la poitrine à la pensée de la cible",
+      "calme paradoxal qui vient de savoir ce qu'il va faire",
+      "satisfaction anticipatoire, presque physique, à l'approche du moment",
+      "nœud qui se resserre quand quelque chose retarde le plan",
+      "froid intérieur quand il doit interagir avec l'offenseur en faisant semblant",
+      "vide momentané après avoir commis ou manqué la vengeance",
+      "impression que la douleur originelle est en attente, pas résolue",
+      "sentiment d'être suspendu dans le temps jusqu'à ce que justice soit faite"
+    ],
+    "pensees": [
+      "Je n'oublie pas. Je n'oublierai jamais.",
+      "Il pense que c'est terminé. Il a tort.",
+      "Je n'ai pas besoin de me dépêcher. Le temps travaille pour moi.",
+      "Ce n'est pas de la haine. C'est de la justice.",
+      "Il a fait ça en sachant ce que ça ferait. Il doit en payer le prix.",
+      "Chaque jour qui passe est un jour de plus où il ne sait pas ce qui l'attend.",
+      "Je serai calme. Je serai patient. Et quand le moment viendra, je ne tremblerai pas.",
+      "Quand ce sera fait, peut-être que je pourrai passer à autre chose."
+    ],
+    "effetsVoixLangage": [
+      "parle peu de l'offenseur — les rares fois qu'il le fait, c'est froid et mesuré",
+      "esquive les questions directes sur ses intentions",
+      "peut être charmant et sociable pour masquer sa fixation",
+      "ton qui se lisse dangereusement dans les confrontations avec la cible",
+      "phrases courtes et définitives quand il révèle quelque chose de vrai",
+      "sait exactement quoi dire pour blesser mais choisit soigneusement son moment",
+      "silence éloquent là où d'autres s'emporteraient"
+    ],
+    "comportements": [
+      "collecte des informations sur la cible avec méthode et patience",
+      "maintient une façade normale pour ne pas éveiller les soupçons",
+      "attend le moment optimal plutôt que d'agir sous le coup de l'émotion",
+      "peut rendre service à la cible pour gagner sa confiance",
+      "refuse de pardonner même quand l'entourage le lui demande",
+      "met en place des étapes, un plan, une progression",
+      "réoriente des opportunités vers son objectif",
+      "peut sacrifier des relations ou des opportunités pour maintenir le cap",
+      "garde des preuves, des souvenirs, des traces de l'offense",
+      "se retient physiquement lors des confrontations prématurées"
+    ],
+    "masquesPossibles": [
+      "indifférence totale jouée — 'je m'en fous, c'est du passé'",
+      "amabilité calculée avec la cible pour désarmer sa méfiance",
+      "discours sur la justice et le principe pour masquer le besoin personnel",
+      "dévouement à une cause qui lui permet d'envelopper sa vengeance dans quelque chose de plus grand"
+    ],
+    "manifestationsPositives": [
+      "patience et autodiscipline extraordinaires",
+      "capacité à se contrôler sous pression intense",
+      "intelligence stratégique et lecture fine des situations",
+      "ténacité qui peut être mise au service d'autres objectifs",
+      "lucidité sur les motivations des autres"
+    ],
+    "manifestationsNegatives": [
+      "consume sa propre vie au service d'un objectif qui ne le libèrera peut-être pas",
+      "sacrifie des relations authentiques pour garder le secret ou le cap",
+      "peut blesser des innocents dans sa progression",
+      "devient incapable de vivre pleinement tant que la vengeance n'est pas accomplie",
+      "le passage à l'acte ne comble souvent pas le vide qu'il espérait combler"
+    ],
+    "blessuresPossibles": [
+      "a subi une injustice grave pour laquelle il n'a eu aucun recours institutionnel",
+      "a perdu quelqu'un ou quelque chose d'irremplaçable à cause d'un acte délibéré",
+      "a intériorisé l'idée que personne ne viendrait faire justice à sa place"
+    ],
+    "evolutionsPossibles": [
+      "peut accomplir sa vengeance et découvrir que le vide est toujours là",
+      "peut être arrêté au dernier moment par quelque chose qui lui redonne une raison de vivre",
+      "peut réorienter son énergie vers une justice qui dépasse son cas personnel",
+      "peut comprendre que la vengeance le maintient prisonnier de celui qu'il veut punir"
+    ],
+    "notesEditoriales": [
+      "La vengeance est dramatiquement puissante parce qu'elle crée un arc narratif naturel avec une résolution incertaine.",
+      "Le personnage vengeur doit avoir des raisons compréhensibles, pas nécessairement justifiées — la nuance est là.",
+      "Le moment le plus intéressant n'est souvent pas la vengeance elle-même mais ce qui vient juste après.",
+      "Éviter la vengeance froide sans aucune ambivalence — même les personnages les plus résolus ont des moments de doute."
+    ]
+  },
+  {
+    "id": "curieux",
+    "label": "Curieux",
+    "polarite": "positif",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Appétit insatiable pour comprendre ce qui est, ce qui fonctionne et ce qui se cache derrière les apparences. La curiosité n'est pas un caprice passager mais une orientation fondamentale vers le monde, une incapacité à rester en surface quand une profondeur se laisse entrevoir.",
+    "signesPhysiques": [
+      "yeux qui s'allument à la mention d'une chose inconnue",
+      "légère inclinaison du corps vers l'avant quand quelque chose l'intéresse",
+      "sourcils qui montent au lieu de froncer quand il est surpris",
+      "regard qui s'attarde sur les détails que les autres ne voient pas",
+      "gestes des mains qui accompagnent la réflexion",
+      "sourire qui éclate sans prévenir quand une idée se connecte",
+      "tête penchée lors des écoutes attentives",
+      "immobilité concentrée lors des moments de réflexion intense",
+      "tendance à toucher les objets pour les comprendre",
+      "œil qui s'arrête sur ce qui est hors-norme dans une scène"
+    ],
+    "sensationsInternes": [
+      "picotement mental à l'approche d'un problème non résolu",
+      "légère fièvre intérieure quand une piste semble prometteuse",
+      "frustration douce quand il faut s'arrêter avant d'avoir compris",
+      "plaisir presque physique à la connexion entre deux idées disparates",
+      "impatience agréable avant l'exploration d'un territoire inconnu",
+      "sentiment que le monde est toujours plus grand qu'il ne semblait",
+      "confort dans l'incertitude — les questions non résolues ne l'angoissent pas",
+      "énergie qui monte spontanément dans les conversations qui vont en profondeur"
+    ],
+    "pensees": [
+      "Mais comment est-ce que ça fonctionne vraiment ?",
+      "Il doit y avoir quelque chose que je ne vois pas encore.",
+      "Je ne peux pas partir sans avoir compris ça.",
+      "Tout le monde accepte ça comme une évidence. Ce n'en est peut-être pas une.",
+      "Cette personne est bien plus intéressante qu'elle n'en a l'air.",
+      "Et si on regardait le problème depuis l'autre côté ?",
+      "Je ne sais pas assez sur ce sujet. Il faut que j'apprenne.",
+      "Pourquoi personne ne s'est jamais posé cette question ?"
+    ],
+    "effetsVoixLangage": [
+      "pose des questions qui vont au-delà du superficiel naturellement",
+      "change de registre facilement selon l'interlocuteur pour aller plus loin",
+      "peut perdre le fil social s'il s'enflamme pour une idée",
+      "rebondit sur une phrase anodine pour l'explorer",
+      "dit souvent 'c'est intéressant que...' comme entrée en matière",
+      "n'a pas de sujets hors limites — tout peut devenir une conversation profonde",
+      "peut poser des questions déstabilisantes sans en avoir conscience"
+    ],
+    "comportements": [
+      "lit, observe, explore sans qu'on le lui demande",
+      "suit des pistes secondaires même quand le chemin principal est évident",
+      "accumule des connaissances dans des domaines disparates",
+      "engage des inconnus en conversation pour apprendre d'eux",
+      "revient sur des sujets résolus pour les voir sous un nouvel angle",
+      "peut oublier l'heure ou ses obligations quand il est absorbé",
+      "prend des notes, fait des schémas, essaie de voir les structures",
+      "cherche la personne la plus compétente dans chaque domaine pour l'interroger",
+      "peut sembler intrusif en posant des questions trop personnelles",
+      "ramène souvent les conversations à ce qui l'intrigue"
+    ],
+    "masquesPossibles": [
+      "peut feindre de savoir pour garder accès à une source d'information",
+      "peut sembler désinvolte pour qu'on lui en dise plus",
+      "peut cacher l'intensité de son intérêt pour ne pas paraître obsessionnel",
+      "peut utiliser l'humour pour poser des questions difficiles sans paraître accusateur"
+    ],
+    "manifestationsPositives": [
+      "apprend vite et s'adapte à des situations nouvelles",
+      "trouve des solutions inattendues parce qu'il explore là où les autres n'ont pas regardé",
+      "écoute vraiment, ce qui rend les autres à l'aise pour se confier",
+      "apporte de l'oxygène dans les situations où tout le monde pense pareil",
+      "enrichit chaque relation par l'attention sincère qu'il y porte"
+    ],
+    "manifestationsNegatives": [
+      "peut sembler intrusif ou indiscret dans ses questions",
+      "peut s'éparpiller et manquer de profondeur dans un seul domaine",
+      "peut oublier des obligations pratiques au profit de ses explorations",
+      "peut blesser en explorant un sujet douloureux avec trop d'enthousiasme",
+      "peut être perçu comme un ingénu ou quelqu'un qui n'a pas de position propre"
+    ],
+    "blessuresPossibles": [
+      "a été puni ou ridiculisé pour avoir posé trop de questions dans l'enfance",
+      "a grandi dans un environnement où la curiosité était perçue comme de l'impertinence",
+      "a fait une découverte qui a changé sa vision du monde de manière douloureuse"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à poser sa curiosité et rester présent quand la situation l'exige",
+      "peut transformer sa curiosité en outil au service d'une cause ou d'une création",
+      "peut être confronté à une vérité qu'il aurait préféré ne pas trouver",
+      "peut devenir un passeur de savoirs, quelqu'un qui transmet ce qu'il découvre"
+    ],
+    "notesEditoriales": [
+      "La curiosité est souvent sous-utilisée comme trait structurant — elle peut pourtant mener le personnage dans tous les conflits narratifs.",
+      "La vraie curiosité s'intéresse aux gens autant qu'aux idées — sinon c'est de l'intellectualisme, pas de la curiosité.",
+      "Intéressant de la confronter à une vérité qu'il vaut mieux ne pas connaître — le dilemme de Pandore.",
+      "La curiosité peut être une forme de courage discret : elle suppose d'accepter d'être changé par ce qu'on découvre."
+    ]
+  },
+  {
+    "id": "calculateur",
+    "label": "Calculateur",
+    "polarite": "ambigu",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Tendance à appréhender les situations, les personnes et les décisions à travers le prisme de l'analyse rationnelle plutôt que de l'émotion ou de l'intuition. Le personnage calculateur anticipe, évalue les risques et les gains, et agit rarement sans avoir pesé les conséquences — ce qui peut être une force redoutable ou une façon de rester à distance de tout ce qui est vivant.",
+    "signesPhysiques": [
+      "regard qui ne réagit pas immédiatement à la surprise ou à l'émotion",
+      "légère pause avant chaque réponse importante",
+      "visage qui livre peu pendant qu'il écoute",
+      "posture stable, peu de changements dans le langage du corps",
+      "yeux qui bougent légèrement comme s'ils traitaient une information",
+      "sourire qui arrive légèrement en retard sur les situations sociales",
+      "gestes économes, rien de superflu",
+      "tension qui ne se montre qu'autour des yeux, pas dans le reste du corps",
+      "regard qui revient plusieurs fois sur le même détail",
+      "immobilité confortable même dans des situations où les autres s'agitent"
+    ],
+    "sensationsInternes": [
+      "satisfaction claire quand un plan se déroule comme prévu",
+      "légère accélération mentale à l'approche d'un problème complexe",
+      "malaise diffus dans les situations où la logique ne suffit pas",
+      "froid intérieur devant les décisions qui demandent de sacrifier quelque chose",
+      "sentiment d'être légèrement hors phase avec les émotions qui l'entourent",
+      "soulagement quand une situation chaotique retrouve une structure analysable",
+      "inconfort dans les situations qui exigent une réponse émotionnelle spontanée",
+      "plaisir presque esthétique devant une stratégie élégante"
+    ],
+    "pensees": [
+      "Quels sont les scénarios possibles ici ?",
+      "Qu'est-ce qu'il gagne à me dire ça maintenant ?",
+      "Je dois avoir une longueur d'avance.",
+      "L'émotion est une information. Pas une instruction.",
+      "Si je réagis maintenant, je perds l'avantage.",
+      "Quel est le coût réel de cette décision ?",
+      "Il y a quelque chose qu'il ne me dit pas. Qu'est-ce que c'est ?",
+      "Les regrets sont du bruit. Qu'est-ce que les données disent ?"
+    ],
+    "effetsVoixLangage": [
+      "répond aux questions émotionnelles par des faits ou des analyses",
+      "reformule les problèmes pour les rendre plus solubles",
+      "ton égal, rarement altéré par l'excitation ou la colère",
+      "choisit ses mots avec précision, peu d'approximations",
+      "peut sembler froid dans les situations qui demandent de la chaleur",
+      "questions qui révèlent une carte mentale de la situation plus grande que celle de l'interlocuteur",
+      "peut donner une réponse émotionnellement juste mais qu'on sent construite"
+    ],
+    "comportements": [
+      "anticipe les besoins et les réactions des autres pour s'y préparer",
+      "ne prend pas de décision importantes sous le coup d'une émotion forte",
+      "garde des informations en réserve pour les utiliser au bon moment",
+      "observe longuement avant de s'engager dans une situation nouvelle",
+      "peut retarder une décision émotionnelle pour en évaluer toutes les implications",
+      "gère les conflits comme des problèmes à résoudre plutôt que comme des ressentis à exprimer",
+      "mémorise les forces et les faiblesses des personnes autour de lui",
+      "présente une face adaptée à chaque interlocuteur",
+      "peut manipuler sans s'en rendre compte — juste en optimisant",
+      "revient rarement sur une décision une fois qu'il l'a prise"
+    ],
+    "masquesPossibles": [
+      "chaleur sociale simulée pour mettre les autres à l'aise et obtenir des informations",
+      "fausse spontanéité — réactions qui ont été préparées",
+      "désintérêt affiché pour masquer un calcul en cours",
+      "humilité stratégique pour laisser l'autre se croire en position de force"
+    ],
+    "manifestationsPositives": [
+      "prend de meilleures décisions que les autres dans des situations à enjeux élevés",
+      "difficile à déstabiliser ou à manipuler émotionnellement",
+      "peut voir les pièges là où les autres ne voient que l'opportunité",
+      "reste efficace sous pression quand les autres sont paralysés",
+      "peut protéger un groupe par sa vision à long terme"
+    ],
+    "manifestationsNegatives": [
+      "peut traiter les personnes comme des variables dans une équation",
+      "passe à côté de moments d'humanité irremplaçables par excès de contrôle",
+      "peut être perçu comme froid, manipulateur ou insincère",
+      "peut se tromper complètement sur les dimensions irrationnelles des humains",
+      "peut souffrir d'une solitude profonde sans en comprendre la cause"
+    ],
+    "blessuresPossibles": [
+      "a appris très tôt que les émotions non contrôlées coûtaient cher",
+      "a été blessé par quelqu'un qui a exploité sa confiance ou son attachement",
+      "a vécu une situation de chaos émotionnel qui l'a convaincu qu'il faut toujours avoir un plan"
+    ],
+    "evolutionsPossibles": [
+      "peut rencontrer une situation que le calcul seul ne peut pas résoudre",
+      "peut apprendre à intégrer les émotions comme des données valides plutôt que comme du bruit",
+      "peut perdre quelque chose d'irremplaçable parce qu'il a trop tardé à agir",
+      "peut découvrir que sa froideur est une armure et non une nature"
+    ],
+    "notesEditoriales": [
+      "Le personnage calculateur est souvent écrit comme antagoniste — il gagne en complexité quand il est protagoniste.",
+      "Sa limite narrative est dans ce qu'il ne peut pas calculer : le deuil, l'amour, la trahison de quelqu'un à qui il faisait confiance.",
+      "Distinguer le calculateur du manipulateur : le premier optimise, le second exploite délibérément — la frontière peut être ténue.",
+      "Un moment de calcul raté peut être plus révélateur qu'une longue série de réussites."
+    ]
+  },
+  {
+    "id": "passionne",
+    "label": "Passionné",
+    "polarite": "ambigu",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Intensité d'engagement qui ne connaît pas de mesure moyenne. Le personnage passionné s'investit entièrement dans ce qui l'enflamme — une cause, une personne, un art, une idée — au point que tout le reste peut pâlir ou disparaître. Sa force est son feu ; sa limite est l'incendie.",
+    "signesPhysiques": [
+      "visage qui s'anime entièrement quand il parle de sa passion",
+      "gestes qui s'élargissent, occupent l'espace sans s'en rendre compte",
+      "voix qui monte en intensité et en rythme",
+      "yeux qui brillent d'une lumière différente dans ces moments",
+      "incapacité à rester immobile quand il est engagé sur son sujet",
+      "oubli des conventions sociales — interrompt, surparle, se lève",
+      "rougeur légère aux joues dans les moments d'intensité",
+      "contact physique spontané pour impliquer l'interlocuteur",
+      "regard qui cherche à vérifier si l'autre est aussi touché que lui",
+      "agitation joyeuse qui précède les projets ou les retrouvailles"
+    ],
+    "sensationsInternes": [
+      "chaleur qui se propage dans la poitrine quand la passion est activée",
+      "impression que le temps s'accélère quand il est dans son élément",
+      "vide douloureux quand la passion est contrariée ou impossible",
+      "énergie quasi physique qui demande à s'exprimer",
+      "hypersensibilité aux détails dans le domaine qui le passionne",
+      "malaise diffus dans les contextes tièdes ou sans engagement",
+      "sentiment d'être pleinement vivant seulement dans ces moments-là",
+      "douleur réelle à l'idée de devoir renoncer ou modérer"
+    ],
+    "pensees": [
+      "Comment les autres font-ils pour ne pas être touchés par ça ?",
+      "Je ne peux pas faire semblant que ça m'est égal.",
+      "Si je ne peux pas mettre tout ce que j'ai là-dedans, ça ne vaut pas la peine.",
+      "Elle ne comprend pas ce que ça représente pour moi.",
+      "Je veux que les autres ressentent ce que je ressens.",
+      "Je sais que je vais trop loin. Je ne peux pas m'en empêcher.",
+      "Cette chose-là est la seule qui compte vraiment.",
+      "Sans ça, à quoi ressemble une journée ?"
+    ],
+    "effetsVoixLangage": [
+      "parle vite et avec conviction sur ses sujets de passion",
+      "utilise des images, des métaphores, un langage plus dense dans ces moments",
+      "peut paraître excessif ou théâtral à ceux qui ne partagent pas l'intensité",
+      "silence total ou décrochage visible quand le sujet le laisse froid",
+      "tend à ramener les conversations vers ce qui l'enflamme",
+      "conviction dans la voix qui peut convaincre autant qu'effrayer",
+      "peu de nuances dans les premiers moments d'enthousiasme"
+    ],
+    "comportements": [
+      "s'immerge totalement dans ce qui le passionne, jusqu'à l'excès",
+      "cherche des alliés, des complices, des gens qui partagent le feu",
+      "investit un temps, une énergie et des ressources disproportionnés",
+      "peut négliger des responsabilités pratiques importantes",
+      "entraîne les autres avec une force de conviction réelle",
+      "souffre visiblement quand on lui demande de modérer ou de renoncer",
+      "revient toujours à sa passion même après des interruptions longues",
+      "peut idéaliser ce qui le passionne au point de ne plus voir ses limites",
+      "conflit entre sa passion et ses relations quand elles entrent en concurrence",
+      "peut se brûler lui-même à force d'intensité"
+    ],
+    "masquesPossibles": [
+      "détachement ironique pour se protéger si la passion a déjà été blessée",
+      "pragmatisme affiché pour ne pas paraître naïf ou excessif",
+      "enthousiasme partagé pour tous les sujets, pour masquer où va vraiment le feu",
+      "modération de surface dans les contextes sociaux, intensité en privé"
+    ],
+    "manifestationsPositives": [
+      "crée des choses remarquables grâce à son engagement total",
+      "entraîne et inspire par l'authenticité de son feu",
+      "ne se contente jamais du médiocre dans ce qui compte pour lui",
+      "sa présence dans une cause ou un projet change réellement les choses",
+      "peut toucher profondément les autres par l'intensité de ce qu'il partage"
+    ],
+    "manifestationsNegatives": [
+      "peut brûler ses relations en les mettant en concurrence avec sa passion",
+      "peut idéaliser au point d'être incapable de voir les défauts",
+      "peut s'effondrer si l'objet de sa passion disparaît ou le déçoit",
+      "peut devenir intransigeant ou fanatique si rien ne tempère son feu",
+      "son intensité peut isoler ceux qui ne peuvent pas ou ne veulent pas suivre"
+    ],
+    "blessuresPossibles": [
+      "a été découragé ou moqué pour son intensité dans l'enfance ou l'adolescence",
+      "a perdu quelqu'un ou quelque chose qui était l'objet de sa première passion",
+      "a grandi dans un environnement émotionnellement froid où la passion était perçue comme du désordre"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à canaliser son feu sans l'éteindre",
+      "peut être confronté à la limite de sa passion — ce qu'elle lui coûte vraiment",
+      "peut trouver quelqu'un qui partage son intensité et le transformer",
+      "peut être consumé par sa propre ardeur et devoir se reconstruire à partir des cendres"
+    ],
+    "notesEditoriales": [
+      "La passion est souvent écrite comme une qualité simple — elle devient intéressante quand elle entre en collision avec quelque chose d'incompatible.",
+      "Distinguer passion authentique et addiction : l'une nourrit, l'autre dévore — la frontière peut être mince.",
+      "Le personnage passionné est narrativement puissant dans les arcs de perte : quand la passion lui est retirée ou déçue.",
+      "Éviter de le rendre sympathique uniquement — sa passion peut blesser des innocents qui n'ont rien demandé."
+    ]
+  }
+]

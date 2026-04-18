@@ -1,0 +1,8 @@
+scriptor:
+  providers:
+    gemini:
+      encrypted-key: hFp1oc1bRb4dls3kzt9ryP0jn0VzfHyLh3jii7CKvNwuMsMG3Sxos0jvjnyB1Ju8uoVJnmXQwvVoWE2N3dPt+Z0qmw==
+    openai:
+      encrypted-key: ''
+    anthropic:
+      encrypted-key: ''

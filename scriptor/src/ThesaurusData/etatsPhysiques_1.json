@@ -1,0 +1,927 @@
+[
+  {
+    "id": "fatigue-nerveuse",
+    "label": "Fatigue nerveuse",
+    "groupe": "epuisement",
+    "definitionCourte": "Épuisement causé non par l'effort physique mais par la tension mentale prolongée, le stress ou la vigilance constante. Le corps n'est pas à bout — c'est l'esprit qui lâche en premier.",
+    "signesPhysiques": [
+      "yeux qui picotent ou larmoient légèrement",
+      "gestes ralentis mais pas absents — manque de précision",
+      "bâillements réprimés fréquents",
+      "tension dans les épaules et la nuque même sans effort",
+      "mains moins stables qu'à l'ordinaire",
+      "sourcils légèrement froncés en permanence",
+      "regard moins net, moins mobile",
+      "posture qui s'affaisse progressivement"
+    ],
+    "sensationsInternes": [
+      "lourdeur dans les membres sans effort physique récent",
+      "tête cotonneuse, pensées qui glissent",
+      "irritabilité de fond sans raison précise",
+      "hypersensibilité aux bruits et aux sollicitations",
+      "impression de vide derrière les yeux",
+      "incapacité à s'intéresser vraiment à quoi que ce soit",
+      "lenteur dans le traitement de l'information"
+    ],
+    "effetsSurPerception": [
+      "les sons semblent plus forts et plus agressifs qu'ils ne sont",
+      "la lumière semble crue même si elle est normale",
+      "le temps paraît s'étirer ou se fragmenter",
+      "les visages semblent moins lisibles, moins expressifs",
+      "les priorités deviennent floues"
+    ],
+    "effetsVoixLangage": [
+      "voix légèrement plus plate, moins modulée",
+      "cherche ses mots plus souvent",
+      "répond en décalage d'une demi-seconde",
+      "oublie ce qu'il allait dire en milieu de phrase",
+      "confond ou inverse des mots proches"
+    ],
+    "pensees": [
+      "Je n'arrive plus à me concentrer.",
+      "J'ai besoin que ça s'arrête.",
+      "Ce n'est pas la fatigue physique — c'est plus profond.",
+      "Je fais des erreurs que je ne fais pas d'habitude.",
+      "Il faut que j'aille jusqu'au bout — mais je ne sais plus comment.",
+      "Même penser me fatigue.",
+      "Je me trompe sur des choses simples."
+    ],
+    "comportements": [
+      "commet des erreurs inhabituelles sur des tâches maîtrisées",
+      "relit plusieurs fois la même chose sans la comprendre",
+      "laisse des tâches à moitié finies",
+      "réagit de façon disproportionnée à de petites contrariétés",
+      "cherche un stimulus pour se maintenir — café, téléphone",
+      "évite les décisions qui demandent une vraie réflexion",
+      "se déplace plus lentement qu'il ne le devrait"
+    ],
+    "masquesPossibles": [
+      "hyperactivité compensatoire pour ne pas paraître à plat",
+      "humour pour faire semblant que tout va",
+      "silence ou retrait présenté comme de la concentration"
+    ],
+    "evolutionsPossibles": [
+      "épuisement total si rien n'est allégé",
+      "irritabilité qui déborde dans les relations",
+      "erreur grave si la vigilance baisse encore",
+      "insomnie qui aggrave la fatigue"
+    ],
+    "contextesAggravants": [
+      "vigilance prolongée sur plusieurs jours",
+      "prise de décisions répétées à enjeu élevé",
+      "manque de sommeil combiné à la tension",
+      "environnement bruyant ou imprévisible"
+    ],
+    "contextesAttenuants": [
+      "coupure nette et prolongée de toute sollicitation",
+      "sommeil de récupération",
+      "activité physique douce qui décharge la tension mentale",
+      "tâche manuelle simple sans enjeu"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère lassitude mentale", "description": "Le personnage manque d'entrain mais fonctionne normalement." },
+      { "niveau": 2, "label": "Fatigue nerveuse sensible", "description": "Les erreurs légères apparaissent. La concentration demande plus d'effort." },
+      { "niveau": 3, "label": "Fatigue nerveuse marquée", "description": "Irritabilité visible. Le personnage réagit de façon disproportionnée." },
+      { "niveau": 4, "label": "Saturation nerveuse", "description": "Le personnage ne parvient plus à distinguer l'essentiel du superflu." },
+      { "niveau": 5, "label": "Effondrement nerveux", "description": "Le personnage ne peut plus fonctionner. Larmes sans cause, paralysie décisionnelle." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage très analytique",
+        "description": "La fatigue nerveuse le déroute parce qu'il voit ses propres erreurs sans pouvoir les corriger. C'est la perte de contrôle qui est insupportable plus que la fatigue elle-même."
+      },
+      {
+        "profil": "Personnage en position de responsabilité",
+        "description": "Il continue à tenir pour les autres mais les craquelures sont visibles. Les petites choses le font déborder. Il s'en veut — ce qui aggrave la fatigue."
+      },
+      {
+        "profil": "Personnage peu habitué à lâcher",
+        "description": "Il ne reconnaît pas la fatigue nerveuse pour ce qu'elle est. Il croit être paresseux ou manquer de volonté. Il pousse encore — et s'effondre plus vite."
+      }
+    ],
+    "notesEditoriales": [
+      "Différencier de la fatigue physique : ici c'est le mental qui lâche, pas le corps — les jambes sont solides mais l'esprit rame.",
+      "La fatigue nerveuse altère la perception — à utiliser pour filtrer comment un personnage lit une scène.",
+      "Elle se manifeste mieux dans les erreurs que dans les plaintes.",
+      "Un personnage fatigué nerveusement sera plus dur, plus sec, moins nuancé que d'habitude."
+    ]
+  },
+  {
+    "id": "epuisement-total",
+    "label": "Épuisement total",
+    "groupe": "epuisement",
+    "definitionCourte": "État où le corps et l'esprit ont tous deux atteint leurs limites. Rien ne reste en réserve. Le personnage tient debout mais il n'est plus vraiment là.",
+    "signesPhysiques": [
+      "regard vide, sans focalisation",
+      "corps qui s'affaisse dès qu'une surface est disponible",
+      "gestes au minimum — économie totale de mouvement",
+      "visage sans expression",
+      "peau terne, traits visiblement creusés",
+      "démarche très lente, jambes lourdes",
+      "mains qui ne tiennent plus les objets fermement",
+      "paupières qui tombent sans décision"
+    ],
+    "sensationsInternes": [
+      "corps lourd comme chargé de plomb",
+      "impossibilité de vouloir quelque chose — même repos",
+      "douleur sourde et diffuse dans tous les muscles",
+      "froid intérieur malgré la température",
+      "impression que penser coûte physiquement",
+      "déconnexion légère entre l'intention et le geste",
+      "vide total d'élan"
+    ],
+    "effetsSurPerception": [
+      "les stimuli arrivent avec un délai",
+      "le monde semble plus loin qu'il n'est",
+      "les détails disparaissent — seul l'essentiel reste visible",
+      "le temps perd sa texture normale"
+    ],
+    "effetsVoixLangage": [
+      "voix très basse, sans effort",
+      "monosyllabes si possible",
+      "longues pauses au milieu des phrases",
+      "oublie ce qu'il venait de dire",
+      "ne termine pas les phrases"
+    ],
+    "pensees": [
+      "Je ne peux plus.",
+      "Juste me poser — n'importe où.",
+      "Si je m'arrête, je ne me relèverai pas.",
+      "Je ne sais même plus ce que j'essaie de faire.",
+      "Ce n'est plus de la fatigue. C'est autre chose.",
+      "Il faut juste tenir encore un peu — mais je ne sais pas combien.",
+      "Rien ne compte plus autant que m'allonger."
+    ],
+    "comportements": [
+      "s'assoit ou s'appuie sur la première surface disponible",
+      "ferme les yeux même debout",
+      "abandonne des tâches en cours sans les finir",
+      "ne répond plus aux sollicitations non essentielles",
+      "mange mécaniquement ce qui est sous la main",
+      "s'endort dans des positions inhabituelles",
+      "refuse l'aide par absence d'énergie pour l'accepter"
+    ],
+    "masquesPossibles": [
+      "automatisme professionnel qui tient quelques heures",
+      "silence présenté comme du calme"
+    ],
+    "evolutionsPossibles": [
+      "effondrement si la demande continue",
+      "sommeil de récupération si enfin possible",
+      "maladie si l'épuisement a affaibli les défenses"
+    ],
+    "contextesAggravants": [
+      "privation de sommeil prolongée",
+      "effort physique intense combiné à un stress émotionnel fort",
+      "absence de pause réelle sur plusieurs jours",
+      "devoir continuer malgré l'état"
+    ],
+    "contextesAttenuants": [
+      "sommeil long et profond",
+      "nourriture substantielle",
+      "arrêt total de la source d'épuisement"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Grande fatigue", "description": "Le personnage est vraiment à plat mais peut encore fonctionner." },
+      { "niveau": 2, "label": "Épuisement marqué", "description": "Les erreurs se multiplient. Tout coûte immensément." },
+      { "niveau": 3, "label": "Épuisement profond", "description": "Le personnage tient à peine. Les réflexes de base sont préservés, pas grand chose d'autre." },
+      { "niveau": 4, "label": "Limite physique", "description": "Le corps signale qu'il ne peut plus. Vertiges, tremblements, vision trouble." },
+      { "niveau": 5, "label": "Effondrement", "description": "Le personnage ne peut plus se maintenir debout ou en état de fonctionner." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Soldat ou combattant",
+        "description": "L'épuisement est connu et géré. Il y a des protocoles — manger, boire, dormir par rotation. Mais quand les protocoles échouent, l'effondrement est brutal et sans prévenir."
+      },
+      {
+        "profil": "Parent d'un jeune enfant malade",
+        "description": "L'épuisement est mêlé d'inquiétude et de culpabilité de ne plus pouvoir donner. La fatigue ne peut pas être avouée — elle serait perçue comme de l'abandon."
+      },
+      {
+        "profil": "Personnage après un événement traumatique",
+        "description": "L'épuisement vient après l'adrénaline. Le corps qui tenait par la peur s'effondre quand la menace est passée. La fatigue arrive d'un coup, comme une vague."
+      }
+    ],
+    "notesEditoriales": [
+      "L'épuisement total change la lecture du décor — tout est plus loin, plus flou, moins réel.",
+      "Un personnage épuisé fait des erreurs qu'il ne ferait jamais autrement — utile pour des retournements.",
+      "Le corps épuisé est incapable d'urgence — ce qui crée une tension forte si la situation en demande une.",
+      "Distinguer de la simple fatigue : l'épuisement total supprime les réserves, pas seulement l'élan."
+    ]
+  },
+  {
+    "id": "insomnie",
+    "label": "Insomnie",
+    "groupe": "epuisement",
+    "definitionCourte": "Impossibilité de s'endormir ou de rester endormi, souvent liée à un état mental agité, qui laisse le personnage dans un entre-deux épuisant entre veille et sommeil.",
+    "signesPhysiques": [
+      "yeux secs et irrités",
+      "cernes prononcées",
+      "regard légèrement vitreux",
+      "teint grisâtre",
+      "visage plus terne et plus crispé",
+      "bâillements malgré l'impossibilité de dormir",
+      "gestes raides, moins souples",
+      "posture qui s'affaisse même debout"
+    ],
+    "sensationsInternes": [
+      "fatigue réelle mais impossibilité de basculer dans le sommeil",
+      "pensées qui tournent en boucle malgré la volonté de les arrêter",
+      "corps tendu qui refuse de relâcher",
+      "hypersensibilité aux bruits dans le silence de la nuit",
+      "chaleur ou froid inconfortables",
+      "conscience aiguë du temps qui passe",
+      "frustration croissante à chaque heure perdue"
+    ],
+    "effetsSurPerception": [
+      "le monde a une texture légèrement irréelle au matin",
+      "les émotions sont moins régulées et plus intenses",
+      "les priorités semblent moins claires",
+      "les décisions sont plus difficiles",
+      "hypersensibilité aux stimuli — lumière, bruit, contact"
+    ],
+    "effetsVoixLangage": [
+      "voix plus rauque le matin",
+      "cherche ses mots plus souvent",
+      "moins de nuance dans les formulations",
+      "irritabilité qui transperce dans le ton",
+      "réponses plus courtes et plus sèches"
+    ],
+    "pensees": [
+      "Encore trois heures.",
+      "Si je m'endors maintenant, j'aurai au moins deux heures.",
+      "Arrêtez de tourner.",
+      "Je sais que m'inquiéter n'arrange rien — mais je n'y arrive pas.",
+      "La journée de demain va être catastrophique.",
+      "Pourquoi je ne peux pas simplement dormir ?",
+      "Au moins, je pourrais me reposer sans dormir — mais même ça."
+    ],
+    "comportements": [
+      "consulte l'heure toutes les demi-heures",
+      "change de position régulièrement",
+      "se lève pour boire de l'eau, faire quelque chose de court",
+      "consulte son téléphone malgré lui",
+      "rejette les couvertures puis les reprend",
+      "relit mentalement des scènes passées ou anticipe des scènes à venir"
+    ],
+    "masquesPossibles": [
+      "humour sur son insomnie pour normaliser",
+      "efficacité feinte grâce au café"
+    ],
+    "evolutionsPossibles": [
+      "épuisement cumulatif si l'insomnie dure plusieurs nuits",
+      "anxiété aggravée par la fatigue",
+      "irritabilité et conflits évitables",
+      "erreurs de jugement importantes"
+    ],
+    "contextesAggravants": [
+      "anxiété ou stress non résolu",
+      "douleur physique",
+      "environnement bruyant ou trop éclairé",
+      "caféine ou écran trop tard"
+    ],
+    "contextesAttenuants": [
+      "résolution partielle du sujet d'inquiétude",
+      "épuisement assez fort pour forcer le sommeil",
+      "environnement calme et obscur",
+      "routine installée"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Mauvaise nuit", "description": "Le personnage a dormi peu et mal. Légèrement à plat mais fonctionnel." },
+      { "niveau": 2, "label": "Insomnie ponctuelle", "description": "Deuxième ou troisième nuit difficile. La fatigue commence à peser." },
+      { "niveau": 3, "label": "Insomnie installée", "description": "Plusieurs nuits mauvaises. Le fonctionnement quotidien est altéré." },
+      { "niveau": 4, "label": "Insomnie chronique", "description": "Le personnage ne sait plus à quoi ressemble une vraie nuit. Tout est voilé par la fatigue." },
+      { "niveau": 5, "label": "Privation sévère", "description": "Le manque de sommeil a des effets proches de l'ivresse : hallucinations légères, incohérence, perte de contrôle émotionnel." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage anxieux",
+        "description": "L'insomnie est le théâtre de toutes les peurs. La nuit amplifie ce que le jour permet de contrôler. Chaque pensée devient plus lourde, plus certaine, plus menaçante."
+      },
+      {
+        "profil": "Personnage de contrôle",
+        "description": "L'insomnie est une perte de maîtrise insupportable. Il essaie de la résoudre comme un problème à optimiser — ce qui aggrave la chose."
+      },
+      {
+        "profil": "Personnage en deuil",
+        "description": "L'insomnie est peuplée du visage des absents. La nuit est le seul espace où personne ne lui demande d'être fort. Il la laisse durer — parfois volontairement."
+      }
+    ],
+    "notesEditoriales": [
+      "L'insomnie est une émotion nocturne — les pensées de 3h du matin ont une texture particulière à reproduire.",
+      "Elle révèle ce qu'un personnage ne veut pas affronter pendant le jour.",
+      "Un personnage insomniaque est plus fragile, plus irritable, plus vulnérable — utile pour faire tomber les masques.",
+      "Les nuits sans sommeil sont souvent les meilleures scènes intérieures — le filtre du jour est levé."
+    ]
+  },
+  {
+    "id": "migraine",
+    "label": "Migraine",
+    "groupe": "douleur-neurologique",
+    "definitionCourte": "Douleur crânienne intense, souvent unilatérale et pulsatile, qui envahit tout l'espace de perception et rend la lumière, le bruit et le mouvement insupportables.",
+    "signesPhysiques": [
+      "main portée au front ou à la tempe",
+      "yeux plissés face à toute lumière",
+      "grimace brève et répétée",
+      "immobilité prudente — chaque mouvement aggrave",
+      "pâleur ou légère sueur froide",
+      "teint grisâtre",
+      "posture courbée vers l'avant pour soulager la pression",
+      "nausée visible dans l'expression"
+    ],
+    "sensationsInternes": [
+      "douleur pulsatile synchronisée au pouls",
+      "pression derrière un œil ou dans une tempe",
+      "nausée de fond difficile à ignorer",
+      "hypersensibilité à la lumière — même diffuse",
+      "hypersensibilité au son — même ordinaire",
+      "sensation que le crâne est trop petit",
+      "élancement à chaque mouvement de la tête"
+    ],
+    "effetsSurPerception": [
+      "aura visuelle possible — points lumineux, lignes déformées",
+      "sons amplifiés jusqu'à la douleur",
+      "lumières perçues comme des agressions",
+      "difficulté à lire ou à suivre un déplacement visuel",
+      "pensée ralentie et difficile à maintenir"
+    ],
+    "effetsVoixLangage": [
+      "voix basse pour ne pas aggraver",
+      "phrases très courtes",
+      "refus de continuer une conversation qui demande un effort",
+      "mots cherchés plus lentement"
+    ],
+    "pensees": [
+      "Pas maintenant.",
+      "Il faut que l'obscurité revienne.",
+      "Je ne peux pas réfléchir là-dedans.",
+      "Chaque son est une attaque.",
+      "Si quelqu'un peut juste baisser cette lumière.",
+      "Je ne peux pas faire semblant que ça va.",
+      "Il faut tenir jusqu'à un endroit calme."
+    ],
+    "comportements": [
+      "cherche l'obscurité et le silence",
+      "se couche ou s'immobilise complètement",
+      "ferme les yeux et ne les rouvre que si nécessaire",
+      "refuse toute sollicitation non urgente",
+      "presse légèrement la zone douloureuse",
+      "parle au minimum",
+      "annule ou diffère tout ce qui peut l'être"
+    ],
+    "masquesPossibles": [
+      "stoïcisme qui tient quelques heures",
+      "lunettes de soleil en intérieur",
+      "formulation vague : « j'ai un peu mal à la tête »"
+    ],
+    "evolutionsPossibles": [
+      "vomissements si la nausée monte",
+      "incapacité totale à fonctionner au pic",
+      "soulagement brutal après le sommeil",
+      "vulnérabilité émotionnelle après la crise"
+    ],
+    "contextesAggravants": [
+      "lumière vive ou lumières clignotantes",
+      "bruit continu",
+      "odeurs fortes",
+      "mouvements rapides ou transport",
+      "déshydratation"
+    ],
+    "contextesAttenuants": [
+      "obscurité et silence complets",
+      "froid sur la nuque ou la tempe",
+      "sommeil",
+      "médicament si disponible"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Céphalée", "description": "Douleur de tête gênante mais supportable. Le personnage fonctionne." },
+      { "niveau": 2, "label": "Migraine débutante", "description": "La douleur s'installe. La lumière commence à gêner." },
+      { "niveau": 3, "label": "Migraine franche", "description": "La douleur est forte. Les stimuli sont douloureux. Le fonctionnement est très limité." },
+      { "niveau": 4, "label": "Migraine sévère", "description": "Le personnage est hors d'état de faire quoi que ce soit. Nausée et douleur envahissantes." },
+      { "niveau": 5, "label": "Crise totale", "description": "Vomissements, incapacité à tenir debout. L'obscurité et l'immobilité sont les seuls recours." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui en souffre régulièrement",
+        "description": "Reconnaît les signes avant-coureurs. Sait ce qui marche et ce qui n'aide pas. La migraine est redoutée longtemps avant d'arriver. Elle fait partie de la topographie de sa vie."
+      },
+      {
+        "profil": "Personnage qui n'en a jamais eu",
+        "description": "La première migraine est déstabilisante. Il ne comprend pas ce qui lui arrive. La douleur lui paraît anormale et il craint quelque chose de plus grave."
+      },
+      {
+        "profil": "Personnage en situation critique",
+        "description": "Doit continuer malgré la migraine. La tension entre ce que le corps refuse et ce que la situation exige crée une lutte intérieure épuisante."
+      }
+    ],
+    "notesEditoriales": [
+      "La migraine est une des douleurs les plus isolantes — elle coupe le personnage du monde par la lumière et le son.",
+      "Son intérêt narratif est dans l'inadéquation : une situation qui exige de la présence face à un corps qui refuse.",
+      "L'aura visuelle peut être utilisée pour créer une atmosphère dissociée avant la douleur.",
+      "Elle révèle la fragilité physique même des personnages les plus contrôlés."
+    ]
+  },
+  {
+    "id": "nausee",
+    "label": "Nausée",
+    "groupe": "malaise",
+    "definitionCourte": "Sensation désagréable et persistante dans l'estomac ou la gorge, allant du simple inconfort à l'envie urgente de vomir, qui détourne l'attention de tout le reste.",
+    "signesPhysiques": [
+      "teint qui pâlit ou verdît légèrement",
+      "déglutitions répétées",
+      "mâchoire serrée pour contenir",
+      "grimace de dégoût",
+      "main portée à la bouche ou au ventre",
+      "posture courbée légèrement vers l'avant",
+      "sueur froide sur le front",
+      "yeux qui se plissent"
+    ],
+    "sensationsInternes": [
+      "remontée de l'estomac",
+      "salivation augmentée",
+      "chaleur soudaine suivie de froid",
+      "sensation que le sol n'est pas stable",
+      "pression dans la gorge",
+      "malaise diffus dans tout le haut du corps",
+      "vertige léger associé"
+    ],
+    "effetsSurPerception": [
+      "les odeurs sont amplifiées et deviennent insupportables",
+      "les visuels en mouvement aggravent",
+      "les sons forts perturbent l'équilibre"
+    ],
+    "effetsVoixLangage": [
+      "voix plus basse pour ne pas bouger",
+      "phrases courtes et peu modulées",
+      "refus de parler de nourriture",
+      "réponses minimales"
+    ],
+    "pensees": [
+      "Ne pas vomir ici.",
+      "Respire. Lentement.",
+      "Ne pas penser à ce qui va mal.",
+      "Si quelqu'un peut ouvrir la fenêtre.",
+      "Je ne vais pas tenir longtemps.",
+      "Il faut que je sorte ou que je m'assoie.",
+      "L'air frais. Juste l'air frais."
+    ],
+    "comportements": [
+      "cherche de l'air frais",
+      "s'assoit ou s'immobilise",
+      "évite les mouvements brusques",
+      "refuse toute nourriture proposée",
+      "ferme les yeux",
+      "cherche un évier, une sortie, une poubelle proche"
+    ],
+    "masquesPossibles": [
+      "sourire forcé pour ne pas alarmer",
+      "prétexte pour s'éloigner"
+    ],
+    "evolutionsPossibles": [
+      "vomissement si la nausée monte",
+      "soulagement après évacuation",
+      "malaise plus général si elle s'installe"
+    ],
+    "contextesAggravants": [
+      "odeur forte",
+      "mouvements (transport, ascenseur)",
+      "vue de nourriture après un repas copieux",
+      "chaleur",
+      "anxiété intense"
+    ],
+    "contextesAttenuants": [
+      "air frais",
+      "immobilité",
+      "gingembre, eau froide",
+      "respiration lente et consciente"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère gêne", "description": "L'estomac est un peu perturbé. Le personnage peut faire avec." },
+      { "niveau": 2, "label": "Nausée sensible", "description": "Le malaise est perceptible. Le personnage cherche à se stabiliser." },
+      { "niveau": 3, "label": "Nausée franche", "description": "Difficile à ignorer. Le personnage pense à autre chose difficilement." },
+      { "niveau": 4, "label": "Nausée intense", "description": "Le vomissement est possible à tout moment. Le personnage est en alerte." },
+      { "niveau": 5, "label": "Vomissement imminent", "description": "Le corps prend le dessus. Rien d'autre ne compte." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage sous stress extrême",
+        "description": "La nausée est l'expression physique de la peur ou de la tension. Elle arrive avant l'action difficile. Pour lui c'est un signal familier — presque rassurant parce que prévisible."
+      },
+      {
+        "profil": "Personnage enceinte",
+        "description": "La nausée est chronique, imprévisible et épuisante. Elle s'installe dans la vie comme un état permanent. Elle cache quelque chose de joyeux mais elle est réellement pénible."
+      },
+      {
+        "profil": "Personnage en état de choc",
+        "description": "La nausée arrive après le choc comme une réaction retardée du corps. Elle signale que quelque chose d'important vient de se passer."
+      }
+    ],
+    "notesEditoriales": [
+      "La nausée est une des réponses physiques les plus efficaces à la peur ou au dégoût moral.",
+      "Elle contraint physiquement — elle empêche d'agir, de parler, de se concentrer.",
+      "Une nausée dans un moment qui exige de la présence crée une tension immédiate.",
+      "Elle peut être utilisée comme symptôme d'une révélation : le corps qui réagit avant l'esprit."
+    ]
+  },
+  {
+    "id": "vertige",
+    "label": "Vertige",
+    "groupe": "malaise",
+    "definitionCourte": "Sensation de perte d'équilibre ou d'instabilité du monde, qui peut venir de la hauteur, d'un état physique ou d'un excès sensoriel.",
+    "signesPhysiques": [
+      "main qui cherche une surface stable",
+      "regard fixé sur un point immobile pour se stabiliser",
+      "légère oscillation du corps",
+      "pâleur ou sueur froide",
+      "clignements fréquents",
+      "jambes légèrement molles",
+      "posture d'ancrage — pieds écartés"
+    ],
+    "sensationsInternes": [
+      "impression que le sol tourne ou se dérobe",
+      "nausée légère associée",
+      "déconnexion momentanée entre corps et espace",
+      "sensation que la tête ne suit pas le corps",
+      "cœur qui s'emballe brièvement"
+    ],
+    "effetsSurPerception": [
+      "le monde semble bouger alors qu'il est immobile",
+      "la profondeur est difficile à évaluer",
+      "les distances semblent faussées",
+      "les mouvements des autres semblent amplifiés"
+    ],
+    "effetsVoixLangage": [
+      "voix légèrement altérée dans les secondes du vertige",
+      "phrase interrompue",
+      "besoin de silence pour se concentrer sur l'équilibre"
+    ],
+    "pensees": [
+      "Ne tombe pas.",
+      "Fixe quelque chose.",
+      "Attends que ça passe.",
+      "Ne montre pas.",
+      "Juste un point fixe — là.",
+      "Est-ce que quelqu'un a vu ?"
+    ],
+    "comportements": [
+      "s'agrippe à une surface ou une personne",
+      "s'arrête net dans son mouvement",
+      "ferme les yeux si ça aide",
+      "s'assoit ou s'appuie",
+      "attend que l'espace se stabilise"
+    ],
+    "masquesPossibles": [
+      "semblant de regarder quelque chose au loin pour masquer l'épisode",
+      "prétexte pour s'immobiliser"
+    ],
+    "evolutionsPossibles": [
+      "nausée si le vertige s'intensifie",
+      "chute si l'équilibre cède",
+      "passage rapide si l'origine est bénigne",
+      "malaise plus grave si c'est un symptôme"
+    ],
+    "contextesAggravants": [
+      "hauteur et vide en dessous",
+      "mouvement rapide des yeux",
+      "déshydratation ou hypoglycémie",
+      "manque de sommeil"
+    ],
+    "contextesAttenuants": [
+      "point fixe sur lequel concentrer le regard",
+      "s'asseoir ou s'allonger",
+      "eau ou nourriture si cause métabolique"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère instabilité", "description": "Le sol semble légèrement moins fiable. Le personnage s'adapte." },
+      { "niveau": 2, "label": "Vertige sensible", "description": "Le personnage doit s'arrêter ou s'appuyer." },
+      { "niveau": 3, "label": "Vertige prononcé", "description": "Le monde tourne. La nausée arrive. Impossible d'avancer normalement." },
+      { "niveau": 4, "label": "Vertige intense", "description": "Le personnage ne peut plus se déplacer sans risque de tomber." },
+      { "niveau": 5, "label": "Perte d'équilibre totale", "description": "Le personnage tombe ou s'effondre. Le corps ne répond plus." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage acrophobe",
+        "description": "Le vertige est déclenché uniquement par la hauteur et le vide. Il n'est pas physique — il est psychologique. La cognition amplifie chaque centimètre de vide."
+      },
+      {
+        "profil": "Personnage épuisé ou déshydraté",
+        "description": "Le vertige arrive sans prévenir, dans un moment ordinaire. Il révèle que le corps était plus à bout qu'il ne le montrait."
+      },
+      {
+        "profil": "Personnage en état de choc",
+        "description": "Le vertige accompagne le choc émotionnel. Le corps réorganise ses priorités. Le monde réel se dérobe légèrement pendant quelques secondes."
+      }
+    ],
+    "notesEditoriales": [
+      "Le vertige crée une distorsion de la perception utile pour les moments de révélation ou de choc.",
+      "Il interrompt physiquement l'action — utile pour ralentir une scène ou forcer une pause.",
+      "Le vertige de la hauteur est différent du vertige physique — l'un est phobie, l'autre est état.",
+      "Un personnage qui dissimule un vertige dans une situation qui exige sa présence crée une tension immédiate."
+    ]
+  },
+  {
+    "id": "fievre",
+    "label": "Fièvre",
+    "groupe": "maladie",
+    "definitionCourte": "Élévation anormale de la température corporelle qui altère la perception, brouille la frontière entre le rêve et la réalité et rend chaque geste plus coûteux.",
+    "signesPhysiques": [
+      "peau chaude et sèche ou moite selon la phase",
+      "joues rouges",
+      "regard vitreux et moins focalisé",
+      "lèvres sèches, craquelées",
+      "frissons malgré la chaleur interne",
+      "mouvements lents et imprécis",
+      "voix légèrement enrouée",
+      "corps qui cherche le repos à tout moment"
+    ],
+    "sensationsInternes": [
+      "chaleur qui irradie de l'intérieur",
+      "douleurs diffuses dans les membres",
+      "tête lourde et instable",
+      "soif intense mais dégoût de l'eau parfois",
+      "oscillation entre frissons et bouffées de chaleur",
+      "impression que le corps est trop lourd",
+      "pensées qui dérivent et qui reviennent"
+    ],
+    "effetsSurPerception": [
+      "frontière floue entre veille et demi-sommeil",
+      "sons qui semblent venir de plus loin",
+      "lumière plus difficile à supporter",
+      "impressions visuelles légèrement déformées à haute température",
+      "le temps passe de façon non linéaire"
+    ],
+    "effetsVoixLangage": [
+      "voix rauque et moins portée",
+      "mots confondus ou mal articulés",
+      "phrases qui s'arrêtent au milieu",
+      "répétitions sans s'en rendre compte",
+      "moins de cohérence dans le propos"
+    ],
+    "pensees": [
+      "J'ai chaud et j'ai froid en même temps.",
+      "Est-ce que quelqu'un peut m'apporter de l'eau ?",
+      "Je ne sais plus ce que je faisais.",
+      "Ça fait des heures ou des minutes ?",
+      "Je rêvais — ou non.",
+      "Le plafond est trop proche.",
+      "Je serai mieux demain — forcément."
+    ],
+    "comportements": [
+      "s'allonge ou cherche à s'allonger à tout moment",
+      "demande une couverture puis la repousse",
+      "boit de petites gorgées fréquentes",
+      "somnole par à-coups",
+      "perd le fil des conversations",
+      "répond à des questions imaginaires"
+    ],
+    "masquesPossibles": [
+      "insiste pour continuer à fonctionner par volonté",
+      "minimise la température pour ne pas inquiéter"
+    ],
+    "evolutionsPossibles": [
+      "rêve fiévreux qui peut être une scène puissante",
+      "confusion si la fièvre monte",
+      "résolution avec le sommeil",
+      "aggravation si non traitée"
+    ],
+    "contextesAggravants": [
+      "fièvre non reconnue — personne ne sait",
+      "obligation de continuer malgré l'état",
+      "chaleur ambiante",
+      "déshydratation"
+    ],
+    "contextesAttenuants": [
+      "repos et hydratation",
+      "fraîcheur ambiante",
+      "soins d'un proche"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère fièvre", "description": "Le personnage est un peu chaud et fatigué. Peut fonctionner." },
+      { "niveau": 2, "label": "Fièvre modérée", "description": "Gêne réelle. La concentration est difficile." },
+      { "niveau": 3, "label": "Fièvre franche", "description": "Les frissons, la sueur, la faiblesse. Fonctionner est très difficile." },
+      { "niveau": 4, "label": "Fièvre élevée", "description": "La perception est altérée. Le personnage est à moitié présent." },
+      { "niveau": 5, "label": "Fièvre critique", "description": "Hallucinations légères, désorientation, risque réel." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Enfant ou personnage qui se souvient d'une fièvre d'enfance",
+        "description": "La fièvre d'enfance a une texture particulière : les plafonds qui s'abaissent, les voix qui résonnent différemment. Elle est à la fois terrifiante et confortable si quelqu'un est là."
+      },
+      {
+        "profil": "Personnage seul",
+        "description": "La fièvre seul est une des situations les plus vulnérables — personne pour apporter de l'eau, pour surveiller. L'espace entre les épisodes de demi-sommeil est inquiétant."
+      },
+      {
+        "profil": "Personnage qui refuse de s'arrêter",
+        "description": "La fièvre est niée, surmontée par la volonté — jusqu'au moment où elle prend le dessus brutalement. La chute est proportionnelle à la résistance."
+      }
+    ],
+    "notesEditoriales": [
+      "La fièvre est l'état physique le plus propice aux scènes de délire ou de vision — à utiliser avec précision.",
+      "Elle crée une perméabilité entre les couches de conscience — utile pour des flash-backs ou des révélations.",
+      "Un personnage fiévreux qui doit agir est dans une tension narrative très forte.",
+      "Les soins donnés à un personnage fiévreux révèlent l'intimité des relations."
+    ]
+  },
+  {
+    "id": "tremblement",
+    "label": "Tremblement",
+    "groupe": "etat-neuro-musculaire",
+    "definitionCourte": "Oscillation involontaire des membres ou du corps, causée par la peur, le froid, l'épuisement, le choc ou l'effort excessif.",
+    "signesPhysiques": [
+      "mains qui vibrent légèrement — visible si on les tend",
+      "voix qui tremble malgré l'effort pour la stabiliser",
+      "mâchoire qui claque par intermittence",
+      "genoux qui cèdent légèrement",
+      "épaules agitées de petits frémissements",
+      "gestes imprécis ou maladroits",
+      "incapacité à tenir un objet fermement",
+      "frisson qui court sur tout le corps par vagues"
+    ],
+    "sensationsInternes": [
+      "vibration interne que le personnage ressent avant qu'on la voie",
+      "froid intense dans les extrémités",
+      "perte partielle du contrôle fin des muscles",
+      "adrénaline ou épuisement dans les bras et les jambes",
+      "fatigue musculaire aiguë sous-jacente"
+    ],
+    "effetsSurPerception": [
+      "les objets semblent plus difficiles à saisir",
+      "la perception de la distance est légèrement affectée",
+      "conscience aiguë de son propre corps"
+    ],
+    "effetsVoixLangage": [
+      "voix tremblée malgré la tentative de contrôle",
+      "mots coupés par la vibration",
+      "difficulté à projeter la voix"
+    ],
+    "pensees": [
+      "Arrêtez.",
+      "Mes mains ne m'obéissent plus.",
+      "Ne montre pas ça.",
+      "J'ai froid — ou peur — les deux.",
+      "Si je pouvais juste me contrôler.",
+      "Est-ce que ça se voit ?",
+      "Il faut que ça s'arrête."
+    ],
+    "comportements": [
+      "cache ses mains dans ses poches ou les serre",
+      "pose les mains à plat sur une surface",
+      "évite de tenir quelque chose en évidence",
+      "s'enveloppe dans un vêtement",
+      "s'arrête pour attendre que ça passe",
+      "respire profondément pour essayer de contrôler"
+    ],
+    "masquesPossibles": [
+      "mains dans les poches",
+      "bras croisés",
+      "gestes réduits au minimum"
+    ],
+    "evolutionsPossibles": [
+      "passage spontané si la cause est traitée (réchauffement, calme)",
+      "aggravation si le froid ou le choc persiste",
+      "honte si remarqué par quelqu'un"
+    ],
+    "contextesAggravants": [
+      "froid extrême",
+      "peur ou choc émotionnel",
+      "épuisement musculaire après un effort intense",
+      "hypoglycémie"
+    ],
+    "contextesAttenuants": [
+      "chaleur",
+      "sécurité retrouvée",
+      "nourriture sucrée si cause métabolique",
+      "contact physique rassurant"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Léger frémissement", "description": "À peine visible. Le personnage le sent plus qu'on ne le voit." },
+      { "niveau": 2, "label": "Tremblement visible", "description": "Les mains tremblent. Il peut encore fonctionner mais doit compenser." },
+      { "niveau": 3, "label": "Tremblement prononcé", "description": "Difficile de cacher. Les gestes fins sont impossibles." },
+      { "niveau": 4, "label": "Tremblement intense", "description": "Tout le corps est concerné. La voix, les jambes, les mains." },
+      { "niveau": 5, "label": "Incontrôlable", "description": "Le personnage ne maîtrise plus ses mouvements. Il risque de tomber ou de lâcher ce qu'il tient." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui essaie de le cacher",
+        "description": "Le tremblement devient le centre de son attention. Il réorganise tous ses gestes autour de sa dissimulation. Ça épuise davantage."
+      },
+      {
+        "profil": "Personnage après une action violente",
+        "description": "Le tremblement arrive après — quand l'adrénaline cède. C'est le corps qui fait le bilan. Il peut surprendre le personnage lui-même."
+      },
+      {
+        "profil": "Personnage au seuil de l'épuisement",
+        "description": "Le tremblement vient quand les muscles ont atteint leur limite. Ce n'est pas de la peur — c'est de la biologie. Et ça ne se contrôle pas par la volonté."
+      }
+    ],
+    "notesEditoriales": [
+      "Le tremblement est un des signes physiques les plus honnêtes — il arrive malgré le personnage.",
+      "Il révèle l'état réel quand le visage fait semblant.",
+      "Un personnage qui tremble et qui ne veut pas que ça se voie crée une tension immédiate.",
+      "Différencier le tremblement du froid, de la peur et de l'épuisement — ils ont des textures légèrement différentes."
+    ]
+  },
+  {
+    "id": "corps-sous-adrenaline",
+    "label": "Corps sous adrénaline",
+    "groupe": "etat-neuro-musculaire",
+    "definitionCourte": "Activation physiologique intense déclenchée par une menace, un effort extrême ou une excitation forte. Le corps est en état d'urgence maximale — hyper-efficient et hyper-consommateur.",
+    "signesPhysiques": [
+      "pupilles dilatées — vision plus large mais moins fine",
+      "muscles tendus et prêts",
+      "cœur battant fort et vite, perceptible dans la gorge",
+      "mains froides malgré la chaleur interne",
+      "sueur froide sur les tempes ou le dos",
+      "respiration plus rapide et plus ample",
+      "poils dressés sur les bras",
+      "mâchoire serrée"
+    ],
+    "sensationsInternes": [
+      "énergie soudaine et presque douloureux d'intensité",
+      "impression d'être plus fort que d'habitude",
+      "perception du temps ralentie — tout semble plus lent",
+      "douleurs atténuées temporairement",
+      "focalisation intense sur la menace ou l'action",
+      "tremblement possible quand l'adrénaline cède",
+      "conscience aiguë des sons et des mouvements autour"
+    ],
+    "effetsSurPerception": [
+      "vision tunnel — focus sur ce qui compte, périphérie floue",
+      "sons amplifiés ou au contraire étouffés selon la focalisation",
+      "temps qui semble ralentir",
+      "hypersensibilité aux mouvements menaçants",
+      "quasi-insensibilité à la douleur dans les premières secondes"
+    ],
+    "effetsVoixLangage": [
+      "voix plus tranchante et plus directe",
+      "ordres ou phrases courtes et précises",
+      "pas de fioritures",
+      "voix qui peut trembler ou durcir selon le personnage"
+    ],
+    "pensees": [
+      "Maintenant.",
+      "Pas le temps.",
+      "Focalise.",
+      "Qu'est-ce qui bouge ?",
+      "Une chose à la fois.",
+      "Ne pense pas — fais.",
+      "Après, tu auras peur. Pas maintenant."
+    ],
+    "comportements": [
+      "réagit avant d'avoir pensé",
+      "court plus vite qu'il ne l'aurait cru possible",
+      "soulève des poids inhabituels",
+      "prend des décisions très vite",
+      "ignore les signaux de douleur",
+      "communique en phrases ultra-courtes"
+    ],
+    "masquesPossibles": [
+      "calme apparent qui cache l'activation interne",
+      "gestes très économiques qui dissimulent la tension"
+    ],
+    "evolutionsPossibles": [
+      "tremblement et crash quand l'adrénaline se retire",
+      "nausée post-action",
+      "larmes de soulagement ou d'épuisement",
+      "épuisement massif dans les heures qui suivent"
+    ],
+    "contextesAggravants": [
+      "danger confirmé ou imminent",
+      "enjeu très élevé",
+      "adrénaline sur fond de manque de sommeil"
+    ],
+    "contextesAttenuants": [
+      "résolution de la menace",
+      "temps",
+      "action qui canalise l'énergie"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère activation", "description": "Le personnage est alerte, vif. Légère accélération du rythme cardiaque." },
+      { "niveau": 2, "label": "Adrénaline sensible", "description": "Le cœur bat fort. Les sens sont aiguisés. Le personnage est prêt." },
+      { "niveau": 3, "label": "Activation forte", "description": "Tout le corps est mobilisé. La douleur est mise en sourdine." },
+      { "niveau": 4, "label": "Survie", "description": "Mode survie complet. Le raisonnement complexe est coupé au profit des instincts." },
+      { "niveau": 5, "label": "Dépassement de soi", "description": "Le personnage fait des choses dont il ne se croirait pas capable — et il le paiera après." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage entraîné",
+        "description": "L'adrénaline est connue et utilisée. Il ne la combat pas — il la dirige. Elle fait partie de l'outil. Le crash après est aussi géré."
+      },
+      {
+        "profil": "Personnage non entraîné",
+        "description": "L'adrénaline le dépasse. Il ne comprend pas ce qui lui arrive. Il fait des choses extraordinaires mais ne s'en souvient pas clairement après."
+      },
+      {
+        "profil": "Personnage qui protège quelqu'un",
+        "description": "L'adrénaline est décuplée par l'attachement. La protection de l'autre libère des ressources qui n'auraient pas existé autrement. Le crash qui suit est à la hauteur."
+      }
+    ],
+    "notesEditoriales": [
+      "L'adrénaline change le temps narratif — elle crée une perception de ralenti efficace dans les scènes d'action.",
+      "Le crash post-adrénaline est souvent plus intéressant que le pic — c'est là que le personnage devient vulnérable.",
+      "Elle anesthésie temporairement les émotions — utile pour les personnages qui doivent agir malgré la peur.",
+      "L'adrénaline révèle ce qu'un personnage est capable de faire quand ses freins habituels disparaissent."
+    ]
+  }
+]

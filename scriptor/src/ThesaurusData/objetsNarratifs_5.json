@@ -1,0 +1,361 @@
+[
+  {
+    "id": "tasse-ebrechee-gardee",
+    "label": "Tasse ébréchée gardée malgré tout",
+    "definitionCourte": "Tasse dont le bord est cassé — inutilisable normalement, mais gardée, posée sur une étagère ou dans un placard. Sa présence dit quelque chose sur ce qu'on refuse de laisser partir.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "objet-quotidien",
+    "associationsNarratives": [
+      "souvenir d'un être aimé disparu ou parti",
+      "objet ordinaire devenu unique par son histoire",
+      "refus de jeter ce qui a été brisé mais pas perdu",
+      "héritage humble — pas une valeur marchande, juste une mémoire",
+      "personnage qui garde les choses abîmées plutôt que de les remplacer"
+    ],
+    "emotionsAssociees": [
+      "attachement discret à quelque chose de petit",
+      "deuil d'une période ou d'une personne ordinaire",
+      "résistance à l'oubli par des moyens modestes",
+      "tendresse pour ce qui a été utilisé et n'est plus"
+    ],
+    "usagesTypiques": [
+      "détail dans la cuisine d'un personnage qui dit plus sur lui que la décoration visible",
+      "objet qu'un personnage montre sans l'expliquer — et que l'autre comprend ou ne comprend pas",
+      "contraste avec les objets nouveaux, fonctionnels, qui n'ont pas d'histoire",
+      "révélateur du rapport d'un personnage à la perte et à la durée"
+    ],
+    "variantesNarratives": [
+      "La tasse encore utilisée malgré l'ébréchure : le personnage s'adapte, fait attention, boit du même côté. La brisure est intégrée, pas niée.",
+      "La tasse posée sur une étagère sans être utilisée : gardée pour ce qu'elle représente, plus pour ce qu'elle est.",
+      "La tasse que quelqu'un veut jeter et que l'autre protège : révèle deux rapports différents à la mémoire."
+    ],
+    "notesEditoriales": [
+      "La tasse ébréchée fonctionne parce qu'elle est à la fois triviale et intime — elle ne prétend pas à l'importance.",
+      "Son efficacité est dans sa discrétion : une mention, pas une description.",
+      "Contrairement à l'alliance ou à la photo, elle n'appelle pas de récit — elle est là, c'est tout."
+    ]
+  },
+  {
+    "id": "diplome-jamais-accroche",
+    "label": "Diplôme jamais accroché",
+    "definitionCourte": "Diplôme dans son tube ou roulé dans un tiroir — jamais encadré, jamais affiché. Il existe, mais on ne sait plus très bien pourquoi on le garde.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "document",
+    "associationsNarratives": [
+      "réussite dont on n'est pas fier ou qu'on ne reconnaît plus comme sienne",
+      "chemin pris qui n'a pas correspondu à ce qu'on espérait",
+      "personnage dont la vie adulte a divergé de la trajectoire prévue",
+      "rapport ambivalent à la réussite sociale",
+      "vie qui a pris une autre direction — ce diplôme appartient à quelqu'un d'autre"
+    ],
+    "emotionsAssociees": [
+      "ambivalence entre la fierté d'avoir réussi et l'inconfort de ce que ça représente",
+      "sentiment d'une vie parallèle non vécue",
+      "pudeur à afficher une réussite qui semble inutile ou étrangère",
+      "deuil discret d'une trajectoire abandonnée"
+    ],
+    "usagesTypiques": [
+      "détail dans le bureau ou la chambre d'un personnage qui dit quelque chose sur son rapport à son histoire",
+      "objet trouvé par un autre personnage qui pose une question sur le passé",
+      "symbole d'une rupture entre le personnage tel qu'il est et ce qu'il était censé devenir",
+      "révélateur d'un conflit intérieur sur la valeur des réussites institutionnelles"
+    ],
+    "variantesNarratives": [
+      "Le diplôme jamais sorti du tube : on ne l'a même pas regardé depuis la remise.",
+      "Le diplôme dans le fond d'un carton de déménagement : il suit sans qu'on le choisisse vraiment.",
+      "Le diplôme qu'on retrouve en faisant du tri : occasion de rouvrir une question qu'on pensait fermée."
+    ],
+    "notesEditoriales": [
+      "L'efficacité de cet objet vient de son absence de symbolisme traditionnel — on s'attend à ce qu'un diplôme soit fièrement affiché.",
+      "Ne pas l'expliquer immédiatement : le lecteur comprend seul ce que ça dit du personnage.",
+      "Fonctionne bien pour les personnages en milieu de vie qui ont changé de cap."
+    ]
+  },
+  {
+    "id": "cadre-retourne-contre-mur",
+    "label": "Cadre photo retourné contre le mur",
+    "definitionCourte": "Cadre posé face contre le mur — on ne jette pas la photo mais on refuse de la voir. L'objet dit que quelque chose ne peut pas être regardé en face, mais ne peut pas non plus être effacé.",
+    "chargeSymbolique": "haute",
+    "categorie": "objet-domestique",
+    "associationsNarratives": [
+      "deuil d'une relation — rupture, mort, trahison",
+      "personne dont la vue est douloureuse mais qu'on ne peut pas rayer de sa vie",
+      "étape intermédiaire entre la conservation et la suppression",
+      "colère ou tristesse non résolue qui attend",
+      "personnage qui ne peut pas aller jusqu'au bout de son deuil"
+    ],
+    "emotionsAssociees": [
+      "douleur non résolue — ni acceptée ni rejetée",
+      "ambivalence entre l'amour et la blessure",
+      "honte ou colère assez forte pour effacer le visage sans effacer la personne",
+      "suspension dans le temps — ni vraiment fini ni vraiment commencé"
+    ],
+    "usagesTypiques": [
+      "premier signal discret d'une rupture ou d'un deuil dans un espace de vie",
+      "objet que remarque un visiteur et sur lequel il n'ose pas poser de question",
+      "révélateur de l'état intérieur du personnage sans dialogue",
+      "contraste avec les autres cadres encore droits — ce qu'on cache en gardant"
+    ],
+    "variantesNarratives": [
+      "Le cadre retourné dans une pièce que le personnage évite : la photo est dans la pièce, le personnage n'y entre plus.",
+      "Le cadre retourné mais remis droit par quelqu'un d'autre : occasion de confrontation.",
+      "Le cadre retourné depuis si longtemps que le personnage ne sait plus ce qu'il y a dedans."
+    ],
+    "notesEditoriales": [
+      "Un cadre retourné est un geste à la fois intime et éloquent — il dit tout sans rien expliquer.",
+      "Ne pas décrire la photo dedans tant que le récit ne l'exige pas — le mystère fait partie de l'objet.",
+      "Peut déclencher une scène entière si quelqu'un le retourne sans permission."
+    ]
+  },
+  {
+    "id": "couteau-herite",
+    "label": "Couteau hérité d'un père ou d'un grand-père",
+    "definitionCourte": "Couteau de poche ou de chasse transmis d'une génération à l'autre — objet utilitaire devenu relique, porteur de tout ce que l'homme qui le tenait avant représentait.",
+    "chargeSymbolique": "haute",
+    "categorie": "outil",
+    "associationsNarratives": [
+      "transmission d'une figure masculine — père, grand-père, oncle",
+      "virilité ancienne, artisanat, rapport au dehors",
+      "filiation complexe — aimer l'objet d'un homme qu'on n'aimait pas entièrement",
+      "souvenir d'un métier, d'une époque, d'une pratique révolue",
+      "personnage qui a hérité d'un nom, d'un rôle, et d'un couteau"
+    ],
+    "emotionsAssociees": [
+      "nostalgie d'un homme qu'on a connu autrement que par les mots",
+      "rapport complexe à l'héritage — recevoir ce qu'on n'a pas demandé",
+      "fierté discrète de porter quelque chose de vrai et d'usé",
+      "mélancolie pour une relation qui n'a pas eu le temps d'être pleinement ce qu'elle aurait pu être"
+    ],
+    "usagesTypiques": [
+      "sorti de la poche ou du sac dans un moment de solitude — geste de contact avec une présence absente",
+      "transmis à son tour à quelqu'un — acte de filiation conscient ou inconscient",
+      "trouvé dans les affaires d'un mort — porte une question sur ce qu'on ne saura jamais",
+      "utilisé vraiment — ouverture de boîte, taille d'un bâton — ancrant le passé dans le présent"
+    ],
+    "variantesNarratives": [
+      "Le couteau dont on ne se sert jamais mais qu'on garde affûté : respect de la chose en la gardant en état.",
+      "Le couteau qu'on a failli jeter et qu'on a gardé au dernier moment : ambivalence résolue par le corps.",
+      "Le couteau offert à quelqu'un qui n'est pas de la famille : transgression d'une transmission."
+    ],
+    "notesEditoriales": [
+      "La charge de cet objet tient dans son utilité passée — ce n'est pas un objet décoratif, c'est quelque chose qui a servi.",
+      "Le personnage qui porte un couteau hérité le touche souvent sans en avoir besoin — geste de réassurance ou de contact.",
+      "Fonctionne bien dans les récits de filiation masculine difficile — l'objet dit ce que ni l'un ni l'autre n'a dit."
+    ]
+  },
+  {
+    "id": "cahier-recettes-transmis",
+    "label": "Cahier de recettes transmis",
+    "definitionCourte": "Cahier où les recettes sont écrites à la main, avec des ratures, des ajouts au crayon, des taches. Il porte les mains de toutes celles et ceux qui s'en sont servis avant.",
+    "chargeSymbolique": "haute",
+    "categorie": "document",
+    "associationsNarratives": [
+      "transmission matrilinéaire — mères, grand-mères, arrière-grand-mères",
+      "culture d'origine transportée dans la migration",
+      "soin et nourrissage comme formes d'amour non verbalisées",
+      "continuité face à la disparition — la recette survit à celle qui la faisait",
+      "conversation à travers le temps — l'écriture de l'une qui parle à l'autre"
+    ],
+    "emotionsAssociees": [
+      "amour transmis par des actes plutôt que par des mots",
+      "nostalgie d'une personne via une odeur ou un goût",
+      "sentiment de faire partie d'une chaîne qui remonte loin",
+      "solitude de faire seul ce qu'on faisait ensemble"
+    ],
+    "usagesTypiques": [
+      "sorti pour cuisiner un plat de l'enfance dans un moment de solitude ou de deuil",
+      "transmis à une fille ou un fils — acte fondateur de continuité",
+      "trouvé dans les affaires d'une défunte — lit par quelqu'un qui ne cuisinait pas",
+      "page tachée qui dit qu'une recette a vraiment été faite et refaite"
+    ],
+    "variantesNarratives": [
+      "Le cahier avec des recettes non identifiées — des ingrédients sans contexte, qui ne permettent pas de refaire le plat.",
+      "Le cahier transmis à quelqu'un qui ne sait pas cuisiner — le don comme geste symbolique plus qu'utilitaire.",
+      "Le cahier annoté par plusieurs mains — chaque génération a ajouté une note."
+    ],
+    "notesEditoriales": [
+      "Les taches sur les pages sont un détail concret très fort — elles prouvent que le cahier a été utilisé.",
+      "Fonctionne mieux que l'album photo pour certains personnages — le soin pratique comme mémoire.",
+      "L'écriture à la main des anciennes générations peut être lisible ou non — les deux ont leur charge."
+    ]
+  },
+  {
+    "id": "boite-a-musique-cassee",
+    "label": "Boîte à musique cassée",
+    "definitionCourte": "Boîte à musique dont le mécanisme est bloqué, qui ne joue plus qu'une ou deux notes, ou qui s'arrête au milieu de l'air. Elle promet une musique qu'elle ne peut plus finir.",
+    "chargeSymbolique": "haute",
+    "categorie": "objet-musical",
+    "associationsNarratives": [
+      "enfance interrompue ou abîmée",
+      "quelque chose de beau qui s'est brisé sans être réparable",
+      "souvenir figé à un moment — la boîte s'est arrêtée quand quelque chose s'est arrêté",
+      "promesse non tenue — la mélodie qui ne finit jamais",
+      "transmission d'un cadeau dont l'origine est troublante ou inconnue"
+    ],
+    "emotionsAssociees": [
+      "nostalgie pour quelque chose qu'on n'a pas eu entièrement",
+      "mélancolie du brisé qui garde sa forme",
+      "douleur douce pour une époque révolue",
+      "sentiment d'inachèvement — quelque chose devrait continuer mais ne peut pas"
+    ],
+    "usagesTypiques": [
+      "trouvée dans un grenier ou une cave — ouvre une question sur ce qu'elle représentait",
+      "gardée par un personnage qui n'explique pas pourquoi",
+      "remontée devant quelqu'un — le silence à la place de la note manquante",
+      "offerte cassée — ce qui compte est le geste, pas l'utilité"
+    ],
+    "variantesNarratives": [
+      "La boîte qui joue encore mais faux : la mélodie est là mais déformée — plus troublante qu'un silence.",
+      "La boîte réparée : quelqu'un a pris le soin de la faire rejouer — acte de réparation d'autre chose.",
+      "La boîte dont on a oublié l'air : on sait qu'elle joue quelque chose mais on ne se souvient plus quoi."
+    ],
+    "notesEditoriales": [
+      "La boîte à musique cassée est un objet à fort risque de symbolisme too obvious — la manier avec légèreté.",
+      "Sa force est dans le son brisé — à décrire avec précision plutôt que de le laisser implicite.",
+      "Peut être jouée pour l'ironie aussi bien que pour la mélancolie."
+    ]
+  },
+  {
+    "id": "passeport-perime",
+    "label": "Passeport périmé",
+    "definitionCourte": "Passeport dont la validité est expirée depuis des années, gardé avec les papiers importants. Il ne sert plus à rien mais il dit où le personnage a été.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "document",
+    "associationsNarratives": [
+      "vie d'avant une rupture ou une décision majeure",
+      "pays visités ou habités qui font partie de l'identité",
+      "vie plus mobile, plus libre, ou simplement différente",
+      "personnage sédentarisé qui a un jour bougé",
+      "frontière entre une vie passée et une vie présente"
+    ],
+    "emotionsAssociees": [
+      "nostalgie d'une époque plus aventureuse ou plus ouverte",
+      "distance avec la personne qu'on était — la photo dedans ne ressemble plus vraiment",
+      "fierté discrète des tampons et des visas accumulés",
+      "sentiment que quelque chose s'est refermé"
+    ],
+    "usagesTypiques": [
+      "feuilleté lors d'un déménagement ou d'un tri",
+      "montré à quelqu'un pour parler d'un voyage passé ou d'une époque",
+      "tampon qui indique une date ou un lieu narrativement important",
+      "photo d'identité qui ne ressemble plus au personnage — point de départ d'une réflexion"
+    ],
+    "variantesNarratives": [
+      "Le passeport périmé qu'on renouvelle enfin : acte de recommencement ou de résolution.",
+      "Le passeport d'un personnage qui n'existe plus — faux papiers, identité construite.",
+      "Le passeport d'un autre — trouvé, hérité, ou conservé pour des raisons inconnues."
+    ],
+    "notesEditoriales": [
+      "Le passeport périmé est concret et daté — il permet d'ancrer une temporalité sans l'expliquer.",
+      "La photo d'identité dedans est souvent un détail narratif fort — les gens changent, les passeports retiennent.",
+      "Les tampons de visa sont une biographie en miniature — à utiliser avec précision si on les mentionne."
+    ]
+  },
+  {
+    "id": "fleur-sechee-dans-livre",
+    "label": "Fleur séchée dans un livre",
+    "definitionCourte": "Fleur aplatie et séchée entre deux pages d'un livre — trouvée par hasard ou conservée délibérément. Elle marque une page, une date, une intention oubliée.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "objet-naturel",
+    "associationsNarratives": [
+      "souvenir d'un moment précis dont le livre était présent",
+      "geste de conservation spontané — on gardait quelque chose sans savoir pourquoi",
+      "marque d'un chapitre à un moment de vie particulier",
+      "cadeau reçu ou fait, réduit à sa trace",
+      "saison figée dans un objet — printemps ou été immobilisé"
+    ],
+    "emotionsAssociees": [
+      "mélancolie douce pour un moment que la mémoire ne restitue pas entièrement",
+      "surprise de retrouver quelque chose qu'on avait oublié avoir gardé",
+      "tendresse pour un geste passé de soi-même ou d'un autre",
+      "curiosité si la fleur appartient à un livre hérité — qui a fait ça ?"
+    ],
+    "usagesTypiques": [
+      "trouvée en ouvrant un livre après des années — déclencheur de mémoire",
+      "dans le livre d'un disparu — fenêtre sur un moment de sa vie intime",
+      "utilisée comme marque-page depuis si longtemps qu'on ne la voit plus",
+      "offrande discrète glissée dans un livre prêté ou offert"
+    ],
+    "variantesNarratives": [
+      "La fleur qu'on reconnaît : ça, c'était le jardin de ma grand-mère — certitude et douleur.",
+      "La fleur qu'on ne reconnaît pas : elle appartient à une histoire qu'on ne connaîtra pas.",
+      "La fleur dans un livre jamais lu : quelqu'un a eu l'intention de lire ce livre, ne l'a jamais fait."
+    ],
+    "notesEditoriales": [
+      "La fleur séchée fonctionne par sa fragilité — elle peut se défaire si on la touche, ce qui en fait un objet à manier avec soin.",
+      "Son efficacité est dans son imprécision : elle vient de quelque part mais elle ne dit pas où.",
+      "Éviter de trop expliquer l'origine — laisser l'ambiguïté faire son travail."
+    ]
+  },
+  {
+    "id": "chapeau-d-un-disparu",
+    "label": "Chapeau d'un disparu",
+    "definitionCourte": "Chapeau appartenant à quelqu'un qui n'est plus là — gardé accroché à une patère, posé sur une chaise, ou rangé dans l'obscurité d'un placard. Sa forme garde encore la marque de la tête qui le portait.",
+    "chargeSymbolique": "haute",
+    "categorie": "vêtement",
+    "associationsNarratives": [
+      "deuil non terminé — l'objet du mort resté dans l'espace des vivants",
+      "présence persistante d'une absence",
+      "figure masculine ancienne — père, grand-père, mari",
+      "époque révolue dont l'objet est le dernier signe visible",
+      "personnage qui ne peut pas ranger les affaires d'un mort"
+    ],
+    "emotionsAssociees": [
+      "deuil suspendu qui n'a pas encore trouvé sa place",
+      "présence fantôme dans un objet ordinaire",
+      "amour pour quelqu'un qui n'est plus là, dit par la conservation",
+      "inconfort de ceux qui visitent et voient ce qui n'a pas bougé"
+    ],
+    "usagesTypiques": [
+      "premier détail qu'un visiteur remarque dans l'entrée d'une maison en deuil",
+      "geste d'y toucher ou de ne pas y toucher — révélateur de l'état du personnage",
+      "objet finalement rangé comme acte symbolique de fin de deuil",
+      "trouvé dans une maison vendue après le décès — appartient à une vie qui s'est fermée"
+    ],
+    "variantesNarratives": [
+      "Le chapeau encore à la patère depuis le dernier jour : le personnage n'a pas pu le déplacer.",
+      "Le chapeau essayé une fois par le personnage : transgression intime, contact avec le disparu.",
+      "Le chapeau offert à quelqu'un de vivant : acte de transmission ou de libération."
+    ],
+    "notesEditoriales": [
+      "La forme que le chapeau garde de la tête qui le portait est le détail le plus fort — concret, physique, irremplaçable.",
+      "Fonctionne mieux dans un espace quotidien ordinaire — entrée, cuisine — que dans une chambre fermée.",
+      "Peut être décrit en une phrase et produire un effet immédiat sur le lecteur."
+    ]
+  },
+  {
+    "id": "billet-train-garde",
+    "label": "Billet de train gardé comme souvenir",
+    "definitionCourte": "Billet de train conservé dans un portefeuille ou un carnet des années après le voyage — minuscule relique d'un trajet, d'une rencontre, ou d'une décision.",
+    "chargeSymbolique": "faible",
+    "categorie": "document",
+    "associationsNarratives": [
+      "voyage qui a changé quelque chose — départ, rencontre, décision",
+      "moment de liberté ou de rupture marqué par un trajet",
+      "souvenir d'une personne rencontrée ou accompagnée dans ce train",
+      "personnage qui garde les traces d'un passé mobile",
+      "date et destination qui suffisent à raconter quelque chose"
+    ],
+    "emotionsAssociees": [
+      "nostalgie légère d'un mouvement qui n'est plus",
+      "attachement à un moment précis dont le billet est la seule preuve matérielle",
+      "sourire de retrouver quelque chose de si petit qu'on avait oublié"
+    ],
+    "usagesTypiques": [
+      "tombé d'un carnet ou d'un portefeuille en l'ouvrant devant quelqu'un",
+      "retrouvé dans une vieille veste — déclencheur de mémoire involontaire",
+      "montré à quelqu'un pour parler d'un moment du passé",
+      "petite archive personnelle d'une vie faite de déplacements"
+    ],
+    "variantesNarratives": [
+      "Le billet de la dernière fois qu'on a vu quelqu'un : date visible, charge silencieuse.",
+      "Le billet d'un trajet qui n'a jamais eu lieu — acheté et non utilisé.",
+      "Le billet d'une direction qu'on aurait voulu prendre mais qu'on n'a pas prise."
+    ],
+    "notesEditoriales": [
+      "Sa faible charge symbolique est une qualité — il peut être glissé discrètement dans une scène sans alourdir.",
+      "La date et la destination imprimées dessus sont ses deux informations narratives essentielles.",
+      "Fonctionne bien pour les personnages pragmatiques qui n'auraient pas gardé quelque chose de plus romantique."
+    ]
+  }
+]

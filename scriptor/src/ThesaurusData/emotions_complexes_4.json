@@ -1,0 +1,319 @@
+[
+  {
+    "id": "detresse",
+    "label": "Détresse",
+    "famille": "desespoir-resignation",
+    "definitionCourte": "État d'urgence intérieure — quelque chose ne va plus et le personnage ne sait pas comment y remédier seul. La détresse appelle à l'aide sans toujours pouvoir le formuler.",
+
+    "signesPhysiques": [
+      "yeux qui cherchent — un appui, une issue, quelqu'un",
+      "respiration courte et peu profonde",
+      "mains qui s'agrippent à quelque chose — bord d'une table, ses propres bras",
+      "voix qui monte ou qui casse",
+      "mouvements désorganisés — va et vient, gestes avortés",
+      "regard qui perd son ancrage",
+      "corps qui cherche à se recroqueviller"
+    ],
+
+    "sensationsInternes": [
+      "tout semble trop grand pour lui seul",
+      "pression dans la poitrine qui monte",
+      "cerveau qui tourne à vide ou qui s'emballe",
+      "sentiment d'être au bord de quelque chose",
+      "besoin urgent d'un appui, d'une voix, d'une présence"
+    ],
+
+    "pensees": [
+      "Je ne sais pas quoi faire.",
+      "Je n'arrive plus.",
+      "Il faut que quelqu'un m'aide.",
+      "Je ne tiens plus.",
+      "C'est trop.",
+      "Comment on sort de là ?"
+    ],
+
+    "effetsVoixLangage": [
+      "voix qui tremble ou qui s'accélère",
+      "phrases incomplètes",
+      "répétitions",
+      "appels directs ou indirects",
+      "peut parler beaucoup ou ne plus rien dire"
+    ],
+
+    "comportements": [
+      "appelle, écrit, cherche quelqu'un",
+      "peut s'immobiliser complètement",
+      "peut faire des choses irrationnelles",
+      "cherche une solution par n'importe quel moyen",
+      "peut effondrement si personne ne répond"
+    ],
+
+    "masquesPossibles": [
+      "sang-froid apparent qui cache l'urgence",
+      "humour noir pour ne pas faire peur",
+      "pragmatisme sur les tâches pour ne pas penser"
+    ],
+
+    "evolutionsPossibles": [
+      "soulagement si quelqu'un répond",
+      "effondrement si la détresse reste sans réponse",
+      "ressource intérieure qui émerge sous la pression",
+      "trauma si l'épisode est trop intense"
+    ],
+
+    "contextesAggravants": [
+      "isolement",
+      "nuit — l'absence de lumière amplifie",
+      "sentiment que les autres ne peuvent pas comprendre",
+      "répétition sans résolution"
+    ],
+
+    "contextesAttenuants": [
+      "présence physique d'un autre",
+      "voix connue — même au téléphone",
+      "action possible — même petite"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Surcharge", "description": "Trop de choses à la fois. Le personnage rame mais tient." },
+      { "niveau": 2, "label": "Mal-être aigu", "description": "Quelque chose ne va plus. Il le sent mais ne peut pas l'exprimer clairement." },
+      { "niveau": 3, "label": "Détresse", "description": "L'urgence intérieure est réelle. Il a besoin d'aide." },
+      { "niveau": 4, "label": "Crise", "description": "Dépassé. Ne peut plus fonctionner normalement." },
+      { "niveau": 5, "label": "Rupture", "description": "La détresse est totale. L'effondrement est imminent ou en cours." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui ne demande jamais d'aide",
+        "description": "La détresse est d'autant plus forte qu'elle est nouvelle. Ce personnage ne sait pas comment appeler — ou a honte de le faire."
+      },
+      {
+        "profil": "Personnage habitué à gérer seul",
+        "description": "Tient plus longtemps que la plupart. Mais quand il lâche, c'est brutal — le seuil est élevé."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La détresse est l'une des émotions les plus intimes — elle expose une vulnérabilité profonde.",
+      "Elle est narrativement forte parce qu'elle appelle une réponse — de l'autre, du monde, du personnage lui-même.",
+      "À ne pas confondre avec la panique (plus physique et soudaine) ou le désespoir (plus résigné)."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "appel-a-l-aide" },
+      { "type": "peut_evoluer_en", "cible": "effondrement" },
+      { "type": "souvent_associe_a", "cible": "isolement" }
+    ]
+  },
+  {
+    "id": "lassitude-durable",
+    "label": "Lassitude durable",
+    "famille": "desespoir-resignation",
+    "definitionCourte": "Fatigue profonde d'avoir trop longtemps combattu, attendu, espéré ou supporté. La lassitude durable n'est pas la dépression — c'est l'épuisement de ceux qui ont tenu trop longtemps.",
+
+    "signesPhysiques": [
+      "gestes économiques — plus de dépenses d'énergie inutiles",
+      "silence plus long entre les phrases",
+      "sourire qui s'arrête avant d'atteindre les yeux",
+      "yeux qui portent quelque chose de lourd",
+      "posture légèrement voûtée même chez quelqu'un qui se tenait droit",
+      "réponses brèves à des questions qui méritaient plus",
+      "absence de surprise — tout semble attendu, déjà vu"
+    ],
+
+    "sensationsInternes": [
+      "impression que les réserves sont au bas",
+      "tout coûte plus qu'avant",
+      "difficulté à s'indigner encore — l'indignation aussi est épuisée",
+      "désir de paix plus que de victoire",
+      "sentiment d'avoir déjà donné tout ce qu'il avait"
+    ],
+
+    "pensees": [
+      "Je n'ai plus l'énergie pour ça.",
+      "Combien de temps encore ?",
+      "Je n'y crois plus vraiment.",
+      "Je continue parce que je ne sais plus comment arrêter.",
+      "Je suis fatigué d'être fort.",
+      "Ce n'est pas de la résignation. C'est juste... la fin."
+    ],
+
+    "effetsVoixLangage": [
+      "ton plus plat, même sur des sujets importants",
+      "peu d'emphase — les mots sont là mais sans poids",
+      "tend à écourter — pas par hostilité, par manque d'énergie",
+      "peut dire des choses importantes sans que l'autre les entende — trop neutres",
+      "ne demande plus — se tait"
+    ],
+
+    "comportements": [
+      "fait le minimum — et accepte de le faire",
+      "ne combat plus les petits irritants",
+      "peut lâcher ce qu'il tenait depuis longtemps — sans drame",
+      "moins de projets, moins d'initiatives",
+      "peut sembler indifférent alors qu'il est simplement à bout"
+    ],
+
+    "masquesPossibles": [
+      "activité maintenue par habitude — faire les gestes sans y être",
+      "humour gris — ça fait rire mais ça vient d'un endroit sombre",
+      "zen apparent qui est en réalité de l'épuisement"
+    ],
+
+    "evolutionsPossibles": [
+      "repos si le personnage peut enfin s'arrêter",
+      "rupture — lâche quelque chose ou quelqu'un qu'il portait",
+      "renouveau inattendu si quelque chose rallume une étincelle",
+      "résignation complète si rien ne vient"
+    ],
+
+    "contextesAggravants": [
+      "combat qui dure depuis trop longtemps sans résultat",
+      "sollicitations continues sans répit",
+      "impression que les efforts ne changent rien"
+    ],
+
+    "contextesAttenuants": [
+      "repos réel — pas de sollicitation",
+      "résultat concret qui montre que ça a servi à quelque chose",
+      "quelqu'un qui prend le relais"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Fatigue ponctuelle", "description": "A besoin de souffler. Récupère rapidement." },
+      { "niveau": 2, "label": "Lassitude", "description": "Moins d'enthousiasme. Le coût des efforts est ressenti." },
+      { "niveau": 3, "label": "Lassitude profonde", "description": "Quelque chose s'est érodé. Difficile de retrouver l'élan d'avant." },
+      { "niveau": 4, "label": "Épuisement de fond", "description": "Tient mais ne fait plus que tenir. Tout est devenu lourd." },
+      { "niveau": 5, "label": "Épuisement total", "description": "Ne peut plus. Même les choses simples coûtent trop." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage porteur de responsabilités",
+        "description": "La lassitude est le revers de la force. Ce personnage a tenu trop longtemps et pour trop de monde. La chute est longue à venir mais dure à traverser."
+      },
+      {
+        "profil": "Personnage engagé dans une cause longue",
+        "description": "La lassitude militante est particulière — le personnage n'a pas abandonné ses valeurs, mais son corps et son élan ont cédé."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La lassitude durable est l'une des émotions les plus difficiles à montrer — elle est l'absence d'énergie plutôt qu'une énergie.",
+      "Elle révèle l'histoire du personnage — combien il a tenu, pour quoi, au prix de quoi.",
+      "À ne pas traiter comme une faiblesse — c'est souvent le résultat d'une force exercée trop longtemps."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "epuisement-moral" },
+      { "type": "peut_evoluer_en", "cible": "resignation" },
+      { "type": "souvent_associe_a", "cible": "silence" }
+    ]
+  },
+  {
+    "id": "deuil-blanc",
+    "label": "Deuil blanc",
+    "famille": "emotions-complexes",
+    "definitionCourte": "Deuil de quelqu'un qui est encore vivant — mais perdu pour la relation, transformé par la maladie, éloigné par la rupture ou la trahison. Le deuil blanc pleure une absence sans mort.",
+
+    "signesPhysiques": [
+      "regard qui cherche dans le visage de l'autre ce qui n'y est plus",
+      "contact physique qui hésite — toucher quelqu'un d'absent dans son regard",
+      "expression qui oscille entre la tendresse et la tristesse",
+      "moments de suspension — comme si le personnage attendait que l'autre revienne",
+      "sourire qui tourne court",
+      "soupirs récurrents sans explication",
+      "gestes anciens qui ne trouvent plus de réponse"
+    ],
+
+    "sensationsInternes": [
+      "absence qui fait mal malgré la présence physique",
+      "sentiment de parler à quelqu'un qui n'est plus là",
+      "deuil impossible à nommer — pas de mort, pas de rituel",
+      "mélange de colère et de tendresse sans objet clair",
+      "impression d'être figé entre deux temps — avant et maintenant"
+    ],
+
+    "pensees": [
+      "Tu es là mais tu n'es plus là.",
+      "Où est passée la personne que j'aimais ?",
+      "Je pleure quelqu'un qui est encore en vie.",
+      "Je ne sais pas comment faire le deuil d'un vivant.",
+      "Ce n'est plus toi.",
+      "Peut-être que tu reviens. Peut-être que non."
+    ],
+
+    "effetsVoixLangage": [
+      "parle de l'autre au passé même quand il est présent",
+      "formulations douloureuses et prudentes",
+      "silences longs et chargés",
+      "peut ne pas trouver les mots — le langage ordinaire ne couvre pas ça",
+      "évite le sujet ou y revient compulsivement selon la personnalité"
+    ],
+
+    "comportements": [
+      "peut maintenir la relation par habitude ou par espoir",
+      "alterne entre la présence et le retrait",
+      "garde des objets ou des photos d'avant",
+      "parle de l'autre à des tiers en cherchant à faire comprendre quelque chose d'inexprimable",
+      "peut chercher des signes que quelque chose subsiste"
+    ],
+
+    "masquesPossibles": [
+      "normalisation — faire comme si de rien n'était",
+      "colère qui cache le deuil",
+      "hyperactivité dans la relation pour tenter de faire revenir ce qui a été"
+    ],
+
+    "evolutionsPossibles": [
+      "acceptation douce que cette version est perdue",
+      "découverte que la nouvelle version mérite aussi d'être aimée",
+      "rupture si le deuil ne peut pas être traversé",
+      "chronicisation — certains personnages portent ce deuil toute leur vie"
+    ],
+
+    "contextesAggravants": [
+      "maladie dégénérative d'un proche",
+      "rupture où l'autre est transformé par la trahison",
+      "enfant devenu adulte étranger",
+      "parent qui a changé avec l'âge ou la maladie"
+    ],
+
+    "contextesAttenuants": [
+      "moment de présence réelle — quelque chose de l'avant qui revient",
+      "rencontre avec quelqu'un qui comprend ce type de deuil",
+      "rituel informel — une façon de dire adieu sans cérémonie"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Nostalgie relationnelle", "description": "La relation a changé. Quelque chose manque." },
+      { "niveau": 2, "label": "Deuil d'une version", "description": "La personne d'avant est absente. La nouvelle est là, différente." },
+      { "niveau": 3, "label": "Deuil blanc", "description": "Pleure quelqu'un de vivant. La souffrance est réelle mais sans cadre." },
+      { "niveau": 4, "label": "Deuil impossible", "description": "Ne sait pas comment traverser ça. Reste suspendu entre deux temps." },
+      { "niveau": 5, "label": "Rupture du sens", "description": "La perte d'une personne encore vivante a ébranlé quelque chose de fondamental." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Proche d'une personne atteinte d'Alzheimer ou de démence",
+        "description": "Le deuil blanc ici est quotidien et progressif. La personne physique est là mais la personne aimée recule lentement."
+      },
+      {
+        "profil": "Personne dont le proche s'est radicalisé ou transformé",
+        "description": "Le deuil est mêlé de colère et parfois de honte. Le personnage pleure et condamne en même temps."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Le deuil blanc est l'une des expériences humaines les plus difficiles à nommer — les mots font défaut parce que le cadre social du deuil n'existe pas.",
+      "Il est narrativement puissant précisément parce qu'il n'a pas de rituel — le personnage doit tout inventer.",
+      "À utiliser avec délicatesse dans des récits sur la vieillesse, la maladie, les ruptures transformatrices ou les éloignements définitifs."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "trahison" },
+      { "type": "souvent_associe_a", "cible": "deuil" },
+      { "type": "peut_evoluer_en", "cible": "acceptation" }
+    ]
+  }
+]

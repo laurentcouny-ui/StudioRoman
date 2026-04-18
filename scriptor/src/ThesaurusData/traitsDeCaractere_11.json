@@ -1,0 +1,262 @@
+[
+  {
+    "id": "perfectionnisme",
+    "label": "Perfectionnisme",
+    "polarite": "ambigu",
+    "definitionCourte": "Exigence excessive envers soi-même qui pousse à ne jamais considérer une tâche vraiment terminée, à corriger encore et encore jusqu'à l'épuisement.",
+    "manifestationsPositives": [
+      "travail d'une qualité rarement atteinte par d'autres",
+      "attention aux détails qui fait la différence dans les situations critiques",
+      "incapacité à bâcler — même sous pression, il maintient un niveau"
+    ],
+    "manifestationsNegatives": [
+      "paralysie décisionnelle — rien n'est jamais assez bien pour être montré",
+      "difficulté à déléguer — les autres ne feront jamais aussi bien",
+      "épuisement par l'exigence permanente appliquée à tout",
+      "corrige les autres avec une maladresse qui blesse"
+    ],
+    "signesPhysiques": [
+      "reprend une tâche qui vient d'être terminée pour l'ajuster encore",
+      "expression de légère insatisfaction même devant un bon résultat",
+      "gestes précis, minutieux, lents dans les domaines qui comptent",
+      "espace de travail organisé à l'extrême ou chaotique — les deux extrêmes existent"
+    ],
+    "blessuresPossibles": [
+      "parent ou enseignant qui ne valorisait jamais assez les efforts",
+      "erreur passée dont les conséquences ont été sévères",
+      "sentiment profond de ne pas être assez bien tel qu'on est"
+    ],
+    "evolutionsPossibles": [
+      "peut mener à l'épuisement professionnel si non contenu",
+      "peut se transformer en excellence saine si le personnage apprend à s'arrêter",
+      "peut devenir tyrannie envers les proches si projeté sur eux"
+    ],
+    "notesEditoriales": [
+      "Le perfectionnisme est souvent présenté comme une qualité — le montrer comme le fardeau qu'il est.",
+      "Distinguer perfectionnisme fonctionnel (qui produit) et paralysant (qui bloque).",
+      "Sa blessure d'origine est souvent l'amour conditionnel — valable seulement si la performance est bonne."
+    ]
+  },
+  {
+    "id": "empathie",
+    "label": "Empathie",
+    "polarite": "positif",
+    "definitionCourte": "Capacité à ressentir ce que l'autre ressent, à entrer dans sa perspective sans perdre la sienne — ou parfois en la perdant complètement.",
+    "manifestationsPositives": [
+      "comprend les autres plus vite et plus profondément que la moyenne",
+      "présence naturelle dans les moments de crise émotionnelle",
+      "médiateur efficace — peut tenir les deux points de vue simultanément"
+    ],
+    "manifestationsNegatives": [
+      "absorbe la souffrance des autres au point de ne plus savoir ce qui lui appartient",
+      "difficultés à maintenir des limites — les besoins des autres envahissent les siens",
+      "peut être manipulé par des personnages qui exploitent sa sensibilité"
+    ],
+    "signesPhysiques": [
+      "visage qui reflète l'émotion de l'interlocuteur sans qu'il le décide",
+      "pleure ou rit avec les autres de façon synchrone",
+      "fatigue après de longs contacts émotionnels intenses",
+      "malaise physique en présence de souffrance — comme une résonance"
+    ],
+    "blessuresPossibles": [
+      "enfance où il fallait sentir l'humeur des autres pour survivre",
+      "parent émotionnellement instable que l'empathie aidait à gérer",
+      "avoir été le soutien de tous avant d'avoir quelqu'un pour soi"
+    ],
+    "evolutionsPossibles": [
+      "peut mener à l'épuisement empathique — plus rien ne passe",
+      "peut se transformer en compétence relationnelle exceptionnelle si les limites sont posées",
+      "peut mener à la confusion identitaire — il ne sait plus ce qu'il ressent lui"
+    ],
+    "notesEditoriales": [
+      "L'empathie sans limite est une blessure — le personnage empathique souffre autant qu'il aide.",
+      "Distinguer empathie et sympathie : l'une entre dans le ressenti, l'autre le voit de l'extérieur.",
+      "Un personnage empathique qui apprend à se protéger est un arc narratif puissant et peu cliché."
+    ]
+  },
+  {
+    "id": "cynisme",
+    "label": "Cynisme",
+    "polarite": "negatif",
+    "definitionCourte": "Désillusion érigée en système de pensée, qui conduit à ne voir dans les intentions des autres que le calcul, l'intérêt ou la faiblesse.",
+    "manifestationsPositives": [
+      "immunisé contre les promesses creuses et la manipulation naïve",
+      "lucidité utile dans les contextes corrompus ou hypocrites",
+      "ne se fait pas d'illusions — les mauvaises surprises ne le surprennent pas"
+    ],
+    "manifestationsNegatives": [
+      "empoisonne les situations avec son scepticisme systématique",
+      "décourage les personnes sincères par ses sous-entendus constants",
+      "passe à côté de tout ce qui est vrai, bon, simple — il n'y croit pas"
+    ],
+    "signesPhysiques": [
+      "sourire de coin qui dit qu'il n'est pas dupe",
+      "questions qui sous-entendent la mauvaise foi de l'autre",
+      "posture détachée même dans les situations qui méritent l'engagement",
+      "regard qui évalue en permanence ce que ça coûte et ce que ça rapporte"
+    ],
+    "blessuresPossibles": [
+      "idéalisme passé fracassé sur une réalité cruelle",
+      "trahison par quelqu'un en qui il croyait profondément",
+      "environnement qui récompensait le calcul et punissait la sincérité"
+    ],
+    "evolutionsPossibles": [
+      "peut mener à l'amertume et à l'isolement complet",
+      "peut être déconstruit si le personnage rencontre quelqu'un d'authentiquement sincère",
+      "peut servir de protection jusqu'à ce que quelque chose casse le vernis"
+    ],
+    "notesEditoriales": [
+      "Le cynique est presque toujours un idéaliste blessé — sa désillusion dit la profondeur de ce qu'il avait cru.",
+      "Riche pour les récits de rédemption : le chemin depuis le cynisme vers la douceur est un arc complet.",
+      "Ne pas confondre cynisme et lucidité : l'un est une posture de protection, l'autre une qualité."
+    ]
+  },
+  {
+    "id": "curiosite",
+    "label": "Curiosité",
+    "polarite": "positif",
+    "definitionCourte": "Appétit pour ce qu'on ne sait pas encore — questions, explorations, territoires inconnus. La curiosité grossit avec ce qu'elle avale.",
+    "manifestationsPositives": [
+      "apprentissage rapide et vorace dans tous les domaines",
+      "ouverture naturelle aux personnes et aux idées différentes",
+      "capacité à trouver de l'intérêt là où les autres voient de la routine"
+    ],
+    "manifestationsNegatives": [
+      "s'aventure là où il n'est pas le bienvenu",
+      "questions qui dérangent parce qu'elles ne respectent pas les frontières",
+      "tendance à ouvrir des portes sans avoir réfléchi à ce qui peut en sortir"
+    ],
+    "signesPhysiques": [
+      "yeux qui s'allument devant une information nouvelle",
+      "penche la tête légèrement quand quelque chose l'intéresse",
+      "s'approche physiquement pour regarder de plus près",
+      "questions qui s'enchaînent — chaque réponse en génère trois autres"
+    ],
+    "blessuresPossibles": [
+      "curiosité punie dans l'enfance — 'ça ne te regarde pas'",
+      "monde qui a longtemps refusé de lui répondre — il cherche depuis"
+    ],
+    "evolutionsPossibles": [
+      "peut devenir intrusion si elle ne tient pas compte des autres",
+      "peut mener à des découvertes qui changent la trajectoire de sa vie",
+      "peut se retourner contre lui si ce qu'il cherchait était mieux ignoré"
+    ],
+    "notesEditoriales": [
+      "La curiosité est le moteur narratif des personnages enquêteurs et des protagonistes d'initiation.",
+      "Sa limite naturelle est la prudence — ce qu'on ne doit pas savoir, la curiosité l'ignore.",
+      "Puissant en combinaison avec la peur : quelqu'un qui a peur mais qui regarde quand même."
+    ]
+  },
+  {
+    "id": "pragmatisme",
+    "label": "Pragmatisme",
+    "polarite": "ambigu",
+    "definitionCourte": "Priorité donnée à ce qui fonctionne sur ce qui est beau, juste ou élégant. Le pragmatique ne cherche pas la perfection — il cherche le résultat.",
+    "manifestationsPositives": [
+      "résolution rapide des problèmes sans s'encombrer de considérations secondaires",
+      "capacité à avancer quand les autres sont paralysés par les questions morales",
+      "fiabilité — il fait ce qui doit être fait, pas ce qui est plaisant"
+    ],
+    "manifestationsNegatives": [
+      "passe sur les gens ou les principes si l'efficacité le demande",
+      "indifférence possible à la souffrance si elle ne change pas l'équation",
+      "relations instrumentalisées — les gens sont utiles ou non"
+    ],
+    "signesPhysiques": [
+      "évalue rapidement une situation sans s'y attarder",
+      "coupe les conversations qui n'avancent pas à des conclusions",
+      "langage direct, sans précautions rhétoriques",
+      "solutions simples là où les autres cherchent la nuance"
+    ],
+    "blessuresPossibles": [
+      "expérience passée où l'idéalisme a tout fait rater",
+      "environnement qui ne valorisait que les résultats, jamais les intentions",
+      "désillusion profonde qui a tué la capacité à croire aux grands principes"
+    ],
+    "evolutionsPossibles": [
+      "peut mener à une froideur relationnelle qui isole",
+      "peut se transformer en sagesse si tempéré par l'empathie",
+      "peut mener à des compromis moraux graves si l'efficacité prime tout"
+    ],
+    "notesEditoriales": [
+      "Le pragmatique est souvent celui qui dit les vérités que les autres n'osent pas — précieux et difficile à vivre.",
+      "Distinguer pragmatisme et cynisme : l'un croit que les choses peuvent s'arranger, l'autre non.",
+      "Puissant dans les récits de crise où les questions morales coûtent du temps que personne n'a."
+    ]
+  },
+  {
+    "id": "seduction",
+    "label": "Séduction",
+    "polarite": "ambigu",
+    "definitionCourte": "Capacité naturelle ou cultivée à attirer, à plaire, à faire qu'on s'intéresse à soi — qui peut servir des intentions pures ou des objectifs manipulatoires.",
+    "manifestationsPositives": [
+      "aisance sociale qui ouvre des portes fermées aux autres",
+      "capacité à apaiser des tensions par le charme",
+      "fait se sentir les autres vus et valorisés — même brièvement"
+    ],
+    "manifestationsNegatives": [
+      "utilise le charme comme outil de manipulation conscient",
+      "ne sait pas s'arrêter — séduit même quand ce n'est pas approprié",
+      "relations superficielles par habitude — la profondeur exige d'arrêter de séduire"
+    ],
+    "signesPhysiques": [
+      "contact visuel soutenu, légèrement trop long",
+      "écoute active exagérée qui donne l'impression d'être l'unique personne dans la pièce",
+      "légère inclinaison du corps vers l'interlocuteur",
+      "sourire qui arrive exactement au bon moment"
+    ],
+    "blessuresPossibles": [
+      "a appris que le charme était la seule façon d'obtenir ce qu'il voulait",
+      "rejet ou invisibilité passée qui a déclenché la construction du masque séducteur",
+      "peur profonde d'être vu sans le masque — et de ne pas plaire ainsi"
+    ],
+    "evolutionsPossibles": [
+      "peut mener à l'incapacité totale de connexion authentique",
+      "peut se transformer en présence chaleureuse si le masque devient sincère",
+      "peut détruire ce qui est construit si les manipulations sont découvertes"
+    ],
+    "notesEditoriales": [
+      "La séduction n'est pas toujours consciente — certains personnages séduisent sans le savoir.",
+      "Distinguer séduction sociale (charme naturel) et séduction stratégique (outil de contrôle).",
+      "Derrière le charme se cache souvent quelqu'un qui a peur de ne pas plaire sans le masque."
+    ]
+  },
+  {
+    "id": "autodestruction",
+    "label": "Tendance autodestructrice",
+    "polarite": "negatif",
+    "definitionCourte": "Disposition à saboter ce qui fonctionne, à fuir ce qui est bon, à s'infliger ou à provoquer ce qui fait mal — souvent sans le voir.",
+    "manifestationsPositives": [
+      "lucidité sur ses propres travers qui peut précéder un changement",
+      "authenticité brutale — il ne se cache pas derrière une façade",
+      "compréhension profonde de la souffrance d'autrui par expérience directe"
+    ],
+    "manifestationsNegatives": [
+      "détruit ses relations juste avant qu'elles deviennent stables",
+      "choisit les situations qui lui feront le plus de mal",
+      "refuse ou sabote l'aide quand elle arrive",
+      "se retrouve dans les mêmes schémas répétés malgré lui"
+    ],
+    "signesPhysiques": [
+      "prise de risques excessifs dans des contextes qui ne le demandent pas",
+      "provocation délibérée de ceux qui l'aiment",
+      "refus de soins ou de soutien avec une intensité disproportionnée",
+      "sourire quand la situation empire — comme si quelque chose en lui était soulagé"
+    ],
+    "blessuresPossibles": [
+      "sentiment profond de ne pas mériter ce qui est bon",
+      "punition inconsciente d'une faute passée",
+      "seule façon qu'il ait trouvée de reprendre le contrôle sur sa douleur"
+    ],
+    "evolutionsPossibles": [
+      "peut mener à la destruction totale si le cycle n'est pas interrompu",
+      "peut se transformer si quelqu'un reste malgré le sabotage — rupture du schéma",
+      "peut aboutir à une prise de conscience douloureuse mais réelle"
+    ],
+    "notesEditoriales": [
+      "L'autodestruction est rarement consciente — le personnage la vit souvent comme une fatalité.",
+      "À traiter avec nuance : ne pas réduire à une pathologie, montrer le mécanisme intérieur.",
+      "Très puissant pour les arcs de transformation — si la rupture du cycle est gagnée."
+    ]
+  }
+]

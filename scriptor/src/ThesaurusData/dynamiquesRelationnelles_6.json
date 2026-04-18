@@ -1,0 +1,570 @@
+[
+  {
+    "id": "belle-famille-distance-calculee",
+    "label": "Belle-famille — distance calculée",
+    "famille": "relations familiales élargies",
+    "definitionCourte": "Relation avec la famille du partenaire où chacun mesure ses mots, ses gestes, et ses révélations. Ni amitié ni hostilité, une coexistence négociée permanente où le partenaire est à la fois le lien et l'enjeu.",
+
+    "caracteristiques": [
+      "lien non choisi, construit autour d'un tiers",
+      "appartenance partielle — inclus par le mariage, jamais tout à fait de la famille",
+      "codes culturels ou familiaux à décoder sans en avoir la clé",
+      "jugements qui circulent par le partenaire sans jamais être dits directement",
+      "hiérarchie informelle souvent défavorable au nouveau venu"
+    ],
+
+    "tensionsCentrale": [
+      "allégeance du partenaire — va-t-il du côté de sa famille ou du couple ?",
+      "belle-mère ou beau-père qui maintient une influence forte sur le partenaire",
+      "rituel familial auquel on participe sans en être vraiment",
+      "reproche voilé ou comparaison avec l'ex ou le standard familial implicite",
+      "enfants qui appartiennent aux deux familles et font pont"
+    ],
+
+    "signesPhysiques": [
+      "sourire tenu plus longtemps que nécessaire",
+      "regard qui évalue sans sembler le faire",
+      "geste d'inclusion partielle — pas exclu mais pas vraiment inclus",
+      "conversation qui contourne les sujets sensibles avec une fluidité trop lisse",
+      "corps légèrement plus rigide en présence de la belle-famille"
+    ],
+
+    "dynamiquesTypiques": [
+      "repas de famille où chacun joue un rôle sans le nommer",
+      "confidence de la belle-mère qui place le nouveau venu dans une position inconfortable",
+      "comparaison implicite — 'dans notre famille, on fait comme ça'",
+      "gendre ou belle-fille qui compense par l'utilité — bricolage, cuisine, organisation",
+      "partenaire qui ne voit pas ou ne veut pas voir la tension"
+    ],
+
+    "masquesPossibles": [
+      "enthousiasme affiché pour plaire et être accepté",
+      "neutralité polie qui ne prend jamais position",
+      "humour distanciateur pour éviter les sujets qui fâchent"
+    ],
+
+    "evolutionsPossibles": [
+      "acceptation progressive — le nouveau venu trouve sa place",
+      "rupture si le partenaire ne tranche pas en cas de conflit",
+      "alliance inattendue avec un membre de la belle-famille",
+      "mort d'un parent qui redistribue les rôles et les positions",
+      "enfant qui change les rapports de force"
+    ],
+
+    "exemplesNarratifs": [
+      "nouveau gendre face à un père protecteur",
+      "belle-fille dans une famille avec des codes culturels différents",
+      "ex encore présent dans les conversations de belle-famille",
+      "belle-famille qui parle la langue que vous ne maîtrisez pas"
+    ],
+
+    "notesEditoriales": [
+      "La belle-famille est un terrain classique de comédie — mais elle est tout aussi efficace en drame quand l'enjeu porte sur l'appartenance.",
+      "Le partenaire comme figure du milieu est souvent la clé de la tension : sa position révèle ses propres loyautés.",
+      "À utiliser pour explorer ce que 'rejoindre une famille' signifie — et ce qu'on doit sacrifier de soi pour y entrer."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "conflit-de-loyauté" },
+      { "type": "souvent_associe_a", "cible": "sentiment-d-imposteur" },
+      { "type": "peut_evoluer_en", "cible": "appartenance-gagnée" }
+    ]
+  },
+  {
+    "id": "parent-adoptif-enfant-adopte",
+    "label": "Parent adoptif et enfant adopté",
+    "famille": "relations familiales élargies",
+    "definitionCourte": "Lien parental bâti non sur la biologie mais sur le choix, l'histoire et le temps. Aussi réel que tout autre lien familial, mais porteur de questions spécifiques sur l'origine, l'identité et ce que 'famille' veut dire.",
+
+    "caracteristiques": [
+      "lien construit, pas donné — ce qui le rend à la fois plus fragile et plus conscient",
+      "histoire qui précède le lien — l'enfant a une vie avant, même brève",
+      "question de l'origine qui traverse le lien sans forcément le mettre en danger",
+      "société qui pose des questions que la famille ne pose pas",
+      "amour aussi réel que biologique, mais souvent plus réfléchi"
+    ],
+
+    "tensionsCentrale": [
+      "enfant qui cherche ses origines — comment le parent adoptif vit ce besoin",
+      "ressemblance impossible — les écarts visibles que les autres remarquent",
+      "question de l'identité — 'qui suis-je vraiment ?'",
+      "parent biologique comme figure présente ou absente qui plane sur le lien",
+      "adoption inter-culturelle ou inter-raciale — identité multiple à habiter"
+    ],
+
+    "signesPhysiques": [
+      "geste parental ordinaire — câlin, repas, aide aux devoirs — chargé d'une densité particulière",
+      "enfant qui observe ses parents adoptifs avec une attention soutenue",
+      "regard du parent qui mesure ce qu'il ne peut pas donner et ce qu'il a donné",
+      "moment où l'enfant appelle 'maman' ou 'papa' — poids de ce mot",
+      "photo de famille comme affirmation"
+    ],
+
+    "dynamiquesTypiques": [
+      "l'enfant qui teste le lien — pousse pour voir si le parent reste",
+      "conversation sur les origines qui arrive toujours trop tôt ou trop tard",
+      "parent qui a trop peur de perdre l'enfant pour lui laisser chercher",
+      "enfant qui protège le parent adoptif en ne posant pas certaines questions",
+      "rencontre ou non avec le parent biologique — moment charnière"
+    ],
+
+    "masquesPossibles": [
+      "parent qui surprotège pour compenser l'absence d'un lien biologique",
+      "enfant qui performe la gratitude pour ne pas blesser",
+      "silence sur les origines maintenu par peur d'une déstabilisation"
+    ],
+
+    "evolutionsPossibles": [
+      "ancrage progressif dans l'identité construite avec les parents adoptifs",
+      "recherche des origines qui ouvre une nouvelle dimension de soi",
+      "crise d'adolescence ou de jeune adulte qui remet le lien en question",
+      "rencontre avec le parent biologique qui paradoxalement renforce le lien adoptif",
+      "rupture si le lien n'a pas été suffisamment solide"
+    ],
+
+    "exemplesNarratifs": [
+      "enfant adopté à l'étranger qui grandit entre deux cultures",
+      "adoption tardive — enfant placé après des années en famille d'accueil",
+      "adulte adopté qui recherche ses origines biologiques",
+      "famille recomposée où l'adoption vient renforcer un lien déjà là"
+    ],
+
+    "notesEditoriales": [
+      "L'adoption est un terrain narratif riche parce qu'elle rend explicite ce que tous les liens familiaux font implicitement : on choisit, on construit, on reste.",
+      "Éviter les clichés de 'l'enfant adopté qui ne se sent jamais chez lui' — les nuances sont plus intéressantes.",
+      "La question des origines n'est pas une remise en cause du lien adoptif — les deux peuvent coexister sans se menacer."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "quête-identitaire" },
+      { "type": "souvent_associe_a", "cible": "sentiment-d-appartenance" },
+      { "type": "peut_evoluer_en", "cible": "confiance-fondamentale" }
+    ]
+  },
+  {
+    "id": "lien-avec-mort-recent",
+    "label": "Lien avec un mort récent",
+    "famille": "liens avec les absents",
+    "definitionCourte": "Relation qui continue après la mort — dans les pensées, les habitudes, les objets. Le mort est absent mais toujours là, et le vivant apprend à habiter un espace où cette présence-absence fait partie du quotidien.",
+
+    "caracteristiques": [
+      "lien unilatéral — le mort ne peut plus répondre",
+      "relation vivante dans la mémoire, les habitudes, les objets",
+      "deuil comme processus de redéfinition du lien, pas d'effacement",
+      "vivant qui continue à parler au mort — mentalement ou à voix haute",
+      "mort qui continue à influencer les décisions du vivant"
+    ],
+
+    "tensionsCentrale": [
+      "présence fantôme dans les habitudes du quotidien",
+      "non-dits qui ne pourront jamais être dits — les regrets",
+      "idéalisation du mort vs mémoire complexe et humaine",
+      "pression sociale pour 'aller de l'avant' vs processus réel du deuil",
+      "les choses que le mort aurait dites ou pensées — et qu'on n'entendra jamais"
+    ],
+
+    "signesPhysiques": [
+      "geste fait par habitude vers l'absent — téléphone qu'on commence à composer",
+      "objet du mort qui porte une charge particulière",
+      "espace préservé tel qu'il était",
+      "regard qui part ailleurs dans la conversation — vers le souvenir",
+      "rire ou larmes inattendus lors d'une évocation"
+    ],
+
+    "dynamiquesTypiques": [
+      "conversation intérieure avec le mort — ce qu'on lui dirait si on pouvait",
+      "décision prise en se demandant ce qu'il aurait pensé",
+      "objet transmis qui porte l'histoire du lien",
+      "anniversaire ou date particulière qui fait remonter le deuil",
+      "rêve du mort — banal ou chargé"
+    ],
+
+    "masquesPossibles": [
+      "normalisation excessive — faire comme si de rien n'était",
+      "activité intense pour ne pas laisser de place au deuil",
+      "sublimation — transformer la perte en projet ou en action"
+    ],
+
+    "evolutionsPossibles": [
+      "intégration progressive — le mort devient une présence supportable",
+      "chronicisation du deuil — le vivant reste suspendu",
+      "rencontre qui crée un parallèle avec le mort — bon ou mauvais",
+      "transmission — raconter le mort à quelqu'un qui ne l'a pas connu",
+      "libération — moment où le vivant se permet enfin de continuer"
+    ],
+
+    "exemplesNarratifs": [
+      "enfant adulte après la mort d'un parent",
+      "veuf ou veuve dans les premiers mois",
+      "ami intime dont la mort laisse un vide spécifique et non substituable",
+      "personnage qui porte la culpabilité du survivant"
+    ],
+
+    "notesEditoriales": [
+      "Le lien avec le mort récent est l'un des plus présents dans la fiction — parce qu'il explore ce que les liens font à ceux qui restent.",
+      "La tentation du cliché est forte : le deuil silencieux, les larmes au moment inattendu. Les nuances — le rire, la colère, l'ennui — sont plus vraies.",
+      "Le mort peut être un personnage actif dans un récit même absent — par ce qu'il a laissé, dit, fait ou pas dit."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "culpabilité-du-survivant" },
+      { "type": "souvent_associe_a", "cible": "deuil" },
+      { "type": "peut_evoluer_en", "cible": "acceptation" }
+    ]
+  },
+  {
+    "id": "relation-avec-absent-lointain",
+    "label": "Relation avec un absent lointain",
+    "famille": "liens avec les absents",
+    "definitionCourte": "Lien maintenu à distance — par les lettres, les appels, les messages — avec quelqu'un que les circonstances ont éloigné. L'absence restructure la relation sans la détruire, mais ce qui se maintient n'est pas tout à fait ce qui existait en présence.",
+
+    "caracteristiques": [
+      "communication différée ou fragmentée qui remplace la présence",
+      "image de l'autre figée dans le souvenir, qui évolue en retard sur la réalité",
+      "effort conscient pour maintenir le lien sans la friction naturelle du quotidien",
+      "idéalisation ou désidéalisation progressive selon ce qui est partagé",
+      "retrouvailles comme moment de vérité — est-ce que le lien survit à la présence ?"
+    ],
+
+    "tensionsCentrale": [
+      "l'absent qui change et dont on ne suit pas tous les changements",
+      "lien qui repose sur la représentation plus que sur la réalité",
+      "vie parallèle de l'autre qu'on ne partage pas",
+      "question de la fidélité au lien dans la durée",
+      "retrouvailles qui révèlent l'écart entre l'image et la personne réelle"
+    ],
+
+    "signesPhysiques": [
+      "regard vers le téléphone ou la boîte aux lettres",
+      "geste d'écriture ou d'enregistrement — choisir ses mots plus qu'à l'oral",
+      "photo de l'absent qu'on consulte sans raison précise",
+      "corps qui se détend à la voix de l'autre même à distance",
+      "décalage horaire qui s'installe dans les rythmes de vie"
+    ],
+
+    "dynamiquesTypiques": [
+      "lettre ou message envoyé, attente de la réponse",
+      "conversation téléphonique où le non-verbal manque",
+      "partage de petits détails quotidiens pour compenser la distance",
+      "secret gardé pour ne pas inquiéter — distance qui permet de filtrer",
+      "l'un qui maintient plus que l'autre — déséquilibre dans l'effort"
+    ],
+
+    "masquesPossibles": [
+      "enthousiasme dans les messages qui cache l'usure de la distance",
+      "fréquence des contacts maintenue par obligation plus que par désir",
+      "image idéalisée de la relation projetée sur les rares moments partagés"
+    ],
+
+    "evolutionsPossibles": [
+      "retour qui reconfigure le lien dans la présence",
+      "éloignement progressif — la distance finit par avoir raison du lien",
+      "lien transformé — plus rare mais plus choisi",
+      "décision de rejoindre l'autre — ou de ne pas le faire",
+      "rupture lors des retrouvailles — la réalité déçoit l'image"
+    ],
+
+    "exemplesNarratifs": [
+      "correspondance entre deux personnes séparées par l'exil ou la guerre",
+      "relation longue distance entre deux amoureux",
+      "enfant qui grandit loin d'un parent émigré",
+      "amitié de jeunesse maintenue à travers les continents"
+    ],
+
+    "notesEditoriales": [
+      "La distance restructure les relations en les rendant plus conscientes et plus choisies — c'est à la fois sa richesse et son danger.",
+      "La correspondance comme forme narrative permet d'explorer deux subjectivités en parallèle.",
+      "Les retrouvailles sont narrativement cruciales — elles testent si le lien maintenu à distance correspondait à quelque chose de réel."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "désillusion-relationnelle" },
+      { "type": "souvent_associe_a", "cible": "nostalgie" },
+      { "type": "peut_evoluer_en", "cible": "retrouvailles" }
+    ]
+  },
+  {
+    "id": "relation-avec-figure-disparue",
+    "label": "Relation avec une figure disparue",
+    "famille": "liens avec les absents",
+    "definitionCourte": "Lien avec quelqu'un qui a disparu sans explication — sans mort, sans rupture officielle, sans adieu. L'absence est incertaine, ce qui la rend plus difficile à traverser que le deuil.",
+
+    "caracteristiques": [
+      "absence sans résolution — pas de corps, pas de mot final, pas de clôture",
+      "lien suspendu entre deuil et attente",
+      "vivant qui ne sait pas s'il doit pleurer ou espérer",
+      "corps du disparu toujours quelque part dans l'imaginaire",
+      "absence qui structure la vie du vivant aussi fortement que sa présence"
+    ],
+
+    "tensionsCentrale": [
+      "faire son deuil sans certitude que c'est le deuil qu'il faut faire",
+      "espoir maintenu qui empêche de recommencer",
+      "colère contre quelqu'un qu'on ne peut pas confronter",
+      "question sans réponse qui tourne en boucle — pourquoi ?",
+      "passé commun qui reste sans témoin autre que soi"
+    ],
+
+    "signesPhysiques": [
+      "regard qui s'arrête sur des inconnus qui ressemblent",
+      "réaction physique à un lieu, une odeur, un son associé au disparu",
+      "objet du disparu gardé comme preuve ou comme ancrage",
+      "sursaut à certains numéros de téléphone ou certains prénoms",
+      "corps qui réagit à l'évocation même quand on pense avoir fait la paix"
+    ],
+
+    "dynamiquesTypiques": [
+      "récit raconté aux autres pour maintenir la trace",
+      "recherche active ou résignée selon les personnages",
+      "vie mise entre parenthèses en attendant",
+      "rencontre de quelqu'un qui l'a connu — espoir de reconstituer",
+      "signe ou rumeur qui rouvre tout ce qu'on avait tenté de fermer"
+    ],
+
+    "masquesPossibles": [
+      "normalité affichée pour protéger les autres ou se protéger",
+      "ironie qui empêche de prendre le sujet au sérieux",
+      "activisme autour de la disparition comme substitut à l'émotion directe"
+    ],
+
+    "evolutionsPossibles": [
+      "découverte — résolution qui peut être soulagement ou effondrement",
+      "acceptation de ne jamais savoir — difficile mais possible",
+      "transformation de l'absence en présence intégrée",
+      "rencontre qui permet de reconstruire sans le disparu",
+      "rechute — quelque chose rouvre la blessure des années après"
+    ],
+
+    "exemplesNarratifs": [
+      "parent ou enfant disparu sans nouvelles",
+      "ami qui a coupé tout contact sans explication",
+      "partenaire qui est parti un jour sans laisser de mot",
+      "soldat ou prisonnier dont on n'a pas de nouvelles"
+    ],
+
+    "notesEditoriales": [
+      "La disparition sans résolution est l'une des situations les plus difficiles à traverser — et narrativement l'une des plus riches parce qu'elle reste ouverte.",
+      "À distinguer du deuil classique : ici il n'y a pas de rituel possible, pas de clôture autorisée.",
+      "La question 'est-ce qu'il est mort ou est-ce qu'il a choisi de partir ?' est souvent plus douloureuse que la réponse."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "quête" },
+      { "type": "souvent_associe_a", "cible": "deuil-blanc" },
+      { "type": "peut_evoluer_en", "cible": "acceptation-de-l-incertitude" }
+    ]
+  },
+  {
+    "id": "relation-avec-ancetre-ou-passe-familial",
+    "label": "Relation avec un ancêtre ou un passé familial",
+    "famille": "liens avec les absents",
+    "definitionCourte": "Lien avec quelqu'un qu'on n'a pas connu — ou à peine — mais dont l'histoire façonne le présent. L'ancêtre pèse sur le vivant à travers les récits, les silences, les ressemblances ou les secrets de famille.",
+
+    "caracteristiques": [
+      "relation sans rencontre directe — bâtie sur des récits, des traces, des fragments",
+      "identification ou rejet selon la figure et l'histoire",
+      "héritage émotionnel et symbolique qui dépasse le biologique",
+      "secret de famille qui entoure souvent la figure",
+      "vivant qui se découvre ressemblant — ou différent — à l'ancêtre"
+    ],
+
+    "tensionsCentrale": [
+      "poids de l'héritage — reprendre ou rompre",
+      "secret gardé par les vivants qui protège ou emprisonne",
+      "reconstruction d'une figure à partir de fragments — la vérité est peut-être différente",
+      "identification dangereuse — répéter les erreurs ou les traumatismes",
+      "fierté ou honte de l'ancêtre — et ce que ça fait à l'identité présente"
+    ],
+
+    "signesPhysiques": [
+      "photo d'ancêtre regardée longuement",
+      "geste ou tic de ressemblance que la famille note",
+      "objet transmis qui porte une histoire",
+      "lieu de l'histoire familiale visité ou évité",
+      "rêve où l'ancêtre apparaît"
+    ],
+
+    "dynamiquesTypiques": [
+      "récit familial répété qui construit une image",
+      "silence autour de certains événements — plus parlant que les mots",
+      "recherche de traces — archives, lettres, témoins vivants",
+      "ressemblance physique qui crée une projection",
+      "découverte qui remet en question tout ce qu'on croyait savoir"
+    ],
+
+    "masquesPossibles": [
+      "indifférence affichée au passé familial pour se protéger de son poids",
+      "glorification qui empêche de voir l'ancêtre comme humain",
+      "répétition inconsciente de schémas hérités"
+    ],
+
+    "evolutionsPossibles": [
+      "réconciliation avec la figure — accepter l'humain derrière le mythe",
+      "rupture symbolique — décider que le passé ne dicte plus",
+      "transmission choisie — reprendre ce qui a de la valeur, laisser le reste",
+      "révélation qui change la compréhension de toute la famille",
+      "réparation symbolique — faire pour l'ancêtre ce qu'il n'a pas pu faire"
+    ],
+
+    "exemplesNarratifs": [
+      "descendant d'un résistant ou d'un collaborateur qui découvre la vérité",
+      "enfant qui ressemble physiquement à un ancêtre dont l'histoire est trouble",
+      "personnage qui reconstitue la vie de son arrière-grand-mère à partir de lettres",
+      "famille dont un secret de plusieurs générations remonte à la surface"
+    ],
+
+    "notesEditoriales": [
+      "Le lien avec les ancêtres explore comment le passé habite le présent sans que les vivants en aient eu le choix.",
+      "Le secret de famille est souvent le ressort narratif central — ce qui a été caché finit toujours par filtrer.",
+      "À utiliser pour donner à un personnage une histoire plus large que sa vie individuelle."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "quête-identitaire" },
+      { "type": "souvent_associe_a", "cible": "secret-de-famille" },
+      { "type": "peut_evoluer_en", "cible": "réconciliation-avec-le-passé" }
+    ]
+  },
+  {
+    "id": "relation-epistolaire-ou-distante",
+    "label": "Relation épistolaire ou à distance",
+    "famille": "liens avec les absents",
+    "definitionCourte": "Lien construit et maintenu presque exclusivement à travers l'écrit ou la voix — lettres, messages, appels. La médiation force une forme de conscience et de choix dans la communication qui transforme la relation.",
+
+    "caracteristiques": [
+      "communication délibérée — on choisit ce qu'on dit, contrairement à la présence",
+      "image de l'autre construite à partir de ses mots plus que de ses actes",
+      "créativité dans le lien — on invente parfois plus qu'on ne décrit",
+      "intimité possible sans présence — parfois plus profonde que le face à face",
+      "lien asymétrique si l'un écrit plus ou mieux que l'autre"
+    ],
+
+    "tensionsCentrale": [
+      "représentation vs réalité — l'autre est-il comme on se l'imagine ?",
+      "délai entre l'émotion et sa transmission — le message arrive quand l'autre a changé",
+      "ce qu'on ne peut pas mettre dans une lettre — les gestes, les silences, le corps",
+      "interprétation des mots sans le ton — la lettre mal lue",
+      "la lettre qu'on n'a pas envoyée"
+    ],
+
+    "signesPhysiques": [
+      "geste d'écriture — posture, attention, choix des mots",
+      "attente physique — vérification répétée de la boîte ou du téléphone",
+      "lecture d'un message plusieurs fois — chercher ce qu'il dit vraiment",
+      "lettre gardée, relue, annotée",
+      "voix de l'autre qui prend une qualité particulière dans l'appel"
+    ],
+
+    "dynamiquesTypiques": [
+      "confidence écrite qu'on n'aurait pas dite en face",
+      "déséquilibre — l'un attend plus que l'autre ne répond",
+      "malentendu né du texte — résolu ou aggravé",
+      "rituel de lecture — le moment où la lettre est lue est choisi",
+      "brouillons non envoyés qui en disent plus que ce qui a été envoyé"
+    ],
+
+    "masquesPossibles": [
+      "écriture performative — on écrit ce qu'on voudrait être plutôt que ce qu'on est",
+      "ton plus assuré à l'écrit que dans la réalité",
+      "retard dans la réponse utilisé comme contrôle émotionnel"
+    ],
+
+    "evolutionsPossibles": [
+      "rencontre qui teste ce que le lien épistolaire a construit",
+      "rupture épistolaire — le silence comme fin",
+      "lien qui survit à la rencontre et se transforme",
+      "archive — les lettres restent quand la relation est finie ou que l'autre est mort",
+      "tiers qui lit les lettres — témoin involontaire du lien"
+    ],
+
+    "exemplesNarratifs": [
+      "correspondance de guerre entre un soldat et sa femme",
+      "échange de lettres entre deux inconnus mis en relation",
+      "journal écrit pour quelqu'un qu'on ne peut pas joindre",
+      "relation en ligne qui n'a jamais rencontré la présence physique"
+    ],
+
+    "notesEditoriales": [
+      "La relation épistolaire est une forme narrative en soi — la lettre comme structure d'intimité et de distance simultanées.",
+      "Le non-dit de la lettre est souvent plus révélateur que ce qui est écrit.",
+      "À utiliser pour explorer des personnages qui se révèlent par les mots plus que par les actes."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "désillusion-à-la-rencontre" },
+      { "type": "souvent_associe_a", "cible": "attente" },
+      { "type": "peut_evoluer_en", "cible": "amour-épistolaire" }
+    ]
+  },
+  {
+    "id": "relation-avec-figure-interieure",
+    "label": "Relation avec une figure intérieure",
+    "famille": "liens avec les absents",
+    "definitionCourte": "Dialogue intérieur avec une figure internalisée — parent, mentor, juge interne — qui continue à parler dans la tête du personnage longtemps après que la relation réelle s'est terminée ou transformée. Ce n'est plus la personne réelle : c'est sa trace.",
+
+    "caracteristiques": [
+      "figure qui vit dans la tête du personnage, pas dans la réalité",
+      "voix internalisée qui commente, juge, encourage ou condamne",
+      "construction progressive depuis l'enfance ou une relation formatrice",
+      "écart possible entre la figure réelle et la figure intérieure",
+      "dialogue qui peut être conscient ou non — pensées automatiques"
+    ],
+
+    "tensionsCentrale": [
+      "figure intérieure qui dit ce que le personnage ne s'autorise pas à penser lui-même",
+      "juge interne qui empêche d'agir librement",
+      "figure protectrice qui devient une limite",
+      "découverte que la personne réelle n'a jamais vraiment dit ce que la voix interne répète",
+      "libération de la figure intérieure — difficile et déstabilisante"
+    ],
+
+    "signesPhysiques": [
+      "pause avant d'agir — comme si on attendait une permission ou un jugement",
+      "geste ou posture emprunté à la figure — la façon de tenir les épaules, de sourire",
+      "voix qui change quand le sujet de la figure est abordé",
+      "regard qui part vers l'intérieur lors d'une décision difficile",
+      "phrase prononcée qui ressemble à ce que la figure dirait"
+    ],
+
+    "dynamiquesTypiques": [
+      "dialogue intérieur avec la figure lors d'un choix difficile",
+      "moment où le personnage réalise qu'il répète un schéma de la figure",
+      "rencontre avec la personne réelle qui ne correspond pas à la figure intérieure",
+      "figure intérieure convoquée pour prendre une décision",
+      "travail de séparation — nommer la voix pour qu'elle perde de son pouvoir"
+    ],
+
+    "masquesPossibles": [
+      "attribuer ses propres jugements à 'ce que X penserait'",
+      "décision présentée comme rationnelle mais dictée par la figure",
+      "refus de reconnaître l'influence de la figure — 'je fais mes propres choix'"
+    ],
+
+    "evolutionsPossibles": [
+      "individuation — le personnage apprend à distinguer sa propre voix de celle de la figure",
+      "réconciliation avec la figure réelle qui modifie la figure intérieure",
+      "transmission à un autre — le personnage devient à son tour une figure intérieure pour quelqu'un",
+      "libération — la figure se tait enfin",
+      "chronicisation — le personnage reste sous l'emprise de la figure toute sa vie"
+    ],
+
+    "exemplesNarratifs": [
+      "voix du père intérieure qui juge les choix professionnels",
+      "mentor dont les mots guident encore des années après sa mort",
+      "juge interne construit à partir d'un parent violent ou humiliant",
+      "modèle idéalisé dont le personnage s'éloigne progressivement"
+    ],
+
+    "notesEditoriales": [
+      "La figure intérieure est un outil narratif puissant pour externaliser la vie intérieure d'un personnage sans tomber dans le monologue intérieur abstrait.",
+      "Elle permet d'ancrer des conflits psychologiques dans des relations concrètes passées.",
+      "À utiliser avec soin : la figure intérieure révèle souvent la blessure fondamentale d'un personnage."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "conflit-intérieur" },
+      { "type": "souvent_associe_a", "cible": "blessure-d-origine" },
+      { "type": "peut_evoluer_en", "cible": "individuation" }
+    ]
+  }
+]

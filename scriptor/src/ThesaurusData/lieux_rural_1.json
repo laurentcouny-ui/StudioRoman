@@ -1,0 +1,692 @@
+[
+  {
+    "id": "grange",
+    "label": "Grange",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "grande porte coulissante en bois brut, dont le rail rouillé grince",
+      "poutres maîtresses noircies par les années, portant des toiles d'araignée épaisses",
+      "sol en terre battue marqué de l'empreinte des sabots et des roues",
+      "ballots de foin empilés en escalier jusqu'au fenil",
+      "fourche plantée dans une meule, manche usé par les mains",
+      "lumière qui filtre en lames obliques par les planches disjointes",
+      "échelle en bois branlante menant au grenier à foin",
+      "vieux outils accrochés à des clous : faux, râteaux, jougs"
+    ],
+    "bruits": [
+      "frémissement continu du foin dans les courants d'air",
+      "grattement des souris dans les poutres",
+      "coups de vent qui font vibrer les planches",
+      "bruissement des hirondelles nichant dans les chevrons",
+      "grincement du rail quand la grande porte est tirée"
+    ],
+    "odeurs": [
+      "foin sec et légèrement fermenté",
+      "poussière de paille mêlée à la terre",
+      "huile de graissage des machines rangées dans un coin",
+      "vieux bois humide aux nœuds sombres"
+    ],
+    "textures": [
+      "bois des poutres rugueux, fissuré, filandreux sous la main",
+      "foin qui pique les avant-bras et s'infiltre dans le col",
+      "sol de terre battue, dur et légèrement granuleux sous les semelles"
+    ],
+    "emotionsTypiques": [
+      "sentiment de refuge et d'isolement du monde",
+      "mélancolie douce face au temps suspendu",
+      "légère inquiétude due à l'obscurité partielle",
+      "nostalgie d'une vie rurale révolue ou idéalisée"
+    ],
+    "usagesNarratifs": [
+      "lieu de cachette ou de rendez-vous secret",
+      "espace de transition entre deux états du personnage",
+      "décor d'une scène de travail physique épuisant",
+      "lieu d'un accident, d'une chute, d'un incendie possible",
+      "espace où un personnage se retrouve seul et réfléchit"
+    ],
+    "tensionsTypiques": [
+      "risque d'incendie omniprésent avec le foin sec",
+      "obscurité qui cache autant qu'elle protège",
+      "isolation complète des regards extérieurs",
+      "structure vieillissante dont on ne sait si elle tient encore"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur",
+        "description": "Voit d'abord l'état du foin, le niveau des stocks, ce qui est à réparer. L'espace est fonctionnel avant d'être sensoriel. Il entre et sort sans s'arrêter."
+      },
+      {
+        "profil": "Enfant de la ville en vacances",
+        "description": "Fasciné par la hauteur du fenil, l'obscurité mystérieuse, l'odeur étrange. Grimpe, fouille, s'imagine des aventures. La grange est un terrain de jeu et d'exploration."
+      },
+      {
+        "profil": "Personnage en fuite ou en détresse",
+        "description": "Perçoit surtout l'isolement et la possibilité de se cacher. Guette les bruits, évalue les sorties possibles, cherche à disparaître derrière les ballots."
+      }
+    ],
+    "notesEditoriales": [
+      "Éviter la description exhaustive : choisir deux ou trois détails sensoriels précis plutôt que d'inventorier l'espace.",
+      "La lumière en lames obliques est un détail visuel fort mais souvent surutilisé — l'associer à un détail sonore ou olfactif pour l'ancrer.",
+      "La grange fonctionne bien comme lieu de révélation ou de rupture car elle isole les personnages du reste du monde."
+    ]
+  },
+  {
+    "id": "etable",
+    "label": "Étable",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "rangée de stalles en bois séparées par des barres métalliques",
+      "chaînes courtes attachant les vaches au licol, usées et luisantes",
+      "caniveau de béton longeant les stalles, strié et souillé",
+      "auge de pierre remplie d'un mélange de paille et de betteraves",
+      "seaux en plastique dépareillés accrochés à des crochets",
+      "tableau de lait accroché au mur, colonnes remplies à la mine de plomb",
+      "ampoule nue suspendue à un fil, lumière jaune et insuffisante"
+    ],
+    "bruits": [
+      "mâchonnement lent et régulier des vaches qui ruminent",
+      "bruit sourd des sabots sur le béton lors des mouvements",
+      "claquement métallique des chaînes contre les barres",
+      "souffle épais et répété des naseaux",
+      "clapotis du lait dans le seau pendant la traite"
+    ],
+    "odeurs": [
+      "fumier chaud et ammoniaqué, persistant dans les vêtements",
+      "lait frais légèrement sucré et tiède",
+      "paille mouillée et fermentée",
+      "haleine herbacée des animaux"
+    ],
+    "textures": [
+      "flanc chaud et légèrement humide de la vache sous la main",
+      "béton froid et irrégulier du sol sous les bottes",
+      "pis ferme puis mou sous les doigts pendant la traite"
+    ],
+    "emotionsTypiques": [
+      "intimité étrange avec l'animal, presque complice",
+      "sentiment de routine immuable et rassurante",
+      "légère répulsion olfactive chez qui n'y est pas habitué",
+      "calme imposé par le rythme lent des bêtes"
+    ],
+    "usagesNarratifs": [
+      "lieu d'un monologue intérieur ou d'une confidence à un animal",
+      "espace où une dispute éclate sans témoins extérieurs",
+      "décor d'une scène de travail quotidien montrant la vie paysanne",
+      "lieu d'une naissance animale aux résonances symboliques"
+    ],
+    "tensionsTypiques": [
+      "animal blessé ou malade créant une urgence silencieuse",
+      "rupture de la routine qui signale un désordre plus profond",
+      "odeur et chaleur oppressantes pour un personnage non habitué",
+      "isolement du reste de la ferme pendant les heures de traite"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Éleveur expérimenté",
+        "description": "Lit chaque animal au premier coup d'œil : sa respiration, sa posture, son appétit. L'odeur ne lui parvient plus vraiment. Il entre dans un état de concentration silencieuse."
+      },
+      {
+        "profil": "Citadin en visite",
+        "description": "Submergé dès l'entrée par l'odeur. Hésite à toucher. Observe les animaux avec un mélange de curiosité et de malaise. Respire par la bouche."
+      },
+      {
+        "profil": "Enfant de la ferme",
+        "description": "L'étable est un espace familier presque affectif. Il a ses préférences parmi les bêtes, leur parle naturellement. La routine de la traite est un repère temporel de sa journée."
+      }
+    ],
+    "notesEditoriales": [
+      "L'étable est un lieu de chaleur animale paradoxalement apaisante — à exploiter si un personnage cherche du réconfort sans mots.",
+      "L'odeur est si caractéristique qu'elle ne nécessite pas d'insistance excessive : une mention suffit pour ancrer le lecteur.",
+      "Un animal malade dans une étable normale crée une dissonance immédiate et efficace pour signaler un tournant narratif."
+    ]
+  },
+  {
+    "id": "poulailler",
+    "label": "Poulailler",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "perchoirs en bois disposés en gradins, tachés de fiente blanche",
+      "nichoirs en bois cloués au mur, garnis de paille",
+      "mangeoire en plastique fendu, remplie de granulés jaunâtres",
+      "grillage rouillé tendu sur une structure en bois",
+      "sol recouvert d'une litière de paille mêlée de plumes et de fiente",
+      "petite porte basse à trappe que les poules franchissent en sautillant",
+      "écuelle d'eau trouble avec des plumes flottantes en surface"
+    ],
+    "bruits": [
+      "caquètement soudain et affolé lors d'une intrusion",
+      "gloussement sourd et continu des poules au repos",
+      "battements d'ailes brusques contre la paroi",
+      "chant du coq en rafale, strident et sans préambule",
+      "grattement des pattes sur la litière"
+    ],
+    "odeurs": [
+      "ammoniaque forte et piquante, irritant les yeux",
+      "plumes humides et légèrement rances",
+      "litière de paille mêlée de fiente sèche"
+    ],
+    "textures": [
+      "œuf encore tiède dans la paume, surface légèrement rugueuse",
+      "plume douce qui colle aux doigts humides",
+      "litière friable et légère sous les semelles"
+    ],
+    "emotionsTypiques": [
+      "agacement face au bruit soudain et imprévisible",
+      "satisfaction simple lors de la collecte des œufs",
+      "légère répulsion olfactive persistante",
+      "amusement devant l'agitation désordonnée des volailles"
+    ],
+    "usagesNarratifs": [
+      "lieu d'une scène routinière révélant le caractère d'un personnage",
+      "espace où une conversation banale prend une tournure inattendue",
+      "décor d'une scène symbolique autour de la mort animale",
+      "lieu où un secret est découvert par hasard"
+    ],
+    "tensionsTypiques": [
+      "prédateur entré dans le poulailler, déclenchant la panique",
+      "maladie se propageant silencieusement parmi les volailles",
+      "querelle sur la gestion ou la propriété des animaux",
+      "œufs manquants qui impliquent un vol ou une négligence"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Paysanne habituée",
+        "description": "Entre sans s'attarder, ramasse les œufs avec gestes précis, vérifie la litière du regard. L'odeur et le bruit ne l'affectent plus. Elle repère immédiatement une poule qui ne va pas bien."
+      },
+      {
+        "profil": "Enfant curieux",
+        "description": "Fasciné par les œufs, effrayé par les battements d'ailes soudains. Tend la main vers une poule et recule. L'expérience mêle excitation et appréhension."
+      },
+      {
+        "profil": "Personnage en deuil ou dans la peine",
+        "description": "Perçoit l'agitation des volailles comme du bruit insupportable. La trivialité du lieu contraste douloureusement avec son état intérieur. Il accomplit le geste machinalement, sans le voir."
+      }
+    ],
+    "notesEditoriales": [
+      "Le poulailler est un lieu de la trivialité du vivant — puissant en contraste avec des enjeux dramatiques élevés.",
+      "L'œuf tiède dans la main est un détail sensoriel simple et très évocateur, à ne pas surutiliser.",
+      "Le caquètement affolé est un signal d'alerte naturel : efficace pour annoncer une intrusion sans la nommer."
+    ]
+  },
+  {
+    "id": "serre",
+    "label": "Serre",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "tactile-olfactif",
+    "elements": [
+      "structure en aluminium et verre dépoli, condensation sur les vitres",
+      "rangées de plants en godets sur des tables en métal galvanisé",
+      "tuyaux d'arrosage orange serpentant au sol entre les rangées",
+      "thermomètre à cadran accroché à un montant, aiguille dans le rouge",
+      "sacs de terreau ouverts, déposés en tas contre la paroi",
+      "plants de tomates montés sur ficelles, fleurs jaunes minuscules",
+      "pots d'engrais et de produits phytosanitaires alignés sur une étagère"
+    ],
+    "bruits": [
+      "dégoulinement de la condensation sur les vitres",
+      "sifflement discret du système de chauffage",
+      "bruissement des feuilles sous le jet d'arrosage",
+      "craquement de la structure métallique sous le vent"
+    ],
+    "odeurs": [
+      "humus chaud et gras, presque sucré",
+      "végétation verte à l'état de croissance, sève légère",
+      "plastique chauffé par le soleil",
+      "engrais azoté légèrement âcre"
+    ],
+    "textures": [
+      "chaleur moite et enveloppante dès l'entrée, difficile à respirer",
+      "feuille de tomate rugueuse et légèrement collante sous le doigt",
+      "terre humide et grasse qui colle à la semelle"
+    ],
+    "emotionsTypiques": [
+      "sensation de cocon, de monde à part protégé",
+      "légère oppression due à la chaleur et à l'air saturé",
+      "concentration et calme du travail minutieux",
+      "satisfaction face à la croissance visible"
+    ],
+    "usagesNarratifs": [
+      "espace de confidence entre deux personnages sans témoins",
+      "lieu symbolisant la patience, la croissance, le travail du temps",
+      "décor d'une scène de labeur méthodique révélant un caractère",
+      "lieu de confrontation dont on ne peut sortir facilement"
+    ],
+    "tensionsTypiques": [
+      "maladie des plants menaçant le travail de toute une saison",
+      "chaleur excessive transformant l'espace en enfermement",
+      "conflit sur les méthodes : naturel contre chimique",
+      "gel nocturne menaçant si le chauffage tombe en panne"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Maraîcher",
+        "description": "Lit l'état des plants, la couleur des feuilles, le taux d'humidité de la terre. La chaleur lui est normale. Il travaille avec une précision quasi chirurgicale."
+      },
+      {
+        "profil": "Visiteur citadin",
+        "description": "Frappé par la chaleur intense dès l'entrée. Trouve l'odeur d'humus presque envahissante. Regarde les plants avec curiosité mais sans les comprendre vraiment."
+      },
+      {
+        "profil": "Personnage claustrophobe",
+        "description": "Supporte mal la chaleur close et l'air saturé d'humidité. Les vitres embuées coupent du dehors. L'espace pourtant grand devient étouffant très vite."
+      }
+    ],
+    "notesEditoriales": [
+      "La serre isole acoustiquement et visuellement du monde extérieur — un espace idéal pour des conversations qui n'auraient pas lieu ailleurs.",
+      "La chaleur moite est une contrainte physique réelle qui peut peser sur une scène longue : à doser.",
+      "La serre suggère toujours le fragile et le conditionnel — la croissance dépend d'un équilibre précaire."
+    ]
+  },
+  {
+    "id": "hangar-agricole",
+    "label": "Hangar agricole",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "structure métallique en arc de cercle, tôle ondulée grise",
+      "tracteur garé au centre, moteur refroidi, capot taché de cambouis",
+      "établi encombré d'outils, clés à molette, chiffons huileux",
+      "jerricans d'huile de vidange alignés contre la paroi",
+      "charrue relevée sur vérins, ses socs luisants de terre sèche",
+      "câbles, chaînes et sangles accrochés à des crochets soudés",
+      "calendrier des foires agricoles collé sur la tôle, coins décollés"
+    ],
+    "bruits": [
+      "écho métallique de chaque bruit amplifié par la tôle",
+      "cliquetis des outils posés sur l'établi",
+      "ronronnement du moteur dieselau démarrage à froid",
+      "vent qui fait vibrer les tôles avec un grondement sourd"
+    ],
+    "odeurs": [
+      "gasoil imprégné dans le sol en béton",
+      "cambouis et graisse moteur, épaisse et persistante",
+      "rouille des outils anciens",
+      "poussière métallique mêlée à l'air extérieur"
+    ],
+    "textures": [
+      "tôle froide et lisse mais couverte de poussière grasse",
+      "graisse épaisse qui noircit immédiatement les doigts",
+      "béton fendu et maculé de taches sombres sous les semelles"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'un monde masculin et fermé",
+      "fascination pour la mécanique et sa complexité",
+      "frustration lors d'une panne impossible à résoudre",
+      "fierté du travail accompli sur une machine remise en état"
+    ],
+    "usagesNarratifs": [
+      "lieu d'une discussion entre père et fils autour d'un moteur",
+      "espace où une dispute sur l'avenir de la ferme éclate",
+      "décor d'un accident mécanique ou d'une blessure",
+      "lieu de solitude masculine, de réflexion sans mots"
+    ],
+    "tensionsTypiques": [
+      "machine en panne en pleine saison des travaux",
+      "coût d'une réparation impossible à assumer",
+      "désaccord sur le remplacement du matériel vieillissant",
+      "risque lié aux produits inflammables stockés"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur mécanicien",
+        "description": "Voit l'état de chaque machine d'un coup d'œil. Repère une fuite, une pièce mal serrée, une courroie usée. L'espace lui appartient entièrement, y compris le désordre."
+      },
+      {
+        "profil": "Héritier qui reprend la ferme à contrecœur",
+        "description": "Perçoit le poids de ce qui l'attend : tout ce matériel à entretenir, à maîtriser. Le hangar ressemble à une charge plus qu'à un outil."
+      },
+      {
+        "profil": "Journaliste ou enquêteur extérieur",
+        "description": "Lit le hangar comme un indice : l'état du matériel dit l'état économique de la ferme. Prend des notes mentales sur ce qui est usé, récent, absent."
+      }
+    ],
+    "notesEditoriales": [
+      "L'écho métallique transforme n'importe quelle scène sonore : une dispute dans un hangar a une résonance physique particulière.",
+      "Le hangar agricole est souvent un espace de transmission — entre générations, entre savoir-faire — à exploiter narrativement.",
+      "Ne pas systématiser la saleté et le désordre : un hangar bien tenu dit quelque chose de différent sur son propriétaire."
+    ]
+  },
+  {
+    "id": "cave-a-vin",
+    "label": "Cave à vin",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "olfactif-tactile",
+    "elements": [
+      "voûte en pierre de taille, pierres suintant légèrement d'humidité",
+      "rangées de bouteilles couchées dans des casiers en bois sombres",
+      "fûts de chêne alignés sur des lambourdes, cerclés de métal",
+      "ampoule à filament orange projetant une lumière rougeoyante",
+      "thermomètre à alcool fixé à la paroi, stable autour de douze degrés",
+      "marques à la craie sur les fûts : millésime, parcelle, date de mise"
+    ],
+    "bruits": [
+      "silence presque absolu, légèrement cotonneux",
+      "goutte d'eau tombant à intervalles irréguliers",
+      "craquement du bois des fûts sous la pression",
+      "froissement des pas sur le sol de tuffeau"
+    ],
+    "odeurs": [
+      "tannins et alcool évaporé, légèrement entêtant",
+      "pierre mouillée et argile froide",
+      "bois de chêne toasté, légèrement vanillé",
+      "moisissure noble sur les bouchons et les parois"
+    ],
+    "textures": [
+      "fraîcheur immédiate sur la peau dès la descente des marches",
+      "pierre rugueuse et humide sous la paume",
+      "bouchon de liège qui résiste puis cède sous le tire-bouchon"
+    ],
+    "emotionsTypiques": [
+      "sentiment de privilège et d'initiation",
+      "calme profond lié au silence et à la fraîcheur",
+      "mélancolie face au temps qui s'écoule dans les fûts",
+      "orgueil discret du vigneron face à ses stocks"
+    ],
+    "usagesNarratifs": [
+      "lieu d'une conversation confidentielle à l'abri des oreilles",
+      "espace symbolisant la patience et l'héritage familial",
+      "décor d'une scène de dégustation révélant le rang social",
+      "lieu de découverte d'un secret caché parmi les fûts"
+    ],
+    "tensionsTypiques": [
+      "piqûre du vin ou problème de fermentation menaçant une récolte",
+      "désaccord sur la vente ou la transmission du domaine",
+      "vol de bouteilles rares révélant une trahison",
+      "température qui monte anormalement, signalant une panne"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Vigneron",
+        "description": "Descend avec des gestes précis et familiers. Tape les fûts pour évaluer le niveau, hume l'air pour détecter une anomalie. La cave est une extension de lui-même."
+      },
+      {
+        "profil": "Acheteur ou négociant",
+        "description": "Observe, jauge, évalue. Fait des commentaires techniques qui sont aussi des négociations. Regarde les étiquettes avec une attention calculée."
+      },
+      {
+        "profil": "Enfant ou adolescent entrant en secret",
+        "description": "Le froid et l'obscurité créent une atmosphère presque sacrée ou effrayante. La cave est un interdit franchissable, un espace des adultes qu'il ne comprend pas encore."
+      }
+    ],
+    "notesEditoriales": [
+      "La cave à vin est l'un des rares espaces ruraux associés au luxe et à la durée — à exploiter pour des enjeux liés à l'héritage.",
+      "Le silence particulier d'une cave voûtée est difficile à rendre : insister sur l'absence de sons extérieurs plutôt que sur le calme abstrait.",
+      "Attention au cliché du vigneron fier de son terroir — complexifier en introduisant une tension économique ou familiale."
+    ]
+  },
+  {
+    "id": "chai",
+    "label": "Chai",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "cuves en inox brossé ou béton époxy alignées sur deux rangées",
+      "tuyaux de transfert en caoutchouc alimentaire accrochés à des crochets",
+      "sol carrelé en pente douce vers un drain central taché de rouge",
+      "pressoir hydraulique massif occupant un angle entier",
+      "pompe centrifuge avec manomètre, ronronnant en période de vinification",
+      "panneau de contrôle des températures de fermentation, voyants verts et rouges",
+      "bac de marc de raisin prêt à être évacué, couleur bordeaux sombre"
+    ],
+    "bruits": [
+      "bullage régulier des cuves en fermentation",
+      "bourdonnement continu des pompes de régulation thermique",
+      "claquement métallique des vannes ouvertes et fermées",
+      "glougloutement du moût transféré d'une cuve à l'autre"
+    ],
+    "odeurs": [
+      "alcool en fermentation, sucré et légèrement piquant",
+      "marc de raisin fermenté, lourd et vineux",
+      "SO2 d'ajout, légèrement soufré",
+      "inox propre à l'acide tartrique lors du nettoyage"
+    ],
+    "textures": [
+      "sol carrelé glissant sous les bottes de caoutchouc",
+      "cuve métallique froide au toucher même en été",
+      "marc de raisin compact et granuleux sous la pelle"
+    ],
+    "emotionsTypiques": [
+      "tension technique pendant la fermentation, surveillance constante",
+      "fierté contrôlée face au travail en cours",
+      "fatigue profonde des vendanges qui s'accumule",
+      "anxiété sourde si une cuve montre une anomalie"
+    ],
+    "usagesNarratifs": [
+      "lieu d'une scène de travail technique intense et concentré",
+      "espace de confidence entre associés ou héritiers du domaine",
+      "décor d'un accident ou d'une intoxication au CO2",
+      "lieu symbolisant la transformation, le passage d'un état à un autre"
+    ],
+    "tensionsTypiques": [
+      "fermentation qui part mal, enjeu économique immédiat",
+      "risque d'asphyxie par le CO2 dégagé par les cuves",
+      "conflit sur les choix techniques entre tradition et modernité",
+      "une cuve qui fuit en pleine nuit pendant les vendanges"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Œnologue",
+        "description": "Lit les données, prélève, analyse, ajuste. Son regard va aux instruments avant de regarder les cuves. Chaque décision est calculée et documentée."
+      },
+      {
+        "profil": "Saisonnier des vendanges",
+        "description": "Découvre un univers technique qui lui était inconnu. Les odeurs entêtantes et le bruit continu des pompes l'étourdissent un peu. Le travail est physique et répétitif."
+      },
+      {
+        "profil": "Enfant du propriétaire",
+        "description": "Connaît l'espace par cœur mais ne le comprend pas encore pleinement. Le chai est l'espace du père, de l'autorité technique. Il y entre avec un respect légèrement craintif."
+      }
+    ],
+    "notesEditoriales": [
+      "Le chai en période de vendanges est un espace de tension professionnelle extrêmement fertile narrativement.",
+      "Le danger réel du CO2 dans une cuve fermée est peu connu — l'intégrer comme tension latente crédibilise la scène.",
+      "Différencier le chai (vinification, cuves) de la cave (vieillissement, barriques) pour éviter la confusion."
+    ]
+  },
+  {
+    "id": "four-banal",
+    "label": "Four banal",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "tactile-olfactif",
+    "elements": [
+      "voûte en pierre de granit ou de calcaire, noircie par des siècles de feu",
+      "sole en briques réfractaires, lisse et gris cendre",
+      "gueule du four sombre, large comme une porte basse",
+      "pelle de boulanger en bois, manche long, appuyée contre le mur",
+      "fagots de bois sec entassés dans un appentis attenant",
+      "arc de pierre au-dessus de l'ouverture, souvent daté ou gravé",
+      "cendres tassées dans le coin de la sole, grises et légères"
+    ],
+    "bruits": [
+      "crépitement du bois qui brûle en phase de chauffe",
+      "sifflement du tirage d'air dans la cheminée",
+      "silence épais quand le feu est retiré et la gueule fermée",
+      "craquement de la voûte qui se dilate sous la chaleur"
+    ],
+    "odeurs": [
+      "fumée de bois fruitier ou de chêne, selon la région",
+      "pain qui cuit, croûte caramélisée et mie chaude",
+      "cendres froides et légèrement soufrées entre deux fournées"
+    ],
+    "textures": [
+      "chaleur rayonnante intense sur le visage et les avant-bras",
+      "manche de la pelle lisse et usé par les mains des générations",
+      "pain chaud, croûte résistante puis mie molle sous les doigts"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'appartenance à une communauté villageoise",
+      "chaleur humaine liée au rassemblement autour du feu",
+      "nostalgie d'un temps collectif révolu",
+      "satisfaction profonde d'un travail ancestral accompli"
+    ],
+    "usagesNarratifs": [
+      "décor d'une scène communautaire et de transmission de savoir",
+      "lieu symbolisant la solidarité ou son absence dans un village",
+      "espace d'une dispute entre voisins sur son usage",
+      "moment de rupture si le four est abandonné ou détruit"
+    ],
+    "tensionsTypiques": [
+      "conflit de propriété ou d'usage entre habitants",
+      "un feu mal maîtrisé qui risque de se propager",
+      "disparition progressive de cet usage collectif, dernier gardien",
+      "rivalité entre familles pour la priorité d'utilisation"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Ancienne paysanne",
+        "description": "Connaît le four par cœur : comment l'enfourner, à quelle heure le feu doit être retiré, comment lire la couleur des briques. C'est un savoir incarné transmis par sa mère."
+      },
+      {
+        "profil": "Néorural récent",
+        "description": "Perçoit le four comme un trésor patrimonial et romantique. Veut le restaurer, l'utiliser. Son enthousiasme peut heurter les anciens qui y voient surtout du travail."
+      },
+      {
+        "profil": "Enfant du village",
+        "description": "Se souvient du four comme d'un espace presque magique : la chaleur intense, l'attente, le pain qui sort. Le four banal est lié à la fête plus qu'au labeur."
+      }
+    ],
+    "notesEditoriales": [
+      "Le four banal est un lieu de mémoire collective — idéal pour des scènes qui parlent de transmission, de disparition ou de renaissance communautaire.",
+      "La chaleur y est physiquement présente comme personnage : elle impose son rythme, sa durée, ses contraintes.",
+      "Éviter d'en faire uniquement un lieu folklorique — le conflit d'usage en fait un espace de tension sociale réelle."
+    ]
+  },
+  {
+    "id": "pigeonnier",
+    "label": "Pigeonnier",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "tour ronde ou carrée en pierres, dépassant légèrement du bâti de ferme",
+      "lucarnes régulièrement espacées, certaines obstruées par des plantes grimpantes",
+      "colombier intérieur avec rangées de boulins en briques, creusés en nids",
+      "plancher couvert de fiente blanche et sèche, épaisse par endroits",
+      "lumière fragmentée entrant par les lucarnes en faisceaux obliques",
+      "plumes grises et blanches dispersées sur le sol en cercles",
+      "échelle de bois menant aux niveaux supérieurs, barreaux usés"
+    ],
+    "bruits": [
+      "roucoulement continu et sourd, presque méditatif",
+      "battements d'ailes brusques lors d'un mouvement soudain",
+      "froissement de plumes dans les boulins",
+      "voix amplifiée par la tour, légèrement creuse"
+    ],
+    "odeurs": [
+      "fiente de pigeon sèche et forte, âcre",
+      "poussière de plumes et de calcaire",
+      "air confiné et tiède des corps des oiseaux"
+    ],
+    "textures": [
+      "briques des boulins lisses et froides",
+      "plumes qui glissent entre les doigts, légères",
+      "fiente sèche qui s'effrite sous les semelles"
+    ],
+    "emotionsTypiques": [
+      "sentiment de hauteur et de retrait du monde",
+      "légère mélancolie face à l'usage désuet",
+      "paix étrange liée au roucoulement continu",
+      "malaise pour qui n'aime pas les oiseaux ou l'enfermement"
+    ],
+    "usagesNarratifs": [
+      "lieu de cachette ou de surveillance discrète",
+      "espace symbolisant le messager, la communication secrète",
+      "décor d'une scène d'enfance ou de jeu interdit",
+      "lieu d'un événement passé dont il reste une trace"
+    ],
+    "tensionsTypiques": [
+      "quelque chose de caché dans les boulins supérieurs",
+      "crainte de la hauteur pour un personnage qui doit y monter",
+      "pigeons malades ou morts signalant une anomalie",
+      "conflit sur la propriété ou la réhabilitation de la tour"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Propriétaire nostalgique",
+        "description": "Voit dans la tour un symbole de la ferme d'autrefois, de la prospérité ancienne. N'a plus de pigeons mais monte parfois pour rien, pour regarder les champs."
+      },
+      {
+        "profil": "Architecte ou restaurateur",
+        "description": "Évalue la structure, repère les fissures, mesure les boulins. Voit une belle pièce de patrimoine vernaculaire à sauver ou à réhabiliter."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Monte en cachette, fasciné par les oiseaux et par la vue depuis le haut. Le pigeonnier est un territoire interdit, donc irrésistible."
+      }
+    ],
+    "notesEditoriales": [
+      "Le pigeonnier associe hauteur, isolement et discrétion — un lieu idéal pour des scènes de surveillance ou de secret.",
+      "Son usage historique comme outil de communication (pigeons voyageurs) peut nourrir une métaphore narrative.",
+      "Différencier le pigeonnier habité (avec volatiles) du pigeonnier abandonné : l'atmosphère y est radicalement différente."
+    ]
+  },
+  {
+    "id": "moulin-a-vent",
+    "label": "Moulin à vent",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "tour cylindrique en pierres sèches, chapeau tournant en bois goudronné",
+      "ailes en bois et toile, souvent incomplètes ou immobiles",
+      "porte basse et épaisse en chêne, serrure à clé ancienne",
+      "meules en grès posées l'une sur l'autre, gorge centrale usée",
+      "trémie en bois au-dessus des meules, couverte de farine grise",
+      "poutres de transmission en bois, engrenages en métal forgé",
+      "poudre de farine ancienne incrustée dans les fissures des pierres"
+    ],
+    "bruits": [
+      "grincement des ailes en rotation lors du vent fort",
+      "grondement sourd des meules quand le moulin fonctionne",
+      "sifflement du vent autour de la tour",
+      "craquement de la structure de bois sous la torsion"
+    ],
+    "odeurs": [
+      "farine ancienne et légèrement rance dans les recoins",
+      "vieux bois huilé des engrenages",
+      "air du large quand la porte est ouverte, portant la poussière"
+    ],
+    "textures": [
+      "meule en grès, rugueuse et froide comme du grès fin",
+      "farine tassée dans les fissures, soyeuse sous le doigt",
+      "bois des ailes, lisse en surface mais fissuré dans la masse"
+    ],
+    "emotionsTypiques": [
+      "fascination pour la mécanique ancienne et sa puissance",
+      "mélancolie face à l'arrêt définitif d'un outil",
+      "sentiment d'isolement lié à la hauteur et au vent",
+      "émerveillement enfantin devant les ailes en mouvement"
+    ],
+    "usagesNarratifs": [
+      "lieu emblématique d'une lutte ou d'une folie (réf. Don Quichotte)",
+      "espace de veille ou de surveillance du paysage alentour",
+      "décor d'une scène symbolisant l'impuissance ou la résistance",
+      "lieu de rencontre isolé et difficile d'accès"
+    ],
+    "tensionsTypiques": [
+      "structure déstabilisée par un vent extrême",
+      "accès dangereux lors d'une tempête",
+      "conflit patrimonial sur la restauration ou l'abandon",
+      "quelqu'un bloqué à l'intérieur ou sur les ailes"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Touriste de passage",
+        "description": "Voit un symbole pittoresque, prend des photos, s'approche prudemment. N'entend que le vent et voit surtout l'extérieur. La dimension mécanique lui échappe."
+      },
+      {
+        "profil": "Descendant du meunier",
+        "description": "Entre avec un mélange de fierté et de tristesse. Reconnaît chaque outil, chaque poutre. La farine ancienne sur les pierres est une présence familiale."
+      },
+      {
+        "profil": "Enfant qui vient seul",
+        "description": "Perçoit le moulin comme une forteresse, un château. Le grincement des ailes est à la fois effrayant et magnétique. Il monte aussi haut que possible."
+      }
+    ],
+    "notesEditoriales": [
+      "Le moulin à vent est un lieu chargé d'intertextualité — l'utiliser en connaissance de cause ou choisir de le traiter dans sa matérialité brute.",
+      "Le mouvement des ailes crée un rythme visuel et sonore rare : à exploiter pour des scènes à tension montante.",
+      "Un moulin à l'arrêt dit quelque chose de différent d'un moulin en fonctionnement : choisir l'état du lieu en fonction de l'état du récit."
+    ]
+  }
+]

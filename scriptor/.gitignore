@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+
+# Rust / Tauri (chemins absolus dans target → ne pas versionner)
+src-tauri/target/
+dist-ssr
+*.local
+.env
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Corpus correcteur : textes extraits (regen : npm run extract:corrector-sources)
+src/corrector/database/processed/*.txt
+
+# Cache téléchargement / extraction XPI Gramalecte (regen : npm run vendor:gramalecte-fr)
+.cache-gramalecte-xpi/
+.cache-gramalecte-vendor/
+
+# LanguageTool + JRE embarqués (regen : npm run vendor:languagetool-bundled)
+.cache-languagetool-bundled/
+src-tauri/resources/languagetool/jre/
+src-tauri/resources/languagetool/languagetool-server.jar

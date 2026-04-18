@@ -1,0 +1,600 @@
+[
+  {
+    "id": "bouc-emissaire-collectif",
+    "label": "Bouc émissaire collectif",
+    "alias": [
+      "bouc émissaire",
+      "bouc emissaire",
+      "exclusion collective",
+      "désignation collective",
+      "designation collective",
+      "victime du groupe",
+      "persécution collective",
+      "persecution collective",
+      "mise à l'index",
+      "mise a l'index"
+    ],
+    "famille": "conflits-de-groupe",
+    "sousCategorie": "exclusion-et-projection",
+    "definitionCourte": "Un groupe désigne un membre comme responsable de ses tensions ou échecs, et lui fait porter collectivement ce que chacun refuse de s'attribuer.",
+    "forcesEnPresence": [
+      "tension interne du groupe cherchant un exutoire",
+      "membre vulnérable, différent ou déjà fragilisé",
+      "dynamique collective qui légitime progressivement l'exclusion",
+      "besoin du groupe de maintenir sa cohésion par l'opposition à un autre",
+      "leader ou figure influente qui oriente la désignation",
+      "silence de ceux qui savent que c'est injuste mais ne disent rien"
+    ],
+    "declencheursFrequents": [
+      "échec ou crise du groupe qui réclame un responsable",
+      "différence visible — opinion, origine, comportement — qui devient une cible",
+      "leader ou figure influente qui désigne explicitement ou implicitement",
+      "besoin du groupe de renforcer sa cohésion par l'exclusion d'un autre",
+      "erreur réelle du personnage transformée en preuve de sa défectuosité globale",
+      "arrivée de quelqu'un qui remet en question l'ordre établi",
+      "période de stress collectif qui cherche une cause simple"
+    ],
+    "signauxAvantCoureurs": [
+      "conversations qui s'arrêtent quand le personnage entre",
+      "ses propositions ignorées là où celles des autres sont accueillies",
+      "petites provocations testant sa réaction — cherchant un prétexte",
+      "blagues à ses dépens tolérées par le groupe sans réaction",
+      "regard des autres qui glisse sans s'accrocher au sien",
+      "invitations qui se raréfient sans explication",
+      "ses erreurs relevées là où celles des autres passent inaperçues",
+      "micro-exclusions accumulées — la dernière information, la dernière réunion"
+    ],
+    "silencesEtNonDits": [
+      "ce que le groupe évite de voir en lui-même et projette sur le bouc émissaire",
+      "le malaise de ceux qui savent que c'est injuste mais ne disent rien",
+      "la solitude du bouc émissaire qui ne comprend pas ce qui lui arrive",
+      "la question que personne ne pose : pourquoi lui ?",
+      "ce que chaque membre du groupe sacrifie en participant au mécanisme",
+      "la solidarité possible entre le bouc émissaire et un membre qui doute — jamais exprimée"
+    ],
+    "penseesTypiques": [
+      "Qu'est-ce que j'ai fait de mal ?",
+      "Pourquoi est-ce que tout le monde se retourne contre moi ?",
+      "Je dois faire quelque chose pour les convaincre que je ne suis pas le problème.",
+      "Si j'essaie encore, peut-être qu'ils vont me laisser une chance.",
+      "Il y a forcément quelque chose qui ne va pas chez moi.",
+      "Ils ont tous l'air de savoir quelque chose que je ne sais pas.",
+      "Je ne comprends pas. Hier encore tout allait bien.",
+      "Est-ce que j'aurais dû voir ça venir ?",
+      "Si je pars, est-ce que ça s'arrête ?"
+    ],
+    "comportementsTypiques": [
+      "redouble d'efforts pour regagner la faveur du groupe",
+      "cherche une explication rationnelle à chaque signe d'exclusion",
+      "se conforme davantage pour ne pas se distinguer",
+      "tente des rapprochements discrets qui aggravent parfois la situation",
+      "se retire progressivement pour éviter la souffrance",
+      "cherche un allié dans le groupe — souvent en vain",
+      "remet en question ses propres comportements passés",
+      "alterne entre tentatives de réintégration et repli défensif"
+    ],
+    "positionsDePouvoir": [
+      "le groupe détient le pouvoir symbolique de l'appartenance",
+      "le bouc émissaire est progressivement privé de sa capacité à se défendre",
+      "les membres silencieux ont un pouvoir non exercé — leur silence est un soutien actif au mécanisme",
+      "le leader ou figure centrale a le pouvoir d'arrêter ou d'amplifier le processus"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Mise à l'écart discrète", "description": "Le personnage est progressivement moins inclus. Les signes sont subtils — on ne lui parle plus en premier, on ne l'invite plus aux marges." },
+      { "niveau": 2, "label": "Critique ciblée", "description": "Ses erreurs sont relevées là où celles des autres passent. On lui attribue des causes sans l'entendre." },
+      { "niveau": 3, "label": "Désignation implicite", "description": "Tout le monde sait, sans que rien ne soit dit explicitement. Le bouc émissaire le sait aussi mais n'a pas de prise." },
+      { "niveau": 4, "label": "Accusation ouverte", "description": "Il est formellement désigné comme problème. L'exclusion devient visible et revendiquée." },
+      { "niveau": 5, "label": "Expulsion ou destruction", "description": "Le groupe élimine le bouc émissaire — par le renvoi, l'ostracisme total ou la destruction de sa réputation." }
+    ],
+    "variantes": [
+      {
+        "profil": "Le différent",
+        "description": "Il est bouc émissaire parce qu'il n'est pas comme les autres — une différence visible ou invisible qui cristallise les tensions. Le groupe projette sur lui ce qu'il ne veut pas reconnaître en lui-même."
+      },
+      {
+        "profil": "L'ancien allié déchu",
+        "description": "Il était dans le groupe, proche du centre. Sa chute est d'autant plus violente qu'il avait confiance. Le retournement est vécu comme une trahison totale."
+      },
+      {
+        "profil": "Le candide",
+        "description": "Il ne comprend pas ce qui se passe. Sa naïveté ou son honnêteté aggrave la situation — le groupe les interprète comme de l'arrogance ou du mépris."
+      }
+    ],
+    "escaladeTypique": [
+      "premier signal d'exclusion — subtil, rationalisable",
+      "accumulation de micro-exclusions",
+      "désignation implicite reconnue par tous sauf par lui",
+      "confrontation ouverte ou exclusion formelle",
+      "départ forcé ou isolement total"
+    ],
+    "voiesDeResolution": [
+      "un membre du groupe rompt le silence et nomme l'injustice",
+      "le groupe est confronté à une crise qui rend le mécanisme visible",
+      "le bouc émissaire quitte le groupe et reconstruit ailleurs",
+      "une figure d'autorité extérieure intervient",
+      "le groupe perd son bouc émissaire et doit affronter ce qu'il projetait sur lui"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience passée d'exclusion qui rend le personnage incapable de lire les signaux d'alerte",
+      "besoin d'appartenance si fort qu'il minimise les signes de rejet",
+      "conviction que si on est assez bon ou loyal, le groupe finira par l'accepter",
+      "histoire familiale d'être le membre désigné comme problème",
+      "différence réelle ou perçue qui a toujours rendu l'appartenance précaire"
+    ],
+    "contextesFavorables": [
+      "groupe sous pression — économique, sociale, existentielle",
+      "groupe sans mécanisme de parole ou de régulation interne",
+      "contexte où un bouc émissaire résout une tension structurelle",
+      "groupe dont la cohésion dépend de l'opposition à un autre",
+      "période de crise ou de transition qui exige un responsable"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage différent du groupe par l'origine, les valeurs ou le comportement",
+      "personnage en position précaire dans le groupe — nouveau, marginal, récemment déchu",
+      "personnage dont l'honnêteté ou la franchise dérange",
+      "personnage déjà marqué par des expériences d'exclusion passées",
+      "personnage qui manque des codes implicites du groupe"
+    ],
+    "erreursDEcriture": [
+      "Rendre le bouc émissaire entièrement innocent et le groupe entièrement coupable — les mécanismes de groupe sont plus diffus et plus inconscients.",
+      "Ne pas montrer les membres qui savent et ne font rien — c'est là que la dynamique tient vraiment.",
+      "Résoudre trop vite par une révélation qui disculpe — la réhabilitation est rarement aussi nette.",
+      "Oublier ce que le bouc émissaire perd de lui-même dans le processus — pas seulement sa place dans le groupe.",
+      "Ne pas montrer ce que le groupe perd aussi — le mécanisme du bouc émissaire est destructeur pour tous."
+    ],
+    "notesEditoriales": [
+      "Le mécanisme du bouc émissaire est universel — il fonctionne dans les familles, les entreprises, les nations.",
+      "Sa force narrative vient du fait que personne dans le groupe ne se voit comme coupable — chacun a une bonne raison.",
+      "Distinguer le bouc émissaire conscient de sa situation de celui qui ne comprend pas — les deux donnent des arcs très différents.",
+      "Le membre du groupe qui voit et se tait est souvent le personnage le plus intéressant de cette dynamique."
+    ],
+    "dynamiqueAssociee": { "id": "bouc-emissaire-de-groupe", "label": "Bouc émissaire de groupe" }
+  },
+  {
+    "id": "chef-conteste",
+    "label": "Chef contesté",
+    "alias": [
+      "chef contesté",
+      "chef conteste",
+      "leader contesté",
+      "leader conteste",
+      "crise de leadership",
+      "autorité remise en question",
+      "autorite remise en question",
+      "pouvoir menacé",
+      "pouvoir menace",
+      "lutte pour le leadership"
+    ],
+    "famille": "conflits-de-groupe",
+    "sousCategorie": "crise-de-leadership",
+    "definitionCourte": "L'autorité d'un leader est remise en cause au sein du groupe — par ses erreurs, par l'émergence d'un rival, ou parce que les circonstances ont changé et qu'il ne semble plus à la hauteur.",
+    "forcesEnPresence": [
+      "leader affaibli ou dont la légitimité est questionnée",
+      "groupe qui remet en question son autorité — en partie ou en totalité",
+      "rival explicite ou faction dissidente en formation",
+      "loyaux qui défendent le chef contre ceux qui veulent le changement",
+      "enjeux concrets — décisions, direction, survie du groupe — qui cristallisent la tension",
+      "passé du leader — ce qu'il a accompli — contre présent insuffisant"
+    ],
+    "declencheursFrequents": [
+      "erreur grave du leader — mauvaise décision, trahison, faiblesse exposée",
+      "crise qui révèle une inadéquation entre le leader et les besoins du moment",
+      "émergence d'un rival plus capable, plus charismatique ou plus légitime",
+      "changement de contexte qui rend les méthodes du leader obsolètes",
+      "révélation d'une information qui remet en cause sa crédibilité",
+      "succès d'un membre qui éclipse le leader",
+      "contestation publique qui force le groupe à se positionner"
+    ],
+    "signauxAvantCoureurs": [
+      "décisions du leader de plus en plus contestées sans confrontation frontale",
+      "apartés plus fréquents entre membres sans le leader",
+      "rival qui commence à émerger — souvent présenté comme un soutien",
+      "erreurs du leader soulignées là où on les ignorait avant",
+      "enthousiasme moindre à l'exécution des directives",
+      "questions posées sur la direction prise — poliment d'abord, puis moins",
+      "membres qui se réfèrent au rival plutôt qu'au leader dans les conversations"
+    ],
+    "silencesEtNonDits": [
+      "ce que le leader pense vraiment de ceux qui le contestent",
+      "la peur du leader de ne plus être ce qu'il était",
+      "ce que le groupe espère du changement — et ce qu'il redoute",
+      "la loyauté de ceux qui restent silencieux — et pourquoi ils se taisent",
+      "ce que le rival veut vraiment — la position, ou autre chose",
+      "ce que le groupe perdrait si le leader partait — personne ne le dit"
+    ],
+    "penseesTypiques": [
+      "Ils ne comprennent pas ce que j'ai construit.",
+      "Je leur ai tout donné. Et maintenant ça.",
+      "Il les séduit parce qu'il n'a jamais eu à prendre les vraies décisions.",
+      "Si je cède sur ça, c'est fini.",
+      "Peut-être qu'ils ont raison. Peut-être que je ne suis plus ce qu'il faut.",
+      "Je ne vais pas laisser quelqu'un démanteler ce que j'ai mis des années à bâtir.",
+      "Où étaient-ils quand c'était difficile ?",
+      "Est-ce que c'est moi qui ai changé, ou eux ?",
+      "Je dois reprendre le contrôle avant que ça aille plus loin."
+    ],
+    "comportementsTypiques": [
+      "resserre le contrôle — plus de décisions déléguées",
+      "cherche à identifier les membres de la faction adverse",
+      "multiplie les signes de présence et d'autorité",
+      "teste les loyautés une à une",
+      "minimise ou ridiculise les arguments du rival",
+      "fait appel à la mémoire commune — ce qu'il a accompli, ce qu'il a sacrifié",
+      "récompense ostensiblement les loyaux",
+      "prend des décisions spectaculaires pour rappeler sa pertinence"
+    ],
+    "positionsDePouvoir": [
+      "le leader a le pouvoir formel — mais le pouvoir informel lui échappe progressivement",
+      "le rival construit un contre-pouvoir symbolique avant de revendiquer le formel",
+      "les membres neutres sont en réalité la vraie ressource à conquérir",
+      "les loyaux du leader ont un pouvoir de résistance mais aussi de précipitation"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Grogne discrète", "description": "Des doutes existent mais restent privés. Le leader ne les voit pas ou les ignore. La surface est calme." },
+      { "niveau": 2, "label": "Critique exprimée", "description": "Des voix commencent à s'élever — en aparté, puis lors de réunions. Le leader doit répondre." },
+      { "niveau": 3, "label": "Faction visible", "description": "Un sous-groupe conteste ouvertement. Le groupe est divisé et chacun doit choisir un camp." },
+      { "niveau": 4, "label": "Confrontation directe", "description": "Le défi est posé formellement. Le leader doit y répondre ou perdre la face." },
+      { "niveau": 5, "label": "Renversement ou départ", "description": "Le leader est remplacé, écarté ou quitte. Le groupe doit se reconfigurer avec ou sans lui." }
+    ],
+    "variantes": [
+      {
+        "profil": "Leader vieillissant",
+        "description": "Il a bâti quelque chose, mais le monde a changé. Sa légitimité est historique, sa pertinence actuelle est discutée. Il se bat autant contre le temps que contre ses successeurs."
+      },
+      {
+        "profil": "Leader qui a trahi",
+        "description": "Il a fait quelque chose d'impardonnable pour une partie du groupe. Sa légitimité morale est atteinte avant même sa légitimité pratique."
+      },
+      {
+        "profil": "Leader face à un rival séduisant",
+        "description": "Quelqu'un d'autre attire les fidélités. La lutte est moins sur les idées que sur les personnes. Le rival n'a pas encore fait ses preuves — c'est sa force."
+      }
+    ],
+    "escaladeTypique": [
+      "doutes discrets sur les capacités ou la direction du leader",
+      "premier acte de contestation — question, erreur mise en avant",
+      "formation de factions — pour et contre",
+      "confrontation directe ou crise qui force un choix",
+      "résolution — le leader se maintient, se transforme, ou est remplacé"
+    ],
+    "voiesDeResolution": [
+      "le leader reconnaît ses erreurs et se réinvente — la contestation devient moteur",
+      "le rival prend le pouvoir et révèle ses propres limites",
+      "une crise externe réunifie le groupe autour du leader",
+      "le leader part de lui-même — la grandeur du retrait",
+      "un compromis est trouvé — partage du pouvoir ou réforme de la gouvernance"
+    ],
+    "blessuresUnderlyantes": [
+      "identité du leader entièrement construite autour de son rôle — le perdre serait perdre tout",
+      "passé de lutte pour prendre ce pouvoir — ce qu'il a sacrifié pour l'obtenir",
+      "expérience d'avoir été le rival, jadis — et ce que ça lui a coûté",
+      "trahison passée dans un contexte similaire",
+      "père ou figure tutélaire lui-même renversé — la répétition"
+    ],
+    "contextesFavorables": [
+      "groupe en crise qui a besoin d'un changement",
+      "organisation qui a dépassé le stade où elle a été fondée",
+      "contexte de succession non préparée",
+      "groupe dont les valeurs ont évolué sans que le leader suive",
+      "moment de victoire ou d'échec collectif qui redistribue les mérites"
+    ],
+    "personnagesSouventConcernes": [
+      "leader fondateur confronté à la croissance de ce qu'il a créé",
+      "chef militaire ou politique en période de crise",
+      "parent dont l'autorité est remise en question par ses enfants devenus adultes",
+      "dirigeant dont le style ne correspond plus aux attentes du groupe",
+      "leader dont la santé, l'âge ou les erreurs ont érodé la légitimité"
+    ],
+    "erreursDEcriture": [
+      "Rendre le challenger clairement meilleur — l'ambiguïté sur qui a raison est plus intéressante et plus vraie.",
+      "Ne pas montrer ce que le leader a vraiment accompli — sa chute doit coûter quelque chose au lecteur aussi.",
+      "Oublier que le groupe lui-même change dans cette crise — pas seulement le sommet.",
+      "Réduire à une lutte de personnalités — c'est aussi une crise sur la direction et les valeurs.",
+      "Ne pas montrer le coût pour le rival qui gagne — prendre le pouvoir a toujours un prix."
+    ],
+    "notesEditoriales": [
+      "La crise de leadership est l'une des dynamiques collectives les plus riches parce qu'elle force chaque membre à se positionner.",
+      "Sa force narrative vient de l'ambiguïté : souvent, le leader ET le rival ont raison sur certains points.",
+      "Distinguer la contestation qui améliore le groupe de celle qui le détruit — les deux sont possibles.",
+      "Le personnage le plus intéressant dans cette dynamique est parfois celui qui reste neutre — et ce que sa neutralité coûte."
+    ]
+  },
+  {
+    "id": "trahison-dans-groupe",
+    "label": "Trahison au sein du groupe",
+    "alias": [
+      "trahison dans le groupe",
+      "trahison interne",
+      "traître dans le groupe",
+      "traitre dans le groupe",
+      "infiltré",
+      "infiltre",
+      "ennemi intérieur",
+      "ennemi interieur",
+      "double jeu",
+      "retournement"
+    ],
+    "famille": "conflits-de-groupe",
+    "sousCategorie": "rupture-de-confiance-collective",
+    "definitionCourte": "Un membre du groupe retourne contre les siens — en transmettant des informations à l'extérieur, en sabotant de l'intérieur, ou en prenant parti contre le groupe au moment décisif.",
+    "forcesEnPresence": [
+      "loyauté au groupe contre loyauté à autre chose — un idéal, une personne, un intérêt",
+      "groupe qui fait confiance sans mesurer sa vulnérabilité",
+      "traître qui porte seul un secret ou une décision que les autres ignorent",
+      "pression extérieure ou intérieure qui a rendu la trahison possible",
+      "tension entre ce que le groupe incarne et ce que le traître croit vraiment",
+      "intérêts du groupe contre intérêts propres du traître"
+    ],
+    "declencheursFrequents": [
+      "offre extérieure qui dépasse ce que le groupe peut donner",
+      "conviction que le groupe s'est trompé et qu'il faut agir en dehors",
+      "pression ou menace qui pousse à sacrifier le groupe pour se protéger",
+      "loyauté à une personne extérieure plus forte que la loyauté au groupe",
+      "sentiment d'avoir été trahi par le groupe en premier",
+      "opportunité unique qui ne se représentera pas",
+      "moment de doute profond sur ce que le groupe représente vraiment"
+    ],
+    "signauxAvantCoureurs": [
+      "absences inexpliquées lors des moments importants",
+      "défense de positions proches de l'adversaire sans en avoir l'air",
+      "questions qui sondent les plans sans sembler s'y intéresser",
+      "distanciation progressive des liens les plus forts dans le groupe",
+      "légère désynchronisation — moins présent dans les victoires, moins touché par les défaites",
+      "nervosité inhabituellement contenue dans des situations qui devraient l'émouvoir",
+      "accès à des informations qui dépassent sa position officielle"
+    ],
+    "silencesEtNonDits": [
+      "la raison vraie de la trahison — souvent différente de la justification avancée",
+      "la culpabilité que le traître n'a peut-être pas complètement éteinte",
+      "ce que le groupe aurait dû voir et n'a pas voulu voir",
+      "la question : qui d'autre savait ou se doutait ?",
+      "ce que la trahison dit des failles du groupe — pas seulement du traître",
+      "l'attachement résiduel que le traître peut encore ressentir pour les siens"
+    ],
+    "penseesTypiques": [
+      "Je leur suis encore loyal — à ma façon.",
+      "Ils ne comprendraient pas si je leur expliquais.",
+      "J'ai attendu trop longtemps. Il fallait agir.",
+      "Si les rôles étaient inversés, est-ce qu'ils feraient différemment ?",
+      "Ce que je fais est nécessaire, même s'ils ne le verront jamais comme ça.",
+      "Chaque fois que je les regarde en face, ça devient plus difficile.",
+      "Je dois cloisonner. Sinon je ne peux pas continuer.",
+      "Est-ce que je suis encore l'un d'eux ?",
+      "Quand ça sortira — et ça sortira — qu'est-ce qu'il restera ?"
+    ],
+    "comportementsTypiques": [
+      "compartimente soigneusement ses deux vies",
+      "redouble d'apparence de loyauté pour compenser",
+      "évite les moments d'intimité qui pourraient l'exposer",
+      "surveille les signes que quelqu'un se doute",
+      "se montre plus présent aux moments symboliques — pour ne pas se faire remarquer par son absence",
+      "cherche des informations sans en avoir l'air",
+      "crée des alibis et des cohérences dans son récit",
+      "maintient des rituels du groupe avec une précision légèrement excessive"
+    ],
+    "positionsDePouvoir": [
+      "le traître exerce un pouvoir caché — pendant toute la période du double jeu",
+      "le groupe est vulnérable exactement là où il croyait être protégé",
+      "après la révélation, le groupe doit se reconstruire avec la conscience de sa vulnérabilité",
+      "celui à qui le traître se soumet a un pouvoir sur lui — souvent plus grand qu'il ne l'admettrait"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Infidélité discrète", "description": "Le personnage partage des informations sans y voir une trahison. Il se dit qu'il ne fait pas vraiment de mal." },
+      { "niveau": 2, "label": "Double jeu actif", "description": "Il joue sur les deux tableaux, en cherchant à préserver sa position dans le groupe tout en le trahissant." },
+      { "niveau": 3, "label": "Trahison consciente", "description": "Il sait ce qu'il fait. Il a fait un choix. Il vit avec — et surveille." },
+      { "niveau": 4, "label": "Sabotage actif", "description": "Il agit délibérément contre les intérêts du groupe — informations transmises, actions bloquées, alliances défaites." },
+      { "niveau": 5, "label": "Trahison révélée", "description": "La vérité éclate. Le groupe réagit — colère, rupture, exclusion. Le traître doit assumer ou fuir." }
+    ],
+    "variantes": [
+      {
+        "profil": "Trahison idéologique",
+        "description": "Il pense que le groupe a tort. Il se vit en résistant plutôt qu'en traître — et peut avoir raison. La question narrative : est-ce une trahison ou un acte de conscience ?"
+      },
+      {
+        "profil": "Trahison forcée",
+        "description": "On le tient par quelque chose — une menace, un chantage. Sa trahison est une soumission, pas un choix. Il souffre de ce qu'il fait sans pouvoir s'arrêter."
+      },
+      {
+        "profil": "Trahison progressive",
+        "description": "Il n'a pas décidé de trahir. C'est arrivé par petites étapes, chacune semblant raisonnable. Au moment où il réalise, il est déjà trop engagé pour revenir en arrière."
+      }
+    ],
+    "escaladeTypique": [
+      "premier acte d'infidélité — minimisé, rationalisé",
+      "engagement croissant dans le double jeu",
+      "moments où la trahison pourrait être découverte — évités de justesse",
+      "point de non-retour — soit il va jusqu'au bout, soit il confesse",
+      "révélation — volontaire, forcée ou accidentelle"
+    ],
+    "voiesDeResolution": [
+      "aveu volontaire au groupe — le plus difficile et le plus rare",
+      "découverte par le groupe — confrontation directe",
+      "disparition du traître avant la révélation",
+      "le traître choisit son camp définitivement — de l'un ou l'autre côté",
+      "négociation — le traître révèle quelque chose en échange de sa protection"
+    ],
+    "blessuresUnderlyantes": [
+      "sentiment d'avoir été trahi par le groupe en premier — réel ou perçu",
+      "loyauté plus ancienne ou plus profonde ailleurs",
+      "conviction que la fin justifie les moyens",
+      "besoin de survie ou de protection qui a pris le dessus sur tout",
+      "appartenance au groupe jamais pleinement intégrée — toujours un peu extérieur"
+    ],
+    "contextesFavorables": [
+      "groupe en situation de conflit avec un adversaire extérieur",
+      "organisation où l'information est une ressource stratégique",
+      "contexte de guerre, de compétition intense ou de survie",
+      "groupe dont les valeurs ont dérivé et que le traître juge",
+      "relation de confiance totale qui crée une vulnérabilité maximale"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage ayant des loyautés multiples et conflictuelles",
+      "personnage dont les convictions divergent progressivement de celles du groupe",
+      "personnage sous pression ou menacé de l'extérieur",
+      "personnage qui n'a jamais pleinement appartenu au groupe",
+      "personnage ayant un grief réel contre le groupe qu'il n'a jamais exprimé"
+    ],
+    "erreursDEcriture": [
+      "Révéler la trahison sans avoir planté les signaux préalables — la tension vient de ces signaux.",
+      "Faire du traître un pur méchant — les meilleures trahisons ont une logique compréhensible.",
+      "Ne pas montrer les effets sur le groupe après — la découverte d'une trahison change la confiance pour longtemps.",
+      "Résoudre trop vite la crise post-révélation — la méfiance s'installe durablement.",
+      "Oublier ce que la trahison coûte au traître lui-même — trahir brise aussi quelque chose en soi."
+    ],
+    "notesEditoriales": [
+      "La trahison interne est l'une des dynamiques les plus dévastatrices pour un groupe — parce qu'elle vient de l'intérieur de la confiance.",
+      "Sa force narrative vient du décalage entre ce que le lecteur sait et ce que le groupe ignore.",
+      "Distinguer la trahison par intérêt de la trahison par conviction — les deux sont valides mais donnent des arcs très différents.",
+      "Le personnage le plus intéressant n'est pas toujours le traître — c'est parfois celui qui se doute et choisit de ne pas voir."
+    ]
+  },
+  {
+    "id": "conflit-generationnel-groupe",
+    "label": "Conflit générationnel dans un groupe",
+    "alias": [
+      "conflit générationnel",
+      "conflit generationnel",
+      "choc des générations",
+      "choc des generations",
+      "anciens contre nouveaux",
+      "transmission en crise",
+      "rupture de transmission",
+      "héritiers contre fondateurs",
+      "heritiers contre fondateurs",
+      "conflit de génération"
+    ],
+    "famille": "conflits-de-groupe",
+    "sousCategorie": "transmission-et-heritage",
+    "definitionCourte": "Deux générations au sein d'un même groupe ont des valeurs, des méthodes ou des visions incompatibles, et se disputent le contrôle de l'avenir sans pouvoir satisfaire les deux simultanément.",
+    "forcesEnPresence": [
+      "anciens qui portent le passé, la légitimité et la mémoire",
+      "nouveaux qui portent l'urgence de changer et l'énergie du futur",
+      "structure ou institution qui ne peut pas satisfaire les deux en même temps",
+      "enjeux concrets — décisions, direction, ressources — qui cristallisent la tension",
+      "gratitude et ressentiment mêlés des deux côtés",
+      "peur de l'oubli des anciens contre peur de l'immobilisme des nouveaux"
+    ],
+    "declencheursFrequents": [
+      "crise qui révèle que les méthodes anciennes ne fonctionnent plus",
+      "arrivée d'une génération nouvelle avec sa propre vision et sa propre légitimité",
+      "décision à prendre sur l'avenir qui force le débat",
+      "mort ou départ d'une figure fondatrice qui libère les tensions retenues",
+      "succès ou échec qui redistribue les mérites et les responsabilités",
+      "changement de contexte qui rend l'expérience des anciens moins pertinente",
+      "revendication explicite de pouvoir par la génération montante"
+    ],
+    "signauxAvantCoureurs": [
+      "réunions qui se terminent en deux conversations parallèles selon les générations",
+      "décisions des anciens qui s'appliquent de moins en moins sans protestation frontale",
+      "langage différent — les mots ne désignent plus les mêmes réalités",
+      "nouvelles recrues qui s'alignent naturellement sur l'une ou l'autre faction",
+      "respect affiché mais distance réelle dans les échanges intergénérationnels",
+      "les anciens évoquent le passé plus souvent, les nouveaux l'avenir",
+      "sujets évités dans les réunions communes — trop sensibles"
+    ],
+    "silencesEtNonDits": [
+      "ce que les anciens ne veulent pas dire : ils ont peur de devenir inutiles",
+      "ce que les nouveaux ne disent pas : ils veulent le pouvoir, pas seulement le changement",
+      "le respect réel que les uns ont pour les autres, jamais exprimé",
+      "la question commune évitée : qu'est-ce qu'on veut vraiment préserver ?",
+      "la gratitude des nouveaux envers ce que les anciens ont bâti — tue par l'impatience",
+      "la fierté des anciens pour ceux qu'ils ont formés — tue par la peur d'être dépassés"
+    ],
+    "penseesTypiques": [
+      "Ils ne comprennent pas ce que ça a coûté de construire ça.",
+      "Ils n'ont connu que la réussite, pas la lutte.",
+      "Si on leur laisse la main, ils vont tout changer et tout casser.",
+      "Ils nous demandent de leur faire confiance, mais sur quelle base ?",
+      "On ne peut pas avancer si on reste prisonniers de leur vision du passé.",
+      "Ils ont raison sur certaines choses. Je ne peux pas le dire devant les autres.",
+      "Tout ce qu'ils critiquent, c'est ce qui nous a permis d'arriver là.",
+      "Quand est-ce que c'est notre tour ?",
+      "Je ne veux pas finir comme eux — cramponné à une place que je n'arrive plus à remplir."
+    ],
+    "comportementsTypiques": [
+      "les anciens multiplient les références au passé pour asseoir leur légitimité",
+      "les nouveaux cherchent des alliés parmi les anciens les plus ouverts",
+      "chaque camp teste les limites de l'autre sans confrontation directe",
+      "les réunions deviennent des exercices de diplomatie épuisants",
+      "les décisions importantes sont repoussées — faute de consensus",
+      "les anciens délèguent des responsabilités sans déléguer le pouvoir",
+      "les nouveaux exécutent les décisions avec moins d'enthousiasme qu'avant",
+      "chaque camp parle aux membres neutres pour les rallier"
+    ],
+    "positionsDePouvoir": [
+      "les anciens ont la légitimité du passé et souvent le pouvoir formel",
+      "les nouveaux ont l'énergie, les idées et souvent le soutien de la base",
+      "les membres qui naviguent entre les deux ont un pouvoir informel considérable",
+      "le temps joue pour les nouveaux — mais ils peuvent ne pas avoir la patience d'attendre"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Tension de fond", "description": "Les deux générations travaillent ensemble mais ne se comprennent pas vraiment. Elles restent polies." },
+      { "niveau": 2, "label": "Désaccord exprimé", "description": "Les différences de vision deviennent visibles dans les décisions et les priorités. Le dialogue devient difficile." },
+      { "niveau": 3, "label": "Fracture ouverte", "description": "Le groupe est divisé. Les anciens et les nouveaux tirent dans des directions opposées sans plus chercher à se cacher." },
+      { "niveau": 4, "label": "Lutte pour le contrôle", "description": "Il s'agit désormais de savoir qui décidera de l'avenir. Le partage n'est plus possible." },
+      { "niveau": 5, "label": "Rupture ou scission", "description": "Le groupe se divise ou les uns partent. Ce qui était commun n'est plus tenable en même temps." }
+    ],
+    "variantes": [
+      {
+        "profil": "Entreprise ou organisation",
+        "description": "Fondateurs contre nouvelle direction. L'enjeu est concret — stratégie, ressources, avenir de l'institution. La lutte se joue en réunions, en votes, en alliances."
+      },
+      {
+        "profil": "Mouvement ou cause",
+        "description": "Les pionniers contre ceux qui ont grandi dans ce qu'ils ont construit. L'enjeu est identitaire et symbolique — à qui appartient l'âme du mouvement ?"
+      },
+      {
+        "profil": "Famille élargie",
+        "description": "Les aînés qui veulent transmettre contre les plus jeunes qui veulent s'affranchir. Le terrain est intime, la mémoire longue, les rancœurs profondes."
+      }
+    ],
+    "escaladeTypique": [
+      "coexistence tendue mais fonctionnelle",
+      "premier désaccord public sur une décision importante",
+      "formation de factions générationnelles",
+      "crise qui force un choix — on ne peut plus satisfaire les deux",
+      "rupture, scission ou négociation d'un nouveau partage du pouvoir"
+    ],
+    "voiesDeResolution": [
+      "transmission formalisée — les anciens passent le relais volontairement",
+      "crise commune qui oblige les deux générations à coopérer",
+      "dialogue direct entre les représentants des deux camps",
+      "reconnaissance mutuelle — les anciens valident les nouveaux, les nouveaux honorent le passé",
+      "départ volontaire d'une génération qui libère l'espace"
+    ],
+    "blessuresUnderlyantes": [
+      "anciens : peur de voir leur travail défiguré ou renié après leur départ",
+      "nouveaux : sentiment d'avoir toujours été sous tutelle sans vraie place ni reconnaissance",
+      "absence de rite de passage — la transmission n'a jamais été formalisée ni ritualisée",
+      "déception ancienne non dite entre membres des deux générations",
+      "expérience passée de trahison intergénérationnelle dans la même structure"
+    ],
+    "contextesFavorables": [
+      "organisation à l'approche d'un changement de direction inévitable",
+      "mouvement ou cause dont la pertinence évolue avec le temps",
+      "famille à un moment charnière — héritage, décision collective, crise",
+      "institution confrontée à un contexte qui a fondamentalement changé",
+      "moment de succès ou d'échec qui force la question du leadership"
+    ],
+    "personnagesSouventConcernes": [
+      "fondateur ou figure historique dont l'ère s'achève",
+      "successeur désigné qui porte le poids de la transmission",
+      "membre de la génération intermédiaire tiraillé entre les deux",
+      "nouveau venu qui incarne le changement sans l'avoir cherché",
+      "gardien de la mémoire qui résiste à tout changement"
+    ],
+    "erreursDEcriture": [
+      "Donner entièrement raison aux nouveaux — les anciens ont souvent des raisons valables de résister.",
+      "Réduire à un conflit de méthodes — c'est un conflit d'identités, de légitimités et de peur.",
+      "Ne pas montrer ce que les deux camps perdent dans la fracture — pas seulement ce qu'ils gagnent.",
+      "Résoudre par une réconciliation facile — les conflits générationnels laissent des cicatrices.",
+      "Oublier les membres neutres ou intermédiaires — ils portent souvent les tensions les plus complexes."
+    ],
+    "notesEditoriales": [
+      "Le conflit générationnel est universel — il traverse les familles, les entreprises, les nations, les mouvements.",
+      "Sa force narrative vient du fait que les deux camps ont raison sur des choses différentes — et tort sur d'autres.",
+      "Distinguer le conflit sur les valeurs (ce qu'on veut préserver) du conflit sur le pouvoir (qui décide) — les deux coexistent mais demandent des résolutions différentes.",
+      "Le personnage le plus intéressant est souvent celui qui aime les deux générations et souffre de ne pas pouvoir réconcilier ce qui ne veut pas l'être."
+    ]
+  }
+]

@@ -1,0 +1,451 @@
+[
+  {
+    "id": "rivalite-amoureuse-triangulaire",
+    "label": "Rivalité amoureuse triangulaire",
+    "aliases": ["triangle amoureux", "rivalité pour un même être", "deux qui veulent le même"],
+    "famille": "rivalités",
+    "definitionCourte": "Deux personnes désirent ou aiment la même troisième, ce qui crée entre elles une relation de compétition chargée d'envie, d'observation et parfois de fascination réciproque.",
+    "descriptionNarrative": "Ce n'est pas seulement la compétition pour l'autre — c'est aussi la relation entre les deux rivaux qui se construit dans cette tension. Ils s'observent, se mesurent, parfois s'admirent. L'un voit dans l'autre ce que l'être désiré apprécie, ce qu'il n'est pas lui-même. La rivalité peut devenir obsessionnelle ou révélatrice.",
+    "equilibreRelationnel": "variable",
+    "rapportDeForce": "Change selon la réponse de la troisième personne. La position dominante peut basculer à chaque signe d'attention ou de recul.",
+    "attentesImplicites": [
+      "que l'autre abandonne le champ",
+      "que l'être désiré choisisse et tranche",
+      "une reconnaissance de la supériorité — ou une concession"
+    ],
+    "moteursDuLien": [
+      "l'être désiré comme miroir — se voir dans le regard de l'autre",
+      "fascination pour ce que le rival incarne",
+      "competition qui nourrit le désir",
+      "curiosité sur ce que l'autre a et qu'on n'a pas"
+    ],
+    "faillesDuLien": [
+      "jalousie qui peut devenir obsessionnelle",
+      "humiliation si le choix est public",
+      "trahison si l'un des deux manipule l'être désiré contre l'autre",
+      "impossibilité de voir l'autre autrement que comme obstacle"
+    ],
+    "signesVisibles": [
+      "observation mutuelle discrète et constante",
+      "ton poli et tendu dans les interactions directes",
+      "comparaison implicite dans chaque conversation avec l'être désiré",
+      "gestes de territoire — s'approcher, se placer, regarder"
+    ],
+    "evolutionsPossibles": [
+      "alliance improbable si les deux sont rejetés ou si la troisième personne disparaît",
+      "hostilité durable si le rejet est vécu comme une défaite",
+      "amitié bizarre née de la fascination mutuelle",
+      "transformation en rivalité dans un autre domaine une fois le sujet réglé"
+    ],
+    "variantesNarratives": [
+      { "profil": "Les deux rivaux sont en réalité très semblables", "description": "L'être désiré voit en chacun ce que l'autre a aussi. La rivalité révèle un miroir." },
+      { "profil": "Les deux rivaux sont fondamentalement opposés", "description": "La concurrence dit quelque chose de ce que l'être désiré cherche ou ne sait pas encore." }
+    ],
+    "silencesEtNonDits": [
+      "l'admiration pour ce que le rival possède et qu'on n'a pas",
+      "la conscience que l'être désiré a peut-être raison de voir aussi l'autre",
+      "la honte si on a agi indignement dans la compétition"
+    ],
+    "erreursDEcriture": [
+      "Réduire les deux rivaux à des caricatures — l'un bon, l'autre mauvais.",
+      "Ne pas explorer la relation entre eux — elle est souvent plus intéressante que leur relation avec la troisième personne.",
+      "Résoudre trop vite — la tension du triangle peut durer longtemps."
+    ],
+    "notesEditoriales": [
+      "Le triangle amoureux fonctionne mieux quand les deux rivaux sont également sympathiques — la tension est alors morale, pas morale.",
+      "La fascination réciproque entre rivaux est souvent sous-utilisée."
+    ]
+  },
+  {
+    "id": "rivalite-artistique-creative",
+    "label": "Rivalité artistique ou créative",
+    "aliases": ["concurrence entre artistes", "rivalité de créateurs", "compétition littéraire", "rivalité entre musiciens"],
+    "famille": "rivalités",
+    "definitionCourte": "Deux créateurs dans le même domaine — écriture, musique, peinture, théâtre — dont le travail se mesure, consciemment ou non, l'un à l'autre.",
+    "descriptionNarrative": "Ce n'est pas seulement l'ambition qui se heurte — c'est la vision. Chaque œuvre de l'autre est lue comme une réponse, une surenchère ou une provocation. Ils peuvent s'admirer profondément tout en se voulant la mort. La question 'qui est le meilleur ?' n'est jamais résolue parce qu'elle n'est pas la vraie question — la vraie est 'qui dit quelque chose de vrai ?'",
+    "equilibreRelationnel": "variable",
+    "rapportDeForce": "Fluctue avec la reconnaissance publique, les prix, les critiques. Un seul avis de quelqu'un d'influent peut tout renverser.",
+    "attentesImplicites": [
+      "être reconnu comme la référence dans le domaine",
+      "que l'autre admette qu'on l'a influencé",
+      "une rivalité à la hauteur — pas d'adversaire médiocre"
+    ],
+    "moteursDuLien": [
+      "admiration sincère et difficile à avouer",
+      "l'œuvre de l'autre comme aiguillon — elle force à aller plus loin",
+      "désir de reconnaissance par les pairs autant que par le public",
+      "crainte d'être oublié si l'autre triomphe"
+    ],
+    "faillesDuLien": [
+      "jalousie du succès qui rend aveugle à la qualité",
+      "plagiat conscient ou inconscient par fascination excessive",
+      "destruction de l'autre au lieu de se concentrer sur son propre travail",
+      "épuisement par comparaison constante"
+    ],
+    "signesVisibles": [
+      "commentaires trop précis sur l'œuvre de l'autre — signe qu'on la connaît par cœur",
+      "citations ou références croisées dans les œuvres elles-mêmes",
+      "évitement des événements où l'autre est présent",
+      "opinions tranchées sur l'autre quand on ne le croit pas dans la pièce"
+    ],
+    "evolutionsPossibles": [
+      "collaboration unique si la rivalité se transforme",
+      "réconciliation tardive quand l'enjeu n'est plus ce qu'il était",
+      "l'un disparaît et l'autre vit avec le manque de cette mesure",
+      "reconnaissance publique d'une dette artistique"
+    ],
+    "variantesNarratives": [
+      { "profil": "Générations différentes", "description": "L'un représente l'avenir de ce que l'autre a construit. La transmission est au cœur de la rivalité." },
+      { "profil": "Même génération, mêmes influences", "description": "La ressemblance est une douleur. Chacun voit dans l'autre ce qu'il aurait pu être." }
+    ],
+    "silencesEtNonDits": [
+      "l'admiration qu'on ne peut pas dire sans s'affaiblir",
+      "la dette envers l'autre qu'on ne reconnaît pas",
+      "la peur d'être le moins grand des deux"
+    ],
+    "erreursDEcriture": [
+      "Réduire la rivalité à l'ego — elle porte souvent sur quelque chose de plus profond.",
+      "Ne pas montrer que les deux créent vraiment — la rivalité sans œuvre est creuse."
+    ],
+    "notesEditoriales": [
+      "Les grandes rivalités artistiques (Picasso/Braque, Mozart/Salieri) fonctionnent parce qu'elles posent une question sur ce que l'art est censé faire.",
+      "La rivalité artistique peut coexister avec une amitié sincère — ce n'est pas contradictoire."
+    ]
+  },
+  {
+    "id": "rivalite-dans-la-fratrie-adulte",
+    "label": "Rivalité fraternelle à l'âge adulte",
+    "aliases": ["frères rivaux adultes", "compétition entre sœurs adultes", "jalousie entre frères", "jalousie entre sœurs"],
+    "famille": "rivalités",
+    "definitionCourte": "Compétition entre frères ou sœurs adultes qui rejoue les dynamiques de l'enfance — la faveur parentale, la comparaison, le sentiment d'être le moins aimé ou le moins reconnu.",
+    "descriptionNarrative": "Les rôles assignés dans l'enfance — le brillant, le rebelle, le sage, l'oublié — persistent dans les relations adultes avec une ténacité surprenante. Chaque réussite de l'autre est inconsciemment mesurée à l'aune des jugements parentaux d'autrefois. La fratrie adulte est un terrain de règlement de comptes silencieux.",
+    "equilibreRelationnel": "déséquilibré",
+    "rapportDeForce": "Souvent lié aux préférences parentales passées ou présentes. L'héritage, la maladie d'un parent, les décisions familiales majeures réactivent la hiérarchie d'enfance.",
+    "attentesImplicites": [
+      "être enfin reconnu comme l'égal ou le supérieur",
+      "que les parents voient ce qu'ils n'ont pas vu",
+      "que l'autre avoue ce qu'il a eu de plus"
+    ],
+    "moteursDuLien": [
+      "mémoire commune de l'enfance qui crée une intimité impossible ailleurs",
+      "amour fraternel réel qui coexiste avec la rivalité",
+      "identité construite en partie par opposition à l'autre",
+      "parents communs qui restent le terrain de la compétition"
+    ],
+    "faillesDuLien": [
+      "ressentiments si anciens qu'on ne sait plus exactement pourquoi",
+      "répétition des mêmes scènes à chaque réunion familiale",
+      "conjoints qui ne comprennent pas et qui subissent",
+      "incapacité à voir l'autre comme un adulte distinct de l'enfant qu'il était"
+    ],
+    "signesVisibles": [
+      "commentaires qui semblent anodins mais portent une vieille blessure",
+      "silence éloquent à l'annonce d'une réussite de l'autre",
+      "générosité soudaine qui est une forme de supériorité",
+      "réactivation des vieux rôles dès que les parents sont présents"
+    ],
+    "evolutionsPossibles": [
+      "réconciliation par crise extérieure — mort d'un parent, maladie",
+      "éloignement définitif si la blessure est trop ancienne",
+      "pacte implicite — on ne parle plus de ça",
+      "transformation si l'un deux change vraiment et force l'autre à le voir autrement"
+    ],
+    "variantesNarratives": [
+      { "profil": "Un favori et un oublié", "description": "La blessure est ancienne et fondamentale. L'oublié a construit son identité contre cette injustice." },
+      { "profil": "Deux enfants traités différemment selon le genre", "description": "La rivalité porte la marque des attentes sexuées transmises par la famille." }
+    ],
+    "silencesEtNonDits": [
+      "l'amour qu'on aurait voulu recevoir et qu'on ne peut pas demander à l'autre",
+      "la jalousie de ce que l'autre a vécu dans la même famille",
+      "la culpabilité d'avoir été le préféré sans l'avoir demandé"
+    ],
+    "erreursDEcriture": [
+      "Simplifier en un vilain et une victime — la rivalité fraternelle est rarement aussi claire.",
+      "Oublier que les deux souffrent, même si différemment."
+    ],
+    "notesEditoriales": [
+      "La rivalité fraternelle adulte est particulièrement forte lors des grandes transitions familiales — héritage, mariage, naissance.",
+      "Elle est souvent plus douloureuse que d'autres rivalités parce qu'elle ne peut pas être effacée par l'éloignement."
+    ]
+  },
+  {
+    "id": "rivalite-professionnelle-visible",
+    "label": "Rivalité professionnelle ouverte",
+    "aliases": ["concurrents directs au travail", "deux candidats pour un poste", "guerre de territoire professionnel"],
+    "famille": "rivalités",
+    "definitionCourte": "Deux personnes en compétition directe pour une position, une reconnaissance ou un territoire professionnel, dans un contexte où la rivalité est connue de tous.",
+    "descriptionNarrative": "Contrairement à la rivalité masquée, celle-ci est visible — chacun sait que l'autre est la mesure. Chaque réussite est observée, chaque erreur notée. La relation publique peut être parfaitement cordiale pendant que la guerre se fait à bas bruit, par les réseaux, les projets, l'influence informelle.",
+    "equilibreRelationnel": "variable",
+    "rapportDeForce": "Fluctue selon les décisions hiérarchiques, les projets, les alliances.",
+    "attentesImplicites": [
+      "que la hiérarchie tranche en sa faveur",
+      "une compétition loyale — pas de coups bas",
+      "être reconnu comme supérieur sur les critères qui comptent vraiment"
+    ],
+    "moteursDuLien": [
+      "même ambition dans le même espace — l'un ne peut avancer qu'au détriment de l'autre",
+      "respect réel des compétences de l'adversaire",
+      "observation mutuelle qui force à s'améliorer",
+      "enjeu commun — le projet, le poste, la promotion"
+    ],
+    "faillesDuLien": [
+      "sabotage déguisé en aide",
+      "alliances qui fragmentent l'équipe",
+      "épuisement à surveiller et à paraître",
+      "dommages collatéraux sur ceux qui travaillent avec les deux"
+    ],
+    "signesVisibles": [
+      "politesse très appliquée — chaque mot pesé",
+      "présence aux mêmes réunions avec une attention aux deux camps",
+      "compliments publics soigneusement dosés",
+      "course à la visibilité auprès des décideurs"
+    ],
+    "evolutionsPossibles": [
+      "promotion de l'un qui règle provisoirement la question",
+      "départ de l'un qui libère l'espace mais laisse un vide étrange",
+      "alliance forcée par une crise — les deux contre un ennemi commun",
+      "respect mutuel après la bataille"
+    ],
+    "variantesNarratives": [
+      { "profil": "Compétition pour la même promotion", "description": "L'enjeu est clair et daté. La tension monte vers une décision précise." },
+      { "profil": "Deux visions différentes d'une même organisation", "description": "La rivalité est idéologique autant que personnelle. La question est : quelle direction pour l'institution ?" }
+    ],
+    "silencesEtNonDits": [
+      "l'admiration réelle pour l'adversaire qu'on ne peut pas exprimer sans s'affaiblir",
+      "la conscience que la victoire sera creuse si l'autre n'est pas vraiment battu",
+      "le doute sur ses propres capacités que l'autre incarne"
+    ],
+    "erreursDEcriture": [
+      "Réduire à un combat de coqs — la rivalité professionnelle a souvent une dimension institutionnelle et idéologique.",
+      "Oublier que la relation continue après que l'un gagne."
+    ],
+    "notesEditoriales": [
+      "La rivalité professionnelle ouverte est plus facile à écrire que la masquée — mais moins subtilement dramatique.",
+      "Elle révèle souvent quelque chose sur l'institution autant que sur les individus."
+    ]
+  },
+  {
+    "id": "rivalite-heritee",
+    "label": "Rivalité héritée",
+    "aliases": ["vengeance intergénérationnelle", "guerre de familles", "inimitié transmise", "rivalité entre clans"],
+    "famille": "rivalités",
+    "definitionCourte": "Opposition entre deux personnes qui ne se sont pas choisies comme ennemis — elles ont hérité d'une rivalité plus ancienne, familiale, clanique, institutionnelle ou régionale.",
+    "descriptionNarrative": "Personne ne se souvient exactement pourquoi ça a commencé. Peut-être une injustice, une trahison, un conflit de territoire. Ce qui reste c'est le nom de l'autre camp — et l'obligation sociale de le détester. Le personnage peut ne pas avoir envie de ce conflit, peut même trouver l'autre sympathique, mais il est pris dans quelque chose de plus grand que lui.",
+    "equilibreRelationnel": "structurellement déséquilibré — hérité",
+    "rapportDeForce": "Souvent défini par l'histoire plus que par les individus eux-mêmes. Peut être renversé si l'un des deux choisit de sortir.",
+    "attentesImplicites": [
+      "que l'autre respecte les frontières non écrites",
+      "que personne ne brise la loyauté au camp",
+      "une continuité — l'histoire doit avoir du sens"
+    ],
+    "moteursDuLien": [
+      "histoire commune inavouable — les deux camps ont besoin l'un de l'autre pour exister",
+      "identité construite par opposition",
+      "pression des anciens qui maintiennent la flamme",
+      "événements récents qui relancent ce qu'on croyait assoupi"
+    ],
+    "faillesDuLien": [
+      "génération qui ne comprend plus pourquoi",
+      "amitié ou amour qui naît entre les deux camps — déchirure",
+      "découverte que l'origine était un malentendu ou une injustice réciproque",
+      "les anciens meurent et la raison avec eux"
+    ],
+    "signesVisibles": [
+      "noms, lieux, événements qui déclenchent une réaction automatique",
+      "politesse froide ou absence totale de contact",
+      "récits du passé qui entretiennent la rancœur",
+      "refus des occasions de contact — fêtes, institutions, espaces partagés"
+    ],
+    "evolutionsPossibles": [
+      "rupture du cycle par un acte de l'une ou l'autre génération",
+      "découverte d'une vérité qui change la lecture de l'origine",
+      "catastrophe commune qui force la solidarité",
+      "héritage qui devient fardeau — le personnage ne veut plus le porter"
+    ],
+    "variantesNarratives": [
+      { "profil": "Rivalité entre familles dans une petite communauté", "description": "Tout le monde sait, tout le monde choisit un camp. Le personnage qui refuse est marginalisé des deux côtés." },
+      { "profil": "Rivalité institutionnelle — deux maisons, deux clans, deux écoles", "description": "La rivalité a ses codes, ses rituels, ses moments de crise prévus. Elle est presque institutionnalisée." }
+    ],
+    "silencesEtNonDits": [
+      "ce qui s'est vraiment passé à l'origine — les deux camps ont leur version",
+      "l'attirance ou l'admiration pour l'autre camp qu'on ne peut pas admettre",
+      "la lassitude de porter une guerre qu'on n'a pas choisie"
+    ],
+    "erreursDEcriture": [
+      "Réduire à Roméo et Juliette sans explorer les mécanismes de transmission.",
+      "Oublier que la rivalité héritée coexiste souvent avec des liens réels — les deux familles se connaissent trop bien."
+    ],
+    "notesEditoriales": [
+      "La rivalité héritée est particulièrement riche parce qu'elle pose la question du choix — le personnage peut-il décider de ne plus porter ça ?",
+      "Elle est plus intéressante quand l'origine est floue ou contestée."
+    ]
+  },
+  {
+    "id": "collegue-incompatible-respect-mutuel",
+    "label": "Collègue incompatible mais indispensable",
+    "aliases": ["partenaire qu'on ne supporte pas", "collègue irritant et efficace", "association de contraires"],
+    "famille": "relations professionnelles",
+    "definitionCourte": "Deux personnes qui ne s'apprécient pas — personnalités incompatibles, valeurs différentes, styles opposés — mais dont la compétence combinée produit quelque chose qu'aucune ne pourrait faire seule.",
+    "descriptionNarrative": "Ils se supportent mal. Peut-être que l'un est précis et l'autre intuitif. L'un verbal et l'autre silencieux. L'un fidèle aux règles et l'autre les contournant avec maestria. Mais quand il s'agit de livrer, il n'y a personne de mieux. Chacun sait que l'autre est compétent — c'est ce qui rend la coexistence possible et le respect difficile à nier.",
+    "equilibreRelationnel": "tendu mais fonctionnel",
+    "rapportDeForce": "Équilibré en compétence, déséquilibré en statut selon les contextes.",
+    "attentesImplicites": [
+      "que l'autre reste dans son rôle et ne déborde pas",
+      "une reconnaissance implicite de la valeur respective",
+      "un accord tacite : on travaille, on ne socialise pas"
+    ],
+    "moteursDuLien": [
+      "résultats qui justifient le maintien de la relation",
+      "respect des compétences indépendamment des personnes",
+      "nécessité pratique — pas d'alternative viable",
+      "parfois, une admiration secrète pour ce que l'autre fait et qu'on ne saurait pas faire"
+    ],
+    "faillesDuLien": [
+      "conflit de méthode qui bloque sur une décision importante",
+      "crise où les deux doivent s'aligner sans temps de négociation",
+      "tiers qui tente de monter l'un contre l'autre",
+      "succès de l'un qui génère une jalousie non avouée"
+    ],
+    "signesVisibles": [
+      "ton sec mais professionnel",
+      "réunions courtes et efficaces sans chaleur",
+      "compliments rares mais précis quand ils arrivent — et donc très signifiants",
+      "chacun dans son espace, pas d'empiètement"
+    ],
+    "evolutionsPossibles": [
+      "crise qui force une conversation réelle — et change quelque chose",
+      "séparation quand la contrainte disparaît",
+      "étrange respect mutuel qui ressemble à de l'amitié sans en avoir les codes",
+      "découverte tardive que l'incompatibilité cachait une peur"
+    ],
+    "variantesNarratives": [
+      { "profil": "Les deux ont besoin l'un de l'autre pour un projet précis", "description": "L'incompatibilité est mise en suspens par l'urgence. Ce qu'ils produisent ensemble révèle quelque chose." },
+      { "profil": "Hiérarchie entre les deux", "description": "L'un supervise l'autre. L'incompatibilité prend une dimension de pouvoir." }
+    ],
+    "silencesEtNonDits": [
+      "la reconnaissance qu'on ne peut pas fonctionner aussi bien sans l'autre",
+      "la curiosité pour ce que l'autre pense vraiment",
+      "la frustration de ne pas pouvoir travailler autrement"
+    ],
+    "erreursDEcriture": [
+      "Forcer la réconciliation — parfois l'incompatibilité reste entière.",
+      "Ne montrer que le conflit sans la compétence réelle des deux."
+    ],
+    "notesEditoriales": [
+      "Cette dynamique produit souvent les scènes les plus drôles et les plus tendues d'un récit.",
+      "Elle fonctionne surtout quand les deux personnages ont des compétences réelles et différentes — pas juste des personnalités opposées."
+    ]
+  },
+  {
+    "id": "hierarchie-renversee-par-competence",
+    "label": "Hiérarchie renversée par la compétence",
+    "aliases": ["subalterne plus compétent que son supérieur", "chef moins capable que son adjoint", "expert subordonné"],
+    "famille": "relations professionnelles",
+    "definitionCourte": "Le supérieur hiérarchique est moins compétent que son subalterne dans le domaine qui compte — et les deux le savent, même si aucun ne le dit explicitement.",
+    "descriptionNarrative": "Le titre dit une chose, la réalité en dit une autre. Le subalterne sait comment faire. Le supérieur sait comment décider, représenter, naviguer politiquement. Ils ont besoin l'un de l'autre mais chacun porte quelque chose que l'autre n'a pas. La tension est dans le non-dit : qui fait vraiment ce qui compte ?",
+    "equilibreRelationnel": "paradoxal — hiérarchie formelle inversée par la réalité",
+    "rapportDeForce": "Formel en faveur du supérieur. Pratique en faveur du subalterne.",
+    "attentesImplicites": [
+      "que la hiérarchie soit respectée malgré l'inversion réelle",
+      "que le travail du subalterne soit visible ou reconnu d'une façon ou d'une autre",
+      "un accord tacite — je te protège, tu m'aidaides"
+    ],
+    "moteursDuLien": [
+      "complémentarité réelle — le supérieur apporte la légitimité, le subalterne la substance",
+      "dépendance mutuelle inavouée",
+      "respect des zones de compétence respectives",
+      "loyauté parfois — le subalterne choisit de soutenir malgré tout"
+    ],
+    "faillesDuLien": [
+      "décision du supérieur qui ignore l'avis technique et rate",
+      "reconnaissance publique du supérieur sans mention du subalterne",
+      "arrivée d'un tiers qui voit l'inversion et tente de l'exploiter",
+      "orgueil du supérieur qui refuse d'admettre sa dépendance"
+    ],
+    "signesVisibles": [
+      "formulations du subalterne soigneusement choisies pour ne pas humilier",
+      "déférence de forme avec une direction de fond",
+      "supérieur qui consulte plus qu'il ne décide seul",
+      "autres collègues qui savent à qui poser les vraies questions"
+    ],
+    "evolutionsPossibles": [
+      "subalterne promu — rééquilibrage tardif",
+      "rupture si le subalterne se lasse de n'être pas reconnu",
+      "crise qui force le supérieur à reconnaître sa dépendance",
+      "accord stable — chacun joue son rôle et en est satisfait"
+    ],
+    "variantesNarratives": [
+      { "profil": "Supérieur arrivé par réseau, subalterne formé sur le terrain", "description": "L'écart de légitimité est structurel. Le subalterne porte la frustration d'un système." },
+      { "profil": "Supérieur vieillissant, subalterne en ascension", "description": "Le renversement est en cours. La question est : comment se fait la transition ?" }
+    ],
+    "silencesEtNonDits": [
+      "la conscience du supérieur de sa dépendance — rarement avouée",
+      "le ressentiment du subalterne face au manque de reconnaissance",
+      "l'arrangement tacite qui permet à tous de fonctionner"
+    ],
+    "erreursDEcriture": [
+      "Faire du supérieur un idiot — il a souvent des compétences réelles, différentes.",
+      "Idéaliser le subalterne — la compétence technique ne fait pas tout."
+    ],
+    "notesEditoriales": [
+      "Cette dynamique dit quelque chose sur l'institution autant que sur les individus.",
+      "Elle produit des scènes denses si le supérieur prend une décision contre l'avis du subalterne — et a tort."
+    ]
+  },
+  {
+    "id": "mentorat-inverse",
+    "label": "Mentorat inversé",
+    "aliases": ["apprendre de plus jeune que soi", "élève qui devient guide", "expertise inversée"],
+    "famille": "relations mentorales",
+    "definitionCourte": "La personne plus âgée ou plus expérimentée se retrouve à apprendre du plus jeune — dans un domaine nouveau, une technologie, une façon de voir. L'inversion est inconfortable mais féconde.",
+    "descriptionNarrative": "L'aîné a l'expérience, la profondeur, le recul. Le plus jeune a quelque chose que l'aîné n'a pas — une langue nouvelle, une façon d'être en lien, une technique, une vision. Reconnaître cela demande de l'humilité à l'aîné. L'offrir sans condescendance demande de la tact au plus jeune. Quand ça fonctionne, les deux apprennent quelque chose d'essentiel.",
+    "equilibreRelationnel": "en transformation",
+    "rapportDeForce": "Formellement en faveur de l'aîné — expérience, statut, confiance institutionnelle. Mais l'aîné est en position d'élève sur le sujet qui compte.",
+    "attentesImplicites": [
+      "que le plus jeune enseigne sans infantiliser",
+      "que l'aîné reconnaisse ce qu'il ne sait pas sans perdre la face",
+      "un échange — le plus jeune apprend aussi de la profondeur de l'aîné"
+    ],
+    "moteursDuLien": [
+      "curiosité réelle de l'aîné pour ce qu'il ne connaît pas",
+      "respect du plus jeune pour ce que l'aîné représente",
+      "complémentarité qui produit quelque chose de neuf",
+      "confiance qui se construit dans l'asymétrie inversée"
+    ],
+    "faillesDuLien": [
+      "orgueil de l'aîné qui freine l'apprentissage",
+      "condescendance du plus jeune qui ne sait pas doser",
+      "incompréhension générationnelle sur ce qui compte vraiment",
+      "l'aîné qui s'arrête dès que sa dignité est menacée"
+    ],
+    "signesVisibles": [
+      "l'aîné qui pose des questions inhabituellement humbles",
+      "le plus jeune qui choisit ses mots avec soin — ne veut pas embarrasser",
+      "moments de rôle inversé — l'élève devient guide, le maître devient élève",
+      "résistance de l'aîné sur certains points — pas partout"
+    ],
+    "evolutionsPossibles": [
+      "relation de pair à pair qui émerge de l'inversion",
+      "transformation de l'aîné sur le sujet — nouvelle compétence intégrée",
+      "rupture si l'orgueil de l'aîné ne peut pas céder",
+      "amitié rare née de cette vulnérabilité partagée"
+    ],
+    "variantesNarratives": [
+      { "profil": "Transformation numérique ou technologique", "description": "L'aîné doit apprendre de plus jeune dans un domaine qui n'existait pas à son époque." },
+      { "profil": "Rapport au corps, à la santé, à un mode de vie", "description": "Le plus jeune a intégré quelque chose que l'aîné a ignoré. L'enjeu est la survie ou la qualité de vie." }
+    ],
+    "silencesEtNonDits": [
+      "la gratitude de l'aîné qu'il n'exprimera peut-être jamais directement",
+      "la fierté discrète du plus jeune d'avoir quelque chose à donner",
+      "la conscience des deux que quelque chose d'inhabituel se passe"
+    ],
+    "erreursDEcriture": [
+      "Faire de l'aîné un incapable — il a des ressources, différentes.",
+      "Idéaliser le plus jeune — sa connaissance est partielle, même si précieuse."
+    ],
+    "notesEditoriales": [
+      "Le mentorat inversé produit des scènes riches parce qu'il retourne une hiérarchie attendue.",
+      "Il est plus fort quand l'aîné a vraiment quelque chose à offrir en retour — ce n'est pas un flux à sens unique."
+    ]
+  }
+]

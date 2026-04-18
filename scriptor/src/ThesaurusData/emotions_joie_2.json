@@ -1,0 +1,245 @@
+[
+  {
+    "id": "soulagement",
+    "label": "Soulagement",
+    "alias": [
+      "soulagement",
+      "libération",
+      "délivrance",
+      "relâchement",
+      "fin de la tension",
+      "respiration retrouvée",
+      "poids enlevé",
+      "apaisement soudain",
+      "détente après l'épreuve",
+      "sortie du tunnel"
+    ],
+    "famille": "joie-satisfaction",
+    "definitionCourte": "Relâchement soudain d'une tension maintenue (attente, menace, danger anticipé) : le corps lâche la garde, souvent avec larmes ou rire nerveux — ce n'est pas la même fiche que « Légèreté » (joie / insouciance).",
+    "signesPhysiques": [
+      "long soupir expiré lentement",
+      "corps qui s'affaisse légèrement, comme si une charge venait d'être posée",
+      "rire nerveux ou larmes inattendues",
+      "main qui se pose sur le cœur ou le ventre",
+      "paupières qui se ferment brièvement",
+      "épaules qui s'abaissent visiblement",
+      "tremblement léger, surtout dans les mains",
+      "respiration qui reprend son rythme normal",
+      "regard qui se détend, moins vigilant",
+      "sourire lent, souvent accompagné de larmes"
+    ],
+    "sensationsInternes": [
+      "relâchement physique qui parcourt le corps",
+      "chaleur dans les membres après le froid de la tension",
+      "vertiges légers dans les premiers instants",
+      "sensation de vide doux là où la peur ou l'inquiétude était logée",
+      "impression que le corps pèse moins, sans gaieté ni insouciance",
+      "gratitude physique avant d'être mentale",
+      "fatigue soudaine maintenant que l'épreuve est passée"
+    ],
+    "pensees": [
+      "C'est fini.",
+      "J'avais tellement peur.",
+      "Je n'aurais jamais cru que ça pourrait aller aussi bien.",
+      "Maintenant je peux souffler.",
+      "C'était long.",
+      "Je ne savais pas si j'allais tenir.",
+      "Je n'ai pas à me battre là-dessus aujourd'hui.",
+      "Je vais pouvoir dormir."
+    ],
+    "effetsVoixLangage": [
+      "long souffle avant de parler",
+      "voix plus douce, plus légère",
+      "rires nerveux entre les phrases",
+      "répétitions de la bonne nouvelle",
+      "moins de maîtrise des mots dans les premiers instants",
+      "formulations incomplètes au début"
+    ],
+    "comportements": [
+      "s'assoit ou s'appuie sur quelque chose",
+      "cherche à partager la nouvelle immédiatement",
+      "tient quelqu'un ou quelque chose",
+      "rit ou pleure sans l'avoir voulu",
+      "ferme les yeux un moment",
+      "plaisante sur la tension passée une fois le pire écarté",
+      "mange ou boit — pour stabiliser physiquement"
+    ],
+    "masquesPossibles": [
+      "stoïcisme de façade qui dure quelques secondes",
+      "efficacité immédiate pour ne pas s'effondrer",
+      "humour qui dédramatise la tension"
+    ],
+    "evolutionsPossibles": [
+      "joie franche si le soulagement est partagé",
+      "fatigue profonde une fois la tension évacuée",
+      "gratitude vers ceux qui ont aidé",
+      "mélancolie si le soulagement révèle ce qu'on a failli perdre"
+    ],
+    "contextesAggravants": [
+      "soulagement différé plusieurs fois",
+      "fausse bonne nouvelle suivie d'une mauvaise",
+      "soulagement solitaire sans personne à qui le dire"
+    ],
+    "contextesAttenuants": [
+      "présence de quelqu'un avec qui le partager",
+      "confirmation claire et définitive",
+      "possibilité de s'asseoir, de souffler, de relâcher physiquement"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère détente", "description": "L'inquiétude était mineure. Le relâchement est rapide et discret." },
+      { "niveau": 2, "label": "Soulagement sensible", "description": "Le personnage souffle et laisse aller. Un sourire, un soupir, une pause." },
+      { "niveau": 3, "label": "Soulagement franc", "description": "La tension était réelle et durable. Le relâchement est visible et physique." },
+      { "niveau": 4, "label": "Délivrance", "description": "Le poids était très lourd. La libération produit des larmes, du rire, une légèreté presque irréelle." },
+      { "niveau": 5, "label": "Effondrement de soulagement", "description": "Le personnage ne tient plus debout. La tension était extrême. Il cède maintenant qu'il peut." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui portait seul",
+        "description": "Le soulagement vient avec un effondrement. Personne ne voyait à quel point il tenait à bout de bras. La libération est brutale parce que la charge était cachée."
+      },
+      {
+        "profil": "Personnage entraîné à la gestion de crise",
+        "description": "Le soulagement vient plus tard, décalé. La décompression est retardée. Il range d'abord, fait le bilan, puis le corps lâche une fois seul."
+      },
+      {
+        "profil": "Personnage émotionnellement transparent",
+        "description": "Le soulagement est immédiat et total. Les larmes viennent avant qu'il puisse les arrêter. Il ne s'en excuse pas — c'est visible et c'est réel."
+      }
+    ],
+    "notesEditoriales": [
+      "Le soulagement est une des émotions les plus physiques — le corps parle avant les mots.",
+      "Il révèle à quel point la tension était forte : plus le soulagement est intense, plus la peur sous-jacente était réelle.",
+      "Narrativement puissant après une scène de danger ou d'attente prolongée.",
+      "Le soulagement suivi d'une mauvaise nouvelle est un retournement très efficace."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "joie" },
+      { "type": "peut_evoluer_en", "cible": "fatigue" },
+      { "type": "peut_evoluer_en", "cible": "gratitude" },
+      { "type": "souvent_associe_a", "cible": "larmes-de-soulagement" },
+      { "type": "peut_suivre", "cible": "peur" },
+      { "type": "peut_suivre", "cible": "attente-longue" }
+    ]
+  },
+  {
+    "id": "legerete",
+    "label": "Légèreté",
+    "alias": [
+      "légèreté",
+      "insouciance",
+      "désinvolture heureuse",
+      "absence de poids",
+      "flottement agréable",
+      "humeur légère",
+      "gaieté détendue",
+      "liberté intérieure",
+      "légèreté d'être",
+      "état de grâce"
+    ],
+    "famille": "joie-satisfaction",
+    "definitionCourte": "État dans lequel le personnage se sent temporairement libéré des poids habituels — responsabilités, soucis, tensions — et existe dans l'instant avec une facilité inhabituelle.",
+    "signesPhysiques": [
+      "démarche plus souple et plus aérienne",
+      "sourire récurrent et sans cause précise",
+      "gestes dégagés, peu contraints",
+      "posture ouverte et détendue",
+      "rires plus fréquents et plus faciles",
+      "regard qui traîne sur les détails sans urgence",
+      "mouvements plus amples, moins économiques",
+      "voix plus légère, moins appuyée"
+    ],
+    "sensationsInternes": [
+      "absence de pesanteur dans le corps",
+      "pensée qui glisse sans s'accrocher",
+      "sensation que le présent suffit",
+      "détachement bienveillant des soucis",
+      "élan doux vers les autres",
+      "plaisir des petites choses redevenu possible",
+      "espace intérieur ample"
+    ],
+    "pensees": [
+      "Ça va aller.",
+      "Ce n'est pas si grave.",
+      "J'ai envie de rien de précis — et ça me va.",
+      "Le monde est supportable aujourd'hui.",
+      "Je n'ai pas besoin de tout résoudre maintenant.",
+      "Juste ça, pour le moment.",
+      "C'est agréable d'être là.",
+      "Je me sens bien sans raison particulière."
+    ],
+    "effetsVoixLangage": [
+      "ton plus léger et plus souple",
+      "plaisanteries qui viennent naturellement",
+      "moins de prudence dans les mots",
+      "pauses confortables sans malaise",
+      "écoute plus disponible",
+      "moins de contrôle dans l'expression"
+    ],
+    "comportements": [
+      "flâne, traîne, ralentit",
+      "accepte des invitations qu'il refuserait habituellement",
+      "rit de lui-même sans effort",
+      "remarque des détails qu'il ignore d'habitude",
+      "est moins exigeant envers les autres",
+      "parle de choses sans importance avec plaisir",
+      "laisse traîner une conversation",
+      "profite sans calculer"
+    ],
+    "masquesPossibles": [
+      "légèreté jouée pour ne pas alarmer",
+      "désinvolture qui cache une anxiété",
+      "humour de façade"
+    ],
+    "evolutionsPossibles": [
+      "joie franche si quelque chose de bien arrive dans cet état",
+      "retour aux soucis habituels à la fin de la parenthèse",
+      "insouciance coupable si la légèreté est déplacée",
+      "ancrage durable si le personnage apprend à y revenir"
+    ],
+    "contextesAggravants": [
+      "rappel brutal des responsabilités",
+      "présence de quelqu'un qui souffre",
+      "mauvaise nouvelle qui surgit dans la parenthèse"
+    ],
+    "contextesAttenuants": [
+      "absence temporaire de pression",
+      "nature, lumière douce, espace",
+      "présence de quelqu'un avec qui on n'a pas à se justifier"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère détente", "description": "Le personnage est simplement moins tendu que d'habitude." },
+      { "niveau": 2, "label": "Bien-être agréable", "description": "Une parenthèse douce dans le quotidien. Le personnage est disponible et détendu." },
+      { "niveau": 3, "label": "Légèreté sensible", "description": "Les poids habituels semblent suspendus. Le personnage existe dans l'instant." },
+      { "niveau": 4, "label": "Insouciance vraie", "description": "Les soucis n'ont plus prise. Le personnage flotte. C'est rare et précieux." },
+      { "niveau": 5, "label": "État de grâce", "description": "Tout semble facile, beau, possible. Ce n'est pas durable — mais c'est réel." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage habituellement très sérieux",
+        "description": "La légèreté est étrange pour lui. Il ne sait pas trop quoi en faire. Elle le désarme légèrement. Les autres le regardent différemment et lui aussi se regarde avec surprise."
+      },
+      {
+        "profil": "Personnage naturellement léger",
+        "description": "C'est son état de base. La légèreté n'est pas une exception, c'est un mode de vie. Ce qui est narrativement intéressant est de le voir sortir de cet état — pas d'y entrer."
+      },
+      {
+        "profil": "Personnage après une longue tension",
+        "description": "La légèreté est une récompense. Elle est d'autant plus intense et consciente que la période sombre a duré. Il s'y autorise enfin."
+      }
+    ],
+    "notesEditoriales": [
+      "La légèreté est plus efficace narrativement comme contraste — avant ou après une scène difficile.",
+      "Elle peut révéler la personnalité profonde d'un personnage habituellement sous pression.",
+      "Éviter de la réduire à de l'irresponsabilité : la légèreté est une forme de santé, pas un défaut.",
+      "Elle est souvent plus touchante quand elle est rare et provisoire."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "joie" },
+      { "type": "peut_evoluer_en", "cible": "insouciance-coupable" },
+      { "type": "peut_suivre", "cible": "soulagement" },
+      { "type": "peut_masquer", "cible": "evitement" },
+      { "type": "souvent_associe_a", "cible": "etat-de-vacances" },
+      { "type": "peut_contraster_avec", "cible": "deuil" }
+    ]
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "manipulateur",
+    "label": "Manipulateur",
+    "polarite": "negatif",
+    "famille": "controle-influence",
+    "definitionCourte": "Tendance à influencer les autres de façon indirecte, voilée et intéressée, en jouant sur leurs émotions, leurs craintes ou leurs désirs plutôt qu'en agissant ouvertement. Le manipulateur obtient ce qu'il veut sans jamais sembler le demander.",
+    "signesPhysiques": [
+      "regard attentif qui enregistre sans livrer grand-chose en retour",
+      "sourire légèrement en avance sur la situation — comme s'il savait déjà comment ça va finir",
+      "posture détendue même dans les moments qui devraient le tendre",
+      "inclinaison vers l'autre au moment précis où il le crochet émotionnellement",
+      "ton de voix modulé avec soin selon l'effet recherché",
+      "mains ouvertes, gestes de transparence calculés",
+      "contact visuel maintenu juste assez longtemps pour créer la connexion",
+      "micro-toucher — main sur l'avant-bras, épaule effleurée — pour ancrer l'influence",
+      "expression de sympathie dont rien dans les yeux ne confirme la sincérité",
+      "silence précis là où il attend que l'autre comble le vide à son désavantage",
+      "hochement de tête lent et approbateur — crée un sentiment d'être compris"
+    ],
+    "sensationsInternes": [
+      "satisfaction froide quand une manœuvre fonctionne comme prévu",
+      "léger ennui quand les gens sont trop facilement influençables",
+      "vigilance permanente — calcule les possibilités en permanence",
+      "excitation discrète dans les situations à fort enjeu",
+      "mépris diffus pour ceux qui se laissent mener",
+      "inquiétude possible quand quelqu'un le déchiffre",
+      "sentiment de solitude structurelle — ne peut jamais se laisser voir vraiment",
+      "tension légère quand une situation lui échappe"
+    ],
+    "pensees": [
+      "Je n'ai qu'à attendre. Il va faire exactement ce que j'avais prévu.",
+      "Elle croit que c'est son idée. Parfait.",
+      "Il faut trouver ce qu'il ne veut pas perdre. Après, c'est simple.",
+      "Tout le monde manipule. Moi je suis juste plus honnête avec moi-même sur ce que je fais.",
+      "Si je le demande directement, il refusera. Donc je ne le demande pas.",
+      "La culpabilité, c'est un levier comme un autre.",
+      "Je ne mens pas. Je choisis ce que je montre.",
+      "Il pense qu'il me fait confiance. C'est exactement là que je voulais en arriver.",
+      "Elle est en colère. Je vais attendre qu'elle ait besoin de quelqu'un."
+    ],
+    "effetsVoixLangage": [
+      "questions qui orientent sans avoir l'air de le faire — 'tu ne crois pas que...?'",
+      "reformulation subtile des propos de l'autre pour les orienter à son avantage",
+      "silence stratégique — crée le malaise que l'autre s'empresse de remplir",
+      "compliments précis sur des insécurités qu'il a identifiées",
+      "langage de la confidence — 'entre nous...', 'je ne dirais ça qu'à toi'",
+      "ton légèrement blessé quand l'autre résiste — active la culpabilité",
+      "formulations qui rendent la demande indirecte invisible : 'tu ferais ça si tu voulais vraiment...'"
+    ],
+    "comportements": [
+      "identifie rapidement les besoins, peurs et insécurités de son entourage",
+      "se montre extraordinairement attentionné dans les phases de séduction ou de préparation",
+      "joue sur la culpabilité sans jamais l'articuler directement",
+      "crée des dettes symboliques qu'il encaissera plus tard",
+      "isole progressivement sa cible des personnes qui pourraient le démasquer",
+      "se présente comme victime quand il est mis en cause",
+      "utilise l'information reçue en confidence comme levier de contrôle",
+      "adapte sa personnalité selon son interlocuteur avec une fluidité déconcertante",
+      "provoque des conflits entre d'autres pour en tirer profit",
+      "revient à la charge après un refus, par un angle différent",
+      "maintient des relations satellites — des gens qui lui sont redevables"
+    ],
+    "masquesPossibles": [
+      "bienveillance — présente chaque manœuvre comme étant dans l'intérêt de l'autre",
+      "victime — retourne la situation pour que ce soit lui qui souffre",
+      "conseiller sincère — offre de l'aide dont il tirera un bénéfice caché",
+      "naïveté feinte — 'je ne savais pas que ça te ferait cet effet'",
+      "charme — la séduction comme écran de fumée permanent"
+    ],
+    "manifestationsPositives": [
+      "peut être un négociateur redoutable dans des contextes qui le permettent",
+      "comprend les motivations humaines avec une profondeur rare",
+      "peut protéger ceux qu'il aime vraiment avec une efficacité totale",
+      "ses compétences sociales sont réelles et sophistiquées",
+      "peut parfois choisir de ne pas manipuler — et ce choix est significatif"
+    ],
+    "manifestationsNegatives": [
+      "détruit progressivement la confiance autour de lui quand il est démasqué",
+      "crée des environnements de méfiance chronique",
+      "les relations qu'il construit sont fondées sur du faux — elles s'effondrent",
+      "peut lui-même perdre le fil de ce qui est sincère en lui",
+      "finit souvent seul car personne ne peut se détendre à ses côtés"
+    ],
+    "blessuresPossibles": [
+      "a grandi dans un environnement où la demande directe était punissable ou ignorée",
+      "a appris très tôt que la vérité ne protège pas — seul le contrôle protège",
+      "a été manipulé lui-même par une figure proche et en a fait sa méthode de survie"
+    ],
+    "evolutionsPossibles": [
+      "peut rencontrer quelqu'un qui le voit sans être dupe — et en être profondément ébranlé",
+      "peut s'épuiser de ne jamais pouvoir se laisser voir vraiment",
+      "peut choisir la transparence dans une relation et découvrir que c'est plus puissant",
+      "peut s'enfoncer dans un isolement de plus en plus total si la manipulation échoue durablement",
+      "peut trouver dans la destruction de ce qu'il aimait le déclencheur d'une remise en question"
+    ],
+    "notesEditoriales": [
+      "Le manipulateur intéressant n'est pas celui qui calcule tout parfaitement — c'est celui qui a un angle mort, quelqu'un ou quelque chose pour qui la manipulation ne fonctionne pas.",
+      "Montrer ce que le manipulateur ne peut pas contrôler est aussi important que de montrer ce qu'il maîtrise.",
+      "Distinguer manipulation et influence : l'influence respecte la liberté de l'autre, la manipulation la contourne. Cette frontière peut être ténue et vaut une scène."
+    ]
+  },
+  {
+    "id": "autoritaire",
+    "label": "Autoritaire",
+    "polarite": "negatif",
+    "famille": "controle-domination",
+    "definitionCourte": "Besoin fort de contrôler les autres, les situations et les résultats — souvent par une peur profonde du désordre ou de la perte de maîtrise. L'autoritarisme se traduit par des exigences non négociables et une tolérance très basse à l'autonomie des autres.",
+    "signesPhysiques": [
+      "posture droite, rigide, qui occupe l'espace sans s'excuser",
+      "regard direct et soutenu — ne cède pas la ligne de vue",
+      "voix qui ne monte pas dans le volume mais dont le ton coupe",
+      "mains sur les hanches ou posées à plat sur la table — signaux de territoire",
+      "sourcils légèrement froncés en mode d'inspection ou d'évaluation",
+      "gestes tranchants — pointe, tranche l'air, délimite",
+      "silence lourd après une consigne — attend la soumission sans avoir besoin de la demander",
+      "mâchoire serrée quand quelqu'un questionne son autorité",
+      "déplacement dans l'espace qui prend naturellement le centre",
+      "regard qui balaye pour vérifier la conformité",
+      "expression neutre et froide qui ne récompense pas facilement"
+    ],
+    "sensationsInternes": [
+      "malaise physique face au désordre ou à l'imprévision",
+      "tension qui monte quand une règle est contournée",
+      "satisfaction nette et rapide quand les choses se déroulent comme prévu",
+      "irritation prompte face à l'incompétence ou à la résistance",
+      "sentiment de responsabilité totale — si ça foire, c'est parce qu'il n'a pas assez contrôlé",
+      "inconfort dans les situations ambiguës où il ne peut pas trancher",
+      "énergie qui monte dans les phases de mise en ordre",
+      "sentiment d'isolement possible — difficile de trouver des pairs au même niveau d'exigence"
+    ],
+    "pensees": [
+      "Si je ne surveille pas, ça part dans tous les sens.",
+      "Il faut que ce soit fait correctement. Pas à moitié.",
+      "Je n'ai pas demandé ton avis. J'ai donné une directive.",
+      "Les émotions n'ont rien à faire ici. On a du travail.",
+      "Si tu ne peux pas le faire à ma façon, je le ferai moi-même.",
+      "Le chaos, c'est le résultat du laxisme.",
+      "Je fais ça pour tout le monde. Ils ne le voient pas toujours, mais je le fais.",
+      "La discussion est close. On avance.",
+      "Ils m'en veulent parce que j'exige. Ils me remercieront quand ça marchera."
+    ],
+    "effetsVoixLangage": [
+      "directives formulées comme des faits, pas comme des demandes",
+      "interruptions fréquentes — n'attend pas la fin de la phrase si il a la réponse",
+      "reformulation de ce que les autres ont dit pour l'aligner avec sa vision",
+      "ton qui ne laisse pas de place au 'non' sans qu'il soit formulé comme tel",
+      "absence de 's'il vous plaît' dans les situations qu'il considère comme évidentes",
+      "silence qui suit une question comme une pression implicite",
+      "les compliments, quand ils viennent, sont mesurés et conditionnels"
+    ],
+    "comportements": [
+      "prend les décisions sans consulter même quand la consultation serait utile",
+      "corrige, refait, contrôle le travail des autres",
+      "établit des règles non négociables dans les espaces qu'il considère comme les siens",
+      "réagit avec une sévérité disproportionnée aux écarts mineurs",
+      "peut écarter des personnes compétentes si elles remettent en cause son autorité",
+      "ne délègue que sous contrôle permanent",
+      "peut prendre des décisions contre l'intérêt collectif pour préserver son autorité",
+      "attend l'obéissance comme un dû, non comme un résultat à mériter",
+      "ne s'excuse pas — l'excuse est vécue comme une faiblesse",
+      "peut fonctionner très bien dans les crises — le chaos lui donne une légitimité",
+      "maintient des hiérarchies strictes même dans des contextes informels"
+    ],
+    "masquesPossibles": [
+      "responsabilité — 'je dois m'assurer que ça marche, c'est mon rôle'",
+      "protection — 'je les protège en leur imposant un cadre'",
+      "compétence — l'autorité se justifie par une vraie expertise, ce qui la rend plus difficile à contester",
+      "bienveillance paternaliste — 'c'est pour leur bien, même s'ils ne le comprennent pas'",
+      "efficacité — dans les contextes de crise, l'autoritarisme peut produire des résultats réels"
+    ],
+    "manifestationsPositives": [
+      "peut garantir la cohérence et l'efficacité dans les contextes qui l'exigent",
+      "sa capacité à trancher évite les paralysies décisionnelles",
+      "prend des responsabilités que d'autres fuient",
+      "peut protéger un groupe dans les situations de danger réel",
+      "son cadre, s'il est juste, peut libérer ceux qui ont besoin de structure"
+    ],
+    "manifestationsNegatives": [
+      "étouffe l'initiative et la créativité de ceux qui l'entourent",
+      "crée des environnements de peur et de conformité",
+      "peut prendre de très mauvaises décisions en écartant les voix dissonantes",
+      "génère des rébellions silencieuses ou ouvertes",
+      "finit souvent par s'isoler — les gens compétents partent, les autres se taisent"
+    ],
+    "blessuresPossibles": [
+      "a vécu une situation de chaos ou de perte de contrôle traumatisante dont il se protège",
+      "a grandi dans un environnement imprévisible — l'autorité est une réponse à l'insécurité",
+      "a été celui sur qui tout reposait très tôt — et ne sait plus comment poser ce fardeau"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre que la confiance accordée produit parfois de meilleurs résultats que le contrôle",
+      "peut être confronté à une situation que son autorité ne peut pas résoudre",
+      "peut s'effondrer si le contrôle qu'il exerçait disparaît sans qu'il ait appris à faire autrement",
+      "peut trouver dans une relation d'égal à égal quelque chose qu'il n'avait jamais connu",
+      "peut évoluer vers une autorité plus douce si quelqu'un lui prouve que c'est possible"
+    ],
+    "notesEditoriales": [
+      "L'autoritaire est plus riche quand on voit ce qu'il contrôle en réalité — souvent une panique intérieure profonde face au désordre du monde.",
+      "Distinguer autorité légitime et autoritarisme : le premier est consenti, le second est imposé. La frontière peut être le pivot d'une scène entière.",
+      "Éviter le personnage autoritaire comme pure figure de pouvoir — montrer le coût personnel de ne jamais pouvoir lâcher est ce qui le rend humain."
+    ]
+  },
+  {
+    "id": "charmeur",
+    "label": "Charmeur",
+    "polarite": "ambigu",
+    "famille": "seduction-magnetisme",
+    "definitionCourte": "Capacité à attirer, plaire et désarmer avec une apparente facilité naturelle. Le charme peut être sincère ou instrumentalisé — et parfois les deux à la fois, ce qui le rend particulièrement difficile à démêler.",
+    "signesPhysiques": [
+      "sourire qui arrive juste au bon moment — pas trop tôt, pas trop tard",
+      "regard qui donne l'impression d'être le seul dans la pièce",
+      "légère inclinaison de la tête — écoute affichée, attention offerte",
+      "gestes amples et fluides, sans tensions apparentes",
+      "contact physique léger et précis — effleure plus qu'il ne touche",
+      "posture ouverte, corps accessible, jamais croisé ni fermé",
+      "voix dont le registre descend légèrement dans les moments intimes",
+      "rire facile, contagieux, qui semble toujours sincère",
+      "regard qui revient sur l'autre après avoir balayé la pièce — signale l'élection",
+      "présence physique qui remplit l'espace sans l'écraser",
+      "expression qui s'adapte subtilement à l'humeur de l'interlocuteur"
+    ],
+    "sensationsInternes": [
+      "plaisir authentique dans les interactions sociales — l'énergie monte dans les groupes",
+      "attention distribuée selon un calcul presque inconscient",
+      "légère excitation dans les situations de séduction ou de persuasion",
+      "ennui profond quand personne ne répond à son charme",
+      "difficulté à rester dans une relation longtemps au même niveau d'intensité",
+      "malaise quand quelqu'un ne réagit pas du tout à ce qu'il déploie",
+      "conscience aiguë de l'effet qu'il produit — un radar social très précis",
+      "solitude possible derrière la facilité relationnelle — les connexions sont nombreuses mais peu profondes"
+    ],
+    "pensees": [
+      "Je le sens. Il suffit d'un peu plus.",
+      "Elle résiste. C'est plus intéressant.",
+      "Je ne mens pas — je présente la meilleure version de ce que je suis.",
+      "Les gens ont besoin d'être séduits avant d'écouter. Je leur donne ça.",
+      "Ce n'est pas calculé. Enfin, pas toujours.",
+      "Tout le monde joue un rôle. Le mien est juste plus conscient.",
+      "Quand la magie opère, je le sens physiquement.",
+      "Je suis fatigué parfois. Mais si je m'arrête, qu'est-ce qui reste ?",
+      "L'attention des autres me nourrit. Je sais que ce n'est pas très beau, mais c'est vrai."
+    ],
+    "effetsVoixLangage": [
+      "mémorisation des détails que l'autre a mentionnés — les ressort au bon moment",
+      "humour adapté à chaque personne — ne sort pas les mêmes blagues partout",
+      "compliments précis, pas généraux — touchent vraiment",
+      "ton qui s'ajuste selon les besoins de l'interlocuteur",
+      "questions qui font sentir à l'autre qu'il est intéressant",
+      "confidence partagée pour créer l'impression de réciprocité",
+      "sait quand se taire — le silence peut être aussi magnétique que la parole"
+    ],
+    "comportements": [
+      "entre dans une pièce et en lit rapidement le terrain",
+      "adapte son personnage à l'interlocuteur sans en avoir l'air",
+      "fait sentir à chacun qu'il est spécial",
+      "peut utiliser son charme pour obtenir des faveurs, des accès, des exceptions",
+      "garde un réseau large de personnes favorablement disposées",
+      "peut s'ennuyer une fois la séduction accomplie",
+      "peut fuir les situations qui exigent une présence sans performance",
+      "peut se retrouver dans des situations où plusieurs personnes pensaient être uniques à ses yeux",
+      "recharge son énergie dans les interactions sociales plutôt que dans la solitude",
+      "peut multiplier les relations parallèles par besoin de validation",
+      "ses vraies loyautés sont plus rares qu'il n'y paraît"
+    ],
+    "masquesPossibles": [
+      "générosité — chaque geste de charme peut passer pour un cadeau sincère",
+      "spontanéité — ce qui est calculé semble naturel",
+      "intensité émotionnelle — l'attention focalisée crée une intimité qui peut paraître profonde",
+      "humilité charmante — 'je n'ai pourtant rien de spécial' comme méthode de capture",
+      "amour sincère — parfois le charmeur se séduit lui-même dans ses propres performances"
+    ],
+    "manifestationsPositives": [
+      "crée des atmosphères légères et agréables dans les groupes",
+      "peut désamorcer les conflits par sa seule présence",
+      "donne aux autres un sentiment d'être vus et appréciés",
+      "peut mobiliser, convaincre, fédérer avec une efficacité naturelle",
+      "quand son affection est réelle, elle a une chaleur rare"
+    ],
+    "manifestationsNegatives": [
+      "peut blesser profondément sans en avoir conscience — les autres se croyaient uniques",
+      "peut instrumentaliser des émotions sincères chez l'autre",
+      "ses relations manquent souvent de profondeur et de durée",
+      "peut ne jamais se laisser vraiment connaître derrière la performance",
+      "peut devenir dépendant de l'effet qu'il produit — l'attention des autres comme drogue"
+    ],
+    "blessuresPossibles": [
+      "a appris très tôt que l'amour conditionnel se méritait par la performance et le plaire",
+      "a grandi dans un environnement où être désagréable était dangereux",
+      "a été rejeté ou invisible avant de découvrir que le charme le rendait visible"
+    ],
+    "evolutionsPossibles": [
+      "peut trouver quelqu'un qui ne répond pas à son charme et en être perturbé au point de se découvrir",
+      "peut s'épuiser de la performance permanente et désirer quelque chose de vrai",
+      "peut fuir cette désillusion en intensifiant la séduction",
+      "peut atteindre une forme de charme plus profond — ancré dans la sincérité plutôt que la technique",
+      "peut s'effondrer si l'image qu'il projetait est durablement mise à mal"
+    ],
+    "notesEditoriales": [
+      "Le charmeur est dramatiquement intéressant quand quelqu'un le voit tel qu'il est — et qu'il doit choisir entre fuir ou rester.",
+      "Distinguer charme et manipulation : le premier peut être sincère, le second ne l'est jamais vraiment. La même scène peut être lue différemment selon l'intention.",
+      "Éviter le charmeur-séducteur comme archétype vide — donner accès à ce qui se passe quand personne ne regarde est ce qui rend le personnage réel."
+    ]
+  },
+  {
+    "id": "narcissique",
+    "label": "Narcissique",
+    "polarite": "negatif",
+    "famille": "ego-centralite",
+    "definitionCourte": "Vision du monde centrée sur soi-même, besoin constant de validation et d'admiration, faible capacité à percevoir la réalité intérieure des autres. Le narcissisme n'est pas toujours bruyant — il peut s'exprimer dans la subtilité des attentes non formulées.",
+    "signesPhysiques": [
+      "regard qui glisse sur les autres sans vraiment les voir",
+      "posture qui occupe l'espace comme si c'était naturellement le sien",
+      "sourire qui arrive surtout quand quelque chose le concerne",
+      "expression qui se décompose brièvement quand l'attention se détourne de lui",
+      "gestes d'assertion — ramène le sujet à lui par le geste autant que par les mots",
+      "regard vers son reflet dans les surfaces réfléchissantes — discret mais régulier",
+      "impatience physique visible quand quelqu'un d'autre est au centre",
+      "mains qui pointent vers lui-même dans les conversations",
+      "expression de condescendance légère face à ce qu'il juge inférieur",
+      "tension imperceptible quand quelqu'un ne réagit pas à ce qu'il dit",
+      "port de tête légèrement élevé — regard qui vient de haut même quand la différence est petite"
+    ],
+    "sensationsInternes": [
+      "vide chronique sous la surface de la confiance affichée",
+      "frisson de plaisir net quand il est admiré ou validé",
+      "rage froide ou effondrement brutal quand l'image est attaquée",
+      "ennui profond face aux besoins des autres",
+      "sentiment d'être fondamentalement différent — au-dessus — des gens ordinaires",
+      "anxiété de fond que l'image ne soit pas à la hauteur",
+      "satisfaction intense dans les projections futures de sa propre réussite",
+      "humiliation insupportable, même pour des critiques mineures"
+    ],
+    "pensees": [
+      "Ils ne comprennent pas vraiment ce que je fais. Peu importe.",
+      "Si elle ne le voit pas, c'est son problème.",
+      "Je mérite mieux que ça.",
+      "Pourquoi est-ce que tout le monde parle de lui ? C'est quoi l'intérêt ?",
+      "Je ne suis pas comme les autres. J'ai toujours su que c'était différent pour moi.",
+      "Elle me critique parce qu'elle est jalouse.",
+      "Si je n'étais pas là, rien de tout ça ne fonctionnerait.",
+      "Je lui ai donné tellement. Et voilà ce que j'obtiens.",
+      "Les règles communes sont pour ceux qui ne peuvent pas faire mieux."
+    ],
+    "effetsVoixLangage": [
+      "ramène systématiquement la conversation à lui-même",
+      "interrompt pour partager quelque chose de plus grand ou de plus impressionnant",
+      "minimise les réussites des autres sans sembler le faire exprès",
+      "son registre monte quand il parle de lui-même",
+      "formulaire des comparaisons qui le placent favorablement",
+      "ne pose pas vraiment de questions — ou pose des questions pour rebondir vers lui-même",
+      "exprime sa critique de façon indirecte mais cinglante"
+    ],
+    "comportements": [
+      "tire constamment la couverture de l'attention vers lui",
+      "se compare aux autres en cherchant à se placer au-dessus",
+      "peut être généreux avec ostentation mais pas avec discrétion",
+      "s'entoure de personnes qui l'admirent et écarte celles qui le questionnent",
+      "réagit à la critique par la rage, l'effondrement ou le mépris",
+      "peut exploiter émotionnellement ceux qui l'aiment sans en avoir conscience",
+      "change de récit sur lui-même selon les besoins de son image",
+      "n'admet jamais ses torts — redirige la responsabilité vers l'autre",
+      "peut traiter les gens comme des extensions de lui-même plutôt que comme des personnes",
+      "peut être extraordinairement séduisant et charismatique à court terme",
+      "abandonne les relations dès qu'elles ne lui apportent plus la validation escomptée"
+    ],
+    "masquesPossibles": [
+      "confiance — le narcissisme est souvent pris pour de l'estime de soi",
+      "exigence — présente son besoin d'admiration comme des standards élevés",
+      "générosité spectaculaire — donne beaucoup en public, peu sans témoin",
+      "sensibilité — peut pleurer ou s'effondrer d'une façon qui capte toute la compassion",
+      "humilité performative — 'je suis nul' dit de façon à ce qu'on le contredise"
+    ],
+    "manifestationsPositives": [
+      "peut produire des réalisations impressionnantes motivées par le besoin de briller",
+      "son assurance peut être communicative dans des situations qui nécessitent de l'audace",
+      "peut avoir une vision grandiose qui entraîne les autres",
+      "sa présentation de lui-même peut ouvrir des portes réelles",
+      "peut avoir de vraies compétences que le narcissisme amplifie plutôt qu'il ne crée"
+    ],
+    "manifestationsNegatives": [
+      "laisse les autres se sentir invisibles, insignifiants, épuisés",
+      "détruit progressivement ceux qui l'aiment par l'indifférence à leur réalité",
+      "ne peut pas soutenir les autres dans la durée sans y trouver un bénéfice",
+      "peut devenir violent — verbalement ou physiquement — lors d'une blessure narcissique",
+      "finit souvent isolé car les personnes qui voient clair partent"
+    ],
+    "blessuresPossibles": [
+      "a grandi avec un amour conditionnel à la performance — l'admiration comme seul substitut",
+      "a été profondément humilié et a construit une image grandiose comme protection",
+      "a grandi dans l'ombre d'un parent narcissique et a reproduit le modèle"
+    ],
+    "evolutionsPossibles": [
+      "peut être confronté à une perte réelle que son image ne peut pas effacer",
+      "peut rencontrer quelqu'un dont il a besoin et qu'il ne peut pas contrôler",
+      "peut s'effondrer si la façade est durablement mise à mal — la dépression sous le narcissisme est profonde",
+      "peut atteindre une forme de lucidité tardive et douloureuse",
+      "peut trouver dans une aide thérapeutique une voie de sortie — mais elle nécessite de reconnaître ce qu'il est"
+    ],
+    "notesEditoriales": [
+      "Le personnage narcissique est plus puissant narrativement s'il a une vraie douleur sous la surface — pas pour l'excuser, mais pour le rendre humain.",
+      "Distinguer estime de soi et narcissisme : l'estime de soi ne nécessite pas l'humiliation de l'autre, le narcissisme si.",
+      "Éviter le narcissique comme pur antagoniste : ses moments de vraie solitude ou d'effondrement sont des scènes que le lecteur ne peut pas ne pas ressentir."
+    ]
+  },
+  {
+    "id": "introverti",
+    "label": "Introverti",
+    "polarite": "ambigu",
+    "famille": "interiorite-repli",
+    "definitionCourte": "Orientation naturelle vers le monde intérieur — les idées, les impressions, les émotions propres — plutôt que vers le monde extérieur et les interactions sociales. L'introversion n'est pas de la timidité ni du rejet des autres, mais une façon d'habiter le monde qui nécessite la solitude comme ressource.",
+    "signesPhysiques": [
+      "regard qui se tourne vers l'intérieur dans les moments de bruit social",
+      "posture de légère contraction dans les espaces très peuplés",
+      "présence discrète — n'impose pas son espace, ne prend pas le centre",
+      "regard qui observe longuement avant de s'engager",
+      "sourire qui vient lentement mais qui, quand il arrive, est entier",
+      "corps tourné en angle dans les groupes — semi-présent, semi-en retrait",
+      "tension légère dans les épaules dans les espaces bruyants ou inconnus",
+      "mains tranquilles — peu de gesticulation inutile",
+      "regard qui part ailleurs un instant — traitement interne visible",
+      "détente visible quand le groupe se réduit ou disparaît",
+      "attention portée aux détails de l'environnement plutôt qu'aux dynamiques sociales"
+    ],
+    "sensationsInternes": [
+      "énergie qui se recharge dans la solitude et se dépense dans les interactions",
+      "saturation sensorielle progressive dans les environnements très stimulants",
+      "richesse intérieure que les autres ne voient pas",
+      "légère anxiété anticipatoire avant les événements sociaux importants",
+      "soulagement profond quand la porte se referme et qu'il est seul",
+      "pensées qui se déroulent mieux sans interruptions extérieures",
+      "sentiment d'être légèrement décalé dans les situations d'interaction rapide",
+      "confort dans le silence partagé avec quelqu'un de confiance"
+    ],
+    "pensees": [
+      "J'ai besoin de temps seul pour comprendre ce que je pense vraiment.",
+      "Ce n'est pas parce que je ne parle pas que je n'ai rien à dire.",
+      "Je préfère une vraie conversation à dix conversations de surface.",
+      "Après ça, il me faudra du temps seul pour me reconstituer.",
+      "Tout le monde semble trouver ça naturel. Pourquoi est-ce que c'est si épuisant pour moi ?",
+      "Je ne déteste pas les gens. Je me fatigue juste d'eux.",
+      "Ce moment de silence n'est pas gênant. Il me nourrit.",
+      "J'aurais tellement de choses à dire — mais pas là, pas maintenant, pas comme ça.",
+      "Mes meilleures idées viennent quand je suis seul."
+    ],
+    "effetsVoixLangage": [
+      "parle moins mais avec plus de précision",
+      "silence qui n'est pas de l'inconfort — il réfléchit avant de parler",
+      "profondeur possible dans les conversations en tête-à-tête, qu'il n'atteint pas en groupe",
+      "peut sembler distant ou froid dans les premiers contacts",
+      "choisit ses mots avec soin — peu d'approximations",
+      "peut ne pas répondre immédiatement — traite en interne d'abord",
+      "conversations qui gagnent en richesse à mesure que la confiance s'installe"
+    ],
+    "comportements": [
+      "recharge son énergie dans la solitude",
+      "préfère les interactions profondes aux échanges larges et superficiels",
+      "s'engage profondément avec un petit nombre de personnes",
+      "peut sembler absent dans les groupes alors qu'il observe et traite",
+      "prépare ses interventions — réfléchit avant de parler en public",
+      "a besoin de temps pour intégrer les nouvelles situations ou les nouvelles personnes",
+      "peut rester silencieux lors d'un désaccord pour y revenir plus tard, articulé",
+      "trouve les petits talk epuisants mais les grandes conversations nourrissantes",
+      "a des ressources intellectuelles et émotionnelles profondes difficiles à voir en surface",
+      "peut être très productif dans la solitude — travail, réflexion, création",
+      "protège son temps seul comme une nécessité et non comme un caprice"
+    ],
+    "masquesPossibles": [
+      "froideur — l'introversion peut être lue comme du désintérêt",
+      "arrogance — le silence peut être interprété comme du mépris",
+      "timidité — parfois confondue avec l'introversion, mais différente",
+      "indifférence — son calme peut masquer une intensité intérieure importante",
+      "conformité forcée — peut jouer l'extraverti pour correspondre aux attentes sociales, au prix d'un épuisement réel"
+    ],
+    "manifestationsPositives": [
+      "profondeur relationnelle rare dans les liens qu'il choisit",
+      "qualité de réflexion et de traitement que l'agitation sociale ne permet pas",
+      "créativité et originalité nourries par le temps passé avec lui-même",
+      "fiabilité — dit ce qu'il pense vraiment, pas ce qui est attendu",
+      "présence pleine dans les interactions choisies",
+      "capacité à entendre vraiment, sans déjà préparer sa réponse"
+    ],
+    "manifestationsNegatives": [
+      "peut passer à côté d'opportunités qui nécessitent une présence sociale soutenue",
+      "peut être mal compris, sous-estimé dans des contextes qui valorisent l'extraversion",
+      "peut s'isoler au point de perdre des connexions qui lui auraient fait du bien",
+      "peut accumuler en interne sans jamais déposer — ce qui finit par peser",
+      "peut paraître moins compétent qu'il ne l'est simplement parce qu'il s'exprime moins"
+    ],
+    "blessuresPossibles": [
+      "a grandi dans un environnement où l'introversion était vue comme un défaut à corriger",
+      "a été forcé à performer l'extraversion pendant longtemps et en garde une fatigue chronique",
+      "a connu un rejet social lié à sa discrétion et a appris à se fermer davantage"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à valoriser son introversion comme une force plutôt que comme une limite",
+      "peut trouver des espaces et des personnes qui accueillent sa façon d'être",
+      "peut s'enfermer progressivement si ses besoins ne sont jamais reconnus",
+      "peut devenir plus fluide dans les espaces sociaux sans renier ce qu'il est",
+      "peut trouver dans l'écriture, la création ou la réflexion un canal pour ce qui ne sort pas en paroles"
+    ],
+    "notesEditoriales": [
+      "L'introverti n'est pas asocial — il est sélectif. Cette distinction est narrativement importante : ses choix relationnels ont un poids que ceux d'un extraverti n'ont pas.",
+      "Ne pas confondre introversion et dépression, ni introversion et froideur : un introverti peut être très chaleureux, très présent — juste dans des contextes précis.",
+      "La scène la plus révélatrice pour un personnage introverti est souvent celle où il parle vraiment — enfin, pour la première fois, à fond — à quelqu'un qui mérite de l'entendre."
+    ]
+  },
+  {
+    "id": "resilient",
+    "label": "Résilient",
+    "polarite": "positif",
+    "famille": "endurance-reconstruction",
+    "definitionCourte": "Capacité à traverser l'adversité, le traumatisme ou la perte et à se reconstruire — non pas sans blessures, mais malgré elles. La résilience n'est pas l'absence de douleur mais la capacité à continuer avec elle.",
+    "signesPhysiques": [
+      "regard qui a vu quelque chose de dur et qui tient quand même",
+      "cicatrices visibles — physiques ou dans l'expression — portées sans honte",
+      "posture qui s'est redressée, pas toujours droite mais jamais effondrée",
+      "mains qui reprennent ce qu'elles avaient lâché",
+      "mouvement qui reprend après une pause — pas de blocage permanent",
+      "sourire qui peut coexister avec une tristesse profonde",
+      "respiration qui revient à son rythme après la tempête",
+      "fatigue visible mais pas paralysante",
+      "regard qui cherche encore — n'a pas abandonné l'horizon",
+      "gestes qui recommencent là où ils s'étaient arrêtés",
+      "corps qui tient debout même quand tout invite à s'asseoir définitivement"
+    ],
+    "sensationsInternes": [
+      "douleur présente mais pas totale — il y a encore de la place pour autre chose",
+      "fatigue profonde coexistant avec une volonté de continuer",
+      "sentiment qu'avoir survécu crée une responsabilité envers la suite",
+      "accès à des ressources internes qu'il ne savait pas avoir avant l'épreuve",
+      "capacité à trouver du sens même dans ce qui n'en a pas",
+      "deuil possible mais non figé — la douleur avance lentement",
+      "fierté discrète d'avoir tenu là où d'autres n'ont pas pu",
+      "conscience que la fragilité et la force coexistent en lui"
+    ],
+    "pensees": [
+      "Ce n'est pas fini parce que c'est difficile.",
+      "J'ai déjà traversé quelque chose d'aussi dur. J'en suis sorti.",
+      "La douleur ne disparaît pas, mais elle change de forme.",
+      "Je ne suis plus le même qu'avant. C'est peut-être bien aussi.",
+      "Il y a quelque chose de l'autre côté. Je ne le vois pas encore, mais il est là.",
+      "Je peux me permettre de m'effondrer maintenant. Et me relever demain.",
+      "Ce que j'ai perdu ne revient pas. Ce que j'en fais, c'est à moi.",
+      "La cicatrice n'est pas une honte. C'est la preuve que j'ai guéri.",
+      "Un jour à la fois. C'est tout ce que je demande."
+    ],
+    "effetsVoixLangage": [
+      "parle de sa douleur sans s'y noyer — avec une distance gagnée",
+      "formule les épreuves passées avec une clarté sobre",
+      "peut nommer ce qui a failli le briser sans que ça le brise encore",
+      "ton qui ne cherche ni la pitié ni l'admiration",
+      "humour possible face à ce qui était terrible — non pour minimiser, mais pour continuer",
+      "paroles qui donnent de l'espace aux autres dans leur propre souffrance",
+      "ne compare pas les douleurs — reconnaît la sienne et celle des autres"
+    ],
+    "comportements": [
+      "reprend ce qu'il avait abandonné quand la force revient",
+      "cherche du sens dans l'adversité sans le forcer",
+      "s'autorise à souffrir sans en faire une identité permanente",
+      "tend la main aux autres qui traversent ce qu'il a déjà traversé",
+      "peut fixer des limites plus claires après avoir appris ce qu'il peut et ne peut pas porter",
+      "ne se définit pas uniquement par ce qu'il a perdu",
+      "continue à construire même quand les bases ont tremblé",
+      "accepte de l'aide quand elle est proposée — ce n'était pas toujours le cas",
+      "revient sur le terrain même après des blessures profondes",
+      "ne minimise pas sa douleur mais ne la laisse pas occuper tout l'espace",
+      "peut trouver dans la création, le lien ou le travail une voie de reconstruction"
+    ],
+    "masquesPossibles": [
+      "force permanente — peut présenter une façade de solidité pour ne pas inquiéter les autres",
+      "humour distanciateur — rit de ce qui fait mal pour ne pas avoir à le porter en public",
+      "utilité — se concentre sur les besoins des autres pour ne pas rester avec les siens",
+      "optimisme de façade — 'ça va bien' dit trop vite, avant d'avoir vraiment vérifié",
+      "retrait — peut traverser l'épreuve en silence et laisser les autres croire que c'est de la force"
+    ],
+    "manifestationsPositives": [
+      "inspire sans le chercher ceux qui traversent leur propre adversité",
+      "sa profondeur est réelle — elle vient de ce qu'il a traversé",
+      "capable d'une gratitude authentique pour ce qui est encore là",
+      "ses blessures lui ont donné une empathie que seule l'expérience peut donner",
+      "peut tenir dans la durée là où d'autres s'effondrent",
+      "fait confiance à sa propre capacité à traverser — parce qu'il l'a déjà prouvé"
+    ],
+    "manifestationsNegatives": [
+      "peut avoir du mal à demander de l'aide — a trop l'habitude de s'en sortir seul",
+      "peut normaliser des niveaux de douleur qui méritent plus d'attention",
+      "peut parfois paraître distant — la distance protège mais isole",
+      "peut avoir du mal à faire confiance que les choses restent bien — attend le prochain choc",
+      "sa résilience peut être utilisée par les autres comme excuse pour lui en demander trop"
+    ],
+    "blessuresPossibles": [
+      "a traversé une perte, un traumatisme ou une rupture majeure qui l'a contraint à se reconstruire",
+      "a appris très tôt que personne ne viendrait — et a développé la résilience comme seul outil disponible",
+      "a connu l'effondrement total une fois et en a conclu qu'il ne pouvait plus se permettre de ne pas tenir"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre que la force n'est pas incompatible avec la vulnérabilité",
+      "peut trouver dans la relation à autrui un espace où il n'a pas besoin d'être fort",
+      "peut atteindre une forme de paix — non pas l'oubli, mais la coexistence avec ce qui a été",
+      "peut s'épuiser si la résilience est toujours solitaire et jamais partagée",
+      "peut choisir de témoigner — transformer l'épreuve en récit porteur pour les autres"
+    ],
+    "notesEditoriales": [
+      "La résilience n'est pas l'invulnérabilité — montrer les moments où elle vacille est ce qui la rend réelle et touchante.",
+      "Distinguer résilience et déni : le résilient ressent la douleur et continue, le dénieur ne la ressent pas encore. Les deux peuvent se ressembler de l'extérieur.",
+      "Éviter le personnage résilient comme archétype inspirationnel sans coût — la résilience coûte quelque chose, et ce coût mérite d'être visible."
+    ]
+  },
+  {
+    "id": "dependant-affectif",
+    "label": "Dépendant affectif",
+    "polarite": "negatif",
+    "famille": "attachement-anxieux",
+    "definitionCourte": "Besoin intense et envahissant d'être aimé, approuvé et retenu par autrui, au point d'organiser toute sa vie autour de la préservation du lien. La dépendance affective place le centre de gravité de l'identité dans l'autre — avec les dangers que cela implique.",
+    "signesPhysiques": [
+      "regard qui cherche constamment la validation dans le visage de l'autre",
+      "posture qui s'ajuste à celle de l'être aimé — fusion mimétique",
+      "tension visible quand l'autre tarde à répondre ou semble distant",
+      "sourire qui arrive en retard — attend de voir d'abord celui de l'autre",
+      "mains qui cherchent le contact physique plus souvent que nécessaire",
+      "corps qui se raidit imperceptiblement face à tout signe de retrait",
+      "regard anxieux qui scanne les expressions pour y lire l'état de la relation",
+      "agitation contenue quand il n'a pas de nouvelles",
+      "relâchement visible dès que la sécurité du lien est confirmée",
+      "effacement de soi dans les espaces de l'autre — perd sa propre silhouette",
+      "gestes de séduction ou d'attention constants, même dans les moments neutres"
+    ],
+    "sensationsInternes": [
+      "creux dans le ventre quand l'autre est silencieux ou absent",
+      "soulagement physique intense quand le lien est reconfirmé",
+      "anxiété permanente de fond — et si ça s'arrêtait ?",
+      "incapacité à se sentir entier sans la présence ou l'attention de l'autre",
+      "jalousie prompte et difficile à raisonner",
+      "honte de ses propres besoins, qu'il perçoit comme excessifs",
+      "sensation d'existence plus forte quand il est dans le regard de l'autre",
+      "effondrement intérieur rapide face aux conflits ou aux distances"
+    ],
+    "pensees": [
+      "S'il ne répond pas, c'est qu'il en a assez de moi.",
+      "Je ferai tout pour qu'il reste. Tout.",
+      "Si je le perds, je ne sais pas qui je suis.",
+      "Mes besoins sont trop importants. Je comprends que ce soit pesant.",
+      "Peut-être que si je m'efface un peu plus, il sera plus content.",
+      "L'amour, c'est avoir besoin de quelqu'un à ce point-là. Non ?",
+      "Je préfère souffrir avec lui que de ne pas souffrir sans lui.",
+      "Je sais que ce n'est pas sain. Mais je ne peux pas m'en empêcher.",
+      "Si je lui montre à quel point j'ai besoin de lui, il restera peut-être."
+    ],
+    "effetsVoixLangage": [
+      "questions répétées de réassurance — 'tu es bien là ?', 'tu ne pars pas ?'",
+      "formulations qui cherchent la confirmation — 'tu m'aimes quand même ?'",
+      "ton qui monte légèrement dans l'anxiété quand la réponse tarde",
+      "tendance à s'excuser pour ses propres besoins avant de les formuler",
+      "bavardage anxieux pour remplir les silences qui l'angoissent",
+      "surinterprète les formulations neutres de l'autre",
+      "peut alterner entre demandes d'attention et retrait soudain par peur d'être trop"
+    ],
+    "comportements": [
+      "organise sa vie autour des besoins et préférences de l'autre",
+      "abandonne des amis, des projets, des parties de lui-même pour préserver le lien",
+      "surveille les signes d'intérêt ou de désintérêt avec une acuité épuisante",
+      "peut rester dans des relations néfastes parce que la dépendance est plus forte que le bien-être",
+      "cherche la validation constante — un compliment ne dure pas longtemps",
+      "peut devenir envahissant sans le vouloir",
+      "fait des sacrifices disproportionnés pour éviter le conflit",
+      "peut tester l'autre — pour vérifier qu'il reste même quand c'est difficile",
+      "s'efface pour ne pas prendre trop de place — et en souffre",
+      "peut développer de la jalousie ou du contrôle pour gérer l'anxiété d'abandon",
+      "reconstruit rapidement une nouvelle dépendance après chaque rupture"
+    ],
+    "masquesPossibles": [
+      "amour intense — présente sa dépendance comme une profondeur de sentiment",
+      "générosité — donne énormément pour créer une dette affective",
+      "dévouement — l'effacement de soi est nommé sacrifice ou loyauté",
+      "fragilité affichée — peut utiliser sa détresse pour retenir l'autre",
+      "indépendance revendiquée — peut nier sa dépendance pour ne pas paraître faible"
+    ],
+    "manifestationsPositives": [
+      "capacité à aimer avec une intensité et une attention rares",
+      "peut créer des liens très profonds là où d'autres restent en surface",
+      "son dévouement peut être réel et nourrir genuinement ceux qu'il aime",
+      "sa sensibilité aux nuances émotionnelles le rend attentif aux autres",
+      "peut trouver dans le travail sur lui-même une profondeur de transformation rare"
+    ],
+    "manifestationsNegatives": [
+      "épuise les autres par l'intensité de ses besoins",
+      "peut devenir contrôlant ou envahissant",
+      "se perd lui-même au point de ne plus savoir ce qu'il veut indépendamment de l'autre",
+      "reproduit souvent le même schéma dans des relations successives",
+      "peut accepter des traitements inacceptables pour préserver le lien"
+    ],
+    "blessuresPossibles": [
+      "a été abandonné ou rejeté précocement par une figure d'attachement primaire",
+      "a grandi dans un environnement affectivement imprévisible — l'amour était conditionnel et instable",
+      "a appris que son existence ne valait quelque chose que dans le regard de l'autre"
+    ],
+    "evolutionsPossibles": [
+      "peut trouver dans un travail intérieur les ressources pour construire une identité indépendante",
+      "peut rencontrer quelqu'un qui lui donne assez de sécurité pour apprendre à ne pas en avoir besoin autant",
+      "peut s'effondrer lors d'une rupture au point de devoir tout reconstruire",
+      "peut évoluer vers un attachement sécure s'il comprend les racines de sa dépendance",
+      "peut rechuter après une période de mieux — la dépendance affective est un processus long"
+    ],
+    "notesEditoriales": [
+      "La dépendance affective n'est pas de la faiblesse de caractère — c'est une blessure d'attachement. La nuance change tout dans la façon dont le personnage est écrit et ressenti.",
+      "Montrer la conscience que le personnage a de sa propre dépendance — sans pouvoir s'y soustraire — est plus juste et plus touchant qu'une dépendance inconsciente.",
+      "Éviter le personnage dépendant comme simple faire-valoir dramatique : sa souffrance est réelle, sa trajectoire peut être une des plus puissantes du récit si elle est menée avec soin."
+    ]
+  },
+  {
+    "id": "altruiste",
+    "label": "Altruiste",
+    "polarite": "positif",
+    "famille": "don-de-soi",
+    "definitionCourte": "Orientation profonde vers le bien des autres, qui peut dépasser la simple gentillesse jusqu'à une forme de dévotion. L'altruisme véritable n'est pas une performance — il coûte quelque chose, et ce coût est accepté.",
+    "signesPhysiques": [
+      "regard qui cherche naturellement qui a besoin de quelque chose",
+      "posture disponible — corps orienté vers les autres, jamais fermé",
+      "gestes d'aide qui précèdent la demande",
+      "expression qui s'illumine face au bonheur de quelqu'un d'autre",
+      "fatigue discrète mais présente — donne plus qu'il ne reçoit",
+      "mains toujours occupées à quelque chose pour quelqu'un",
+      "regard qui balaye la pièce pour repérer qui est en marge",
+      "sourire qui vient du fait de voir les autres bien, pas d'être vu",
+      "corps légèrement incliné vers celui qui a besoin — posture d'écoute permanente",
+      "absence de gestes qui marquent le territoire ou l'espace personnel",
+      "présence physique apaisante, non envahissante"
+    ],
+    "sensationsInternes": [
+      "satisfaction profonde — non pas dans la reconnaissance, mais dans le fait que ça aide vraiment",
+      "inconfort s'il ne peut pas aider quand quelqu'un souffre à côté de lui",
+      "épuisement doux mais réel quand le don de soi est prolongé sans ressource",
+      "joie authentique dans les gestes les plus ordinaires de l'aide",
+      "culpabilité possible s'il prend du temps pour lui-même",
+      "sentiment d'être à sa place quand il est utile",
+      "difficulté à recevoir — l'aide va dans un sens naturel pour lui",
+      "plénitude possible dans les moments de vraie connexion avec ceux qu'il aide"
+    ],
+    "pensees": [
+      "Ce que je peux faire pour lui, je le fais. C'est tout.",
+      "Si ce n'est pas moi, qui ?",
+      "Sa joie compte autant que la mienne. Peut-être plus.",
+      "Je ne fais pas ça pour qu'on me remercie. Je le fais parce que c'est juste.",
+      "Si je peux alléger ça, même un peu, ça vaut le coup.",
+      "J'aimerais pouvoir faire plus.",
+      "Mes besoins peuvent attendre. Les siens, pas forcément.",
+      "Ce n'est pas un sacrifice. C'est ce que j'aurais voulu que quelqu'un fasse pour moi.",
+      "L'important, c'est que ça aille mieux. Pas que ce soit moi qui l'aie fait."
+    ],
+    "effetsVoixLangage": [
+      "propose sans attendre qu'on lui demande",
+      "minimise ce qu'il a fait — 'c'était rien', 'n'importe qui aurait fait pareil'",
+      "écoute complète — n'interrompt pas, ne dévie pas vers lui",
+      "formule les refus avec douceur pour ne pas blesser",
+      "parle des autres avec une chaleur non feinte",
+      "peut avoir du mal à formuler ses propres besoins — les mots ne viennent pas facilement",
+      "encourage sans flatter — ce qu'il dit, il le pense"
+    ],
+    "comportements": [
+      "donne de son temps, de son énergie, de ses ressources sans calcul visible",
+      "se souvient de ce dont les autres ont besoin et y revient",
+      "s'interpose pour protéger ceux qui ne peuvent pas se défendre",
+      "peut passer après tout le monde et ne pas s'en plaindre",
+      "cherche des solutions pour les autres avant de se plaindre de sa propre situation",
+      "peut négliger sa propre santé ou ses propres projets pour servir",
+      "reçoit difficilement — l'aide reçue le met mal à l'aise",
+      "peut s'épuiser si personne ne fait attention à ses propres limites",
+      "ne compte pas — ni ce qu'il donne ni ce qu'il ne reçoit pas",
+      "peut servir de refuge à des personnes qui en profitent sans le voir",
+      "revient aider même après avoir été blessé par quelqu'un qu'il aidait"
+    ],
+    "masquesPossibles": [
+      "humilité — cache une vraie douleur derrière la générosité",
+      "efficacité — aide pour ne pas avoir à rester avec ses propres émotions",
+      "identité — être utile est parfois la seule façon qu'il a de se sentir exister",
+      "évitement — le soin des autres comme façon de fuir ses propres besoins non résolus",
+      "contrôle doux — l'aide peut parfois masquer un désir d'être indispensable"
+    ],
+    "manifestationsPositives": [
+      "crée autour de lui des espaces de sécurité et de confiance",
+      "sa présence est une ressource pour ceux qui souffrent",
+      "peut changer des vies par des gestes que personne ne voit",
+      "sa générosité est contagieuse dans les groupes où il est présent",
+      "quand il dit quelque chose de beau, c'est parce qu'il le pense vraiment"
+    ],
+    "manifestationsNegatives": [
+      "peut s'effacer au point de ne plus exister pour lui-même",
+      "peut attirer des personnes qui le consomment sans jamais rendre",
+      "peut développer un ressentiment silencieux si son don n'est jamais reconnu",
+      "peut ne jamais demander d'aide — et souffrir seul",
+      "peut finir par ne plus savoir ce qu'il veut vraiment, à force de mettre les autres en premier"
+    ],
+    "blessuresPossibles": [
+      "a appris que sa valeur était dans ce qu'il apportait aux autres — pas dans ce qu'il était",
+      "a soigné un proche pendant longtemps et en a fait une identité",
+      "a grandi dans un environnement où ses propres besoins étaient ignorés ou punis"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre que se soigner soi est aussi une forme de générosité",
+      "peut trouver quelqu'un qui prend soin de lui en retour — et apprendre à l'accepter",
+      "peut s'épuiser jusqu'à la rupture si personne ne lui dit de s'arrêter",
+      "peut évoluer vers un altruisme plus équilibré — qui inclut lui-même",
+      "peut traverser une crise d'identité si ce qu'il aidait disparaît ou n'a plus besoin de lui"
+    ],
+    "notesEditoriales": [
+      "L'altruiste le plus intéressant est celui pour qui le don de soi a un coût visible — pas le saint sans failles, mais la personne qui se vide lentement en donnant.",
+      "Distinguer altruisme et martyrologie : l'altruiste authentique ne fait pas de sa souffrance un spectacle, le martyr si. La frontière peut être subtile mais elle change tout.",
+      "La scène la plus forte pour un altruiste : celle où quelqu'un lui demande ce dont il a besoin, lui — et où il ne sait pas quoi répondre."
+    ]
+  }
+]

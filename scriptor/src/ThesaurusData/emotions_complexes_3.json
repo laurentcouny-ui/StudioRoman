@@ -1,0 +1,317 @@
+[
+  {
+    "id": "desenchantement",
+    "label": "Désenchantement",
+    "famille": "emotions-complexes",
+    "definitionCourte": "Perte progressive des illusions sur quelque chose ou quelqu'un en qui on croyait — sans événement brutal, juste l'usure du réel sur l'idéal. Le désenchantement est une désillusion qui prend son temps.",
+
+    "signesPhysiques": [
+      "regard plus plat sur les choses qui suscitaient de l'enthousiasme",
+      "sourire qui ne monte plus aussi haut",
+      "soupirs en évoquant quelque chose qui comptait",
+      "mouvements moins vifs dans les contextes autrefois stimulants",
+      "présence physique plus réduite — moins d'énergie à y consacrer",
+      "ton légèrement blasé ou neutre là où il y avait de la passion",
+      "posture plus fermée dans des contextes autrefois ouverts"
+    ],
+
+    "sensationsInternes": [
+      "impression que quelque chose s'est refroidi sans qu'on ait pu l'arrêter",
+      "légère amertume dans les souvenirs de ce qu'on espérait",
+      "fatigue de ce qu'on croyait être stimulant",
+      "sentiment que les mots 'espoir' et 'confiance' ont changé de saveur",
+      "nostalgie pour sa propre naïveté d'avant"
+    ],
+
+    "pensees": [
+      "Ce n'est pas comme je l'imaginais.",
+      "J'aurais dû m'y attendre.",
+      "Ça finit toujours comme ça.",
+      "J'avais peut-être trop cru à quelque chose.",
+      "Ce n'est pas une trahison. Juste la réalité.",
+      "Je ne me laisserai plus autant embarquer."
+    ],
+
+    "effetsVoixLangage": [
+      "formulations plus prudentes et plus nuancées qu'avant",
+      "recul ironique là où il y avait de l'enthousiasme",
+      "tendance à relativiser spontanément",
+      "moins de superlatifs — les mots ont perdu leur éclat",
+      "discours sur 'comment les choses marchent vraiment'"
+    ],
+
+    "comportements": [
+      "s'investit moins dans ce qui a déçu",
+      "peut conseiller les autres avec une prudence teintée de lassitude",
+      "résiste à l'enthousiasme des autres — ou l'observe avec une tendresse désabusée",
+      "peut devenir cynique si le désenchantement s'accumule",
+      "peut chercher quelque chose de nouveau à croire — ou ne plus chercher"
+    ],
+
+    "masquesPossibles": [
+      "pragmatisme affiché pour cacher la perte",
+      "humour corrosif sur les idéaux",
+      "engagement de surface pour ne pas admettre qu'on n'y croit plus"
+    ],
+
+    "evolutionsPossibles": [
+      "sagesse si le désenchantement est intégré sans amertume",
+      "cynisme si rien ne vient remplacer ce qui a été perdu",
+      "nouvelle foi — parfois le désenchantement est une porte vers quelque chose de plus vrai",
+      "nostalgie douloureuse de ce qu'on croyait"
+    ],
+
+    "contextesAggravants": [
+      "voir les idéaux d'autrefois se réaliser chez d'autres sans y croire soi-même",
+      "confrontation directe avec quelqu'un d'enthousiaste et sincère",
+      "accumulation de désillusions sans période de renouveau"
+    ],
+
+    "contextesAttenuants": [
+      "rencontre avec quelque chose de petit mais authentique qui rallume quelque chose",
+      "permission de ne pas y croire sans jugement",
+      "relation avec quelqu'un qui porte encore l'espoir"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère désillusion", "description": "Quelque chose a déçu. La confiance est légèrement entamée." },
+      { "niveau": 2, "label": "Désenchantement doux", "description": "L'idéal s'est effrité. Le personnage relativise davantage." },
+      { "niveau": 3, "label": "Désenchantement profond", "description": "Quelque chose d'important a perdu son éclat. Le changement est perceptible." },
+      { "niveau": 4, "label": "Lassitude idéale", "description": "Le personnage ne croit plus grand-chose des grandes promesses. Sa vision est devenue grise." },
+      { "niveau": 5, "label": "Nihilisme latent", "description": "Rien ne mérite vraiment qu'on s'y attache. La désillusion est devenue posture." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui a été idéaliste",
+        "description": "Le désenchantement est proportionnel à ce qu'il croyait. Ce personnage a souvent payé cher ses idéaux — la perte est d'autant plus cuisante."
+      },
+      {
+        "profil": "Personnage plus pragmatique",
+        "description": "Le désenchantement est moins douloureux — il s'y attendait un peu. Il peut même ressentir une satisfaction morbide à avoir eu raison."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Le désenchantement est l'une des émotions les plus silencieuses — il ne claque pas, il s'installe.",
+      "Il est narrativement fort en contraste : montrer ce que le personnage croyait avant révèle l'ampleur de la perte.",
+      "À ne pas confondre avec la résignation (qui accepte) ou le cynisme (qui attaque)."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "esperance" },
+      { "type": "peut_evoluer_en", "cible": "cynisme" },
+      { "type": "souvent_associe_a", "cible": "nostalgie" }
+    ]
+  },
+  {
+    "id": "sentiment-imposteur",
+    "label": "Sentiment d'imposteur",
+    "famille": "emotions-complexes",
+    "definitionCourte": "Conviction secrète de ne pas mériter sa place, ses réussites ou sa reconnaissance — comme si le succès était une erreur que les autres allaient finir par découvrir.",
+
+    "signesPhysiques": [
+      "légère crispation à la réception d'un compliment",
+      "sourire bref qui se rétracte — ne sait pas s'il a le droit d'être fier",
+      "regard qui cherche la désapprobation cachée",
+      "posture plus petite dans les contextes à enjeux",
+      "tendance à sous-préparer pour pouvoir justifier l'échec — ou à surpreparer pour éviter d'être démasqué",
+      "hésitation avant de prendre la parole en position d'autorité",
+      "vérification répétée de son propre travail"
+    ],
+
+    "sensationsInternes": [
+      "anxiété de fond à chaque étape de réussite",
+      "conviction que le prochain raté démasquera tout",
+      "malaise d'être dans une pièce avec des gens qu'on estime compétents",
+      "impression que tout ce qu'il a fait de bien était de la chance",
+      "tension entre ce que les autres voient et ce qu'il ressent de lui-même"
+    ],
+
+    "pensees": [
+      "Ils vont se rendre compte.",
+      "Je n'ai pas vraiment mérité ça.",
+      "Si j'avais raté ce jour-là, tout aurait été différent.",
+      "Ce sont les autres qui sont vraiment bons.",
+      "Je suis une fraude.",
+      "Quand est-ce que ça va s'effondrer ?"
+    ],
+
+    "effetsVoixLangage": [
+      "minimise ses réussites — 'j'ai eu de la chance'",
+      "attribue le mérite aux autres ou aux circonstances",
+      "hésite à s'exprimer en autorité même quand c'est son domaine",
+      "demande souvent validation même pour ce qu'il maîtrise",
+      "défenses préventives — 'je ne suis pas expert, mais...'"
+    ],
+
+    "comportements": [
+      "travaille souvent plus que nécessaire pour compenser l'insécurité",
+      "évite certains contextes où il pourrait être mis à nu",
+      "sabote parfois ce qui va trop bien — par peur de la chute",
+      "peut paraître faussement modeste alors qu'il souffre vraiment",
+      "cherche des preuves extérieures constantes que sa place est légitime"
+    ],
+
+    "masquesPossibles": [
+      "surconfiance de façade pour compenser",
+      "perfectionnisme comme armure — si tout est parfait, on ne peut pas le critiquer",
+      "autodérision avant que les autres critiquent"
+    ],
+
+    "evolutionsPossibles": [
+      "intégration progressive si le succès dure et s'accumule",
+      "effondrement si quelqu'un confirme le soupçon — même involontairement",
+      "travail intérieur qui démantèle la conviction",
+      "transmission — aide des autres à se sentir légitimes là où lui ne l'était pas"
+    ],
+
+    "contextesAggravants": [
+      "promotion ou reconnaissance publique",
+      "nouveau milieu plus exigeant ou plus valorisé",
+      "erreur visible même mineure",
+      "contexte où les autres semblent parfaitement à leur place"
+    ],
+
+    "contextesAttenuants": [
+      "feedback positif précis et sincère sur quelque chose de spécifique",
+      "rencontre avec quelqu'un qui ressent la même chose",
+      "cumul de preuves concrètes de compétence réelle"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Doute ponctuel", "description": "Incertitude légère dans certains contextes. Ne domine pas." },
+      { "niveau": 2, "label": "Modestie excessive", "description": "Minimise ses réussites. Ne s'autorise pas la fierté facilement." },
+      { "niveau": 3, "label": "Sentiment d'imposteur", "description": "Conviction régulière de ne pas mériter. Crée de l'anxiété." },
+      { "niveau": 4, "label": "Peur d'être démasqué", "description": "Le personnage vit dans l'attente de la découverte. Altère son quotidien." },
+      { "niveau": 5, "label": "Paralysie par fraude", "description": "L'incapacité à croire en soi domine tout. Le personnage ne peut plus avancer." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage très compétent",
+        "description": "Le paradoxe est le plus visible ici — les autres le voient clairement, lui non. Cet écart est narrativement puissant."
+      },
+      {
+        "profil": "Personnage en ascension sociale ou professionnelle",
+        "description": "Le sentiment d'imposteur est déclenché par le changement de milieu. Le personnage craint de ne pas avoir les codes du nouveau monde dans lequel il est entré."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Le syndrome de l'imposteur est extrêmement courant mais peu représenté — ce qui en fait un matériau riche.",
+      "Il est plus intéressant quand il est précis et ancré que quand il est déclaré — montrer les comportements révèle davantage.",
+      "À distinguer de la fausse modestie : ici la souffrance est réelle, l'insécurité authentique."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_masquer", "cible": "insecurite" },
+      { "type": "souvent_associe_a", "cible": "perfectionnisme" },
+      { "type": "peut_declencher", "cible": "auto-sabotage" }
+    ]
+  },
+  {
+    "id": "tendresse-deuil",
+    "label": "Tendresse pour quelque chose de perdu",
+    "famille": "emotions-complexes",
+    "definitionCourte": "Amour doux et mélancolique pour ce qui n'est plus — une version de soi, une relation, une époque. Ni tristesse pure ni nostalgie — une affection qui continue de se poser sur quelque chose d'absent.",
+
+    "signesPhysiques": [
+      "sourire qui monte et se teinte de mélancolie avant de s'effacer",
+      "geste doux vers un objet ou une photo",
+      "voix qui se radoucit en évoquant le sujet",
+      "regard lointain qui revient avec douceur",
+      "pause dans le geste ou la conversation — comme si on posait quelque chose délicatement",
+      "yeux qui brillent légèrement sans verser de larmes",
+      "respiration plus lente, plus profonde"
+    ],
+
+    "sensationsInternes": [
+      "chaleur dans la poitrine mêlée d'un creux",
+      "douceur qui fait un peu mal",
+      "sensation que quelque chose précieux a été tenu dans les mains et lâché",
+      "affection pour ce qu'on n'est plus ou ce qui n'est plus là",
+      "coexistence du bien et du manque sans que l'un détruise l'autre"
+    ],
+
+    "pensees": [
+      "C'était bien.",
+      "Je t'aimais comme ça.",
+      "Je suis content que ça ait existé.",
+      "Cette version de moi était belle aussi.",
+      "Je ne peux pas te ramener mais je peux te tenir en mémoire.",
+      "Ce que j'ai eu valait quelque chose."
+    ],
+
+    "effetsVoixLangage": [
+      "passé employé avec tendresse — 'à l'époque', 'avant'",
+      "voix plus douce, légèrement voilée",
+      "formulations courtes — les mots vont vers l'essentiel",
+      "silences qui laissent de la place au souvenir",
+      "peut rire doucement au milieu de la mélancolie"
+    ],
+
+    "comportements": [
+      "peut garder des objets ou des photos liés à ce qui a été perdu",
+      "évoque le sujet avec des personnes de confiance",
+      "peut revisiter des lieux ou des musiques liés à cette période",
+      "réserve une place intérieure à ce qui n'est plus — pas de l'obsession, juste un autel discret",
+      "peut transmettre quelque chose de cette tendresse à quelque chose de présent"
+    ],
+
+    "masquesPossibles": [
+      "détachement de surface — 'c'est du passé'",
+      "humour pour ne pas montrer la douceur",
+      "évitement total des rappels pour ne pas avoir à ressentir"
+    ],
+
+    "evolutionsPossibles": [
+      "intégration — ce qui a été fait partie de soi sans dominer",
+      "création — la tendresse se transforme en quelque chose qu'on fait",
+      "transmission — parler de ce qui a été à quelqu'un qui ne l'a pas connu",
+      "paix — le personnage arrive à tenir les deux"
+    ],
+
+    "contextesAggravants": [
+      "anniversaire ou jalon temporel",
+      "présence d'un objet lié",
+      "quelqu'un qui connaissait ce qui a été perdu"
+    ],
+
+    "contextesAttenuants": [
+      "espace pour accueillir — moment seul, présence bienveillante",
+      "quelque chose de présent qui rappelle ce qui a été dans ce qu'il a de meilleur"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Nostalgie douce", "description": "Le souvenir est tendre. Il traverse sans s'attarder." },
+      { "niveau": 2, "label": "Affection mélancolique", "description": "Le personnage porte ce souvenir avec soin. Il y revient parfois." },
+      { "niveau": 3, "label": "Tendresse pour ce qui a été", "description": "Émotion complexe, présente, ni tristesse ni joie mais les deux." },
+      { "niveau": 4, "label": "Deuil tendre", "description": "La perte est intégrée mais le manque reste vif. Coexistence douloureuse." },
+      { "niveau": 5, "label": "Amour du passé", "description": "Le personnage aime ce qu'il a perdu avec autant d'intensité qu'au moment où ça existait." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage ayant traversé de grandes pertes",
+        "description": "La tendresse pour le passé est une compétence acquise — ce personnage sait tenir à la fois le deuil et la gratitude."
+      },
+      {
+        "profil": "Personnage jeune",
+        "description": "La tendresse pour le passé peut être prématurée — réaction à une perte rapide, peut-être idéalisée. Elle porte quand même quelque chose de vrai."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Cette émotion est difficile à nommer dans la vie ordinaire — ce qui en fait un outil puissant pour les scènes intérieures.",
+      "Elle est distincte de la mélancolie (plus sombre) et de la nostalgie simple (plus légère).",
+      "Particulièrement utile pour les personnages âgés, les survivants, ou ceux qui ont traversé des transformations importantes."
+    ],
+
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "deuil" },
+      { "type": "peut_evoluer_en", "cible": "acceptation" },
+      { "type": "peut_masquer", "cible": "tristesse-non-resoule" }
+    ]
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "id": "cite-sensible-nuit",
+    "label": "Cité sensible la nuit",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "tours ou barres illuminées de quelques fenêtres allumées",
+      "pied d'immeuble avec bancs et jeunes assis",
+      "lampadaires dont certains sont cassés",
+      "caves ouvertes dont les portes claquent",
+      "voitures garées en double file ou sur les trottoirs",
+      "graffitis sur les boîtes aux lettres et les murs",
+      "épicerie ouverte tard, unique source de lumière de rue"
+    ],
+    "bruits": [
+      "musique de basse qui sort d'une voiture",
+      "voix qui portent fort dans le silence de nuit",
+      "rires soudains puis silence",
+      "mobylette qui passe en accélération",
+      "discussion à voix haute depuis un balcon"
+    ],
+    "odeurs": [
+      "cannabis mêlé à l'air froid",
+      "kébab ou poulet depuis l'épicerie",
+      "béton humide de la cour",
+      "cigarette et alcool"
+    ],
+    "textures": [
+      "goudron du sol sous les semelles la nuit",
+      "métal froid d'une grille ou d'un banc",
+      "lumière froide des lampadaires qui durcit les ombres"
+    ],
+    "emotionsTypiques": [
+      "territoire clairement défini, à ne pas transgresser",
+      "sentiment de communauté fermée pour les habitants",
+      "tension permanente pour l'étranger qui passe",
+      "vie sociale déplacée vers la nuit par défaut",
+      "appartenance forte et exclusive pour ceux qui y vivent"
+    ],
+    "usagesNarratifs": [
+      "espace pour montrer un personnage dans son territoire",
+      "décor pour une confrontation ou un rite de passage",
+      "lieu révélateur des tensions sociales et géographiques",
+      "contexte d'une loyauté mise à l'épreuve"
+    ],
+    "tensionsTypiques": [
+      "étranger qui entre dans l'espace de nuit",
+      "deal ou transaction qui se négocie en temps réel",
+      "habitant pris entre deux loyautés",
+      "arrivée de la police dans cet espace",
+      "violence qui éclate ou qui est évitée de justesse"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant de la cité",
+        "description": "Connaît chaque visage, chaque code. C'est chez lui. La nuit n'est pas menaçante — c'est sa vie normale. Il navigue sans effort."
+      },
+      {
+        "profil": "Journaliste ou enquêteur extérieur",
+        "description": "Voit d'abord la surface — les clichés. Puis, s'il reste assez longtemps, quelque chose de plus complexe. Son inconfort est lisible par tous."
+      },
+      {
+        "profil": "Habitant d'une autre cité en terrain neutre",
+        "description": "Calcule chaque geste, chaque regard. Les codes sont connus mais le territoire ne l'est pas. Il est à la fois dans son monde et en dehors."
+      }
+    ],
+    "notesEditoriales": [
+      "Éviter à tout prix le traitement clichés : ni folklorique ni uniquement menaçant.",
+      "La cité la nuit est un lieu de vie sociale intense — pas seulement de danger.",
+      "La force narrative est dans les tensions internes à la communauté, pas seulement dans le regard extérieur."
+    ]
+  },
+  {
+    "id": "quartier-gentrifie",
+    "label": "Quartier en cours de gentrification",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "anciens commerces de bouche remplacés par des coffee shops",
+      "façades rénovées côtoyant des immeubles délabrés",
+      "trottoirs avec vélos en libre-service et terrasses nouvelles",
+      "jeunes blancs en tenue décontractée et anciens habitants",
+      "panneaux de promotion immobilière sur des bâtiments en travaux",
+      "boutiques de créateurs et d'antiquités choisies",
+      "tags recouverts ou laissés selon la politique du quartier"
+    ],
+    "bruits": [
+      "bruits de chantier en journée",
+      "conversations en terrasse — nouvelles voix, nouvel accent",
+      "musique de bar qui déborde sur le trottoir",
+      "camion de livraison d'une épicerie fine",
+      "langues mêlées dans la rue — anciens et nouveaux"
+    ],
+    "odeurs": [
+      "café de spécialité — fort et acide",
+      "peinture de renovation fraîche",
+      "food truck — épices et grillé",
+      "vieux bois et plâtre des façades en travaux"
+    ],
+    "textures": [
+      "trottoir en pavés remis à neuf côté rénové",
+      "asphalte défoncé côté non rénové",
+      "menu sur papier kraft recyclé"
+    ],
+    "emotionsTypiques": [
+      "tension entre anciens et nouveaux habitants",
+      "fascination esthétique mêlée de malaise moral",
+      "sentiment d'exclusion pour ceux qui ne peuvent plus rester",
+      "enthousiasme des nouveaux arrivants sincère mais aveugle",
+      "nostalgie des anciens pour ce qui disparaît"
+    ],
+    "usagesNarratifs": [
+      "espace pour confronter deux mondes sociaux en collision",
+      "lieu de révélation des mécanismes d'exclusion par le beau",
+      "décor pour une histoire de déplacement et de perte",
+      "contexte d'un personnage tiraillé entre deux appartenances"
+    ],
+    "tensionsTypiques": [
+      "expulsion d'un locataire ancien pour rénovation",
+      "rencontre entre un nouvel arrivant enthousiaste et un vieux résident amer",
+      "commerce ancien forcé de fermer face au loyer qui triple",
+      "conflit de valeurs autour de l'espace public",
+      "personnage qui profite de la gentrification et le sait"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Ancien habitant du quartier",
+        "description": "Marche dans un quartier qui n'est plus le sien. Chaque boutique fermée est un deuil. Il est étranger là où il a grandi."
+      },
+      {
+        "profil": "Nouvel arrivant",
+        "description": "Voit le quartier comme authentique et vivant. Aime les traces du passé sans en avoir vécu le présent. Sa bonne volonté est réelle mais partielle."
+      },
+      {
+        "profil": "Promoteur immobilier",
+        "description": "Voit des mètres carrés et des rendements. Le quartier est un marché. Ses calculs sont transparents dans son regard."
+      }
+    ],
+    "notesEditoriales": [
+      "La gentrification est un sujet de tension sociale fort — à traiter avec nuance pour éviter le pamphlet.",
+      "L'espace physique dit tout : les façades rénovées côté rue et les immeubles défoncés côté cour.",
+      "Aucun personnage n'est entièrement tort ou raison dans ce contexte — c'est sa richesse narrative."
+    ]
+  },
+  {
+    "id": "banlieue-pavillonnaire",
+    "label": "Banlieue pavillonnaire",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "maisons individuelles séparées par des haies ou des clôtures",
+      "jardins avant impeccables ou à l'abandon",
+      "voitures stationnées dans les allées ou devant les portes",
+      "rues larges sans piétons",
+      "supérette en bout de rue ou centre commercial accessible en voiture",
+      "panneau d'école ou de pharmacie",
+      "portail électrique et boîte aux lettres en plastique au bord du trottoir"
+    ],
+    "bruits": [
+      "tondeuse à gazon le samedi matin",
+      "chien qui aboie derrière une clôture",
+      "voiture qui démarre et s'en va",
+      "silence de rue inhabituel — personne à pied",
+      "enfants dans un jardin que l'on entend mais ne voit pas"
+    ],
+    "odeurs": [
+      "herbe fraîchement coupée en été",
+      "barbecue le dimanche",
+      "engrais et terre de jardinerie",
+      "lessive qui sèche au soleil sur un étendoir"
+    ],
+    "textures": [
+      "trottoir parfait — personne ne marche dessus",
+      "haie vive qui accroche les manches",
+      "portail métallique froid et lisse",
+      "pelouse parfaitement tondue"
+    ],
+    "emotionsTypiques": [
+      "normalité de surface sur des vies parfois compliquées",
+      "solitude possible malgré la densité résidentielle",
+      "sentiment d'une existence repliée sur le foyer",
+      "pression de conformité avec les voisins",
+      "sécurité tranquille ou prison dorée selon le personnage"
+    ],
+    "usagesNarratifs": [
+      "lieu de secrets familiaux camouflés par la façade propre",
+      "espace pour montrer l'écart entre apparence et réalité",
+      "décor d'une normalité qui contient une rupture",
+      "contexte révélateur de l'isolement social contemporain"
+    ],
+    "tensionsTypiques": [
+      "conflit de voisinage sur une haie ou une construction",
+      "drame familial caché derrière les volets fermés",
+      "rumeur qui circule sans qu'on puisse la confronter",
+      "personnage qui ne peut plus sortir du quartier",
+      "secret longtemps caché qui s'échappe par une fenêtre ouverte"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Parent au foyer",
+        "description": "Voit le quartier depuis sa fenêtre ou lors des sorties d'école. Connaît les voitures, les horaires, les absences. Le pavillon est son monde entier certains jours."
+      },
+      {
+        "profil": "Adolescent qui veut partir",
+        "description": "Voit la banlieue comme une cage confortable. Chaque maison identique est une menace de devenir pareil. Il compte les mois."
+      },
+      {
+        "profil": "Voisin curieux",
+        "description": "Surveille sans en avoir l'air. Sait tout de tout le monde mais ne dit rien directement. L'information qu'il détient est un pouvoir discret."
+      }
+    ],
+    "notesEditoriales": [
+      "La banlieue pavillonnaire est un espace de surface lisse qui cache des vies complexes — fort pour les thrillers domestiques.",
+      "L'absence de piétons est un détail clé : personne ne se croise par hasard ici.",
+      "À ne pas réduire à un symbole — la banlieue pavillonnaire est aussi un lieu de vraies joies, de vrai confort."
+    ]
+  },
+  {
+    "id": "centre-historique-touristique",
+    "label": "Centre historique en journée touristique",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "pavés inégaux et brillants après la pluie",
+      "façades anciennes ornées avec enseignes contemporaines",
+      "groupes de touristes derrière un guide qui parle fort",
+      "restaurants en terrasse avec menus en plusieurs langues",
+      "boutiques de souvenirs côtoyant de vraies boulangeries",
+      "monuments et panneaux explicatifs en plusieurs langues",
+      "photographes qui bloquent la rue"
+    ],
+    "bruits": [
+      "langues mêlées — conversations étrangères",
+      "guide qui parle dans un micro amplificateur",
+      "sonnerie d'église ou de cathédrale",
+      "bruits de pas sur les pavés",
+      "appareils photo qui déclenchent"
+    ],
+    "odeurs": [
+      "gaufres ou crêpes d'un stand ambulant",
+      "crème solaire en été",
+      "odeur de pierre ancienne humide dans les ruelles",
+      "restaurant de terrasse — friture et sauce"
+    ],
+    "textures": [
+      "pavé irrégulier sous la semelle",
+      "pierre froide des murs si on s'y adosse",
+      "billet d'entrée d'un monument dans la main",
+      "rambarde de métal d'un escalier de cathédrale"
+    ],
+    "emotionsTypiques": [
+      "vertige du temps sur les pierres qui ont vu l'histoire",
+      "irritation pour l'habitant face aux touristes",
+      "émerveillement du visiteur face au patrimoine",
+      "sentiment de performance touristique — est-ce qu'on voit vraiment ?",
+      "solitude possible au milieu d'une foule qui regarde sans chercher"
+    ],
+    "usagesNarratifs": [
+      "espace pour montrer le regard d'un personnage sur sa propre ville",
+      "lieu de rencontre entre deux cultures ou deux temporalités",
+      "décor pour une scène de fuite dans un labyrinthe humain",
+      "contexte de dépossession de l'habitant par le tourisme"
+    ],
+    "tensionsTypiques": [
+      "vol à la tire dans la foule touristique",
+      "habitant qui ne peut plus rentrer chez lui sans traverser la foule",
+      "personnage qui cherche quelqu'un dans ce flux humain",
+      "révélation historique sur le lieu qui change le regard du personnage",
+      "conflit entre préservation du patrimoine et vie ordinaire"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Touriste pour la première fois",
+        "description": "Ébloui, prend des photos de tout. Vérifie son guide, son téléphone, son guide encore. Cherche l'authentique sans savoir le reconnaître."
+      },
+      {
+        "profil": "Habitant quotidien",
+        "description": "Ne voit plus les monuments. Le centre historique est un obstacle pour aller travailler. Il connaît les ruelles de traverse que les touristes ignorent."
+      },
+      {
+        "profil": "Historien ou archiviste",
+        "description": "Voit les couches successives — ce qui a disparu, ce qui a été reconstruit, ce qui est faux. Le centre historique est un palimpseste qu'il déchiffre."
+      }
+    ],
+    "notesEditoriales": [
+      "Le centre historique touristique est un espace de tensions entre mémoire et spectacle.",
+      "L'habitant invisible au milieu des touristes est un angle narratif fort et sous-exploité.",
+      "La beauté peut être utilisée pour contraster avec une tension émotionnelle forte."
+    ]
+  },
+  {
+    "id": "quartier-affaires-weekend",
+    "label": "Quartier d'affaires le week-end",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "tours vitrées aux lumières éteintes",
+      "rues larges et déserts de piétons",
+      "restaurants d'entreprise fermés, volets baissés",
+      "parkings vides — quelques voitures égarées",
+      "fontaines ou sculptures d'art public pour personne",
+      "vent entre les tours sans corps pour le ralentir",
+      "kiosques à journaux fermés, cafés de bureaux fermés"
+    ],
+    "bruits": [
+      "silence urbain inhabituel — étrange pour un centre-ville",
+      "vent qui siffle entre les tours de verre",
+      "pigeon qui s'envole",
+      "pas d'un passant solitaire qui résonnent",
+      "sirène au loin sans urgence visible"
+    ],
+    "odeurs": [
+      "air froid sans les odeurs humaines de la semaine",
+      "parking souterrain qui s'échappe par une grille",
+      "végétation d'ornement sans être sentie"
+    ],
+    "textures": [
+      "marbre ou béton lisse des allées vides",
+      "vent froid sans l'amortissement des corps",
+      "verre froid si on s'approche d'une tour"
+    ],
+    "emotionsTypiques": [
+      "sentiment surréel d'une ville fantôme dans une ville vivante",
+      "liberté étrange de traverser un espace normalement interdit par la foule",
+      "mélancolie de l'espace conçu pour le mouvement et figé dans le silence",
+      "solitude amplifiée par la scale des bâtiments",
+      "sentiment d'intrusion là où on devrait avoir l'air d'être en affaires"
+    ],
+    "usagesNarratifs": [
+      "espace pour une scène hors du temps ordinaire",
+      "décor de poursuite ou de surveillance sans témoins",
+      "lieu pour un personnage qui erre entre deux états",
+      "symbole du monde du travail arrêté — et de ce qui reste sans lui"
+    ],
+    "tensionsTypiques": [
+      "rendez-vous clandestin dans un espace normalement peuplé",
+      "personnage qui ne devrait pas être là le week-end",
+      "abandon évident — quelqu'un a tout laissé en partant vendredi",
+      "garde de sécurité qui fait sa ronde dans le désert",
+      "découverte dans un bureau accessible le week-end"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Employé qui vient travailler le samedi",
+        "description": "Le quartier vide lui rappelle que son travail dévore même ses jours de repos. Le silence est celui de sa propre solitude professionnelle."
+      },
+      {
+        "profil": "Photographe urbain",
+        "description": "Voit exactement ce qu'il cherche : la ville sans ses habitants. L'architecture reprend sa pureté. Chaque plan est parfait."
+      },
+      {
+        "profil": "Enfant amené par erreur dans ce quartier",
+        "description": "Perplexe devant tant de vide là où il imaginerait de l'animation. Demande où sont les gens. C'est une bonne question."
+      }
+    ],
+    "notesEditoriales": [
+      "Le quartier d'affaires vide est presque post-apocalyptique — puissant pour les récits d'errance ou d'isolement.",
+      "L'échelle humaine y est écrasée par les tours — à utiliser pour la sensation d'insignifiance.",
+      "Contraste fort avec la semaine — à exploiter en comparant les deux états du même lieu."
+    ]
+  },
+  {
+    "id": "quartier-etudiant",
+    "label": "Quartier étudiant",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "bars et cafés avec terrasses bondées",
+      "librairies universitaires et papeteries",
+      "flyers de soirées collés sur les lampadaires",
+      "vélos attachés en grappe aux grilles",
+      "kebabs et restaurants asiatiques bon marché",
+      "résidences universitaires avec interphones",
+      "squares avec étudiants qui révisent sur l'herbe au printemps"
+    ],
+    "bruits": [
+      "conversations animées depuis les terrasses",
+      "musique qui déborde d'un bar",
+      "sonnerie d'université ou de fac",
+      "groupe qui discute de politique ou de cours à voix haute",
+      "sac à dos posé lourdement sur un banc"
+    ],
+    "odeurs": [
+      "bière et fumée de cigarette le soir",
+      "café serré des matins de révision",
+      "falafel et kebab en milieu d'après-midi",
+      "imprimerie des copies de cours"
+    ],
+    "textures": [
+      "flyer froissé dans la main",
+      "verre de bière humide",
+      "pelouse humide du matin sous le livre de cours",
+      "sac à dos trop lourd"
+    ],
+    "emotionsTypiques": [
+      "énergie de la jeunesse en cours d'invention d'elle-même",
+      "sentiment d'appartenir à quelque chose de plus grand",
+      "pression des examens sous la légèreté apparente",
+      "mélange d'enthousiasme et d'anxiété existentielle",
+      "nostalgie anticipée de ce moment"
+    ],
+    "usagesNarratifs": [
+      "espace de formation des convictions et des identités",
+      "lieu pour des rencontres qui forment le reste de la vie",
+      "décor pour un premier amour ou une première désillusion",
+      "contexte d'un personnage en pleine construction de lui-même"
+    ],
+    "tensionsTypiques": [
+      "examen raté ou réussi qui change tout",
+      "trahison d'un ami de fac",
+      "révélation d'une vocation ou d'une erreur d'orientation",
+      "précarité réelle sous les apparences festives",
+      "rencontre qui définit une génération ou une idéologie"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Étudiant en première année",
+        "description": "Tout est nouveau et possible. Il observe avec des yeux grands ouverts. La liberté est grisante et légèrement terrifiante."
+      },
+      {
+        "profil": "Étudiant en fin de master",
+        "description": "Voit le quartier avec une nostalgie anticipée. Il sait que c'est presque fini. Chaque soirée a maintenant un goût de dernière fois."
+      },
+      {
+        "profil": "Habitant non-étudiant du quartier",
+        "description": "Supporte mal le bruit du jeudi soir. Se souvient du quartier avant. Voit la jeunesse avec un mélange d'envie et d'agacement."
+      }
+    ],
+    "notesEditoriales": [
+      "Le quartier étudiant est un espace de liberté et de pression simultanées — à ne pas réduire à la fête.",
+      "La précarité étudiante est souvent invisible sous l'apparence festive — riche narrativement.",
+      "La durée limitée du séjour étudiant donne une intensité particulière aux événements qui s'y passent."
+    ]
+  },
+  {
+    "id": "quartier-populaire-anime",
+    "label": "Quartier populaire animé",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "commerces variés avec étals sur le trottoir",
+      "langues multiples dans la rue",
+      "enfants qui jouent dehors",
+      "dames âgées sur le pas de porte",
+      "odeurs de cuisine diverse qui s'échappent des fenêtres",
+      "marchands ambulants et tables de restauration rapide",
+      "vie publique dense, personne n'est seul"
+    ],
+    "bruits": [
+      "conversations en plusieurs langues superposées",
+      "appel à la prière possible en fond",
+      "klaxons et musique depuis les voitures",
+      "vendeurs de rue qui annoncent leurs marchandises",
+      "rires et cris d'enfants"
+    ],
+    "odeurs": [
+      "épices cuites — cumin, coriandre, cannelle",
+      "boulangeries orientales ou autres cuisines du monde",
+      "fruits trop mûrs des étals",
+      "poisson frais ou fumé",
+      "gasoil et vie humaine mêlés"
+    ],
+    "textures": [
+      "tissu d'un marché qu'on froisse pour tester la qualité",
+      "fruit qu'on palpe avant d'acheter",
+      "sol couvert de pelures et de tracts",
+      "foule dense qui résiste et s'ouvre"
+    ],
+    "emotionsTypiques": [
+      "chaleur humaine et densité de vie",
+      "sentiment d'appartenance à une communauté large",
+      "vitalité qui contraste avec d'autres quartiers",
+      "pauvreté possible coexistant avec la joie",
+      "méfiance possible de l'étranger non habitué"
+    ],
+    "usagesNarratifs": [
+      "espace pour montrer la diversité et la vitalité populaire",
+      "lieu d'ancrage d'un personnage dans un milieu précis",
+      "décor pour un drame de quartier à résonance communautaire",
+      "contexte de solidarité ou de trahison dans une communauté"
+    ],
+    "tensionsTypiques": [
+      "événement qui divise la communauté",
+      "arrivée d'une force extérieure — police, promoteur, journaliste",
+      "conflit entre générations ou entre cultures dans le quartier",
+      "trahison d'un membre connu de tous",
+      "violence qui touche quelqu'un que tout le monde connaît"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant depuis toujours",
+        "description": "Chaque visage est une histoire. Chaque commerce est une relation. Il navigue dans la rue comme dans son salon élargi."
+      },
+      {
+        "profil": "Nouvel arrivant cherchant à s'intégrer",
+        "description": "Déchiffre les codes, apprend les noms, fait ses emplettes aux mêmes étals. L'intégration se fait par les habitudes avant les mots."
+      },
+      {
+        "profil": "Étranger de passage",
+        "description": "Stimulé et dépassé. L'excès sensoriel l'enchante ou l'oppresse selon son tempérament. Il est visible, lui, alors que les habitants le voient à peine."
+      }
+    ],
+    "notesEditoriales": [
+      "Le quartier populaire est souvent exotisé en fiction — à traiter de l'intérieur autant que de l'extérieur.",
+      "La vitalité n'efface pas les difficultés — les deux doivent coexister pour que l'image soit juste.",
+      "Riche pour les récits communautaires, les histoires de migration, de transmission."
+    ]
+  },
+  {
+    "id": "zone-commerciale-periph",
+    "label": "Zone commerciale périphérique",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "hangars de marques nationales en façades colorées",
+      "parking immense aux cases larges",
+      "chariots de supermarché en rangées sous un auvent",
+      "entrées automatiques qui soufflent de l'air chaud ou froid",
+      "panneau de prix et de promotions visibles depuis la route",
+      "fast-food en bordure de zone",
+      "ronds-points et voies d'accès pensées pour les voitures"
+    ],
+    "bruits": [
+      "bruit sourd de la circulation sur le périphérique proche",
+      "musique de supermarché — lente, répétitive",
+      "chariot qui grince sur le bitume du parking",
+      "bip de caisse enregistreuse",
+      "annonce de promotion au haut-parleur"
+    ],
+    "odeurs": [
+      "plastique et air conditionné de l'intérieur",
+      "friture du fast-food en bordure",
+      "gasoil du parking",
+      "boulangerie industrielle à l'entrée du supermarché"
+    ],
+    "textures": [
+      "chariot métallique froid",
+      "sol en carrelage brillant",
+      "caisse plastique des courses",
+      "parking chaud en été, glacé en hiver"
+    ],
+    "emotionsTypiques": [
+      "automatisme de la consommation sans plaisir particulier",
+      "solitude dans un espace plein de monde",
+      "sentiment de surabondance et d'absence simultanées",
+      "irritation ou résignation selon l'humeur",
+      "fatigue de fin de semaine dans un espace de nécessité"
+    ],
+    "usagesNarratifs": [
+      "espace pour montrer la vie ordinaire sans poésie — et y trouver de l'humanité quand même",
+      "décor pour une rencontre inattendue dans un endroit banal",
+      "lieu pour une scène de tension domestique",
+      "contexte révélateur d'une situation financière par les choix d'achat"
+    ],
+    "tensionsTypiques": [
+      "file de caisse qui dure trop longtemps",
+      "rencontre entre deux personnes qui ne devraient pas se croiser",
+      "vol à l'étalage ou soupçon",
+      "personnage contraint de faire des choix face aux prix",
+      "incident de parking qui dégénère"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Parent avec enfants en bas âge",
+        "description": "Gestion logistique en mode survie. Les courses sont une mission, pas un plaisir. Les enfants dans le chariot sont une contrainte affectueuse."
+      },
+      {
+        "profil": "Adolescent sans voiture",
+        "description": "A dû se faire emmener. La zone commerciale est un désert sans transport en commun. Il attend qu'on en parte."
+      },
+      {
+        "profil": "Personne âgée sans voiture",
+        "description": "Dépendante d'un proche pour venir ici. La zone commerciale remplace le marché de village qu'elle aimait. Elle achète moins parce qu'elle porte seule."
+      }
+    ],
+    "notesEditoriales": [
+      "La zone commerciale est souvent utilisée comme symbole négatif — à nuancer avec de l'humanité.",
+      "Ce qui se passe entre les rayons et dans les files dit beaucoup des gens — mine de dialogues.",
+      "L'absurdité de l'espace — conçu pour les voitures, pas pour les gens — mérite d'être montrée."
+    ]
+  },
+  {
+    "id": "quartier-residentiel-bourgeois",
+    "label": "Quartier résidentiel bourgeois",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "immeubles haussmanniens avec gardien",
+      "jardins publics entretenus avec des fontaines",
+      "trottoirs larges et propres",
+      "boutiques de luxe ou de services haut de gamme",
+      "voitures de gamme supérieure garées devant les immeubles",
+      "rues calmes sans déchets ni tags",
+      "école privée avec hauts murs et plaque discrète"
+    ],
+    "bruits": [
+      "silence relatif dans les rues — peu de bruit de foule",
+      "voix feutrées, débit posé",
+      "klaxon rare et discret",
+      "tonnelier ou maçon dans une rénovation d'appartement",
+      "fontaine dans un square"
+    ],
+    "odeurs": [
+      "absence d'odeur notable — neutralité étudiée",
+      "parfum d'une terrasse fleurie",
+      "boulangerie fine de quartier",
+      "produits d'entretien utilisés dans les halls"
+    ],
+    "textures": [
+      "marbre froid des halls d'immeuble",
+      "poignée de porte en laiton brillant",
+      "trottoir en pierre calcaire lisse",
+      "interphone en métal brossé"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'ordre et de contrôle du monde",
+      "confort comme norme invisible",
+      "méfiance discrète envers l'inconnu",
+      "appartenance à un monde fermé sans qu'on le dise",
+      "vulnérabilité cachée sous l'apparence imperturbable"
+    ],
+    "usagesNarratifs": [
+      "espace pour explorer la face cachée d'une façade impeccable",
+      "lieu de tension entre les apparences et les drames privés",
+      "décor pour un récit de classe ou de déclassement",
+      "contexte révélateur d'un personnage qui y appartient ou tente d'y entrer"
+    ],
+    "tensionsTypiques": [
+      "scandale qui menace la réputation familiale",
+      "dépendance ou maladie cachée derrière les beaux murs",
+      "domestique qui en sait trop",
+      "enfant qui refuse le monde de ses parents",
+      "argent qui se tarit et qu'il faut masquer"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant de naissance",
+        "description": "Ne voit plus le quartier — il est l'air qu'il respire. Il juge les déviations à la norme sans s'en rendre compte. L'ordre lui est naturel."
+      },
+      {
+        "profil": "Nouvel arrivant par mariage ou succès",
+        "description": "Surveille chaque geste. Se demande si ça se voit qu'il n'est pas d'ici. Adopte les codes avec trop de zèle."
+      },
+      {
+        "profil": "Employé de maison",
+        "description": "Connaît l'envers du décor. Les tensions, les disputes, les fragilités. Il traverse le quartier chaque jour mais n'en est pas."
+      }
+    ],
+    "notesEditoriales": [
+      "Le quartier bourgeois est le lieu du paradoxe : tout semble parfait, rien ne l'est vraiment.",
+      "Le contraste entre la façade et l'intérieur des appartements est le moteur narratif principal.",
+      "Attention au regard caricatural : la richesse n'empêche pas la souffrance réelle."
+    ]
+  },
+  {
+    "id": "marche-couvert-urbain",
+    "label": "Marché couvert urbain",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "structure métallique ou halle ancienne au plafond haut",
+      "stands alignés sous des toits de tôle ou de verre",
+      "marchands debout derrière des étals chargés",
+      "allées centrales en carrelage brillant ou béton",
+      "lumière naturelle filtrée par les verrières",
+      "affichage de prix manuscrit sur des ardoises",
+      "balance ancienne sur chaque étal"
+    ],
+    "bruits": [
+      "écho des voix dans la hauteur de la halle",
+      "couteau sur la planche — régulier et précis",
+      "appels des marchands qui interpellent les clients",
+      "chariots à roulettes et sacs plastique",
+      "sons cuisinés depuis un stand traiteur"
+    ],
+    "odeurs": [
+      "fromages affinés — forts et diversifiés",
+      "poisson sur glace — froid et iodé",
+      "viandes fraîches et boyaux",
+      "fruits à la limite du mûr",
+      "herbes fraîches — persil, coriandre, menthe"
+    ],
+    "textures": [
+      "fromage ferme ou coulant selon le type",
+      "sol mouillé par les melons ou les poissons",
+      "fromage de vieux bois des planches",
+      "sachet en papier kraft sous les doigts"
+    ],
+    "emotionsTypiques": [
+      "plaisir sensoriel de l'abondance alimentaire",
+      "rituel hebdomadaire ancré dans le quartier",
+      "relation de confiance construite avec les marchands habituels",
+      "vitalité d'un lieu pensé pour les échanges humains",
+      "nostalgie d'un commerce à visage humain"
+    ],
+    "usagesNarratifs": [
+      "lieu de rencontre hebdomadaire entre personnages du même quartier",
+      "espace pour montrer les habitudes et routines d'un personnage",
+      "décor pour une conversation publique qui dit quelque chose de privé",
+      "contexte de transmission — recettes, secrets, histoires"
+    ],
+    "tensionsTypiques": [
+      "fermeture possible du marché — fin d'une époque",
+      "conflit entre marchands pour l'emplacement",
+      "vol ou dispute dans l'agitation",
+      "rencontre entre deux personnes qui se sont perdues de vue",
+      "marchand qui en sait trop sur les habitudes d'un personnage"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Client habitué du samedi matin",
+        "description": "Connaît les marchands par leur prénom. La tournée du marché est un rituel social autant qu'alimentaire. Il revient avec un sac plein et des nouvelles."
+      },
+      {
+        "profil": "Touriste qui découvre",
+        "description": "Photographie les fromages, goûte les olives, écoute les appels des marchands. C'est du spectacle avant d'être un marché."
+      },
+      {
+        "profil": "Marchand en fin de journée",
+        "description": "Veut vider son étal. Proposera ce qu'il reste pour presque rien. Sa fatigue est réelle, son sourire commercial persiste."
+      }
+    ],
+    "notesEditoriales": [
+      "Le marché couvert est un espace de lien social de proximité — rare en fiction et très riche.",
+      "Les odeurs sont le marqueur le plus puissant : elles doivent être au centre de toute description.",
+      "La relation marchands-clients réguliers est une micro-communauté à exploiter narrativement."
+    ]
+  }
+]

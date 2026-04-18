@@ -1,0 +1,518 @@
+[
+  {
+    "id": "tristesse",
+    "label": "Tristesse",
+    "alias": [
+      "tristesse",
+      "peine",
+      "chagrin léger",
+      "abattement",
+      "cafard",
+      "morosité",
+      "cœur lourd",
+      "spleen",
+      "mélancolie légère",
+      "douleur sourde"
+    ],
+    "famille": "tristesse-deuil",
+    "definitionCourte": "Réponse émotionnelle à une perte, une déception ou une douleur subie, qui ralentit le personnage et le replie vers l'intérieur sans nécessairement le paralyser.",
+    "signesPhysiques": [
+      "regard bas ou perdu dans le vide",
+      "commissures des lèvres légèrement tombantes",
+      "paupières plus lourdes, moins mobiles",
+      "épaules basses, dos qui s'arrondit légèrement",
+      "gestes ralentis, peu d'énergie dans les mouvements",
+      "visage moins expressif, moins réactif",
+      "voix plus douce ou plus plate",
+      "soupirs fréquents et lents",
+      "yeux humides sans pleurs déclarés",
+      "corps qui cherche à s'installer, à se poser"
+    ],
+    "sensationsInternes": [
+      "poids dans la poitrine, comme un objet lourd posé dedans",
+      "gorge légèrement serrée",
+      "lenteur intérieure, impression que tout demande plus d'effort",
+      "désintérêt pour ce qui plaisait d'habitude",
+      "besoin de calme et de silence",
+      "sensation que la couleur du monde a baissé d'un ton",
+      "légère douleur sourde sans localisation précise",
+      "impression d'être légèrement à l'écart du reste"
+    ],
+    "pensees": [
+      "Je n'ai pas envie de faire d'efforts.",
+      "Ça me manque.",
+      "Ce n'est plus comme avant.",
+      "À quoi bon.",
+      "Je préférerais être seul.",
+      "Pourquoi est-ce que ça devait arriver maintenant ?",
+      "Je n'arrive pas à penser à autre chose.",
+      "Peut-être que ça passera — pas tout de suite."
+    ],
+    "effetsVoixLangage": [
+      "voix plus plate, moins modulée",
+      "débit plus lent",
+      "phrases plus courtes, moins développées",
+      "réponses différées d'une demi-seconde",
+      "moins d'initiatives dans la conversation",
+      "mots plus simples, moins d'images",
+      "long silence avant de répondre à une question"
+    ],
+    "comportements": [
+      "se retire de la conversation sans s'en excuser",
+      "observe plus qu'il ne participe",
+      "refuse doucement des propositions qui l'auraient intéressé avant",
+      "reste immobile plus longtemps que d'habitude",
+      "tourne et retourne un souvenir ou une pensée",
+      "cherche un espace familier ou un objet de confort",
+      "mange moins, dort davantage ou au contraire pas assez",
+      "évite les regards prolongés",
+      "répond brièvement aux tentatives de contact"
+    ],
+    "masquesPossibles": [
+      "calme apparent",
+      "efficacité mécanique",
+      "sourire de façade poli",
+      "humour détaché ou autodérisoire",
+      "activité débordante pour ne pas s'arrêter"
+    ],
+    "evolutionsPossibles": [
+      "chagrin profond si la perte se confirme ou s'aggrave",
+      "mélancolie durable si la tristesse n'a pas d'issue",
+      "colère si la tristesse se heurte à une injustice",
+      "soulagement progressif si elle est traversée",
+      "repli durable si elle n'est jamais exprimée"
+    ],
+    "contextesAggravants": [
+      "anniversaire ou date symbolique liée à la perte",
+      "solitude sans perspective de contact",
+      "fatigue physique qui fragilise les défenses",
+      "rappel involontaire par un objet, une odeur ou une musique",
+      "sentiment que personne ne comprend"
+    ],
+    "contextesAttenuants": [
+      "présence silencieuse d'un proche",
+      "possibilité d'extérioriser ou de pleurer",
+      "activité physique légère",
+      "passage du temps"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère morosité", "description": "Vague manque d'entrain, sans cause précise ou pour une raison mineure. Le personnage fonctionne normalement." },
+      { "niveau": 2, "label": "Tristesse sensible", "description": "Le personnage est visiblement moins disponible, moins réactif. La peine est présente mais maîtrisée." },
+      { "niveau": 3, "label": "Chagrin manifeste", "description": "La tristesse occupe une place centrale. Le personnage peine à s'en distraire et se replie sensiblement." },
+      { "niveau": 4, "label": "Peine profonde", "description": "La tristesse envahit les décisions, les relations, les priorités. Les pleurs peuvent survenir à tout moment." },
+      { "niveau": 5, "label": "Effondrement", "description": "La tristesse submerge. Le personnage n'arrive plus à maintenir la façade, même minimale. Pleurs prolongés, paralysie fonctionnelle." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage stoïque",
+        "description": "La tristesse est avalée et niée. Le personnage se raidit contre elle. La façade tient — jusqu'à ce qu'un détail inattendu la brise. La tristesse sort alors de façon disproportionnée."
+      },
+      {
+        "profil": "Personnage émotionnellement ouvert",
+        "description": "La tristesse est reconnue et exprimée sans honte. Le personnage la traverse en la nommant. Elle passe plus vite mais elle est plus visible."
+      },
+      {
+        "profil": "Personnage très actif",
+        "description": "Fuit la tristesse dans le mouvement. Tant qu'il agit, il n'a pas à la regarder en face. La tristesse ressurgit dans les silences forcés : un trajet, une nuit sans sommeil."
+      }
+    ],
+    "notesEditoriales": [
+      "La tristesse est plus crédible quand elle ralentit le personnage qu'elle ne le paralyse — réserver l'effondrement aux moments de haute intensité narrative.",
+      "Éviter les pleurs systématiques : la tristesse non exprimée peut être plus puissante.",
+      "Les détails sensoriels (objet, lumière, musique) sont ses déclencheurs les plus efficaces.",
+      "Elle gagne en texture quand elle coexiste avec la vie ordinaire : un personnage triste qui fait quand même le café."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "melancolie" },
+      { "type": "peut_evoluer_en", "cible": "deuil" },
+      { "type": "peut_evoluer_en", "cible": "colere" },
+      { "type": "souvent_associe_a", "cible": "retrait-social" },
+      { "type": "peut_masquer", "cible": "colere-rentree" },
+      { "type": "peut_suivre", "cible": "deception" }
+    ]
+  },
+  {
+    "id": "chagrin",
+    "label": "Chagrin",
+    "alias": [
+      "chagrin",
+      "peine vive",
+      "douleur du cœur",
+      "affliction",
+      "crève-cœur",
+      "déchirure intérieure",
+      "tristesse aiguë",
+      "douleur sentimentale",
+      "blessure fraîche",
+      "peine intense"
+    ],
+    "famille": "tristesse-deuil",
+    "definitionCourte": "Tristesse intense et aiguë liée à une perte concrète, une séparation ou une déception profonde. Plus vif et plus localisé que la mélancolie, il fait mal comme une blessure fraîche.",
+    "signesPhysiques": [
+      "yeux rouges ou humides, paupières gonflées",
+      "nez qui se serre ou qui coule légèrement",
+      "lèvres qui tremblent avant les larmes",
+      "menton qui frissonne par à-coups",
+      "poitrine qui se soulève de façon irrégulière",
+      "corps replié sur lui-même, genoux remontés ou bras croisés sur le ventre",
+      "voix brisée, qui cède à mi-phrase",
+      "respiration hachée, entrecoupée",
+      "larmes qui viennent sans décision",
+      "regard flou ou figé sur un point sans le voir"
+    ],
+    "sensationsInternes": [
+      "douleur physique réelle dans la poitrine ou l'estomac",
+      "gorge qui brûle ou se noue",
+      "vagues de peine qui montent et retombent",
+      "impression que le corps résiste à la perte mais n'y arrive pas",
+      "épuisement après les pleurs, comme après un effort",
+      "nausée légère dans les moments les plus aigus",
+      "impression que la douleur est trop grande pour l'espace intérieur"
+    ],
+    "pensees": [
+      "Je n'aurais pas cru que ça ferait aussi mal.",
+      "Comment est-ce que je vais faire sans ?",
+      "Je ne veux pas que ce soit vrai.",
+      "Si seulement j'avais pu faire autrement.",
+      "Je ne peux pas m'arrêter d'y penser.",
+      "Je ne veux voir personne.",
+      "Est-ce que ça va finir par s'arrêter ?",
+      "Ça n'aurait pas dû se passer comme ça."
+    ],
+    "effetsVoixLangage": [
+      "voix brisée ou réduite à un murmure",
+      "incapacité à finir certaines phrases",
+      "long silence avant de parler",
+      "mots simples, pas de formulation complexe",
+      "débit très lent ou au contraire précipité pour ne pas pleurer",
+      "inspirations brusques pour retenir les larmes"
+    ],
+    "comportements": [
+      "pleure sans chercher à se cacher ou à s'arrêter",
+      "cherche instinctivement quelqu'un à tenir ou à tenir contre soi",
+      "s'isole pour ne pas être vu dans cet état",
+      "garde un objet lié à la perte entre les mains",
+      "relit, réécoute, revient sur le souvenir encore et encore",
+      "refuse de manger ou mange mécaniquement sans goût",
+      "dort trop ou ne dort plus",
+      "fixe un endroit sans le voir pendant de longues minutes"
+    ],
+    "masquesPossibles": [
+      "silence poli qui ne dit rien",
+      "efficacité mécanique et suractiv]ité",
+      "rire décalé qui sonne faux",
+      "froideur soudaine envers ceux qui cherchent à aider"
+    ],
+    "evolutionsPossibles": [
+      "deuil organisé si la perte est acceptée progressivement",
+      "effondrement si le chagrin est tenu trop longtemps sans issue",
+      "colère si une responsabilité extérieure est identifiée",
+      "attachement renforcé aux survivants de la perte",
+      "fermeture durable si la douleur est jugée trop risquée à revivre"
+    ],
+    "contextesAggravants": [
+      "perte brutale sans préparation possible",
+      "impossibilité de dire au revoir",
+      "sentiment de responsabilité ou de culpabilité dans la perte",
+      "solitude sans témoin",
+      "perte multiple ou perte après d'autres épreuves récentes"
+    ],
+    "contextesAttenuants": [
+      "présence d'un proche qui tient sans chercher à réparer",
+      "possibilité de ritualiser la perte",
+      "espace et temps pour pleurer",
+      "mémoire positive de ce qui a été perdu"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Peine légère", "description": "Le personnage est touché mais reste fonctionnel. La douleur est réelle mais contenue." },
+      { "niveau": 2, "label": "Chagrin sensible", "description": "Les larmes sont proches. Le personnage lutte pour rester présent dans l'échange." },
+      { "niveau": 3, "label": "Chagrin déclaré", "description": "Les pleurs viennent. Le personnage ne les retient plus ou lutte visiblement contre eux." },
+      { "niveau": 4, "label": "Peine profonde", "description": "Le chagrin envahit tout. Le personnage ne parvient à penser à rien d'autre." },
+      { "niveau": 5, "label": "Douleur insupportable", "description": "Le personnage est submergé. Les pleurs sont incontrôlables. Le corps est en deuil avant l'esprit." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage pudique",
+        "description": "Retient les larmes à tout prix devant les autres. Le chagrin sort seul, la nuit, ou dans un espace qu'il considère sûr. L'écart entre la façade et l'état réel est très grand."
+      },
+      {
+        "profil": "Personnage expressif",
+        "description": "Le chagrin s'exprime au moment où il arrive, sans filtre. Les larmes viennent vite, dans n'importe quel contexte. Le personnage en a honte parfois, mais ne peut pas l'empêcher."
+      },
+      {
+        "profil": "Personnage qui a vécu d'autres pertes",
+        "description": "Reconnaît le chagrin comme une douleur familière. Sait qu'il va passer — mais ça ne l'atténue pas. Il est dans la peine avec une conscience froide : ça va durer un certain temps."
+      }
+    ],
+    "notesEditoriales": [
+      "Le chagrin est plus fort en scène quand quelque chose l'interrompt ou l'empêche de s'exprimer.",
+      "Éviter de le réduire aux larmes : un chagrin silencieux peut être plus intense.",
+      "Les détails physiques minuscules (la voix qui cède, le menton qui tremble) sont plus efficaces que les grands gestes.",
+      "Le chagrin partagé crée du lien ; le chagrin solitaire crée de la distance narrative."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "deuil" },
+      { "type": "peut_evoluer_en", "cible": "colere" },
+      { "type": "peut_evoluer_en", "cible": "resignation" },
+      { "type": "souvent_associe_a", "cible": "perte" },
+      { "type": "peut_masquer", "cible": "culpabilite" },
+      { "type": "peut_suivre", "cible": "separation-ou-rupture" }
+    ]
+  },
+  {
+    "id": "melancolie",
+    "label": "Mélancolie",
+    "alias": [
+      "mélancolie",
+      "spleen",
+      "nostalgie diffuse",
+      "tristesse douce",
+      "cafard profond",
+      "langueur",
+      "sentiment de vide doux",
+      "mélancolie douce-amère",
+      "tristesse sans objet",
+      "humeur sombre et rêveuse"
+    ],
+    "famille": "tristesse-deuil",
+    "definitionCourte": "Tristesse diffuse, douce et durable, sans objet précis ou dont l'objet est trop lointain pour être saisi. Elle teinte le regard du personnage sans le briser — une couleur de fond, pas une blessure.",
+    "signesPhysiques": [
+      "regard pensif posé sur le lointain ou sur rien",
+      "sourire rare mais doux quand il vient",
+      "mouvements lents et mesurés",
+      "corps détendu mais légèrement affaissé",
+      "soupirs lents, pas de tension dedans",
+      "voix plus basse et plus douce qu'habituellement",
+      "silence fréquent, pas inconfortable",
+      "gestes peu nombreux, économiques"
+    ],
+    "sensationsInternes": [
+      "douceur étrange au fond de la poitrine, presque agréable",
+      "légèreté et lourdeur mêlées",
+      "sentiment de tenir quelque chose de précieux mais de fragile",
+      "distance légère du monde extérieur, comme derrière une vitre",
+      "nostalgie d'un état ou d'un temps sans pouvoir le nommer",
+      "tendresse pour ce qui est en train de passer",
+      "beauté du monde perçue comme douloureuse"
+    ],
+    "pensees": [
+      "Les choses ne durent pas.",
+      "Il y avait quelque chose de bien là.",
+      "Je ne saurai jamais si j'ai fait le bon choix.",
+      "Ce moment aurait mérité d'être retenu.",
+      "Je me souviens de tout, mais de loin.",
+      "C'est beau et c'est triste en même temps.",
+      "Quelque chose a changé et ça ne reviendra pas.",
+      "Je ne suis pas malheureux — juste un peu hors du monde."
+    ],
+    "effetsVoixLangage": [
+      "ton doux et légèrement rêveur",
+      "phrases plus longues, plus ouvertes",
+      "images et métaphores qui viennent naturellement",
+      "silences acceptés sans gêne",
+      "parole rare mais choisie",
+      "tendance à ramener la conversation vers le passé ou l'absolu"
+    ],
+    "comportements": [
+      "s'arrête devant des détails sans importance apparente",
+      "relit de vieilles lettres ou regarde d'anciennes photos",
+      "écoute de la musique sans autre activité",
+      "marche sans destination précise",
+      "cherche la compagnie sans vraiment vouloir parler",
+      "observe les autres avec une tendresse légèrement distante",
+      "reste plus longtemps dans un lieu avant de partir",
+      "note ou dessine sans but précis"
+    ],
+    "masquesPossibles": [
+      "sérénité affichée",
+      "humour léger et détaché",
+      "contenance poétique ou artistique",
+      "introversion présentée comme un choix"
+    ],
+    "evolutionsPossibles": [
+      "tristesse vive si un événement réactive la perte sous-jacente",
+      "créativité intense si la mélancolie est canalisée",
+      "retrait progressif si elle n'est jamais traversée",
+      "acceptation et paix si elle est intégrée",
+      "désespoir si elle bascule dans le vide"
+    ],
+    "contextesAggravants": [
+      "crépuscule, lumière de fin de journée",
+      "musique ou odeur associée au passé",
+      "lieu chargé de souvenirs",
+      "changement de saison",
+      "fin d'une période ou d'un projet"
+    ],
+    "contextesAttenuants": [
+      "beauté du monde acceptée telle qu'elle est",
+      "création ou expression artistique",
+      "présence silencieuse d'un proche",
+      "action concrète dans le monde"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère langueur", "description": "Nuance de fond qui colore légèrement la perception sans gêner. Légère douceur triste." },
+      { "niveau": 2, "label": "Mélancolie sensible", "description": "La distance du monde est perceptible. Le personnage est là mais un peu absent." },
+      { "niveau": 3, "label": "Mélancolie marquée", "description": "La tristesse douce devient prégnante. Elle infuse les jugements et les décisions." },
+      { "niveau": 4, "label": "Spleen profond", "description": "La mélancolie borde sur le vide. Le personnage a du mal à trouver de l'élan ou de la saveur." },
+      { "niveau": 5, "label": "Désespoir mélancolique", "description": "La mélancolie a viré. La douceur a disparu, il ne reste que le vide et la conviction que ça ne changera pas." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Artiste ou créatif",
+        "description": "La mélancolie est une ressource. Elle aiguise le regard, elle nourrit le travail. Le personnage l'entretient à demi-consciem­ment parce qu'elle lui donne accès à quelque chose de vrai."
+      },
+      {
+        "profil": "Personnage vieillissant",
+        "description": "La mélancolie est liée au passage du temps vécu. Elle n'est pas douloureuse — elle est exacte. Le personnage voit ce qui a changé avec une clarté que les autres n'ont pas encore."
+      },
+      {
+        "profil": "Personnage après une grande perte",
+        "description": "La mélancolie est le résidu stabilisé du chagrin. La douleur aiguë est passée, reste une teinte qui ne disparaît jamais tout à fait. C'est supportable — mais jamais tout à fait neutre."
+      }
+    ],
+    "notesEditoriales": [
+      "La mélancolie est une émotion littérairement riche mais à manier avec précision : elle peut facilement virer au cliché romantique.",
+      "Son intérêt narratif tient à sa dualité : belle et douloureuse en même temps.",
+      "Éviter de la résoudre trop vite — elle gagne à rester présente en fond pendant plusieurs scènes.",
+      "Un personnage mélancolique observe le monde différemment : c'est une façon de filtrer la narration."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "tristesse" },
+      { "type": "peut_evoluer_en", "cible": "desespoir" },
+      { "type": "peut_evoluer_en", "cible": "acceptation" },
+      { "type": "souvent_associe_a", "cible": "nostalgie" },
+      { "type": "peut_nourrir", "cible": "creativite" },
+      { "type": "peut_suivre", "cible": "deuil-stabilise" }
+    ]
+  },
+  {
+    "id": "deuil",
+    "label": "Deuil",
+    "alias": [
+      "deuil",
+      "perte irréversible",
+      "travail de deuil",
+      "affliction",
+      "endeuillé",
+      "peine de la perte",
+      "chagrin de la mort",
+      "traverse du deuil",
+      "deuil non fait",
+      "deuil gelé"
+    ],
+    "famille": "tristesse-deuil",
+    "definitionCourte": "Processus intérieur déclenché par une perte irréversible — mort, rupture définitive, fin d'un monde — qui reorganise durablement la relation du personnage à lui-même et aux autres.",
+    "signesPhysiques": [
+      "traits tirés, creusés en quelques jours",
+      "regard absent ou voilé",
+      "corps alourdi, comme si chaque geste demandait un effort disproportionné",
+      "yeux souvent rouges ou gonflés",
+      "alimentation réduite ou mécanique",
+      "sommeil erratique, trop ou trop peu",
+      "vêtements négligés ou au contraire trop appliqués",
+      "lenteur générale dans tous les gestes du quotidien",
+      "larmes qui surgissent sans prévenir dans des contextes inattendus",
+      "main qui cherche machinalement un objet ou une présence disparue"
+    ],
+    "sensationsInternes": [
+      "vide physique là où quelque chose occupait de la place",
+      "douleur sourde et persistante dans la poitrine",
+      "sentiment d'irréalité, de décalage avec le monde",
+      "fatigue profonde qui ne cède pas au repos",
+      "oscillation entre l'engoudrissement et la douleur vive",
+      "impression que le temps n'avance pas normalement",
+      "moments de calme trompeur suivis de vagues soudaines"
+    ],
+    "pensees": [
+      "C'est irréversible. Je n'arrive pas à y croire.",
+      "Je vais m'en souvenir tous les jours.",
+      "Est-ce que j'aurais pu faire autrement ?",
+      "Le monde a changé de forme.",
+      "Je ne sais pas comment on fait pour continuer après ça.",
+      "Tout me ramène à lui / elle / ça.",
+      "Je ne veux pas oublier.",
+      "Et pourtant la vie continue — ce qui est presque choquant."
+    ],
+    "effetsVoixLangage": [
+      "voix aplatie, sans énergie",
+      "phrases inachevées",
+      "long silence avant de répondre",
+      "monosyllabes quand le deuil est très aigu",
+      "irruption soudaine du disparu dans la conversation",
+      "difficulté à se concentrer sur ce qu'on vient de dire"
+    ],
+    "comportements": [
+      "garde les affaires du disparu intactes",
+      "évite les lieux liés à la perte",
+      "ou au contraire y retourne compulsivement",
+      "s'occupe de façon mécanique pour ne pas s'arrêter",
+      "repousse les condoléances ou les accueille avec raideur",
+      "continue les rituels qu'il avait avec le disparu",
+      "devient inaccessible aux sujets non liés à la perte",
+      "fait preuve d'une gentillesse excessive — ou au contraire d'une brusquerie déconcertante",
+      "organise, trie, range comme pour reprendre le contrôle"
+    ],
+    "masquesPossibles": [
+      "efficacité froide dans les démarches administratives",
+      "solidité affichée pour les autres",
+      "humour noir ou décalé",
+      "retrait poli sans explication"
+    ],
+    "evolutionsPossibles": [
+      "mélancolie stabilisée quand la douleur aiguë passe",
+      "colère contre un responsable ou le destin",
+      "culpabilité du survivant",
+      "fermeture aux nouvelles relations",
+      "réorientation profonde du sens de la vie",
+      "deuil gelé si le processus est interrompu ou nié"
+    ],
+    "contextesAggravants": [
+      "deuil soudain sans préparation",
+      "impossibilité d'un rituel ou d'une cérémonie",
+      "deuil non reconnu socialement (relation cachée, animal, fausse couche)",
+      "plusieurs deuils simultanés ou rapprochés",
+      "résurgence à chaque date anniversaire"
+    ],
+    "contextesAttenuants": [
+      "rituel collectif de deuil (funérailles, cérémonie)",
+      "parole libre sur le disparu",
+      "soutien non envahissant",
+      "temps — le seul qui atténue vraiment"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Perte légère", "description": "La perte est réelle mais la vie reprend vite. Tristesse courte et localisée." },
+      { "niveau": 2, "label": "Deuil sensible", "description": "La perte occupe l'espace intérieur pendant plusieurs semaines. Le personnage fonctionne mais ça coûte." },
+      { "niveau": 3, "label": "Deuil actif", "description": "La perte restrucutre les journées. Le personnage est clairement en traversée de quelque chose." },
+      { "niveau": 4, "label": "Deuil profond", "description": "La perte envahit presque tout. Le personnage peine à se projeter au-delà du lendemain." },
+      { "niveau": 5, "label": "Deuil dévastateur", "description": "La perte paraît irsurmontable. Le personnage ne sait plus comment exister dans le nouveau monde." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui a déjà perdu",
+        "description": "Reconnaît le deuil comme un territoire familier. Sait qu'il va passer et sait ce que ça coûte. Cela ne le protège pas mais il sait comment se tenir dedans."
+      },
+      {
+        "profil": "Personnage qui n'a jamais perdu",
+        "description": "Découvre que la mort ou la perte irréversible changent vraiment la forme du monde. Le choc est d'autant plus brutal que rien ne l'avait préparé à ce sentiment d'irréalité."
+      },
+      {
+        "profil": "Personnage en position de force",
+        "description": "La vulnérabilité du deuil le déroute plus que la perte elle-même. Il ne sait pas comment être faible. Il compense par l'action, l'organisation, la décision — jusqu'à l'épuisement."
+      }
+    ],
+    "notesEditoriales": [
+      "Le deuil n'est pas linéaire : les étapes classiques peuvent se mélanger, reculer, revenir.",
+      "Éviter de le résoudre trop vite dans le récit — il a besoin de temps narratif pour être crédible.",
+      "Les micro-détails sont les plus puissants : la tasse qu'on ne range plus, le prénom qu'on dit encore au présent.",
+      "Le deuil transforme la relation du personnage au futur — c'est là que se joue le plus grand intérêt narratif."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "melancolie" },
+      { "type": "peut_evoluer_en", "cible": "culpabilite-du-survivant" },
+      { "type": "peut_evoluer_en", "cible": "colere" },
+      { "type": "souvent_associe_a", "cible": "sentiment-d-irrealite" },
+      { "type": "peut_declencher", "cible": "reorientation-existentielle" },
+      { "type": "peut_suivre", "cible": "chagrin" }
+    ]
+  }
+]

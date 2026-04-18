@@ -1,0 +1,562 @@
+[
+  {
+    "id": "commissariat",
+    "label": "Commissariat de police — accueil",
+    "type": "urbain-institution",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "vitrine blindée entre le public et l'agent d'accueil",
+      "salle d'attente avec bancs fixes et numéros à tirer",
+      "affichage des droits et procédures sur les murs",
+      "porte sécurisée vers les services internes — grille ou badge",
+      "caméra visible dans un angle supérieur",
+      "formulaires empilés sur un comptoir",
+      "téléphone qui sonne — rarement décroché immédiatement"
+    ],
+    "bruits": [
+      "porte blindée qui se ferme — bruit lourd et définitif",
+      "conversation filtrée par la vitre — mots échangés en criant un peu",
+      "radio police en fond depuis les bureaux",
+      "pleurs ou voix forte d'un usager qui attend"
+    ],
+    "odeurs": [
+      "désinfectant institutionnel",
+      "papier et imprimante",
+      "café de la cafetière derrière le comptoir — non accessible au public"
+    ],
+    "textures": [
+      "banc en plastique moulé froid",
+      "vitrine blindée — impression de parler à travers un aquarium",
+      "formulaire en papier recyclé"
+    ],
+    "emotionsTypiques": [
+      "sentiment de se trouver du mauvais côté de la vitre",
+      "patience imposée par le dispositif institutionnel",
+      "anxiété selon la raison de la visite"
+    ],
+    "usagesNarratifs": [
+      "plainte déposée ou retirée — acte narratif décisif",
+      "confrontation avec l'institution — ce qu'elle peut ou ne peut pas faire",
+      "attente qui dit le rapport de l'individu à l'État",
+      "policier d'accueil comme personnage — souvent épuisé et sous-estimé"
+    ],
+    "tensionsTypiques": [
+      "plainte refusée ou minimisée par l'agent d'accueil",
+      "garde à vue d'un personnage — autre usage du bâtiment",
+      "témoin en attente face à l'agresseur potentiel dans la même salle"
+    ],
+    "variantesPerception": [
+      {"profil": "Victime qui dépose plainte", "description": "Il a répété son histoire vingt fois dans sa tête. Devant l'agent, les mots viennent moins bien. La vitre ajoute à la distance."},
+      {"profil": "Agent d'accueil", "description": "Il voit dix situations comme ça par jour. Il applique les procédures. La compassion est professionnelle — sinon il ne tiendrait pas."},
+      {"profil": "Personne interpellée qui attend", "description": "Il est de l'autre côté — dans la salle sans vitres, là où les portes s'ouvrent par badge. Le temps s'arrête différemment."}
+    ],
+    "notesEditoriales": [
+      "La vitre blindée est un dispositif narratif fort — elle crée une distance physique qui dit la distance institutionnelle.",
+      "Le commissariat a une sociologie très précise des visiteurs — victimes, témoins, voisins, détenus. Chacun vit un lieu différent."
+    ]
+  },
+  {
+    "id": "tribunal",
+    "label": "Tribunal — couloir et salle d'audience",
+    "type": "urbain-institution",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "couloirs en marbre ou en pierre — grands et froids",
+      "avocats en robe noire qui marchent vite",
+      "familles groupées devant les salles en attente",
+      "salle d'audience — bois sombre, estrade, écusson",
+      "public sur des bancs en retrait",
+      "greffier qui tape — le son de la machine dans le silence",
+      "mention 'La République française au nom du peuple français'"
+    ],
+    "bruits": [
+      "silence imposé dans les salles — le moindre bruit résonne",
+      "avocat qui parle — voix calibrée pour l'espace",
+      "chuchotis dans le public — réprimandés",
+      "porte en bois lourd qui s'ouvre et se ferme"
+    ],
+    "odeurs": [
+      "bois ciré — vieux meuble et salle institutionnelle",
+      "papier — le tribunal vit du papier",
+      "vêtements fermés — les gens s'habillent différemment pour le tribunal"
+    ],
+    "textures": [
+      "banc de bois dur — longues sessions",
+      "robe d'avocat en tissu épais",
+      "dossier en papier qu'on feuillette nerveusement"
+    ],
+    "emotionsTypiques": [
+      "sentiment du jugement — être évalué par une institution",
+      "impuissance face à un processus qu'on ne maîtrise pas",
+      "solennité qui pèse même sur celui qui sait qu'il a raison"
+    ],
+    "usagesNarratifs": [
+      "verdict — moment de bascule du récit",
+      "face-à-face entre accusé et victime dans le même espace",
+      "avocat comme personnage pivot entre les mondes",
+      "révélation en salle d'audience — ce qu'on ne savait pas"
+    ],
+    "tensionsTypiques": [
+      "témoin qui se contredit en audience",
+      "avocat qui lâche son client dans le couloir",
+      "famille qui attend le verdict dans le couloir"
+    ],
+    "variantesPerception": [
+      {"profil": "Prévenu pour la première fois", "description": "L'espace l'écrase. Les rituels sont incompréhensibles. Son avocat lui parle vite et en jargon. Il répond 'oui' quand il ne comprend pas."},
+      {"profil": "Avocat pénaliste expérimenté", "description": "Il connaît les juges, les greffiers, les procureurs. Il lit la salle. La solennité ne lui touche plus — c'est son espace de travail."},
+      {"profil": "Famille dans le public", "description": "Ils sont venus pour le soutien mais on les a mis au fond. Ils voient le dos du prévenu. L'attente du verdict dure plus longtemps que tout."}
+    ],
+    "notesEditoriales": [
+      "La salle d'audience est conçue pour être intimidante — elle dit symboliquement qui a le pouvoir. Cette architecture est narrative.",
+      "Le couloir de tribunal est un espace de négociation intense — les avocats s'y parlent à voix basse, les familles attendent, les decisions se prennent."
+    ]
+  },
+  {
+    "id": "urgences-hopital",
+    "label": "Urgences hospitalières",
+    "type": "urbain-institution",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "salle d'attente avec chaises colorées et numéros",
+      "triage visible depuis l'accueil — infirmier qui évalue en deux minutes",
+      "civières qui passent derrière les portes battantes",
+      "écran d'affichage des temps d'attente estimés",
+      "distributeur automatique pour les attentes longues",
+      "enfants endormis sur plusieurs chaises repoussées",
+      "portes battantes vers le service — entrebâillées parfois"
+    ],
+    "bruits": [
+      "gémissements ou pleurs dans la salle d'attente",
+      "annonce par haut-parleur — nom et numéro de box",
+      "charriot qui racle le sol carrelé",
+      "conversation médicale filtrée par les portes"
+    ],
+    "odeurs": [
+      "désinfectant — odeur institutionnelle la plus forte",
+      "vomissures parfois — les urgences ne sont pas séléctives",
+      "café de la cafétéria proche"
+    ],
+    "textures": [
+      "chaise en plastique dur — on attend des heures",
+      "blouse froide si on est patient",
+      "sol en lino froid et réfléchissant"
+    ],
+    "emotionsTypiques": [
+      "anxiété pour soi ou pour l'accompagné",
+      "sentiment d'impuissance face au système de triage",
+      "épuisement de l'attente sous lumière froide"
+    ],
+    "usagesNarratifs": [
+      "crise médicale comme point de bascule narratif",
+      "attente qui révèle le rapport entre les personnages",
+      "rencontre entre étrangers dans une situation de vulnérabilité partagée",
+      "espace de révélation — ce qu'on dit dans une chambre d'urgences"
+    ],
+    "tensionsTypiques": [
+      "cas grave qui passe avant — jalousie irrationnelle de l'attente",
+      "médecin qui annonce quelque chose dans le couloir",
+      "manque de personnel visible"
+    ],
+    "variantesPerception": [
+      {"profil": "Infirmier de triage", "description": "Il évalue en trente secondes la gravité relative. Il a appris à ne pas se laisser influencer par l'expression de douleur — certains crient pour rien, d'autres souffrent en silence."},
+      {"profil": "Patient qui attend depuis quatre heures", "description": "Son problème lui semblait urgent. Maintenant il doute. Il observe les autres — est-ce qu'ils attendent depuis plus longtemps ? Sa douleur est relative."},
+      {"profil": "Accompagnant", "description": "Il ne peut rien faire sauf attendre. Il remplit les formulaires. Il cherche une prise pour recharger le téléphone. Il texte la famille."}
+    ],
+    "notesEditoriales": [
+      "Les urgences sont un espace de vérité — personne ne peut prétendre aller bien en les fréquentant. La vulnérabilité y est nue.",
+      "Le temps d'attente aux urgences est une réalité sociale concrète — il varie selon l'heure, le lieu, le type de problème. À ne pas idéaliser."
+    ]
+  },
+  {
+    "id": "service-social",
+    "label": "Centre d'action sociale — accueil",
+    "type": "urbain-institution",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "salle d'attente avec chaises en plastique dans un couloir",
+      "formulaires à remplir sur une planche à pince",
+      "affichage des aides disponibles — textes longs et administratifs",
+      "enfants qui jouent sur le sol faute d'autre option",
+      "guichet ou bureau ouvert avec vitre",
+      "numéro à tirer — mécanique parfois en panne",
+      "affiche sur les droits en plusieurs langues"
+    ],
+    "bruits": [
+      "bébé qui pleure dans les bras d'une mère épuisée",
+      "conversation administrative — formulaires, justificatifs",
+      "sonnerie du bureau voisin — permanente et non décrochée",
+      "porte qui s'ouvre et se ferme sur chaque rendez-vous"
+    ],
+    "odeurs": [
+      "salle publique — mélange de personnes et de papiers",
+      "désinfectant institutionnel de base",
+      "nourriture de bébé parfois"
+    ],
+    "textures": [
+      "formulaire en papier — qu'on remplit mal faute de stylo",
+      "chaise en plastique dure",
+      "badge de visite qu'on accroche et arrache"
+    ],
+    "emotionsTypiques": [
+      "humiliation diffuse d'avoir besoin d'aide institutionnelle",
+      "épuisement des démarches — ce n'est jamais le dernier formulaire",
+      "espoir du côté de l'assistante sociale qui peut changer quelque chose"
+    ],
+    "usagesNarratifs": [
+      "portrait social précis — qui fréquente ce lieu",
+      "personnage d'assistante sociale comme figure centrale",
+      "personne qui arrive au bout du rouleau après l'accumulation des refus",
+      "révélation d'une situation cachée — ce qui sort dans ces bureaux"
+    ],
+    "tensionsTypiques": [
+      "dossier incomplet — il faut revenir avec un document manquant",
+      "refus d'aide pour non-conformité administrative",
+      "situation d'urgence que le dispositif ne prend pas en charge"
+    ],
+    "variantesPerception": [
+      {"profil": "Assistante sociale expérimentée", "description": "Elle voit les dossiers derrière les personnes, et les personnes derrière les dossiers. Elle sait ce qu'elle peut faire et ce qu'elle ne peut pas. Les deux pèsent."},
+      {"profil": "Usager en demande", "description": "Il a préparé tous ses documents. Le formulaire demande autre chose. Il retournera chercher. C'est la troisième fois."},
+      {"profil": "Enfant qui accompagne un parent", "description": "Il attend depuis longtemps sur la chaise. Il joue avec les brochures. Il ne comprend pas pourquoi ils reviennent ici si souvent."}
+    ],
+    "notesEditoriales": [
+      "Le service social est un lieu de honte sociale non dite — venir ici est un aveu de situation difficile que beaucoup de personnes évitent le plus longtemps possible.",
+      "L'assistante sociale est un personnage narratif sous-utilisé — elle voit tout, peut peu, et porte cet écart en silence."
+    ]
+  },
+  {
+    "id": "prefecture-file",
+    "label": "Préfecture — file d'attente",
+    "type": "urbain-institution",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "file qui commence parfois la veille au soir sur le trottoir",
+      "numéros distribués à l'ouverture — pas toujours suffisants pour tous",
+      "salle d'attente divisée par catégories de démarches",
+      "agents derrière des guichets vitrés numérotés",
+      "photocopies et documents dans des pochettes plastiques",
+      "interprètes informels — voisins de file qui traduisent",
+      "bébés et enfants — souvent plusieurs heures d'attente"
+    ],
+    "bruits": [
+      "annonce du numéro — souvent inaudible ou mal compris",
+      "conversations multilangues dans la salle",
+      "greffage du guichet qui se ferme pour pause",
+      "soupirs collectifs quand une file avance trop lentement"
+    ],
+    "odeurs": [
+      "salle fermée avec trop de personnes",
+      "plastique des pochettes de documents",
+      "nourriture de ceux qui attendent depuis le matin"
+    ],
+    "textures": [
+      "chaise en métal — froide et dure",
+      "document trop souvent manipulé — froissé et humide",
+      "stylo à bille du guichet — souvent en bout de course"
+    ],
+    "emotionsTypiques": [
+      "épuisement de l'attente sous l'enjeu administratif",
+      "anxiété de la date limite ou du dossier incomplet",
+      "solidarité de ceux qui partagent la même situation"
+    ],
+    "usagesNarratifs": [
+      "portrait social des personnes sans papiers ou en régularisation",
+      "kafkaïen ordinaire — renvoi d'un guichet à l'autre",
+      "rencontre dans la file — partage d'informations qui change quelque chose",
+      "humiliation ordinaire de la procédure"
+    ],
+    "tensionsTypiques": [
+      "numéro épuisé avant d'être servi — revenir demain",
+      "dossier refusé pour un détail manquant",
+      "délai qui expire pendant la procédure"
+    ],
+    "variantesPerception": [
+      {"profil": "Demandeur de titre de séjour", "description": "Il est venu avec tout — ou croit avoir tout. Chaque visite est un test. Il a appris les procédures mieux que certains agents."},
+      {"profil": "Agent de guichet", "description": "Il applique les règles qu'il n'a pas faites. Quand il peut aider, il aide. Quand il ne peut pas, il explique. Il voit des centaines de situations sans pouvoir toutes les résoudre."},
+      {"profil": "Personne native qui fait une démarche ordinaire", "description": "Il ne comprend pas pourquoi c'est si long. Il regarde autour de lui. Il réalise qu'il est peut-être dans la file la plus simple de la salle."}
+    ],
+    "notesEditoriales": [
+      "La préfecture est un lieu où se matérialise concrètement la relation entre l'individu et l'État — pour certains, c'est une formalité ; pour d'autres, un enjeu vital.",
+      "La file d'attente de préfecture est un espace de solidarité informelle très particulier — les gens s'y aident, se passent les informations."
+    ]
+  },
+  {
+    "id": "mairie-guichet",
+    "label": "Mairie — service état civil",
+    "type": "urbain-institution",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "bâtiment à façade officielle — drapeau tricolore",
+      "accueil qui oriente vers les différents services",
+      "salle des mariages visible depuis le couloir — bois et velours",
+      "guichets d'état civil — naissances, mariages, décès",
+      "affichage des heures d'ouverture réduites",
+      "photos des élus sur le mur — souvent démodées",
+      "registres et formulaires sous le comptoir"
+    ],
+    "bruits": [
+      "tampon de l'agent — son sec et régulier",
+      "voix basse des guichets — intimité administrative",
+      "sonnerie d'entrée si gardien",
+      "chaise qui racle sur le parquet de la salle de mariage"
+    ],
+    "odeurs": [
+      "encre et papier officiel",
+      "fleurs si mariage récent dans la salle",
+      "bâtiment public — mélange neutre de nettoyage et d'occupation"
+    ],
+    "textures": [
+      "papier épais des actes officiels",
+      "tampon humide sur l'acte",
+      "bois du comptoir — lisse et froid"
+    ],
+    "emotionsTypiques": [
+      "officialisation d'un état — quelque chose devient réel par le papier",
+      "rapport ambigu à l'institution — elle formalise et donc valide",
+      "attente parfois longue pour des actes courts"
+    ],
+    "usagesNarratifs": [
+      "naissance, mariage ou décès déclaré — acte narratif officiel",
+      "découverte d'une information dans un acte d'état civil",
+      "reconnaissance ou non-reconnaissance — l'état civil valide ou nie",
+      "mariage ou PACS qui dit l'état d'une relation"
+    ],
+    "tensionsTypiques": [
+      "acte perdu ou non retrouvé dans les registres",
+      "refus d'un document pour vice de forme",
+      "déclaration de décès — moment émotionnel dans un cadre froid"
+    ],
+    "variantesPerception": [
+      {"profil": "Agent d'état civil", "description": "Il a fait des centaines de déclarations de naissance et de décès. Il sait faire la part entre l'acte administratif et l'état émotionnel de la personne en face."},
+      {"profil": "Parent qui déclare une naissance", "description": "Il est épuisé, heureux et intimidé. L'acte officialise quelque chose qui était déjà réel. Le tampon change quelque chose malgré tout."},
+      {"profil": "Conjoint qui déclare un décès", "description": "Il est là parce qu'il le faut. Les formulaires sont précis et indifférents. L'agent est professionnel et discret. Il repart avec un papier."}
+    ],
+    "notesEditoriales": [
+      "L'état civil transforme les moments de vie les plus intenses en documents — cette tension entre l'émotionnel et l'administratif est narrativement puissante.",
+      "La salle des mariages de mairie est un espace de solennité républicaine — simple et sobre, elle dit quelque chose sur l'institution."
+    ]
+  },
+  {
+    "id": "bureau-de-poste",
+    "label": "Bureau de poste",
+    "type": "urbain-institution",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "file d'attente avec barrière serpentine — longue à certaines heures",
+      "guichets numérotés — certains fermés en permanence",
+      "présentoirs de produits financiers et de carterie",
+      "écran de numérotation électronique",
+      "boîte aux lettres jaune dans l'entrée",
+      "postier qui accepte les colis — il juge leur forme avec suspicion",
+      "formulaires de recommandé empilés sur le comptoir"
+    ],
+    "bruits": [
+      "numéro annoncé électroniquement — son de bip distinct",
+      "file qui avance — pas réguliers sur le lino",
+      "caisse enregistreuse et tickets d'affranchissement",
+      "colis qu'on pose sur la balance — choc sourd"
+    ],
+    "odeurs": [
+      "papier et colle — enveloppes et formulaires",
+      "lino et désinfectant institutionnel",
+      "imprimante — encre légèrement chaude"
+    ],
+    "textures": [
+      "colis refusé pour mauvaise forme — carton repoussé",
+      "stylo à la chaîne sur le comptoir",
+      "ticket à tirer — fin et imprimé en petits caractères"
+    ],
+    "emotionsTypiques": [
+      "irritation de l'attente pour un service en déclin",
+      "frustration du colis refusé pour une raison opaque",
+      "nostalgie pour ceux qui connaissaient la Poste autrement"
+    ],
+    "usagesNarratifs": [
+      "envoi d'un objet ou d'une lettre décisive",
+      "réception d'un recommandé — ce que ça annonce",
+      "colis qui révèle quelque chose à la douane ou au bureau",
+      "espace de portrait social — qui envoie encore des lettres"
+    ],
+    "tensionsTypiques": [
+      "lettre recommandée dont on refuse d'accuser réception",
+      "colis perdu ou abîmé",
+      "fermeture du bureau local — perte d'un service de proximité"
+    ],
+    "variantesPerception": [
+      {"profil": "Personne âgée qui gère ses affaires bancaires à la Poste", "description": "Pour elle, la Poste est encore la banque du peuple. Elle vient pour son livret. Elle connaît les guichetiers."},
+      {"profil": "Entrepreneur qui expédie ses commandes", "description": "Il vient plusieurs fois par semaine. Il connaît les tarifs, les formats admis, les heures sans queue. La Poste est une contrainte logistique."},
+      {"profil": "Personne qui reçoit une convocation recommandée", "description": "Il signe sans savoir ce qu'il signe. L'enveloppe officielle dit quelque chose de sérieux. Il l'ouvre dehors."}
+    ],
+    "notesEditoriales": [
+      "La Poste est une institution en mutation visible — sa transformation progressive depuis vingt ans est lisible dans chaque bureau.",
+      "La lettre recommandée est un objet narratif fort — elle officialise, elle avertit, elle impose une réponse."
+    ]
+  },
+  {
+    "id": "ecole-primaire-recre",
+    "label": "Cour d'école primaire",
+    "type": "urbain-institution",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "asphalte grise délimitée par des murs et des grilles",
+      "marquages au sol — terrain de foot, marelle",
+      "préau couvert dans un coin — réfuge par temps de pluie",
+      "maîtresse de surveillance dans un angle",
+      "groupes spontanément formés selon l'amitié ou le rang social",
+      "banc contre le mur — pour les solitaires ou les exclus",
+      "robinet d'eau froide sur la façade — assoiffés en file"
+    ],
+    "bruits": [
+      "sonnerie — début et fin de récré",
+      "cris et rires — bruit collectif dense",
+      "dispute qui éclate — brève et brutale",
+      "silence relatif des enfants absorbés dans un jeu"
+    ],
+    "odeurs": [
+      "bitume chaud en été",
+      "goûter — chips, gâteaux sortis des cartables",
+      "parfum de la maîtresse si elle approche"
+    ],
+    "textures": [
+      "asphalte rugueux sous les genoux si chute",
+      "grille froide si on la touche en hiver",
+      "goûter partagé — les mains de tout le monde"
+    ],
+    "emotionsTypiques": [
+      "hiérarchies sociales visibles et implacables",
+      "plaisir de la liberté relative de la récré",
+      "anxiété de ne pas savoir avec qui se mettre"
+    ],
+    "usagesNarratifs": [
+      "scène d'enfance révélatrice d'un caractère ou d'un trauma",
+      "exclusion sociale — le banc contre le mur",
+      "amitié ou relation de pouvoir qui se forge dans la cour",
+      "souvenir de cour d'école comme repère narratif"
+    ],
+    "tensionsTypiques": [
+      "harcèlement — les dynamiques de groupe à cet âge",
+      "dispute qui dégénère avant l'intervention de l'adulte",
+      "enfant seul que personne ne vient chercher"
+    ],
+    "variantesPerception": [
+      {"profil": "Enfant populaire", "description": "La cour est son territoire. Il choisit les jeux, les équipes. La récré est trop courte. Il n'a pas froid."},
+      {"profil": "Enfant solitaire ou marginalisé", "description": "Le mur du fond est à lui. Il regarde les jeux sans y participer. La récré dure trop longtemps."},
+      {"profil": "Adulte qui se souvient", "description": "La cour qu'il revoit est plus petite que dans son souvenir. Les enfants d'aujourd'hui jouent aux mêmes jeux. Rien et tout a changé."}
+    ],
+    "notesEditoriales": [
+      "La cour de récré est un espace de sociologie pure — les hiérarchies sociales adultes s'y préfigurent avec une clarté brutale.",
+      "L'enfant seul sur son banc est l'une des images les plus douloureuses de l'enfance — à ne pas utiliser sans nuance."
+    ]
+  },
+  {
+    "id": "lycee-couloir",
+    "label": "Couloir de lycée entre deux cours",
+    "type": "urbain-institution",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "flux de deux cents élèves en cinq minutes",
+      "casiers métalliques en rangée — certains graffités",
+      "groupes d'amis qui s'arrêtent et bloquent le passage",
+      "affichage de la vie lycéenne — spectacles, syndicats, APE",
+      "professeur qui traverse vite, cartable sous le bras",
+      "couloir de passage obligatoire — tout le monde y passe",
+      "sonnerie qui annonce la fin du mouvement"
+    ],
+    "bruits": [
+      "sonnerie — déclencheur et délimiteur du temps lycéen",
+      "casiers qui claquent — bruit métallique répété",
+      "conversations simultanées — brouhaha dense",
+      "chaussures sur le carrelage — bruit collectif de flux"
+    ],
+    "odeurs": [
+      "parfum et déodorant adolescent — mélange intense",
+      "sandwich du repas sorti du sac trop tôt",
+      "désinfectant du sol nettoyé tôt le matin"
+    ],
+    "textures": [
+      "épaule d'un autre élève qui bouscule sans regarder",
+      "casier froid et dur",
+      "manuel épais dans le cartable"
+    ],
+    "emotionsTypiques": [
+      "hiérarchies sociales plus subtiles que la cour primaire mais aussi présentes",
+      "liberté relative des cinq minutes entre les cours",
+      "tension d'un examen qui vient ou soulagement d'un cours terminé"
+    ],
+    "usagesNarratifs": [
+      "rencontre ou évitement entre personnages",
+      "rumeur qui se propage dans le flux du couloir",
+      "scène d'humiliation ou de solidarité publique",
+      "début ou fin d'une relation — le couloir comme espace social fondateur"
+    ],
+    "tensionsTypiques": [
+      "confrontation entre élèves visible à tous",
+      "élève qui reçoit une information dans le couloir — changement soudain",
+      "professeur qui intercepte une conversation"
+    ],
+    "variantesPerception": [
+      {"profil": "Élève intégré et à l'aise", "description": "Il navigue dans le flux sans y penser. Il salue, il plaisante, il change de direction. Le couloir est son réseau social naturel."},
+      {"profil": "Élève qui se sent hors-jeu", "description": "Le flux le bouscule. Les groupes forment des îlots qu'il contourne. Il arrive à son casier, l'ouvre, et n'a pas d'excuse de rester là longtemps."},
+      {"profil": "Surveillant ou CPE", "description": "Il voit tout ce qui ne va pas — les absents, les agités, les comploteurs dans l'angle. Il gère en passant, sans s'arrêter si possible."}
+    ],
+    "notesEditoriales": [
+      "Le couloir de lycée est un espace de sociabilité intense qui n'appartient à personne — ni les élèves ni les profs n'y ont leur place assignée.",
+      "Cinq minutes entre deux cours, c'est court et long à la fois selon qu'on attend quelqu'un ou qu'on veut que ça se termine."
+    ]
+  },
+  {
+    "id": "universite-amphi",
+    "label": "Amphithéâtre universitaire",
+    "type": "urbain-institution",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "gradins en courbes descendant vers l'estrade",
+      "tableau ou écran de projection en bas",
+      "microphone et pupitre pour le professeur",
+      "étudiants occupant les rangs du haut — les premiers arrivés au fond",
+      "rangées de tablettes rabattables sur les sièges",
+      "lumière fluorescente uniforme — pas de fenêtre souvent",
+      "portes du fond qui s'ouvrent pendant le cours"
+    ],
+    "bruits": [
+      "voix amplifiée du professeur — micro ou acoustique naturelle",
+      "clavier d'ordinateur — bruit de fond permanent",
+      "entrées et sorties pendant le cours — portes mal huilées",
+      "téléphone qui sonne malgré les consignes"
+    ],
+    "odeurs": [
+      "craie si tableau noir encore utilisé",
+      "plastique des sièges chauffé par les corps",
+      "café de la thermos de l'étudiant du rang d'à côté"
+    ],
+    "textures": [
+      "siège qui grince si on bouge",
+      "tablette qui déplie mal — le stylo roule",
+      "froid de l'amphi en début de cours — chauffage insuffisant"
+    ],
+    "emotionsTypiques": [
+      "anonymat dans la masse — personne ne vous voit vraiment",
+      "difficulté à rester concentré dans un grand espace",
+      "sentiment de distance avec le savoir dispensé"
+    ],
+    "usagesNarratifs": [
+      "cours magistral comme monologue ou révélation",
+      "rencontre dans l'amphi — voisin de rang",
+      "sortie discrète ou remarquée selon l'emplacement",
+      "question qui change tout le cours d'un enseignement"
+    ],
+    "tensionsTypiques": [
+      "interro surprise annoncée en début de cours",
+      "confrontation publique entre étudiant et professeur",
+      "amphi plein pour un examen — pression collective"
+    ],
+    "variantesPerception": [
+      {"profil": "Étudiant motivé au premier rang", "description": "Il entend bien, voit le tableau, pose des questions. L'amphi est un espace de travail. Il est arrivé cinq minutes avant."},
+      {"profil": "Étudiant au fond qui décroche", "description": "Il est trop loin pour voir. Il est sur son téléphone depuis vingt minutes. Il reviendra pour les partiels et prendra des notes auprès d'un autre."},
+      {"profil": "Professeur qui finit un cours devant trois cents personnes", "description": "Il voit des visages mais pas des individus au-delà des cinq premières rangées. Il sait quand l'attention baisse — au son des claviers qui s'intensifient."}
+    ],
+    "notesEditoriales": [
+      "L'amphithéâtre est conçu pour l'attention collective mais produit souvent l'anonymat et la distraction. Cette tension architecturale est narrative.",
+      "Le professeur dans un grand amphi parle à un groupe qu'il ne peut pas vraiment voir — une situation de communication très particulière."
+    ]
+  }
+]

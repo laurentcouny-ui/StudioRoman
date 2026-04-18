@@ -1,0 +1,475 @@
+[
+  {
+    "id": "colere",
+    "label": "Colère",
+    "alias": ["colère", "colère vive", "emportement", "accès de colère", "bouffée de rage", "fureur contenue", "colère explosive", "colère juste", "colère sourde", "montée de colère"],
+    "famille": "colere-frustration",
+    "definitionCourte": "État de tension hostile qui naît d'une frustration, d'une injustice perçue, d'une humiliation ou d'une opposition brutale. La colère est une émotion de protection — elle signale une limite franchie.",
+    "signesPhysiques": [
+      "mâchoire verrouillée, muscles temporaux visibles",
+      "poings serrés jusqu'au blanchiment des jointures",
+      "narines qui se dilatent à chaque souffle",
+      "regard fixe et dur, pupilles resserrées",
+      "nuque et épaules raides, corps projeté légèrement vers l'avant",
+      "respiration plus forte, plus courte, parfois sonore",
+      "lèvres pincées ou retroussées en une ligne mince",
+      "veine apparente au cou ou à la tempe",
+      "gestes secs, brusques, coupés net",
+      "immobilité tendue juste avant l'explosion — ou explosion soudaine"
+    ],
+    "sensationsInternes": [
+      "chaleur qui monte brutalement au visage et dans la nuque",
+      "pression compacte dans la poitrine, comme quelque chose qui cherche à sortir",
+      "bouillonnement intérieur difficile à contenir",
+      "tension jusque dans les avant-bras et les mains",
+      "picotement nerveux dans les paumes",
+      "battements cardiaques plus sourds et plus martelés",
+      "impression d'être poussé contre une limite invisible",
+      "envie physique de casser, jeter ou frapper quelque chose"
+    ],
+    "pensees": [
+      "Ce n'est pas acceptable.",
+      "On me pousse trop loin.",
+      "Il dépasse les bornes.",
+      "Je ne vais pas laisser passer ça.",
+      "On me manque de respect.",
+      "Il faut que ça cesse maintenant.",
+      "Je vais finir par exploser.",
+      "Je refuse de plier là-dessus."
+    ],
+    "effetsVoixLangage": [
+      "ton sec, tranchant, comme coupé à la hache",
+      "phrases plus courtes — chaque mot pèse",
+      "débit qui accélère par saccades",
+      "volume qui monte sans décision consciente",
+      "articulation appuyée, presque martelée",
+      "ironie mordante qui remplace les injures",
+      "coupures brutales dans la phrase de l'autre",
+      "silences lourds chargés de ce qui n'est pas dit"
+    ],
+    "comportements": [
+      "coupe la parole sans s'en rendre compte",
+      "fait les cent pas ou bouge de manière brusque",
+      "fixe intensément son interlocuteur sans ciller",
+      "referme une porte, pose un objet trop fort",
+      "répond immédiatement sans filtrer",
+      "se rapproche physiquement pour occuper l'espace",
+      "revient sur un détail précis au lieu de lâcher",
+      "cherche un responsable nommable à qui adresser la colère"
+    ],
+    "masquesPossibles": [
+      "calme glacial — la colère est là mais parfaitement verrouillée",
+      "politesse rigide et exagérée comme armure",
+      "ironie sèche qui ne trompe personne",
+      "silence fermé et chargé",
+      "professionnalisme froid dans un contexte formel"
+    ],
+    "evolutionsPossibles": [
+      "rage si la tension n'est pas relâchée",
+      "conflit frontal si l'autre ne cède pas",
+      "ressentiment durable si la colère ne peut pas s'exprimer",
+      "épuisement après l'explosion",
+      "culpabilité si la colère a blessé quelqu'un qu'on aime"
+    ],
+    "contextesAggravants": [
+      "impossibilité de répondre — hiérarchie, contexte formel, présence d'un public",
+      "injustice répétée qui réactive les précédentes",
+      "sentiment d'être incompris ou minimisé dans sa colère",
+      "fatigue ou manque de sommeil qui abaisse le seuil",
+      "colère d'une figure d'autorité qui libère la sienne en miroir"
+    ],
+    "contextesAttenuants": [
+      "espace pour se défouler physiquement sans témoin",
+      "interlocuteur qui valide la colère sans l'amplifier",
+      "résolution concrète de ce qui l'a déclenchée",
+      "humour partagé qui désamorce la tension"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Irritation", "description": "Agacement diffus. Le personnage est moins patient, plus sec. Il ne s'emporte pas." },
+      { "niveau": 2, "label": "Contrariété visible", "description": "La tension est perceptible. Ton court, gestes un peu brusques. Il se contrôle encore." },
+      { "niveau": 3, "label": "Colère déclarée", "description": "La limite est franchie. Le personnage le dit, ou son corps le dit pour lui. L'ambiance change." },
+      { "niveau": 4, "label": "Emportement", "description": "Le filtre saute. Les mots dépassent la pensée. La relation est secouée." },
+      { "niveau": 5, "label": "Rage incontrôlée", "description": "Plus rien ne filtre. La colère prend le dessus sur tout le reste. Des dégâts sont possibles." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage habitué à contenir",
+        "description": "Sa colère est froide et précise. Il ne crie pas — il dit des choses tranchantes avec un calme inquiétant. La tension est plus palpable que si il explosait. L'entourage préfère souvent quand il élève la voix."
+      },
+      {
+        "profil": "Personnage impulsif",
+        "description": "Pas de filtre, pas de délai. La colère sort brute, immédiate, puis se résorbe aussi vite qu'elle est venue. Il s'en veut parfois après, parfois pas du tout. Les autres ne savent jamais à quoi s'attendre."
+      },
+      {
+        "profil": "Personnage avec blessure d'injustice ancienne",
+        "description": "Sa colère est disproportionnée au déclencheur actuel — elle porte toutes les injustices antérieures. Ce n'est pas la petite chose qui vient de se passer qui l'enrage, c'est la accumulation."
+      }
+    ],
+    "notesEditoriales": [
+      "La colère gagne en force quand elle part d'un déclencheur net et spécifique dans la scène.",
+      "Éviter de la réduire au cri — une colère contenue ou froide peut être plus impressionnante narrativement.",
+      "La colère devient crédible quand elle modifie les choix immédiats du personnage, pas seulement son ton.",
+      "Différencier : colère (réaction à une limite franchie) / rage (saturation totale) / frustration (désir bloqué)."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "rage" },
+      { "type": "peut_masquer", "cible": "peur" },
+      { "type": "peut_masquer", "cible": "tristesse" },
+      { "type": "souvent_declenchee_par", "cible": "humiliation" },
+      { "type": "peut_se_transformer_en", "cible": "ressentiment" },
+      { "type": "s_apaise_en", "cible": "soulagement" }
+    ]
+  },
+  {
+    "id": "rage",
+    "label": "Rage",
+    "alias": ["rage", "fureur", "furie", "rage aveugle", "rage incontrôlée", "colère noire", "accès de furie", "rage froide", "débordement de rage", "tempête intérieure"],
+    "famille": "colere-frustration",
+    "definitionCourte": "État de colère portée à son maximum d'intensité — la rage déborde, envahit tout, court-circuite le jugement. Elle peut être explosive ou glaciale, mais elle est totale.",
+    "signesPhysiques": [
+      "visage rouge sombre ou au contraire blême — les deux sont possibles",
+      "muscles du cou et des tempes en saillie",
+      "tremblements dans les mains ou dans tout le corps",
+      "respiration qui devient haletante ou au contraire bloquée",
+      "regard qui ne fixe plus rien — ou qui fixe tout",
+      "gestes larges, incontrôlés, qui renversent ou frappent",
+      "dents serrées jusqu'à la douleur",
+      "posture qui envahit l'espace — debout, bras écartés, corps tendu",
+      "larmes involontaires de colère — pas de tristesse",
+      "voix qui casse ou qui monte en fréquence"
+    ],
+    "sensationsInternes": [
+      "chaleur aveuglante qui monte en quelques secondes",
+      "sensation que la tête va exploser, pression dans les tempes",
+      "corps entier parcouru de tension — chaque muscle contracté",
+      "disparition momentanée de la peur, de la prudence, du calcul",
+      "tunnel visuel — tout sauf l'objet de la rage disparaît",
+      "envie irrépressible de détruire quelque chose",
+      "impression d'être habité par quelque chose de plus grand que soi",
+      "adrénaline si forte qu'elle donne une sensation de toute-puissance"
+    ],
+    "pensees": [
+      "Je ne supporte plus.",
+      "C'est la dernière fois.",
+      "Je vais tout faire éclater.",
+      "Plus rien ne m'arrête.",
+      "Il va regretter.",
+      "Je m'en fiche des conséquences.",
+      "Tout le monde peut aller se faire foutre.",
+      "Je ne suis plus responsable de ce qui va se passer."
+    ],
+    "effetsVoixLangage": [
+      "voix qui monte hors de contrôle — cris, vociférations",
+      "ou au contraire voix très basse et très lente — danger plus immédiat",
+      "insultes ou mots inattendus qui échappent",
+      "phrases inachevées — la rage dépasse le langage",
+      "répétition compulsive d'une même phrase ou d'un même mot",
+      "débit chaotique — les mots se télescopent",
+      "silence total soudain après l'explosion — le vide après la tempête"
+    ],
+    "comportements": [
+      "frappe un objet — table, mur, porte",
+      "jette ou casse quelque chose",
+      "sort en claquant la porte",
+      "avance vers l'autre de manière menaçante",
+      "tourne en rond sans pouvoir s'arrêter",
+      "dit des choses impossibles à reprendre",
+      "rompt physiquement avec la situation — fuit, part en courant",
+      "dans les cas extrêmes, perd totalement le contrôle de ses actes"
+    ],
+    "masquesPossibles": [
+      "calme absolu — la rage est totalement verrouillée, ce qui est plus effrayant",
+      "humour noir qui dissimule ce qui bout vraiment",
+      "hyper-contrôle soudain qui fige tout le corps",
+      "redirection vers une tâche physique intense — sport, nettoyage frénétique"
+    ],
+    "evolutionsPossibles": [
+      "épuisement total après l'explosion",
+      "honte ou culpabilité si la rage a blessé",
+      "résolution si la cause est supprimée",
+      "violence si aucun frein ne tient",
+      "larmes libératrices quand la tension se relâche"
+    ],
+    "contextesAggravants": [
+      "accumulation de colères non exprimées qui atteignent le point de rupture",
+      "sentiment d'être acculé, sans issue",
+      "trahison par quelqu'un de proche — la rage est amplifiée par la déception",
+      "épuisement physique ou manque de sommeil sévère",
+      "alcool ou substance qui abaisse tous les freins"
+    ],
+    "contextesAttenuants": [
+      "espace physique pour se défouler seul — courir, frapper un punching-ball",
+      "présence d'une personne de confiance qui n'aggrave pas",
+      "cause de la rage résolue soudainement",
+      "larmes — la rage se noie souvent dans les pleurs"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Colère vive", "description": "Le seuil de la rage est approché. Le personnage sent qu'il est sur le bord." },
+      { "niveau": 2, "label": "Rage contenue", "description": "La rage est là, totale, mais encore retenue. Quelque chose tient — à peine." },
+      { "niveau": 3, "label": "Explosion", "description": "La retenue cède. La rage sort — mots, gestes, cris. Dégâts relationnels probables." },
+      { "niveau": 4, "label": "Furie", "description": "La rage prend entièrement le dessus. Le personnage n'est plus lui-même. Dégâts réels." },
+      { "niveau": 5, "label": "Transe de rage", "description": "État limite. Le personnage n'a plus conscience de ce qu'il fait. Danger." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage au sang-froid habituel",
+        "description": "Sa rage est glaciale et d'autant plus terrifiante. Il ne crie pas. Il dit des choses définitives avec un calme absolu. Ceux qui le connaissent savent que ce silence-là est le plus dangereux."
+      },
+      {
+        "profil": "Personnage passionné et impulsif",
+        "description": "La rage est bruyante, immédiate, et se dépense vite. Il peut pleurer, frapper un mur, puis s'effondrer. Les dégâts sont visibles mais la récupération est souvent plus rapide que chez d'autres."
+      },
+      {
+        "profil": "Personnage avec honte profonde",
+        "description": "Sa rage est dirigée vers lui-même autant que vers l'autre. La furie peut basculer en autodestruction. L'explosion extérieure s'accompagne d'une destruction intérieure."
+      }
+    ],
+    "notesEditoriales": [
+      "La rage froide est souvent plus dramatiquement efficace que la rage explosive — elle inquiète davantage.",
+      "Après la rage, montrer le vide — épuisement, honte, silence. Le retour au calme est aussi narratif que l'explosion.",
+      "La rage totale court-circuite le jugement — les personnages font et disent des choses irréversibles. C'est son pouvoir narratif.",
+      "Différencier : rage (saturation totale) / colère (réaction à une limite) / frustration (désir bloqué répété)."
+    ],
+    "relationsNarratives": [
+      { "type": "evolution_de", "cible": "colere" },
+      { "type": "peut_mener_a", "cible": "violence" },
+      { "type": "peut_se_transformer_en", "cible": "effondrement" },
+      { "type": "souvent_suivie_de", "cible": "honte" },
+      { "type": "peut_masquer", "cible": "desespoir" },
+      { "type": "s_apaise_en", "cible": "epuisement" }
+    ]
+  },
+  {
+    "id": "frustration",
+    "label": "Frustration",
+    "alias": ["frustration", "sentiment d'impuissance", "désir bloqué", "agacement chronique", "blocage intérieur", "attente déçue", "exaspération sourde", "insatisfaction persistante", "tension non résolue", "sentiment d'être entravé"],
+    "famille": "colere-frustration",
+    "definitionCourte": "Tension née d'un désir, d'un besoin ou d'un objectif bloqué de manière répétée ou durable. La frustration n'explose pas forcément — elle s'accumule, ronge, et finit par colorer tout le rapport au monde.",
+    "signesPhysiques": [
+      "soupirs fréquents et involontaires",
+      "mâchoire qui se serre par intermittence",
+      "tapotement des doigts sur une surface",
+      "regard qui dévie souvent vers un autre point",
+      "mouvements d'impatience — pieds, genoux, stylo entre les doigts",
+      "tension dans les épaules sans raison apparente",
+      "lèvres qui se pressent brièvement",
+      "gestes interrompus — commence quelque chose, s'arrête",
+      "froncement de sourcils qui revient sans qu'on l'ait décidé"
+    ],
+    "sensationsInternes": [
+      "pression sourde dans la poitrine qui ne se relâche pas",
+      "énergie qui n'a nulle part où aller",
+      "impression d'être coincé dans un espace trop petit",
+      "tension musculaire diffuse, particulièrement dans le dos et les épaules",
+      "irritabilité de fond qui colore chaque interaction",
+      "fatigue particulière — pas de sommeil, mais d'effort inutile",
+      "sentiment de tourner en rond"
+    ],
+    "pensees": [
+      "Pourquoi ça ne marche jamais comme ça devrait ?",
+      "J'en ai assez de me battre pour rien.",
+      "À quoi ça sert si tout est bloqué de toute façon ?",
+      "Je fais ma part — les autres non.",
+      "Si seulement les choses pouvaient avancer.",
+      "C'est toujours la même chose.",
+      "Je n'arrive pas à avancer.",
+      "Est-ce que mes efforts servent à quelque chose ?"
+    ],
+    "effetsVoixLangage": [
+      "ton légèrement plus dur que la normale",
+      "réponses plus courtes, moins généreuses",
+      "tendance à couper court aux explications des autres",
+      "ironie qui affleure sans vraiment vouloir blesser",
+      "soupir audible avant de répondre",
+      "phrases qui se terminent en queue de poisson",
+      "débit plus rapide, moins de patience pour les détours"
+    ],
+    "comportements": [
+      "relance plusieurs fois la même tentative sans changer d'approche",
+      "s'emporte sur un détail mineur qui concentre toute la tension",
+      "se plaint latéralement — à quelqu'un qui n'est pas en cause",
+      "procrastine sur ce qui bloque pour éviter l'échec",
+      "s'occupe frénétiquement d'autre chose pour ne pas penser à ce qui est bloqué",
+      "cherche un bouc émissaire pour externaliser la tension",
+      "doute de ses propres capacités face aux blocages répétés",
+      "finit par lâcher — par épuisement, pas par choix"
+    ],
+    "masquesPossibles": [
+      "bonne humeur forcée pour ne pas paraître négatif",
+      "humour autodépréciatif sur ses propres échecs",
+      "hyperactivité qui masque l'impuissance",
+      "résignation de façade — 'ça ne m'affecte plus'",
+      "focalisation sur des petites victoires pour ne pas voir le blocage global"
+    ],
+    "evolutionsPossibles": [
+      "résignation si les blocages durent trop longtemps",
+      "explosion de colère sur un déclencheur mineur",
+      "dépression si la frustration devient sentiment d'impuissance totale",
+      "créativité si la frustration pousse à trouver d'autres voies",
+      "action décisive quand la frustration atteint un point de bascule"
+    ],
+    "contextesAggravants": [
+      "situation où le personnage ne contrôle rien",
+      "efforts visibles qui restent sans résultat",
+      "injustice perçue — d'autres avancent sans se battre",
+      "attente prolongée sans information ni résolution",
+      "frustration minimisée par l'entourage — 'c'est pas si grave'"
+    ],
+    "contextesAttenuants": [
+      "progrès même minime dans ce qui était bloqué",
+      "validation par quelqu'un de proche que la situation est vraiment difficile",
+      "défoulement physique — sport, marche rapide",
+      "changement de perspective — recadrage de ce qui compte vraiment"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère contrariété", "description": "Quelque chose ne va pas comme prévu. Le personnage hausse les épaules et tente autre chose." },
+      { "niveau": 2, "label": "Frustration active", "description": "Le blocage dure. La tension monte. Les interactions commencent à en porter la marque." },
+      { "niveau": 3, "label": "Frustration chronique", "description": "L'état dure. Le personnage est moins disponible, moins généreux, plus sec." },
+      { "niveau": 4, "label": "Saturation", "description": "Le personnage est à bout. Le moindre déclencheur supplémentaire peut tout faire exploser." },
+      { "niveau": 5, "label": "Effondrement ou explosion", "description": "La frustration déborde — en rage, en larmes, en résignation totale." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage orienté action",
+        "description": "La frustration est physiquement insupportable — elle exige de faire quelque chose, n'importe quoi. Il s'agite, multiplie les tentatives, parfois sans cohérence. L'inaction le rend fou."
+      },
+      {
+        "profil": "Personnage introverti ou analytique",
+        "description": "Intériorise la frustration plutôt que de l'exprimer. Elle se traduit par un retrait, un silence plus long que d'habitude, une froideur imperceptible. Il pense et repense à ce qui bloque."
+      },
+      {
+        "profil": "Personnage avec fort besoin de contrôle",
+        "description": "La frustration vient particulièrement des situations où il ne maîtrise pas. Elle peut rapidement se transformer en obsession de récupérer la maîtrise — parfois de manière contre-productive."
+      }
+    ],
+    "notesEditoriales": [
+      "La frustration est souvent plus difficile à écrire que la colère car elle est souterraine et diffuse.",
+      "Elle se révèle souvent dans les petites choses — une réponse trop sèche, un soupir de trop.",
+      "Différencier : frustration (désir bloqué) / colère (limite franchie) / ressentiment (blessure non digérée).",
+      "La frustration chronique peut transformer un personnage sympathique en personnage difficile — sans qu'il s'en rende compte."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "colere" },
+      { "type": "peut_evoluer_en", "cible": "resignation" },
+      { "type": "peut_masquer", "cible": "tristesse" },
+      { "type": "souvent_associee_a", "cible": "sentiment-d-injustice" },
+      { "type": "peut_mener_a", "cible": "creativite" },
+      { "type": "s_oppose_a", "cible": "satisfaction" }
+    ]
+  },
+  {
+    "id": "irritation",
+    "label": "Irritation",
+    "alias": ["irritation", "agacement", "énervement", "impatience", "humeur irritable", "crispation", "susceptibilité", "agacement de fond", "mauvaise humeur", "nerfs à vif"],
+    "famille": "colere-frustration",
+    "definitionCourte": "Tension légère et diffuse causée par des stimuli répétés ou des petits accrocs dans l'environnement. L'irritation n'est pas une grande émotion — elle s'accumule dans les détails du quotidien.",
+    "signesPhysiques": [
+      "sourcils légèrement froncés de manière continue",
+      "mâchoire un peu serrée, lèvres pincées",
+      "gestes légèrement plus brusques que d'habitude",
+      "clignements d'yeux plus fréquents sous l'agacement",
+      "posture plus rigide, moins détendue",
+      "tapotement de doigts ou de pieds",
+      "micro-mouvements d'impatience — regarde ailleurs, tourne la tête",
+      "souffle court, plus superficiel"
+    ],
+    "sensationsInternes": [
+      "picotement sous la peau, comme une démangeaison intérieure",
+      "légère chaleur dans le visage ou le cou",
+      "tension diffuse dans les épaules",
+      "sentiment que tout est légèrement de travers",
+      "manque de patience que le personnage perçoit lui-même",
+      "sensibilité aux bruits, aux mouvements, aux interruptions",
+      "impression d'être à fleur de peau"
+    ],
+    "pensees": [
+      "Encore.",
+      "C'est franchement agaçant.",
+      "Est-ce que c'est possible d'être aussi…",
+      "Je n'ai vraiment pas envie de gérer ça maintenant.",
+      "Pourquoi est-ce que les gens ne peuvent pas juste…",
+      "Je dois me calmer. Ce n'est pas si grave.",
+      "Laisse-moi tranquille.",
+      "Non."
+    ],
+    "effetsVoixLangage": [
+      "ton légèrement plus sec sans raison apparente",
+      "réponses plus courtes, moins développées",
+      "soupirs audibles entre deux phrases",
+      "questions rhétoriques qui échappent",
+      "formulations moins diplomates que d'habitude",
+      "interruptions légères",
+      "silence bref avant de répondre pour se retenir"
+    ],
+    "comportements": [
+      "répond laconiquement là où il développerait d'habitude",
+      "évite le contact visuel prolongé",
+      "s'éloigne légèrement de la source d'irritation",
+      "cherche à clore les interactions plus vite que d'habitude",
+      "s'occupe les mains — range, réorganise, tripote quelque chose",
+      "réagit de manière légèrement disproportionnée à un détail mineur",
+      "cherche de la solitude ou du silence pour se recalibrer",
+      "se retient de faire une remarque — mais à peine"
+    ],
+    "masquesPossibles": [
+      "sourire de façade trop lisse qui ne trompe pas longtemps",
+      "fausse cordialité — très poli mais froid",
+      "redoublement de concentration sur une tâche pour s'évader mentalement",
+      "humour léger pour dédramatiser ce qui agace"
+    ],
+    "evolutionsPossibles": [
+      "disparition si la cause s'arrête",
+      "accumulation qui aboutit à la frustration ou la colère",
+      "mauvaise humeur durable qui colore toute la journée",
+      "explosion disproportionnée sur un détail anodin",
+      "résignation calme si le contexte ne peut pas changer"
+    ],
+    "contextesAggravants": [
+      "privation de sommeil ou de nourriture qui abaisse le seuil",
+      "accumulation de petites contrariétés dans un court laps de temps",
+      "bruit ou environnement sensoriel chargé",
+      "sentiment que les besoins du personnage ne sont pas considérés",
+      "obligation de rester poli dans un contexte social contraignant"
+    ],
+    "contextesAttenuants": [
+      "quelques minutes de solitude",
+      "activité sensorielle agréable — café chaud, musique, air frais",
+      "humour ou légèreté de l'entourage qui désamorce",
+      "disparition de la source d'irritation"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère crispation", "description": "À peine perceptible. Un détail qui agace, vite oublié." },
+      { "niveau": 2, "label": "Agacement réel", "description": "Perceptible dans le ton et les gestes. Le personnage lutte pour ne pas le montrer." },
+      { "niveau": 3, "label": "Nerfs à vif", "description": "Tout irrite. La patience est épuisée. Chaque interaction est un effort." },
+      { "niveau": 4, "label": "Irritabilité chronique", "description": "Le personnage est difficile à côtoyer. Les proches marchent sur des œufs." },
+      { "niveau": 5, "label": "Bascule vers la colère", "description": "Un détail de trop. L'irritation déborde soudainement en quelque chose de plus grand." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui se contrôle bien en société",
+        "description": "L'irritation n'est visible que pour les proches — dans la maison, après la réunion. En public, il sourit. En privé, il est à bout. Le décalage est épuisant à long terme."
+      },
+      {
+        "profil": "Personnage peu patient par nature",
+        "description": "L'irritation est quasi-permanente et peu masquée. Les gens l'ont appris et ne le prennent pas personnellement. Mais certains jours, la limite est franchie plus vite que prévu."
+      },
+      {
+        "profil": "Personnage en surcharge",
+        "description": "L'irritation est le symptôme visible d'une surcharge invisible. Ce n'est pas les autres qui sont agaçants — c'est lui qui n'a plus de marge. Le problème n'est pas là où ça se manifeste."
+      }
+    ],
+    "notesEditoriales": [
+      "L'irritation est efficace pour signaler que quelque chose ne va pas sans l'expliquer — le lecteur comprend avant le personnage.",
+      "Les signes sont souvent plus petits que pour la colère — c'est dans les détails micro-comportementaux que ça se joue.",
+      "Différencier : irritation (surface, diffuse) / frustration (désir bloqué) / colère (limite franchie).",
+      "L'irritation d'un personnage vers quelqu'un qu'il aime peut être le premier signe d'un problème plus profond dans la relation."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "frustration" },
+      { "type": "peut_evoluer_en", "cible": "colere" },
+      { "type": "souvent_symptome_de", "cible": "surcharge" },
+      { "type": "s_oppose_a", "cible": "patience" },
+      { "type": "peut_masquer", "cible": "anxiete" }
+    ]
+  }
+]

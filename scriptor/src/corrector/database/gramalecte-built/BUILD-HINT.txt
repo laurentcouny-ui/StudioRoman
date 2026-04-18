@@ -1,0 +1,24 @@
+Gramalecte (fr) — bundle Scriptor
+==================================
+
+Le fichier fr-bundle.js (dans ce dossier, importé par Vite) pilote un Web Worker
+dont le code et les données sont servis depuis public/gramalecte-fr/ (GPL-3.0-only,
+fichiers issus de l’extension Mozilla « Grammalecte [fr] »).
+
+Mise à jour des binaires / données
+----------------------------------
+  npm run vendor:gramalecte-fr
+
+Sur une machine neuve (sans cache) : la même commande télécharge l’XPI Mozilla
+et l’extrait automatiquement (PowerShell sous Windows, unzip sous Linux/macOS).
+
+Forcer re-téléchargement + réinstallation :
+  npm run vendor:gramalecte-fr:refresh
+
+Dépôt cache local (ignoré par git si .gitignore contient .cache-gramalecte-xpi) :
+  scriptor/.cache-gramalecte-xpi/
+
+Source : https://addons.mozilla.org/fr/firefox/addon/grammalecte-fr/
+
+Worker : public/gramalecte-fr/gce_worker_scriptor.js + regExp-leftContext-polyfill.js
+(Chromium n’a pas RegExp.leftContext — requis par gc_engine.)

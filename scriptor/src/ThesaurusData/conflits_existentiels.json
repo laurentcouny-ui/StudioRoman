@@ -1,0 +1,606 @@
+[
+  {
+    "id": "peur-de-la-mort",
+    "label": "Peur de la mort",
+    "alias": [
+      "terreur du néant",
+      "angoisse existentielle",
+      "horreur de la fin",
+      "peur de disparaître",
+      "vertige du non-être",
+      "confrontation à la finitude",
+      "mort imminente ou abstraite",
+      "conscience de mourir",
+      "panique existentielle",
+      "refus de la fin"
+    ],
+    "famille": "conflits existentiels",
+    "definitionCourte": "Le personnage est confronté à sa propre mort — imminente, possible ou simplement certaine — et la terreur qu'elle provoque entre en conflit avec la nécessité de continuer à vivre.",
+    "natureDuConflit": "Conflit entre la conscience de la finitude et le désir de vivre pleinement. La peur de la mort peut paralyser, mais elle peut aussi révéler ce qui compte vraiment.",
+    "forcesEnPresence": [
+      "instinct de survie fondamental",
+      "conscience intellectuelle de la mort inévitable",
+      "terreur viscérale du néant ou de l'inconnu",
+      "désir de sens face à une fin qui peut sembler absurde",
+      "attachements qui rendent la mort insupportable",
+      "croyances qui atténuent ou amplifient la peur",
+      "expérience passée d'une mort proche — la sienne ou celle d'un autre"
+    ],
+    "declencheursFrequents": [
+      "diagnostic médical grave",
+      "situation de danger de mort réel",
+      "mort d'un proche qui rapproche la sienne",
+      "anniversaire ou jalon qui souligne le passage du temps",
+      "rêve ou vision liée à la mort",
+      "confrontation avec un mourant",
+      "accident ou incident qui aurait pu être fatal",
+      "moment de calme où l'angoisse monte sans raison apparente"
+    ],
+    "signauxAvantCoureurs": [
+      "évitement des sujets liés à la mort",
+      "hypocondrie ou hypervigilance sur la santé",
+      "comportements qui occupent l'esprit pour ne pas y penser",
+      "accumulation de projets comme défense contre la finitude",
+      "irritabilité ou tristesse sans cause claire",
+      "moments de questionnement sur le sens de ce qu'on fait",
+      "réactions disproportionnées aux rappels de la mort",
+      "tendance à idéaliser les morts ou à penser aux survivants"
+    ],
+    "silencesEtNonDits": [
+      "la peur de la mort est rarement dite directement — trop grande pour les mots ordinaires",
+      "les croyances du personnage sur ce qui vient après ne sont pas toujours explicitées",
+      "la peur pour les autres qui restent n'est pas distinguée de la peur pour soi",
+      "le désir de laisser une trace n'est jamais nommé comme désir de survivre symboliquement",
+      "la colère contre la mort — sa propre injustice — n'est presque jamais dite",
+      "la question de si on a vraiment vécu reste sans réponse souvent"
+    ],
+    "penseesTypiques": [
+      "Je vais mourir. Un jour. Et ce jour viendra peut-être plus tôt que je ne le crois.",
+      "Qu'est-ce qui reste après ? Est-ce que quelque chose reste ?",
+      "Est-ce que j'ai fait quelque chose qui compte ?",
+      "Je ne veux pas disparaître comme si je n'avais pas été là.",
+      "La mort n'est pas ce qui me fait peur. C'est le vide avant elle.",
+      "Comment les autres font pour ne pas y penser tout le temps ?",
+      "Si je meurs maintenant, qu'est-ce que j'aurais raté ?",
+      "Je veux juste avoir encore du temps.",
+      "Tout ce qu'on construit finit par disparaître. Alors pourquoi ?"
+    ],
+    "comportementsTypiques": [
+      "évite les situations ou conversations qui rappellent la mort",
+      "sur-investit dans des projets qui donnent un sentiment de contrôle ou de trace",
+      "cherche des réponses dans la spiritualité, la philosophie ou la religion",
+      "parle peu de la mort mais y pense souvent",
+      "prend paradoxalement des risques pour ne pas se sentir mort intérieurement",
+      "s'accroche à ses proches avec une intensité nouvelle après un rappel de la finitude",
+      "change ses priorités après une confrontation directe",
+      "oscille entre l'urgence de vivre et la paralysie devant l'inévitable"
+    ],
+    "positionsDePouvoir": [
+      "La mort est la seule certitude absolue — elle efface toute hiérarchie de pouvoir.",
+      "Celui qui accepte sa mort a souvent un pouvoir de détachement que les autres n'ont pas.",
+      "La peur de la mort peut être instrumentalisée — par les institutions, les religions, les individus.",
+      "Quelqu'un qui n'a plus peur de mourir a moins à perdre — ce qui change radicalement sa position."
+    ],
+    "variantes": [
+      {
+        "relation": "Mort imminente",
+        "description": "Le personnage sait ou croit qu'il va mourir bientôt. La question devient : comment vivre ce temps qui reste ?"
+      },
+      {
+        "relation": "Peur abstraite et chronique",
+        "description": "Pas de menace immédiate — juste la conscience que la mort viendra. L'angoisse est diffuse, permanente, difficile à nommer."
+      },
+      {
+        "relation": "Confrontation par la mort d'un proche",
+        "description": "La mort de l'autre révèle la sienne. La deuil est aussi une confrontation à sa propre finitude."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Conscience discrète", "description": "La mort est présente en arrière-plan. Le personnage y pense parfois sans être paralysé." },
+      { "niveau": 2, "label": "Angoisse récurrente", "description": "La peur revient régulièrement. Elle colore certains choix et certaines nuits." },
+      { "niveau": 3, "label": "Confrontation directe", "description": "La mort est imminente ou vient de frapper de près. Elle occupe tout le premier plan." },
+      { "niveau": 4, "label": "Paralysie ou transformation", "description": "La peur est si grande qu'elle empêche de vivre — ou si forte qu'elle libère." },
+      { "niveau": 5, "label": "Acceptation ou effondrement", "description": "Le personnage fait la paix avec sa finitude — ou se brise dessus." }
+    ],
+    "escaladeTypique": [
+      "conscience de la mort ignorée ou gérée au quotidien",
+      "rappel brutal — diagnostic, accident, mort proche",
+      "confrontation intérieure à la terreur",
+      "recherche de sens, de trace, de consolation",
+      "acceptation partielle ou totale, ou effondrement"
+    ],
+    "voiesDeResolution": [
+      "la confrontation à la mort libère le personnage de ses peurs secondaires",
+      "une croyance ou une philosophie offre un cadre pour l'accepter",
+      "la création d'une trace (enfant, œuvre, acte) soulage le besoin de survie symbolique",
+      "la connexion avec les autres atténue la solitude de la finitude",
+      "l'acceptation progressive — sans disparition de la peur, mais sans domination de celle-ci"
+    ],
+    "blessuresUnderlyantes": [
+      "mort précoce d'un parent ou d'un proche qui a planté la peur",
+      "expérience personnelle de mort imminente",
+      "absence de cadre culturel, spirituel ou familial pour penser la mort",
+      "vie vécue en dessous de ce qui était possible — ce qui rend la mort plus menaçante",
+      "conviction que la mort efface tout sens — terreur du néant pur"
+    ],
+    "contextesFavorables": [
+      "personnage confronté à un diagnostic ou à un danger de mort réel",
+      "personnage en âge de faire le bilan",
+      "deuil d'un proche qui rapproche la mort",
+      "situation extrême qui place la mort comme horizon concret"
+    ],
+    "personnagesSouventConcernes": [
+      "le malade qui doit apprendre à vivre avec sa finitude",
+      "le vieillissant qui sent le temps se réduire",
+      "le survivant qui se demande pourquoi lui et pas l'autre",
+      "le personnage qui a failli mourir et ne revient pas intact",
+      "celui dont la peur de la mort structure toute la vie sans jamais être nommée"
+    ],
+    "erreursDEcriture": [
+      "rendre la mort abstraite — le personnage doit la sentir dans son corps et ses pensées",
+      "résoudre par une acceptation héroïque sans travail réel",
+      "confondre peur de la mort et désir de mourir — ce sont des états opposés",
+      "oublier que la peur de la mort est aussi peur pour les autres — séparation, abandon",
+      "utiliser la mort imminente comme seul moteur narratif sans explorer ce qu'elle révèle"
+    ],
+    "notesEditoriales": [
+      "La confrontation à la mort est souvent le révélateur des vraies valeurs d'un personnage.",
+      "La peur de la mort et le désir de vivre ne sont pas contradictoires — ils s'alimentent.",
+      "Différencier : peur de la mort (finitude) / perte de sens (signification) / héritage et trace (survie symbolique).",
+      "Le personnage qui ne parle jamais de la mort mais la porte est souvent plus fort que celui qui en parle tout le temps."
+    ]
+  },
+  {
+    "id": "perte-de-sens",
+    "label": "Perte de sens",
+    "alias": [
+      "vide intérieur",
+      "crise existentielle",
+      "rien ne vaut rien",
+      "plus rien ne compte",
+      "désenchantement profond",
+      "effondrement du sens",
+      "nihilisme vécu",
+      "à quoi bon",
+      "vie sans direction",
+      "brûlure du vide"
+    ],
+    "famille": "conflits existentiels",
+    "definitionCourte": "Le personnage ne sait plus pourquoi il fait ce qu'il fait. Le sens qui structurait sa vie s'est effrité — et rien ne l'a remplacé.",
+    "natureDuConflit": "Conflit entre le besoin fondamental de sens (orienter, justifier, signifier) et la réalité d'un vide que rien ne comble plus. La perte de sens peut paralyser ou pousser à chercher.",
+    "forcesEnPresence": [
+      "besoin anthropologique de sens et de direction",
+      "effondrement d'un cadre qui donnait du sens",
+      "incapacité à en construire un nouveau",
+      "pression sociale à fonctionner malgré le vide",
+      "espoir résiduel que quelque chose peut redonner une direction",
+      "tentation de la resignation ou du nihilisme",
+      "présence ou absence de liens qui portent encore du sens"
+    ],
+    "declencheursFrequents": [
+      "perte d'un projet, d'une personne ou d'une croyance qui donnait un sens",
+      "succès qui n'apporte pas ce qu'il promettait",
+      "fin d'une période structurante — retraite, fin d'études, divorce",
+      "désillusion profonde sur quelque chose en quoi on croyait",
+      "période de transition sans cap clair",
+      "confrontation à la souffrance du monde qui rend le quotidien dérisoire",
+      "épuisement professionnel ou burn-out",
+      "moment de calme après une période d'urgence qui révèle le vide"
+    ],
+    "signauxAvantCoureurs": [
+      "gestes quotidiens accomplis sans investissement",
+      "difficulté à trouver une raison de se lever",
+      "indifférence à des choses qui plaisaient avant",
+      "commentaires nihilistes qui semblent anodins",
+      "retrait progressif des activités et des relations",
+      "fatigue qui n'est pas physique",
+      "sentiment que tout est interchangeable",
+      "questions existentielles qui reviennent sans réponse"
+    ],
+    "silencesEtNonDits": [
+      "le vide n'est pas nommé — il ressemble trop à une faiblesse",
+      "les autres ne voient souvent pas que le personnage fonctionne en dessous de la surface",
+      "la question de ce qui donnait du sens avant n'est jamais posée directement",
+      "la peur que le sens soit perdu pour toujours n'est pas avouée",
+      "le désir de retrouver quelque chose est présent mais honteux",
+      "la différence entre perte de sens et dépression n'est pas toujours claire pour le personnage lui-même"
+    ],
+    "penseesTypiques": [
+      "À quoi ça sert, tout ça ?",
+      "J'avance. Mais je ne sais plus vers quoi.",
+      "Je fais comme si. Personne ne voit que je suis vide.",
+      "Tout ce que je croyais important me semble maintenant dérisoire.",
+      "Je n'arrive pas à me souvenir de ce qui me rendait heureux.",
+      "Si je disparaissais, est-ce que ça changerait vraiment quelque chose ?",
+      "Je cherche quelque chose qui en vaille la peine. Je ne trouve pas.",
+      "Est-ce que ça a jamais eu du sens, ou est-ce que je me racontais des histoires ?",
+      "Je veux croire à quelque chose. Je ne sais plus à quoi."
+    ],
+    "comportementsTypiques": [
+      "accomplit les obligations de surface sans investissement réel",
+      "cherche des sensations intenses pour combler le vide",
+      "se retire progressivement des engagements",
+      "intellectualise le vide sans y toucher vraiment",
+      "fait semblant d'aller bien dans les contextes sociaux",
+      "cherche de nouveaux sens de substitution — travail, consommation, relation",
+      "s'engage dans des conversations profondes sur le sens avec une intensité inhabituelle",
+      "fait une rupture soudaine — quitter un travail, une relation, un lieu"
+    ],
+    "positionsDePouvoir": [
+      "Le personnage sans sens est souvent imperméable aux leviers ordinaires — on ne le contrôle pas facilement par la peur ou la récompense.",
+      "La perte de sens peut être libératrice — elle efface les obligations qui n'étaient que des conventions.",
+      "Celui qui offre un sens — même partiel — a un pouvoir considérable sur un personnage dans le vide.",
+      "La perte de sens collective (groupe, institution) peut créer une solidarité inattendue."
+    ],
+    "variantes": [
+      {
+        "relation": "Après le succès",
+        "description": "Le personnage a atteint son objectif — et découvre que l'arrivée ne ressemble pas à ce qu'il imaginait. Le sens était dans la poursuite, pas dans la possession."
+      },
+      {
+        "relation": "Après une perte",
+        "description": "Quelque chose de central a disparu — une personne, une cause, une croyance. Ce qui restait ne suffit plus à remplir."
+      },
+      {
+        "relation": "Désenchantement progressif",
+        "description": "Pas d'événement unique — une usure lente. Le sens s'est effrité sans qu'on le remarque, jusqu'à ce que le vide soit trop grand pour être ignoré."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Questionnement discret", "description": "Le vide est là mais le personnage fonctionne. Des questions se posent sans urgence." },
+      { "niveau": 2, "label": "Désengagement visible", "description": "Le personnage va moins vers les choses. Son investissement baisse. Les proches commencent à le noter." },
+      { "niveau": 3, "label": "Vide actif", "description": "Le sens manque vraiment. Le quotidien est difficile à justifier." },
+      { "niveau": 4, "label": "Crise de sens", "description": "Le personnage ne peut plus fonctionner normalement. Quelque chose doit changer." },
+      { "niveau": 5, "label": "Effondrement ou reconstruction", "description": "Le personnage touche le fond — ou commence, douloureusement, à reconstruire." }
+    ],
+    "escaladeTypique": [
+      "sens présent mais fragile",
+      "événement ou usure qui le fait vaciller",
+      "vide qui s'installe",
+      "crise — le vide n'est plus tenable",
+      "reconstruction ou effondrement"
+    ],
+    "voiesDeResolution": [
+      "une rencontre ou un événement offre un nouveau cap",
+      "le personnage reconstruit du sens à partir de ce qui reste",
+      "l'acceptation du vide comme état humain possible — pas de résolution mais une paix",
+      "l'engagement dans une action concrète qui redonne une direction sans répondre aux questions",
+      "la découverte que le sens ne se trouve pas mais se crée"
+    ],
+    "blessuresUnderlyantes": [
+      "sens longtemps donné par un autre (institution, relation, croyance) sans jamais être construit soi-même",
+      "désillusion profonde sur quelque chose d'essentiel",
+      "identité entière construite autour d'un projet ou d'une personne qui a disparu",
+      "peur que chercher un sens soit vain — que rien n'en ait fondamentalement",
+      "épuisement d'une vie longtemps vécue pour les autres sans espace pour soi"
+    ],
+    "contextesFavorables": [
+      "personnage en milieu de vie face au bilan",
+      "survivant d'une catastrophe qui remet tout en question",
+      "personnage après un succès qui laisse un vide inattendu",
+      "moment de transition majeure sans cap clair"
+    ],
+    "personnagesSouventConcernes": [
+      "le personnage qui a tout réussi et se retrouve vide",
+      "le retraité dont l'identité était le travail",
+      "le survivant d'un deuil qui ne retrouve pas sa place dans le monde",
+      "le militant désenchanté après une défaite ou une trahison",
+      "celui qui a vécu pour les autres et ne sait plus ce qu'il veut"
+    ],
+    "erreursDEcriture": [
+      "confondre perte de sens et dépression — les deux peuvent coexister mais sont distincts",
+      "résoudre par un nouveau projet qui remplace simplement l'ancien",
+      "rendre le vide romantique — il est surtout épuisant",
+      "ne pas montrer les efforts du personnage pour fonctionner malgré le vide",
+      "confondre perte de sens (direction) / peur de la mort (finitude) / désillusion (trahison d'une croyance)"
+    ],
+    "notesEditoriales": [
+      "La perte de sens est souvent plus difficile à écrire que la souffrance visible — elle est intérieure et silencieuse.",
+      "Le personnage qui fonctionne normalement en surface tout en étant vide est l'un des plus réalistes.",
+      "Différencier : perte de sens (direction) / honte contre exposition (image) / foi contre preuve (conviction).",
+      "Le sens reconstruit est souvent plus solide que le sens hérité — narrativement, la reconstruction est l'arc."
+    ]
+  },
+  {
+    "id": "heritage-et-trace",
+    "label": "Héritage et trace",
+    "alias": [
+      "laisser quelque chose derrière soi",
+      "survie symbolique",
+      "peur de disparaître sans laisser de trace",
+      "transmettre ou non",
+      "ce qu'on laisse aux autres",
+      "continuité après soi",
+      "désir de mémoire",
+      "immortalité symbolique",
+      "être oublié",
+      "ce qui reste quand on n'est plus là"
+    ],
+    "famille": "conflits existentiels",
+    "definitionCourte": "Le personnage est habité par le désir de laisser quelque chose après lui — une œuvre, des enfants, un acte, une mémoire. Ce désir peut structurer sa vie ou l'écraser.",
+    "natureDuConflit": "Conflit entre le besoin de survie symbolique (ne pas disparaître sans trace) et les conditions réelles qui permettent ou empêchent de laisser cette trace. Ce conflit touche à la fois au sens de la vie et à la peur de la mort.",
+    "forcesEnPresence": [
+      "désir de continuer à exister symboliquement après la mort",
+      "attachement à ce qu'on a construit ou créé",
+      "peur d'être oublié",
+      "question de ce qui vaut d'être transmis",
+      "conflits sur à qui ou quoi on transmet",
+      "tension entre la trace voulue et ce qui restera vraiment",
+      "désaccord sur ce qui compte comme trace légitime"
+    ],
+    "declencheursFrequents": [
+      "prise de conscience du temps qui passe",
+      "mort d'un proche sans avoir transmis ce qui comptait",
+      "rencontre avec quelqu'un qui sera peut-être le dépositaire de l'héritage",
+      "conflit sur comment un héritage sera géré après soi",
+      "création d'une œuvre, d'un enfant, d'une entreprise qui pose la question de la survie",
+      "échec à transmettre quelque chose à quelqu'un qui ne veut pas recevoir",
+      "découverte de ce qu'un ancêtre a laissé — et ce que ça signifie pour soi",
+      "maladie ou vieillissement qui rend la question urgente"
+    ],
+    "signauxAvantCoureurs": [
+      "investissement croissant dans des projets à long terme",
+      "préoccupation pour comment on sera perçu après",
+      "questions sur ce qu'on transmettra à ses enfants",
+      "regrets sur ce qu'on n'a pas encore accompli",
+      "attachement particulier à certains objets ou œuvres comme représentants de soi",
+      "conversations sur la mort ou l'héritage déclenchées sans raison apparente",
+      "regard sur les figures qui ont laissé une trace durable",
+      "angoisse à l'idée que ce qui a été construit puisse disparaître"
+    ],
+    "silencesEtNonDits": [
+      "le désir de laisser une trace n'est souvent pas avoué — il semblerait vaniteux",
+      "la peur d'être oublié est rarement dite directement",
+      "la question de si la trace voulue correspond à ce que les autres retiendront n'est pas posée",
+      "le conflit entre laisser une trace pour soi et pour les autres n'est pas résolu",
+      "les héritiers potentiels ne savent souvent pas ce qui leur sera légué ni ce qu'on attend d'eux",
+      "la différence entre laisser une trace matérielle et une trace affective n'est pas toujours faite"
+    ],
+    "penseesTypiques": [
+      "Est-ce que quelqu'un se souviendra de moi dans cent ans ?",
+      "Je veux que ce que j'ai fait compte pour quelqu'un.",
+      "Ce que je transmets à mes enfants, c'est peut-être tout ce que je laisse.",
+      "Je ne veux pas disparaître comme si je n'avais pas été là.",
+      "Est-ce que ce que je construis a de la valeur au-delà de moi ?",
+      "Si je meurs demain, qu'est-ce qui survivrait ?",
+      "La trace que je veux laisser — est-ce que c'est vraiment la bonne ?",
+      "Je ne suis pas sûr de vouloir être remembré tel que je suis.",
+      "Tout ce qui reste après nous, c'est l'effet qu'on a eu sur les autres."
+    ],
+    "comportementsTypiques": [
+      "s'investit intensément dans des créations ou des projets à longue portée",
+      "tente de transmettre des valeurs ou des savoirs à des héritiers",
+      "documente sa vie ou son travail pour que ça reste",
+      "entre en conflit avec ceux qui traiteraient son héritage différemment de ses vœux",
+      "cherche une réconciliation avec ceux qu'il veut pour héritiers",
+      "se soucie de sa réputation posthume",
+      "redoute de mourir avant que la trace soit assurée",
+      "parfois renonce à la trace et cherche une paix sans elle"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui contrôle sa trace de son vivant a un pouvoir symbolique fort.",
+      "Les héritiers ont le pouvoir réel — ils décident de ce qui sera gardé ou oublié.",
+      "La mémoire collective décide souvent au-delà des intentions du personnage.",
+      "Renoncer au désir de trace est une forme de liberté — et de pouvoir sur sa propre finitude."
+    ],
+    "variantes": [
+      {
+        "relation": "Héritage refusé",
+        "description": "Le personnage veut transmettre quelque chose — valeur, bien, récit — mais l'héritier désigné refuse ou est incapable de recevoir. La transmission est impossible."
+      },
+      {
+        "relation": "Héritage pesant",
+        "description": "Le personnage a reçu un héritage qu'il ne sait pas quoi faire — symbolique, matériel, traumatique. Il doit décider quoi en faire, le porter ou le poser."
+      },
+      {
+        "relation": "Trace malgré soi",
+        "description": "Le personnage laisse une trace qu'il n'a pas choisie — une réputation, un effet sur un autre, un enfant non désiré. La trace échappe au contrôle."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Désir vague", "description": "Le personnage pense parfois à ce qu'il laissera sans urgence." },
+      { "niveau": 2, "label": "Investissement actif", "description": "Le désir de trace structure des choix concrets. Des projets, des relations, des actes." },
+      { "niveau": 3, "label": "Urgence croissante", "description": "Le temps se resserre. La trace n'est pas encore assurée. L'angoisse monte." },
+      { "niveau": 4, "label": "Conflit autour de la transmission", "description": "Quelqu'un refuse l'héritage, ou la trace risque de disparaître. Le conflit est direct." },
+      { "niveau": 5, "label": "Acceptation ou résignation", "description": "Le personnage fait la paix avec ce qu'il laissera — ou pas — ou s'effondre devant l'oubli." }
+    ],
+    "escaladeTypique": [
+      "désir de trace présent mais non urgent",
+      "prise de conscience de la finitude qui rend la trace urgente",
+      "investissement dans la construction ou la transmission",
+      "conflit sur ce qui sera gardé, transmis ou perdu",
+      "acceptation ou deuil de la trace"
+    ],
+    "voiesDeResolution": [
+      "la trace est assurée — quelqu'un reçoit et garde",
+      "le personnage accepte que la trace échappe à son contrôle",
+      "il découvre que la trace affective compte plus que la trace matérielle",
+      "il renonce au désir de trace et trouve une paix différente",
+      "l'héritage reçu lui permet de comprendre le sien propre"
+    ],
+    "blessuresUnderlyantes": [
+      "peur profonde de l'oubli comme forme ultime d'inexistence",
+      "modèle parental qui n'a pas transmis ou qui a écrasé sous le poids d'un héritage",
+      "œuvre ou projet central à l'identité menacé de disparition",
+      "rupture avec les héritiers naturels qui rend la transmission impossible",
+      "vie vécue sans grande création et question tardive de ce qui en restera"
+    ],
+    "contextesFavorables": [
+      "personnage vieillissant ou malade qui sent l'urgence",
+      "créateur confronté à l'idée que son œuvre pourrait disparaître",
+      "parent en conflit avec ses enfants sur ce qu'il transmet",
+      "personnage confronté à un héritage familial lourd ou absent"
+    ],
+    "personnagesSouventConcernes": [
+      "l'artiste ou le créateur préoccupé par la survie de son œuvre",
+      "le parent dont les enfants refusent l'héritage",
+      "le personnage sans descendance qui cherche une autre forme de trace",
+      "l'ancien qui sent que sa génération sera oubliée",
+      "l'héritier qui porte un héritage dont il ne sait que faire"
+    ],
+    "erreursDEcriture": [
+      "rendre le désir de trace entièrement vaniteux — il est souvent profondément humain",
+      "confondre héritage matériel et trace symbolique — ils ne valent pas la même chose",
+      "résoudre par la seule création d'une œuvre — la trace affective est souvent plus durable",
+      "oublier les héritiers — la trace n'existe que dans ceux qui la reçoivent",
+      "confondre héritage et trace (survie symbolique) / peur de la mort (finitude) / perte de sens (direction)"
+    ],
+    "notesEditoriales": [
+      "Le désir de laisser une trace est presque universel — le rendre spécifique et incarné est ce qui le rend fort.",
+      "La trace la plus puissante narrativement est souvent involontaire — ce que le personnage laisse sans le savoir.",
+      "Différencier : héritage et trace (survie symbolique) / peur de la mort (finitude physique) / perte de sens (direction de vie).",
+      "L'héritier qui refuse est narrativement aussi riche que celui qui accepte."
+    ]
+  },
+  {
+    "id": "confrontation-au-vide",
+    "label": "Confrontation au vide",
+    "alias": [
+      "nuit noire de l'âme",
+      "effondrement intérieur",
+      "tout s'est effrité",
+      "plus rien ne tient",
+      "vide absolu",
+      "rupture intérieure",
+      "désintégration du soi",
+      "anéantissement intérieur",
+      "toucher le fond",
+      "point de rupture existentiel"
+    ],
+    "famille": "conflits existentiels",
+    "definitionCourte": "Le personnage se retrouve face à un vide total — toutes les certitudes ont cédé, tous les appuis ont disparu. Il est dans un état de désintégration intérieure où rien ne tient plus.",
+    "natureDuConflit": "Conflit entre le vide qui s'est installé et le besoin vital de reconstruire quelque chose — une raison de tenir, une identité, un fil. C'est le degré le plus radical de la crise existentielle.",
+    "forcesEnPresence": [
+      "vide intérieur total — perte de sens, d'identité, de direction simultanées",
+      "instinct de survie qui cherche encore quelque chose à quoi s'accrocher",
+      "épuisement qui rend la reconstruction difficile",
+      "peur de ce qu'on trouvera ou ne trouvera pas de l'autre côté",
+      "honte de l'effondrement",
+      "présence ou absence d'un filet humain",
+      "expérience passée ou non de sortie de crise"
+    ],
+    "declencheursFrequents": [
+      "accumulation de pertes simultanées — relation, travail, croyance, santé",
+      "trahison fondamentale qui efface tout ce sur quoi le personnage se reposait",
+      "désillusion totale sur ce qui donnait du sens",
+      "crise de foi — religieuse, idéologique ou relationnelle",
+      "mort ou départ de quelqu'un qui était le sens de tout",
+      "épuisement total après une longue période de fonctionnement à vide",
+      "moment de calme après la tempête qui révèle ce qu'il n'y a plus",
+      "rupture d'identité — qui suis-je si tout ce que je croyais être n'est plus ?"
+    ],
+    "signauxAvantCoureurs": [
+      "détachement progressif de tout ce qui comptait",
+      "fonctionnement automatique sans présence réelle",
+      "sentiment que la vie des autres se passe derrière une vitre",
+      "incapacité à ressentir quoi que ce soit — ni douleur ni joie",
+      "pensées sur la disparition ou l'inexistence qui semblent neutres",
+      "ruptures relationnelles multiples dans un temps court",
+      "sensation d'être étranger à sa propre vie",
+      "fatigue absolue — pas d'énergie pour maintenir même les apparences"
+    ],
+    "silencesEtNonDits": [
+      "l'ampleur du vide n'est presque jamais dite — elle semble indicible",
+      "les signes extérieurs ne correspondent souvent pas à l'effondrement intérieur",
+      "personne ne sait vraiment à quel point c'est grave",
+      "la honte de s'être effondré empêche de demander de l'aide",
+      "le désir de ne plus exister, différent du désir de mourir, n'est jamais clairement nommé",
+      "la question de ce qui pourrait reconstruire n'est même pas posée — elle semble vaine"
+    ],
+    "penseesTypiques": [
+      "Je n'arrive même plus à ressentir quoi que ce soit.",
+      "Tout ce que je croyais être s'est effondré en même temps.",
+      "Je ne sais plus qui je suis en dehors de tout ça.",
+      "Je suis épuisé d'exister.",
+      "Je voudrais juste que ça s'arrête. Pas mourir — juste arrêter.",
+      "Je regarde ma vie de l'extérieur et je ne me reconnais pas.",
+      "Est-ce que ça vaut encore la peine d'essayer ?",
+      "Si je disparaissais, est-ce que quelqu'un remarquerait vraiment ?",
+      "Je cherche quelque chose à quoi m'accrocher. Je ne trouve rien."
+    ],
+    "comportementsTypiques": [
+      "fonctionne en mode automatique — les obligations sont remplies sans présence",
+      "se retire de tout ce qui n'est pas strictement nécessaire",
+      "peut paraître calme ou même bien car plus rien ne suscite de réaction",
+      "cherche parfois un contact humain intense comme preuve d'existence",
+      "repousse les proches qui essaient d'approcher",
+      "peut chercher des sensations extrêmes pour percer l'engourdissement",
+      "documente parfois l'état — écriture, art — comme seule forme de présence",
+      "attend parfois simplement que ça passe — sans plan, sans énergie pour reconstruire"
+    ],
+    "positionsDePouvoir": [
+      "Le personnage dans le vide est souvent imperméable aux pressions ordinaires — il n'a plus rien à perdre.",
+      "Quelqu'un qui tend la main avec justesse a un pouvoir de secours réel.",
+      "L'effondrement peut libérer des constructions contraignantes — et ouvrir une reconstruction plus authentique.",
+      "La honte de l'effondrement donne aux témoins un pouvoir de stigmatisation ou de soutien."
+    ],
+    "variantes": [
+      {
+        "relation": "Effondrement après accumulation",
+        "description": "La crise est la somme de tout ce qui n'a pas été dit ou traité. Elle paraît soudaine mais était annoncée depuis longtemps."
+      },
+      {
+        "relation": "Effondrement après une trahison fondamentale",
+        "description": "Quelque chose d'essentiel a été détruit en une fois. L'édifice entier s'est effondré par contagion."
+      },
+      {
+        "relation": "Vide progressif",
+        "description": "Pas d'événement déclencheur unique — une usure si lente qu'elle en est devenue imperceptible. Le vide est là depuis si longtemps qu'il semble normal."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Creux passager", "description": "Un moment difficile. Inconfortable mais gérable. Le personnage sait que ça passera." },
+      { "niveau": 2, "label": "Vide installé", "description": "Le creux dure. La vie perd de sa couleur. Rien ne convoque vraiment." },
+      { "niveau": 3, "label": "Effondrement visible", "description": "Le personnage ne peut plus maintenir les apparences normalement." },
+      { "niveau": 4, "label": "Vide total", "description": "Tout a cédé. Il n'y a plus de repère. La question de tenir ou non se pose." },
+      { "niveau": 5, "label": "Point de bascule", "description": "Le personnage touche le fond — et soit remonte, soit disparaît d'une façon ou d'une autre." }
+    ],
+    "escaladeTypique": [
+      "creux ou tensions accumulées",
+      "effondrement progressif ou brutal",
+      "vide total — plus rien ne tient",
+      "point de bascule — vers le haut ou vers le bas",
+      "reconstruction douloureuse ou perte définitive"
+    ],
+    "voiesDeResolution": [
+      "un contact humain authentique crée une brèche dans le vide",
+      "un acte — aussi petit soit-il — redonne un fil",
+      "la reconnaissance du vide par quelqu'un d'autre soulage déjà",
+      "le personnage touche le fond et remonte — lentement, non linéairement",
+      "le vide est accepté comme état transitoire — pas de résolution mais une survie"
+    ],
+    "blessuresUnderlyantes": [
+      "accumulation de non-dits et de non-traités qui ont fini par tout envahir",
+      "identité entière construite sur quelque chose qui a disparu",
+      "absence de fondations intérieures car tout reposait sur l'extérieur",
+      "expérience de l'effondrement qui n'a jamais été traversée — juste contournée",
+      "conviction que montrer sa fragilité serait la fin de tout"
+    ],
+    "contextesFavorables": [
+      "personnage après une accumulation de pertes rapprochées",
+      "moment de transition radical sans filet",
+      "personnage dont toute l'identité reposait sur quelque chose qui n'existe plus",
+      "crise de foi totale — religieuse, idéologique, relationnelle"
+    ],
+    "personnagesSouventConcernes": [
+      "le personnage qui a perdu simultanément travail, relation et sens",
+      "le survivant d'un trauma qui n'a jamais vraiment traversé l'effondrement",
+      "l'idéaliste radicalement désenchanté",
+      "le personnage après une guérison partielle qui se retrouve dans le vide post-urgence",
+      "celui dont la force apparente cache depuis longtemps un vide béant"
+    ],
+    "erreursDEcriture": [
+      "confondre vide existentiel et dépression clinique — ils peuvent coexister mais sont distincts",
+      "rendre l'effondrement spectaculaire alors qu'il est souvent silencieux et discret",
+      "résoudre par une rencontre ou un projet salvateur unique",
+      "ne pas respecter la lenteur et la non-linéarité de la sortie",
+      "confondre confrontation au vide (désintégration) / perte de sens (direction) / peur de la mort (finitude)"
+    ],
+    "notesEditoriales": [
+      "Le vide existentiel est difficile à écrire parce qu'il n'a pas de spectacle — il est dans le silence, l'absence de réaction, le fonctionnement mécanique.",
+      "La sortie du vide n'est pas dramatique — c'est souvent un minuscule geste, une phrase, un regard.",
+      "Différencier : confrontation au vide (désintégration totale) / perte de sens (direction) / peur de la mort (finitude) / honte contre exposition (image).",
+      "Ce conflit peut être un aboutissement — l'accumulation de tout ce qui précède dans le parcours d'un personnage."
+    ]
+  }
+]

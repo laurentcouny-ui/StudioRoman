@@ -1,0 +1,532 @@
+[
+  {
+    "id": "odeur-cigarette-ambiante",
+    "label": "Odeur de cigarette dans un vêtement",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur froide et tenace de tabac imprégnée dans un tissu, distincte de la fumée fraîche. Elle persiste longtemps après que la cigarette s'est éteinte, portée par le vêtement comme une signature invisible.",
+    "qualite": "Âcre, entêtante, légèrement rassie — une odeur qui colle et qui ne demande pas la permission.",
+    "associationsNarratives": [
+      "veste ou manteau d'un proche absent ou disparu",
+      "retour tardif d'un parent qui a bu ou fumé dehors",
+      "chambre d'hôtel bon marché où quelqu'un a séjourné avant soi",
+      "voiture d'un étranger qui propose de vous raccompagner",
+      "vêtement emprunté dans l'urgence",
+      "sac laissé par quelqu'un qui est parti sans prévenir",
+      "couloir d'un immeuble social la nuit"
+    ],
+    "emotionsAssociees": [
+      "nostalgie mêlée d'inquiétude",
+      "tendresse coupable",
+      "malaise diffus",
+      "sentiment de familiarité indésirable",
+      "tristesse sourde",
+      "sentiment de trahison"
+    ],
+    "memoires": [
+      "souvenir d'un père ou d'une mère fumeur",
+      "nuits passées dans des bars mal éclairés",
+      "adolescence et premiers contacts avec le monde des adultes",
+      "rupture ou départ brutal d'un proche"
+    ],
+    "usagesTypiques": [
+      "signaler la présence passée d'un personnage absent de la scène",
+      "créer un malaise discret lors d'un contact physique forcé ou inattendu",
+      "ancrer un souvenir d'enfance sans le nommer explicitement",
+      "introduire un personnage avant qu'il soit décrit visuellement",
+      "marquer une classe sociale ou un mode de vie sans le dire",
+      "signifier l'abandon ou la négligence dans une relation"
+    ],
+    "contraires": [
+      "odeur-propre-linge-sèche",
+      "odeur-parfum-frais",
+      "odeur-air-exterieur-vent"
+    ],
+    "combinaisons": [
+      "odeur de cigarette + chaleur du tissu encore tiède : présence toute récente, départ précipité",
+      "odeur de cigarette + obscurité de la pièce : attente, tension nocturne",
+      "odeur de cigarette + voix basse dans le couloir : secret, complot discret"
+    ],
+    "notesEditoriales": [
+      "Distinguer l'odeur froide de tabac imprégné (passé, absence) de la fumée fraîche (présence immédiate, nerfs).",
+      "Très efficace pour introduire un personnage en creux — le lecteur le perçoit avant de le voir.",
+      "Risque de cliché autour du père absent ou du détective usé : déplacer vers des usages moins attendus (un enfant, un vêtement féminin, un objet appartenant à la victime)."
+    ]
+  },
+  {
+    "id": "odeur-vieux-livre",
+    "label": "Odeur de vieux livre",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur douce, légèrement vanillée et poussiéreuse qui émane des pages jaunies — résultat de la dégradation lente du papier. Souvent associée aux bibliothèques anciennes, aux livres de famille, aux archives.",
+    "qualite": "Chaude, légèrement sucrée, avec une note de poussière sèche — une odeur qui apaise et mélancolise en même temps.",
+    "associationsNarratives": [
+      "bibliothèque familiale héritée d'un grand-parent",
+      "librairie ancienne dans une ruelle étroite",
+      "grenier ou cave où des cartons de livres ont dormi des années",
+      "archives d'un cabinet d'avocat ou d'un notaire",
+      "chambre d'un personnage érudit ou solitaire",
+      "héritage ou succession — fouiller les affaires d'un mort",
+      "maison de campagne restée fermée plusieurs années"
+    ],
+    "emotionsAssociees": [
+      "nostalgie douce",
+      "sentiment de continuité ou de transmission",
+      "mélancolie tranquille",
+      "curiosité éveillée",
+      "sentiment d'appartenir à quelque chose de plus grand que soi",
+      "légère tristesse face au temps qui passe"
+    ],
+    "memoires": [
+      "enfance et premiers livres découverts chez un adulte admiré",
+      "heures passées dans une bibliothèque à l'abri du monde",
+      "souvenir d'un être cher qui lisait beaucoup",
+      "période d'études ou de formation intellectuelle intense"
+    ],
+    "usagesTypiques": [
+      "installer une atmosphère de passé préservé, de temps suspendu",
+      "signaler qu'un personnage a accès à un savoir ancien ou caché",
+      "créer un contraste avec un environnement moderne ou hostile",
+      "ancrer une scène d'héritage ou de transmission",
+      "déclencher une mémoire involontaire chez le personnage",
+      "signifier la solitude studieuse d'un personnage"
+    ],
+    "contraires": [
+      "odeur-livre-neuf-encre",
+      "odeur-ecran-plastique-chauffe",
+      "odeur-papier-photocopie"
+    ],
+    "combinaisons": [
+      "odeur de vieux livre + lumière de lampe de chevet : intimité nocturne, refuge",
+      "odeur de vieux livre + poussière dans la lumière : temps arrêté, espace sacré",
+      "odeur de vieux livre + silence absolu : isolement choisi, monde intérieur"
+    ],
+    "notesEditoriales": [
+      "Cliché si associée systématiquement au savoir ou à la sagesse : la détourner vers l'enfermement, l'obsession ou la fuite du monde.",
+      "L'odeur de vieux livre est l'une des rares odeurs unanimement jugées agréables — utile pour créer un espace de douceur dans une scène tendue.",
+      "Attention à ne pas l'utiliser uniquement comme décor : laisser le personnage réagir à cette odeur, pas seulement la noter."
+    ]
+  },
+  {
+    "id": "odeur-cuisine-etrangere",
+    "label": "Odeur de cuisine inconnue venant du couloir",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur d'épices, de cuissons ou d'ingrédients non identifiables qui traverse une cloison ou glisse sous une porte, venant d'un foyer voisin dont on ne sait presque rien.",
+    "qualite": "Complexe, parfois entêtante, parfois envoûtante — une odeur qui intrigue parce qu'elle raconte une autre vie sans l'expliquer.",
+    "associationsNarratives": [
+      "immeuble ancien à cloisons minces dans un quartier populaire",
+      "résidence étudiante ou foyer de travailleurs",
+      "arrivée dans un pays ou un quartier étranger",
+      "voisin inconnu dont on entend sans jamais voir",
+      "couloir d'hôtel dans un pays lointain",
+      "maison d'hôtes chez une famille d'accueil",
+      "premier appartement dans une nouvelle ville"
+    ],
+    "emotionsAssociees": [
+      "curiosité teintée d'inconfort",
+      "sentiment d'altérité ou d'exclusion",
+      "envie ou appétit inattendu",
+      "solitude par contraste avec une chaleur perçue chez l'autre",
+      "nostalgie par procuration",
+      "sentiment d'être un étranger dans sa propre rue"
+    ],
+    "memoires": [
+      "premier voyage à l'étranger et dépaysement sensoriel",
+      "voisinage d'enfance avec des familles de cultures différentes",
+      "période de solitude ou d'isolement social",
+      "dîners chez des amis d'une autre origine"
+    ],
+    "usagesTypiques": [
+      "signifier l'isolement d'un personnage sans le montrer directement",
+      "introduire la thématique de l'altérité ou de l'exil",
+      "créer une sensation de vie qui continue ailleurs pendant que le personnage est figé",
+      "ouvrir une scène sur une question non résolue concernant les voisins",
+      "marquer le contraste entre la chaleur d'un foyer et la froideur d'un autre",
+      "ancrer un personnage dans un contexte social précis"
+    ],
+    "contraires": [
+      "odeur-propre-couloir-residence-vide",
+      "odeur-desinfectant-immeuble-neuf",
+      "silence-olfactif-espace-neutre"
+    ],
+    "combinaisons": [
+      "odeur inconnue + rires étouffés à travers la cloison : vie collective dont on est exclu",
+      "odeur inconnue + faim du personnage : désir déplacé, manque multiple",
+      "odeur inconnue + solitude du soir : contraste douloureux entre l'autre et soi"
+    ],
+    "notesEditoriales": [
+      "Éviter le traitement exotisant ou réducteur — l'odeur inconnue dit autant sur celui qui la perçoit que sur celui qui cuisine.",
+      "Puissant pour travailler les thèmes de l'immigration, de la solitude urbaine et du désir de communauté.",
+      "L'ambivalence de la réaction (appétit vs. malaise) est plus riche narrativement que la simple curiosité."
+    ]
+  },
+  {
+    "id": "son-moteur-voiture",
+    "label": "Moteur d'une voiture qui attend",
+    "categorie": "auditif",
+    "definitionCourte": "Ronronnement régulier d'un moteur tournant au ralenti, voiture immobilisée mais pas éteinte — présence sonore qui signale une attente active, délibérée.",
+    "qualite": "Sourd, régulier, légèrement vibrant — un son qui pèse par sa persistance plus que par son volume.",
+    "associationsNarratives": [
+      "voiture garée devant une maison, moteur allumé depuis trop longtemps",
+      "départ imminent qui tarde à se faire",
+      "surveillance ou filature discrète",
+      "rendez-vous nocturne ou clandestin",
+      "scène de rupture : l'un reste dans la voiture, l'autre est sur le trottoir",
+      "fuite préparée mais pas encore amorcée",
+      "quelqu'un qui attend sans être sûr de vouloir rester"
+    ],
+    "emotionsAssociees": [
+      "tension de l'attente",
+      "indécision ou ambivalence",
+      "menace sourde",
+      "urgence contenue",
+      "sentiment d'être observé",
+      "imminence d'un départ ou d'une rupture"
+    ],
+    "memoires": [
+      "retours tardifs attendus depuis une fenêtre",
+      "départs de l'enfance : parents qui se disputent dans l'habitacle",
+      "scènes de rupture ou de réconciliation sur un parking",
+      "attentes anxieuses devant une école ou un hôpital"
+    ],
+    "usagesTypiques": [
+      "créer une tension hors-champ dans une scène d'intérieur",
+      "signaler une menace ou une surveillance sans la nommer",
+      "marquer le moment de suspension avant une décision irréversible",
+      "signifier qu'un personnage est sur le départ mais hésite encore",
+      "installer une atmosphère nocturne de danger ou de secret",
+      "ancrer le lecteur dans l'attente d'une action qui tarde"
+    ],
+    "contraires": [
+      "silence-rue-deserte-nuit",
+      "son-voiture-qui-demarre-et-part",
+      "son-moteur-coupe-soudainement"
+    ],
+    "combinaisons": [
+      "moteur qui attend + lumière allumée dans la maison : tension entre deux espaces, deux décisions",
+      "moteur qui attend + dialogue intérieur du personnage : temps suspendu, hésitation dramatisée",
+      "moteur qui attend + nuit et pluie : atmosphère de thriller, danger latent"
+    ],
+    "notesEditoriales": [
+      "L'efficacité de ce son tient à sa durée : il faut laisser le temps au lecteur de le sentir comme une présence persistante.",
+      "Très polyvalent — peut signifier la menace, le désir, l'hésitation ou le deuil selon le contexte.",
+      "Éviter d'en faire une métaphore trop explicite : laisser le son agir sans le commenter."
+    ]
+  },
+  {
+    "id": "son-sanglots-etouffes",
+    "label": "Sanglots étouffés derrière une porte",
+    "categorie": "auditif",
+    "definitionCourte": "Son de pleurs retenus, à peine audibles, filtrés par une cloison ou une porte close — une douleur qui cherche à se cacher mais ne se cache pas tout à fait.",
+    "qualite": "Irrégulier, haché, à la limite de la perception — un son qui oblige à tendre l'oreille et à se demander si on a bien entendu.",
+    "associationsNarratives": [
+      "salle de bains après une mauvaise nouvelle",
+      "chambre d'enfant la nuit après une dispute des parents",
+      "bureau fermé d'un personnage qui vient d'apprendre quelque chose",
+      "toilettes d'un lycée ou d'un lieu public",
+      "chambre d'hôpital adjacente",
+      "pièce où quelqu'un attend que les autres soient partis pour lâcher prise",
+      "après une rupture ou une humiliation publique"
+    ],
+    "emotionsAssociees": [
+      "embarras de celui qui entend",
+      "compassion douloureuse",
+      "sentiment d'intrusion involontaire",
+      "impuissance",
+      "peine par contagion",
+      "culpabilité sourde"
+    ],
+    "memoires": [
+      "nuits d'enfance où l'on entendait pleurer un adulte",
+      "moment où l'on a surpris quelqu'un dans sa douleur privée",
+      "propres pleurs étouffés dans une période difficile",
+      "scènes de deuil ou d'annonce de mauvaise nouvelle"
+    ],
+    "usagesTypiques": [
+      "révéler la fragilité d'un personnage qui se présente comme fort",
+      "créer un moment d'impuissance pour le personnage qui entend",
+      "introduire une information émotionnelle avant l'explication narrative",
+      "signaler un événement grave sans le montrer directement",
+      "installer une intimité voyeuriste et inconfortable",
+      "forcer un personnage à décider : frapper, entrer, ou s'éloigner"
+    ],
+    "contraires": [
+      "rires-eclatants-derriere-porte",
+      "silence-total-pièce-vide",
+      "pleurs-assumes-a-voix-haute"
+    ],
+    "combinaisons": [
+      "sanglots étouffés + couloir obscur la nuit : atmosphère d'enfance, peur et tendresse mêlées",
+      "sanglots étouffés + personnage qui hésite devant la porte : dilemme moral, respect vs. besoin d'agir",
+      "sanglots étouffés + lumière sous la porte : présence confirmée, impossibilité de prétendre ne pas savoir"
+    ],
+    "notesEditoriales": [
+      "La puissance de ce son vient du contraste entre la retenue et la douleur réelle : plus quelqu'un cherche à cacher, plus ça fait mal.",
+      "Utile pour inverser la dynamique de force : le personnage le plus solide en apparence est souvent celui derrière la porte.",
+      "Ne pas résoudre trop vite : laisser le personnage qui entend dans l'inconfort un moment avant toute action."
+    ]
+  },
+  {
+    "id": "son-respiration-proche",
+    "label": "Respiration d'une personne endormie à côté",
+    "categorie": "auditif",
+    "definitionCourte": "Souffle régulier et léger d'un corps endormi tout proche — présence sonore intime, souvent perçue dans le silence de la nuit par quelqu'un qui, lui, ne dort pas.",
+    "qualite": "Régulier, doux, légèrement rythmé — un son qui peut rassurer ou peser selon l'état du personnage qui l'entend.",
+    "associationsNarratives": [
+      "insomnie à côté d'un partenaire endormi",
+      "veille d'un enfant malade",
+      "nuit partagée avec quelqu'un pour la première ou la dernière fois",
+      "chambre commune dans une période de tension du couple",
+      "survie ou clandestinité : deux personnages cachés qui attendent",
+      "lendemain d'une dispute — dormir malgré tout ensemble",
+      "personnage qui regarde l'autre dormir en sachant que ça va changer"
+    ],
+    "emotionsAssociees": [
+      "tendresse mélancolique",
+      "solitude paradoxale",
+      "amour silencieux",
+      "angoisse nocturne",
+      "sentiment de responsabilité ou de protection",
+      "envie de partir mêlée de l'impossibilité de le faire"
+    ],
+    "memoires": [
+      "nuits d'enfance dans la même chambre qu'un frère ou une sœur",
+      "veilles auprès d'un proche gravement malade",
+      "premières nuits partagées dans une relation amoureuse",
+      "insomnies dans des moments de crise ou de décision"
+    ],
+    "usagesTypiques": [
+      "installer un moment de solitude intérieure au milieu d'une présence physique",
+      "créer un espace de réflexion nocturne pour un personnage",
+      "signifier la distance qui s'est installée dans un couple sans la nommer",
+      "marquer la tendresse d'un personnage pour un autre sans dialogue",
+      "ouvrir une scène de décision prise dans la nuit",
+      "contraster le repos de l'un et l'agitation intérieure de l'autre"
+    ],
+    "contraires": [
+      "silence-nuit-lit-vide",
+      "son-ronflement-bruyant",
+      "agitation-tourner-dans-le-lit"
+    ],
+    "combinaisons": [
+      "respiration endormie + insomnie du personnage : isolement dans la proximité, pensées qui tournent",
+      "respiration endormie + décision imminente : dernière nuit, conscience que quelque chose va changer",
+      "respiration endormie + obscurité complète : intimité maximale, vulnérabilité partagée"
+    ],
+    "notesEditoriales": [
+      "Ce son fonctionne par contraste : il révèle l'état du personnage éveillé autant qu'il décrit la présence de l'autre.",
+      "Éviter d'en faire un signe de bonheur systématique — la respiration endormie peut être oppressante, étrangère, presque effrayante.",
+      "Très efficace pour les scènes de fin de relation ou de veille de deuil : la vie continue de l'autre côté du lit."
+    ]
+  },
+  {
+    "id": "lumiere-ecran-nuit",
+    "label": "Lumière d'écran dans l'obscurité",
+    "categorie": "visuel",
+    "definitionCourte": "Lueur bleue et froide d'un téléphone, d'une tablette ou d'un ordinateur allumé dans une pièce sombre — source de lumière artificielle isolée qui éclaire un visage par en dessous.",
+    "qualite": "Froide, bleutée, légèrement tremblotante selon les mouvements de l'écran — une lumière qui déréalise les traits et découpe les visages de manière presque spectrale.",
+    "associationsNarratives": [
+      "insomnie nocturne avec le téléphone comme seule compagnie",
+      "attente d'un message ou d'un appel qui ne vient pas",
+      "surveillance ou espionnage numérique dans la nuit",
+      "adolescent caché sous les draps",
+      "personnage qui lit une mauvaise nouvelle dans le silence de la nuit",
+      "couple dans le même lit, chacun sur son écran",
+      "vérification compulsive après une rupture ou une anxiété"
+    ],
+    "emotionsAssociees": [
+      "solitude moderne",
+      "anxiété nocturne",
+      "dépendance et honte douce",
+      "attente compulsive",
+      "sentiment d'enfermement dans un monde parallèle",
+      "détachement de la réalité immédiate"
+    ],
+    "memoires": [
+      "nuits d'insomnie dans des périodes de crise",
+      "attentes de messages dans une relation naissante ou mourante",
+      "période de confinement ou d'isolement social",
+      "adolescence et double vie entre le réel et le numérique"
+    ],
+    "usagesTypiques": [
+      "signifier l'insomnie sans la nommer",
+      "créer une atmosphère de solitude contemporaine",
+      "marquer la dépendance affective d'un personnage à la communication numérique",
+      "éclairer un visage de manière inquiétante ou vulnérable",
+      "installer la nuit et l'isolement dans une scène",
+      "signaler un moment de découverte ou de révélation nocturne"
+    ],
+    "contraires": [
+      "lumiere-chaude-lampe-bureau",
+      "obscurite-complete-ecran-eteint",
+      "lumiere-jour-fenetre-ouverte"
+    ],
+    "combinaisons": [
+      "lumière d'écran + respiration endormie à côté : solitude dans la présence, couple déconnecté",
+      "lumière d'écran + larmes silencieuses : mauvaise nouvelle lue seul dans la nuit",
+      "lumière d'écran + silence de la maison endormie : sentiment d'être le seul éveillé au monde"
+    ],
+    "notesEditoriales": [
+      "L'éclairage par en dessous crée un effet légèrement inquiétant sur les visages — à utiliser pour des moments de trouble ou de révélation.",
+      "Ancrage contemporain fort : attention à la date de l'histoire si ce détail doit être anachronique.",
+      "La lumière d'écran dit quelque chose sur l'époque autant que sur le personnage — l'utiliser consciemment."
+    ]
+  },
+  {
+    "id": "ombre-sous-porte",
+    "label": "Ombre sous une porte fermée",
+    "categorie": "visuel",
+    "definitionCourte": "Interruption de la lumière sous une porte close — bande sombre qui signale la présence d'un corps immobile ou en mouvement de l'autre côté, sans que l'on puisse voir.",
+    "qualite": "Discrète, presque négligeable — une information visuelle minimale qui prend une charge émotionnelle disproportionnée selon le contexte.",
+    "associationsNarratives": [
+      "quelqu'un écoute derrière la porte",
+      "présence inquiétante dans une maison supposément vide",
+      "enfant qui attend derrière la porte des parents",
+      "personnage qui hésite à frapper ou à entrer",
+      "scène de tension dans un couloir d'hôtel ou d'immeuble",
+      "surveillance, filature ou intrusion",
+      "moment où l'on découvre que l'on n'est pas seul"
+    ],
+    "emotionsAssociees": [
+      "peur sourde",
+      "suspense",
+      "hésitation",
+      "sentiment d'intrusion ou d'être surveillé",
+      "curiosité mêlée d'appréhension",
+      "soulagement retardé si l'ombre s'avère inoffensive"
+    ],
+    "memoires": [
+      "peurs nocturnes d'enfance",
+      "moments où l'on a surpris ou été surpris",
+      "disputes entendues depuis le couloir",
+      "attentes anxieuses derrière une porte close"
+    ],
+    "usagesTypiques": [
+      "annoncer une présence sans la révéler — créer du suspense économique",
+      "forcer un personnage à décider : frapper, entrer ou fuir",
+      "signaler qu'une scène privée a un témoin non souhaité",
+      "installer une atmosphère de danger dans un espace domestique",
+      "ouvrir une séquence de tension avec un minimum de description",
+      "marquer le moment exact où un personnage réalise qu'il n'est pas seul"
+    ],
+    "contraires": [
+      "lumiere-sous-porte-rassurante",
+      "porte-ouverte-espace-visible",
+      "couloir-desert-porte-sans-lumiere"
+    ],
+    "combinaisons": [
+      "ombre sous la porte + silence soudain : quelqu'un s'est arrêté d'écouter ou d'agir",
+      "ombre sous la porte + nuit et maison supposément vide : tension de thriller, danger immédiat",
+      "ombre sous la porte + enfant qui attend : vulnérabilité, besoin non formulé"
+    ],
+    "notesEditoriales": [
+      "L'efficacité de cette image tient à son économie : ne pas l'expliquer, ne pas la commenter — la laisser agir.",
+      "Cliché du thriller si trop attendu : déplacer vers des contextes moins dramatiques pour retrouver sa force (couloir d'école, appartement familial).",
+      "Peut fonctionner à rebours : l'ombre disparaît sous la porte — la présence s'en va, et c'est parfois plus anxiogène encore."
+    ]
+  },
+  {
+    "id": "chaleur-corps-proche",
+    "label": "Chaleur d'un corps contre le sien",
+    "categorie": "thermique",
+    "definitionCourte": "Chaleur rayonnante d'un autre corps humain en contact proche — chaleur vive, légèrement humide, qui se distingue de tout autre source de chaleur par son caractère vivant et variable.",
+    "qualite": "Dense, enveloppante, légèrement moite selon l'intensité — une chaleur qui pulse doucement et qui porte l'odeur de l'autre.",
+    "associationsNarratives": [
+      "étreinte ou accolade après une longue séparation",
+      "corps à corps de confort dans une période de deuil ou de peur",
+      "enfant qui s'endort contre un adulte",
+      "deux personnages qui se réchauffent par nécessité dans le froid",
+      "danse lente ou contact physique chargé de désir",
+      "personnage épuisé soutenu physiquement par un autre",
+      "scène de séparation imminente : dernier contact physique"
+    ],
+    "emotionsAssociees": [
+      "réconfort profond",
+      "désir",
+      "sécurité retrouvée",
+      "vulnérabilité acceptée",
+      "chagrin doux dans une séparation",
+      "tendresse physique sans mots"
+    ],
+    "memoires": [
+      "souvenirs d'enfance portée ou tenue",
+      "premières étreintes dans une relation amoureuse",
+      "présence physique d'un proche lors d'une épreuve",
+      "corps de quelqu'un perdu — la chaleur mémorisée"
+    ],
+    "usagesTypiques": [
+      "signifier l'attachement ou la confiance sans dialogue",
+      "créer un moment de répit physique dans une scène tendue",
+      "marquer le désir ou l'amour par le corps avant les mots",
+      "contraster avec le froid environnant pour amplifier le sentiment de refuge",
+      "ancrer une séparation : la chaleur qui part, le froid qui revient",
+      "introduire la vulnérabilité d'un personnage qui se laisse toucher"
+    ],
+    "contraires": [
+      "froid-corps-sans-vie",
+      "distance-physique-voulue",
+      "contact-indifferent-foule"
+    ],
+    "combinaisons": [
+      "chaleur du corps + larmes silencieuses : chagrin reçu, consolation sans mots",
+      "chaleur du corps + contexte de danger : survie et attachement mêlés",
+      "chaleur du corps + pensée du départ imminent : douceur douloureuse, conscience de la fin"
+    ],
+    "notesEditoriales": [
+      "La chaleur d'un corps vivant est irremplaçable narrativement — elle dit la vie, la présence réelle, l'appartenance.",
+      "Son contraire le plus fort est l'absence : la chaleur qui s'en va lorsque quelqu'un se lève ou part.",
+      "Attention à ne pas réduire ce sensation au désir romantique — elle couvre tout le spectre de l'attachement humain."
+    ]
+  },
+  {
+    "id": "froid-visage-dehors",
+    "label": "Froid sur le visage en sortant",
+    "categorie": "thermique",
+    "definitionCourte": "Sensation de froid qui saisit le visage au moment de franchir un seuil et de passer du dedans au dehors — transition thermique brusque qui réveille, saisit ou engourdit selon l'intensité.",
+    "qualite": "Vif, immédiat, légèrement mordant — une gifle douce de l'air qui oblige à ajuster sa respiration et son allure.",
+    "associationsNarratives": [
+      "sortie précipitée d'une maison après une dispute",
+      "sortie d'un hôpital après une longue attente",
+      "nuit d'hiver, départ tôt le matin dans l'obscurité",
+      "fuite ou départ clandestin",
+      "retour sur les lieux d'un souvenir en hiver",
+      "sortie d'une réunion ou d'une confrontation intense",
+      "premier pas dehors après une longue maladie ou un enfermement"
+    ],
+    "emotionsAssociees": [
+      "retour brutal à la réalité",
+      "soulagement ou liberation",
+      "choc et saisissement",
+      "solitude soudaine après une présence",
+      "résolution froide avant une action",
+      "mélancolie de l'hiver"
+    ],
+    "memoires": [
+      "matins d'hiver scolaires, départs dans le noir",
+      "sorties d'hôpital ou de lieux chargés émotionnellement",
+      "premières cigarettes dehors, dans le froid, entre adolescents",
+      "départs de fêtes de famille sous la neige ou le gel"
+    ],
+    "usagesTypiques": [
+      "marquer une transition narrative forte entre un espace intérieur chargé et le monde extérieur",
+      "réveiller un personnage qui était dans un état second",
+      "signifier le départ ou la rupture par une sensation physique",
+      "installer l'hiver comme atmosphère sans description longue",
+      "créer un moment de solitude nette après une scène collective",
+      "ancrer une décision prise dans le froid, loin des autres"
+    ],
+    "contraires": [
+      "chaleur-air-chaud-ete-sortie",
+      "retour-interieur-chaleur-maison",
+      "air-tiede-printemps-indifferent"
+    ],
+    "combinaisons": [
+      "froid sur le visage + nuit noire et silence : rupture totale avec le monde intérieur, solitude réelle",
+      "froid sur le visage + larmes déjà présentes : les larmes froides sur la peau, douleur physique et émotionnelle",
+      "froid sur le visage + décision ferme : le froid comme confirmation, le corps qui dit oui à ce que l'esprit a choisi"
+    ],
+    "notesEditoriales": [
+      "La transition intérieur/extérieur est l'une des plus puissantes en littérature — ce froid en est le signal sensoriel le plus concret.",
+      "Éviter l'usage systématique comme symbole de tristesse : le froid peut aussi signifier la clarté, la liberté, la décision.",
+      "Combiner avec la buée de la respiration pour rendre la scène encore plus corporelle et présente."
+    ]
+  }
+]

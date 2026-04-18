@@ -1,0 +1,626 @@
+[
+  {
+    "id": "rejet-social",
+    "label": "Rejet social",
+    "famille": "abandon-exclusion",
+    "definitionCourte": "Le personnage a été exclu d'un groupe, mis à l'écart ou déclaré indésirable par ses pairs. La blessure ne porte pas seulement sur la solitude qui en résulte, mais sur la conviction que quelque chose en lui le rend fondamentalement inacceptable aux yeux des autres.",
+    "originesPossibles": [
+      "exclu d'un groupe d'amis à l'école sans explication donnée",
+      "mis à l'écart par ses camarades en raison d'une différence visible ou perçue",
+      "rejeté par une communauté religieuse, culturelle ou familiale",
+      "ignoré ou mis au ban dans un milieu professionnel",
+      "exclu d'un cercle social après une rupture ou une trahison collective",
+      "victime d'ostracisme organisé, silencieux et durable",
+      "rejeté par un groupe après avoir tenté d'y trouver sa place"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne suis pas quelqu'un qu'on choisit.",
+      "Il suffit qu'on me connaisse vraiment pour ne plus me vouloir.",
+      "Je suis trop différent pour appartenir à quoi que ce soit.",
+      "Les groupes finissent toujours par me rejeter.",
+      "Je dois mériter chaque relation, sinon elle disparaît.",
+      "Ma présence est un fardeau pour les autres.",
+      "Je n'ai pas naturellement ma place quelque part."
+    ],
+    "peursCentrees": [
+      "peur d'être exclu à nouveau dès qu'on le verra vraiment",
+      "peur de ne pas être à la hauteur des attentes du groupe",
+      "peur que son intégration soit provisoire et conditionnelle",
+      "peur de prendre trop de place et d'en être puni",
+      "peur que les autres parlent de lui en son absence",
+      "peur de l'unanimité contre lui"
+    ],
+    "comportementsDefensifs": [
+      "surveille les dynamiques de groupe avec une acuité excessive",
+      "s'efface pour ne pas provoquer de rejet",
+      "adopte les opinions du groupe même contre les siennes",
+      "fait preuve d'une gentillesse compulsive pour rester acceptable",
+      "anticipe les signes de rejet et se retire avant d'être exclu",
+      "évite de se lier trop profondément pour limiter la perte possible",
+      "cherche constamment des signes d'approbation dans les comportements des autres"
+    ],
+    "conflitsInternesTypiques": [
+      "désire ardemment l'appartenance mais redoute de la perdre dès qu'il y accède",
+      "veut être vu mais reste dans l'ombre par peur de décevoir",
+      "ressent de la colère contre ceux qui l'ont exclu mais la retourne contre lui-même",
+      "se demande s'il est vraiment à sa place ou simplement toléré",
+      "oscille entre l'envie de s'intégrer et la tentation de l'isolement volontaire"
+    ],
+    "manifestationsPhysiques": [
+      "tension dans la poitrine lors de l'entrée dans un groupe",
+      "surveillance périphérique des réactions des autres en réunion",
+      "sourire légèrement trop empressé pour signaler sa bonne volonté",
+      "inconfort physique quand il n'est pas inclus dans une conversation",
+      "soulagement corporel perceptible quand il se retrouve seul"
+    ],
+    "declencheurs": [
+      "être ignoré dans une conversation de groupe",
+      "voir des amis organisés quelque chose sans l'inviter",
+      "arriver dans un lieu où tout le monde se connaît déjà",
+      "ne pas être salué alors que les autres le sont",
+      "entendre un rire qu'il ne comprend pas dans un groupe",
+      "recevoir une invitation tardive ou de dernière minute"
+    ],
+    "cheminsVersResolution": [
+      "quelqu'un le choisit explicitement et sans condition, même après l'avoir vu faillir",
+      "il trouve un groupe où sa différence est une valeur et non un défaut",
+      "il apprend à distinguer le rejet passé des relations présentes",
+      "il comprend que l'appartenance ne se mérite pas mais se construit"
+    ],
+    "impactRelationnel": [
+      "peut se montrer excessivement accommodant pour plaire à ses proches",
+      "interprète le moindre silence ou retard comme un signe de rejet imminent",
+      "a du mal à croire que quelqu'un puisse le préférer librement",
+      "peut saboter des liens qui fonctionnent par peur qu'ils cessent de fonctionner"
+    ],
+    "notesEditoriales": [
+      "Distinguer du rejet amoureux : le rejet social touche l'identité collective, pas seulement l'image de soi dans la relation intime.",
+      "Le personnage peut paraître sociable en surface — la blessure se lit dans la vigilance, pas dans le retrait apparent.",
+      "Éviter le cliché du solitaire amer : beaucoup de personnages portant cette blessure sont parmi les plus adaptables et les plus attentifs aux autres."
+    ]
+  },
+  {
+    "id": "honte-familiale",
+    "label": "Honte familiale",
+    "famille": "honte-exposition",
+    "definitionCourte": "Le personnage a été désigné, au sein de sa famille ou par elle, comme la source d'une honte collective. Il porte le poids d'une faute ou d'une différence jugée infamante, réelle ou projetée sur lui. La blessure est double : la honte en elle-même et l'intégration de cette honte comme définition de soi.",
+    "originesPossibles": [
+      "avoir une orientation sexuelle rejetée par la famille",
+      "avoir commis une faute rendue publique qui a entaché le nom familial",
+      "être né d'une relation illégitime ou non reconnue",
+      "avoir échoué là où la famille attendait la réussite",
+      "porter une différence physique, mentale ou comportementale vécue comme une tare",
+      "avoir été le bouc émissaire des tensions familiales",
+      "avoir refusé un rôle ou une vocation imposé par la famille"
+    ],
+    "croyancesNegativesInduites": [
+      "Je suis une honte pour ceux que j'aime.",
+      "Mon existence crée des problèmes aux autres.",
+      "Si les gens savent qui je suis vraiment, ils me rejettent.",
+      "Je dois me cacher pour protéger ceux qui m'entourent.",
+      "Je ne mérite pas d'être fier de moi-même.",
+      "Mon identité est une erreur qu'il faut corriger ou effacer.",
+      "L'amour familial est conditionnel à ma conformité."
+    ],
+    "peursCentrees": [
+      "peur d'être démasqué dans un milieu où il a réussi à se construire une image",
+      "peur de reproduire la honte sur ses propres enfants",
+      "peur que sa famille ne parle jamais bien de lui en son absence",
+      "peur que la vérité sur ses origines soit révélée",
+      "peur de rencontrer un membre de sa famille dans un contexte public"
+    ],
+    "comportementsDefensifs": [
+      "dissimule ses origines ou certains aspects de sa vie familiale",
+      "surcompense par une réussite ou une image publique irréprochable",
+      "coupe les ponts avec la famille pour échapper à la honte",
+      "attaque la première pour éviter d'être exposé",
+      "rit de lui-même avant que les autres le fassent",
+      "refuse toute intimité pour ne pas être découvert"
+    ],
+    "conflitsInternesTypiques": [
+      "veut que sa famille soit fière de lui mais sait qu'elle ne le sera peut-être jamais",
+      "aime sa famille et lui en veut profondément pour la même raison",
+      "veut revendiquer son identité mais redoute les conséquences",
+      "hésite entre reconstruire un lien et rompre définitivement",
+      "n'arrive pas à séparer ce qu'il est de ce que sa famille a dit de lui"
+    ],
+    "manifestationsPhysiques": [
+      "raideur ou repli corporel quand la famille est évoquée",
+      "discours accéléré ou esquive rapide sur les questions personnelles",
+      "regard qui s'évite dans les miroirs dans certains contextes",
+      "nœud dans la gorge à l'idée de reparler à un membre de la famille",
+      "tension dans les épaules persistante, liée à la vigilance de l'image"
+    ],
+    "declencheurs": [
+      "un regard ou une remarque rappelant la honte passée",
+      "un événement familial ou une réunion",
+      "une réussite qui contraste avec les attentes familiales",
+      "la question innocente d'un inconnu sur ses origines ou sa famille",
+      "entendre quelqu'un parler avec fierté de sa propre famille",
+      "un reproche qui ressemble mot pour mot à celui qu'on lui faisait enfant"
+    ],
+    "cheminsVersResolution": [
+      "rencontrer quelqu'un qui ne connaît pas son histoire et qui l'aime tel qu'il est",
+      "comprendre que la honte était un outil de contrôle, pas un jugement juste",
+      "trouver une communauté d'appartenance hors de la famille d'origine",
+      "confronter directement la source de la honte sans en mourir"
+    ],
+    "impactRelationnel": [
+      "peut choisir des partenaires ou amis qui ne posent pas trop de questions",
+      "cache des pans entiers de sa vie même aux personnes proches",
+      "peut reproduire le schéma honteux sur ses propres enfants par peur",
+      "a du mal à recevoir des compliments liés à ce que la famille a condamné"
+    ],
+    "notesEditoriales": [
+      "La honte familiale est particulièrement tenace car elle s'est formée avant que le personnage ait les outils pour la contester.",
+      "Elle peut coexister avec un amour sincère pour la famille — ce paradoxe est dramatiquement très riche.",
+      "Ne pas réduire la résolution à une simple réconciliation familiale : certaines blessures se résolvent dans l'éloignement assumé."
+    ]
+  },
+  {
+    "id": "deuil-non-fait",
+    "label": "Deuil impossible",
+    "famille": "perte-deuil",
+    "definitionCourte": "Le personnage a perdu quelqu'un ou quelque chose d'essentiel dans des circonstances qui ont empêché le deuil de s'accomplir normalement. La perte est réelle, mais sans espace pour être pleurée, reconnue ou intégrée. Ce deuil en suspens hante le présent sans jamais trouver de point d'ancrage.",
+    "originesPossibles": [
+      "mort d'un proche survenue sans possibilité d'être présent ou de faire ses adieux",
+      "disparition sans corps ni certitude, laissant la perte en suspens",
+      "perte d'un enfant sous silence familial ou social",
+      "deuil interdit socialement : relation cachée, amour non reconnu, avortement",
+      "perte collective vécue sans espace de commémoration (guerre, exil, catastrophe)",
+      "mort d'un ennemi ou d'un être ambivalent dont on ne sait pas si on a le droit de pleurer",
+      "déplacement ou expatriation vécu comme un deuil sans nom"
+    ],
+    "croyancesNegativesInduites": [
+      "Je n'ai pas le droit de pleurer cela.",
+      "Si j'y pense trop, je ne pourrai plus fonctionner.",
+      "Il ne faut pas s'attacher : ça finit toujours par être arraché.",
+      "Le temps n'efface rien, il recouvre seulement.",
+      "Je suis resté bloqué alors que les autres ont avancé.",
+      "Faire le deuil serait une trahison de ce que j'ai perdu."
+    ],
+    "peursCentrees": [
+      "peur d'oublier ce qu'on a perdu si on s'autorise à aller mieux",
+      "peur que la douleur s'ouvre complètement si on la laisse faire",
+      "peur de ne jamais avoir de clôture",
+      "peur que personne ne comprenne l'ampleur de la perte",
+      "peur que céder à la tristesse signifie ne jamais en revenir"
+    ],
+    "comportementsDefensifs": [
+      "évite tout ce qui rappelle la perte : lieux, dates, mots",
+      "reste occupé en permanence pour ne pas laisser de silence à la douleur",
+      "parle de la perte sur un ton détaché, presque factuel",
+      "rejette les tentatives de consolation comme inopportunes ou insuffisantes",
+      "collectionne ou préserve des objets liés à la perte sans pouvoir s'en séparer",
+      "investit intensément dans de nouveaux liens pour compenser la perte"
+    ],
+    "conflitsInternesTypiques": [
+      "veut se souvenir sans se laisser submerger",
+      "ressent de la culpabilité d'aller bien certains jours",
+      "ne sait pas comment parler de quelqu'un qui n'est plus là sans le trahir",
+      "hésite entre rouvrir la blessure pour la guérir ou la garder fermée pour survivre",
+      "en veut à ceux qui ont pu faire leur deuil normalement"
+    ],
+    "manifestationsPhysiques": [
+      "sensation de poids sur la poitrine sans explication rationnelle",
+      "larmes qui surgissent sans prévenir dans des contextes anodins",
+      "insomnie ou sommeil fragmenté aux dates anniversaires",
+      "douleur somatique diffuse qui résiste au diagnostic médical",
+      "fatigue chronique liée à l'effort de maintenir la perte à distance"
+    ],
+    "declencheurs": [
+      "une chanson, une odeur ou un objet lié à ce qui a été perdu",
+      "voir quelqu'un d'autre faire un deuil reconnu et entouré",
+      "une date anniversaire même non consciente",
+      "la question naïve de quelqu'un qui ne sait pas",
+      "rencontrer quelqu'un qui ressemble à la personne perdue",
+      "une nouvelle perte, même mineure, qui réactive la première"
+    ],
+    "cheminsVersResolution": [
+      "trouver un espace ou une personne qui autorise enfin le deuil explicitement",
+      "nommer la perte publiquement ou symboliquement pour la rendre réelle",
+      "comprendre que faire le deuil n'efface pas l'amour ou la valeur de ce qui a été",
+      "traverser le chagrin au lieu de le contourner, avec un soutien"
+    ],
+    "impactRelationnel": [
+      "peut être incapable de s'attacher pleinement par peur de perdre à nouveau",
+      "peut surinvestir dans des substituts symboliques sans s'en rendre compte",
+      "réagit de manière disproportionnée aux petites pertes quotidiennes",
+      "peut rejeter ceux qui tentent de l'aider à 'tourner la page'"
+    ],
+    "notesEditoriales": [
+      "La force dramatique du deuil impossible est dans sa nature invisible : le personnage souffre d'une perte que personne autour de lui ne reconnaît.",
+      "Distinguer du deuil compliqué clinique : ici l'angle est narratif — qu'est-ce que cela fait faire et ne pas faire au personnage ?",
+      "Le deuil impossible peut se rouvrir très longtemps après la perte initiale, ce qui en fait un déclencheur utile pour des scènes de révélation."
+    ]
+  },
+  {
+    "id": "trahison-institutionnelle",
+    "label": "Trahison institutionnelle",
+    "famille": "trahison-abus-de-pouvoir",
+    "definitionCourte": "Le personnage a placé sa confiance dans une institution — école, église, armée, État, justice, hôpital — et a été trahi, abandonné ou activement lésé par elle. La blessure est aggravée par le fait que cette institution était censée le protéger ou le servir. Il a non seulement subi un tort, mais découvert que le cadre censé garantir la sécurité était lui-même corrompu ou indifférent.",
+    "originesPossibles": [
+      "victime d'abus dans une institution religieuse qui a ensuite étouffé l'affaire",
+      "trahi par l'armée ou l'État après avoir servi loyalement",
+      "ignoré ou mal traité par le système judiciaire après avoir porté plainte",
+      "abandonné par le système de protection de l'enfance",
+      "victime d'une erreur médicale couverte par l'hôpital",
+      "dénoncé ou persécuté par l'école ou l'université au lieu d'être protégé",
+      "spolié ou lésé par une administration censée défendre ses droits"
+    ],
+    "croyancesNegativesInduites": [
+      "Les règles ne s'appliquent pas pour me protéger, seulement pour me contraindre.",
+      "Ceux qui ont le pouvoir l'utilisent d'abord pour se protéger eux-mêmes.",
+      "Il est naïf de croire qu'une institution peut être juste.",
+      "Ma parole ne vaut rien face à celle d'une autorité.",
+      "Se battre dans les règles ne mène nulle part.",
+      "Je suis seul face à tout ce qui est plus grand que moi.",
+      "La solidarité institutionnelle existera toujours contre moi."
+    ],
+    "peursCentrees": [
+      "peur de dépendre d'un système ou d'une autorité pour sa sécurité",
+      "peur de ne pas être cru si quelque chose lui arrive",
+      "peur que la vérité ne change rien même si elle est connue",
+      "peur d'être à nouveau dans une position de vulnérabilité réglementée",
+      "peur que les preuves disparaissent ou soient retournées contre lui"
+    ],
+    "comportementsDefensifs": [
+      "refuse de recourir aux institutions même quand cela lui serait bénéfique",
+      "documente tout de manière obsessionnelle pour ne jamais être sans preuve",
+      "méfiance automatique envers toute figure d'autorité ou de représentation",
+      "cherche à fonctionner hors des systèmes officiels autant que possible",
+      "ne demande jamais d'aide à une structure hiérarchique",
+      "anticipe la trahison et s'y prépare défensivement"
+    ],
+    "conflitsInternesTypiques": [
+      "a besoin de structures et de règles mais ne peut pas leur faire confiance",
+      "veut que la justice existe mais ne croit plus qu'elle fonctionne",
+      "hésite entre continuer à se battre dans le système ou le contourner",
+      "ressent une colère froide qui ne trouve pas d'exutoire légitime",
+      "se demande si résister lui coûtera plus qu'accepter"
+    ],
+    "manifestationsPhysiques": [
+      "corps qui se ferme face à toute figure d'autorité uniforme ou fonctionnelle",
+      "tension mâchoire et épaules en présence de représentants institutionnels",
+      "nausée légère à l'idée de devoir faire appel à un système officiel",
+      "méfiance physique des espaces institutionnels : bureaux, uniformes, formulaires",
+      "vigilance exacerbée dans tout contexte hiérarchisé"
+    ],
+    "declencheurs": [
+      "devoir remplir un formulaire officiel ou comparaître devant une autorité",
+      "entendre quelqu'un parler avec confiance et naïveté d'une institution",
+      "voir une injustice institutionnelle similaire à la sienne affectant quelqu'un d'autre",
+      "être dans une position de dépendance administrative",
+      "lire ou entendre parler d'un cover-up ou d'une impunité institutionnelle",
+      "être à nouveau confronté à un représentant de l'institution qui l'a trahi"
+    ],
+    "cheminsVersResolution": [
+      "trouver un représentant humain de l'institution qui reconnaît le tort subi",
+      "obtenir une forme de reconnaissance publique ou symbolique de la trahison",
+      "trouver une manière d'agir sur le système de l'extérieur plutôt que d'en attendre justice",
+      "distinguer la structure corrompue des individus qui peuvent être intègres en son sein"
+    ],
+    "impactRelationnel": [
+      "peut fuir les relations qui impliquent un rapport d'autorité ou de dépendance",
+      "est allergique aux discours sur les règles, les procédures et la légitimité",
+      "peut projeter sa méfiance institutionnelle sur les personnes qui représentent l'ordre",
+      "peut devenir un allié très fort pour ceux que le système a également lésés"
+    ],
+    "notesEditoriales": [
+      "Distinguer de la simple méfiance envers l'autorité : la trahison institutionnelle implique une confiance préalable et une promesse rompue, ce qui en fait une blessure, pas un simple cynisme.",
+      "Ce type de blessure crée des personnages particulièrement utiles dans des récits politiques, judiciaires ou de résistance.",
+      "La colère associée à cette blessure est souvent froide et très contrôlée — à distinguer de la rage impulsive."
+    ]
+  },
+  {
+    "id": "inferiorite-chronique",
+    "label": "Sentiment d'infériorité chronique",
+    "famille": "honte-devalorisation",
+    "definitionCourte": "Le personnage a grandi ou vécu dans un environnement où il a été systématiquement comparé défavorablement aux autres, rabaissé ou traité comme moins capable, moins valable ou moins digne. Cette infériorité n'est pas une conclusion qu'il a tirée : elle lui a été enseignée par répétition. Elle est devenue une vérité intérieure qu'il transporte sans l'avoir choisie.",
+    "originesPossibles": [
+      "comparaison constante avec un frère ou une sœur perçu comme supérieur",
+      "parent ou figure d'autorité qui minimisait systématiquement ses accomplissements",
+      "milieu social où ses origines, son accent ou son apparence étaient dévalorisés",
+      "scolarité marquée par l'humiliation répétée devant les autres",
+      "culture familiale de la perfection où tout résultat insuffisant était une honte",
+      "relation amoureuse ou amicale où il était constamment dévalorisé",
+      "handicap ou différence physique utilisé comme marqueur d'infériorité par l'entourage"
+    ],
+    "croyancesNegativesInduites": [
+      "Je suis moins bien que les autres dans presque tout ce qui compte.",
+      "Mes réussites sont des accidents ou des erreurs d'évaluation.",
+      "Les gens qui m'admirent ne me connaissent pas encore vraiment.",
+      "Je dois travailler deux fois plus que les autres pour valoir autant.",
+      "Mes opinions et mes besoins comptent moins que ceux des autres.",
+      "Si je montre mes limites, on finira par voir ce que je suis vraiment.",
+      "Je ne mérite pas ce que j'ai — c'est une question de temps avant qu'on s'en rende compte."
+    ],
+    "peursCentrees": [
+      "peur d'être exposé comme incompétent ou insuffisant",
+      "peur que son succès soit attribué à la chance ou à l'erreur des autres",
+      "peur de prendre la parole dans un groupe compétent",
+      "peur de demander ce dont il a besoin et d'être jugé pour cela",
+      "peur de comparer ses résultats à ceux des autres et de confirmer son infériorité"
+    ],
+    "comportementsDefensifs": [
+      "minimise ses propres accomplissements avant que les autres puissent les juger",
+      "sur-travaille pour compenser un sentiment d'inadéquation de fond",
+      "évite les situations où une comparaison directe avec autrui est possible",
+      "se soumet aux opinions des autres même quand il n'est pas d'accord",
+      "cherche la validation constante comme preuves provisoires de sa valeur",
+      "peut adopter une posture d'ironie ou d'autodérision pour devancer la critique"
+    ],
+    "conflitsInternesTypiques": [
+      "veut être reconnu mais ne croit pas mériter la reconnaissance",
+      "sait parfois qu'il est capable mais ne peut pas s'appuyer sur cette certitude durablement",
+      "en veut à ceux qui lui semblent naturellement confiants sans effort",
+      "hésite entre revendiquer sa valeur et rester dans l'ombre pour se protéger",
+      "oscille entre moments de confiance fragile et effondrements face au moindre échec"
+    ],
+    "manifestationsPhysiques": [
+      "posture légèrement rétractée, épaules en avant dans les groupes",
+      "voix qui perd de l'assurance quand quelqu'un d'impressionnant entre dans la pièce",
+      "rougeur ou crispation lors des comparaisons explicites",
+      "besoin physique de s'éloigner du centre d'une pièce ou d'un groupe",
+      "fatigue persistante liée à l'effort constant de prouver sa valeur"
+    ],
+    "declencheurs": [
+      "être comparé explicitement à quelqu'un considéré comme meilleur",
+      "échouer à quelque chose en public",
+      "recevoir un compliment qui ne semble pas sincère",
+      "voir quelqu'un de moins travailleur obtenir plus de reconnaissance",
+      "entrer dans un milieu où les codes et compétences lui sont moins familiers",
+      "être ignoré dans une conversation au profit de quelqu'un d'autre"
+    ],
+    "cheminsVersResolution": [
+      "rencontrer quelqu'un qui le voit tel qu'il est et l'estime sans conditions",
+      "accomplir quelque chose qu'il ne peut pas s'attribuer à la chance ou à l'erreur",
+      "comprendre l'origine de ce sentiment et le distinguer de la réalité présente",
+      "trouver un domaine dans lequel il peut s'autoriser à être compétent sans le minimiser"
+    ],
+    "impactRelationnel": [
+      "peut choisir des partenaires dominants qui confirment sa place secondaire",
+      "peine à recevoir des gestes d'amour ou d'admiration sans les dévaluer",
+      "peut être extrêmement généreux avec les autres pour compenser ce qu'il croit ne pas valoir",
+      "peut développer une admiration quasi inconditionnelle pour des figures qu'il idéalise"
+    ],
+    "notesEditoriales": [
+      "Ce sentiment se distingue de la simple timidité ou de la modestie : il est profondément ancré et résiste à la réassurance extérieure.",
+      "Le syndrome de l'imposteur en est une expression particulièrement utile dans les récits de personnages qui ont réussi malgré tout.",
+      "Attention au cliché du personnage insécure qui se révèle brillant : la résolution de cette blessure est lente et jamais totalement linéaire."
+    ]
+  },
+  {
+    "id": "secret-familial",
+    "label": "Secret de famille",
+    "famille": "mensonge-dissimulation",
+    "definitionCourte": "Le personnage vit ou a grandi avec un secret familial lourd — une vérité cachée qui structure les relations sans jamais être nommée. La blessure tient autant au secret lui-même qu'à l'atmosphère de dissimulation qu'il crée : le sentiment permanent que quelque chose d'essentiel est tu, que la réalité de sa famille n'est pas celle qui est présentée.",
+    "originesPossibles": [
+      "adoption ou filiation cachée découverte tardivement",
+      "crime ou faute grave commis par un membre de la famille et jamais reconnu",
+      "maladie mentale, addiction ou suicide d'un proche tu par honte",
+      "fortune, pauvreté ou ruine financière dissimulée aux enfants",
+      "liaison extraconjugale, enfant non reconnu ou double vie d'un parent",
+      "collaboration ou actes commis pendant une période historique sombre",
+      "violence domestique niée et maintenue dans le silence familial"
+    ],
+    "croyancesNegativesInduites": [
+      "La vérité est dangereuse et mieux vaut ne pas chercher à la connaître.",
+      "Les familles mentent pour survivre — c'est normal.",
+      "Je ne peux pas me fier à mes perceptions : peut-être que je me trompe toujours.",
+      "Ce que je crois savoir sur moi-même pourrait être faux.",
+      "Certaines questions ne doivent pas être posées.",
+      "Ma loyauté envers ma famille m'oblige à taire ce que je sais."
+    ],
+    "peursCentrees": [
+      "peur que la vérité détruise ce qui reste de la famille",
+      "peur de découvrir quelque chose qui changerait l'image qu'il a de lui-même",
+      "peur d'être complice par silence",
+      "peur de poser la bonne question et de recevoir une réponse insupportable",
+      "peur que le secret soit connu de tous sauf de lui"
+    ],
+    "comportementsDefensifs": [
+      "évite de poser les questions qui dérangent même hors du contexte familial",
+      "peut mentir par réflexe, même sur des choses anodines",
+      "compartimente sa vie en zones étanches, à l'image de l'organisation familiale",
+      "surveille les réactions des autres pour détecter ce qui est tu",
+      "a appris à lire entre les lignes et à interpréter les silences",
+      "protège les figures parentales même quand il commence à comprendre"
+    ],
+    "conflitsInternesTypiques": [
+      "veut savoir la vérité mais redoute ce qu'elle fera à ses liens familiaux",
+      "se sent complice de quelque chose dont il n'est pas responsable",
+      "ne sait pas ce qui appartient à sa propre histoire et ce qui est construit",
+      "hésite entre dénoncer et protéger",
+      "ressent une loyauté conflictuelle entre la vérité et la survie du groupe"
+    ],
+    "manifestationsPhysiques": [
+      "hyper-vigilance dans les situations familiales ou réunions de groupe",
+      "inconfort physique face aux questions directes sur ses origines ou sa famille",
+      "capacité développée à lire les tensions non dites dans une pièce",
+      "tendance à observer les visages plutôt qu'à participer aux conversations",
+      "sensation de tenir quelque chose de lourd dont il ne peut pas se décharger"
+    ],
+    "declencheurs": [
+      "une question innocente d'un extérieur sur la famille",
+      "un document, une photo ou un objet qui ne correspond pas au récit officiel",
+      "rencontrer quelqu'un qui connaît un autre aspect de sa famille",
+      "une réunion de famille où les absences et les silences sont inhabituels",
+      "un mensonge découvert sur quelque chose d'apparemment anodin",
+      "la mort d'un gardien du secret qui pourrait tout révéler"
+    ],
+    "cheminsVersResolution": [
+      "découvrir le secret et survivre à cette vérité sans que tout s'effondre",
+      "comprendre que garder un secret n'est pas la même chose qu'en être responsable",
+      "trouver quelqu'un hors de la famille à qui parler sans trahir",
+      "accepter que certaines vérités ne seront jamais connues complètement"
+    ],
+    "impactRelationnel": [
+      "a du mal à être totalement transparent même avec les personnes de confiance",
+      "peut être un confident exceptionnel car habitué à tenir des secrets",
+      "méfiant envers les histoires trop lisses et les familles qui semblent parfaites",
+      "peut inconsciemment reproduire la dynamique du secret dans ses propres relations"
+    ],
+    "notesEditoriales": [
+      "Le secret de famille est un moteur narratif puissant car il crée une tension structurelle : le lecteur peut sentir ce que le personnage ne sait pas encore.",
+      "La révélation du secret n'est pas toujours une résolution — parfois elle aggrave les choses avant de les améliorer.",
+      "Éviter la révélation du secret comme fin en soi : ce qui importe dramatiquement est ce que le personnage fait de la vérité une fois connue."
+    ]
+  },
+  {
+    "id": "echec-protection",
+    "label": "Échec à protéger",
+    "famille": "culpabilite-responsabilite",
+    "definitionCourte": "Le personnage n'a pas su, pas pu ou n'a pas été là pour protéger quelqu'un qui dépendait de lui. Peu importe les circonstances réelles de cet échec, il se tient pour entièrement responsable. La blessure n'est pas seulement le souvenir de ce qui s'est passé, mais la conviction de n'être pas capable d'être fiable quand cela compte vraiment.",
+    "originesPossibles": [
+      "enfant, n'a pas pu empêcher la violence d'un parent sur un frère ou une sœur",
+      "soldat ou soignant qui a perdu quelqu'un qu'il avait mission de garder en vie",
+      "parent dont l'enfant a été blessé, accidenté ou abusé pendant sa garde",
+      "ami qui n'a pas reconnu les signes de détresse d'un proche qui s'est suicidé",
+      "témoin qui n'a pas parlé à temps et dont le silence a permis un tort",
+      "professionnel qui a manqué un diagnostic ou une décision cruciale",
+      "a détourné le regard une fois et c'est cette fois-là qui a tout changé"
+    ],
+    "croyancesNegativesInduites": [
+      "Je laisse toujours tomber ceux qui comptent sur moi.",
+      "Je ne mérite pas d'être responsable de qui que ce soit.",
+      "Si j'avais agi différemment, rien de tout cela ne serait arrivé.",
+      "Ma présence ne protège pas, elle peut même mettre en danger.",
+      "Je dois tout réparer pour avoir le droit d'être là.",
+      "Je ne me pardonnerai jamais vraiment, quoi que je fasse.",
+      "Le mieux que je puisse faire est de ne laisser personne s'approcher trop près."
+    ],
+    "peursCentrees": [
+      "peur de se retrouver à nouveau dans une position de responsabilité envers quelqu'un",
+      "peur que l'histoire se répète si on lui fait confiance",
+      "peur d'aimer quelqu'un et d'échouer à le protéger",
+      "peur de ne pas reconnaître à temps le moment où agir est crucial",
+      "peur que les autres apprennent ce qu'il n'a pas fait"
+    ],
+    "comportementsDefensifs": [
+      "hypervigilance dans toutes les situations impliquant la sécurité d'autrui",
+      "refus de s'engager dans des relations de responsabilité",
+      "peut devenir excessivement contrôlant pour ne jamais être pris de court",
+      "se punit par le travail, le sacrifice ou la mise en danger de soi-même",
+      "fuit les liens affectifs pour ne pas avoir à assumer la charge de protection",
+      "peut se jeter dans des rôles de protecteur compulsif pour tenter de réparer"
+    ],
+    "conflitsInternesTypiques": [
+      "veut protéger ceux qu'il aime mais se méfie de sa propre capacité à le faire",
+      "ressent de la culpabilité mais aussi, parfois, de la colère contre la personne qu'il n'a pas protégée",
+      "cherche à se punir mais reconnaît que cela ne répare rien",
+      "hésite entre l'engagement et le retrait pour épargner les autres de sa présence",
+      "veut être pardonné mais ne croit pas mériter de l'être"
+    ],
+    "manifestationsPhysiques": [
+      "sursaut ou tension extrême face à une situation rappelant l'événement",
+      "sommeil perturbé par des scénarios alternatifs en boucle",
+      "nausée ou oppression thoracique à l'évocation de l'incident",
+      "regard qui scrute l'environnement pour anticiper les dangers",
+      "difficulté à rester immobile dans des contextes où quelqu'un pourrait avoir besoin d'aide"
+    ],
+    "declencheurs": [
+      "voir quelqu'un en position de vulnérabilité similaire à celle de la personne qu'il n'a pas protégée",
+      "entendre parler d'un accident ou d'une violence évitable",
+      "être mis en position de responsabilité envers quelqu'un de vulnérable",
+      "une question sur l'événement passé, même indirecte",
+      "voir quelqu'un d'autre réussir là où il a échoué",
+      "un anniversaire ou un lieu lié à l'événement"
+    ],
+    "cheminsVersResolution": [
+      "trouver une situation où il protège quelqu'un avec succès et y croire vraiment",
+      "rencontrer la personne qu'il n'a pas protégée et entendre ce qu'elle en pense vraiment",
+      "comprendre que l'échec ne le définit pas entièrement et ne détermine pas l'avenir",
+      "accepter que certains événements ne pouvaient pas être prévenus quelle que soit son action"
+    ],
+    "impactRelationnel": [
+      "peut s'interdire d'aimer pour ne pas avoir à assumer la responsabilité de protéger",
+      "peut devenir surprotecteur et étouffant avec ceux à qui il tient",
+      "a du mal à accepter de l'aide, comme si demander de l'aide était une autre forme d'échec",
+      "peut attirer des personnes vulnérables en cherchant inconsciemment à réparer"
+    ],
+    "notesEditoriales": [
+      "Distinguer de la culpabilité du survivant : l'échec à protéger implique un moment d'action possible, réel ou perçu, et non simplement le fait de survivre.",
+      "Ce type de blessure crée des personnages souvent très fonctionnels en surface — la douleur est intérieure et rarement exhibée.",
+      "La résolution ne passe pas nécessairement par une 'rédemption' spectaculaire : parfois, c'est simplement accepter qu'on a fait ce qu'on pouvait avec ce qu'on savait."
+    ]
+  },
+  {
+    "id": "identite-niee",
+    "label": "Identité niée",
+    "famille": "effacement-invisibilite",
+    "definitionCourte": "Le personnage a vu une part fondamentale de lui-même — son identité de genre, sa sexualité, ses origines, ses croyances, sa langue ou sa culture — rejetée, effacée ou niée par son entourage proche ou par la société. On lui a dit, explicitement ou par le silence, qu'il devait être autre chose pour être acceptable. La blessure est celle d'un soi qui a dû se faire discret pour survivre.",
+    "originesPossibles": [
+      "identité de genre ou orientation sexuelle rejetée par la famille ou la communauté",
+      "langue maternelle ou culture d'origine interdite ou méprisée dans l'environnement de vie",
+      "croyances religieuses, politiques ou philosophiques condamnées dans le milieu familial",
+      "origines ethniques ou sociales niées ou dissimulées par honte familiale",
+      "personnalité jugée trop excentrique, sensible ou différente et constamment corrigée",
+      "identité professionnelle ou vocation réprimée au profit des attentes familiales",
+      "double vie imposée entre une identité publique et une identité privée incompatibles"
+    ],
+    "croyancesNegativesInduites": [
+      "Ce que je suis vraiment est inacceptable pour les personnes qui m'aiment.",
+      "Pour être aimé, je dois être quelqu'un d'autre.",
+      "Ma vraie identité est une charge pour ceux qui m'entourent.",
+      "Je n'ai pas le droit d'exister pleinement.",
+      "Si je montre qui je suis vraiment, je perdrai tout.",
+      "Il est dangereux d'être soi-même.",
+      "Je suis trop difficile, trop différent, trop compliqué."
+    ],
+    "peursCentrees": [
+      "peur d'être rejeté si son identité réelle est connue",
+      "peur de ne plus reconnaître qui il est après tant d'années de dissimulation",
+      "peur que revendiquer son identité détruise ses relations existantes",
+      "peur d'avoir intériorisé la honte au point de ne plus pouvoir s'en défaire",
+      "peur que son identité niée soit indissociable de la souffrance qui y est attachée"
+    ],
+    "comportementsDefensifs": [
+      "présente une version de lui-même calibrée pour être acceptable dans chaque contexte",
+      "évite les situations où les différentes facettes de son identité pourraient se croiser",
+      "peut rejeter lui-même des aspects de son identité pour anticiper le rejet des autres",
+      "développe une grande capacité à s'adapter au miroir que les autres lui tendent",
+      "peut attaquer ceux qui partagent son identité niée pour prendre ses distances",
+      "garde certains aspects de sa vie dans un secret absolu"
+    ],
+    "conflitsInternesTypiques": [
+      "veut vivre authentiquement mais a peur du coût que cela implique",
+      "aime parfois sa vie de surface et culpabilise de ne pas être plus revendicatif",
+      "est en colère contre ceux qui l'ont obligé à se cacher mais ne veut pas les perdre",
+      "ne sait parfois plus ce qui appartient à sa vraie identité et ce qui est le masque",
+      "ressent de l'envie et de l'admiration pour ceux qui vivent ouvertement ce qu'il cache"
+    ],
+    "manifestationsPhysiques": [
+      "inconfort physique dans les espaces où les deux aspects de son identité risquent de se croiser",
+      "légèreté corporelle rare dans les moments où il peut être pleinement lui-même",
+      "tension constante dans des contextes où la dissimulation est nécessaire",
+      "réaction physique vive — colère, tristesse, fierté — à la représentation de son identité niée",
+      "fatigue profonde liée au coût énergétique permanent de la gestion de l'image"
+    ],
+    "declencheurs": [
+      "voir quelqu'un vivre ouvertement ce qu'il doit cacher",
+      "une remarque ignorante ou hostile sur l'aspect de son identité qu'il dissimule",
+      "être dans un espace où son identité réelle serait impossible à maintenir",
+      "entendre quelqu'un être rejeté pour exactement ce qu'il est",
+      "un moment de proximité qui l'oblige à mentir ou à esquiver",
+      "un anniversaire ou un événement lié à une décision de dissimulation passée"
+    ],
+    "cheminsVersResolution": [
+      "trouver un espace ou une personne où son identité est reçue sans condition",
+      "découvrir une communauté qui partage cette identité et en tire de la fierté",
+      "choisir délibérément d'être visible dans un contexte où le coût lui semble acceptable",
+      "comprendre que vivre pour l'approbation de ceux qui l'ont nié lui coûte plus qu'il ne gagne"
+    ],
+    "impactRelationnel": [
+      "peut entretenir des relations intimes dans lesquelles une partie de lui reste invisible",
+      "peut chercher des partenaires ou amis qui partagent cette identité niée comme refuge",
+      "méfiant envers les gens qui semblent l'accepter trop facilement — attend le retournement",
+      "peut être un allié exceptionnel pour ceux dont l'identité est également marginalisée"
+    ],
+    "notesEditoriales": [
+      "Cette blessure est particulièrement puissante parce qu'elle touche non pas à un événement mais à une condition durable — ce que cela fait d'exister comme on est.",
+      "Éviter de réduire la résolution à un 'coming out' libérateur : l'identité niée peut prendre des formes qui n'ont pas de rituel de révélation évident.",
+      "La tension dramatique la plus riche de cette blessure est dans les moments où le personnage est sur le point d'être pleinement visible et choisit comment réagir."
+    ]
+  }
+]

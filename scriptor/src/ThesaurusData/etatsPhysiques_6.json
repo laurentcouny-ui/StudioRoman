@@ -1,0 +1,367 @@
+[
+  {
+    "id": "sensation-de-brulure",
+    "label": "Sensation de brûlure",
+    "groupe": "douleur-et-inconfort",
+    "definitionCourte": "Douleur chaude et vive qui peut venir d'une blessure, d'une inflammation, d'un frottement ou d'un état émotionnel intense. La brûlure est l'une des douleurs les plus difficiles à ignorer.",
+
+    "signesPhysiques": [
+      "peau rougie ou irritée à l'endroit concerné",
+      "mouvement instinctif pour éloigner la source ou protéger la zone",
+      "grimace ou pincement des traits",
+      "souffle coupé à l'intensité des pics",
+      "réflexe de souffler ou de passer de l'eau froide"
+    ],
+
+    "sensationsInternes": [
+      "chaleur vive qui pulse",
+      "impossible à ignorer — s'impose à la conscience",
+      "douleur qui empire au contact ou au mouvement",
+      "impression que la zone est plus grande que la blessure réelle"
+    ],
+
+    "effetsSurPerception": [
+      "concentration réduite — la douleur monopolise",
+      "irritabilité de fond proportionnelle à l'intensité",
+      "le temps semble plus long quand ça brûle"
+    ],
+
+    "effetsVoixLangage": [
+      "phrases plus courtes et plus directes",
+      "ton qui monte involontairement",
+      "peut couper une conversation pour gérer la douleur"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère irritation", "description": "Inconfort de fond. Le personnage s'en souvient quand il y pense." },
+      { "niveau": 2, "label": "Brûlure modérée", "description": "Présente en permanence. Gêne les mouvements." },
+      { "niveau": 3, "label": "Brûlure vive", "description": "Difficile à ignorer. Le personnage y revient constamment." },
+      { "niveau": 4, "label": "Douleur intense", "description": "Monopolise une partie de l'attention. Agit différemment sous la douleur." },
+      { "niveau": 5, "label": "Intolérable", "description": "Ne peut plus se concentrer sur autre chose. Réaction physique incontrôlable." }
+    ],
+
+    "notesEditoriales": [
+      "La brûlure physique peut être un miroir de la brûlure émotionnelle — à utiliser en parallèle avec parcimonie.",
+      "Distinguer de la douleur aiguë (qui est plus soudaine) : la brûlure dure et pulse."
+    ]
+  },
+  {
+    "id": "bouche-pateuse",
+    "label": "Bouche pâteuse",
+    "groupe": "inconfort-diffus",
+    "definitionCourte": "Bouche sèche, langue épaisse, goût amer ou neutre qui colle. Peut venir du manque de sommeil, de l'alcool, du stress, d'un médicament ou d'une déshydratation légère. Sensation mineure mais persistante.",
+
+    "signesPhysiques": [
+      "déglutition plus fréquente pour compenser",
+      "grimace discrète au goût",
+      "recherche instinctive d'eau ou de boisson",
+      "lèvres légèrement gercées ou collantes"
+    ],
+
+    "sensationsInternes": [
+      "langue qui colle un peu au palais",
+      "goût de rien — ou de quelque chose d'indéfinissable et pas agréable",
+      "besoin d'eau qui s'impose",
+      "inconfort de fond, pas invalidant"
+    ],
+
+    "effetsSurPerception": [
+      "le goût de la nourriture moins net",
+      "irritabilité légère — rien de précis mais tout est un peu plus agaçant",
+      "première pensée du matin souvent liée à ça — boire"
+    ],
+
+    "effetsVoixLangage": [
+      "voix légèrement plus rauque au réveil",
+      "débit un peu plus lent jusqu'à avoir bu"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère sécheresse", "description": "Envie de boire. Pas invalidant." },
+      { "niveau": 2, "label": "Bouche pâteuse", "description": "Inconfort notable. Le personnage cherche de l'eau." },
+      { "niveau": 3, "label": "Gorge sèche", "description": "Avaler coûte. La parole est moins fluide." },
+      { "niveau": 4, "label": "Déshydratation notable", "description": "Corps qui signale un manque urgent. Tête qui commence à peser." },
+      { "niveau": 5, "label": "Soif intense", "description": "Priorité sur tout le reste." }
+    ],
+
+    "notesEditoriales": [
+      "Utile pour ancrer une scène de réveil difficile, de lendemain d'effort ou d'alcool, ou de stress prolongé.",
+      "Détail concret qui rend un état général visible sans l'expliquer."
+    ]
+  },
+  {
+    "id": "pesanteur-diffuse",
+    "label": "Pesanteur diffuse",
+    "groupe": "epuisement",
+    "definitionCourte": "Lourdeur qui n'est pas localisée — les membres, le torse, la tête. Tout pèse un peu plus que d'habitude, sans douleur précise. Souvent la traduction physique d'un épuisement émotionnel ou d'un début de maladie.",
+
+    "signesPhysiques": [
+      "gestes plus lents et plus économiques",
+      "épaules légèrement tombantes",
+      "tête qui pend légèrement en avant",
+      "s'asseoir ou s'allonger à la moindre occasion",
+      "démarche qui traîne imperceptiblement"
+    ],
+
+    "sensationsInternes": [
+      "impression que les membres sont plus lourds qu'ils ne devraient",
+      "effort pour des gestes ordinaires",
+      "sensation de porter quelque chose d'invisible",
+      "manque d'élan — le corps ne suit pas ce que la tête voudrait faire"
+    ],
+
+    "effetsSurPerception": [
+      "tout semble plus loin et plus compliqué",
+      "lumière parfois perçue comme trop forte",
+      "sons qui arrivent avec un léger décalage"
+    ],
+
+    "effetsVoixLangage": [
+      "voix plus plate, moins modulée",
+      "silence plus fréquent",
+      "réponses plus courtes — l'effort de parler n'est pas négligeable"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Lassitude légère", "description": "Le corps manque d'entrain. Tout est faisable mais coûte un peu plus." },
+      { "niveau": 2, "label": "Pesanteur sensible", "description": "Se lever demande un effort. On s'assoit volontiers." },
+      { "niveau": 3, "label": "Lourdeur marquée", "description": "Les membres pèsent. Le personnage se déplace différemment." },
+      { "niveau": 4, "label": "Épuisement corporel", "description": "Même rester assis est éprouvant. Allongé est le seul confort." },
+      { "niveau": 5, "label": "Corps qui s'effondre", "description": "Ne peut plus se tenir debout. Le corps n'obéit plus." }
+    ],
+
+    "notesEditoriales": [
+      "À distinguer de la fatigue nerveuse (mentale) et de l'épuisement total (les deux à la fois) : ici c'est spécifiquement le corps qui pèse.",
+      "Utile pour montrer un état sans le nommer — les autres personnages le perçoivent dans les gestes avant que le personnage lui-même l'admette."
+    ]
+  },
+  {
+    "id": "depersonnalisation-legere",
+    "label": "Dépersonnalisation légère",
+    "groupe": "etats-alteres",
+    "definitionCourte": "Sentiment d'être légèrement en dehors de soi — de se regarder agir depuis une légère distance. Pas une dissociation pathologique : une expérience brève liée au manque de sommeil, au stress intense ou à la surcharge.",
+
+    "signesPhysiques": [
+      "regard légèrement vague — moins ancré dans la scène",
+      "gestes qui semblent se faire seuls",
+      "réponses en décalage — une demi-seconde de retard",
+      "mouvements plus mécaniques"
+    ],
+
+    "sensationsInternes": [
+      "impression d'être dans un rêve éveillé",
+      "sa propre voix qui semble venir d'ailleurs",
+      "sensations amorties — tout un peu moins présent",
+      "conscience de ne pas être tout à fait là — mais sans alarme"
+    ],
+
+    "effetsSurPerception": [
+      "monde qui semble légèrement irréel",
+      "sons et lumières moins nets — filtrés",
+      "temps qui s'étire ou se fragmente",
+      "mémoire de la scène moins précise après coup"
+    ],
+
+    "effetsVoixLangage": [
+      "ton légèrement monocorde",
+      "peut dire des choses qui sonnent juste sans les avoir tout à fait pensées",
+      "regard qui part entre les phrases"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère distance", "description": "Tout fonctionne, mais le personnage n'est pas totalement présent." },
+      { "niveau": 2, "label": "Flottement", "description": "Impression de se regarder faire. Légèrement déconcertant." },
+      { "niveau": 3, "label": "Dépersonnalisation", "description": "Sentiment net d'être en dehors de soi. Peut perturber l'action." },
+      { "niveau": 4, "label": "Dissociation", "description": "Le personnage agit mais ne se reconnaît pas vraiment. Difficile à maintenir." },
+      { "niveau": 5, "label": "Rupture du réel", "description": "Le monde et soi-même sont également irréels. Situation de crise." }
+    ],
+
+    "notesEditoriales": [
+      "La dépersonnalisation légère est un état très utile pour montrer l'effet du stress extrême ou du manque de sommeil sur la perception.",
+      "Elle offre un point de vue narratif particulier — le personnage observe sa propre scène.",
+      "À distinguer de l'ivresse et de la fièvre : ici le corps n'est pas en cause directement."
+    ]
+  },
+  {
+    "id": "peau-moite",
+    "label": "Peau moite",
+    "groupe": "manifestations-physiques-stress",
+    "definitionCourte": "Transpiration légère mais persistante qui rend la peau humide sans vraiment suer — liée à la chaleur, au stress, à la fièvre légère ou à l'effort contenu. Un inconfort discret mais révélateur.",
+
+    "signesPhysiques": [
+      "mains légèrement humides",
+      "front ou nuque qui brillent",
+      "vêtements qui collent légèrement",
+      "geste instinctif pour s'essuyer les mains ou le visage"
+    ],
+
+    "sensationsInternes": [
+      "impression d'être trop chaud sans être vraiment en sueur",
+      "inconfort de surface — la peau n'est pas à son aise",
+      "légère irritabilité physique de fond"
+    ],
+
+    "effetsSurPerception": [
+      "concentré sur l'inconfort de la peau au lieu d'autre chose",
+      "soif légère",
+      "conscience accrue de son propre corps"
+    ],
+
+    "effetsVoixLangage": [
+      "peut faire une pause pour s'essuyer — interruption discrète",
+      "peut noter l'inconfort à voix haute si la relation avec l'autre le permet"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère moiteur", "description": "Peau pas tout à fait sèche. À peine perceptible." },
+      { "niveau": 2, "label": "Mains humides", "description": "L'autre peut le sentir à la poignée de main. Le personnage le sait." },
+      { "niveau": 3, "label": "Moiteur marquée", "description": "Visage, nuque, paumes. Inconfort notable." },
+      { "niveau": 4, "label": "Transpiration de stress", "description": "Visible sur les vêtements. Le personnage cherche à le cacher." },
+      { "niveau": 5, "label": "Sueurs", "description": "Corps qui réagit fortement. Peut précéder un malaise." }
+    ],
+
+    "notesEditoriales": [
+      "La moiteur est un signal physique de stress difficile à masquer — l'autre le perçoit à la poignée de main ou au contact.",
+      "Utile en scène d'interrogatoire, de confrontation, d'enjeu élevé — le corps dit ce que les mots taisent."
+    ]
+  },
+  {
+    "id": "ventre-noue",
+    "label": "Ventre noué",
+    "groupe": "manifestations-physiques-stress",
+    "definitionCourte": "Tension abdominale liée au stress ou à l'anxiété — pas une douleur précise mais un resserrement au creux de l'estomac qui accompagne l'attente, la peur ou un enjeu important.",
+
+    "signesPhysiques": [
+      "main portée instinctivement vers le ventre",
+      "légère posture de protection — épaules légèrement rentrées",
+      "appétit réduit — l'idée de manger peu appétissante",
+      "gestes plus retenus"
+    ],
+
+    "sensationsInternes": [
+      "point de tension juste sous le sternum ou dans le bas du ventre",
+      "impression que l'estomac s'est contracté",
+      "mélange de malaise et d'état d'alerte",
+      "nourriture qui semble difficile à avaler"
+    ],
+
+    "effetsSurPerception": [
+      "attention portée vers l'intérieur — le corps capte l'attention",
+      "hypersensibilité à ce qui se passe autour",
+      "anticipation — le ventre noué arrive avant l'événement redouté"
+    ],
+
+    "effetsVoixLangage": [
+      "voix légèrement moins assurée",
+      "débit plus lent — les mots viennent avec plus de soin",
+      "peut mentionner le malaise physique si la situation le permet"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère tension", "description": "Présente mais gérable. Le personnage fonctionne normalement." },
+      { "niveau": 2, "label": "Ventre noué", "description": "L'enjeu est là. Le corps le signale clairement." },
+      { "niveau": 3, "label": "Crampe de stress", "description": "Difficile d'ignorer. Peut forcer une pause." },
+      { "niveau": 4, "label": "Nausée de stress", "description": "Proche de la nausée. Manger est impossible." },
+      { "niveau": 5, "label": "Réaction physique intense", "description": "Le corps se bloque. Peut vomir ou s'effondrer." }
+    ],
+
+    "notesEditoriales": [
+      "À distinguer de la nausée (plus diffuse, plus viscérale) : le ventre noué est plus localisé et plus directement lié à l'enjeu cognitif.",
+      "Le ventre noué est un signal d'anticipation — très utile dans les scènes qui précèdent un moment décisif."
+    ]
+  },
+  {
+    "id": "douleur-lombaire",
+    "label": "Douleur lombaire",
+    "groupe": "douleur-chronique-et-localise",
+    "definitionCourte": "Douleur dans le bas du dos — sourde et persistante ou vive à certains mouvements. Souvent liée à la posture, au stress, à la fatigue ou à des blessures. Elle s'impose dans les petits gestes du quotidien.",
+
+    "signesPhysiques": [
+      "main portée dans le bas du dos en se levant",
+      "grimace discrète aux changements de position",
+      "mouvement pour se lever ralenti et soutenu par les bras",
+      "posture légèrement modifiée — s'appuie d'un côté"
+    ],
+
+    "sensationsInternes": [
+      "douleur sourde qui s'allume à certains mouvements",
+      "raideur au lever — les premières minutes sont les pires",
+      "fatigue qui s'y ajoute — le dos qui tire use",
+      "anticipation des mouvements douloureux"
+    ],
+
+    "effetsSurPerception": [
+      "conscience aiguë de chaque position",
+      "irritabilité de fond — la douleur chronique use la patience",
+      "attention divisée entre l'activité et la gestion de la douleur"
+    ],
+
+    "effetsVoixLangage": [
+      "mention dans la conversation si la douleur s'intensifie",
+      "réponse plus sèche aux questions banales",
+      "peut refuser une activité sans l'expliquer — se lever, marcher longtemps"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Raideur matinale", "description": "Les premières minutes, puis ça passe." },
+      { "niveau": 2, "label": "Douleur de fond", "description": "Présente mais gérée. Le personnage s'est adapté." },
+      { "niveau": 3, "label": "Douleur lombaire", "description": "Gêne les mouvements et l'attention. Difficile d'ignorer." },
+      { "niveau": 4, "label": "Douleur aiguë", "description": "Certains gestes sont impossibles. Le personnage contourne." },
+      { "niveau": 5, "label": "Blocage", "description": "Ne peut plus se déplacer normalement. Chaque geste est une négociation." }
+    ],
+
+    "notesEditoriales": [
+      "La douleur lombaire est l'une des douleurs chroniques les plus communes — utile pour ancrer un personnage dans un corps qui a une histoire.",
+      "Elle révèle l'âge, le métier ou le passé physique sans les nommer directement.",
+      "La façon dont un personnage gère (ou nie) sa douleur de dos en dit long sur lui."
+    ]
+  },
+  {
+    "id": "hypoglycemie",
+    "label": "Hypoglycémie",
+    "groupe": "etats-physiologiques",
+    "definitionCourte": "Chute du sucre dans le sang — faiblesse soudaine, tremblements, difficultés de concentration, irritabilité. L'hypoglycémie arrive souvent à un mauvais moment et met le corps hors circuit partiellement.",
+
+    "signesPhysiques": [
+      "tremblements fins des mains",
+      "peau qui pâlit légèrement",
+      "transpiration légère sans chaleur",
+      "gestes moins précis",
+      "recherche de quelque chose à manger avec une urgence contenue"
+    ],
+
+    "sensationsInternes": [
+      "tête qui tourne légèrement",
+      "faiblesse dans les jambes — elles portent mais ça demande un effort",
+      "faim soudaine et urgente",
+      "cerveau qui ralentit — les mots viennent moins vite",
+      "impression que le monde perd légèrement de sa netteté"
+    ],
+
+    "effetsSurPerception": [
+      "concentration réduite brusquement",
+      "irritabilité soudaine — sur des choses qui ne l'auraient pas affecté deux minutes avant",
+      "priorité absolue : manger quelque chose"
+    ],
+
+    "effetsVoixLangage": [
+      "ton plus cassant ou plus plat selon la personnalité",
+      "peut interrompre une conversation pour chercher à manger",
+      "explique rarement — répond 'j'ai besoin de manger'"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère baisse", "description": "Faim et légère irritabilité. Gérable." },
+      { "niveau": 2, "label": "Fringale", "description": "Le corps réclame. Difficile de se concentrer sur autre chose." },
+      { "niveau": 3, "label": "Hypoglycémie", "description": "Tremblements, pâleur, tête qui tourne. Doit s'asseoir et manger." },
+      { "niveau": 4, "label": "Faiblesse marquée", "description": "Ne peut plus fonctionner normalement. Urgence alimentaire." },
+      { "niveau": 5, "label": "Malaise", "description": "Peut perdre connaissance. Situation d'urgence médicale." }
+    ],
+
+    "notesEditoriales": [
+      "L'hypoglycémie est un état physique utile narrativement parce qu'il survient à un mauvais moment et force le personnage à s'arrêter.",
+      "Elle révèle qui dans l'entourage remarque et prend soin — et qui n'a pas fait attention.",
+      "Fréquente chez les personnages qui ne mangent pas régulièrement par stress, oubli ou refus."
+    ]
+  }
+]

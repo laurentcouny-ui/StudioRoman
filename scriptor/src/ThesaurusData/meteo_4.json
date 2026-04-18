@@ -1,0 +1,452 @@
+[
+  {
+    "id": "grele",
+    "label": "Grêle",
+    "type": "précipitation-violente",
+    "definitionCourte": "Chute soudaine de grêlons — billes de glace qui s'abattent avec un bruit de mitraille, brisent ce qu'elles trouvent et s'arrêtent aussi brutalement qu'elles ont commencé.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur de pierre froide et mouillée",
+        "air soudain glacé qui tranche avec la chaleur d'avant",
+        "odeur de végétation brisée — herbe écrasée, feuilles froissées"
+      ],
+      "auditifs": [
+        "crépitement violent sur les toits de tôle, les vitres, les capots — bruit de grains de riz sur une caisse",
+        "silence dans la rue : les gens s'arrêtent ou courent sans parler",
+        "tintement aigu des grêlons sur le métal",
+        "bruit sourd sur la terre et l'herbe — plus mat que sur les surfaces dures"
+      ],
+      "visuels": [
+        "sol blanchi en quelques secondes, comme une neige sale et inégale",
+        "grêlons qui rebondissent sur le trottoir — mouvement de billes chaotique",
+        "voitures et branches courbées sous l'impact",
+        "ciel qui vire au jaune-vert juste avant — lumière étrange et inquiétante"
+      ],
+      "tactiles": [
+        "impact douloureux si on est exposé — petite brûlure glacée sur la peau",
+        "froid brutal et immédiat qui pénètre les vêtements",
+        "vibration sous les pieds si la grêle est forte sur une surface dure"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "stupeur instinctive — la grêle force le réflexe de protection sans laisser le temps de penser",
+      "sens aigu du danger physique même sans danger réel — le corps réagit à l'impact",
+      "sentiment d'être pris en faute — dehors au mauvais moment, sans protection",
+      "ironie involontaire si le personnage vient juste de sortir",
+      "complicité forcée avec les gens proches — tout le monde cherche le même abri"
+    ],
+    "emotionsTypiques": [
+      "stupeur mêlée d'un certain émerveillement face à la violence du phénomène",
+      "sentiment de vulnérabilité soudaine",
+      "humour noir — la grêle a quelque chose d'absurde dans sa brutalité courte",
+      "soulagement intense quand ça s'arrête"
+    ],
+    "usagesNarratifs": [
+      "interruption brutale d'une scène — la grêle coupe un moment en deux",
+      "métaphore d'un événement soudain et dévastateur qui ne dure pas longtemps",
+      "révélateur de caractère : qui protège l'autre, qui abandonne le premier, qui rit",
+      "complicité forcée sous un abri improvisé — peut créer une intimité inattendue",
+      "destruction concrète qui marque physiquement un espace — la voiture abîmée, le jardin détruit"
+    ],
+    "contraste": "S'arrête aussi brutalement qu'elle commence — le contraste avant/après est très fort et utile pour marquer une rupture narrative. Le silence qui suit est presque irréel.",
+    "notesEditoriales": [
+      "La grêle est brève — ne pas la faire durer narrativement plus qu'elle ne dure réellement.",
+      "Son absurdité violente peut être jouée comiquement ou dramatiquement selon le contexte.",
+      "Utile pour interrompre une scène tendue par un élément extérieur non symbolique — la grêle ne 'veut' rien dire, ce qui peut être reposant."
+    ]
+  },
+  {
+    "id": "vent-de-nuit-froid",
+    "label": "Vent de nuit froid",
+    "type": "vent",
+    "definitionCourte": "Vent qui se lève quand le silence de la nuit amplifie chaque bruit — il fouille les rues vides, secoue les enseignes, s'infiltre sous les portes.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur froide et propre — l'air de nuit n'a pas encore été respiré par d'autres",
+        "odeur de terre froide si on est à la campagne",
+        "parfois odeur de fumée de cheminée portée de loin"
+      ],
+      "auditifs": [
+        "gémissement dans les câbles et les fils électriques — son plaintif et continu",
+        "claquement intermittent d'un volet ou d'une porte mal fermée",
+        "bruissement amplifié des feuilles dans l'obscurité — difficile à localiser",
+        "silence entre les rafales qui rend le bruit suivant plus surprenant"
+      ],
+      "visuels": [
+        "ombres mouvantes des branches sur les murs et le sol",
+        "papiers et détritus qui roulent dans la rue vide",
+        "lumières qui tremblent légèrement dans le vent",
+        "ciel de nuit qui semble plus vaste quand rien ne tient en place"
+      ],
+      "tactiles": [
+        "froid qui s'infiltre sous les vêtements par les poignets et le cou",
+        "visage que le vent assèche — picotement sur les joues",
+        "difficulté à tenir un papier, une cigarette, quelque chose de léger"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "sentiment d'être le seul éveillé dans un monde endormi — solitude amplifiée",
+      "vigilance instinctive — chaque bruit est identifié, suivi, classifié",
+      "impression d'être observé par quelque chose d'invisible",
+      "liberté paradoxale — la nuit et le vent donnent l'impression d'être hors du monde ordinaire",
+      "corps qui se referme sur lui-même — épaules remontées, pas plus rapides"
+    ],
+    "emotionsTypiques": [
+      "solitude qui peut être douce ou oppressante selon l'état du personnage",
+      "mélancolie nocturne amplifiée par le mouvement incessant",
+      "légère inquiétude sur ce qu'on ne voit pas",
+      "sentiment de liberté nocturne pour ceux qui l'ont cherchée"
+    ],
+    "usagesNarratifs": [
+      "scène de nuit extérieure où le personnage est seul avec ses pensées",
+      "création d'une atmosphère de menace latente sans ennemi visible",
+      "transition narrative entre deux moments — le vent de nuit comme entre-deux",
+      "errance nocturne d'un personnage qui fuit ou cherche",
+      "présage sonore — le vent annonce quelque chose sans le dire"
+    ],
+    "contraste": "Le vent de nuit froid s'arrête à l'aube — son absence au matin crée un silence reposant ou inquiétant selon ce qui s'est passé. Contraste fort avec la chaleur intérieure d'une pièce éclairée.",
+    "notesEditoriales": [
+      "Le vent de nuit fonctionne bien comme fond sonore d'une scène intérieure — il rend perceptible l'extérieur sans qu'on y soit.",
+      "Éviter d'en faire un simple décor de film d'horreur — il peut aussi être doux, libérateur, ou neutre.",
+      "Un personnage qui sort par vent de nuit froid fait quelque chose d'inhabituel — le vent justifie cet écart du quotidien."
+    ]
+  },
+  {
+    "id": "calme-apres-orage",
+    "label": "Calme après l'orage",
+    "type": "transition-météo",
+    "definitionCourte": "Le moment qui suit immédiatement l'orage — le silence soudain, l'air lavé, la lumière revenue. Un monde qui reprend conscience de lui-même.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "pétrichor intense — odeur de terre mouillée et d'air électrifié",
+        "odeur fraîche et propre qui efface tout ce qui était étouffant avant",
+        "parfois odeur d'ozone légère après la foudre — métallique et propre"
+      ],
+      "auditifs": [
+        "silence soudain qui contraste avec le tonnerre d'avant — presque irréel",
+        "gouttes qui tombent encore des arbres en cadence irrégulière",
+        "reprise progressive des bruits — oiseaux, voitures, voix — comme un réveil lent",
+        "eau qui ruisselle encore dans les gouttières et sur les trottoirs"
+      ],
+      "visuels": [
+        "lumière revenue d'un coup — ciel plus clair, couleurs saturées après la grisaille",
+        "reflets dans les flaques qui reflètent le premier bleu",
+        "feuilles brillantes, lourdes d'eau, qui scintillent",
+        "vapeur légère qui monte du bitume chaud"
+      ],
+      "tactiles": [
+        "air frais et humide qui entre dans les poumons différemment",
+        "sol glissant par endroits — précaution dans les gestes",
+        "légère fraîcheur sur la peau après l'humidité lourde d'avant"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "soulagement physique immédiat — le corps se détend après la tension de l'orage",
+      "sentiment d'un nouveau départ possible — quelque chose vient de se terminer",
+      "légèreté inhabituelle qui peut être mal à l'aise si la situation intérieure ne suit pas",
+      "conscience aiguë du présent — le monde est net, lavé, précis",
+      "envie de sortir, de marcher, de recommencer quelque chose"
+    ],
+    "emotionsTypiques": [
+      "soulagement mêlé d'une légèreté presque fragile",
+      "sentiment de renaissance ou de possible",
+      "ironie si l'état intérieur ne correspond pas à la clarté extérieure",
+      "gratitude douce pour le retour de la normalité"
+    ],
+    "usagesNarratifs": [
+      "transition après une scène de crise ou de tension maximale — le calme qui suit",
+      "parallèle ou décalage avec un état intérieur encore en désordre",
+      "moment de reprise après un événement important — le monde continue",
+      "ouverture vers une scène d'action ou de décision prise dans la clarté retrouvée",
+      "symbolique de fin de cycle — ce qui était en train de se passer est terminé"
+    ],
+    "contraste": "Le contraste avec l'orage qui précède est maximal et peut être joué explicitement ou suggéré. Le calme après l'orage a quelque chose d'artificiel dans sa perfection — utile si on veut suggérer que rien n'est vraiment réglé.",
+    "notesEditoriales": [
+      "Attention au symbolisme trop évident : le calme après l'orage comme résolution narrative est un cliché à manier avec ironie ou en le déjouant.",
+      "Plus efficace si quelque chose ne correspond pas : le personnage triste dans le calme parfait, ou l'inverse.",
+      "La vapeur sur le bitume chaud est un détail rare et précis qui ancre la scène mieux qu'une description générale."
+    ]
+  },
+  {
+    "id": "aube-hivernale",
+    "label": "Aube hivernale",
+    "type": "moment-du-jour",
+    "definitionCourte": "Les premières minutes après l'aube en hiver — lumière blanche-grise qui ne chauffe pas encore, silence intact, monde qui n'a pas encore repris ses bruits habituels.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "air froid et sans odeur — l'hiver neutralise les parfums",
+        "parfois odeur de givre sur les surfaces exposées",
+        "fumée de cheminée qui monte verticalement dans l'air immobile"
+      ],
+      "auditifs": [
+        "silence presque total — pas de voitures, pas de voix, juste quelques oiseaux rares",
+        "craquement du gel sous les semelles",
+        "bruit lointain d'un moteur qui démarre dans le froid",
+        "sonnerie d'un réveil qui semble appartenir à un autre monde"
+      ],
+      "visuels": [
+        "lumière grise et plate qui ne projette pas d'ombres",
+        "souffle visible dans l'air froid",
+        "surfaces couvertes de givre qui attrapent la lumière",
+        "ciel entre le bleu nuit et le blanc — ni l'un ni l'autre encore"
+      ],
+      "tactiles": [
+        "froid qui pique aux narines et aux oreilles dès qu'on sort",
+        "air qui brûle légèrement dans les poumons",
+        "surface froide d'une fenêtre contre le front"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "sentiment d'être hors du temps normal — ni nuit ni jour, ni ici ni ailleurs",
+      "lucidité particulière liée à l'effort — être debout à cette heure coûte quelque chose",
+      "isolement doux ou pesant selon les raisons d'être levé si tôt",
+      "impression de voir le monde avant qu'il soit habité — propriété provisoire du dehors",
+      "corps encore entre le sommeil et l'éveil — les pensées sont nettes mais le corps suit mal"
+    ],
+    "emotionsTypiques": [
+      "solitude volontaire ou subie — l'aube hivernale accentue l'une et l'autre",
+      "mélancolie tranquille ou espoir discret selon ce que le personnage attend",
+      "sentiment de précéder le monde — d'avoir une avance sur quelque chose",
+      "froid intérieur qui répond au froid extérieur"
+    ],
+    "usagesNarratifs": [
+      "départ très tôt — fugue, voyage, urgence — dont le contexte est dit par le décor",
+      "personnage insomniaque ou angoissé qui regarde l'aube depuis l'intérieur",
+      "début d'une scène de résolution — se lever très tôt comme acte de volonté",
+      "atmosphère de secret — quelque chose se passe avant que les autres se réveillent",
+      "contraste avec la chaleur intérieure — dehors froid, dedans chaud, fenêtre entre les deux"
+    ],
+    "contraste": "Contraste très fort avec le plein jour animé qui viendra dans deux heures. Le personnage à l'aube hivernale est dans un moment suspendu qui n'appartient pas encore à la journée.",
+    "notesEditoriales": [
+      "Le souffle visible dans l'air froid est un détail simple et très efficace pour ancrer le corps dans cette heure.",
+      "L'aube hivernale est une heure solitaire presque par définition — attention à ne pas la surcharger de personnages.",
+      "Elle fonctionne bien comme ouverture de récit : elle pose d'emblée un monde difficile, beau, et exigeant."
+    ]
+  },
+  {
+    "id": "brouillard-automne-tardif",
+    "label": "Brouillard d'automne tardif",
+    "type": "brouillard",
+    "definitionCourte": "Brouillard de fin d'automne — plus épais que la brume printanière, il s'installe pour des heures et ne se lève pas toujours de la journée. Il efface les distances et les repères.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur d'humidité froide mêlée à la décomposition des feuilles mortes",
+        "odeur de terre humide et de champignons dans les espaces verts",
+        "parfois odeur de fumée dissoute dans le brouillard — légère et douce"
+      ],
+      "auditifs": [
+        "sons qui arrivent de nulle part — portés et déformés par l'humidité",
+        "corne de brume ou signal sonore au loin, irréel et hors du temps",
+        "pas assourdis sur les feuilles mouillées",
+        "voix qui s'entendent sans qu'on voie leur source"
+      ],
+      "visuels": [
+        "lumières des lampadaires transformées en halos orangés sans direction",
+        "silhouettes qui apparaissent et disparaissent à quelques mètres",
+        "sol mouillé qui réfléchit une lumière diffuse sans source identifiable",
+        "arbres dont on ne voit que les troncs — les cimes ont disparu"
+      ],
+      "tactiles": [
+        "humidité qui s'installe sur les vêtements et les cheveux sans avoir plu",
+        "froid humide plus pénétrant que le froid sec",
+        "gouttelettes sur le visage — pas des gouttes, juste de l'air presque liquide"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "sentiment de déplacement dans un espace réduit — le monde rétrécit à quelques mètres",
+      "attention accrue aux sons car la vue est limitée",
+      "sentiment que ce qui est hors de portée du regard n'existe pas encore",
+      "légère désorientation — même les lieux familiers deviennent incertains",
+      "ralentissement involontaire — on ne marche pas vite dans le brouillard"
+    ],
+    "emotionsTypiques": [
+      "mélancolie de fin d'année, de ce qui se termine",
+      "inquiétude douce ou forte selon l'état du personnage",
+      "impression d'être hors du temps — ni le passé ni le futur ne sont accessibles",
+      "isolement consenti ou subi"
+    ],
+    "usagesNarratifs": [
+      "scène de rencontre ou de départ dans laquelle les enjeux sont flous — comme la visibilité",
+      "poursuite ou fuite dans laquelle le brouillard change les rapports de force",
+      "atmosphère de deuil ou de transition — quelque chose est en train de se terminer",
+      "rétrécissement du monde autour d'un personnage isolé",
+      "révélation retardée — le brouillard cache ce qu'on ne verra qu'après"
+    ],
+    "contraste": "S'oppose à la clarté nette d'un froid sec hivernal. Le brouillard d'automne tardif est une météo de flou — utile quand la situation narrative est elle-même floue ou en transition.",
+    "notesEditoriales": [
+      "Le brouillard d'automne est différent de la brume printanière — il est plus épais, plus froid, moins poétique.",
+      "Éviter l'usage systématique pour les scènes de mystère — le brouillard peut aussi être un fond ordinaire d'une journée banale.",
+      "Les halos de lumière dans le brouillard sont un détail visuel fort et précis — préférer ça à 'le brouillard était épais'."
+    ]
+  },
+  {
+    "id": "chaleur-estivale-ordinaire",
+    "label": "Chaleur douce d'une journée d'été ordinaire",
+    "type": "chaleur",
+    "definitionCourte": "Pas la canicule — juste une belle journée d'été chaude, lumineuse, où le temps semble avoir suspendu son cours. La chaleur qui permet, pas celle qui opprime.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur d'herbe chauffée par le soleil — sèche et légèrement sucrée",
+        "crème solaire et transpiration légère",
+        "odeur d'asphalte tiède dans les rues en plein soleil",
+        "fleurs ouvertes, sève, parfum d'arbres fruitiers si on est à la campagne"
+      ],
+      "auditifs": [
+        "insectes — cigales, bourdons, criquets selon la région",
+        "sons lointains portés par l'air chaud — rire d'enfant, musique, moteur de tondeuse",
+        "silence de sieste dans les heures les plus chaudes",
+        "eau d'une fontaine ou d'une rivière — son clair et permanent"
+      ],
+      "visuels": [
+        "lumière directe et nette qui aplatit les ombres",
+        "ciel d'un bleu uniforme et profond",
+        "tremblements de l'air au-dessus du bitume chauffé",
+        "couleurs saturées — vert vif, ocre, blanc aveuglant"
+      ],
+      "tactiles": [
+        "chaleur positive sur la peau — pas brûlante, juste enveloppante",
+        "sueur légère qui perle sans incommoder",
+        "surface chaude d'un mur, d'une pierre au soleil",
+        "air frais d'une pièce sombre en contraste avec le dehors"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "ralentissement du corps et de la pensée qui peut être bienvenu ou frustrant",
+      "disponibilité sensorielle accrue — on remarque plus dans la chaleur douce",
+      "impression que le temps coule différemment — plus lentement, plus généreusement",
+      "bien-être physique qui rend les tensions moins aiguës",
+      "nostalgie possible — les journées d'été ordinaires portent souvent des souvenirs d'enfance"
+    ],
+    "emotionsTypiques": [
+      "bien-être simple et peu narrativisé — difficile à habiter pour un personnage en tension",
+      "nostalgie douce de ces journées qui ne durent pas",
+      "légèreté qui peut être un contraste utile avec un état intérieur lourd",
+      "désir sans objet précis — l'été ordinaire donne envie de quelque chose d'indéfini"
+    ],
+    "usagesNarratifs": [
+      "contraste avec une crise intérieure — le monde est beau et le personnage ne peut pas en profiter",
+      "scène de pause narrative — moment de respiration entre deux tensions",
+      "souvenirs d'enfance ou de jeunesse qui remontent dans la chaleur",
+      "romanesque estival — rencontre, déclaration, promenade",
+      "ironie si quelque chose de grave se passe par une si belle journée"
+    ],
+    "contraste": "S'oppose à la canicule oppressive et à l'automne qui arrive. Sa normalité est sa force narrative — ce n'est pas une journée exceptionnelle, c'est l'ordinaire de l'été, ce qui la rend nostalgique par nature.",
+    "notesEditoriales": [
+      "La chaleur ordinaire d'été est sous-utilisée au profit de la canicule — elle a une nuance plus légère et plus nostalgique.",
+      "Attention à ne pas en faire un décor de carte postale vide — choisir deux ou trois détails sensoriels précis plutôt qu'une liste.",
+      "Fonctionne bien en ironie ou en contraste — la belle journée qui accueille quelque chose de douloureux."
+    ]
+  },
+  {
+    "id": "premiere-neige",
+    "label": "Première neige de la saison",
+    "type": "neige",
+    "definitionCourte": "La première neige — pas celle qui tient, souvent, mais celle qui annonce. Elle transforme le monde pendant quelques heures avant de fondre, comme si elle posait une question.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur propre et froide de l'air avant la neige — l'air sent différemment",
+        "absence d'odeur dans le silence neigeux — la neige absorbe les parfums aussi",
+        "odeur de laine humide et de vêtements d'hiver sortis pour la première fois"
+      ],
+      "auditifs": [
+        "silence particulier de la neige — les sons sont étouffés, moins réverbérés",
+        "crissement doux des premiers pas dans la neige fraîche",
+        "bruit caractéristique de la neige qu'on enlève d'une voiture",
+        "voix des enfants — la première neige les fait sortir"
+      ],
+      "visuels": [
+        "lumière blanche et diffuse qui ne vient d'aucune direction particulière",
+        "flocons visibles dans le contre-jour des lampadaires",
+        "monde simplifié — les détails disparaissent sous le blanc uniforme",
+        "empreintes fraîches dans la neige vierge — traces d'animaux, de pas"
+      ],
+      "tactiles": [
+        "flocon sur la main — froid, léger, qui disparaît en touchant la peau",
+        "neige sous les semelles qui cède légèrement",
+        "froid sec et vif différent du froid humide d'avant la neige"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "régression douce vers l'enfance — la première neige touche quelque chose d'antérieur",
+      "suspension du quotidien — la ville change de règles sous la neige",
+      "sentiment de recommencement — le blanc comme métaphore non dite",
+      "légèreté ou mélancolie selon le contexte de vie du personnage",
+      "conscience aiguë de ce moment précis, avant que la neige soit écrasée et sale"
+    ],
+    "emotionsTypiques": [
+      "émerveillement qui peut sembler enfantin mais qui est universel",
+      "mélancolie douce pour ceux qui associent la neige à une absence",
+      "joie simple qui désarme brièvement",
+      "anxiété pratique si la neige complique la vie — transport, sécurité"
+    ],
+    "usagesNarratifs": [
+      "marqueur temporel — la première neige dit que l'année bascule",
+      "moment de grâce dans un récit difficile — une pause",
+      "révélateur de l'état du personnage — qui s'arrête, qui lève les yeux, qui continue sans voir",
+      "rencontre ou rapprochement facilité par la surprise commune du décor",
+      "contraste avec quelque chose de sombre qui se passe par cette nuit de première neige"
+    ],
+    "contraste": "La première neige a une pureté fragile que la neige durcie n'a plus — utile pour les moments d'ouverture, pas les moments de stagnation. Elle fond souvent le lendemain — métaphore utile de la fragilité d'un moment.",
+    "notesEditoriales": [
+      "La première neige est un cliché en puissance — l'utiliser avec discernement ou le déjouer.",
+      "Son efficacité est dans la réaction du personnage, pas dans la description de la neige elle-même.",
+      "Un personnage qui ne remarque pas la première neige en dit plus sur son état que mille lignes de monologue intérieur."
+    ]
+  },
+  {
+    "id": "pluie-de-printemps-tiede",
+    "label": "Pluie de printemps tiède",
+    "type": "pluie",
+    "definitionCourte": "Pluie légère et tiède de printemps — pas celle qui mouille vraiment, celle qui fait éclore. Elle tombe doucement sur un monde qui recommence.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "pétrichor printanier — plus doux que celui de l'été, mêlé de sève et d'herbe fraîche",
+        "odeur de terre dégelée, prête à recevoir quelque chose",
+        "parfum des fleurs que la pluie libère — lilas, forsythia, cerisier"
+      ],
+      "auditifs": [
+        "ruissellement léger — la pluie de printemps chuchote plus qu'elle ne martèle",
+        "gouttelettes sur les feuilles naissantes — son plus délicat que sur les feuilles d'été",
+        "oiseaux qui chantent pendant la pluie légère — ils ne s'arrêtent pas",
+        "eau qui court dans les caniveaux sans urgence"
+      ],
+      "visuels": [
+        "gouttes qui perlent sur les bourgeons — petites lentilles transparentes",
+        "herbe d'un vert intense, saturé par l'humidité",
+        "ciel nacré — gris clair et lumineux en même temps",
+        "reflets dans les flaques qui incluent les premières fleurs"
+      ],
+      "tactiles": [
+        "pluie presque tiède sur les mains — surprise agréable",
+        "cheveux qui s'humidifient doucement sans être vraiment mouillés",
+        "sol meuble sous les pieds — la terre accepte l'eau"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "sentiment de permission — la nature fait quelque chose qui donne envie d'en faire autant",
+      "légèreté du corps après les mois d'hiver — même le temps est moins lourd",
+      "nostalgie printanière — chaque printemps rappelle tous ceux qu'on a traversés",
+      "désir de rester dehors malgré la pluie — elle ne repousse pas, elle invite",
+      "clarté mentale douce — la pluie légère est propice aux décisions tranquilles"
+    ],
+    "emotionsTypiques": [
+      "espoir presque physique — quelque chose recommence",
+      "mélancolie douce pour ce qui est derrière",
+      "bien-être sans raison précise mais ancré dans les sens",
+      "gratitude envers quelque chose d'indéfini"
+    ],
+    "usagesNarratifs": [
+      "ouverture d'un arc narratif nouveau — le printemps comme métaphore de recommencement",
+      "scène de réconciliation ou de début de quelque chose",
+      "état de grâce intérieure d'un personnage qui commence à aller mieux",
+      "contraste ironique si quelque chose de triste se passe pendant cette pluie légère",
+      "promenade ou moment de plein air qui favorise une conversation importante"
+    ],
+    "contraste": "S'oppose au crachin persistant qui détrait sans donner. La pluie de printemps tiède nourrit — elle est active, pas oppressive. S'oppose également à la pluie battante de l'automne dans son énergie et sa signification.",
+    "notesEditoriales": [
+      "La pluie de printemps est l'une des rares météos intrinsèquement positives — à utiliser avec conscience car elle crée des attentes narratives.",
+      "L'odeur est sa caractéristique la plus forte — les descriptions visuelles seules passent à côté de l'essentiel.",
+      "Fonctionne bien en ouverture d'une scène de résolution ou de retournement positif."
+    ]
+  }
+]

@@ -1,0 +1,561 @@
+[
+  {
+    "id": "superette-de-nuit",
+    "label": "Supérette ouverte la nuit",
+    "type": "urbain-commerce",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "lumière froide et crue dans toute la surface",
+      "rayons serrés — espace entre deux épaules",
+      "caissier unique derrière une vitre de protection",
+      "frigos de bière et sodas qui ronronnent contre le mur",
+      "distributeur de billets intégré parfois",
+      "stock réduit et désorganisé — la nuit n'est pas le temps du réassort",
+      "écran de surveillance visible depuis la caisse"
+    ],
+    "bruits": [
+      "tintement de l'entrée à chaque client",
+      "ronronnement constant des réfrigérateurs",
+      "radio ou télé allumée pour le caissier",
+      "transaction — bip et ticket"
+    ],
+    "odeurs": [
+      "produits d'entretien trop présents — nettoyage récent",
+      "nourriture réchauffée si four à micro-ondes disponible",
+      "bière légèrement renversée autour des frigos"
+    ],
+    "textures": [
+      "carrelage froid et lessivé",
+      "panier en plastique léger",
+      "produit froid sorti du frigo"
+    ],
+    "emotionsTypiques": [
+      "solitude partagée entre le caissier et les clients de nuit",
+      "légère gêne de ce qu'on achète seul à deux heures du matin",
+      "sentiment d'un monde parallèle fonctionnant quand l'autre dort"
+    ],
+    "usagesNarratifs": [
+      "rencontre entre personnages qui n'ont pas de raison d'être là en même temps",
+      "détail révélateur — ce qu'on achète seul la nuit",
+      "espace de normalité dans une nuit qui ne l'est pas",
+      "caissier comme témoin passif de toutes les nuits de la ville"
+    ],
+    "tensionsTypiques": [
+      "tentative de vol — le caissier seul n'est pas en position de résister",
+      "client ivre ou agressif",
+      "rupture de stock d'une chose urgente"
+    ],
+    "variantesPerception": [
+      {"profil": "Caissier de nuit", "description": "Il a vu défiler toute la ville en quatre heures. Les insomniaques, les fêtards, les travailleurs de nuit. Il les reconnaît par type. La vitre de protection lui donne une distance."},
+      {"profil": "Insomniaque", "description": "Il est sorti pour avoir une raison de sortir. Le lait était un prétexte. Il reste plus longtemps que nécessaire. La lumière et le bruit sont un fond de présence."},
+      {"profil": "Personnage après une rupture ou une mauvaise nouvelle", "description": "Il achète quelque chose — n'importe quoi. L'acte ordinaire dit que le monde continue. Le caissier ne remarque rien."}
+    ],
+    "notesEditoriales": [
+      "La supérette de nuit est un des rares espaces où la classe sociale disparaît — tout le monde y passe pour les mêmes raisons élémentaires.",
+      "Ce qu'on achète la nuit dit quelque chose : alcool, glace, médicaments, tabac. Le détail du produit est narrativement révélateur."
+    ]
+  },
+  {
+    "id": "epicerie-de-quartier",
+    "label": "Épicerie de quartier",
+    "type": "urbain-commerce",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "fruits et légumes sur des étals à l'extérieur en journée",
+      "étagères chargées jusqu'au plafond — tout est disponible quelque part",
+      "comptoir où le commerçant trône et conseille",
+      "produits du pays d'origine en rayon — importations spécifiques",
+      "caisse manuelle ou ancienne",
+      "clientèle du quartier qui se connaît entre elle",
+      "enfants du patron qui jouent ou font leurs devoirs au fond"
+    ],
+    "bruits": [
+      "sonnette de la porte — omniprésente",
+      "conversation entre le patron et un habitué — en cours à chaque entrée",
+      "télé ou radio en fond — souvent dans la langue du patron",
+      "bruit de la caisse qui s'ouvre et se ferme"
+    ],
+    "odeurs": [
+      "fruits mûrs à l'extérieur",
+      "épices si rayon spécialisé",
+      "produits d'entretien et de ménage en rayon — fort et chimique"
+    ],
+    "textures": [
+      "fruits et légumes qu'on peut toucher et choisir",
+      "carton des emballages alimentaires",
+      "billet qu'on rend sans terminal de carte parfois"
+    ],
+    "emotionsTypiques": [
+      "chaleur humaine d'un commerce qui se souvient de vous",
+      "sentiment d'appartenance au quartier par les achats",
+      "dépaysement si produits étrangers inconnus"
+    ],
+    "usagesNarratifs": [
+      "espace de sociabilité de quartier — on y apprend les nouvelles",
+      "révélateur de la composition sociale du quartier",
+      "lieu de conflit ou de solidarité selon les tensions du quartier",
+      "transmission intergénérationnelle — enfants qui reprennent le commerce"
+    ],
+    "tensionsTypiques": [
+      "ouverture contestée par la grande distribution voisine",
+      "dette d'un client habituel qui s'accumule",
+      "réglementation sur les prix ou les horaires qui n'est pas respectée"
+    ],
+    "variantesPerception": [
+      {"profil": "Habitant du quartier de longue date", "description": "Le patron connaît son prénom, ses habitudes, ses goûts. L'épicerie est un lieu de passage et de sociabilité — pas seulement d'achat."},
+      {"profil": "Nouveau arrivant dans le quartier", "description": "Il vient pour un dépannage. Le patron lui parle comme à un habitué potentiel. C'est une négociation d'appartenance implicite."},
+      {"profil": "Enfant du patron", "description": "Le magasin est sa maison et son univers. Il en connaît chaque recoin, chaque habitué. Il commence à aider — il sera là dans vingt ans, ou il sera parti."}
+    ],
+    "notesEditoriales": [
+      "L'épicerie de quartier dit le quartier — sa composition sociale, ses origines, ses tensions. L'inventaire des produits est un portrait de la clientèle.",
+      "La dette au comptoir — on note, on paie plus tard — est une institution sociale qui dit la confiance et ses limites."
+    ]
+  },
+  {
+    "id": "pharmacie-de-garde",
+    "label": "Pharmacie de garde",
+    "type": "urbain-commerce",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "volet partiellement fermé — on sonne pour être servi",
+      "guichet étroit ouvert dans le volet",
+      "lumière intérieure visible dans la nuit",
+      "croix verte clignotante sur la façade",
+      "pharmacien visible depuis l'extérieur — seul dans le magasin",
+      "ordonnance ou boîte passée sous la grille",
+      "liste des pharmacies de garde affichée sur la porte"
+    ],
+    "bruits": [
+      "sonnette prolongée — on attend qu'on réponde",
+      "verrou qui s'ouvre de l'intérieur",
+      "pharmacien qui cherche dans les rayons",
+      "voiture garée devant qui tourne — conducteur qui attend le client"
+    ],
+    "odeurs": [
+      "médicament et produit pharmaceutique — odeur froide et clinique",
+      "désinfectant",
+      "nuit froide depuis l'extérieur"
+    ],
+    "textures": [
+      "grille froide entre les mains",
+      "boîte de médicament froide et légère",
+      "ordonnance froissée passée sous le guichet"
+    ],
+    "emotionsTypiques": [
+      "urgence — on ne vient pas à la pharmacie de nuit sans raison",
+      "soulagement de trouver le médicament",
+      "légère honte parfois selon ce qu'on vient chercher"
+    ],
+    "usagesNarratifs": [
+      "urgence médicale ou moment de crise qui nécessite ce déplacement",
+      "révélation — ce qu'on achète en urgence à trois heures du matin",
+      "pharmacien de nuit comme confident involontaire",
+      "scène de solitude — maladie de nuit dans un appartement vide"
+    ],
+    "tensionsTypiques": [
+      "médicament non disponible — il faut chercher une autre pharmacie",
+      "ordonnance illisible ou expirée",
+      "urgence qui ne peut pas attendre mais pharmacie fermée"
+    ],
+    "variantesPerception": [
+      {"profil": "Pharmacien de garde", "description": "Il a vu toutes les urgences de la nuit. La grippe, la coupure, la pilule du lendemain. Il sert sans juger mais il a développé une typographie des clients de nuit."},
+      {"profil": "Parent avec enfant malade", "description": "Il est sorti vite, mal habillé, l'ordonnance dans la poche. Il sonne. Il attend. Chaque seconde compte subjectivement."},
+      {"profil": "Personne seule qui n'a pas pu attendre le matin", "description": "La honte légère de ce qu'on vient chercher se lit dans la façon de parler — rapide, sans détails, yeux baissés."}
+    ],
+    "notesEditoriales": [
+      "La pharmacie de garde est l'un des rares services ouverts la nuit qui répond à une urgence médicale — ce qu'on y achète dit une situation.",
+      "Le guichet dans le volet est un dispositif de sécurité qui crée une distance physique narrative — on ne entre pas, on passe par une fente."
+    ]
+  },
+  {
+    "id": "tabac-presse",
+    "label": "Tabac-presse",
+    "type": "urbain-commerce",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "journaux et magazines alignés en éventail sur les présentoirs",
+      "étagères de cigarettes derrière le comptoir — rangées réglementées",
+      "terminal de loterie — grattages en attente",
+      "Loto, PMU, FDJ selon les panneaux",
+      "bar si PMU-tabac — quelques tabourets hauts",
+      "client habituel accoudé au comptoir depuis l'ouverture",
+      "patron qui compte sa monnaie sans regarder"
+    ],
+    "bruits": [
+      "sonnette ou carillon à l'entrée",
+      "coin-coin de la machine à gratter",
+      "résultats sportifs sur l'écran — fond sonore permanent",
+      "conversation du patron avec le premier client — déjà lancée à l'arrivée"
+    ],
+    "odeurs": [
+      "tabac — même sans fumée, l'odeur est partout",
+      "café de la machine ou du bar si PMU",
+      "encre des journaux frais le matin"
+    ],
+    "textures": [
+      "ticket à gratter entre les doigts — carton léger",
+      "journal épais du dimanche — différent des jours de semaine",
+      "monnaie rendue sans compter — le patron connaît ses prix"
+    ],
+    "emotionsTypiques": [
+      "appartenance à un quartier — on reconnaît les habitués",
+      "rituel de la presse quotidienne",
+      "espoir du grattage — petit et réel"
+    ],
+    "usagesNarratifs": [
+      "espace d'information locale — rumeurs, nouvelles du quartier",
+      "rituel du matin pour un personnage solitaire",
+      "grattage comme métaphore de l'espoir ordinaire",
+      "patron comme personnage pivot de la sociabilité"
+    ],
+    "tensionsTypiques": [
+      "client qui a gagné — et dont le comportement change",
+      "dépendance au jeu d'un habitué",
+      "fermeture de la boutique — fin d'un repère du quartier"
+    ],
+    "variantesPerception": [
+      {"profil": "Habitué quotidien", "description": "Il prend son journal sans demander — le patron le met de côté. Ils échangent quelques mots sur la météo ou l'actualité. C'est son premier vrai contact humain de la journée."},
+      {"profil": "Joueur compulsif", "description": "Il gratte dans la boutique, debout, immédiatement. Il gagne rarement mais revient toujours. Le patron le voit arriver et prépare les billets."},
+      {"profil": "Touriste", "description": "Il ne comprend pas les codes — le PMU, le grattage, les cartes téléphoniques. Il prend un magazine en français. Il ressort vite."}
+    ],
+    "notesEditoriales": [
+      "Le tabac-presse est l'un des derniers commerces de proximité réellement multifonctionnel — il dit le quartier et l'époque.",
+      "L'espace PMU est un microcosme social particulier — espoir, argent, masculinité. À ne pas réduire à la caricature."
+    ]
+  },
+  {
+    "id": "kebab-de-nuit",
+    "label": "Kebab ouvert la nuit",
+    "type": "urbain-commerce",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "broche verticale qui tourne devant le feu — gras et dorée",
+      "lumière forte à l'intérieur visible depuis la rue",
+      "file qui s'allonge après la fermeture des bars",
+      "cartes du monde découpées sur les murs",
+      "glacière à boissons devant",
+      "cuisinier en tablier qui travaille à vue",
+      "odeur qui déborde dans la rue — à dix mètres"
+    ],
+    "bruits": [
+      "couperet qui tranche la viande — son régulier et sec",
+      "huile qui grésille dans les friteuses",
+      "conversations de la file — alcoolisées, bruyantes, tardives",
+      "musique si radio allumée — souvent orientale ou variété"
+    ],
+    "odeurs": [
+      "viande grillée et épices — fort et reconnaissable à distance",
+      "friture",
+      "sauces — ail, harissa"
+    ],
+    "textures": [
+      "pain pita chaud dans les mains",
+      "sauce qui coule sur les doigts",
+      "sol collant de la fréquentation de nuit"
+    ],
+    "emotionsTypiques": [
+      "soulagement de la faim après une longue nuit",
+      "convivialité de la file nocturne — l'attente est sociale",
+      "légère familiarité avec le personnel — ils voient tout le monde à cet état-là"
+    ],
+    "usagesNarratifs": [
+      "fin de soirée — le kebab dit qu'on est passé par là",
+      "mélange social nocturne — tout le monde y mange",
+      "moment de vérité dans une nuit — on est qui on est en mangeant seul à trois heures",
+      "rencontre entre personnages de milieux différents"
+    ],
+    "tensionsTypiques": [
+      "incident dans la file — alcool et faim font mauvais ménage",
+      "fermeture imminente — dernier service",
+      "client qui demande quelque chose qui n'est pas sur le menu"
+    ],
+    "variantesPerception": [
+      {"profil": "Serveur qui fait ses nuits", "description": "Il a servi cinq cents personnes cette semaine, toutes au même état. Il est rapide, efficace, invisible. Il juge en une seconde."},
+      {"profil": "Fêtard à la fin de sa nuit", "description": "Le kebab est le dernier acte avant de rentrer. La faim est réelle. Il mange debout, sur le trottoir. La nuit a été bonne ou mauvaise — le kebab s'en fiche."},
+      {"profil": "Solitaire qui sort de son appartement à une heure", "description": "Il est venu pour voir des gens. Il prend un sandwich, mange lentement. La file devant lui est un spectacle suffisant."}
+    ],
+    "notesEditoriales": [
+      "Le kebab de nuit est une institution sociale nocturne — il mixe les classes et les états. Sa neutralité sociale est réelle.",
+      "L'odeur de viande grillée à trois heures du matin dans une rue vide est un détail d'atmosphère urbaine très précis."
+    ]
+  },
+  {
+    "id": "boulangerie-matin",
+    "label": "Boulangerie à l'ouverture",
+    "type": "urbain-commerce",
+    "dominanteSensorielle": "olfactif-thermique",
+    "elements": [
+      "devanture qui s'allume dans la nuit finissante",
+      "pain sorti du four — encore chaud dans les bacs",
+      "queue qui commence avant l'ouverture par les habitués",
+      "baguettes alignées verticalement dans leur panier",
+      "viennoiseries sous verre — croissants, pains au chocolat",
+      "boulanger qu'on entrevoit au fond à travers la vitre du fournil",
+      "caisse qui s'ouvre sur des pièces et des billets de faibles coupures"
+    ],
+    "bruits": [
+      "porte à grelot qui sonne à chaque client",
+      "froissement du papier qui emballe la baguette",
+      "conversation courte et répétée — bonjour, merci, au revoir",
+      "son du fournil — chaleur et mécaniques de façonnage"
+    ],
+    "odeurs": [
+      "pain chaud — une des odeurs les plus universellement aimées",
+      "beurre des viennoiseries en cuisson",
+      "café si bar-boulangerie"
+    ],
+    "textures": [
+      "baguette chaude et croustillante sous le bras",
+      "croûte qui se brise sous les doigts",
+      "sac en papier légèrement humide de chaleur"
+    ],
+    "emotionsTypiques": [
+      "plaisir simple et répété — rituel matinal valorisé",
+      "sentiment de communauté locale autour d'une pratique partagée",
+      "urgence du pain pour le petit-déjeuner qui attend"
+    ],
+    "usagesNarratifs": [
+      "rituel révélateur d'une vie ordinaire — le personnage qui achète sa baguette chaque matin",
+      "rencontre entre habitués du quartier",
+      "rupture du rituel — quelqu'un manque à la queue",
+      "premier geste de normalité après une nuit de crise"
+    ],
+    "tensionsTypiques": [
+      "boulangerie fermée pour congés — rupture du rituel",
+      "dernière baguette vendue avant qu'on arrive",
+      "prix qui augmente sans explication — friction ordinaire"
+    ],
+    "variantesPerception": [
+      {"profil": "Habitué de longue date", "description": "La boulangère lui met sa baguette de côté si c'est l'heure. Il arrive, il paie, il repart. L'échange dure vingt secondes. C'est l'une de ses relations les plus constantes."},
+      {"profil": "Boulanger qui finit sa nuit", "description": "Sa journée de travail se termine quand celle des autres commence. Il voit les premiers clients après des heures de solitude et de four. La queue est le signe que la nuit est terminée."},
+      {"profil": "Étranger dans le quartier", "description": "La queue devant la boulangerie dit quelque chose sur le quartier — qui vit là, à quelle heure ils se lèvent. Il observe, achète une viennoiserie, sort."}
+    ],
+    "notesEditoriales": [
+      "La boulangerie française est un marqueur culturel fort — inutile de le souligner, mieux vaut le montrer dans l'ordinaire.",
+      "L'odeur du pain chaud est un déclencheur de mémoire involontaire presque universel — à utiliser avec cette conscience."
+    ]
+  },
+  {
+    "id": "librairie-de-quartier",
+    "label": "Librairie de quartier",
+    "type": "urbain-commerce",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "rayon serrés du sol au plafond — livres partout",
+      "tables de présentation avec sélection du libraire",
+      "post-its manuscrits — recommandations personnelles",
+      "lumière chaude, différente des commerces ordinaires",
+      "espace de caisse souvent encombré de nouveautés",
+      "chaise ou coin lecture discret si grande librairie",
+      "libraire qu'on entend avant de le voir — il range"
+    ],
+    "bruits": [
+      "silence particulier — papier, tissu, pas feutrés",
+      "conversation du libraire avec un client — conseils longs",
+      "pages qu'on feuillette debout avant d'acheter",
+      "caisse silencieuse — pas de bip de lecteur de code"
+    ],
+    "odeurs": [
+      "livre neuf — papier, colle, encre",
+      "livre ancien si rayon d'occasion",
+      "chaleur calme — l'espace est tempéré pour les livres"
+    ],
+    "textures": [
+      "couverture cartonnée dans la main",
+      "pages qu'on tourne — légères et lisses",
+      "tranche des livres sous les doigts"
+    ],
+    "emotionsTypiques": [
+      "plaisir du choix illimité — ou paralysie devant l'offre",
+      "sentiment de protection — on peut rester longtemps sans acheter",
+      "rapport au libraire — conseiller ou intrus selon le personnage"
+    ],
+    "usagesNarratifs": [
+      "rencontre entre deux clients que le même livre rassemble",
+      "libraire comme guide ou obstacle dans une quête",
+      "lieu de retraite pour un personnage qui fuit le monde",
+      "révélateur des goûts et de l'identité — ce qu'on cherche dit qui on est"
+    ],
+    "tensionsTypiques": [
+      "livre introuvable — épuisé, non réédité",
+      "libraire qui oriente trop — pression de recommandation",
+      "menace de fermeture — le quartier va perdre quelque chose"
+    ],
+    "variantesPerception": [
+      {"profil": "Lecteur fidèle de la librairie", "description": "Il connaît le libraire, les coins, les habitudes. Il prend un livre au hasard parfois — il lui fait confiance pour que ça vaille le coup."},
+      {"profil": "Personne qui entre par hasard", "description": "Il ne lisait plus depuis des années. Il entre pour s'abriter de la pluie. Un titre l'accroche. Il repart avec quelque chose qu'il n'avait pas prévu."},
+      {"profil": "Libraire", "description": "Il a lu une partie de ce qu'il vend. Il connaît ses clients par leurs goûts. La recommandation est une forme d'intimité qu'il prend au sérieux."}
+    ],
+    "notesEditoriales": [
+      "La librairie indépendante est un espace de résistance — elle survit contre la logique du marché. Cette dimension est en fond narratif.","L'odeur du livre neuf est une expérience sensorielle précise et difficile à décrire — chaque couverture sent légèrement différemment."
+    ]
+  },
+  {
+    "id": "friperie",
+    "label": "Friperie et boutique de seconde main",
+    "type": "urbain-commerce",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "vêtements entassés par couleur ou par taille",
+      "odeur caractéristique — vieux tissu, lessive et temps",
+      "cabines d'essayage avec rideau insuffisant",
+      "étagères de chaussures dépareillées",
+      "bijoux fantaisie dans un bac — à fouiller",
+      "caisse où on négocie parfois le prix",
+      "clientèle diverse — mode vintage, budget contraint, chercheurs de l'introuvable"
+    ],
+    "bruits": [
+      "cintres qui glissent sur la tringle — métal sur métal",
+      "conversation entre deux clientes qui se conseillent",
+      "musique indie ou rétro souvent — cohérence avec l'ambiance",
+      "porte qui claque si entrée sans ventouse"
+    ],
+    "odeurs": [
+      "vieux tissu — la signature olfactive reconnaissable entre toutes",
+      "lessive ou adoucissant si pièces lavées avant vente",
+      "cuir des vieux sacs et ceintures"
+    ],
+    "textures": [
+      "tissu qui a déjà vécu — plus doux ou plus rigide selon l'usure",
+      "couture décousue sous les doigts",
+      "étiquette de prix inscrite à la main"
+    ],
+    "emotionsTypiques": [
+      "plaisir de la chasse — on ne sait pas ce qu'on va trouver",
+      "sentiment de mémoire — ces vêtements ont appartenu à quelqu'un",
+      "légère compétition si deux personnes visent le même article"
+    ],
+    "usagesNarratifs": [
+      "révélateur du rapport à l'argent et à la mode du personnage",
+      "lieu de transformation — se choisir une nouvelle identité vestimentaire",
+      "objet narratif particulier trouvé dans les vêtements usagés",
+      "rencontre entre deux personnes qui fouillent le même bac"
+    ],
+    "tensionsTypiques": [
+      "deux clients qui veulent le même article unique",
+      "article vendu trop cher pour ce qu'il est",
+      "vêtement avec une histoire inconnue qui trouble"
+    ],
+    "variantesPerception": [
+      {"profil": "Chasseuse de vintage", "description": "Elle sait ce qu'elle cherche — une marque, une époque, un style. Elle fouille méthodiquement, vite. Elle repère les bonnes pièces avant les autres."},
+      {"profil": "Étudiant à budget limité", "description": "Il a besoin de vêtements, pas de mode. Il cherche ce qui tiendra longtemps et coûte peu. La friperie est une nécessité, pas une découverte."},
+      {"profil": "Personne qui vient pour la première fois", "description": "L'odeur l'arrête une seconde. Puis il commence à fouiller. Dix minutes plus tard, il a trouvé quelque chose qu'il ne cherchait pas. Il comprend."}
+    ],
+    "notesEditoriales": [
+      "L'objet trouvé dans les poches d'un vêtement d'occasion est un détail narratif fort — un ticket de caisse, une photo, une note.",
+      "La friperie est à la fois démocratique et élitiste — populaire par nécessité et tendance par mode. Cette ambiguïté sociale est exploitable."
+    ]
+  },
+  {
+    "id": "marche-aux-puces",
+    "label": "Marché aux puces",
+    "type": "urbain-commerce",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "stands serrés le long d'allées étroites",
+      "mélange de vrai et de faux — la même table peut contenir les deux",
+      "vendeur qui sommeille ou bavarde — entre deux clients",
+      "objets posés à même le sol ou sur des tréteaux",
+      "affichage de prix en carton ou à la craie",
+      "visiteurs qui fouillent dans les cartons avec soin",
+      "odeur de vieux, de métal et de graisse"
+    ],
+    "bruits": [
+      "brouhaha général — voix, négociations, radios",
+      "objet en métal qu'on repose — carillon accidentel",
+      "vendeur qui interpelle un passant",
+      "marchandage en cours — deux voix qui cherchent un accord"
+    ],
+    "odeurs": [
+      "vieux — tissu, bois, métal et temps",
+      "huile et graisse si outillage ancien",
+      "nourriture du stand de sandwichs à l'entrée"
+    ],
+    "textures": [
+      "objet inconnu entre les mains — poids et matière non identifiés",
+      "tissu ancien — usure et chaleur",
+      "métal patiné — différent du métal neuf"
+    ],
+    "emotionsTypiques": [
+      "plaisir de la découverte — ce qui n'a pas de valeur peut en avoir une",
+      "nostalgie des objets qui évoquent un passé",
+      "légère méfiance — qu'est-ce qui est vrai ?"
+    ],
+    "usagesNarratifs": [
+      "objet narratif découvert par hasard — déclencheur d'un récit",
+      "rencontre entre personnages très différents autour d'un même objet",
+      "portrait d'une époque à travers ce qu'elle a laissé",
+      "vendeur comme personnage-mémoire de ce qu'il vend"
+    ],
+    "tensionsTypiques": [
+      "vol dans la foule — l'inattention est la règle",
+      "faux vendu comme authentique",
+      "objet reconnu comme appartenant à quelqu'un de connu"
+    ],
+    "variantesPerception": [
+      {"profil": "Chineur expérimenté", "description": "Il est arrivé à l'ouverture. Il sait quel stand cache des pièces. Il negocie sans s'impliquer émotionnellement — c'est une affaire."},
+      {"profil": "Touriste qui passe", "description": "Il cherche quelque chose de typique à rapporter. Il finit par acheter un objet dont il ne connaît pas l'usage, parce que le vendeur lui a raconté une histoire."},
+      {"profil": "Personne en deuil", "description": "Elle cherche quelque chose qui ressemble à ce que sa mère avait. Elle trouve presque. Elle le prend."}
+    ],
+    "notesEditoriales": [
+      "Le marché aux puces est un musée de l'ordinaire — ce qu'une époque a gardé dit autant que ce qu'elle a détruit.",
+      "La négociation au marché aux puces est un rituel social — elle crée un lien éphémère et équitable entre vendeur et acheteur."
+    ]
+  },
+  {
+    "id": "laverie-automatique",
+    "label": "Laverie automatique",
+    "type": "urbain-commerce",
+    "dominanteSensorielle": "sonore-thermique",
+    "elements": [
+      "rangées de machines à laver et de séchoirs",
+      "bancs en plastique ou en métal devant les hublots",
+      "distributeur de lessive et de monnaie",
+      "affichage des tarifs et des modes d'emploi",
+      "hublot circulaire — les vêtements qui tournent",
+      "panier en osier ou en plastique des clients",
+      "tables pour plier le linge en sortie de séchoir"
+    ],
+    "bruits": [
+      "machines en cycle — bruit différent selon la phase",
+      "vibreur du séchoir — alarme de fin de cycle",
+      "monnaie dans le distributeur",
+      "silence relatif entre les cycles — seuls les clients présents"
+    ],
+    "odeurs": [
+      "lessive et assouplissant — forte et artificielle",
+      "air chaud des séchoirs",
+      "humidité de linge mouillé à la sortie des machines"
+    ],
+    "textures": [
+      "banc dur — la laverie n'invite pas à rester plus que nécessaire",
+      "linge chaud sorti du séchoir",
+      "pièce de monnaie froide"
+    ],
+    "emotionsTypiques": [
+      "attente passive et sans but — le cycle impose l'immobilité",
+      "légère intimité des objets personnels exposés",
+      "moment de suspension dans une vie — on ne peut rien faire d'autre"
+    ],
+    "usagesNarratifs": [
+      "rencontre entre deux inconnus qui ont deux heures devant eux",
+      "portrait social — la laverie dit qu'on n'a pas de machine chez soi",
+      "temps mort propice à la confidence ou à la révélation",
+      "détail révélateur — ce qu'on lave en laverie dit sa vie"
+    ],
+    "tensionsTypiques": [
+      "machine déjà pleine au retour — quelqu'un a pris son linge",
+      "panne de machine avec linge à l'intérieur",
+      "manque de monnaie pour finir le cycle"
+    ],
+    "variantesPerception": [
+      {"profil": "Étudiant sans machine à soi", "description": "Il vient le dimanche matin. Il a son livre, son casque, ses pièces. Il connaît le timing par cœur. C'est une heure et demie de pause forcée."},
+      {"profil": "Travailleur de nuit qui vient en journée", "description": "La laverie est vide en semaine en matinée. Il apprécie. Il somnole sur le banc entre les cycles. Les machines le veillent."},
+      {"profil": "Personne âgée sans machine en panne", "description": "Elle a transporté son linge à bout de bras. Elle ne sait pas trop comment ça marche. Elle demande à la personne d'à côté. Une conversation s'installe."}
+    ],
+    "notesEditoriales": [
+      "La laverie impose la présence d'étrangers avec leur linge — leurs habits révèlent leur vie, involontairement.",
+      "L'attente en laverie est une des rares pauses forcées de la vie urbaine — sans écran, sans obligation, juste les machines qui tournent."
+    ]
+  }
+]

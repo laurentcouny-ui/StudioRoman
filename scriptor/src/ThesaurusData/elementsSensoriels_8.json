@@ -1,0 +1,589 @@
+[
+  {
+    "id": "lumiere-fin-apres-midi",
+    "label": "Lumière de fin d'après-midi",
+    "categorie": "visuel",
+    "definitionCourte": "Lumière dorée, oblique et chaude des heures précédant le coucher du soleil, qui allonge les ombres et teinte les visages et les objets d'une douceur particulière.",
+    "qualite": "Chaude et oblique, légèrement orangée — une lumière qui flatte ce qu'elle touche tout en annonçant qu'elle va disparaître. Elle ne dure jamais.",
+    "associationsNarratives": [
+      "fin de quelque chose — d'une journée, d'une époque",
+      "beauté transitoire",
+      "moment suspendu avant une décision",
+      "nostalgie et plénitude mêlées",
+      "vieillissement ou déclin visible dans ce contexte"
+    ],
+    "emotionsAssociees": [
+      "nostalgie",
+      "mélancolie douce",
+      "paix fragile",
+      "conscience de la finitude",
+      "tendresse"
+    ],
+    "memoires": [
+      "derniers étés d'enfance avant la rentrée",
+      "promenades tardives avec quelqu'un de disparu",
+      "retour à pied d'un lieu heureux",
+      "une terrasse, une conversation qui n'en finissait pas"
+    ],
+    "usagesTypiques": [
+      "souligner la beauté d'un moment qui finit",
+      "créer une atmosphère de réconfort teinté de tristesse",
+      "marquer visuellement une transition dans l'arc narratif",
+      "offrir un contraste avec un contenu dramatique"
+    ],
+    "contraires": [
+      "lumiere-neon-froid",
+      "lumiere-grise-matin-brumeux",
+      "obscurite-totale"
+    ],
+    "combinaisons": [
+      "avec bruit-pluie-vitre : mélancolie profonde, fin d'une saison intérieure",
+      "avec odeur-herbe-mouilee : moment parfait et éphémère, bonheur qu'on sait fragile",
+      "avec texture-tissu-use : tendresse pour quelque chose d'usé et aimé malgré tout",
+      "avec son-porte-grince : maison familiale en fin de journée, passé présent dans chaque détail"
+    ],
+    "notesEditoriales": [
+      "Cette lumière est l'une des plus chargées symboliquement — à utiliser avec intention.",
+      "Associée à la fin du jour, elle prend naturellement une coloration de fin.",
+      "Elle peut rendre beau ce qui est en train de se perdre — un outil puissant pour les scènes d'adieu."
+    ]
+  },
+  {
+    "id": "bruit-pluie-vitre",
+    "label": "Bruit de pluie sur une vitre",
+    "categorie": "sonore",
+    "definitionCourte": "Son régulier et variable des gouttes sur le verre — clapotis léger ou tambourinement fort selon l'intensité — associé à l'intérieur protégé et au dehors menaçant.",
+    "qualite": "Irrégulier et continu à la fois — chaque goutte frappe à son rythme mais l'ensemble forme un fond constant. Un son qui isole et enveloppe simultanément.",
+    "associationsNarratives": [
+      "intimité intérieure",
+      "séparation entre soi et le monde",
+      "réflexion solitaire",
+      "attente",
+      "emprisonnement doux ou oppressant selon le contexte"
+    ],
+    "emotionsAssociees": [
+      "mélancolie",
+      "solitude confortable ou lourde",
+      "nostalgie",
+      "apaisement",
+      "légère anxiété si associé à l'attente"
+    ],
+    "memoires": [
+      "journées de pluie passées à lire ou rêver",
+      "attendre quelqu'un qui ne venait pas",
+      "conversations intimes forcées par le mauvais temps",
+      "chambre d'enfance les jours de pluie"
+    ],
+    "usagesTypiques": [
+      "créer une bulle de silence habité dans une scène intérieure",
+      "souligner la séparation d'un personnage du reste du monde",
+      "accompagner une réflexion ou une décision solitaire",
+      "ancrer une scène dans un espace fermé"
+    ],
+    "contraires": [
+      "chaleur-silence-exterieur",
+      "lumiere-fin-apres-midi",
+      "odeur-herbe-mouilee"
+    ],
+    "combinaisons": [
+      "avec chaleur-radiateur : cocon hivernal parfait, solitude choisie et confortable",
+      "avec odeur-vieux-livres : après-midi studieux ou rêveur, hors du temps",
+      "avec pas-couloir-vide : isolement oppressant, quelque chose attend de l'autre côté",
+      "avec lumiere-fin-apres-midi : fin de journée pluvieuse, beauté triste de l'ordinaire"
+    ],
+    "notesEditoriales": [
+      "Ce son est universel et immédiatement lisible — à utiliser sans explication.",
+      "Son pouvoir est dans le contraste : dehors il pleut, dedans c'est différent.",
+      "La variation d'intensité peut accompagner l'évolution émotionnelle d'une scène."
+    ]
+  },
+  {
+    "id": "odeur-vieux-livres",
+    "label": "Odeur de vieux livres",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur douce, légèrement vanillée et poussiéreuse du papier jauni et du cuir vieilli, associée aux bibliothèques anciennes et au savoir accumulé.",
+    "qualite": "Douce, légèrement vanillée avec une note de poussière et de cuir — une odeur rassurante qui dit que du temps a passé ici, que des mains ont tenu ces objets.",
+    "associationsNarratives": [
+      "bibliothèque privée ou publique ancienne",
+      "héritage intellectuel",
+      "enfance heureuse passée à lire",
+      "secrets et histoires oubliés",
+      "maison d'un homme de lettres ou d'un collectionneur"
+    ],
+    "emotionsAssociees": [
+      "nostalgie",
+      "réconfort",
+      "curiosité",
+      "sentiment de protection",
+      "appartenance à quelque chose de durable"
+    ],
+    "memoires": [
+      "bibliothèque municipale de l'enfance",
+      "odeur de la maison d'un grand-parent lettré",
+      "première fois dans une librairie ancienne",
+      "livres hérités dont on n'a jamais lu la fin"
+    ],
+    "usagesTypiques": [
+      "signaler un lieu de connaissance ou de mémoire",
+      "ancrer un souvenir d'enfance chez un personnage lecteur",
+      "créer une atmosphère de continuité et de temps long",
+      "offrir un contraste avec un espace moderne et impersonnel"
+    ],
+    "contraires": [
+      "odeur-plastique-neuf",
+      "odeur-desinfectant",
+      "odeur-nourriture-brulee"
+    ],
+    "combinaisons": [
+      "avec lumiere-fin-apres-midi : bibliothèque en fin de journée, temps suspendu entre deux époques",
+      "avec bruit-pluie-vitre : après-midi parfait de lecture, hors du monde et heureux",
+      "avec froid-metal : archives institutionnelles, savoir conservé dans des espaces froids",
+      "avec chaleur-radiateur : bibliothèque hivernale, refuge intellectuel contre le dehors"
+    ],
+    "notesEditoriales": [
+      "Cette odeur est presque universellement positive pour ceux qui lisent — à utiliser pour créer un espace rassurant.",
+      "Elle peut déclencher un souvenir involontaire très précis chez un personnage.",
+      "Concrétiser l'odeur par une description plus précise renforce l'effet."
+    ]
+  },
+  {
+    "id": "froid-metal",
+    "label": "Froid du métal",
+    "categorie": "tactile",
+    "definitionCourte": "Contact froid et précis d'une surface métallique — arme, barre, clé, chaîne, poignée — qui saisit immédiatement les nerfs de la peau.",
+    "qualite": "Immédiat et sans ambiguïté — le métal froid ne s'apprivoise pas, il saisit. Une sensation qui ancre dans le présent le plus concret.",
+    "associationsNarratives": [
+      "arme ou objet de contrainte",
+      "espace industriel ou carcéral",
+      "danger ou violence potentielle",
+      "froideur et dureté dans le rapport à l'autre",
+      "réalité soudainement très concrète"
+    ],
+    "emotionsAssociees": [
+      "peur",
+      "alerte",
+      "dégoût",
+      "froideur",
+      "résignation selon le contexte"
+    ],
+    "memoires": [
+      "premières menottes ou poignées de porte de commissariat",
+      "clé froide dans la serrure un soir d'hiver",
+      "barre d'une cage ou d'une grille d'enfance",
+      "objet trouvé à la main d'un mort ou d'un blessé"
+    ],
+    "usagesTypiques": [
+      "ancrer physiquement une scène de danger ou de tension",
+      "signaler par le toucher ce que l'œil n'a pas encore vu",
+      "créer un contraste avec la chaleur d'un contact précédent",
+      "matérialiser la dureté d'un moment ou d'un environnement"
+    ],
+    "contraires": [
+      "chaleur-radiateur",
+      "texture-tissu-use",
+      "temperature-eau-chaude"
+    ],
+    "combinaisons": [
+      "avec odeur-renferme : espace carcéral ou lieu de rétention, enfermement total",
+      "avec pas-couloir-vide : couloir d'institution la nuit, menace qui approche",
+      "avec odeur-fumee-froide : espace sinistré, seul le métal tient quand tout a brûlé",
+      "avec froid-penetrant : exposition prolongée, le corps commence à renoncer"
+    ],
+    "notesEditoriales": [
+      "Le froid du métal est une des sensations les plus immédiatement connotées — à utiliser avec précision.",
+      "Il peut signaler un danger avant même que le personnage le reconnaisse consciemment.",
+      "À combiner avec un silence ou une respiration retenue pour maximiser l'effet."
+    ]
+  },
+  {
+    "id": "odeur-fumee-froide",
+    "label": "Odeur de fumée froide",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur âcre et persistante laissée par un feu éteint — bois, tissu, papier consumés — qui imprègne les vêtements, les murs et la mémoire.",
+    "qualite": "Âcre, pénétrante et tenace — une odeur qui colle aux cheveux, aux vêtements, aux murs. Elle dit que quelque chose a brûlé et que ça ne reviendra pas.",
+    "associationsNarratives": [
+      "incendie passé ou récent",
+      "destruction et après",
+      "lieu sinistré ou abandonné",
+      "violence ou catastrophe laissée derrière",
+      "personnage qui porte quelque chose de consumé"
+    ],
+    "emotionsAssociees": [
+      "malaise",
+      "tristesse",
+      "peur rétrospective",
+      "perte",
+      "deuil d'un lieu"
+    ],
+    "memoires": [
+      "lendemain d'un incendie dans l'enfance",
+      "odeur de vêtements proches du feu un soir de camping",
+      "lieu détruit qu'on visite trop tard",
+      "quelqu'un qui rentre et porte cette odeur avec lui sans explication"
+    ],
+    "usagesTypiques": [
+      "signaler sans description visuelle qu'un événement traumatisant a eu lieu",
+      "ancrer l'après d'une catastrophe",
+      "déclencher un souvenir involontaire chez un personnage",
+      "marquer un lieu comme altéré définitivement"
+    ],
+    "contraires": [
+      "odeur-herbe-mouilee",
+      "odeur-pluie-terre",
+      "odeur-vieux-livres"
+    ],
+    "combinaisons": [
+      "avec froid-metal : décombres métalliques, espace sinistré dont la structure tient encore",
+      "avec pas-couloir-vide : lieu désert après une catastrophe, le silence amplifie la perte",
+      "avec temperature-eau-froide : tentative de nettoyage qui ne suffira pas",
+      "avec son-porte-grince : maison abîmée mais pas encore abandonnée, entre les deux"
+    ],
+    "notesEditoriales": [
+      "L'odeur de fumée froide persiste longtemps — elle parle de ce qui a été et qui n'est plus.",
+      "Plus subtile que la fumée chaude, elle signale le résidu plutôt que l'acte.",
+      "Très utile dans les scènes du lendemain d'une violence ou d'une catastrophe."
+    ]
+  },
+  {
+    "id": "son-porte-grince",
+    "label": "Son d'une porte qui grince",
+    "categorie": "sonore",
+    "definitionCourte": "Grincement de charnières mal huilées ou de bois gonflé qui signale une ouverture ou une fermeture — signal sonore involontaire qui trahit les mouvements.",
+    "qualite": "Aigu, bref et reconnaissable — un son impossible à simuler ou à contrôler. Il appartient au lieu autant qu'au mouvement.",
+    "associationsNarratives": [
+      "maison ancienne ou mal entretenue",
+      "lieu habité depuis longtemps",
+      "mouvement discret qui ne l'est plus",
+      "intrusion ou retour inattendu",
+      "passage entre deux états ou deux espaces"
+    ],
+    "emotionsAssociees": [
+      "légère anxiété",
+      "nostalgie pour un lieu familier",
+      "inconfort",
+      "surveillance involontaire"
+    ],
+    "memoires": [
+      "porte de chambre d'enfance qu'on entendait la nuit",
+      "maison de grands-parents avec ses bruits propres",
+      "retour tardif dont on espérait se cacher",
+      "attente de quelqu'un qui n'arrivait pas"
+    ],
+    "usagesTypiques": [
+      "signaler une présence sans la montrer",
+      "déclencher l'alerte chez un personnage qui tente d'être discret",
+      "ancrer un lieu dans le passé ou la négligence",
+      "créer une tension légère dans une scène calme"
+    ],
+    "contraires": [
+      "silence-absolu",
+      "bruit-pluie-vitre",
+      "son-regulier-ville"
+    ],
+    "combinaisons": [
+      "avec obscurité totale : tension maximale, quelqu'un entre sans être invité",
+      "avec odeur-renferme : maison fermée depuis longtemps, le premier accès crée les deux",
+      "avec lumiere-fin-apres-midi : retour en fin de journée dans une maison familière, familier et nostalgique",
+      "avec pas-couloir-vide : approche inévitable d'une présence qu'on ne peut pas éviter"
+    ],
+    "notesEditoriales": [
+      "Ce son est un signal narratif très efficace car les personnages ne peuvent pas le contrôler.",
+      "Il révèle sans vouloir révéler — ce qui en fait un outil de tension naturel.",
+      "La familiarité du bruit pour un personnage (sa propre porte) change totalement sa signification."
+    ]
+  },
+  {
+    "id": "chaleur-radiateur",
+    "label": "Chaleur d'un radiateur",
+    "categorie": "thermique",
+    "definitionCourte": "Chaleur sèche et localisée diffusée par un radiateur — chaleur qui dessèche légèrement l'air et crée une zone de confort proche d'un inconfort si on s'en approche trop.",
+    "qualite": "Sèche, directionnelle, légèrement desséchante — pas la chaleur d'un feu mais celle de la nécessité. Elle chauffe la peau d'un côté tandis que l'autre reste froid.",
+    "associationsNarratives": [
+      "intérieur d'appartement en hiver",
+      "attente dans un couloir d'école ou d'hôpital",
+      "maison insuffisamment chauffée sauf dans une pièce",
+      "réconfort précaire",
+      "présence de la civilisation dans le froid"
+    ],
+    "emotionsAssociees": [
+      "réconfort tiède",
+      "attente",
+      "mélancolie hivernale",
+      "légère somnolence",
+      "impression d'un refuge"
+    ],
+    "memoires": [
+      "appartement d'enfance trop chaud dans une pièce, trop froid dans l'autre",
+      "couloir d'école en hiver, adossé au radiateur en attendant",
+      "premier appartement seul, radiateur comme seule chaleur",
+      "nuits difficiles où le radiateur claquait seul dans le silence"
+    ],
+    "usagesTypiques": [
+      "ancrer un personnage dans un intérieur hivernal",
+      "créer un contraste avec le froid du dehors",
+      "signaler un espace pauvre mais habité",
+      "accompagner une scène d'attente ou de réflexion intérieure"
+    ],
+    "contraires": [
+      "froid-penetrant",
+      "chaleur-oppressante",
+      "air-froid-exterieur"
+    ],
+    "combinaisons": [
+      "avec bruit-pluie-vitre : cocon hivernal, dedans protégé du dehors",
+      "avec odeur-vieux-livres : salle de lecture hivernale, temps suspendu",
+      "avec odeur-nourriture-brulee : espace domestique en désordre, quelque chose ne va pas",
+      "avec froid-metal : appartement pauvrement chauffé, les surfaces froides rappellent que l'hiver est là"
+    ],
+    "notesEditoriales": [
+      "La chaleur d'un radiateur est moins poétique que celle d'une cheminée — elle est plus ordinaire et donc parfois plus juste.",
+      "Le bruit du radiateur (claquements, gargouillis) peut ajouter une couche sonore utile.",
+      "Contraster avec le froid des fenêtres proches renforce l'effet d'intérieur-refuge."
+    ]
+  },
+  {
+    "id": "odeur-herbe-mouilee",
+    "label": "Odeur d'herbe mouillée",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur fraîche, végétale et terreuse de l'herbe après la pluie ou la rosée — l'une des odeurs les plus universellement évocatrices de l'extérieur vivant.",
+    "qualite": "Fraîche, verte et légèrement terreuse — une odeur qui appartient à l'extérieur et à la vie. Elle ne trompe pas : elle dit que l'air circule et que les choses poussent.",
+    "associationsNarratives": [
+      "jardin ou parc après la pluie",
+      "enfance et jeux dehors",
+      "campagne ou banlieue résidentielle",
+      "retour au naturel après l'enfermement",
+      "renouveau ou renaissance"
+    ],
+    "emotionsAssociees": [
+      "joie simple",
+      "nostalgie d'enfance",
+      "légèreté",
+      "impression de liberté",
+      "apaisement"
+    ],
+    "memoires": [
+      "jardin de l'enfance après l'orage",
+      "premières sorties du printemps",
+      "école buissonnière sur une pelouse",
+      "odeur du matin après une nuit de pluie"
+    ],
+    "usagesTypiques": [
+      "ancrer une scène dans un espace extérieur vivant",
+      "déclencher un souvenir d'enfance heureux",
+      "créer un contraste avec un intérieur oppressant",
+      "signaler le renouveau après une période sombre"
+    ],
+    "contraires": [
+      "odeur-fumee-froide",
+      "odeur-renferme",
+      "odeur-desinfectant"
+    ],
+    "combinaisons": [
+      "avec lumiere-fin-apres-midi : soir d'été parfait, plénitude et fragilité mêlées",
+      "avec bruit-pluie-vitre : dedans qui regarde dehors, la pluie qui finit et l'herbe qui respire",
+      "avec son-porte-grince : maison de campagne, retour dans un lieu aimé",
+      "avec texture-tissu-use : vêtements d'une sortie dehors portés longtemps, les deux s'imprègnent"
+    ],
+    "notesEditoriales": [
+      "Cette odeur est parmi les plus évocatrices — elle déclenche des mémoires très précises chez la plupart des lecteurs.",
+      "Le nom scientifique est géosmine — à ne pas utiliser dans le texte mais utile pour comprendre pourquoi elle est si forte.",
+      "À utiliser pour les scènes de libération, de retour ou de renaissance."
+    ]
+  },
+  {
+    "id": "pas-couloir-vide",
+    "label": "Son de pas dans un couloir vide",
+    "categorie": "sonore",
+    "definitionCourte": "Bruit résonant de pas dans un espace vide et dur — couloir d'institution, immeuble la nuit — qui indique une présence dans le silence et amplifie l'isolement.",
+    "qualite": "Résonnant, rythmique et solitaire — des pas dans un couloir vide disent une présence unique dans un espace conçu pour plusieurs. Le bruit porte parce que rien d'autre ne l'absorbe.",
+    "associationsNarratives": [
+      "hôpital ou école la nuit",
+      "immeuble désert",
+      "couloir d'hôtel ou de prison",
+      "approche d'une menace",
+      "solitude d'un lieu habituellement plein"
+    ],
+    "emotionsAssociees": [
+      "anxiété sourde",
+      "sentiment d'être seul ou épié",
+      "tension",
+      "solitude pesante",
+      "alerte"
+    ],
+    "memoires": [
+      "nuit d'hôpital où tout s'est tu sauf les pas",
+      "couloir d'école après les cours, trop silencieux",
+      "immeuble à trois heures du matin",
+      "entendre quelqu'un approcher sans savoir qui"
+    ],
+    "usagesTypiques": [
+      "signaler une présence avant qu'elle soit visible",
+      "créer de la tension dans un espace calme",
+      "souligner l'isolement d'un personnage",
+      "ancrer une scène nocturne dans sa dimension sonore"
+    ],
+    "contraires": [
+      "bruit-foule-continue",
+      "bruit-pluie-vitre",
+      "silence-absolu"
+    ],
+    "combinaisons": [
+      "avec froid-metal : couloir institutionnel ou carcéral, tension maximale",
+      "avec odeur-desinfectant : hôpital la nuit, espace médical vidé de ses patients",
+      "avec son-porte-grince : quelqu'un qui entre après les pas — séquence de tension complète",
+      "avec odeur-fumee-froide : bâtiment sinistré mais pas encore évacué"
+    ],
+    "notesEditoriales": [
+      "La résonnance des pas est liée à l'espace vide — plus il est vide, plus le son porte.",
+      "Les pas qui ralentissent ou s'arrêtent sont plus inquiétants que les pas qui continuent.",
+      "Ce son est directement lisible par le lecteur — pas besoin de l'expliquer."
+    ]
+  },
+  {
+    "id": "texture-tissu-use",
+    "label": "Texture du tissu usé",
+    "categorie": "tactile",
+    "definitionCourte": "Sensation douce et lisse d'un tissu porté jusqu'à la transparence — pull, chemise, drap — qui a été tenu, lavé, froissé et reconstitué des centaines de fois.",
+    "qualite": "Incroyablement douce par usure — pas la douceur du neuf mais celle du beaucoup-tenu. Un tissu qui a été aimé se reconnaît sous les doigts.",
+    "associationsNarratives": [
+      "pauvreté discrète",
+      "vêtement gardé pour sa valeur affective",
+      "habitude et familiarité d'un objet",
+      "temps qui passe sur les corps et les vêtements",
+      "attachement à quelque chose qui s'en va"
+    ],
+    "emotionsAssociees": [
+      "tendresse",
+      "nostalgie",
+      "réconfort",
+      "mélancolie légère",
+      "familiarité profonde"
+    ],
+    "memoires": [
+      "pull d'un parent porté après sa mort",
+      "vêtement de l'enfance gardé au fond d'un tiroir",
+      "drap d'enfance encore dans la maison familiale",
+      "vêtement de quelqu'un aimé porté pour sentir sa présence"
+    ],
+    "usagesTypiques": [
+      "signaler un attachement à un objet ou une personne",
+      "ancrer un personnage dans sa classe sociale sans le dire",
+      "créer un détail physique porteur de mémoire",
+      "évoquer le temps long passé avec quelque chose ou quelqu'un"
+    ],
+    "contraires": [
+      "froid-metal",
+      "texture-plastique-neuf",
+      "tissu-raide-amidon"
+    ],
+    "combinaisons": [
+      "avec odeur-renferme : vêtement sorti d'un placard fermé depuis trop longtemps",
+      "avec lumiere-fin-apres-midi : usure visible dans la lumière, tout ce qui a été porté là-dedans",
+      "avec chaleur-radiateur : vêtement réchauffé posé sur le radiateur, réconfort double",
+      "avec odeur-vieux-livres : maison où tout est vieilli et aimé, rien de neuf et rien de froid"
+    ],
+    "notesEditoriales": [
+      "Le tissu usé dit quelque chose que son propriétaire n'a pas besoin de dire.",
+      "Il peut être le seul objet qui reste d'une personne disparue — charge symbolique maximale.",
+      "À combiner avec une odeur (celle de la personne, d'un détergent particulier) pour une évocation plus complète."
+    ]
+  },
+  {
+    "id": "odeur-nourriture-brulee",
+    "label": "Odeur de nourriture brûlée",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur âcre et persistante d'aliments carbonisés — caramel raté, rôti oublié, pain trop cuit — qui envahit un espace et annonce quelque chose qui a mal tourné.",
+    "qualite": "Âcre, dense et impossible à ignorer — une odeur qui s'impose dans toutes les pièces et ne disparaît pas facilement. Elle dit l'oubli ou la négligence.",
+    "associationsNarratives": [
+      "distraction, oubli, négligence",
+      "moment de crise ou de désorganisation",
+      "maison d'une personne seule qui ne gère plus",
+      "accident ordinaire dans un moment de tension",
+      "signe que quelqu'un était préoccupé par autre chose"
+    ],
+    "emotionsAssociees": [
+      "irritation",
+      "anxiété légère",
+      "gêne",
+      "malaise diffus",
+      "pitié selon le contexte"
+    ],
+    "memoires": [
+      "cuisine d'un parent épuisé ou déprimé",
+      "propre distraction lors d'un moment difficile",
+      "premier appartement seul et premiers ratages culinaires",
+      "arriver chez quelqu'un et sentir que quelque chose ne va pas"
+    ],
+    "usagesTypiques": [
+      "signaler subtilement que le personnage est perturbé ou désorienté",
+      "créer un incident domestique révélateur",
+      "ancrer une scène dans l'ordinaire tout en y injectant du désordre",
+      "montrer l'état d'un espace de vie par ses odeurs"
+    ],
+    "contraires": [
+      "odeur-herbe-mouilee",
+      "odeur-pain-chaud",
+      "odeur-cafe-frais"
+    ],
+    "combinaisons": [
+      "avec chaleur-radiateur : appartement en désordre en hiver, quelqu'un qui ne va pas bien",
+      "avec son-porte-grince : arrivée dans un espace domestique qui sent le problème",
+      "avec odeur-renferme : lieu à l'abandon dont quelqu'un a essayé de cuisiner malgré tout",
+      "avec bruit-pluie-vitre : intérieur sinistré un jour de pluie, la cuisine comme dernier geste ordinaire"
+    ],
+    "notesEditoriales": [
+      "L'odeur de brûlé est difficile à ignorer — elle s'impose dans la scène.",
+      "Sa présence dit quelque chose sur celui qui cuisine ou habite le lieu.",
+      "Différencier l'odeur de fumée de bois (poétique) de celle de nourriture brûlée (ordinaire, parfois pathétique)."
+    ]
+  },
+  {
+    "id": "temperature-eau-froide",
+    "label": "Eau froide sur le visage",
+    "categorie": "thermique",
+    "definitionCourte": "Choc thermique bref de l'eau froide sur le visage — lavabo, fontaine, pluie — qui recentre brutalement le personnage dans son corps et le présent.",
+    "qualite": "Immédiate et tranchante — l'eau froide ne négocie pas. Elle frappe, elle ancre, elle réveille. Une sensation qui dit : tu es là, maintenant.",
+    "associationsNarratives": [
+      "tentative de se ressaisir",
+      "sortie du sommeil ou d'un état second",
+      "geste de remise à zéro après une émotion intense",
+      "ablution rituelle ou hygienique",
+      "salle de bain comme espace de transition"
+    ],
+    "emotionsAssociees": [
+      "lucidité soudaine",
+      "détermination",
+      "soulagement physique",
+      "tentative de maîtrise de soi",
+      "choc du présent après le passé ou le futur"
+    ],
+    "memoires": [
+      "se laver le visage après avoir pleuré",
+      "se ressaisir avant quelque chose de difficile",
+      "eau froide de source ou de rivière en randonnée",
+      "le lavabo d'une salle de bain la nuit quand on n'arrive pas à dormir"
+    ],
+    "usagesTypiques": [
+      "marquer un tournant dans la décision d'un personnage",
+      "signaler une tentative de reprise de contrôle",
+      "créer une transition entre deux états émotionnels",
+      "ancrer un personnage dans son corps après une dissociation"
+    ],
+    "contraires": [
+      "chaleur-oppressante",
+      "froid-penetrant",
+      "chaleur-radiateur"
+    ],
+    "combinaisons": [
+      "avec froid-metal : robinet métallique froid et eau froide, double ancrage dans le présent dur",
+      "avec bruit-pluie-vitre : salle de bain la nuit sous la pluie, solitude et tentative de tenir",
+      "avec odeur-savon-propre : geste de nettoyage complet, recommencement",
+      "avec lumiere-neon-froid : salle de bain de nuit, miroir, le personnage face à lui-même"
+    ],
+    "notesEditoriales": [
+      "L'eau froide sur le visage est un geste très souvent vrai — les personnes perturbées le font spontanément.",
+      "Il peut signaler une décision imminente sans la nommer.",
+      "Le miroir qui suit souvent ce geste ajoute une dimension de confrontation à soi."
+    ]
+  }
+]

@@ -1,0 +1,741 @@
+[
+  {
+    "id": "open-space",
+    "label": "Open-space de bureau",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "rangées de bureaux identiques séparés par des cloisons basses",
+      "écrans allumés en permanence, reflets bleus sur les visages",
+      "câbles enroulés sous les tables ou fixés aux pieds",
+      "plantes vertes en plastique ou trop bien entretenues",
+      "panneau blanc couvert de post-its de couleur",
+      "casques audio sur certaines têtes, signe de retrait",
+      "lumière artificielle sans ombre, sans chaleur"
+    ],
+    "bruits": [
+      "cliquetis continu de claviers",
+      "voix en sourdine sur des appels téléphoniques",
+      "bruit sourd de l'imprimante en bout de rangée",
+      "sonneries étouffées de téléphones en vibreur",
+      "ronronnement de la climatisation",
+      "chaises qui roulent sur le parquet",
+      "conversation à voix basse qui porte quand même"
+    ],
+    "odeurs": [
+      "café réchauffé depuis trop longtemps",
+      "plastique chaud d'équipements électroniques",
+      "déodorant et parfum entremêlés",
+      "sandwich sorti d'un tupperware à l'heure du déjeuner",
+      "papier et encre d'imprimante"
+    ],
+    "textures": [
+      "surface lisse et froide du bureau stratifié",
+      "tissu synthétique de la chaise de bureau",
+      "clavier qui répond sous les doigts sans résistance",
+      "moquette épaisse qui amortit les pas"
+    ],
+    "emotionsTypiques": [
+      "surveillance diffuse sans regard direct",
+      "fatigue mentale de fond",
+      "sentiment d'interchangeabilité",
+      "tension contenue entre collègues",
+      "ennui masqué par l'activité"
+    ],
+    "usagesNarratifs": [
+      "espace où les conflits ne peuvent pas éclater franchement",
+      "lieu de rumeurs et de sous-entendus",
+      "cadre pour une révélation chuchotée entre deux rangées",
+      "environnement qui écrase les individualités"
+    ],
+    "tensionsTypiques": [
+      "être surveillé sans pouvoir le prouver",
+      "devoir sourire à quelqu'un qu'on déteste",
+      "entendre une conversation sans pouvoir réagir",
+      "cacher une émotion forte sous des yeux de collègues",
+      "annonce de licenciement qui circule avant l'officiel"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Nouveau salarié",
+        "description": "Déchiffre les codes non-dits, observe qui parle à qui, tente de comprendre les alliances. L'espace lui semble labyrinthique alors qu'il est rectiligne."
+      },
+      {
+        "profil": "Cadre en burn-out",
+        "description": "Ne voit plus les collègues comme des personnes. Perçoit le bruit ambiant comme une agression. Chaque réunion est une menace de plus dans sa journée."
+      },
+      {
+        "profil": "Salarié en attente d'une réponse importante",
+        "description": "Regarde son téléphone toutes les trois minutes. Les bruits autour de lui lui parviennent comme à travers de l'eau. Il est présent dans le corps, absent dans la tête."
+      }
+    ],
+    "notesEditoriales": [
+      "L'open-space est un lieu de paradoxes : tout le monde est visible, personne n'est vraiment vu.",
+      "Éviter la description statique — c'est le mouvement (ou son absence) qui crée l'atmosphère.",
+      "Puissant pour montrer l'isolement dans le collectif."
+    ]
+  },
+  {
+    "id": "chantier-de-construction",
+    "label": "Chantier de construction",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "palissades en bois peintes de logos d'entreprise",
+      "grues immobiles ou en lente rotation",
+      "armatures en acier qui sortent du béton brut",
+      "bennes remplies de gravats et de terre",
+      "baraques de chantier sur roues, fenêtres grillées",
+      "boue épaisse sur les chemins de passage",
+      "câbles électriques provisoires entre des poteaux temporaires"
+    ],
+    "bruits": [
+      "marteau-piqueur par intermittences",
+      "bip de recul des engins de terrassement",
+      "claquements métalliques d'échafaudages montés",
+      "voix qui portent dans le bruit, mots en lambeaux",
+      "grondement de bétonneuse",
+      "silence soudain quand les machines s'arrêtent"
+    ],
+    "odeurs": [
+      "béton frais, légèrement alcalin",
+      "terre retournée et argileuse",
+      "solvants et peintures en intérieur",
+      "huile de moteur des engins",
+      "sueur et poussière mêlées"
+    ],
+    "textures": [
+      "béton rugueux qui accroche les doigts",
+      "fer à béton froid et rouillé",
+      "boue collante sous les semelles",
+      "planches de bois brut, échardes possibles"
+    ],
+    "emotionsTypiques": [
+      "puissance physique du travail collectif",
+      "danger permanent banalisé",
+      "fatigue de fin de journée honnête",
+      "camaraderie abrupte et sans fioritures",
+      "sentiment d'avancement visible et concret"
+    ],
+    "usagesNarratifs": [
+      "cadre pour une confrontation physique ou une fuite",
+      "lieu où un secret peut être enterré — au sens propre ou figuré",
+      "espace de travail viril qui cache des vulnérabilités",
+      "décor de transformation d'un quartier ou d'une vie"
+    ],
+    "tensionsTypiques": [
+      "accident de chantier — réel ou redouté",
+      "conflit entre ouvriers et chef de chantier",
+      "travail non déclaré, peur du contrôle",
+      "présence intempestive d'un étranger au site",
+      "découverte inattendue lors des fouilles"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Ouvrier chevronné",
+        "description": "Lit le chantier d'un coup d'œil : les risques, les retards, les mauvaises fixations. Son corps est en alerte permanente mais son esprit est ailleurs — à la maison, au week-end."
+      },
+      {
+        "profil": "Architecte en visite",
+        "description": "Voit l'écart entre ses plans et la réalité. Chaque déviation mineure lui coûte. Il essaie de masquer son inconfort face aux hommes qui construisent ce qu'il a imaginé."
+      },
+      {
+        "profil": "Enfant qui observe depuis la rue",
+        "description": "Fascination totale pour les machines, les trous, les tas de sable. Il ne voit pas le danger, seulement l'immensité du possible."
+      }
+    ],
+    "notesEditoriales": [
+      "Le chantier est un lieu de transformation — narrativement, il dit que quelque chose est en train de changer.",
+      "Les sons sont aussi importants que les images : utiliser les silences entre les bruits.",
+      "Attention au cliché du chantier exclusivement masculin — diversifier les profils."
+    ]
+  },
+  {
+    "id": "entrepot-urbain",
+    "label": "Entrepôt urbain",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "rayonnages métalliques montant jusqu'au plafond",
+      "palettes emballées de film plastique",
+      "chariots élévateurs garés entre les allées",
+      "numéros et codes-barres sur chaque travée",
+      "sol en béton lisse avec traces de pneus",
+      "lumière au néon qui ne couvre pas les coins sombres",
+      "portes roulantes de chargement, ouvertes ou baissées"
+    ],
+    "bruits": [
+      "bip régulier des scanners de codes-barres",
+      "roulements de chariots sur le béton",
+      "voix amplifiées par l'écho de la hauteur",
+      "bourdonnement du froid des chambres réfrigérées",
+      "claquement des portes roulantes"
+    ],
+    "odeurs": [
+      "carton et poussière d'entassement",
+      "plastique chauffé par les lampes",
+      "huile de machine légère",
+      "froid sec des zones réfrigérées"
+    ],
+    "textures": [
+      "béton froid sous les semelles",
+      "carton rugueux des boîtes",
+      "métal froid des rayonnages",
+      "film étirable qui résiste puis lâche"
+    ],
+    "emotionsTypiques": [
+      "anonymat total dans un espace fonctionnel",
+      "fatigue répétitive des gestes mécaniques",
+      "sentiment d'être interchangeable",
+      "calme étrange des heures creuses",
+      "pression de cadence et de rendement"
+    ],
+    "usagesNarratifs": [
+      "lieu de planque idéal — labyrinthique, peu surveillé la nuit",
+      "espace pour une rencontre secrète ou un échange illicite",
+      "décor pour une scène d'action ou de poursuite",
+      "symbole de la masse anonyme de marchandises et d'humains"
+    ],
+    "tensionsTypiques": [
+      "quelqu'un qui se cache dans les rayonnages",
+      "vol de marchandises détecté ou commis",
+      "accident avec un chariot élévateur",
+      "découverte d'une chose qu'on n'aurait pas dû voir",
+      "travailleur isolé pendant la nuit"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Préparateur de commandes",
+        "description": "Ne voit plus l'espace comme un lieu mais comme une séquence d'actions. Son corps connaît les distances, les angles. Son esprit s'échappe pour survivre."
+      },
+      {
+        "profil": "Cadre logistique",
+        "description": "Voit des flux, des délais, des ruptures potentielles. L'entrepôt est un organisme dont il surveille les constantes vitales."
+      },
+      {
+        "profil": "Intrus nocturne",
+        "description": "Chaque ombre est un danger. Les bruits d'un entrepôt vide sont amplifiés par l'adrénaline. L'immensité du lieu le rend vulnérable."
+      }
+    ],
+    "notesEditoriales": [
+      "L'entrepôt combine grandeur et banalité — il peut être aussi bien oppressant que libérateur selon l'usage narratif.",
+      "La nuit, un entrepôt vide est un personnage à part entière.",
+      "Ne pas négliger l'aspect sonore : les échos dans les volumes vides."
+    ]
+  },
+  {
+    "id": "arriere-boutique",
+    "label": "Arrière-boutique",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "étagères métalliques surchargées de stock",
+      "cartons empilés en colonnes instables",
+      "bureau encombré avec une caisse enregistreuse de secours",
+      "manteaux accrochés à un clou dans le mur",
+      "bouilloire ou mini-frigo pour les pauses",
+      "lumière nue d'une ampoule sans abat-jour",
+      "séparation avec le devant de la boutique par un rideau ou une porte battante"
+    ],
+    "bruits": [
+      "sons étouffés de la rue ou du commerce en façade",
+      "chuchotements de conversations privées",
+      "froissement de papier, ouverture de colis",
+      "téléphone qui sonne sans être décroché",
+      "sonnette d'entrée de la boutique qui retentit"
+    ],
+    "odeurs": [
+      "propre à la marchandise du commerce (épices, cuir, papier, café)",
+      "renfermé d'un espace peu aéré",
+      "nourriture réchauffée de la pause déjeuner",
+      "poussière des cartons anciens"
+    ],
+    "textures": [
+      "carton gondolé sous les doigts",
+      "ruban adhésif qui résiste",
+      "sol carrelé froid différent du bois de la boutique",
+      "étiquettes qui s'impriment chaudes et souples"
+    ],
+    "emotionsTypiques": [
+      "refuge hors du regard des clients",
+      "intimité dans l'exiguïté",
+      "fatigue accumulée des journées debout",
+      "secrets d'équipe et confidences",
+      "tension lors des inventaires ou des fins de mois"
+    ],
+    "usagesNarratifs": [
+      "lieu où se dit ce qu'on ne peut pas dire en public",
+      "espace de vérité par opposition à la façade commerciale",
+      "endroit pour cacher quelque chose ou quelqu'un",
+      "décor d'une scène entre deux personnages sans témoin"
+    ],
+    "tensionsTypiques": [
+      "conversation entendue à travers le rideau",
+      "caisse qui ne tombe pas juste",
+      "objet de valeur disparu dans le stock",
+      "client qui s'aventure dans l'espace interdit",
+      "décision prise dans l'ombre qui affecte la boutique"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Commerçant de longue date",
+        "description": "Connaît chaque recoin, chaque étiquette. L'arrière-boutique est son vrai bureau, là où il règne sans façade. C'est son espace intime autant que professionnel."
+      },
+      {
+        "profil": "Employé récent",
+        "description": "Se sent en trop dans cet espace. Ne sait pas ce qu'il peut toucher, où poser ses affaires. Observe pour comprendre les règles non-dites."
+      },
+      {
+        "profil": "Livreur pressé",
+        "description": "Ne voit que la signature à obtenir et la palette à déposer. L'arrière-boutique est un obstacle, pas un espace."
+      }
+    ],
+    "notesEditoriales": [
+      "L'arrière-boutique est un espace de vérité : on y enlève le masque qu'on porte devant les clients.",
+      "La spécificité de l'odeur est clé — elle doit révéler le type de commerce sans le nommer.",
+      "Riche narrativement pour les scènes de confidence ou de crise entre deux personnages."
+    ]
+  },
+  {
+    "id": "cabinet-medical-urbain",
+    "label": "Cabinet médical urbain",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "salle d'attente avec chaises en plastique dur et magazines anciens",
+      "table d'examen recouverte de papier blanc froissé",
+      "balance et toise contre un mur",
+      "ordinateur avec dossier ouvert, écran tourné vers le médecin",
+      "stéthoscope posé sur la table ou autour du cou",
+      "armoire à pharmacie vitrée avec médicaments ordonnés",
+      "diplômes encadrés sur les murs peints en blanc cassé"
+    ],
+    "bruits": [
+      "voix du médecin qui parle depuis la pièce voisine, mots inaudibles",
+      "papier d'examen qui crisse à chaque mouvement",
+      "clavier d'ordinateur pour les ordonnances",
+      "sonnerie de téléphone sans fil",
+      "pas dans le couloir, portes fermées avec précaution"
+    ],
+    "odeurs": [
+      "désinfectant légèrement alcoolisé",
+      "papier propre et frais",
+      "médicaments plastifiés dans leurs boîtes",
+      "parfum discret du médecin ou de l'infirmière"
+    ],
+    "textures": [
+      "papier d'examen froid et lisse",
+      "plastique dur de la chaise de salle d'attente",
+      "métal froid du stéthoscope contre la peau",
+      "carnet d'ordonnances sous la main du médecin"
+    ],
+    "emotionsTypiques": [
+      "anxiété en attente d'un diagnostic",
+      "sentiment de vulnérabilité face au corps exposé",
+      "espoir ou appréhension de la réponse médicale",
+      "inconfort de l'intimité forcée avec un étranger",
+      "soulagement possible ou confirmation d'une peur"
+    ],
+    "usagesNarratifs": [
+      "lieu de révélation d'une maladie ou d'une grossesse",
+      "espace de vérité sur l'état physique d'un personnage",
+      "cadre pour un dialogue difficile autour de la santé",
+      "moment de vulnérabilité qui révèle le caractère"
+    ],
+    "tensionsTypiques": [
+      "attendre un résultat d'analyse",
+      "entendre une nouvelle grave",
+      "devoir mentir au médecin sur ses habitudes",
+      "recevoir une ordonnance qu'on ne comprend pas",
+      "médecin pressé qui n'écoute pas vraiment"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Patient hypocondriaque",
+        "description": "Scrute chaque expression du médecin, interprète chaque silence. La pièce lui semble chargée de signaux que lui seul perçoit. Il quitte souvent plus inquiet qu'à l'arrivée."
+      },
+      {
+        "profil": "Médecin généraliste épuisé",
+        "description": "Voit défiler des corps sans voir les personnes. Essaie de maintenir l'attention mais le temps lui manque. La salle d'examen est son usine et il le sait."
+      },
+      {
+        "profil": "Parent avec un enfant malade",
+        "description": "Traduit pour son enfant, surveille ses réactions, essaie de rester calme. Son attention est divisée entre le médecin et l'enfant, avec un fond d'angoisse constante."
+      }
+    ],
+    "notesEditoriales": [
+      "Le cabinet médical est un des rares lieux où l'intimité corporelle est exposée à un étranger — à utiliser pour sa charge de vulnérabilité.",
+      "La table d'examen en papier blanc est un détail universellement reconnu : ne pas le négliger.",
+      "Les silences du médecin parlent autant que ses mots."
+    ]
+  },
+  {
+    "id": "atelier-artiste-urbain",
+    "label": "Atelier d'artiste urbain",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "toiles en cours adossées aux murs ou posées sur des chevalets",
+      "sol taché de peinture, couches sur couches d'années",
+      "fenêtres hautes qui donnent une lumière zénithale",
+      "tubes de peinture entassés et mal refermés",
+      "pots de pinceaux trempant dans l'eau trouble",
+      "châssis vierges empilés dans un coin",
+      "vêtements de travail tachés abandonnés sur une chaise"
+    ],
+    "bruits": [
+      "silence presque total, parfois de la musique en fond",
+      "crissement du pinceau sur la toile",
+      "froissement de papier calque ou de papier kraft",
+      "bruit de pas hésitants autour d'une œuvre",
+      "radio ou vinyle qui tourne en continu"
+    ],
+    "odeurs": [
+      "peinture à l'huile — puissant et têtu",
+      "white-spirit ou térébenthine",
+      "acrylique plastifiée légèrement sucrée",
+      "poussière de plâtre ou de pastel",
+      "café froid et cendres si l'artiste fume"
+    ],
+    "textures": [
+      "peinture sèche qui forme des croûtes sur les bords de la palette",
+      "toile tendue qui résiste et rebondit sous le doigt",
+      "fusain qui laisse une traînée noire sur les doigts",
+      "papier aquarelle épais et légèrement rugueux"
+    ],
+    "emotionsTypiques": [
+      "création en tension entre vision et exécution",
+      "solitude choisie et productive",
+      "découragement devant l'écart entre l'idéal et l'œuvre",
+      "exaltation lors d'une percée artistique",
+      "fierté fragile et exposée"
+    ],
+    "usagesNarratifs": [
+      "espace de révélation du monde intérieur d'un personnage",
+      "lieu de rencontre intime entre un artiste et un visiteur",
+      "décor pour une scène de création ou de destruction d'œuvre",
+      "symbole de l'espace mental d'un créateur"
+    ],
+    "tensionsTypiques": [
+      "visiteur qui juge sans comprendre",
+      "œuvre détruite ou volée",
+      "blocage créatif — toiles vierges comme accusation",
+      "pression commerciale vs intégrité artistique",
+      "amour ou rupture dans un espace chargé d'œuvres personnelles"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "L'artiste en plein travail",
+        "description": "Ne voit que l'œuvre. Le désordre lui est invisible. Il navigue dans son atelier comme dans un prolongement de son corps, sans effort de pensée."
+      },
+      {
+        "profil": "Le galeriste en visite",
+        "description": "Évalue rapidement, cherche ce qui peut se vendre. L'atelier est un inventaire potentiel. Il essaie de masquer son calcul derrière l'enthousiasme."
+      },
+      {
+        "profil": "L'amour ou l'ami non-artiste",
+        "description": "Se sent de trop dans cet espace qui n'est pas le sien. Chaque chose lui est inconnue. Il touche prudemment, regarde avec mélange d'admiration et d'incompréhension."
+      }
+    ],
+    "notesEditoriales": [
+      "L'atelier d'artiste révèle par accumulation — chaque objet est un fragment de l'histoire personnelle.",
+      "Éviter le cliché romantique : un atelier peut être un lieu de souffrance et d'échec autant que de génie.",
+      "Les odeurs sont particulièrement fortes dans un atelier — les utiliser en priorité."
+    ]
+  },
+  {
+    "id": "marche-de-gros-matin",
+    "label": "Marché de gros au petit matin",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "camions frigos rangés côte à côte, moteurs allumés",
+      "palettes de caisses colorées empilées sur des chariots",
+      "allées larges sous des halls couverts de métal",
+      "acheteurs professionnels avec chariots et tablettes",
+      "vendeurs en tabliers tachés qui lancent des prix à la volée",
+      "eau qui ruisselle des allées lavées",
+      "écarts de couleurs entre les étals — rouge, vert, jaune, orange"
+    ],
+    "bruits": [
+      "éclats de voix et de rires dans l'air froid",
+      "roulements de chariots sur le béton mouillé",
+      "moteurs de camions frigos en bruit de fond permanent",
+      "annonces au haut-parleur qui saturent",
+      "chocs de caisses bois et plastique empilées",
+      "appels et marchandages qui se chevauchent"
+    ],
+    "odeurs": [
+      "fraîcheur humide des légumes mouillés",
+      "poissons et glace — tranchant",
+      "viandes sous cellophane — fade et froid",
+      "fleurs en seau — parfum concentré et sucré",
+      "gasoil des camions mêlé à l'air du matin"
+    ],
+    "textures": [
+      "légumes froids et humides sous les doigts",
+      "caisse bois rugueuse avec échardes possibles",
+      "plastique givré des barquettes réfrigérées",
+      "sol mouillé légèrement glissant"
+    ],
+    "emotionsTypiques": [
+      "énergie brute et physique du travail de nuit qui se termine",
+      "camaraderie rapide et sans façons",
+      "urgence des achats — le stock ne reste pas",
+      "plaisir sensoriel de l'abondance",
+      "fatigue de ceux qui ont chargé toute la nuit"
+    ],
+    "usagesNarratifs": [
+      "espace de rencontre entre mondes sociaux très différents",
+      "décor pour une transaction — légale ou non",
+      "lieu où un secret circule parmi des inconnus",
+      "ambiance de début de journée qui contraste avec la nuit précédente"
+    ],
+    "tensionsTypiques": [
+      "transaction qui tourne mal dans l'agitation",
+      "personnage qui ne devrait pas être là à cette heure",
+      "livraison manquante ou marchandise avariée",
+      "dispute de territoire entre vendeurs",
+      "rencontre inattendue dans la foule professionnelle"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Restaurateur habitué",
+        "description": "Se déplace avec efficacité, salue les vendeurs par leur prénom. Il touche, renifle, juge. Tout son corps travaille. Il est dans son élément comme un poisson dans l'eau."
+      },
+      {
+        "profil": "Journaliste ou intrus",
+        "description": "Décalé dans cet espace qui lui est étranger. Essaie de comprendre les codes, se fait bousculer. Le rythme du marché ne l'attend pas."
+      },
+      {
+        "profil": "Vendeur en fin de nuit",
+        "description": "Épuisé mais encore en représentation. Pousse ses caisses avec les bras, vend avec la voix. Son énergie est de la mécanique maintenant, plus de la volonté."
+      }
+    ],
+    "notesEditoriales": [
+      "Le marché de gros au matin est un des rares lieux où le travail de nuit et le début du jour se croisent — narrativement riche.",
+      "L'abondance visuelle contraste souvent avec la précarité des travailleurs — tension à exploiter.",
+      "Les odeurs sont le vrai marqueur de ce lieu avant même les images."
+    ]
+  },
+  {
+    "id": "blanchisserie-industrielle",
+    "label": "Blanchisserie industrielle",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "sonore-thermique",
+    "elements": [
+      "rangées de machines à laver industrielles qui vibrent",
+      "tunnels de séchage soufflant de l'air chaud",
+      "convoyeurs aériens chargés de chemises suspendues",
+      "tapis roulants de linge trié",
+      "bacs de plastique colorés qui s'empilent",
+      "lumière froide dans une chaleur moite",
+      "vapeur qui monte par intermittences des presses"
+    ],
+    "bruits": [
+      "vrombissement continu des machines",
+      "sifflement des vapeurs de repassage",
+      "cliquetis des cintres sur le convoyeur",
+      "bruit sourd de linge humide qui tombe dans les bacs",
+      "voix couvertes par le bruit des moteurs — communication par gestes"
+    ],
+    "odeurs": [
+      "lessive industrielle chaude — synthétique et tenace",
+      "vapeur d'eau saturée de détergent",
+      "tissu chaud après le passage en sèche-linge",
+      "légère odeur de brûlé des presses mal réglées"
+    ],
+    "textures": [
+      "linge humide et lourd dans les bras",
+      "chaleur sèche du fer à repasser",
+      "plastique des bacs glissant et lisse",
+      "coton chaud et légèrement raide après séchage"
+    ],
+    "emotionsTypiques": [
+      "aliénation du geste répétitif à la chaîne",
+      "chaleur physique qui vire à l'oppression",
+      "solidarité tacite entre travailleurs",
+      "invisibilité sociale — on lave ce que les autres portent",
+      "fierté du travail bien fait mais non reconnu"
+    ],
+    "usagesNarratifs": [
+      "lieu symboliquement lié à ce qu'on cache — les taches et les secrets",
+      "espace de travail invisible et pourtant essentiel",
+      "décor pour une conversation impossible à entendre",
+      "symbole de l'effacement des traces"
+    ],
+    "tensionsTypiques": [
+      "linge contenant un objet oublié — ou caché intentionnellement",
+      "accident dans la machine ou la vapeur",
+      "inspection ou contrôle inattendu",
+      "conflict entre travailleurs dans l'impossibilité de parler normalement",
+      "découverte de quelque chose dans une poche"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Ouvrière en poste depuis des années",
+        "description": "N'entend plus les machines. Ses gestes sont automatiques, son corps adapté à la chaleur. Elle pense à autre chose tout en travaillant parfaitement."
+      },
+      {
+        "profil": "Nouveau travailleur intérimaire",
+        "description": "La chaleur l'oppresse, le bruit l'étourdit. Il rate des gestes, se fait reprendre. Son corps n'est pas encore adapté. Chaque heure est longue."
+      },
+      {
+        "profil": "Responsable d'atelier",
+        "description": "Surveille le rendement, repère les lenteurs. Doit parler fort ou par signes. Il est moins dans la chaleur que dans le calcul."
+      }
+    ],
+    "notesEditoriales": [
+      "La blanchisserie est un lieu de métaphore évidente — à utiliser avec subtilité pour ne pas tomber dans le symbolisme trop appuyé.",
+      "La chaleur est le premier vecteur sensoriel : elle doit être perçue par le lecteur.",
+      "Lieu souvent peuplé de travailleurs peu visibles dans la fiction — une opportunité de représentation."
+    ]
+  },
+  {
+    "id": "imprimerie-urbaine",
+    "label": "Imprimerie urbaine",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "grandes rotatives en mouvement ou à l'arrêt",
+      "rouleaux de papier vierge empilés comme des colonnes",
+      "sol maculé d'encre noire en taches plates",
+      "feuilles imprimées en cours de séchage sur des cordes ou des râteliers",
+      "maquettes et épreuves épinglées sur des panneaux de liège",
+      "comptoir de réception avec des specimens",
+      "lumière forte et crue nécessaire pour le contrôle qualité"
+    ],
+    "bruits": [
+      "claquement rythmique de la rotative à pleine vitesse",
+      "sifflement du papier qui passe dans les rouleaux",
+      "bruit de ventilation qui chasse les vapeurs d'encre",
+      "sonnerie du téléphone dans le bureau adjacent",
+      "voix couverte par les machines — on approche son visage pour parler"
+    ],
+    "odeurs": [
+      "encre d'imprimerie — âcre, reconnaissable, persistante",
+      "papier fraîchement imprimé — légèrement chaud",
+      "solvants de nettoyage des rouleaux",
+      "papier vierge, légèrement poussiéreux"
+    ],
+    "textures": [
+      "papier couché lisse et glacé sous les doigts",
+      "encre fraîche qui tache et ne part pas",
+      "métal froid des plaques d'impression",
+      "papier journal épais de grands rouleaux"
+    ],
+    "emotionsTypiques": [
+      "satisfaction de voir les mots prendre corps",
+      "urgence des bouclages et des délais",
+      "précision absolue requise — l'erreur est permanente",
+      "fierté artisanale du travail bien imprimé",
+      "tension avant le premier tirage de contrôle"
+    ],
+    "usagesNarratifs": [
+      "lieu où des documents sensibles sont produits ou détruits",
+      "espace de fabrication de faux ou de propagande",
+      "décor pour une révélation — une preuve imprimée",
+      "symbole du pouvoir des mots fixés sur le papier"
+    ],
+    "tensionsTypiques": [
+      "erreur repérée après tirage — impossible à corriger",
+      "document dont la confidentialité est compromise",
+      "panne de machine à l'heure critique du bouclage",
+      "personnage qui découvre ce qui est imprimé en secret",
+      "commande suspecte acceptée par pression financière"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Typographe de longue date",
+        "description": "Lit les défauts d'impression à l'œil nu. Connaît le son de chaque machine. L'encre est pour lui une odeur de chez-soi, pas une agression."
+      },
+      {
+        "profil": "Client venu récupérer une commande",
+        "description": "Dépassé par le bruit et l'odeur. Il cherche son nom parmi les commandes, mal à l'aise dans cet espace qui n'est pas le sien."
+      },
+      {
+        "profil": "Enquêteur à la recherche d'une trace",
+        "description": "Voit les piles de documents, les rouleaux de papier comme autant d'indices potentiels. Il cherche une preuve dans un lieu conçu pour en produire."
+      }
+    ],
+    "notesEditoriales": [
+      "L'imprimerie est un des rares lieux industriels avec une forte charge symbolique liée à la parole et au pouvoir.",
+      "L'odeur de l'encre est un marqueur fort — instantanément évocateur pour beaucoup de lecteurs.",
+      "À utiliser dans des récits où la trace écrite joue un rôle narratif clé."
+    ]
+  },
+  {
+    "id": "garage-mecanique-urbain",
+    "label": "Garage mécanique urbain",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "fosse de visite profonde et sombre sous un véhicule",
+      "outillage accroché à des panneaux perforés",
+      "voitures à des stades différents de démontage",
+      "bidon d'huile empilés contre le mur du fond",
+      "établi encombré de pièces et de chiffons huileux",
+      "radio posée en hauteur sur une étagère métallique",
+      "calendrier avec femme au mur — ou affiche de sport"
+    ],
+    "bruits": [
+      "cliquetis de clé à cliquet",
+      "sifflement d'une visseuse pneumatique",
+      "radio en fond — variété française ou sport",
+      "claquement métallique d'un capot qu'on referme",
+      "moteur qu'on fait tourner pour écouter"
+    ],
+    "odeurs": [
+      "huile de moteur — lourde et noire",
+      "essence et gasoil mêlés",
+      "caoutchouc chaud des pneus",
+      "métal et rouille",
+      "dégraissant chimique en spray"
+    ],
+    "textures": [
+      "clé de serrage froide et lourde en main",
+      "huile grasse qui s'imprègne dans les plis des mains",
+      "plastique dur et froid des pièces neuves",
+      "métal rouillé qui résiste et craque"
+    ],
+    "emotionsTypiques": [
+      "compétence affichée dans un territoire masculin traditionnel",
+      "relation de confiance ou de méfiance entre client et garagiste",
+      "attente anxieuse du diagnostic financier",
+      "satisfaction du problème résolu",
+      "sentiment d'être jugé ou de ne pas comprendre"
+    ],
+    "usagesNarratifs": [
+      "lieu de rencontre entre personnages de milieux sociaux différents",
+      "espace pour une conversation franche loin de toute façade",
+      "cadre pour cacher ou découvrir quelque chose dans un véhicule",
+      "décor pour établir la crédibilité technique d'un personnage"
+    ],
+    "tensionsTypiques": [
+      "devis exorbitant et incompréhensible",
+      "réparation bâclée qui provoque un accident",
+      "voiture bloquée — et avec elle, un personnage",
+      "quelque chose trouvé dans le coffre d'un véhicule amené",
+      "transaction illicite sous couvert de mécanique"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Garagiste",
+        "description": "Voit les défauts en un regard. Son espace lui appartient entièrement. Il parle vite et peu, mais chaque mot porte un avis technique ou humain."
+      },
+      {
+        "profil": "Client non-initié à la mécanique",
+        "description": "Se sent exposé, ne comprend pas les termes, redoute d'être roulé. Il observe sans voir, écoute sans comprendre. Sa méfiance le trahit."
+      },
+      {
+        "profil": "Apprenti mécanicien",
+        "description": "Apprend en regardant faire, redoute l'erreur, cherche à prouver sa valeur. Il nettoie plus souvent qu'il ne répare, mais absorbe tout."
+      }
+    ],
+    "notesEditoriales": [
+      "Le garage mécanique est un espace de pouvoir asymétrique — à exploiter pour les dynamiques de tension entre personnages.",
+      "L'odeur d'huile est un marqueur territorial fort : elle reste sur les mains, les vêtements, la peau.",
+      "Riche pour les scènes de dialogue direct, sans fard, entre hommes ou entre générations."
+    ]
+  }
+]

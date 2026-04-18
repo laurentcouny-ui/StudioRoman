@@ -1,0 +1,434 @@
+[
+  {
+    "id": "boite-a-chaussures-souvenirs",
+    "label": "Boîte à chaussures pleine de souvenirs",
+    "definitionCourte": "Boîte ordinaire reconvertie en coffret de mémoire — tickets, photos, lettres, petits objets — cachée sous un lit ou dans une armoire, jamais jetée.",
+    "chargeSymbolique": "haute",
+    "categorie": "contenant",
+    "associationsNarratives": [
+      "vie entière ou époque précise condensée dans une boîte",
+      "héritage découvert après une mort",
+      "secret que le personnage n'a jamais su partager",
+      "relation longtemps gardée dans le secret",
+      "enfance dont il ne reste que ça"
+    ],
+    "emotionsAssociees": [
+      "nostalgie",
+      "tendresse douloureuse",
+      "sentiment d'intrusion",
+      "deuil"
+    ],
+    "usagesTypiques": [
+      "révéler une vie intérieure jamais exposée",
+      "objet trouvé qui lance une enquête mémorielle",
+      "transition entre un avant et un après dans le récit",
+      "héritage qui pose plus de questions qu'il n'en résout"
+    ],
+    "variantesNarratives": [
+      "La boîte ouverte par le propriétaire : moment de rituel solitaire, plongée dans le passé choisi.",
+      "La boîte trouvée par quelqu'un d'autre : intrusion dans l'intimité d'un mort ou d'un absent — ce qu'on découvre réécrit ce qu'on croyait savoir.",
+      "La boîte jamais ouverte : le personnage sait ce qu'elle contient mais ne peut pas encore y aller."
+    ],
+    "notesEditoriales": [
+      "L'accumulation hétéroclite des objets est sa force — chacun est une histoire différente.",
+      "Ce que le personnage garde et ce qu'il jette en dit autant que ce qu'il conserve.",
+      "La boîte à chaussures est l'objet mémoriel le plus ordinaire — et donc le plus universel."
+    ]
+  },
+  {
+    "id": "photo-dechirée-recollée",
+    "label": "Photo déchirée puis recollée",
+    "definitionCourte": "Photographie arrachée en morceaux puis reconstituée — la violence et le regret dans le même objet.",
+    "chargeSymbolique": "haute",
+    "categorie": "document",
+    "associationsNarratives": [
+      "rupture suivie de regrets",
+      "personne que l'on a essayé d'effacer",
+      "colère et attachement coexistant",
+      "relation ambivalente",
+      "destruction impossible de certains liens"
+    ],
+    "emotionsAssociees": [
+      "ambivalence",
+      "regret",
+      "attachement douloureux",
+      "colère retournée"
+    ],
+    "usagesTypiques": [
+      "objet qui révèle un changement d'état émotionnel",
+      "preuve d'une relation qui résiste à l'effacement",
+      "détail dans un espace de vie qui révèle beaucoup",
+      "objet gardé malgré la décision de s'en débarrasser"
+    ],
+    "variantesNarratives": [
+      "La photo recollée soigneusement : le regret a dominé, quelqu'un a passé du temps à recoller — ça dit quelque chose sur le poids de cet acte.",
+      "La photo recollée approximativement : geste rapide après une nuit difficile — la réparation n'est pas entière.",
+      "La photo retrouvée par quelqu'un d'autre que son propriétaire : l'histoire de la déchirure et du recollage devient une question ouverte."
+    ],
+    "notesEditoriales": [
+      "Les lignes de déchirure visibles sont aussi importantes que l'image — elles racontent un acte.",
+      "La reconstitution dit qu'on a regretté — mais pas que tout va bien.",
+      "Sa fragilité physique peut refléter la fragilité du lien qu'elle représente."
+    ]
+  },
+  {
+    "id": "jouet-enfance",
+    "label": "Jouet d'enfance gardé",
+    "definitionCourte": "Jouet usé ou abîmé conservé à l'âge adulte — témoin d'une enfance heureuse ou douloureuse, objet-pont entre ce qu'on était et ce qu'on est devenu.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "objet-enfance",
+    "associationsNarratives": [
+      "enfance perdue ou aimée",
+      "régression ou besoin de réconfort",
+      "seule chose sauvée d'une catastrophe",
+      "cadeau de quelqu'un de disparu",
+      "identité enfouie sous l'adulte"
+    ],
+    "emotionsAssociees": [
+      "nostalgie",
+      "réconfort",
+      "vulnérabilité",
+      "tendresse pour soi-même enfant"
+    ],
+    "usagesTypiques": [
+      "révéler la vulnérabilité d'un personnage en apparence dur",
+      "objet qui déclenche un souvenir précis",
+      "détail qui humanise et contredit l'image publique",
+      "objet passé de main en main à travers les générations"
+    ],
+    "variantesNarratives": [
+      "Le jouet caché : le personnage ne veut pas qu'on sache qu'il l'a gardé — la honte de cette tendresse dit quelque chose.",
+      "Le jouet exposé : assumé, parfois ironiquement — le personnage a fait la paix avec cette partie de lui.",
+      "Le jouet donné : geste de transmission ou de guérison — se séparer du jouet est un acte narratif fort."
+    ],
+    "notesEditoriales": [
+      "L'usure du jouet parle du nombre de fois où il a été tenu.",
+      "Ce qu'un adulte garde de son enfance est très révélateur de ce qui lui manque.",
+      "Selon l'état du jouet, l'histoire de l'enfance change."
+    ]
+  },
+  {
+    "id": "cle-sans-serrure",
+    "label": "Clé dont on a perdu la serrure",
+    "definitionCourte": "Clé gardée sans savoir exactement à quoi elle correspond encore — ou en sachant que la porte n'existe plus.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "objet-domestique",
+    "associationsNarratives": [
+      "passé dont on n'a plus accès",
+      "relation ou lieu disparu",
+      "potentiel non réalisé",
+      "appartenance à quelque chose de révolu",
+      "mystère à résoudre"
+    ],
+    "emotionsAssociees": [
+      "nostalgie",
+      "sentiment d'inachevé",
+      "légère mélancolie",
+      "curiosité"
+    ],
+    "usagesTypiques": [
+      "objet trouvé qui ouvre une enquête",
+      "détail sur un personnage qui ne lâche pas un passé inaccessible",
+      "symbole d'un accès refusé ou perdu",
+      "objet de transition dans un récit initiatique"
+    ],
+    "variantesNarratives": [
+      "La clé que le personnage garde sans savoir pourquoi : geste automatique de conservation, la perte de la serrure n'a pas encore été acceptée.",
+      "La clé dont on cherche la serrure : moteur de récit, enquête dans le passé du propriétaire ou dans un lieu inconnu.",
+      "La clé remise à quelqu'un d'autre : acte symbolique d'accès donné — ouvrir quelque chose qu'on n'a jamais pu ouvrir soi-même."
+    ],
+    "notesEditoriales": [
+      "La clé sans serrure est une promesse sans objet — très utile dans les récits de quête.",
+      "Sa charge symbolique augmente si le personnage ne sait pas encore pourquoi il la garde.",
+      "Trouver la serrure (ou apprendre qu'elle n'existe plus) peut structurer un arc entier."
+    ]
+  },
+  {
+    "id": "montre-arretee",
+    "label": "Montre arrêtée",
+    "definitionCourte": "Montre dont les aiguilles sont figées à une heure précise — temps suspendu volontairement ou par accident à un moment que le personnage ne veut pas quitter.",
+    "chargeSymbolique": "haute",
+    "categorie": "bijou",
+    "associationsNarratives": [
+      "moment traumatisant ou heureux dont on ne veut pas partir",
+      "refus d'avancer",
+      "deuil non résolu",
+      "instant que l'on cherche à conserver",
+      "personnage qui vit dans le passé"
+    ],
+    "emotionsAssociees": [
+      "deuil suspendu",
+      "refus de la perte",
+      "nostalgie douloureuse",
+      "attachement obsessionnel"
+    ],
+    "usagesTypiques": [
+      "révéler que le personnage est bloqué dans le temps",
+      "objet hérité d'un mort porteur d'un dernier moment",
+      "détail qui dit sans expliquer",
+      "objet de la scène finale — la montre qui repart"
+    ],
+    "variantesNarratives": [
+      "La montre arrêtée au moment d'un deuil : le personnage n'a pas eu envie de la remonter, et maintenant il ne peut plus.",
+      "La montre arrêtée à l'heure du bonheur : refus actif de la voir avancer — Miss Havisham à toutes les époques.",
+      "La montre remise en marche : geste de résolution, acceptation du temps qui reprend — puissant si discret."
+    ],
+    "notesEditoriales": [
+      "Référence à Miss Havisham de Dickens — le cliché existe, à utiliser avec conscience.",
+      "Son efficacité est dans sa précision : l'heure indiquée peut être chargée de sens.",
+      "Le geste de la remettre à l'heure peut signaler une résolution symbolique."
+    ]
+  },
+  {
+    "id": "livre-annote",
+    "label": "Livre annoté",
+    "definitionCourte": "Livre dont les marges sont couvertes de notes, de soulignements, de questions ou de réponses — preuve d'un dialogue entre un lecteur et un texte.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "document",
+    "associationsNarratives": [
+      "intellectuel ou lecteur passionné",
+      "livre appartenant à un proche disparu",
+      "testament intellectuel ou affectif",
+      "désaccord ou adhésion forte à une idée",
+      "trace d'une époque de la vie du propriétaire"
+    ],
+    "emotionsAssociees": [
+      "curiosité",
+      "sentiment d'intrusion bienveillante",
+      "connexion à travers le temps",
+      "nostalgie intellectuelle"
+    ],
+    "usagesTypiques": [
+      "révéler la pensée d'un personnage sans discours direct",
+      "indice dans un mystère",
+      "héritage d'une relation intellectuelle forte",
+      "objet qui ouvre un dialogue à travers le temps"
+    ],
+    "variantesNarratives": [
+      "Le livre annoté par un proche mort : les annotations sont comme une voix qui continue à parler — dialogue posthume.",
+      "Le livre annoté par le personnage lui-même jeune : confrontation entre qui il était et qui il est — ses notes le surprennent.",
+      "Le livre annoté par quelqu'un d'inconnu : mystère ouvert, qui a lu ça avant et qu'en pensait-il ?"
+    ],
+    "notesEditoriales": [
+      "Les annotations révèlent l'état d'esprit du lecteur au moment de la lecture — pas forcément aujourd'hui.",
+      "Les mots soulignés en disent souvent plus que les notes.",
+      "Un livre annoté trouvé dit autant sur son propriétaire que son journal intime."
+    ]
+  },
+  {
+    "id": "medaille-militaire",
+    "label": "Médaille militaire",
+    "definitionCourte": "Décoration militaire rangée dans une boîte ou portée lors des cérémonies — symbole d'un courage récompensé qui coexiste avec tout ce qu'il a fallu traverser pour l'obtenir.",
+    "chargeSymbolique": "haute",
+    "categorie": "symbole-institutionnel",
+    "associationsNarratives": [
+      "guerre et ses séquelles",
+      "honneur public et trauma privé",
+      "ce qu'on a fait pour être reconnu",
+      "héritage pesant d'un père ou d'un grand-père",
+      "fierté et honte possibles pour la même chose"
+    ],
+    "emotionsAssociees": [
+      "fierté ambivalente",
+      "honte discrète",
+      "poids de l'héritage",
+      "deuil de ce qui a précédé la médaille"
+    ],
+    "usagesTypiques": [
+      "révéler un passé militaire sans le raconter",
+      "héritage familial ambigu",
+      "objet montré avec fierté ou caché avec honte",
+      "contraste entre la beauté de l'objet et ce qu'il représente"
+    ],
+    "variantesNarratives": [
+      "La médaille montrée avec fierté : le personnage assume son histoire, même si elle est complexe — la fierté est un choix.",
+      "La médaille cachée au fond d'un tiroir : le personnage ne veut pas ce qu'elle représente, ni la détruire — ambivalence maximale.",
+      "La médaille héritée et portée pour la première fois : geste de continuité, de transmission — et questionnement sur ce qu'il mérite vraiment."
+    ],
+    "notesEditoriales": [
+      "La médaille ne dit pas ce qu'il a fallu traverser — elle le tait.",
+      "Le personnage qui la montre ou la cache en dit long sur son rapport à ce passé.",
+      "Associée à un vétéran, elle peut déclencher tout un arc narratif sur la mémoire de guerre."
+    ]
+  },
+  {
+    "id": "enveloppe-cachetee",
+    "label": "Enveloppe cachetée",
+    "definitionCourte": "Enveloppe fermée et gardée — à ouvrir à une date précise, après une mort, ou jamais.",
+    "chargeSymbolique": "haute",
+    "categorie": "document",
+    "associationsNarratives": [
+      "testament moral ou affectif",
+      "confession différée",
+      "secret qui attend son moment",
+      "dernier message d'un mourant",
+      "décision que quelqu'un n'a pas encore prise"
+    ],
+    "emotionsAssociees": [
+      "tension",
+      "appréhension",
+      "poids du secret",
+      "respect mêlé de peur"
+    ],
+    "usagesTypiques": [
+      "objet dont le contenu structure tout un arc narratif",
+      "tension liée à la décision d'ouvrir ou non",
+      "révélation différée intentionnellement",
+      "preuve d'un événement passé"
+    ],
+    "variantesNarratives": [
+      "L'enveloppe qu'on ouvre enfin : la révélation est le pivot du récit — ce qu'elle contient réécrit tout ce qui précède.",
+      "L'enveloppe qu'on ne peut pas ouvrir : la résistance à l'ouverture dit quelque chose sur le personnage, pas sur le contenu.",
+      "L'enveloppe ouverte vide ou décevante : ce qu'on attendait n'est pas là — la déception peut être aussi puissante que la révélation."
+    ],
+    "notesEditoriales": [
+      "La puissance de l'enveloppe est dans ce qu'elle ne révèle pas encore.",
+      "Le moment de l'ouverture est souvent plus dramatique que le contenu.",
+      "À ne pas ouvrir trop tôt — sa valeur est dans l'attente."
+    ]
+  },
+  {
+    "id": "carnet-incomplet",
+    "label": "Carnet de notes incomplet",
+    "definitionCourte": "Carnet dont les dernières pages sont vides — interrompu au milieu d'un projet, d'une pensée ou d'une vie.",
+    "chargeSymbolique": "haute",
+    "categorie": "document",
+    "associationsNarratives": [
+      "mort soudaine ou départ imprévu",
+      "abandon d'un projet",
+      "projet dont on ne saura jamais la fin",
+      "vie interrompue",
+      "ce que quelqu'un n'a pas eu le temps de finir"
+    ],
+    "emotionsAssociees": [
+      "mélancolie",
+      "sentiment d'inachevé",
+      "deuil d'une intention",
+      "curiosité douloureuse"
+    ],
+    "usagesTypiques": [
+      "objet hérité qui révèle un être disparu",
+      "trace d'un projet qui aurait pu être",
+      "indice dans un récit policier ou de mystère",
+      "objet porteur d'une question sans réponse"
+    ],
+    "variantesNarratives": [
+      "Le carnet dont on lit les dernières pages écrites : ce qu'on y trouve dit ce qui préoccupait le propriétaire juste avant la fin.",
+      "Le carnet repris par quelqu'un d'autre : continuer l'écriture là où l'autre s'est arrêté — geste de transmission ou d'appropriation.",
+      "Le carnet volontairement laissé vide à partir d'une certaine page : l'arrêt est une décision, pas un accident — plus troublant."
+    ],
+    "notesEditoriales": [
+      "Les pages vierges sont narrativement aussi importantes que les pages écrites.",
+      "La dernière phrase ou esquisse avant le blanc peut tout changer.",
+      "Un carnet incomplet peut signifier une mort, un départ ou simplement un abandon — l'ambiguïté est précieuse."
+    ]
+  },
+  {
+    "id": "vetement-trop-longtemps-garde",
+    "label": "Vêtement gardé trop longtemps",
+    "definitionCourte": "Vêtement d'un disparu ou d'un passé que l'on ne peut pas se résoudre à donner — porté ou simplement conservé, il garde une forme et une odeur.",
+    "chargeSymbolique": "haute",
+    "categorie": "vêtement",
+    "associationsNarratives": [
+      "deuil non résolu",
+      "lien avec quelqu'un de perdu",
+      "refus de laisser partir",
+      "amour ou attachement qui ne cède pas",
+      "identité reliée à une époque révolue"
+    ],
+    "emotionsAssociees": [
+      "deuil",
+      "attachement douloureux",
+      "tendresse",
+      "refus de la perte"
+    ],
+    "usagesTypiques": [
+      "objet révélateur d'un deuil ou d'un attachement",
+      "scène où le personnage enfile ce vêtement ou y enfouit son visage",
+      "décision de le donner comme acte de résolution symbolique",
+      "objet transmis à quelqu'un qui en prend soin"
+    ],
+    "variantesNarratives": [
+      "Le vêtement encore porté : le personnage s'en revêt, parfois sans y penser — l'habitude de porter quelqu'un d'autre.",
+      "Le vêtement plié dans une armoire : gardé mais pas porté — entre la relique et l'abandon.",
+      "Le vêtement donné enfin : acte de résolution symbolique, séparation acceptée — peut-être le plus puissant."
+    ],
+    "notesEditoriales": [
+      "Un vêtement garde l'empreinte du corps — forme, odeur, usure aux endroits précis.",
+      "Le geste d'y enfouir le visage est un cliché — à traiter avec précision pour éviter la facilité.",
+      "Sa force est proportionnelle à la discrétion de sa présence dans la scène."
+    ]
+  },
+  {
+    "id": "cicatrice",
+    "label": "Cicatrice",
+    "definitionCourte": "Trace physique permanente laissée par une blessure — visible ou cachée, elle porte l'histoire d'un moment que le corps n'a pas oublié.",
+    "chargeSymbolique": "haute",
+    "categorie": "marque-corporelle",
+    "associationsNarratives": [
+      "violence subie ou survie",
+      "accident ou maladie",
+      "rite de passage ou initiation",
+      "blessure auto-infligée",
+      "marque d'un lien ou d'un conflit"
+    ],
+    "emotionsAssociees": [
+      "honte ou fierté selon le personnage",
+      "mémoire involontaire",
+      "identité corporelle complexe",
+      "ambivalence face au passé"
+    ],
+    "usagesTypiques": [
+      "révéler un passé sans l'exposer",
+      "objet visible dont les autres demandent l'histoire",
+      "signe d'identité ou de honte selon le personnage",
+      "détail physique qui porte toute une biographie"
+    ],
+    "variantesNarratives": [
+      "La cicatrice que le personnage montre : il a décidé d'assumer — la montrer est un acte, pas seulement un détail.",
+      "La cicatrice que le personnage cache : tout dans son comportement vise à la dissimuler — ce qu'on cache plus que ce qu'on montre.",
+      "La cicatrice remarquée par quelqu'un d'autre : le moment du regard est crucial — ce que le personnage dit ou ne dit pas alors."
+    ],
+    "notesEditoriales": [
+      "La cicatrice est plus forte quand elle est remarquée par quelqu'un d'autre — ce moment de regard dit beaucoup.",
+      "Ce que le personnage dit ou ne dit pas quand on la remarque révèle son rapport à son passé.",
+      "Une cicatrice cachée est souvent plus chargée qu'une cicatrice montrée."
+    ]
+  },
+  {
+    "id": "bague-heritee",
+    "label": "Bague héritée",
+    "definitionCourte": "Bague transmise d'une génération à l'autre — portant avec elle les histoires, les mains et les serments qui l'ont précédée.",
+    "chargeSymbolique": "haute",
+    "categorie": "bijou",
+    "associationsNarratives": [
+      "héritage familial",
+      "continuité entre générations",
+      "serment ou promesse ancienne",
+      "identité transmise",
+      "poids d'une histoire qui précède le personnage"
+    ],
+    "emotionsAssociees": [
+      "sentiment d'appartenance",
+      "poids de la lignée",
+      "fierté ou fardeau",
+      "connexion aux disparus"
+    ],
+    "usagesTypiques": [
+      "objet de transmission dans une scène de famille",
+      "symbole d'appartenance ou d'obligation",
+      "objet vendu ou perdu en signe de rupture",
+      "détail qui ancre le personnage dans sa lignée"
+    ],
+    "variantesNarratives": [
+      "La bague portée avec fierté : le personnage assume la lignée, la transmission est voulue et assumée.",
+      "La bague portée avec ambivalence : il la porte parce qu'on la lui a donnée, pas parce qu'il la choisit — l'héritage comme obligation.",
+      "La bague vendue ou perdue : acte de rupture avec la lignée, ou accident révélateur de ce que le personnage en pense vraiment."
+    ],
+    "notesEditoriales": [
+      "La bague héritée porte d'autres mains que celles qui la portent maintenant — à évoquer.",
+      "La décision de la porter ou non est déjà un acte narratif.",
+      "Sa taille ou sa forme peut ne pas convenir au personnage — détail physique révélateur."
+    ]
+  }
+]

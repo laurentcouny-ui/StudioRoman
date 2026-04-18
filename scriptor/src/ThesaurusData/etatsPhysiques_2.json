@@ -1,0 +1,785 @@
+[
+  {
+    "id": "froid-penetrant",
+    "label": "Froid pénétrant",
+    "groupe": "temperature",
+    "definitionCourte": "Froid qui s'installe dans les os et qui résiste aux efforts pour se réchauffer, ralentissant le corps, la pensée et les réflexes.",
+    "signesPhysiques": [
+      "peau pâle ou bleutée aux extrémités",
+      "frissons qui reviennent par vagues",
+      "dents qui claquent malgré soi",
+      "mains crispées et peu mobiles",
+      "lèvres légèrement violacées",
+      "posture repliée sur elle-même",
+      "nez rouge ou pincé",
+      "respiration visible dans l'air froid"
+    ],
+    "sensationsInternes": [
+      "froid qui commence aux extrémités et remonte",
+      "muscles qui se contractent sans s'arrêter",
+      "engourdissement progressif des doigts et des orteils",
+      "fatigue liée à l'effort de maintenir la chaleur",
+      "pensée plus lente et plus floue",
+      "impression que le corps économise tout pour la chaleur centrale"
+    ],
+    "effetsSurPerception": [
+      "sons semblent plus clairs dans le froid",
+      "mouvements plus difficiles à préciser",
+      "distances semblent plus grandes",
+      "temps se déroule plus lentement"
+    ],
+    "effetsVoixLangage": [
+      "voix tremblée",
+      "mots moins articulés",
+      "phrases plus courtes pour économiser",
+      "dents serrées qui altèrent l'articulation"
+    ],
+    "pensees": [
+      "Je ne sens plus mes pieds.",
+      "Il faut se réchauffer.",
+      "Encore un peu.",
+      "Je n'ai jamais eu aussi froid.",
+      "Mon corps ne répond plus correctement.",
+      "La chaleur. N'importe quelle chaleur.",
+      "Si je m'arrête, ça va être pire."
+    ],
+    "comportements": [
+      "se frotte les mains et les bras",
+      "soufle sur ses doigts",
+      "cherche tout ce qui peut donner de la chaleur",
+      "se rapproche d'une autre personne",
+      "bouge pour se réchauffer",
+      "perd de la précision dans les gestes"
+    ],
+    "masquesPossibles": [
+      "stoïcisme qui retarde l'aveu",
+      "insistance à continuer malgré l'état"
+    ],
+    "evolutionsPossibles": [
+      "hypothermie si le froid est extrême et prolongé",
+      "engourdissement mental qui ressemble à l'ivresse",
+      "réchauffement progressif douloureux dans les extrémités"
+    ],
+    "contextesAggravants": [
+      "humidité qui pénètre les vêtements",
+      "vent",
+      "fatigue qui réduit la résistance",
+      "vêtements inadaptés"
+    ],
+    "contextesAttenuants": [
+      "abri et chaleur",
+      "contact corporel",
+      "boisson chaude",
+      "mouvement physique intense"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère fraîcheur", "description": "Le personnage est un peu froid. Il aimerait un pull." },
+      { "niveau": 2, "label": "Froid sensible", "description": "Les mains sont froides. Le personnage cherche à se réchauffer." },
+      { "niveau": 3, "label": "Froid pénétrant", "description": "Tout le corps est concerné. Les frissons sont fréquents." },
+      { "niveau": 4, "label": "Froid intense", "description": "Les membres s'engourdissent. La pensée ralentit." },
+      { "niveau": 5, "label": "Hypothermie débutante", "description": "Le corps commence à lâcher. La chaleur centrale est préservée au détriment des extrémités." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage en situation de survie",
+        "description": "Le froid est un ennemi qui mérite une stratégie. Il gère les ressources thermiques, surveille ses extrémités, calcule la durée qu'il peut tenir."
+      },
+      {
+        "profil": "Personnage peu habitué au grand froid",
+        "description": "Le froid pénétrant est une surprise. Il ne savait pas que le corps pouvait faire si mal sans blessure visible. La déstabilisation est aussi psychologique."
+      },
+      {
+        "profil": "Personnage attendant quelque chose",
+        "description": "Le froid s'accumule pendant l'attente. Il rend l'attente plus difficile à tenir. L'inconfort physique ronge la patience et la détermination."
+      }
+    ],
+    "notesEditoriales": [
+      "Le froid ralentit tout — utile pour les scènes où le rythme doit être pesant.",
+      "Il crée une urgence de survie même dans des situations non extrêmes.",
+      "Le contact physique pour se réchauffer révèle l'intimité ou la hiérarchie entre personnages.",
+      "Le froid pénétrant affecte la parole — à montrer dans les dialogues."
+    ]
+  },
+  {
+    "id": "chaleur-etouffante",
+    "label": "Chaleur étouffante",
+    "groupe": "temperature",
+    "definitionCourte": "Chaleur excessive qui épuise le corps, alourdit chaque geste et rend l'air irrespirable, surtout combinée à l'humidité.",
+    "signesPhysiques": [
+      "sueur qui perle en permanence",
+      "visage rouge et brillant",
+      "chemise ou vêtements trempés",
+      "gestes ralentis pour économiser l'énergie",
+      "respiration plus lente et plus profonde",
+      "yeux qui cherchent l'ombre",
+      "lèvres sèches",
+      "peau collante"
+    ],
+    "sensationsInternes": [
+      "lourdeur dans les membres",
+      "tête qui pulse légèrement",
+      "soif constante",
+      "fatigue sans avoir bougé",
+      "impression que l'air n'entre pas assez",
+      "irritabilité de fond",
+      "nausée légère si la chaleur est extrême"
+    ],
+    "effetsSurPerception": [
+      "l'air tremble au-dessus des surfaces chaudes",
+      "les distances semblent plus longues",
+      "les odeurs sont plus fortes",
+      "le temps paraît plus lent"
+    ],
+    "effetsVoixLangage": [
+      "voix plus basse pour économiser",
+      "moins de mots",
+      "irritabilité dans le ton",
+      "phrases courtes"
+    ],
+    "pensees": [
+      "Je ne peux pas respirer.",
+      "Il faut de l'eau.",
+      "Cette chaleur est insupportable.",
+      "Je n'arrive plus à penser.",
+      "L'ombre. Juste un peu d'ombre.",
+      "Je ferais n'importe quoi pour de l'air frais.",
+      "À quoi bon se presser dans cette chaleur."
+    ],
+    "comportements": [
+      "cherche l'ombre ou l'air conditionné",
+      "s'évente avec ce qui est disponible",
+      "boit fréquemment",
+      "réduit ses mouvements au minimum",
+      "desserre ses vêtements",
+      "s'allonge si possible",
+      "irritabilité si quelqu'un le sollicite trop"
+    ],
+    "masquesPossibles": [
+      "stoïcisme qui refuse de montrer l'inconfort",
+      "fausse légèreté"
+    ],
+    "evolutionsPossibles": [
+      "coup de chaleur si la situation dure",
+      "déshydratation",
+      "malaise ou perte de connaissance"
+    ],
+    "contextesAggravants": [
+      "humidité élevée",
+      "absence de ventilation ou d'ombre",
+      "effort physique",
+      "vêtements inadaptés"
+    ],
+    "contextesAttenuants": [
+      "ombre",
+      "eau froide",
+      "ventilation",
+      "immobilité"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Chaleur agréable", "description": "Chaud mais supportable. Le personnage s'adapte." },
+      { "niveau": 2, "label": "Chaleur gênante", "description": "La sueur apparaît. L'effort est plus difficile." },
+      { "niveau": 3, "label": "Chaleur étouffante", "description": "Chaque geste coûte. La patience s'érode." },
+      { "niveau": 4, "label": "Chaleur intense", "description": "Difficile de penser clairement. Le corps lutte." },
+      { "niveau": 5, "label": "Coup de chaleur imminent", "description": "Vertiges, confusion, nausée. Le corps cède." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage habitué au froid",
+        "description": "La chaleur l'écrase plus rapidement. Il ne sait pas comment son corps y répondre. La sueur le choque presque."
+      },
+      {
+        "profil": "Personnage en mission ou en mouvement",
+        "description": "La chaleur est un obstacle à gérer. Il rationalise, hydrate, adapte. Mais elle finit toujours par gruger ses ressources."
+      },
+      {
+        "profil": "Personnage habitué aux pays chauds",
+        "description": "La chaleur est moins oppressante mais pas absente. Il sait comment se comporter dedans. Il voit les autres souffrir et les aide — ou les juge."
+      }
+    ],
+    "notesEditoriales": [
+      "La chaleur étouffante ralentit les scènes — utile pour créer une atmosphère de tension latente.",
+      "Elle rend les personnages plus irritables et moins diplomates — source de conflits.",
+      "L'odeur de sueur et de chaleur est un détail sensoriel très ancrant.",
+      "Une décision prise sous la chaleur peut être différente de la même décision prise au frais."
+    ]
+  },
+  {
+    "id": "ivresse",
+    "label": "Ivresse",
+    "groupe": "substance",
+    "definitionCourte": "État d'altération physique et mentale causé par l'alcool ou une substance, qui réduit les inhibitions, déforme la perception et altère le jugement.",
+    "signesPhysiques": [
+      "regard qui met plus de temps à faire la mise au point",
+      "gestes trop larges ou pas assez précis",
+      "démarche légèrement déséquilibrée",
+      "rougeur au visage",
+      "sourire plus facile et moins calculé",
+      "voix plus forte que d'habitude",
+      "réflexes ralentis",
+      "odeur d'alcool"
+    ],
+    "sensationsInternes": [
+      "légèreté dans les membres",
+      "chaleur dans le ventre qui remonte",
+      "impression que tout est plus simple",
+      "perte progressive du fil des pensées",
+      "sentiment d'invincibilité ou d'abandon",
+      "flottement agréable",
+      "disparition de certaines tensions habituelles"
+    ],
+    "effetsSurPerception": [
+      "les lumières semblent plus douces ou plus belles",
+      "les sons semblent plus lointains",
+      "le temps devient non linéaire",
+      "les visages sont moins lisibles",
+      "les distances sont sous-estimées"
+    ],
+    "effetsVoixLangage": [
+      "volume plus élevé sans s'en rendre compte",
+      "articulation moins nette",
+      "diction ralentie",
+      "mots qui se cherchent plus longtemps",
+      "dit des choses qu'il ne dirait pas sobre"
+    ],
+    "pensees": [
+      "Je suis bien.",
+      "Tout le monde est formidable.",
+      "Je peux tout dire ce soir.",
+      "Ce n'est pas grave.",
+      "Encore un verre — juste un.",
+      "Je contrôle — vraiment.",
+      "Je suis drôle ce soir."
+    ],
+    "comportements": [
+      "dit ce qu'il pense sans filtre",
+      "rit plus facilement",
+      "cherche le contact physique plus souvent",
+      "prend des risques qu'il ne prendrait pas sobre",
+      "oublie des pans de soirée",
+      "se rapproche des personnes qui l'attirent",
+      "danse ou chante sans inhibition"
+    ],
+    "masquesPossibles": [
+      "fausse lucidité — « je suis totalement sobre »",
+      "maîtrise calculée qui cache l'ivresse aux autres"
+    ],
+    "evolutionsPossibles": [
+      "gueule de bois le lendemain",
+      "regrets si des choses ont été dites ou faites",
+      "maladie si l'alcool était trop fort",
+      "vérité révélée que le personnage voulait garder"
+    ],
+    "contextesAggravants": [
+      "estomac vide",
+      "mélanges",
+      "fatigue préalable",
+      "alcoolisation rapide"
+    ],
+    "contextesAttenuants": [
+      "rythme lent",
+      "eau et nourriture",
+      "arrêt à temps"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère désinhibition", "description": "Un verre. Le personnage est légèrement plus détendu." },
+      { "niveau": 2, "label": "Ivresse agréable", "description": "Légèreté réelle. Les inhibitions baissent." },
+      { "niveau": 3, "label": "Ivresse franche", "description": "L'articulation change. Le jugement est altéré." },
+      { "niveau": 4, "label": "Ivresse avancée", "description": "Les filtres sont tombés. Le personnage dit et fait des choses inhabituelles." },
+      { "niveau": 5, "label": "Ivresse totale", "description": "La conscience est fragmentée. Le lendemain sera difficile à reconstituer." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage très contrôlé sobre",
+        "description": "L'ivresse le libère. Il dit des vérités qu'il n'oserait jamais. Puis vient la honte. Le cycle se répète."
+      },
+      {
+        "profil": "Personnage qui boit souvent",
+        "description": "L'ivresse lui ressemble trop pour être une révélation. Elle est une habitude. Ce qu'elle révèle, c'est ce qui l'amène à boire — pas ce qu'il dit dedans."
+      },
+      {
+        "profil": "Personnage qui ne boit jamais",
+        "description": "La première ivresse est déroutante. Il ne reconnaît pas l'état pour ce qu'il est. Il croit avoir le contrôle bien au-delà du moment où il l'a perdu."
+      }
+    ],
+    "notesEditoriales": [
+      "L'ivresse est narrative parce qu'elle lève les filtres — ce que le personnage dit en ivresse révèle ce qu'il pense vraiment.",
+      "Ne pas la réduire à la comédie : l'ivresse peut être douloureuse, révélatrice ou dangereuse.",
+      "Les dialogues sous ivresse ont un rythme particulier — à reproduire avec précision.",
+      "Ce qui est dit sous ivresse a des conséquences sobres — c'est là son intérêt narratif."
+    ]
+  },
+  {
+    "id": "gueule-de-bois",
+    "label": "Gueule de bois",
+    "groupe": "substance",
+    "definitionCourte": "État de lendemain d'alcool : mal de crâne, nausée, déshydratation, honte et fragmentation du souvenir qui s'assemblent en une journée difficile.",
+    "signesPhysiques": [
+      "yeux gonflés et sensibles à la lumière",
+      "visage pâle ou grisâtre",
+      "bouche sèche",
+      "mouvements lents et précautionneux",
+      "expression fermée et peu mobile",
+      "regard qui évite la lumière directe"
+    ],
+    "sensationsInternes": [
+      "douleur pulsatile dans la tête",
+      "nausée à la moindre odeur",
+      "déshydratation profonde",
+      "corps qui réclame du repos et de l'eau",
+      "honte sourde avant même que les souvenirs reviennent",
+      "fragments de soirée qui remontent par morceaux déplaisants"
+    ],
+    "effetsSurPerception": [
+      "lumière douloureuse",
+      "sons amplifiés et agressifs",
+      "odeurs intolérables",
+      "temps qui passe trop lentement"
+    ],
+    "effetsVoixLangage": [
+      "voix rauque",
+      "peu de mots",
+      "irritabilité dans le ton",
+      "réponses minimales"
+    ],
+    "pensees": [
+      "Pourquoi j'ai fait ça.",
+      "Est-ce que j'ai dit quelque chose que je n'aurais pas dû ?",
+      "De l'eau. De l'eau d'abord.",
+      "Je ne recommencerai pas.",
+      "Qu'est-ce qui s'est passé après que... ?",
+      "La lumière. Ferme les rideaux.",
+      "Je veux que cette journée soit finie."
+    ],
+    "comportements": [
+      "reste allongé le plus longtemps possible",
+      "boit de l'eau en grandes quantités",
+      "consulte son téléphone avec anxiété pour reconstruire la soirée",
+      "évite toute sollicitation",
+      "mange peu ou beaucoup selon le type",
+      "se souvient par fragments et avec gêne"
+    ],
+    "masquesPossibles": [
+      "humour de façade sur son état",
+      "fonctionnement forcé au café"
+    ],
+    "evolutionsPossibles": [
+      "amélioration progressive dans l'après-midi",
+      "regrets si des choses ont été faites",
+      "résolution de ne plus boire — plus ou moins durable"
+    ],
+    "contextesAggravants": [
+      "obligation de travailler ou d'être présent",
+      "odeurs fortes",
+      "lumière vive",
+      "bruits"
+    ],
+    "contextesAttenuants": [
+      "obscurité et silence",
+      "eau et nourriture grasse",
+      "sommeil supplémentaire"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère gueule de bois", "description": "Tête lourde. Fonctionnel mais à régime réduit." },
+      { "niveau": 2, "label": "Gueule de bois franche", "description": "Douleur de tête, nausée. La journée sera difficile." },
+      { "niveau": 3, "label": "Gueule de bois sérieuse", "description": "Difficile de se lever. Les mouvements aggravent la douleur." },
+      { "niveau": 4, "label": "Gueule de bois sévère", "description": "Vomissements. Incapacité à fonctionner normalement." },
+      { "niveau": 5, "label": "Effet cumulatif", "description": "Plusieurs nuits consécutives. Le corps ne récupère plus vraiment entre les deux." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui doit affronter les conséquences de la veille",
+        "description": "La gueule de bois physique est doublée d'une gueule de bois sociale. Chaque souvenir qui revient est une nouvelle douleur."
+      },
+      {
+        "profil": "Personnage habitué",
+        "description": "Il connaît ses remèdes. Il gère méthodiquement. La honte n'est plus là — ou elle est tellement installée qu'elle ne compte plus."
+      },
+      {
+        "profil": "Personnage qui a bu pour oublier",
+        "description": "La gueule de bois est le retour de tout ce qu'il voulait oublier, amplifié par la vulnérabilité physique. Le pire moment pour affronter ce qu'on fuyait."
+      }
+    ],
+    "notesEditoriales": [
+      "La gueule de bois est une contrainte physique qui force la vulnérabilité — utile pour faire tomber les masques.",
+      "La honte et la reconstruction des souvenirs sont aussi narratives que l'état physique.",
+      "Un personnage en gueule de bois qui doit affronter quelqu'un de la veille est une situation très tendue.",
+      "Le détail sensoriel (lumière, son, odeur) est essentiel pour rendre la gueule de bois crédible."
+    ]
+  },
+  {
+    "id": "douleur-sourde",
+    "label": "Douleur sourde",
+    "groupe": "douleur",
+    "definitionCourte": "Douleur persistante de basse intensité qui ne cède pas mais n'empêche pas d'agir, et qui use progressivement par sa constance plus que par son intensité.",
+    "signesPhysiques": [
+      "expression légèrement contractée en permanence",
+      "posture ajustée pour minimiser la douleur",
+      "mouvements légèrement limités dans un sens",
+      "main portée parfois à la zone sans y penser",
+      "légère raideur dans la démarche ou le geste",
+      "fatigue due à l'effort de continuer malgré"
+    ],
+    "sensationsInternes": [
+      "douleur constante qui ne disparaît jamais complètement",
+      "parfois plus forte, jamais absente",
+      "occupation permanente d'une partie de l'attention",
+      "usure par accumulation",
+      "irritabilité légère liée à l'inconfort permanent",
+      "difficulté à oublier le corps"
+    ],
+    "effetsSurPerception": [
+      "le seuil de patience est plus bas qu'à la normale",
+      "les petites frustrations sont amplifiées",
+      "le plaisir est atténué — le fond de douleur teinte tout"
+    ],
+    "effetsVoixLangage": [
+      "légère tension dans le ton",
+      "moins de disponibilité pour l'autre",
+      "réponses légèrement plus courtes"
+    ],
+    "pensees": [
+      "Ça ne part pas.",
+      "Ce n'est pas insupportable — juste là.",
+      "J'espère que ça ne va pas empirer.",
+      "Si je ne y pensais pas, ce serait plus simple.",
+      "Encore combien de temps ?",
+      "Je peux fonctionner — c'est juste usant."
+    ],
+    "comportements": [
+      "ajuste sa position régulièrement",
+      "évite certains gestes sans y penser",
+      "prend un analgésique par précaution",
+      "signale la douleur si elle s'intensifie",
+      "minimise quand on lui demande comment il va"
+    ],
+    "masquesPossibles": [
+      "normalisation complète",
+      "humour sur son état chronique",
+      "stoïcisme qui sous-estime aux yeux des autres"
+    ],
+    "evolutionsPossibles": [
+      "aggravation si l'origine n'est pas traitée",
+      "habituation qui masque un problème sérieux",
+      "crise aiguë si la cause s'aggrave"
+    ],
+    "contextesAggravants": [
+      "fatigue qui réduit la tolérance",
+      "froid ou humidité",
+      "geste qui réveille la zone",
+      "stress qui contracte les muscles"
+    ],
+    "contextesAttenuants": [
+      "repos et immobilité",
+      "chaleur sur la zone",
+      "analgésique",
+      "distraction suffisante"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Gêne légère", "description": "Présente mais oubliable. Le personnage fonctionne normalement." },
+      { "niveau": 2, "label": "Douleur sourde sensible", "description": "Toujours là. Le personnage s'y est adapté mais elle pèse." },
+      { "niveau": 3, "label": "Douleur usante", "description": "Difficile d'ignorer. La patience diminue." },
+      { "niveau": 4, "label": "Douleur chronique épuisante", "description": "Le personnage ne sait plus ce que c'est de ne pas avoir mal." },
+      { "niveau": 5, "label": "Douleur invalidante basse", "description": "Elle limite les activités malgré son intensité relative." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage avec douleur chronique ancienne",
+        "description": "Il s'y est adapté. C'est sa normale. Il ne s'en plaint plus — non parce que ça va mieux, mais parce que se plaindre n'a rien changé."
+      },
+      {
+        "profil": "Personnage nouvellement douloureux",
+        "description": "La douleur est nouvelle et déstabilisante. Il ne sait pas encore combien de temps elle va durer. L'incertitude est aussi épuisante que la douleur."
+      },
+      {
+        "profil": "Personnage qui cache sa douleur",
+        "description": "La dissimulation coûte presque autant que la douleur elle-même. Il surveille ses réactions, ses postures, ses mots."
+      }
+    ],
+    "notesEditoriales": [
+      "La douleur sourde crée un fond permanent qui teinte tout ce que le personnage ressent.",
+      "Elle est narrative dans ce qu'elle use, pas dans ce qu'elle interdit.",
+      "Un personnage dont la douleur chronique est finalement vue par quelqu'un d'autre est un moment de vulnérabilité puissant.",
+      "Distinguer de la douleur aiguë : celle-ci frappe et passe, la sourde reste."
+    ]
+  },
+  {
+    "id": "hyperventilation",
+    "label": "Hyperventilation",
+    "groupe": "respiratoire",
+    "definitionCourte": "Respiration trop rapide et trop superficielle qui altère l'équilibre en dioxyde de carbone, provoquant des fourmillements, des vertiges et une intensification de la panique.",
+    "signesPhysiques": [
+      "respiration rapide et visible",
+      "épaules qui montent à chaque inspiration",
+      "visage pâle",
+      "fourmillements dans les mains et autour de la bouche",
+      "tétanie légère des mains dans les cas graves",
+      "regard affolé qui cherche un ancrage",
+      "gorge serrée malgré les inspirations fréquentes"
+    ],
+    "sensationsInternes": [
+      "impression de ne pas avoir assez d'air malgré la respiration",
+      "fourmillements dans les extrémités",
+      "vertiges croissants",
+      "peur qui s'amplifie avec la respiration",
+      "sentiment de perte de contrôle du corps",
+      "picotements dans les lèvres et les doigts"
+    ],
+    "effetsSurPerception": [
+      "tunnel visuel",
+      "sons qui semblent venir de loin",
+      "impression d'irréalité",
+      "corps qui semble ne plus appartenir au personnage"
+    ],
+    "effetsVoixLangage": [
+      "parole hachée entre deux respirations",
+      "impossible de finir une phrase",
+      "voix très haute dans la panique"
+    ],
+    "pensees": [
+      "Je n'arrive pas à respirer.",
+      "Je vais m'évanouir.",
+      "Respire. Lentement. Je n'y arrive pas.",
+      "Mon corps ne fonctionne plus.",
+      "Quelqu'un — aidez-moi.",
+      "C'est ça mourir ?",
+      "Contrôle. Il faut que je contrôle."
+    ],
+    "comportements": [
+      "cherche un soutien physique",
+      "tente de contrôler la respiration et échoue",
+      "s'assoit ou se couche",
+      "cherche quelqu'un qui peut l'aider à ralentir",
+      "agrippé ses propres bras ou mains"
+    ],
+    "masquesPossibles": [
+      "fuite dans un espace isolé pour ne pas être vu",
+      "tentative de normalisation verbale"
+    ],
+    "evolutionsPossibles": [
+      "résolution avec la respiration guidée",
+      "évanouissement si cela dure",
+      "panique aggravée si non traité"
+    ],
+    "contextesAggravants": [
+      "panique ou anxiété intense",
+      "chaleur et manque d'air",
+      "espace clos",
+      "confrontation émotionnelle intense"
+    ],
+    "contextesAttenuants": [
+      "respiration guidée par quelqu'un de calme",
+      "air frais",
+      "point de focalisation visuel",
+      "voix rassurante"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Respiration accélérée", "description": "Le personnage respire vite. Pas encore de symptômes physiques sérieux." },
+      { "niveau": 2, "label": "Hyperventilation débutante", "description": "Les fourmillements commencent. Le personnage le remarque." },
+      { "niveau": 3, "label": "Hyperventilation franche", "description": "Vertiges et fourmillements marqués. Très difficile de calmer seul." },
+      { "niveau": 4, "label": "Crise", "description": "Tétanie des mains possible. Le personnage est dépassé." },
+      { "niveau": 5, "label": "Évanouissement imminent", "description": "Le corps se défend en coupant la conscience." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui en a déjà eu",
+        "description": "Reconnaît les signes. Sait ce qu'il faut faire — mais parfois la panique de l'hyperventilation elle-même empêche d'appliquer les remèdes."
+      },
+      {
+        "profil": "Personnage pour la première fois",
+        "description": "Croit mourir. La méconnaissance de ce qui se passe amplifie la panique. Il a besoin que quelqu'un lui nomme ce qui arrive."
+      },
+      {
+        "profil": "Personnage qui en est témoin",
+        "description": "Voit quelqu'un hyperventiler et doit réagir. La scène lui demande calme et présence pendant que l'autre est en crise."
+      }
+    ],
+    "notesEditoriales": [
+      "L'hyperventilation est à la fois une cause et un effet de la panique — le cercle vicieux est narrativement utile.",
+      "Elle force le personnage à s'arrêter — utile pour interrompre une action ou forcer une présence.",
+      "La voix de quelqu'un qui aide un hyperventilant à ralentir est l'une des formes d'intimité les plus efficaces.",
+      "La dissociation légère qui l'accompagne peut être utilisée pour des perceptions décalées."
+    ]
+  },
+  {
+    "id": "engourdissement-physique",
+    "label": "Engourdissement physique",
+    "groupe": "etat-neuro-musculaire",
+    "definitionCourte": "Perte partielle ou totale de sensibilité dans une zone du corps — mains, pieds, membres — causée par le froid, la pression, la peur ou un choc.",
+    "signesPhysiques": [
+      "maladresse dans les gestes fins",
+      "regard sur les mains comme pour les surveiller depuis l'extérieur",
+      "mouvements compensatoires — regarder ce qu'on ne sent plus",
+      "air absent si l'engourdissement est mental",
+      "gestes trop amples pour compenser le manque de retour sensoriel"
+    ],
+    "sensationsInternes": [
+      "fourmillements qui précèdent ou suivent l'engourdissement",
+      "absence de sensation là où il devrait y en avoir",
+      "sentiment d'étrangeté du membre",
+      "impression que la zone concernée n'appartient plus tout à fait au corps",
+      "froid sans douleur dans les cas de froid"
+    ],
+    "effetsSurPerception": [
+      "les objets tenus sans les sentir — risque de les lâcher",
+      "distances mal évaluées dans la zone engourdie",
+      "déconnexion corps/esprit légère"
+    ],
+    "effetsVoixLangage": [
+      "mention fonctionnelle : « mes mains ne répondent plus »",
+      "calme étrange si l'engourdissement est émotionnel"
+    ],
+    "pensees": [
+      "Je ne sens plus rien là.",
+      "Mes doigts ne m'obéissent plus.",
+      "Si je secoue — ça revient ?",
+      "Il faut bouger pour que ça reparte.",
+      "Est-ce que ça va revenir ?"
+    ],
+    "comportements": [
+      "secoue ou frictionne la zone engourdie",
+      "regarde ses mains ou ses pieds",
+      "évite les gestes fins jusqu'à ce que ça revienne",
+      "demande de l'aide pour les tâches précises"
+    ],
+    "masquesPossibles": [
+      "cache les mains si elles tremblent ou ne répondent pas",
+      "continue à fonctionner en compensant visuellement"
+    ],
+    "evolutionsPossibles": [
+      "retour des fourmillements douloureux au réchauffement",
+      "persistance si la cause n'est pas traitée",
+      "engourdissement émotionnel si le corps signale un trauma"
+    ],
+    "contextesAggravants": [
+      "froid intense",
+      "pression sur un nerf",
+      "choc ou trauma",
+      "état de choc émotionnel"
+    ],
+    "contextesAttenuants": [
+      "réchauffement progressif",
+      "mouvement",
+      "massage doux"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légers fourmillements", "description": "Gêne légère. Ça part tout seul." },
+      { "niveau": 2, "label": "Engourdissement partiel", "description": "La sensibilité est réduite. Les gestes fins sont difficiles." },
+      { "niveau": 3, "label": "Engourdissement franc", "description": "La zone ne répond presque plus. Les objets tenus risquent de tomber." },
+      { "niveau": 4, "label": "Perte de sensibilité totale", "description": "Aucune sensation dans la zone. Compensation visuelle nécessaire." },
+      { "niveau": 5, "label": "Dissociation physique", "description": "Le membre semble ne plus appartenir au corps. Inquiétude légitime." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage dans le froid extrême",
+        "description": "L'engourdissement est d'abord un soulagement après la douleur du froid — puis une alerte. Quand on ne sent plus, le danger est réel."
+      },
+      {
+        "profil": "Personnage en état de choc",
+        "description": "L'engourdissement physique accompagne l'engourdissement émotionnel. Le corps et l'esprit coupent simultanément. C'est une forme de protection."
+      },
+      {
+        "profil": "Personnage blessé qui attend de l'aide",
+        "description": "L'engourdissement d'une blessure peut être pris pour une amélioration — à tort. La lucidité sur ce que ça signifie vraiment est un moment de tension."
+      }
+    ],
+    "notesEditoriales": [
+      "L'engourdissement physique peut être la métaphore d'un engourdissement émotionnel — à utiliser en miroir.",
+      "Il révèle les limites du contrôle volontaire sur le corps.",
+      "Le retour de la sensibilité est souvent douloureux — narrativement utile après un moment de protection.",
+      "Distinct de la paralysie : l'engourdissement laisse le mouvement, pas la sensation."
+    ]
+  },
+  {
+    "id": "faiblesse-physique",
+    "label": "Faiblesse physique",
+    "groupe": "epuisement",
+    "definitionCourte": "Manque de force musculaire ou de résistance physique qui peut venir de la convalescence, du manque de nourriture, d'une maladie ou d'un épuisement prolongé.",
+    "signesPhysiques": [
+      "gestes imprécis, sans force",
+      "mains qui lâchent des objets ordinaires",
+      "jambes qui peinent à monter les escaliers",
+      "voix plus faible que d'habitude",
+      "effort visible pour des tâches habituellement automatiques",
+      "tremblement léger lors d'efforts même modestes",
+      "s'appuie systématiquement sur quelque chose"
+    ],
+    "sensationsInternes": [
+      "muscles qui ne répondent plus à la demande",
+      "effort pour les gestes du quotidien",
+      "fatigue qui arrive très vite",
+      "impression que le corps est plus fragile qu'avant",
+      "frustration ou honte de ne pas pouvoir faire ce qui était simple"
+    ],
+    "effetsSurPerception": [
+      "les distances semblent plus longues",
+      "les gestes des autres semblent plus faciles",
+      "conscient de chaque effort physique"
+    ],
+    "effetsVoixLangage": [
+      "voix moins projetée",
+      "moins d'énergie dans les formulations",
+      "réponses plus courtes pour économiser"
+    ],
+    "pensees": [
+      "Je n'aurais pas cru que ça prendrait autant de temps.",
+      "Je veux juste pouvoir faire ça seul.",
+      "Je suis devenu si fragile.",
+      "Encore un effort — juste un.",
+      "Ça faisait automatique avant.",
+      "Il ne faut pas que les autres voient à quel point c'est difficile."
+    ],
+    "comportements": [
+      "s'assoit souvent pour reprendre des forces",
+      "demande de l'aide pour des choses habituellement autonomes",
+      "évite les efforts non indispensables",
+      "s'accroche aux rampes et aux surfaces",
+      "planifie ses déplacements pour minimiser les efforts"
+    ],
+    "masquesPossibles": [
+      "stoïcisme qui refuse de montrer la faiblesse",
+      "humour sur son état pour dédramatiser"
+    ],
+    "evolutionsPossibles": [
+      "récupération progressive avec repos et nourriture",
+      "rechute si le repos est interrompu",
+      "acceptation difficile si la faiblesse est permanente"
+    ],
+    "contextesAggravants": [
+      "devoir se lever et agir malgré",
+      "sollicitations qui ignorent l'état",
+      "conditions physiques difficiles supplémentaires"
+    ],
+    "contextesAttenuants": [
+      "repos prolongé",
+      "nourriture régulière",
+      "aide concrète d'un proche"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère faiblesse", "description": "Le personnage est moins vif que d'habitude. Fonctionnel." },
+      { "niveau": 2, "label": "Faiblesse sensible", "description": "Les efforts physiques sont plus difficiles. Il doit ménager ses forces." },
+      { "niveau": 3, "label": "Faiblesse marquée", "description": "Les tâches ordinaires demandent un effort réel." },
+      { "niveau": 4, "label": "Faiblesse invalidante", "description": "Difficile de se déplacer seul. L'aide est nécessaire." },
+      { "niveau": 5, "label": "Incapacité physique", "description": "Le personnage ne peut pas se lever seul ou faire des gestes de base." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage en convalescence",
+        "description": "La faiblesse est temporaire — il le sait. Mais l'impatience de retrouver sa force est parfois plus épuisante que la faiblesse elle-même."
+      },
+      {
+        "profil": "Personnage d'habitude très physique",
+        "description": "La faiblesse est une humiliation. Son identité est en partie physique. Ne plus pouvoir faire ce qu'il faisait le déstabilise profondément."
+      },
+      {
+        "profil": "Personnage âgé",
+        "description": "La faiblesse s'est installée progressivement. Il s'y est adapté — mais certains jours, la comparaison avec avant est douloureuse."
+      }
+    ],
+    "notesEditoriales": [
+      "La faiblesse physique crée de la dépendance — et la dépendance crée de l'intimité ou du conflit.",
+      "Elle révèle ce que le personnage pense de sa propre fragilité.",
+      "Un personnage fort devenu faible est plus intéressant narrativement qu'un personnage faible depuis le début.",
+      "La faiblesse physique peut coexister avec une force morale — contraste narratif puissant."
+    ]
+  }
+]

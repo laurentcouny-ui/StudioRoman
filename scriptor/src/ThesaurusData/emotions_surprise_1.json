@@ -1,0 +1,482 @@
+[
+  {
+    "id": "surprise",
+    "label": "Surprise",
+    "alias": [
+      "surprise",
+      "étonnement",
+      "saisissement",
+      "choc léger",
+      "stupéfaction légère",
+      "incrédulité initiale",
+      "réaction à l'inattendu",
+      "trouble momentané",
+      "saisie",
+      "décontenancement"
+    ],
+    "famille": "surprise-confusion",
+    "definitionCourte": "Réaction brève et intense à quelque chose d'inattendu qui interrompt le cours normal de la pensée et du comportement.",
+    "signesPhysiques": [
+      "sourcils qui remontent brusquement",
+      "yeux qui s'ouvrent plus grands",
+      "bouche qui s'ouvre légèrement",
+      "inspiration soudaine et brève",
+      "immobilité de une à deux secondes avant la réaction",
+      "main qui se porte vers la bouche ou la poitrine",
+      "sursaut si la surprise est sonore ou soudaine",
+      "recul d'un demi-pas",
+      "voix qui s'interrompt à mi-phrase"
+    ],
+    "sensationsInternes": [
+      "décharge brusque d'adrénaline",
+      "suspension momentanée de la pensée",
+      "pouls qui accélère brièvement",
+      "sensation de vide de une seconde",
+      "léger vertige",
+      "froid court puis réchauffement",
+      "corps qui cherche à rattraper l'esprit"
+    ],
+    "pensees": [
+      "Quoi ?",
+      "Comment est-ce possible ?",
+      "Je n'avais pas vu venir ça.",
+      "Je dois mal comprendre.",
+      "C'est... maintenant ?",
+      "Je ne savais pas que c'était possible.",
+      "Attends.",
+      "Je dois reprendre."
+    ],
+    "effetsVoixLangage": [
+      "silence brusque",
+      "exclamation courte et involontaire",
+      "phrase laissée en suspens",
+      "répétition de la dernière chose entendue sous forme de question",
+      "débit qui repart plus lentement après le choc",
+      "voix légèrement plus aiguë dans l'instant"
+    ],
+    "comportements": [
+      "s'arrête net dans son mouvement",
+      "regarde la source de la surprise sans cligner",
+      "cherche instinctivement confirmation auprès d'un autre",
+      "demande à ce qui vient d'être dit soit répété",
+      "rit si la surprise est agréable",
+      "recule ou se détourne si elle est désagréable",
+      "reprend les gestes ordinaires trop vite — signe que le choc n'est pas encaissé"
+    ],
+    "masquesPossibles": [
+      "maîtrise qui absorbe la surprise sans l'exprimer",
+      "humour immédiat pour reprendre le contrôle",
+      "attention redoublée qui cache la déstabilisation"
+    ],
+    "evolutionsPossibles": [
+      "joie si la surprise est bonne",
+      "peur si la surprise révèle un danger",
+      "confusion si l'information ne peut pas être intégrée rapidement",
+      "stupeur si la surprise dépasse la capacité de traitement immédiat"
+    ],
+    "contextesAggravants": [
+      "absence de tout indice préalable",
+      "fatigue ou préoccupation qui réduit la vigilance",
+      "situation où l'inattendu a des conséquences immédiates importantes"
+    ],
+    "contextesAttenuants": [
+      "contexte qui rendait l'inattendu partiellement possible",
+      "personnage habitué à l'imprévu",
+      "soutien immédiat d'un tiers"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Léger étonnement", "description": "L'inattendu est remarqué mais vite intégré. Légère pause." },
+      { "niveau": 2, "label": "Surprise sensible", "description": "La réaction est visible. Le personnage marque un temps." },
+      { "niveau": 3, "label": "Saisissement", "description": "La surprise prend quelques secondes à se résorber. Le corps a réagi." },
+      { "niveau": 4, "label": "Stupéfaction", "description": "L'inattendu dépasse le cadre. Le personnage met du temps à reprendre." },
+      { "niveau": 5, "label": "Choc de la surprise", "description": "Le personnage est temporairement déconnecté. L'inattendu a tout court-circuité." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage très contrôlé",
+        "description": "La surprise est immédiatement avalée. Ce qu'on voit : une légère pause, un clignement. Ce qu'on ne voit pas : le choc réel qui est traité en interne."
+      },
+      {
+        "profil": "Personnage expressif",
+        "description": "La surprise est totale et immédiate. Le corps parle avant la tête. Le personnage rit, recule, ouvre grand la bouche sans filtre."
+      },
+      {
+        "profil": "Personnage entraîné aux situations imprévisibles",
+        "description": "La surprise est réelle mais le corps ne la trahit pas longtemps. La réaction est rapide et fonctionnelle. Il reprend avant que les autres aient eu le temps de le voir déstabilisé."
+      }
+    ],
+    "notesEditoriales": [
+      "La surprise est brève — c'est ce qui suit qui compte narrativement.",
+      "Elle révèle les limites de ce qu'un personnage anticipait.",
+      "La surprise peut être positive ou négative — l'expression physique initiale est souvent la même.",
+      "Un personnage qui ne montre jamais de surprise est narrativement utile précisément parce qu'il détonne."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "joie" },
+      { "type": "peut_evoluer_en", "cible": "peur" },
+      { "type": "peut_evoluer_en", "cible": "stupeur" },
+      { "type": "peut_evoluer_en", "cible": "confusion" },
+      { "type": "peut_preceder", "cible": "revelation" },
+      { "type": "souvent_associe_a", "cible": "inatendu" }
+    ]
+  },
+  {
+    "id": "stupeur",
+    "label": "Stupeur",
+    "alias": [
+      "stupeur",
+      "hébétement",
+      "choc",
+      "abasourdissement",
+      "sidération",
+      "paralysie de surprise",
+      "choc émotionnel",
+      "suspension totale",
+      "état de choc",
+      "incrédulité totale"
+    ],
+    "famille": "surprise-confusion",
+    "definitionCourte": "État de suspension totale causé par une information ou un événement trop grand pour être traité immédiatement, qui laisse le personnage momentanément incapable de réagir.",
+    "signesPhysiques": [
+      "immobilité totale de plusieurs secondes",
+      "regard fixe, comme vide",
+      "bouche ouverte qui reste ouverte",
+      "corps figé dans la position qu'il avait au moment du choc",
+      "pâleur ou au contraire bouffée de chaleur",
+      "mains qui lâchent ce qu'elles tenaient",
+      "absence de clignement pendant plusieurs secondes",
+      "souffle suspendu puis reprise brusque"
+    ],
+    "sensationsInternes": [
+      "suspension totale de la pensée",
+      "froid qui descend dans les membres",
+      "sensation que le monde tourne au ralenti",
+      "dissociation légère — comme si c'était à quelqu'un d'autre",
+      "impossibilité de ressentir quoi que ce soit pendant les premières secondes",
+      "corps qui ne répond plus aux ordres",
+      "silence intérieur absolu"
+    ],
+    "pensees": [
+      "Non.",
+      "Ce n'est pas vrai.",
+      "Ce n'est pas possible.",
+      "Je dois avoir mal compris.",
+      "C'est maintenant ?",
+      "Il faut que quelqu'un me dise que j'ai mal entendu.",
+      "...",
+      "Qu'est-ce qui vient de se passer ?"
+    ],
+    "effetsVoixLangage": [
+      "silence total",
+      "syllabe répétée sans fin de phrase",
+      "voix éteinte, presque sans souffle",
+      "questions inachevées",
+      "répétition littérale des mots qu'on vient d'entendre"
+    ],
+    "comportements": [
+      "reste immobile là où il est",
+      "ne répond pas aux sollicitations immédiates",
+      "regarde sans voir",
+      "exécute des gestes mécaniques d'un autre contexte",
+      "cherche quelque chose à quoi se tenir physiquement",
+      "s'assoit ou s'affaisse si possible",
+      "pleure ou ne pleure pas — les deux sont possibles"
+    ],
+    "masquesPossibles": [
+      "maîtrise superficielle qui tient quelques instants puis cède",
+      "efficacité mécanique immédiate qui diffère le choc"
+    ],
+    "evolutionsPossibles": [
+      "chagrin quand la stupeur se lève",
+      "colère si la stupeur révèle une injustice",
+      "dissociation prolongée si l'information est trop lourde",
+      "action compulsive pour fuir le vide"
+    ],
+    "contextesAggravants": [
+      "nouvelle entièrement inattendue",
+      "absence de soutien immédiat",
+      "information irréversible",
+      "multiplicité des conséquences immédiates"
+    ],
+    "contextesAttenuants": [
+      "présence physique d'un proche",
+      "information partiellement anticipée",
+      "possibilité d'une action immédiate"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Léger choc", "description": "Pause de quelques secondes. Le personnage reprend vite." },
+      { "niveau": 2, "label": "Saisissement profond", "description": "L'intégration prend du temps. Le personnage est visiblement ébranlé." },
+      { "niveau": 3, "label": "Stupeur franche", "description": "La suspension est réelle. Le personnage ne peut pas répondre immédiatement." },
+      { "niveau": 4, "label": "Sidération", "description": "Le corps est court-circuité. Les mots ne viennent pas. L'entourage s'inquiète." },
+      { "niveau": 5, "label": "État de choc", "description": "Le personnage n'est plus fonctionnel. Il est en dehors de la réalité pour un moment." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage habitué à la maîtrise",
+        "description": "La stupeur dure une fraction de seconde — puis la maîtrise reprend. Mais quelque chose dans le regard a changé. La stupeur est passée par là."
+      },
+      {
+        "profil": "Personnage émotionnellement fragile",
+        "description": "La stupeur se prolonge et peut basculer vers la dissociation. Le personnage quitte la pièce mentalement bien avant d'y revenir physiquement."
+      },
+      {
+        "profil": "Personnage qui attendait la mauvaise nouvelle",
+        "description": "La stupeur est moins de surprise que de confirmation d'une peur. Le corps savait déjà. La stupeur est celle de voir sa peur prendre forme."
+      }
+    ],
+    "notesEditoriales": [
+      "La stupeur est souvent plus puissante par l'absence de réaction que par son expression.",
+      "Elle gagne à être montrée par les détails autour du personnage — les autres qui réagissent alors qu'il ne réagit pas.",
+      "Ne pas la faire durer trop longtemps sans transition : elle appelle une sortie.",
+      "La stupeur est un point de basculement narratif naturel."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "surprise" },
+      { "type": "peut_evoluer_en", "cible": "chagrin" },
+      { "type": "peut_evoluer_en", "cible": "colere" },
+      { "type": "peut_evoluer_en", "cible": "dissociation" },
+      { "type": "souvent_associe_a", "cible": "choc-emotionnel" },
+      { "type": "peut_preceder", "cible": "effondrement" }
+    ]
+  },
+  {
+    "id": "confusion",
+    "label": "Confusion",
+    "alias": [
+      "confusion",
+      "désorientation",
+      "trouble",
+      "embrouille",
+      "incompréhension",
+      "perplexité",
+      "brouillard mental",
+      "incapacité à démêler",
+      "perte de repères",
+      "flottement"
+    ],
+    "famille": "surprise-confusion",
+    "definitionCourte": "État de désordre intérieur dans lequel les informations disponibles ne permettent pas de former une image cohérente, laissant le personnage dans l'incapacité de comprendre ou d'agir clairement.",
+    "signesPhysiques": [
+      "sourcils froncés et rapprochés",
+      "tête légèrement inclinée",
+      "regard qui cherche mais ne trouve pas où se poser",
+      "lèvres pincées ou légèrement entrouvertes",
+      "gestes interrompus avant d'être terminés",
+      "main qui se porte au front",
+      "regard qui va de l'un à l'autre sans trouver de réponse",
+      "léger balancement du haut du corps"
+    ],
+    "sensationsInternes": [
+      "brouillard dans la tête",
+      "impression que les pièces ne s'assemblent pas",
+      "légère tension derrière les yeux",
+      "inconfort face à l'absence de sens",
+      "envie de s'arrêter et de recommencer depuis le début",
+      "fatigue légère liée à l'effort de compréhension",
+      "légère anxiété liée à l'incertitude"
+    ],
+    "pensees": [
+      "Je ne comprends pas.",
+      "Attends. Qu'est-ce qu'il vient de dire ?",
+      "Ces deux choses ne peuvent pas aller ensemble.",
+      "Je dois rater quelque chose.",
+      "Je ne sais pas comment répondre à ça.",
+      "Ça n'a pas de sens.",
+      "Est-ce que quelqu'un d'autre comprend ?",
+      "Je ne sais plus où j'en suis."
+    ],
+    "effetsVoixLangage": [
+      "questions fréquentes",
+      "reformulations pour vérifier",
+      "phrases inachevées",
+      "hésitations longues",
+      "répétition de ce qui vient d'être dit",
+      "demande de répétition ou de clarification"
+    ],
+    "comportements": [
+      "pose plusieurs questions d'affilée",
+      "regarde les autres pour vérifier qu'ils ont la même réaction",
+      "relit ou réécoute plusieurs fois",
+      "reste bloqué sur le point de confusion",
+      "essaie plusieurs interprétations à voix haute",
+      "s'immobilise avant de décider"
+    ],
+    "masquesPossibles": [
+      "acquiescement de façade qui cache la non-compréhension",
+      "humour qui détourne de la confusion",
+      "silence qui paraît réfléchi mais est en fait perdu"
+    ],
+    "evolutionsPossibles": [
+      "compréhension soudaine si la pièce manquante arrive",
+      "frustration si la confusion persiste",
+      "anxiété si l'enjeu de la compréhension est élevé",
+      "résignation si la confusion paraît irréductible"
+    ],
+    "contextesAggravants": [
+      "informations contradictoires de sources multiples",
+      "enjeu élevé qui rend le flou insupportable",
+      "fatigue qui réduit les capacités de traitement",
+      "manque d'information de base"
+    ],
+    "contextesAttenuants": [
+      "information claire et ordonnée",
+      "interlocuteur patient",
+      "temps suffisant pour traiter"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère perplexité", "description": "Quelque chose ne se connecte pas tout à fait. Le personnage continue quand même." },
+      { "niveau": 2, "label": "Confusion sensible", "description": "Le personnage est visiblement perdu. Il demande des clarifications." },
+      { "niveau": 3, "label": "Confusion franche", "description": "Le brouillard est réel. Le personnage ne peut pas avancer sans aide." },
+      { "niveau": 4, "label": "Désorientation", "description": "La confusion touche les repères de base. Le personnage ne sait plus très bien où il en est." },
+      { "niveau": 5, "label": "Pertes de repères totale", "description": "Le personnage n'a plus de cadre pour interpréter ce qui se passe." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage analytique",
+        "description": "La confusion est inacceptable — il va la résoudre. Il décompose, compare, recoupe. La confusion devient une enquête."
+      },
+      {
+        "profil": "Personnage intuitif",
+        "description": "La confusion est inconfortable mais pas paralysante. Il fait confiance à quelque chose d'autre que la logique. Il avance à tâtons."
+      },
+      {
+        "profil": "Personnage dans un contexte étranger",
+        "description": "La confusion vient de la méconnaissance des codes. Il ne sait pas ce qu'on attend de lui, ni comment lire les signaux. Chaque réaction de l'autre est une énigme."
+      }
+    ],
+    "notesEditoriales": [
+      "La confusion du lecteur et celle du personnage peuvent se superposer — à manier avec précaution.",
+      "Elle peut être utilisée pour ralentir le rythme et créer de la tension avant une révélation.",
+      "La confusion soudaine d'un personnage habituellement lucide est un signal narratif fort.",
+      "Distinguer de la stupeur : la confusion cherche à comprendre, la stupeur est suspendue."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "frustration" },
+      { "type": "peut_evoluer_en", "cible": "comprehension" },
+      { "type": "souvent_associe_a", "cible": "stupeur" },
+      { "type": "peut_preceder", "cible": "revelation" },
+      { "type": "peut_masquer", "cible": "peur-de-se-tromper" },
+      { "type": "peut_suivre", "cible": "information-contradictoire" }
+    ]
+  },
+  {
+    "id": "desorientation",
+    "label": "Désorientation",
+    "alias": [
+      "désorientation",
+      "perte de repères",
+      "sentiment de flottement",
+      "dislocation intérieure",
+      "perte de nord",
+      "rupture des repères habituels",
+      "sentiment d'être hors de soi",
+      "flottement existentiel",
+      "perte de sens spatial ou temporel",
+      "égarement"
+    ],
+    "famille": "surprise-confusion",
+    "definitionCourte": "État dans lequel les repères habituels — spatiaux, temporels ou relationnels — ont disparu ou ont été bouleversés, laissant le personnage sans ancrage fiable.",
+    "signesPhysiques": [
+      "regard qui cherche quelque chose de familier pour se stabiliser",
+      "légère instabilité dans la démarche",
+      "tête qui tourne plusieurs fois dans des directions différentes",
+      "gestes hésitants, mal assurés",
+      "temps de réponse allongé",
+      "clignements répétés",
+      "mains qui cherchent une surface à toucher"
+    ],
+    "sensationsInternes": [
+      "impression que le sol est instable",
+      "légère nausée ou vertige",
+      "sentiment d'être décalé de sa propre expérience",
+      "perte momentanée du sens du temps",
+      "impression d'irréalité légère",
+      "difficulté à savoir où commencer",
+      "manque d'ancrage"
+    ],
+    "pensees": [
+      "Où est-ce que je suis ?",
+      "Qu'est-ce qui s'est passé ?",
+      "Je ne reconnais pas ça.",
+      "Les choses ne sont plus comme je m'y attendais.",
+      "Je ne sais plus ce qui est vrai.",
+      "Depuis quand ?",
+      "Est-ce que j'ai raté quelque chose ?",
+      "Je dois reprendre depuis le début."
+    ],
+    "effetsVoixLangage": [
+      "questions de localisation ou de temporalité",
+      "voix légèrement flottante",
+      "phrases inachevées, laissées en suspens",
+      "retour en arrière dans la conversation",
+      "demandes de confirmation répétées"
+    ],
+    "comportements": [
+      "cherche des repères visuels ou physiques familiers",
+      "ralentit ou s'arrête pour se réorienter",
+      "demande où il est ou depuis combien de temps",
+      "touche les surfaces pour s'ancrer",
+      "suit quelqu'un d'autre plutôt que de décider",
+      "évite de prendre des décisions jusqu'à retrouver ses repères"
+    ],
+    "masquesPossibles": [
+      "sérénité affichée qui cache le flottement",
+      "humour qui normalise l'égarement",
+      "activité immédiate pour forcer le retour à la réalité"
+    ],
+    "evolutionsPossibles": [
+      "réorientation progressive si les repères sont retrouvés",
+      "anxiété si la désorientation dure",
+      "dissociation si elle est trop intense",
+      "adaptation à un nouveau cadre de référence"
+    ],
+    "contextesAggravants": [
+      "changement brutal d'environnement",
+      "réveil après une anesthésie ou un sommeil profond",
+      "choc émotionnel qui efface les priorités habituelles",
+      "lieu inconnu et isolé",
+      "mélange de réalités ou d'informations contradictoires"
+    ],
+    "contextesAttenuants": [
+      "élément familier dans l'environnement",
+      "contact physique avec quelqu'un de connu",
+      "information temporelle ou spatiale claire",
+      "routine simple à reprendre"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère perte de repère", "description": "Le personnage est momentanément perdu. Il reprend vite." },
+      { "niveau": 2, "label": "Désorientation sensible", "description": "Il cherche ses repères activement. Quelques minutes sont nécessaires." },
+      { "niveau": 3, "label": "Désorientation franche", "description": "Les repères habituels ont disparu. Le personnage a besoin d'aide." },
+      { "niveau": 4, "label": "Égarement profond", "description": "Le personnage ne sait plus très bien où il en est ni ce qui est réel." },
+      { "niveau": 5, "label": "Dislocation totale", "description": "Le personnage a perdu tous ses ancres. Il est dans un espace qui ne correspond à rien de connu." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage grand voyageur",
+        "description": "La désorientation est familière et gérée. Il sait qu'il a besoin de quelques repères — une heure, une tasse, un lieu — pour se recalibrer."
+      },
+      {
+        "profil": "Personnage très ancré dans ses habitudes",
+        "description": "La désorientation est profondément inconfortable. Elle touche à quelque chose de fondamental. Sortir de ses repères est une forme de danger."
+      },
+      {
+        "profil": "Personnage après un trauma récent",
+        "description": "La désorientation est le signe que le cerveau essaie encore de traiter. Le monde extérieur a changé de forme. Les repères d'avant ne s'appliquent plus au monde d'après."
+      }
+    ],
+    "notesEditoriales": [
+      "La désorientation spatiale est plus simple à écrire que la désorientation existentielle — et souvent moins puissante.",
+      "Elle peut être utilisée pour exprimer métaphoriquement un bouleversement intérieur.",
+      "La désorientation du personnage principal peut être transmise au lecteur — à manier avec discernement.",
+      "Elle appelle toujours une réorientation — c'est le mouvement narratif qui lui donne son sens."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "confusion" },
+      { "type": "peut_evoluer_en", "cible": "anxiete" },
+      { "type": "peut_suivre", "cible": "choc-ou-trauma" },
+      { "type": "souvent_associe_a", "cible": "dissociation" },
+      { "type": "peut_preceder", "cible": "reorientation" },
+      { "type": "souvent_associe_a", "cible": "sentiment-d-irrealite" }
+    ]
+  }
+]

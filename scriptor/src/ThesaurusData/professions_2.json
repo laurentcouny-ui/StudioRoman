@@ -1,0 +1,504 @@
+[
+  {
+    "id": "pompier",
+    "label": "Pompier / Sapeur-pompier",
+    "domaine": "sécurité civile",
+    "definitionCourte": "Quelqu'un qui a appris à courir vers ce dont les autres fuient. Le feu, l'accident, l'eau, l'effondrement — le pompier arrive quand le monde de quelqu'un s'est mis à brûler.",
+    "perceptionDuMonde": "Lit les espaces en permanence comme des scénarios de risque potentiel : les issues, les matières, la densité humaine. Évalue les visages en situation de crise pour décider qui peut suivre des instructions et qui ne le peut plus. Habituée à des décisions rapides dans un chaos sensoriel total, puis au retour au calme sans transition.",
+    "signesDistinctifs": [
+      "évalue discrètement les issues de secours en entrant dans un lieu",
+      "gestes précis et économiques dans les situations d'urgence, décontractés en dehors",
+      "voix qui peut passer en quelques secondes du registre normal à l'autorité calme",
+      "mains souvent marquées — cicatrices légères, peau sèche des gants portés longtemps",
+      "poignée de main ferme, habitude de rassurer par le contact physique",
+      "posture de disponibilité — jamais totalement relâché en public",
+      "regard qui balaye une pièce en entrant, automatiquement",
+      "tolérance élevée au bruit et au chaos, inconfort dans l'inaction prolongée",
+      "humour noir comme langue commune avec les collègues, difficile à expliquer à l'extérieur"
+    ],
+    "langageSpecifique": [
+      "vocabulaire de l'intervention — 'périmètre', 'neutraliser', 'dégager', 'sécuriser le périmètre'",
+      "minimisation systématique de l'événement passé : 'c'était pas grand chose'",
+      "références à la caserne comme lieu de vie : 'à la caserne on fait ça différemment'",
+      "jargon du feu : 'départ de feu', 'feu de toiture', 'extinction à la lance'",
+      "code couleur des niveaux d'urgence implicitement compris entre collègues",
+      "tendance à raconter les interventions par étapes techniques plutôt qu'émotionnelles"
+    ],
+    "tensionsTypiques": [
+      "voir des choses que l'on n'arrive pas à oublier sans disposer de langage pour les dire",
+      "être attendu à la maison comme quelqu'un de 'normal' après une intervention traumatisante",
+      "appartenir à une culture professionnelle de solidarité qui valorise la non-plainte",
+      "la violence du retour au quotidien — faire la vaisselle après avoir transporté un enfant",
+      "l'usure progressive du corps et la question de la limite personnelle",
+      "gérer l'admiration de l'extérieur qui ne correspond pas à ce que la profession est vraiment"
+    ],
+    "blessuresProfessionnelles": [
+      "traumatismes non traités accumulés derrière l'humour et la camaraderie",
+      "sentiment d'impuissance face aux situations où l'intervention n'a pas suffi",
+      "difficulté à ralentir, à rester inactif sans anxiété",
+      "distanciation progressive des proches qui ne comprennent pas — ou qu'on protège de ce qu'on voit"
+    ],
+    "usagesNarratifs": [
+      "personnage capable d'action sous pression mais désorienté dans les crises émotionnelles ordinaires",
+      "figure de competence technique qui masque une vie intérieure non dite",
+      "personnage au carrefour de la mort quotidienne et de la vie familiale banale",
+      "témoin involontaire de vies brisées — sa mémoire est une archive de catastrophes privées"
+    ],
+    "notesEditoriales": [
+      "Éviter le pompier héroïque et sans fissure : la force du personnage est souvent ce qu'il ne dit pas, pas ce qu'il fait.",
+      "L'humour noir des casernes est une langue à part — si un personnage pompier parle, il dédramatise systématiquement. C'est une protection, pas de la légèreté.",
+      "Le corps du pompier est un outil de travail conscient : il sait ce qu'il peut faire et ce qu'il peut encaisser. Cette conscience corporelle est un trait de caractère, pas juste un détail physique."
+    ]
+  },
+  {
+    "id": "psychiatre",
+    "label": "Psychiatre",
+    "domaine": "médecine — santé mentale",
+    "definitionCourte": "Quelqu'un qui écoute des versions de la souffrance humaine toute la journée sans pouvoir, le plus souvent, les résoudre — seulement les accompagner. La psychiatrie est l'art d'être présent face à ce qui résiste à la guérison.",
+    "perceptionDuMonde": "Observe les comportements avant les paroles, cherche les patterns dans ce que les gens disent et ne disent pas. Habituée à suspendre le jugement moral sur des actes qu'elle doit comprendre sans nécessairement approuver. Vit avec la conscience permanente que l'esprit peut dérailler — le sien compris.",
+    "signesDistinctifs": [
+      "écoute sans couper la parole, même dans les conversations ordinaires",
+      "questions ouvertes plutôt qu'affirmations — 'qu'est-ce qui vous a amené là ?'",
+      "silence confortable — ne comble pas le vide de paroles inutiles",
+      "posture légèrement penchée en avant en état d'écoute",
+      "regard stable, qui ne fuit pas même face à des révélations difficiles",
+      "faciès professionnel — expressions neutres maintenues sous pression émotionnelle",
+      "prudence dans l'emploi des mots — évite les diagnostics en dehors du cabinet",
+      "tendance à ne jamais donner de conseil direct, à renvoyer la question"
+    ],
+    "langageSpecifique": [
+      "formulations cliniques employées avec soin : 'ce que vous décrivez ressemble à…'",
+      "refus des étiquettes diagnostiques dans la conversation courante",
+      "vocabulaire de la relation thérapeutique : 'alliance', 'transfert', 'cadre'",
+      "distinction explicite entre ce qu'un patient dit et ce qu'il fait — 'le discours et l'acte'",
+      "tendance à parler de soi au minimum — asymétrie professionnelle intériorisée",
+      "emploi du conditionnel et de la nuance de façon systématique"
+    ],
+    "tensionsTypiques": [
+      "entendre des choses intenses toute la journée sans pouvoir en parler à personne",
+      "garder ses propres émotions hors du cabinet alors qu'elles existent",
+      "soigner des souffrances qu'on ne peut pas guérir — seulement tenir compagnie",
+      "être perçu comme quelqu'un qui analyse tout le monde dans sa vie personnelle",
+      "la supervision obligatoire — être à son tour dans la position du patient",
+      "le poids de ce qui a été confié et qui ne peut jamais être partagé"
+    ],
+    "blessuresProfessionnelles": [
+      "épuisement compassionnel — saturation émotionnelle progressive sans signe d'alarme clair",
+      "sentiment d'être imperméable à sa propre souffrance parce qu'on la connaît trop bien intellectuellement",
+      "isolation professionnelle — difficile de raconter sa journée même à un proche",
+      "doute chronique sur l'efficacité de ce qu'on fait face à des souffrances chroniques"
+    ],
+    "usagesNarratifs": [
+      "personnage qui écoute mieux qu'il ne parle de lui — ressort dramatique de ce qu'il cache",
+      "figure au carrefour du secret et de la loi — que fait-on d'une révélation qu'on n'aurait pas dû entendre ?",
+      "psychiatre en crise personnelle : ses outils théoriques deviennent des obstacles",
+      "personnage-miroir : les patients révèlent ce que le personnage refuse de voir en lui"
+    ],
+    "notesEditoriales": [
+      "Éviter le psychiatre qui analyse tout le monde en permanence — c'est un cliché. Les psychiatres ont appris à éteindre ce mode hors du cabinet, au prix d'un effort.",
+      "Le secret professionnel est une contrainte narrative puissante : le psychiatre sait des choses qu'il ne peut pas dire. Cette tension est un moteur.",
+      "La question de sa propre santé mentale est inévitable — pas comme défaut, mais comme question légitime et professionnellement reconnue."
+    ]
+  },
+  {
+    "id": "juge",
+    "label": "Juge",
+    "domaine": "justice — droit",
+    "definitionCourte": "Quelqu'un dont le quotidien est de trancher — de décider, au nom de la société, ce qui est juste ou injuste dans des situations où la réalité est rarement aussi tranchée que la loi.",
+    "perceptionDuMonde": "A développé une forme de distance analytique face à la souffrance humaine présentée sous forme de dossiers. Sait que la vérité judiciaire n'est pas la vérité réelle — et a appris à vivre avec cet écart. Habitué à la pesée des arguments opposés, ce qui peut rendre les décisions ordinaires de la vie étrangement plus lourdes.",
+    "signesDistinctifs": [
+      "écoute les deux côtés d'un récit avant de former une opinion — souvent perçu comme distant",
+      "formulations prudentes, qualifiées, rarement absolues : 'au vu de ce que vous décrivez'",
+      "posture d'autorité naturelle, non performée — intériorisée",
+      "connaissance de la loi qui filtre sa lecture des situations ordinaires",
+      "retenue émotionnelle en public — l'expression des sentiments est un luxe que la fonction ne permet pas facilement",
+      "conscience aiguë des mots utilisés — chaque terme a un sens précis et conséquences potentielles",
+      "inconfort face à l'injustice ordinaire qu'il ne peut pas corriger au quotidien",
+      "réserve sociale obligatoire — pas d'opinion publique sur des affaires en cours ou passées"
+    ],
+    "langageSpecifique": [
+      "formulations juridiques intériorisées : 'en l'état des éléments', 'sous réserve de'",
+      "distinction nette entre l'acte et la personne : 'les faits établissent que…'",
+      "vocabulaire de la délibération : 'eu égard à', 'au regard de', 'il ressort de'",
+      "refus systématique de commenter des décisions rendues ou pendantes",
+      "référence implicite au 'raisonnable' comme étalon — 'l'homme raisonnable'",
+      "pudeur autour des émotions personnelles liées à une affaire — jamais nommées directement"
+    ],
+    "tensionsTypiques": [
+      "devoir décider dans des affaires où la loi est claire mais la justice douteuse",
+      "porter le poids de décisions dont les conséquences sont irréversibles",
+      "la réserve obligatoire qui l'isole socialement — ne peut parler de son travail",
+      "confronter sa propre humanité et ses préjugés dans des décisions qui se veulent objectives",
+      "savoir que ses décisions peuvent être réformées en appel — doute sur sa propre justesse",
+      "les menaces ou pressions, implicites ou explicites, dans certaines affaires"
+    ],
+    "blessuresProfessionnelles": [
+      "décisions prises qui se sont révélées fausses après coup — innocents condamnés ou coupables acquittés",
+      "cynisme progressif face à la répétition des mêmes schémas humains",
+      "sentiment d'impuissance face à un système dont il fait partie mais qu'il ne contrôle pas",
+      "isolement lié à la fonction — difficile d'avoir des amis proches hors du milieu judiciaire"
+    ],
+    "usagesNarratifs": [
+      "figure d'autorité dont les certitudes sont ébranlées par une affaire qui le touche personnellement",
+      "personnage confronté à un choix entre la loi et ce qu'il croit juste",
+      "révélation que la neutralité est elle-même un choix politique",
+      "juge aux prises avec une affaire qui implique quelqu'un qu'il connaît"
+    ],
+    "notesEditoriales": [
+      "Le juge n'est pas la justice — c'est un humain qui applique un système imparfait. Cette tension est au cœur de tout personnage judiciaire intéressant.",
+      "La réserve professionnelle est une contrainte de vie réelle : le juge ne peut pas s'exprimer publiquement sur presque rien. Ce silence imposé est narrativement puissant.",
+      "Distinguer le juge d'instruction (qui enquête), le juge du fond (qui tranche), le juge des enfants — ils n'ont pas la même réalité quotidienne."
+    ]
+  },
+  {
+    "id": "militaire-professionnel",
+    "label": "Militaire professionnel",
+    "domaine": "défense — armée",
+    "definitionCourte": "Quelqu'un qui a choisi ou accepté d'être un outil de la force collective de l'État. Ce choix façonne le corps, les réflexes, la lecture du monde — et ne disparaît pas à la démobilisation.",
+    "perceptionDuMonde": "Évalue instantanément les menaces et les ressources d'un environnement. Habitué à fonctionner en hiérarchie claire, à recevoir et donner des ordres sans discussion — ce qui peut rendre difficile la navigation dans des structures plus horizontales. A appris que le groupe compte plus que l'individu, ce qui peut entrer en collision avec sa vie personnelle.",
+    "signesDistinctifs": [
+      "posture droite maintenue même sans effort conscient",
+      "vigilance permanente dans les espaces publics — dos au mur, face à la porte",
+      "économie de mots et de gestes — l'inutile a été éliminé",
+      "ponctualité absolue — le retard est une faute, pas une tolérance",
+      "réponses directes aux questions — pas de détours si la hiérarchie est claire",
+      "absence de plainte verbale — la douleur physique est gérée en silence",
+      "humour noir et très particulier, partagé avec les anciens camarades",
+      "capacité à dormir n'importe où et n'importe quand — et à s'éveiller en alerte complète"
+    ],
+    "langageSpecifique": [
+      "vocabulaire militaire parfois utilisé sans conscience en civil : 'périmètre', 'neutraliser', 'objectif'",
+      "références aux grades et aux unités comme marqueurs d'identité",
+      "tendance à la formulation en mission : 'l'objectif est de… les moyens sont… les obstacles sont…'",
+      "minimisation du vécu sous des formules convenues : 'c'était dur mais on a tenu'",
+      "désignation de l'ennemi — réel ou symbolique — avec précision et sans affect apparent",
+      "langage de la solidarité de groupe : 'on ne laisse pas quelqu'un derrière'"
+    ],
+    "tensionsTypiques": [
+      "retourner à une vie civile qui ne comprend pas ce qu'a traversé le personnage",
+      "obéir à des ordres qu'il juge moralement douteux — et l'avoir fait",
+      "la difficulté de transférer ses compétences dans un monde qui n'en a pas besoin de la même façon",
+      "maintenir des relations proches quand on ne peut pas raconter ce qu'on a vécu",
+      "le corps qui vieillit et la question de l'identité quand la condition physique diminue",
+      "la violence légale et ses séquelles non reconnues officiellement"
+    ],
+    "blessuresProfessionnelles": [
+      "traumatismes de combat non traités ou niés par la culture professionnelle",
+      "culpabilité du survivant — pourquoi moi et pas les autres",
+      "perte de sens après la fin d'un engagement fort",
+      "difficulté à commander en dehors de l'armée — ou à ne pas commander"
+    ],
+    "usagesNarratifs": [
+      "personnage dont la compétence est réelle mais déplacée dans un contexte civil",
+      "figure de contrôle et de discipline en crise face à quelque chose qui ne peut pas être résolu par la force",
+      "témoin d'événements qui ne peuvent être dits — secret militaire ou trauma non formulé",
+      "personnage de retour qui ne sait plus comment habiter une vie ordinaire"
+    ],
+    "notesEditoriales": [
+      "Le militaire professionnel n'est pas un soldat de film — la réalité de la profession est souvent plus bureaucratique, plus répétitive, et les moments de violence sont rares et intenses.",
+      "La culture de non-plainte est réelle et documentée — elle protège et isole en même temps. Ne pas la réduire à de la brutalité ou de l'insensibilité.",
+      "Distinguer les spécialités militaires : un officier de renseignement, un légionnaire, un pilote de chasse n'ont pas la même réalité quotidienne ni les mêmes blessures."
+    ]
+  },
+  {
+    "id": "sage-femme",
+    "label": "Sage-femme",
+    "domaine": "médecine — périnatalité",
+    "definitionCourte": "Quelqu'un qui assiste les naissances — les bonnes et les mauvaises. Présente au moment le plus intense et le plus vulnérable de la vie d'une famille, avec la responsabilité de deux vies simultanément.",
+    "perceptionDuMonde": "A une conscience du corps féminin, de sa résistance et de sa fragilité, qui dépasse la médecine pour toucher quelque chose d'anthropologique. Habitué aux extrêmes émotionnels en quelques heures — la joie pure et le deuil périnatal peuvent se succéder dans la même journée, dans la même salle.",
+    "signesDistinctifs": [
+      "présence physique rassurante — gestes lents et fermes, voix posée",
+      "évaluation rapide de la douleur et de la progression sans instrumentaliser la personne",
+      "tolérance au bruit, au sang, aux cris — sans que le calme soit joué",
+      "attention à la dignité du corps de la patiente dans chaque geste",
+      "capacité à nommer les choses crûment et avec douceur en même temps",
+      "gestion des accompagnants autant que de la parturiente — deux publics simultanés",
+      "mémoire affective des accouchements difficiles — reviennent parfois sans prévenir",
+      "sourire professionnel qui peut couvrir une inquiétude technique"
+    ],
+    "langageSpecifique": [
+      "vocabulaire de l'accompagnement : 'on y est', 'vous faites ça très bien', 'encore un peu'",
+      "termes médicaux traduits en langage ordinaire avec fluidité",
+      "formulations qui préparent sans alarmer : 'il va peut-être se passer…'",
+      "référence au rythme du travail comme un dialogue avec le corps",
+      "discours inclusif de l'accompagnant — 'vous' pluriel même face à une seule personne",
+      "économie dans les mauvaises nouvelles — le minimum de mots, le maximum de présence"
+    ],
+    "tensionsTypiques": [
+      "assister à la naissance d'un enfant mort-né après des heures d'espoir partagé",
+      "travailler des nuits entières et reprendre le travail le lendemain",
+      "être perçue comme inférieure à l'obstétricien alors que sa compétence est différente, pas moindre",
+      "gérer la violence parfois exprimée par des parturientes en souffrance",
+      "la culpabilité face à une complication qu'elle n'aurait peut-être pas pu éviter",
+      "l'attachement impossible à ne pas former — et la distance nécessaire pour fonctionner"
+    ],
+    "blessuresProfessionnelles": [
+      "deuil périnatal répété — assister à des morts à la naissance laisse des traces non linéaires",
+      "épuisement physique et émotionnel des gardes longues dans un métier à haute intensité",
+      "sentiment de ne pas être reconnue à la hauteur de la responsabilité portée",
+      "difficultés relationnelles liées à la gestion de l'émotionnel en dehors du travail"
+    ],
+    "usagesNarratifs": [
+      "personnage au carrefour de la vie et de la mort dans un contexte rarement représenté",
+      "figure de force et de douceur simultanées — rare en fiction",
+      "témoin de moments que les familles ne voient qu'une fois et qu'elle vit chaque semaine",
+      "personnage dont la blessure professionnelle est invisible parce que le travail est associé à la joie"
+    ],
+    "notesEditoriales": [
+      "La sage-femme assiste aussi aux deuils périnatals — dimension souvent absente des représentations. C'est là que le personnage est le plus riche et le moins exploré.",
+      "La relation avec l'obstétricien est souvent tendue institutionnellement — terrain de conflit hiérarchique intéressant.",
+      "Éviter de réduire la profession à l'accouchement heureux : les complications, les décisions d'urgence, les nuits sans fin font aussi le personnage."
+    ]
+  },
+  {
+    "id": "libraire",
+    "label": "Libraire",
+    "domaine": "commerce — culture",
+    "definitionCourte": "Quelqu'un dont le travail est de mettre les bons livres entre les mains des bonnes personnes — un acte qui semble anodin et qui peut changer une vie.",
+    "perceptionDuMonde": "A une relation intime avec le langage et les histoires qui filtre sa lecture des gens. Observe les clients d'abord à travers ce qu'ils cherchent, ce qu'ils évitent, comment ils tiennent un livre. Habitué à la lenteur du commerce de l'esprit dans un monde qui s'accélère — et à devoir justifier cette lenteur économiquement.",
+    "signesDistinctifs": [
+      "range instinctivement les livres qu'il voit mal rangés dans les espaces publics",
+      "mémorise les lectures des gens avec qui il parle — référence naturelle",
+      "connaissance encyclopédique de certains rayons, lacunes assumées dans d'autres",
+      "gestes de manipulation des livres particuliers — par le dos, jamais les pages",
+      "oreille tendue aux conversations pour saisir un besoin de lecture non formulé",
+      "résistance aux best-sellers dont il connaît la mécanique marketing",
+      "librairie pensée comme un espace habité, pas seulement comme un magasin",
+      "solitude choisie avec les livres qu'il n'a pas encore fini de lire"
+    ],
+    "langageSpecifique": [
+      "recommandations formulées comme des confidences : 'je vous préviens, celui-là…'",
+      "références croisées entre auteurs, genres, epochs — pensée en réseau",
+      "vocabulaire du livre comme objet physique : 'dos cassé', 'cahiers', 'blanche'",
+      "distinction nette entre 'ça se vend' et 'ça se lit' — pas toujours la même chose",
+      "humour livresque, références incluses, pas toujours décodables",
+      "défense des petits éditeurs avec une passion disproportionnée selon les interlocuteurs"
+    ],
+    "tensionsTypiques": [
+      "aimer les livres et devoir faire survivre économiquement l'espace qui les accueille",
+      "recommander des livres difficiles à des clients qui veulent du confort",
+      "la concurrence des grandes surfaces et du commerce en ligne comme menace existentielle",
+      "les livres qu'il n'a pas encore lus et la culpabilité qui va avec",
+      "la relation compliquée avec les auteurs locaux — soutien attendu, liberté de jugement requise",
+      "le sentiment d'être gardien d'un espace en voie de disparition"
+    ],
+    "blessuresProfessionnelles": [
+      "la fermeture d'une librairie — perte d'un espace identitaire au-delà de l'emploi",
+      "le livre recommandé qui a blessé ou choqué le lecteur — la recommandation comme responsabilité",
+      "l'échec d'un auteur défendu avec passion — deuil d'un enthousiasme partagé",
+      "l'usure du commerce de la culture face à l'indifférence sociale progressive"
+    ],
+    "usagesNarratifs": [
+      "personnage passeur — fait circuler des idées et des émotions sans être au centre de l'action",
+      "espace de la librairie comme lieu de refuge ou de rencontre entre personnages",
+      "figure de la résistance discrète à la culture de masse — sans idéalisation naïve",
+      "gardien d'une mémoire — sait quels livres ont marqué qui, et pourquoi"
+    ],
+    "notesEditoriales": [
+      "Éviter le libraire bohème et idéalisé : la réalité économique du métier est souvent précaire et stressante. C'est là que le personnage acquiert de l'épaisseur.",
+      "La relation d'un libraire à ses livres est physique autant qu'intellectuelle — la manipulation des objets, la disposition des rayons, sont des gestes identitaires.",
+      "Le libraire connaît souvent ses clients mieux qu'ils ne le pensent : leurs lectures révèlent ce qu'ils n'avouent pas. C'est un moteur narratif discret et puissant."
+    ]
+  },
+  {
+    "id": "agriculteur",
+    "label": "Agriculteur",
+    "domaine": "agriculture — production alimentaire",
+    "definitionCourte": "Quelqu'un dont la vie est organisée par des rythmes que personne d'autre ne contrôle — la météo, les saisons, les marchés, les maladies des bêtes. Il produit ce que tout le monde mange et est souvent invisible à ceux qui le mangent.",
+    "perceptionDuMonde": "Lit le ciel, le sol, les animaux comme des textes. Pense en saisons et en années, pas en semaines. A une relation au temps profondément différente de celle des professions urbaines — la patience est une compétence, pas une vertu. Connaît la mort des bêtes comme un fait, pas un événement.",
+    "signesDistinctifs": [
+      "mains larges, calleuses, bronzées jusqu'aux poignets — le reste parfois blanc",
+      "lever automatique avant l'aube — le corps n'attend pas de raison particulière",
+      "regard vers le ciel au moins une fois par conversation — météo comme préoccupation permanente",
+      "économie de mots — habitué aux longues heures seul ou avec des gens qui ne parlent pas pour rien",
+      "rapport au corps pratique : la douleur physique est gérée, pas décrite",
+      "connaissance précise de ses terres — chaque parcelle a un nom, une histoire, un comportement",
+      "réticence naturelle à demander de l'aide — valeur d'autonomie intégrée profondément",
+      "fierté discrète dans ce qu'il produit — rarement exprimée directement"
+    ],
+    "langageSpecifique": [
+      "vocabulaire agraire précis et très régional : noms de parcelles, de pratiques, d'outils",
+      "références à l'année en termes de récoltes : 'l'année du gel', 'la bonne année'",
+      "langage de la météo comme discours complexe : 'ça sent la pluie pour demain'",
+      "sous-communication des difficultés financières — ellipses significatives",
+      "références aux ancêtres et à la façon dont ils faisaient les choses",
+      "expressions locales propres au monde rural, parfois incompréhensibles hors contexte"
+    ],
+    "tensionsTypiques": [
+      "la dépendance aux prix du marché qu'il ne contrôle pas pour ce qu'il produit",
+      "les dettes liées aux équipements qui creusent sans garantie de revenir",
+      "l'isolement géographique et social, surtout pour les plus jeunes",
+      "la transmission — aucun successeur, ou successeur qui ne veut pas reprendre",
+      "les injonctions contradictoires — produire plus, traiter moins, vendre à perte",
+      "le regard de la société qui mange mais ne voit pas"
+    ],
+    "blessuresProfessionnelles": [
+      "l'échec d'une récolte après une année de travail — perte totale, non remboursable",
+      "la mort d'animaux auxquels il était attaché — deuil rarement autorisé",
+      "le sentiment d'invisibilité sociale et politique malgré l'utilité fondamentale",
+      "la question de la valeur de toute une vie de travail quand la ferme est vendue ou perdue"
+    ],
+    "usagesNarratifs": [
+      "personnage ancré dans un territoire précis — la ferme comme personnage en soi",
+      "figure de résistance discrète — continue malgré des conditions impossibles",
+      "relation au temps long comme contrepoint aux personnages urbains dans l'urgence",
+      "la transmission ou son absence comme nœud narratif : à qui passe-t-on ce qu'on a bâti ?"
+    ],
+    "notesEditoriales": [
+      "Éviter le paysan folklorique ou la figure misérabiliste : les deux sont des réductions. L'agriculteur est souvent quelqu'un de compétent, de pragmatique, et d'économiquement fragilisé — les trois ensemble.",
+      "Le rapport à la mort animale est quotidien et banalisé — ce n'est pas de l'insensibilité, c'est une autre relation au vivant qu'il faut préciser.",
+      "La crise agricole en France est un contexte narratif réel et intense : dettes, suicides, pression réglementaire. Ne pas l'ignorer si le personnage est contemporain."
+    ]
+  },
+  {
+    "id": "architecte",
+    "label": "Architecte",
+    "domaine": "conception — espace construit",
+    "definitionCourte": "Quelqu'un qui imagine des espaces pour des vies qu'il n'habitera pas lui-même. Entre la vision et la réalité construite, il y a des clients, des budgets, des entreprises et des compromis — et ce qu'il construit finalement reste debout longtemps après qu'il a oublié l'avoir conçu.",
+    "perceptionDuMonde": "Lit les espaces en termes de lumière, de flux, de proportion, de matière. Entre dans une pièce et voit immédiatement ce qui ne va pas — ou ce qui est juste. Pense les bâtiments comme des organismes : comment on y entre, comment la lumière y circule, comment les gens y habitent sans y penser. A appris que la beauté est souvent sacrifiée au budget.",
+    "signesDistinctifs": [
+      "regard qui monte vers les plafonds et les structures en entrant dans un lieu",
+      "gestes de mesure involontaires — estime les proportions avec les mains",
+      "fascination pour les détails constructifs que les autres ne remarquent pas",
+      "carnet de croquis dans la poche ou le sac — capture des détails architecturaux",
+      "opinion forte sur les espaces habités : 'cet appartement est mal foutu'",
+      "attention à la lumière naturelle — la position dans la pièce selon l'éclairage",
+      "sens aigu des matières — touche les surfaces pour en vérifier la qualité",
+      "tension entre ce qu'il pense être juste et ce que le client demande"
+    ],
+    "langageSpecifique": [
+      "vocabulaire de la composition : 'proportion', 'séquence', 'rapport vide-plein'",
+      "références à des bâtiments ou des architectes comme arguments : 'comme Zumthor le fait'",
+      "langage du chantier intériorisé : 'corps d'état', 'maîtrise d'ouvrage', 'réception des travaux'",
+      "critique architecturale formulée spontanément et parfois involontairement",
+      "distinction entre ce qui 'tient' et ce qui 'ne tient pas' dans un projet — jugement esthétique et structurel mêlés",
+      "emploi de termes étrangers — anglais, japonais — selon les références culturelles"
+    ],
+    "tensionsTypiques": [
+      "le fossé entre ce qu'il a conçu et ce qui a été construit — écart souvent douloureux",
+      "la relation avec le client : entre service et résistance créative",
+      "les contraintes budgétaires comme assassins du projet",
+      "la durée des projets — des années entre la commande et la livraison",
+      "la question de l'ego dans un métier où l'œuvre est signée mais habitée par d'autres",
+      "la responsabilité légale face à des bâtiments qui durent des décennies"
+    ],
+    "blessuresProfessionnelles": [
+      "un projet construit dont il n'est plus fier — et qu'il doit voir régulièrement",
+      "un bâtiment démoli — disparition physique de ce qu'il a créé",
+      "la perte d'un concours pour lequel il avait mis l'essentiel",
+      "un client qui a tout changé après la livraison — défiguration de l'œuvre"
+    ],
+    "usagesNarratifs": [
+      "personnage dont le travail crée des espaces pour les autres — narrativement décentré",
+      "rapport à l'héritage et à la trace physique dans le monde",
+      "tension entre vision esthétique et contrainte matérielle comme métaphore de tout compromis",
+      "l'architecture comme révélation du caractère : ce qu'un personnage construit dit ce qu'il est"
+    ],
+    "notesEditoriales": [
+      "L'architecte hollywoodien génial et arrogant est un cliché — la réalité est souvent un professionnel aux prises avec des budgets réduits et des clients difficiles.",
+      "La relation de l'architecte à ses bâtiments réalisés est complexe : fierté, déception, détachement progressif. Un projet ne lui appartient plus une fois habité.",
+      "Le rapport à la matière est une donnée souvent oubliée : un architecte touche, estime, sent les matériaux. Ce n'est pas seulement un concepteur d'images."
+    ]
+  },
+  {
+    "id": "detenu-ancien",
+    "label": "Ancien détenu",
+    "domaine": "expérience carcérale — réinsertion",
+    "definitionCourte": "Quelqu'un qui a traversé un temps hors du monde ordinaire — un temps régi par d'autres règles, d'autres hiérarchies, d'autres temporalités. La sortie de prison ne referme pas la parenthèse : elle en ouvre une nouvelle, aussi difficile.",
+    "perceptionDuMonde": "A appris à lire les intentions des gens rapidement — compétence de survie dans un espace clos avec des personnalités imprévisibles. Habitué à négocier dans des rapports de force implicites. Le monde extérieur lui paraît à la fois trop bruyant, trop libre et trop exigeant après une longue peine. Sait ce que 'beaucoup de temps' veut dire de façon concrète et irréversible.",
+    "signesDistinctifs": [
+      "hyper-vigilance dans les espaces publics — surveille les entrées et sorties",
+      "économie de confiance — ne s'ouvre pas facilement, teste avant",
+      "rapport au temps particulier — ponctualité ou au contraire désorganisation selon le vécu",
+      "inconfort dans les files d'attente longues — espace contraint sans contrôle",
+      "gestes discrets pour gérer l'espace personnel — ne supporte pas qu'on s'approche par derrière",
+      "connaissance des rouages administratifs et juridiques par l'expérience",
+      "loyauté très forte envers ceux qui ont tenu pendant la peine",
+      "réticence à mentionner le passé carcéral — sauf à ceux qu'il juge dignes de confiance"
+    ],
+    "langageSpecifique": [
+      "argot carcéral intégré, utilisé inconsciemment parfois : 'la taule', 'les murs', 'en cavale'",
+      "référence au temps passé en prison comme durée absolue : 'pendant mes trois ans…'",
+      "économie de récit sur soi — donne peu, observe beaucoup",
+      "distinction nette entre 'les gens de là-bas' et 'les gens de dehors'",
+      "langage direct et sans fioritures — le détour y a son prix",
+      "refus des euphémismes sur la prison — appelle les choses par leur nom"
+    ],
+    "tensionsTypiques": [
+      "la case à cocher dans les formulaires d'emploi : casier judiciaire",
+      "la méfiance des autres qui précède toute relation",
+      "retrouver des proches qui ont continué sans lui — le monde a changé pendant qu'il était figé",
+      "la tentation de retourner vers ce qu'il connaît parce que le dehors est plus difficile qu'il ne le pensait",
+      "reconstruire une identité qui ne soit pas définie uniquement par la peine",
+      "la question du fait lui-même — la culpabilité, le déni, ou la position après"
+    ],
+    "blessuresProfessionnelles": [
+      "le temps perdu — irréversible, incompensable",
+      "les relations détruites pendant la peine — famille, amours, amitiés",
+      "les violences subies ou infligées à l'intérieur, rarement racontées",
+      "la stigmatisation durable qui transforme la peine passée en peine permanente"
+    ],
+    "usagesNarratifs": [
+      "personnage de retour dans un monde qui a avancé sans lui",
+      "figure dont le passé est une dette narrative — que s'est-il passé, comment, pourquoi ?",
+      "confrontation entre deux systèmes de valeurs : celui de l'intérieur et celui du dehors",
+      "arc de réinsertion comme récit de la difficulté à se réinventer"
+    ],
+    "notesEditoriales": [
+      "Éviter le manichéisme : le détenu n'est ni le rédempteur ni le récidiviste. La réalité est une tentative de reconstruction dans un système qui la complique.",
+      "Ce que le personnage a fait pour se retrouver en prison est une question narrative centrale — ne pas l'escamoter, même si la réponse vient tard.",
+      "La sortie de prison est souvent décrite comme une libération en fiction : elle est aussi une déstabilisation. L'hyperactivité du monde dehors après l'immobilité carcérale est un choc physique et sensoriel réel."
+    ]
+  },
+  {
+    "id": "refugie",
+    "label": "Réfugié",
+    "domaine": "expérience migratoire — déplacement forcé",
+    "definitionCourte": "Quelqu'un qui n'a pas choisi de partir mais qui a choisi de survivre. Il porte deux mondes en même temps : celui qu'il a laissé et celui dans lequel il doit apprendre à exister sans être certain d'y avoir sa place.",
+    "perceptionDuMonde": "A traversé une rupture irréversible avec le lieu et les personnes qui définissaient son identité. Lit chaque institution, chaque interaction avec les autorités à travers le prisme de ce qui s'est passé — et ce prisme n'est pas toujours paranoïaque. Développe une compétence de décodage des cultures nouvelle, rapide, précise : la survie en dépendait. Vit dans une temporalité divisée : avant / après, là-bas / ici.",
+    "signesDistinctifs": [
+      "vigilance face aux uniformes et aux représentants de l'autorité — réflexe ancré",
+      "documents toujours proches — les papiers sont une question de survie, intériorisée",
+      "regard qui évalue les issues en entrant dans un lieu — habitude ancienne",
+      "code-switching fluide : change de langue, de registre, de posture selon l'interlocuteur",
+      "hospitalité disproportionnée envers les visiteurs — valeur culturelle et dette symbolique",
+      "discrétion sur sa propre histoire avant d'avoir évalué la fiabilité de l'interlocuteur",
+      "compétences multiples que la nécessité a développées — débrouillardise comme mode de vie",
+      "nostalgie pour des détails précis — une odeur, une lumière, un bruit du pays d'origine"
+    ],
+    "langageSpecifique": [
+      "maîtrise variable du français selon le temps passé — de parfaite à hésitante, les deux étant également révélatrices",
+      "alternance entre deux langues dans la même phrase quand les émotions montent",
+      "formulations qui minimisent le vécu pour ne pas accabler l'interlocuteur : 'c'était difficile mais…'",
+      "références à un pays ou à des gens qui n'existent plus dans la forme connue",
+      "vocabulaire précis de la procédure administrative : OFPRA, titre de séjour, demande d'asile",
+      "silence sur certaines périodes — le trajet, le camp, certaines nuits — qui dit plus que les mots"
+    ],
+    "tensionsTypiques": [
+      "apprendre une nouvelle langue tout en perdant des nuances dans la sienne",
+      "être réduit à son statut administratif par les institutions",
+      "expliquer d'où il vient à quelqu'un qui ne connaît pas ce pays, ou pire, qui a une image fixe",
+      "les nouvelles du pays qui arrivent par bribes — et la culpabilité de ne plus y être",
+      "reconstruire une identité professionnelle dans un pays qui ne reconnaît pas ses diplômes",
+      "la famille restée là-bas comme une dette constante et un poids"
+    ],
+    "blessuresProfessionnelles": [
+      "le départ forcé lui-même — rupture traumatique rarement nommée dans son entièreté",
+      "les pertes accumulées : biens, personnes, langue, statut social, identité professionnelle",
+      "le regard de l'autre qui réduit ou qui sur-compatit — les deux sont des formes d'effacement",
+      "la question de la légitimité : 'ai-je le droit d'être ici, d'occuper cet espace, d'avoir faim de ceci ?'"
+    ],
+    "usagesNarratifs": [
+      "personnage dont l'intériorité est riche et complexe, souvent opposée à la façon dont il est perçu extérieurement",
+      "figure de l'entre-deux : ni tout à fait d'ici, ni plus tout à fait de là-bas",
+      "révélateur des mécanismes institutionnels et sociaux à travers sa naviguation de ceux-ci",
+      "arc d'appartenance : où est-ce qu'on est chez soi quand le chez-soi n'existe plus ?"
+    ],
+    "notesEditoriales": [
+      "Éviter la victimisation exclusive et le récit de résilience idéalisé : les deux effacent la complexité d'une expérience humaine réelle et multiforme.",
+      "Le réfugié est d'abord une personne avec une histoire, des compétences, des opinions, des désirs — qui se trouve dans une situation particulièrement difficile. Dans cet ordre.",
+      "La langue est un enjeu narratif central : comment un personnage parle la langue du pays d'accueil dit quelque chose de son rapport à l'intégration, au temps, à l'identité.",
+      "La culpabilité du survivant ou de celui qui est parti est une dimension souvent ignorée dans les représentations — et souvent très présente dans les témoignages réels."
+    ]
+  }
+]

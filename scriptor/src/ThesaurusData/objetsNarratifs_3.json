@@ -1,0 +1,402 @@
+[
+  {
+    "id": "billet-non-rendu",
+    "label": "Billet de banque plié dans une vieille veste",
+    "definitionCourte": "Billet de banque oublié dans la poche intérieure d'un vêtement longtemps non porté — découvert par hasard lors d'un rangement ou d'un don, il porte avec lui le souvenir d'un autre moment, d'un autre soi.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "argent et temps",
+    "associationsNarratives": [
+      "rangement de la garde-robe d'un défunt",
+      "veste sortie pour la première fois depuis une période de la vie révolue",
+      "don à une association ou vente d'habits dont on découvre la poche",
+      "déménagement et tri d'affaires oubliées",
+      "personnage qui cherche de l'argent dans l'urgence et tombe sur ce billet",
+      "vieille veste d'un père ou d'un grand-père passée au fils",
+      "argent économisé pour un projet abandonné"
+    ],
+    "emotionsAssociees": [
+      "nostalgie douce",
+      "sentiment de continuité avec un soi antérieur",
+      "légère culpabilité ou mélancolie selon le contexte",
+      "soulagement ou ironie si la situation est précaire"
+    ],
+    "usagesTypiques": [
+      "déclencher un souvenir ou une réflexion sans dialogue",
+      "signifier le temps écoulé entre deux périodes de la vie",
+      "introduire un objet de transition lors d'un deuil ou d'un rangement",
+      "créer un moment de pause et d'intériorité dans une scène pratique",
+      "symboliser ce qui reste de quelqu'un ou de quelque chose",
+      "ajouter une note d'humour doux ou d'ironie dans une scène difficile"
+    ],
+    "variantesNarratives": [
+      "Le billet appartient à quelqu'un de mort : il ne sera jamais dépensé, ni rendu.",
+      "Le billet est la somme exacte dont le personnage a besoin à ce moment précis : coïncidence ou signe.",
+      "Le billet est dans une devise étrangère ou périmée : argent inutilisable, symbole d'une vie passée ailleurs ou autrement."
+    ],
+    "notesEditoriales": [
+      "L'objet fonctionne par le décalage temporel : l'argent était là, la vie a continué sans y penser.",
+      "Ne pas exploiter la coïncidence du montant exact trop souvent — cliché du destin trop appuyé.",
+      "Plus efficace s'il n'est pas la résolution d'un problème mais simplement trouvé, contemplé, puis remis dans la poche."
+    ]
+  },
+  {
+    "id": "carte-visite-etrangere",
+    "label": "Carte de visite d'un inconnu",
+    "definitionCourte": "Petit rectangle de carton au nom et aux coordonnées d'une personne dont on ne se rappelle plus qui elle est — ou dont on se rappelle trop bien pourquoi on ne l'a jamais appelée.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "contact et relation manquée",
+    "associationsNarratives": [
+      "fond de tiroir, portefeuille ou boîte de rangement",
+      "rencontre lors d'un voyage ou d'un événement oublié",
+      "proposition non suivie d'effet — opportunité, relation, aide refusée",
+      "contact donné en cas d'urgence et jamais composé",
+      "personnage clé d'une intrigue que l'on n'a pas encore rencontré",
+      "enquête : la carte comme indice dans les affaires d'un mort",
+      "rencontre brève et intense avec quelqu'un qui aurait pu changer quelque chose"
+    ],
+    "emotionsAssociees": [
+      "curiosité mêlée d'hésitation",
+      "regret d'une occasion non saisie",
+      "légère inquiétude selon le contexte de la rencontre",
+      "sentiment de tenir un fil narratif non noué"
+    ],
+    "usagesTypiques": [
+      "introduire un personnage absent qui va entrer dans l'histoire",
+      "signifier une hésitation passée ou présente autour d'une relation",
+      "créer un élément de tension dans une enquête ou un mystère",
+      "symboliser les choix non faits et les chemins non empruntés",
+      "marquer le moment où un personnage décide enfin d'appeler",
+      "fonctionner comme objet-déclencheur d'une nouvelle direction narrative"
+    ],
+    "variantesNarratives": [
+      "La carte est manuscrite au dos — quelqu'un a ajouté quelque chose que le personnage n'avait pas remarqué.",
+      "Le numéro ne répond plus ou n'existe plus : l'invitation s'est périmée.",
+      "Le personnage la trouve dans les affaires de quelqu'un d'autre et ne comprend pas ce lien."
+    ],
+    "notesEditoriales": [
+      "Objet de transition narrative efficace : il crée une attente sans la remplir immédiatement.",
+      "La décision d'appeler ou non est un moment de choix qui mérite une vraie scène.",
+      "Fonctionne mieux si l'identité de la personne est initialement floue pour le lecteur aussi."
+    ]
+  },
+  {
+    "id": "flacon-parfum-vide",
+    "label": "Flacon de parfum vide",
+    "definitionCourte": "Flacon dont le contenu est épuisé — bouchon vissé sur le vide, verre encore beau mais la substance partie, le parfum réduit à une trace fantôme imperceptible pour les autres.",
+    "chargeSymbolique": "haute",
+    "categorie": "perte et mémoire",
+    "associationsNarratives": [
+      "objet conservé après la mort ou le départ d'un proche",
+      "dernier reliquat d'une période heureuse ou aimée",
+      "flacon d'un parfum arrêté, introuvable désormais",
+      "cadeau reçu d'une personne disparue de la vie du personnage",
+      "coiffeuse ou salle de bains d'un défunt, inchangée",
+      "tentative de retrouver l'odeur et découverte que le flacon est vide",
+      "objet que l'on n'a pas pu se résoudre à jeter malgré l'inutilité"
+    ],
+    "emotionsAssociees": [
+      "deuil de l'odeur et de ce qu'elle portait",
+      "attachement à la forme quand le fond est parti",
+      "mélancolie de ce qui ne reviendra pas",
+      "tendresse pour un objet devenu inutile mais précieux"
+    ],
+    "usagesTypiques": [
+      "signifier la perte sans la nommer — le contenant reste, le contenu est parti",
+      "déclencher le souvenir d'une personne sans la montrer directement",
+      "créer un moment de deuil déplacé sur un objet concret",
+      "symboliser une relation vide de sa substance mais encore présente formellement",
+      "ancrer une scène de rangement ou d'inventaire des affaires d'un mort",
+      "introduire la question de ce que l'on garde quand tout est parti"
+    ],
+    "variantesNarratives": [
+      "On débouche le flacon et il reste une trace d'odeur : le passé tient encore, pour combien de temps ?",
+      "Le personnage a gardé le flacon mais a oublié à qui il appartenait : mémoire infidèle.",
+      "Quelqu'un propose de le jeter et le personnage refuse sans savoir expliquer pourquoi."
+    ],
+    "notesEditoriales": [
+      "La beauté formelle du flacon vide crée un contraste visuel avec son inutilité : à exploiter.",
+      "L'absence d'odeur est paradoxalement plus forte que la présence — l'objet prouve la disparition.",
+      "Éviter la symbolique trop explicite : laisser le flacon posé sur une surface, sans commentaire."
+    ]
+  },
+  {
+    "id": "lunettes-cassees",
+    "label": "Lunettes cassées",
+    "definitionCourte": "Paire de lunettes dont un verre est fissuré, une branche pliée ou le nez cassé — objet réparé provisoirement avec du ruban adhésif ou simplement gardé tel quel, preuve d'un incident ou d'une précarité.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "accident et quotidien abîmé",
+    "associationsNarratives": [
+      "chute ou violence physique dont les lunettes portent la trace",
+      "précarité financière qui empêche le remplacement",
+      "personnage qui n'a pas encore eu le temps ou le courage de les faire réparer",
+      "objet d'un enfant cassé par accident ou par jeu",
+      "témoignage d'une altercation ou d'un moment de violence",
+      "lunettes d'un défunt conservées cassées comme elles étaient",
+      "réparation artisanale qui dit le débrouillage ou la pauvreté"
+    ],
+    "emotionsAssociees": [
+      "vulnérabilité physique",
+      "honte de la précarité ou de l'accident",
+      "attachement à l'objet imparfait",
+      "légèreté ou humour si la cassure est récente et sans gravité"
+    ],
+    "usagesTypiques": [
+      "signifier une violence subie ou un accident sans l'expliquer",
+      "marquer la précarité d'un personnage par un détail discret et concret",
+      "introduire une blessure physique par ses conséquences sur un objet",
+      "créer un trait de caractère visuel et mémorisable",
+      "signifier la négligence de soi ou le manque de temps et d'argent",
+      "ancrer un événement récent dans un objet que le personnage porte encore"
+    ],
+    "variantesNarratives": [
+      "Réparées au ruban adhésif depuis trop longtemps : la réparation provisoire devenue permanente.",
+      "Cassées au moment d'un événement clé que le lecteur ne connaît pas encore : les lunettes comme indice.",
+      "Portées quand même, à moitié inutiles : le personnage voit flou d'un côté et ne le dit pas."
+    ],
+    "notesEditoriales": [
+      "Détail visuel fort car immédiatement lisible : les lunettes cassées racontent quelque chose sans mot.",
+      "La réparation provisoire dit l'adaptation et la débrouillardise autant que le manque.",
+      "Éviter l'usage uniquement comique — les lunettes cassées peuvent être profondément tristes selon le contexte."
+    ]
+  },
+  {
+    "id": "os-animal-trouve",
+    "label": "Os d'animal trouvé dans la terre",
+    "definitionCourte": "Os blanchi ou encore sombre déterré par hasard — dans un jardin, lors de travaux, d'une promenade — qui pose la question de ce qui était là avant, de ce qui est enterré.",
+    "chargeSymbolique": "haute",
+    "categorie": "mort et temps enfoui",
+    "associationsNarratives": [
+      "jardin familial et animal de compagnie enterré par des enfants autrefois",
+      "terrain en friche où quelque chose a vécu",
+      "enfant qui fait une découverte et pose des questions",
+      "travaux qui exhument un passé enfoui",
+      "symbole de mort simple, animale, non dramatisée",
+      "présage ou mauvais signe selon la superstition du personnage",
+      "enquêteur ou personnage curieux qui commence à creuser au propre et au figuré"
+    ],
+    "emotionsAssociees": [
+      "curiosité mêlée d'une légère inquiétude",
+      "confrontation tranquille à la mort",
+      "nostalgie si l'os rappelle un animal aimé",
+      "sensation de tenir quelque chose qui était caché"
+    ],
+    "usagesTypiques": [
+      "introduire le thème de la mort et du temps de manière non dramatique",
+      "déclencher une question ou une investigation dans le récit",
+      "signifier ce qui est enterré — au sens propre comme au sens figuré",
+      "créer un moment de silence contemplatif dans une scène active",
+      "ancrer un personnage dans un rapport concret à la mortalité",
+      "fonctionner comme présage ou comme indice selon le genre du récit"
+    ],
+    "variantesNarratives": [
+      "L'os est trop grand pour être celui d'un animal domestique : question ouverte non résolue.",
+      "Un enfant le ramasse et veut lui faire des funérailles : rituel enfantin face à la mort.",
+      "Le personnage reconnaît l'os d'un animal qu'il a lui-même enterré des années plus tôt."
+    ],
+    "notesEditoriales": [
+      "La puissance de cet objet tient à son universalité silencieuse : tout a une fin, tout retourne à la terre.",
+      "Ni macabre ni sentimental en lui-même — c'est le contexte et le personnage qui lui donnent sa couleur.",
+      "Fonctionner par économie : ne pas expliquer ce que l'os représente symboliquement."
+    ]
+  },
+  {
+    "id": "plante-presque-morte",
+    "label": "Plante qui survit à peine",
+    "definitionCourte": "Plante en pot dont les feuilles sont jaunies, la terre sèche et fissurée, les tiges penchées — vivante encore, mais de justesse, négligée sans être abandonnée tout à fait.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "soin et négligence",
+    "associationsNarratives": [
+      "appartement d'un personnage en dépression ou débordé",
+      "plante offerte dont on n'a pas su prendre soin",
+      "espace laissé à l'abandon pendant une absence longue",
+      "tentative de soin insuffisant dans une période de crise",
+      "métaphore d'une relation ou d'un projet qui tient encore",
+      "retour après une longue absence : trouver la plante presque morte",
+      "plante qui aurait dû mourir mais résiste contre toute logique"
+    ],
+    "emotionsAssociees": [
+      "culpabilité légère",
+      "sentiment de négligence involontaire",
+      "attachement surprenant à ce qui est presque perdu",
+      "espoir doux que ça puisse encore repartir"
+    ],
+    "usagesTypiques": [
+      "signifier l'état d'un personnage ou d'une situation par un objet du décor",
+      "introduire la métaphore du soin et de l'abandon sans la nommer",
+      "créer un détail visuel récurrent dans un appartement ou un bureau",
+      "marquer le retour ou le départ par l'état de la plante",
+      "symboliser une relation qui survit malgré la négligence",
+      "ancrer la culpabilité ou le retour à soi par un geste de soin concret"
+    ],
+    "variantesNarratives": [
+      "Le personnage arrose la plante comme premier acte symbolique d'un retour à soi.",
+      "La plante meurt finalement — coïncidence narrative avec un événement, ou simple réalisme.",
+      "La plante reprend malgré tout, sans soin particulier : résilience involontaire."
+    ],
+    "notesEditoriales": [
+      "Cliché de la dépression et de la négligence si trop appuyé : l'utiliser avec discrétion.",
+      "Sa force est dans l'intermédiaire : ni morte ni vivante vraiment — entre-deux qui dit l'indécision ou la crise.",
+      "Le geste de soin (arroser, rempoter) peut être le premier signe de changement d'un personnage sans qu'il soit dit."
+    ]
+  },
+  {
+    "id": "disque-vinyle-raye",
+    "label": "Disque vinyle rayé",
+    "definitionCourte": "Disque vinyle portant une rayure qui fait sauter l'aiguille au même endroit, répétant en boucle le même fragment — objet abîmé qui garde pourtant la musique, imparfaitement.",
+    "chargeSymbolique": "haute",
+    "categorie": "musique et rupture",
+    "associationsNarratives": [
+      "appartement d'un personnage qui écoute de la musique comme refuge",
+      "souvenir lié à une période particulière — l'époque du vinyle",
+      "objet transmis de génération en génération, abîmé en chemin",
+      "rayure intentionnelle : trace de colère ou de destruction partielle",
+      "rayure accidentelle lors d'un déménagement ou d'une dispute",
+      "disque d'un défunt sorti de la collection avec soin",
+      "moment où la musique s'arrête et bégaie : rupture du rituel"
+    ],
+    "emotionsAssociees": [
+      "nostalgie pour la musique et pour ce qu'elle évoque",
+      "acceptation de l'imperfection dans ce qu'on aime",
+      "irritation si le saut survient au mauvais moment",
+      "attachement à l'objet abîmé précisément parce qu'il est abîmé"
+    ],
+    "usagesTypiques": [
+      "signifier le passage du temps et l'usure des choses aimées",
+      "introduire la répétition comme motif narratif — ce qui recommence, ce qui reste bloqué",
+      "créer une métaphore de la mémoire imparfaite ou traumatique",
+      "ancrer une atmosphère sonore et visuelle d'une époque",
+      "symboliser une relation ou un souvenir qui tient mais avec des manques",
+      "introduire une rupture dans un rituel de confort"
+    ],
+    "variantesNarratives": [
+      "Le saut se produit toujours au même endroit, sur le même mot d'une chanson : signifiance accrue.",
+      "Le personnage repose l'aiguille manuellement à chaque fois, sans chercher à faire réparer : rituel d'acceptation.",
+      "La rayure a été faite par quelqu'un d'autre : elle porte la trace d'une colère ou d'une maladresse."
+    ],
+    "notesEditoriales": [
+      "La boucle créée par la rayure est une métaphore puissante de la rumination ou du traumatisme — à utiliser avec soin.",
+      "L'objet dit à la fois l'attachement et l'imperfection : garder ce qui est abîmé parce qu'on ne peut pas s'en séparer.",
+      "Ancrage temporel : le vinyle date — adapter au personnage et à l'époque, ou utiliser ce décalage."
+    ]
+  },
+  {
+    "id": "cahier-exercices-enfant",
+    "label": "Cahier d'exercices d'écolier",
+    "definitionCourte": "Cahier à petits carreaux ou lignes couvert de l'écriture hésitante d'un enfant — lettres grandes, parfois renversées, ratures, étoiles ou tampons de maîtresse, couverture décorée.",
+    "chargeSymbolique": "haute",
+    "categorie": "enfance et transmission",
+    "associationsNarratives": [
+      "trouvé dans les affaires d'un enfant mort ou grandi",
+      "cahier de l'enfance du personnage lui-même, retrouvé au fond d'un tiroir",
+      "héritage des affaires d'un parent : les cahiers de l'enfance de quelqu'un qu'on croyait connaître",
+      "regret ou tendresse lors d'un rangement scolaire de fin d'année",
+      "témoin de l'apprentissage et de l'effort d'un enfant spécifique",
+      "preuve de l'existence passée de quelqu'un",
+      "fouille d'une maison abandonnée où des affaires d'enfants ont été laissées"
+    ],
+    "emotionsAssociees": [
+      "tendresse pour l'enfant qu'on était ou qu'on a aimé",
+      "chagrin si l'enfant est mort ou perdu de vue",
+      "nostalgie de la simplicité des efforts d'écolier",
+      "sentiment de tenir quelque chose d'irremplaçablement précis"
+    ],
+    "usagesTypiques": [
+      "signifier l'enfance révolue par un objet concret et daté",
+      "déclencher un souvenir ou une révélation sur un personnage",
+      "ancrer un deuil d'enfant dans la réalité matérielle de sa vie",
+      "créer un moment de tendresse involontaire chez un personnage dur",
+      "signifier la continuité entre l'enfant et l'adulte",
+      "introduire une information sur l'enfance d'un personnage par la preuve de son écriture"
+    ],
+    "variantesNarratives": [
+      "Une phrase dans le cahier — réponse à la maîtresse — dit quelque chose d'involontairement révélateur sur l'enfant.",
+      "L'écriture dans le cahier ressemble à l'écriture adulte du personnage : reconnaissance troublante.",
+      "Le cahier appartient à quelqu'un que le personnage n'a jamais connu enfant : un inconnu soudain rendu intime."
+    ],
+    "notesEditoriales": [
+      "La maladresse de l'écriture d'enfant est narrativement plus forte que la beauté — elle dit l'effort et la fragilité.",
+      "Ne pas multiplier les détails du contenu : une phrase, un dessin en marge, et c'est suffisant.",
+      "Objet qui fonctionne presque toujours : résister à l'instrumentalisation trop prévisible (l'enfant mort, le fils perdu)."
+    ]
+  },
+  {
+    "id": "bouton-manteau-perdu",
+    "label": "Bouton arraché d'un manteau",
+    "definitionCourte": "Bouton détaché d'un vêtement, conservé dans une poche, un tiroir ou une boîte — petit disque de nacre, de corne ou de plastique qui attend une réparation qui n'est jamais venue.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "imperfection et soin différé",
+    "associationsNarratives": [
+      "bouton arraché lors d'une dispute ou d'une altercation physique",
+      "vêtement du quotidien dont on remet la réparation à plus tard",
+      "manteau d'un défunt dans les affaires duquel on trouve le bouton déjà séparé",
+      "geste de raccrocher à quelqu'un physiquement — la veste tirée, le bouton parti",
+      "signe d'usure d'un vêtement aimé depuis trop longtemps",
+      "preuve discrète d'une violence ou d'une urgence passée",
+      "boîte à couture ouverte avec un bouton orphelin à l'intérieur"
+    ],
+    "emotionsAssociees": [
+      "sentiment de quelque chose d'inachevé",
+      "attachement à un objet imparfait",
+      "légère culpabilité de la réparation différée",
+      "tendresse pour le vêtement ou la personne associée"
+    ],
+    "usagesTypiques": [
+      "signifier une rupture ou une violence par les conséquences sur un objet",
+      "marquer le soin différé comme trait de caractère ou état d'un personnage",
+      "créer un détail visuel qui dit l'imparfait tenu ensemble",
+      "introduire un indice discret sur un événement passé",
+      "ancrer la présence d'un absent dans les affaires qu'il a laissées",
+      "symboliser ce qui est incomplet mais conservé quand même"
+    ],
+    "variantesNarratives": [
+      "Le personnage coud le bouton en silence pendant une conversation importante : geste et parole en parallèle.",
+      "Le bouton est là mais la veste a disparu : le petit reste après le grand.",
+      "Retrouver le bouton arraché lors de la dispute explique tout ce qui s'est passé sans qu'on le dise."
+    ],
+    "notesEditoriales": [
+      "La petitesse de l'objet est sa force : le bouton est tellement anodin qu'il déstabilise quand il porte une charge.",
+      "Le geste de coudre un bouton est narrativement riche : concentration, soin, mains occupées pendant que l'esprit travaille.",
+      "Attention à ne pas en faire un symbole trop appuyé : un bouton reste un bouton, c'est cette banalité qui l'ancre."
+    ]
+  },
+  {
+    "id": "adresse-griffonnee",
+    "label": "Adresse griffonnée sur un bout de papier",
+    "definitionCourte": "Quelques mots d'écriture rapide sur un fragment de papier — coin de serviette, bord de ticket de caisse, carnet arraché — une adresse donnée dans l'urgence ou en secret, qui ouvre une question.",
+    "chargeSymbolique": "haute",
+    "categorie": "secret et direction",
+    "associationsNarratives": [
+      "adresse donnée lors d'une rencontre furtive ou clandestine",
+      "information transmise discrètement dans une situation de danger",
+      "adresse d'un lieu que le personnage doit trouver mais ne sait pas ce qu'il y trouvera",
+      "dernier contact avec quelqu'un avant une disparition",
+      "adresse d'un inconnu qui devient soudain centrale dans le récit",
+      "papier trouvé dans les affaires de quelqu'un : à qui était destiné ce rendez-vous ?",
+      "adresse à moitié effacée ou illisible — information incomplète"
+    ],
+    "emotionsAssociees": [
+      "curiosité mêlée d'appréhension",
+      "sentiment de tenir un secret dont on ne comprend pas encore l'enjeu",
+      "urgence ou espoir selon le contexte",
+      "hésitation avant d'aller à cette adresse"
+    ],
+    "usagesTypiques": [
+      "lancer une investigation ou une quête sans explication préalable",
+      "introduire un personnage ou un lieu qui sera central dans la suite",
+      "signifier une communication clandestine ou urgente",
+      "créer un objet-déclencheur d'une nouvelle direction narrative",
+      "marquer le moment où le personnage doit décider d'aller ou non",
+      "introduire un mystère autour d'un lieu ou d'une personne"
+    ],
+    "variantesNarratives": [
+      "L'écriture est tremblante : donnée sous la peur ou dans la précipitation extrême.",
+      "L'adresse n'existe plus ou a changé : le personnage arrive et trouve autre chose.",
+      "Deux personnages ont la même adresse griffonnée de la même main : ils ne savent pas qu'ils cherchent la même chose."
+    ],
+    "notesEditoriales": [
+      "L'urgence de l'écriture — griffonnée, pas calligraphiée — est aussi importante que le contenu : à décrire.",
+      "Cliché du polar si trop attendu : l'utiliser dans des contextes moins convenus (relation amoureuse, aide familiale, rupture).",
+      "La décision d'y aller ou non est souvent plus intéressante narrativement que ce que l'on y trouvera."
+    ]
+  }
+]

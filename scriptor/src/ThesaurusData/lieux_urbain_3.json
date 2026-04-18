@@ -1,0 +1,562 @@
+[
+  {
+    "id": "metro-heures-creuses",
+    "label": "Métro aux heures creuses",
+    "type": "urbain-transport",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "rames espacées — attente de cinq à dix minutes",
+      "quai presque vide — quelques silhouettes éparpillées",
+      "néons qui clignotent par intervalles",
+      "siège en plastique moulé orange ou vert selon la ligne",
+      "plan du métro plastifié avec les noms des stations",
+      "sol de caoutchouc rayé et gris",
+      "affichage électronique du prochain train"
+    ],
+    "bruits": [
+      "souffle d'air avant l'arrivée de la rame — signe annonciateur",
+      "train qui repart — bruit qui s'éloigne dans le tunnel",
+      "annonce enregistrée — voix reconnue immédiatement",
+      "silence entre les trains — rare et inattendu en métro"
+    ],
+    "odeurs": [
+      "air de tunnel — électrique, métallique et légèrement brûlé",
+      "parfum du passager d'en face — trop présent dans le vide",
+      "vieux caoutchouc chauffé"
+    ],
+    "textures": [
+      "barre de maintien froide et lisse",
+      "siège plastique dur et légèrement collant",
+      "vibration de la rame sous les pieds"
+    ],
+    "emotionsTypiques": [
+      "solitude dans un espace public vide",
+      "légère inquiétude du quai peu fréquenté la nuit",
+      "temps suspendu entre deux trajectoires"
+    ],
+    "usagesNarratifs": [
+      "rencontre inattendue dans un wagon presque vide",
+      "espace de confidence entre deux étrangers qui ne se reverront pas",
+      "fuite — le métro de nuit est le transport des départs précipités",
+      "observation d'un personnage par un autre sans qu'il le sache"
+    ],
+    "tensionsTypiques": [
+      "quai vide qui rend vulnérable aux agressions",
+      "porte qui se ferme avant qu'on y soit",
+      "dernier métro raté — la nuit commence"
+    ],
+    "variantesPerception": [
+      {"profil": "Habitué quotidien", "description": "Il reconnaît chaque station au bruit avant de voir les panneaux. Le vide des heures creuses lui donne de l'espace — inhabituel, légèrement appréciable."},
+      {"profil": "Touriste ou étranger", "description": "Le plan est incompréhensible au premier abord. Il compte les stations, vérifie deux fois. La correspondance lui demande un effort."},
+      {"profil": "Personnage de nuit", "description": "Le métro de nuit est peuplé d'une faune différente. Fêtards, travailleurs de nuit, sans-abri qui se réchauffent. Le mélange est particulier."}
+    ],
+    "notesEditoriales": [
+      "Le métro aux heures creuses révèle le dispositif — les néons trop forts, les sièges inconfortables, l'absence de masque social habituel.",
+      "L'attente sur un quai vide de nuit est une des situations les plus psychologiquement chargées de la vie urbaine ordinaire."
+    ]
+  },
+  {
+    "id": "rer-bonde",
+    "label": "RER bondé aux heures de pointe",
+    "type": "urbain-transport",
+    "dominanteSensorielle": "sonore-tactile",
+    "elements": [
+      "portes qui s'ouvrent sur une masse de corps déjà debout",
+      "impossible de lire — trop serré, bras bloqués",
+      "visages à vingt centimètres — évitement du regard obligatoire",
+      "sacs à dos qui heurtent les voisins",
+      "affichage électronique souvent en panne ou en retard",
+      "fenêtres embués par les souffles",
+      "portière qui s'ouvre entre les wagons — odeur de tunnel"
+    ],
+    "bruits": [
+      "conversation téléphonique à voix haute — impossible à ignorer",
+      "soupirs et bruits de foule impatiente",
+      "annonce de retard — réaction collective",
+      "porte qui se ferme sur quelqu'un qui essaie encore d'entrer"
+    ],
+    "odeurs": [
+      "transpiration collective — variable selon la saison",
+      "nourriture réchauffée si quelqu'un mange",
+      "parfum et déodorant en mélange non prévu"
+    ],
+    "textures": [
+      "corps contre corps — contact forcé et silencieusement subi",
+      "main qui cherche un appui sur la barre — déjà prise",
+      "chaleur dense et humide de la masse corporelle"
+    ],
+    "emotionsTypiques": [
+      "irritabilité de fond — on supporte sans pouvoir réagir",
+      "résignation — c'est tous les jours pareil",
+      "sensation d'absence de contrôle sur son propre espace"
+    ],
+    "usagesNarratifs": [
+      "confrontation involontaire entre personnages que rien ne devrait réunir",
+      "vol à la tire dans la masse — difficile à prouver",
+      "panique — impossible de sortir si malaise ou accident",
+      "microcosme social — tous les niveaux de la ville ensemble"
+    ],
+    "tensionsTypiques": [
+      "malaise d'un voyageur — impossible à aider dans la masse",
+      "incident qui bloque la ligne — trente minutes sans bouger",
+      "confrontation verbale qui n'a pas de sortie possible"
+    ],
+    "variantesPerception": [
+      {"profil": "Banlieusard habitué", "description": "Il a ses stratégies — le wagon de tête, la porte du milieu, l'angle mort. Il est dedans avant que les autres aient compris que la rame arrivait."},
+      {"profil": "Premier jour de travail à Paris", "description": "Il n'arrive pas à entrer. Il laisse passer une rame, puis une autre. Il finit par se laisser pousser. Son costume est froissé avant d'arriver."},
+      {"profil": "Personne claustrophobe", "description": "Il compte les stations. Il respire lentement. Quand la rame s'arrête entre deux stations, il ferme les yeux."}
+    ],
+    "notesEditoriales": [
+      "Le RER bondé est une expérience de promiscuité forcée et de tolérance sociale codifiée — les règles implicites du silence, du regard, de l'espace.",
+      "L'incident dans un RER bondé est amplifié par l'impossibilité de fuir — tout le monde est captif."
+    ]
+  },
+  {
+    "id": "gare-routiere",
+    "label": "Gare routière",
+    "type": "urbain-transport",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "quais numérotés alignés, cars à l'arrêt ou au départ",
+      "salle d'attente avec bancs en métal et écran d'affichage",
+      "guichets fermés sauf aux heures de départ",
+      "passagers avec bagages imposants — déménagements, retours",
+      "distributeurs automatiques comme unique restauration",
+      "panneau des destinations — villes moyennes, petits bourgs",
+      "conducteur qui fume dehors entre deux rotations"
+    ],
+    "bruits": [
+      "moteurs diesel des cars qui tournent à vide",
+      "annonce micro — voix souvent inaudible",
+      "bagages traînés sur le béton",
+      "conversations en langues multiples"
+    ],
+    "odeurs": [
+      "gasoil — omniprésent et fort",
+      "air de béton fermé",
+      "café de distributeur — reconnaissable entre tous"
+    ],
+    "textures": [
+      "banc métallique froid et dur",
+      "sol de béton — pieds qui fatiguent vite",
+      "ticket de car souple et fin"
+    ],
+    "emotionsTypiques": [
+      "attente dans un lieu fait pour partir, pas pour rester",
+      "solitude des départs non choisis",
+      "sentiment d'être hors des circuits principaux — la gare routière pour ceux que le train ne prend pas"
+    ],
+    "usagesNarratifs": [
+      "départ précipité ou définitif — la gare routière est moins solennelle que la gare SNCF",
+      "rencontre de transit entre deux mondes",
+      "retour en province — la gare routière dit que l'exil est terminé",
+      "espace où l'on attend quelqu'un qui ne vient pas"
+    ],
+    "tensionsTypiques": [
+      "car raté — prochain dans cinq heures",
+      "personne qui attend sans billet — l'argent manque",
+      "retard non annoncé — personne pour informer"
+    ],
+    "variantesPerception": [
+      {"profil": "Habitué des cars interurbains", "description": "Il connaît les horaires mieux que l'affichage. Il sait quelle place prendre, quel conducteur est agréable. C'est son quotidien de navetteur."},
+      {"profil": "Étudiant qui rentre chez ses parents", "description": "La gare routière est la frontière entre deux vies. Il charge ses sacs lourds. Le car sent le vieux plastique. Il dort tout le trajet."},
+      {"profil": "Personne sans ressources", "description": "La gare routière est chauffée. Les vigiles ne le chassent pas tout de suite. Il est arrivé tôt et reste tard. Il connaît tous les employés."}
+    ],
+    "notesEditoriales": [
+      "La gare routière est le transport des gens qui n'ont pas le choix — pauvres, ruraux, jeunes. Sa sociologie est très différente de la gare SNCF.",
+      "L'odeur de gasoil est indissociable du souvenir des gares routières pour ceux qui les fréquentent — un déclencheur mémoriel précis."
+    ]
+  },
+  {
+    "id": "terminal-aeroport",
+    "label": "Terminal d'aéroport — départs",
+    "type": "urbain-transport",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "espace immense et climatisé",
+      "panneaux de destinations en constante rotation",
+      "files d'enregistrement et de sécurité",
+      "boutiques duty-free dans la zone d'embarquement",
+      "sièges modulables en plastique dur",
+      "familles ou groupes qui se disent au revoir côté départ",
+      "agents en uniforme qui circulent entre les files"
+    ],
+    "bruits": [
+      "annonces en plusieurs langues en boucle",
+      "chariots à bagages — roulettes sur le carrelage",
+      "pleurs d'enfant ou d'adulte aux adieux",
+      "brouhaha continu de plusieurs centaines de personnes"
+    ],
+    "odeurs": [
+      "climatisation sèche — déshydratation progressive",
+      "parfum des boutiques duty-free qui déborde dans les couloirs",
+      "café des lounges et cafétérias"
+    ],
+    "textures": [
+      "siège inconfortable pour une longue attente",
+      "carrelage froid et dur sous les pieds de voyage",
+      "passeport sorti et rentré — le geste de sécurité"
+    ],
+    "emotionsTypiques": [
+      "excitation de ce qui commence",
+      "mélancolie des adieux — les deux en même temps",
+      "anxiété des connexions, des papiers, du timing"
+    ],
+    "usagesNarratifs": [
+      "séparation — adieux dans la zone publique avant la sécurité",
+      "fuite ou expatriation — dernier regard sur le pays",
+      "retard ou annulation qui change tout un récit",
+      "rencontre de transit — deux vies qui se croisent une fois"
+    ],
+    "tensionsTypiques": [
+      "vol raté — une heure de retard en voiture suffit",
+      "document manquant découvert à l'enregistrement",
+      "adieux que l'un vit autrement que l'autre"
+    ],
+    "variantesPerception": [
+      {"profil": "Voyageur fréquent", "description": "Il connaît le terminal comme son bureau. Il va directement à la sécurité, sans s'arrêter aux boutiques. Son bagage est à main. Il sera parti et revenu avant que certains aient fait leur check-in."},
+      {"profil": "Personne qui part pour la première fois", "description": "Le terminal l'impressionne. Les files sont longues et les règles opaques. Il sur-vérifie ses documents. Il arrive trop tôt."},
+      {"profil": "Famille qui accompagne sans partir", "description": "Ils s'arrêtent à la limite. Ce côté-ci du couloir, encore ensemble. De l'autre côté, séparation. Ils retardent le passage."}
+    ],
+    "notesEditoriales": [
+      "L'aéroport est un non-lieu au sens propre — entre deux pays, hors du temps réel. Cette liminalité est narrativement riche.",
+      "La zone publique des départs (avant la sécurité) est le dernier espace partagé entre ceux qui partent et ceux qui restent."
+    ]
+  },
+  {
+    "id": "parking-souterrain",
+    "label": "Parking souterrain",
+    "type": "urbain-transport",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "plafond bas — moins de deux mètres, tubes fluorescents en hauteur",
+      "colonnes de béton tous les six mètres",
+      "marquage au sol peint et effacé par les pneus",
+      "caisse automatique ou gardien dans sa guérite vitrée",
+      "niveaux signalés en rouge ou vert selon les places",
+      "voitures garées dans le silence et l'absence",
+      "rampe hélicoïdale entre les niveaux"
+    ],
+    "bruits": [
+      "résonance des pas — le béton amplifie",
+      "voiture qui tourne à la recherche d'une place",
+      "grincement des pneus sur le béton lisse des virages",
+      "système de ventilation — bourdonnement constant"
+    ],
+    "odeurs": [
+      "huile, gaz d'échappement et béton — mélange très reconnaissable",
+      "air stagnant et légèrement vicié",
+      "caoutchouc chaud des pneus"
+    ],
+    "textures": [
+      "sol béton légèrement gras sous les semelles",
+      "colonne froide si on s'y adosse",
+      "rampe métallique des escaliers — froide et lisse"
+    ],
+    "emotionsTypiques": [
+      "légère inquiétude dans les niveaux profonds et vides",
+      "dégoût pour ceux qui l'évitent",
+      "fonctionnalité pure — on n'y passe pas de temps volontiers"
+    ],
+    "usagesNarratifs": [
+      "scène de filature ou d'agression — environnement idéal pour la tension",
+      "échange clandestin à l'abri des regards",
+      "voiture récupérée après un événement — retour au monde normal",
+      "espace de solitude brutale en plein centre-ville"
+    ],
+    "tensionsTypiques": [
+      "niveau vide et mal éclairé — vulnérabilité immédiate",
+      "panne du système de sortie — coincé",
+      "voiture qui ne démarre pas dans le sous-sol"
+    ],
+    "variantesPerception": [
+      {"profil": "Habitué qui gare là chaque jour", "description": "Il va à sa place habituelle sans réfléchir. La luminosité et l'odeur sont un fond neutre. Il pense à autre chose."},
+      {"profil": "Femme seule en fin de soirée", "description": "Elle accélère le pas, vérifie autour d'elle, clés entre les doigts. L'ascenseur ou l'escalier — elle choisit l'escalier, plus visible."},
+      {"profil": "Personnage qui attend quelqu'un dans sa voiture", "description": "Il coupe le moteur. L'obscurité relative s'installe. Les autres voitures garées autour sont vides et silencieuses. Il attend."}
+    ],
+    "notesEditoriales": [
+      "Le parking souterrain est l'espace de thriller par excellence — résonance, obscurité, colonnes qui cachent. À utiliser avec conscience de cette tradition.",
+      "L'odeur d'un parking souterrain est très précise et reconnaissable — gaz, béton, huile. Un détail olfactif fort."
+    ]
+  },
+  {
+    "id": "pont-urbain",
+    "label": "Pont urbain",
+    "type": "urbain-transport",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "tablier suspendu ou en arc au-dessus de la voie d'eau",
+      "trottoir étroit entre la voie et le garde-corps",
+      "vue sur la rivière ou le canal des deux côtés",
+      "cadenas accrochés au garde-corps — parfois par milliers",
+      "circulation dense ou piétons selon l'heure",
+      "lumières des quais reflétées dans l'eau la nuit",
+      "vent canal qui remonte sous le tablier"
+    ],
+    "bruits": [
+      "trafic — voitures, bus, vélos — sans arrêt",
+      "eau en dessous — courant ou clapotis selon la rivière",
+      "vent qui s'engouffre entre les garde-corps",
+      "voix qui portent différemment sur le pont — acoustique particulière"
+    ],
+    "odeurs": [
+      "eau de la rivière ou du canal",
+      "gaz d'échappement si trafic dense",
+      "air plus ouvert qu'en rue — le vent disperse"
+    ],
+    "textures": [
+      "garde-corps froid et parfois rouillé",
+      "trottoir plus étroit que prévu",
+      "vibration si bus ou camion passe"
+    ],
+    "emotionsTypiques": [
+      "moment de transition entre deux rives — symbolique fort",
+      "exposition totale — vent, vue, absence d'abri",
+      "sentiment d'être entre deux mondes"
+    ],
+    "usagesNarratifs": [
+      "passage symbolique et physique entre deux états",
+      "lieu de rencontre fortuit — tout le monde traverse",
+      "vue sur la ville — recul et perspective",
+      "lieu de crise — le pont appelle le vertige"
+    ],
+    "tensionsTypiques": [
+      "vertige si pont suspendu ou très haut",
+      "personne penchée sur le garde-corps — l'interprétation est immédiate",
+      "circulation dangereuse pour les piétons"
+    ],
+    "variantesPerception": [
+      {"profil": "Piéton pressé", "description": "Le pont est un passage. Il le traverse sans s'arrêter, sans regarder l'eau. Il est de l'autre côté avant d'y avoir pensé."},
+      {"profil": "Touriste", "description": "Il s'arrête au milieu, photographie. Le cadenas du pont est un geste symbolique qu'il comprend. Il regarde l'eau longtemps."},
+      {"profil": "Personnage en crise", "description": "Il s'arrête sur le pont. Les voitures passent. L'eau est loin en dessous. Il regarde un long moment. Puis il repart — ou pas."}
+    ],
+    "notesEditoriales": [
+      "Le pont est un seuil dans toutes les traditions narratives — passer un pont n'est jamais anodin. À utiliser en conscience de cette charge.",
+      "La vue depuis le pont offre une perspective que les rues ne donnent pas — recul, horizon, distance. Narrativement, c'est un moment de clarté possible."
+    ]
+  },
+  {
+    "id": "couloir-correspondance",
+    "label": "Couloir de correspondance souterrain",
+    "type": "urbain-transport",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "couloir long et bas — cinquante à trois cents mètres",
+      "carrelage blanc ou beige aux joints noircis",
+      "affichage directionnel tous les dix mètres",
+      "musicien des couloirs parfois — accordéon, violon",
+      "flux de personnes qui ne se regardent pas",
+      "publicités sur les murs — souvent abîmées ou taguées",
+      "escaliers mécaniques en panne — montée à pied"
+    ],
+    "bruits": [
+      "pas de centaines de personnes mêlés",
+      "musicien — présence sonore anachronique dans le flux",
+      "annonces qui rebondissent sur le carrelage",
+      "porte coupe-feu qui claque"
+    ],
+    "odeurs": [
+      "air de tunnel — caractéristique et reconnaissable",
+      "transpiration dans les couloirs étroits",
+      "kebab ou crêpe du kiosque à l'entrée"
+    ],
+    "textures": [
+      "carrelage froid et dur",
+      "rampe d'escalier mécanique en caoutchouc noir",
+      "porte de validation — bord de métal"
+    ],
+    "emotionsTypiques": [
+      "flow du déplacement — on avance sans y penser",
+      "légère irritation si quelqu'un s'arrête dans le flux",
+      "moment de flottement si on rate sa direction"
+    ],
+    "usagesNarratifs": [
+      "filature — suivre quelqu'un dans le flux sans être vu",
+      "musicien comme perturbateur du rythme — pause forcée",
+      "espace de croisement — deux personnes qui ne se verront plus",
+      "urgence de ne pas rater la correspondance"
+    ],
+    "tensionsTypiques": [
+      "couloir en travaux — déviation non signalée",
+      "foule dense qui bloque ou emporte",
+      "personne qui tombe dans le couloir — flux qui continue"
+    ],
+    "variantesPerception": [
+      {"profil": "Navetteur quotidien", "description": "Il connaît le couloir en centimètres. Il sait où accélérer, où les gens ralentissent. Il ne voit pas le musicien depuis des mois."},
+      {"profil": "Touriste avec carte papier", "description": "Il s'arrête dans le flux pour lire la carte. Tout le monde le contourne. Il est un obstacle — il ne le sait pas encore."},
+      {"profil": "Enfant", "description": "Le couloir est interminable. Les adultes vont trop vite. Il tient la main fermement. Les carreaux blancs défilent. Il compte les affiches."}
+    ],
+    "notesEditoriales": [
+      "Le musicien des couloirs est un détail de la vie souterraine parisienne qui mérite plus que la mention anecdotique.",
+      "Le flux dans les couloirs de correspondance est une forme de chorégraphie sociale — chacun calcule sa place et son vitesse inconsciemment."
+    ]
+  },
+  {
+    "id": "quai-tramway",
+    "label": "Quai de tramway",
+    "type": "urbain-transport",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "plateforme surélevée ou de plain-pied selon la ligne",
+      "abri ouvert en verre ou en métal",
+      "affichage en temps réel du prochain tram",
+      "rails affleurant dans le revêtement spécial — pelouse parfois",
+      "vélos en attente à l'espace prévu",
+      "bancs en métal ou en bois selon la ville",
+      "agent parfois — contrôle de titres ou information"
+    ],
+    "bruits": [
+      "annonce sonore de l'arrivée — spécifique au tramway",
+      "rails qui chantent avant que le tram soit visible",
+      "démarrage électrique — silencieux puis fort progressivement",
+      "validation des titres — bips en série"
+    ],
+    "odeurs": [
+      "air extérieur — contrairement au métro, le tramway est en surface",
+      "rails et métal chaud",
+      "végétation si plateforme engazonnée"
+    ],
+    "textures": [
+      "banc froid ou chaud selon le soleil",
+      "vent du tram qui approche",
+      "vibration du sol quand le tram freine"
+    ],
+    "emotionsTypiques": [
+      "attente plus agréable qu'en sous-sol — on voit le ciel",
+      "légère irritation si retard",
+      "sentiment d'appartenance à la ville — le tram est urbain, pas souterrain"
+    ],
+    "usagesNarratifs": [
+      "attente qui permet l'observation de la rue",
+      "rencontre sur le quai entre personnes qui n'empruntent pas la même ligne",
+      "espace de transition entre quartiers très différents",
+      "lieu de commerce ambulant ou de sollicitation"
+    ],
+    "tensionsTypiques": [
+      "tram bondé — même impossibilité qu'en métro mais visible depuis l'extérieur",
+      "incident sur les rails — arrêt imprévu de la ligne",
+      "contrôle de titres — voyageur sans titre"
+    ],
+    "variantesPerception": [
+      {"profil": "Habitant du quartier", "description": "Le quai est un point fixe de sa vie quotidienne. Il connaît les gens qui prennent le même tram à la même heure. Ils ne se parlent pas."},
+      {"profil": "Touriste", "description": "Le tramway est une façon de voir la ville autrement. Il reste debout, regarde dehors, descend une station trop tôt."},
+      {"profil": "Enfant qui découvre", "description": "Le tram arrive silencieusement puis devient soudainement grand. Il attrape la main de l'adulte. À l'intérieur, il veut la place au bord de la fenêtre."}
+    ],
+    "notesEditoriales": [
+      "Le tramway est urbain et de surface — il relie des quartiers visiblement, contrairement au métro. Ce lien visible est narrativement différent.",
+      "La plateforme engazonnée du tramway est un détail de la ville contemporaine durable — elle contraste avec le reste de l'infrastructure urbaine."
+    ]
+  },
+  {
+    "id": "station-bus-nuit",
+    "label": "Station de bus la nuit",
+    "type": "urbain-transport",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "abri plexiglas parfois graffité ou brisé",
+      "affichage horaire avec la mention 'service réduit'",
+      "banc exigu — conçu pour s'asseoir mais pas dormir",
+      "lumière du panneau qui éclaire un périmètre restreint",
+      "rue vide derrière",
+      "une ou deux personnes sur le banc — sans se parler",
+      "poubelle au pied de l'abri — pleine ou renversée"
+    ],
+    "bruits": [
+      "silence de la rue nocturne — révélateur",
+      "voiture qui passe sans s'arrêter",
+      "bus qui arrive — diesel et sifflement de freins",
+      "conversation téléphonique de l'autre personne sur le banc"
+    ],
+    "odeurs": [
+      "froid de la nuit",
+      "urine parfois — les abris servent d'abri au sens large",
+      "diesel du bus à l'arrêt"
+    ],
+    "textures": [
+      "banc froid et dur",
+      "plexiglas froid si on s'y appuie",
+      "vent de la nuit qui entre malgré l'abri"
+    ],
+    "emotionsTypiques": [
+      "vulnérabilité de celui qui attend seul la nuit",
+      "lenteur du temps — chaque minute est longue",
+      "sentiment d'être hors du flux normal de la ville"
+    ],
+    "usagesNarratifs": [
+      "attente qui force la proximité entre inconnus",
+      "espace de rencontre improbable — le bus de nuit rassemble les marginaux",
+      "solitude urbaine dans toute sa précision",
+      "point de départ d'une nuit qui peut partir dans plusieurs directions"
+    ],
+    "tensionsTypiques": [
+      "bus en retard ou annulé — plus de service avant deux heures",
+      "personne qui s'approche dans la nuit",
+      "monnaie manquante pour le ticket"
+    ],
+    "variantesPerception": [
+      {"profil": "Travailleur de nuit qui rentre", "description": "Il connaît tous les bus nocturnes. Le conducteur le reconnaît. L'attente est une habitude, pas une inquiétude."},
+      {"profil": "Femme seule après minuit", "description": "Elle vérifie l'heure du bus sur son téléphone, surveille les alentours. L'abri est visible depuis la rue — c'est à la fois exposant et rassurant."},
+      {"profil": "Fêtard qui n'a plus de taxi argent", "description": "Il attend avec une légèreté que la sobriété progressive va entamer. L'abri de bus de nuit est la fin de sa soirée — pas la fin qu'il avait prévue."}
+    ],
+    "notesEditoriales": [
+      "La station de bus de nuit concentre la vulnérabilité urbaine — on attend, on ne peut pas bouger, on dépend d'un service incertain.",
+      "L'abri de bus conçu pour être inconfortable est un détail social important : ces équipements ont été pensés pour empêcher les sans-abri de dormir."
+    ]
+  },
+  {
+    "id": "taxi-embouteillage",
+    "label": "Taxi dans les embouteillages",
+    "type": "urbain-transport",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "intérieur en cuir usé, séparation vitrée parfois",
+      "taxi-mètre qui tourne — le client le surveille",
+      "vue sur l'embouteillage depuis la banquette arrière",
+      "photos ou images accrochées au tableau de bord",
+      "radio — France Info ou musique du pays d'origine",
+      "désodorisant en forme de sapin ou de fleur",
+      "GPS coincé sur le pare-brise"
+    ],
+    "bruits": [
+      "klaxons de l'embouteillage",
+      "radio du chauffeur — en permanence ou par intermittence",
+      "conversation téléphonique du chauffeur si il parle",
+      "tac tac du compteur selon les systèmes"
+    ],
+    "odeurs": [
+      "désodorisant artificiel — parfum de sapin ou de fleur synthétique",
+      "tabac si chauffeur fumeur",
+      "cuir chaud et ancien"
+    ],
+    "textures": [
+      "banquette en cuir synthétique, légèrement collante en été",
+      "appui-tête dur",
+      "téléphone entre les mains — on vérifie le retard"
+    ],
+    "emotionsTypiques": [
+      "frustration de payer pour ne pas bouger",
+      "conversation forcée ou silence gêné",
+      "sentiment d'être déposé dans les mains de quelqu'un d'autre"
+    ],
+    "usagesNarratifs": [
+      "conversation entre client et chauffeur — espace de confession anonyme",
+      "urgence de l'embouteillage qui aggrave une situation",
+      "observation de la ville depuis la banquette — recul imposé",
+      "huis clos mobile entre deux inconnus"
+    ],
+    "tensionsTypiques": [
+      "argent insuffisant pour la course plus longue que prévue",
+      "chauffeur qui prend le mauvais chemin",
+      "rendez-vous qui saute à cause du trafic"
+    ],
+    "variantesPerception": [
+      {"profil": "Chauffeur habitué", "description": "Il connaît les embouteillages de la ville comme personne. Il raconte, il commente, il donne des avis sur tout. La banquette arrière est son bureau."},
+      {"profil": "Client pressé", "description": "Il surveille le compteur, l'heure, le GPS. Il fait des calculs. À un moment, il préfère descendre et marcher — le compteur monte plus vite que les roues tournent."},
+      {"profil": "Client qui vient d'apprendre une nouvelle", "description": "L'embouteillage l'immobilise. La ville continue dehors. Il regarde sans voir. Le chauffeur parle — il ne répond pas."}
+    ],
+    "notesEditoriales": [
+      "Le taxi est un espace de confession célèbre — le chauffeur ne juge pas, ne connaît pas l'entourage, ne peut pas partir. Beaucoup de gens y parlent plus qu'ailleurs.",
+      "Le taxi-mètre qui tourne pendant l'embouteillage est une métaphore du temps qui coûte — à utiliser concrètement."
+    ]
+  }
+]

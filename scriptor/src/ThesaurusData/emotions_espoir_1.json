@@ -1,0 +1,470 @@
+[
+  {
+    "id": "espoir",
+    "label": "Espoir",
+    "alias": [
+      "espoir",
+      "foi dans l'avenir",
+      "attente positive",
+      "croyance que ça peut aller mieux",
+      "espoir fragile",
+      "espoir têtu",
+      "espérance",
+      "lueur d'espoir",
+      "confiance dans l'avenir",
+      "désir que ça tourne bien"
+    ],
+    "famille": "espoir-attente",
+    "definitionCourte": "Orientation vers un avenir possible meilleur, qui permet au personnage de continuer à agir malgré l'incertitude, et qui peut être fragile, robuste, naïf ou lucide.",
+    "signesPhysiques": [
+      "regard qui se lève légèrement",
+      "posture qui se redresse un peu",
+      "sourire discret à l'évocation de la possibilité",
+      "respiration légèrement plus ample",
+      "gestes moins serrés, moins économiques",
+      "voix qui retrouve un peu de chaleur",
+      "regard plus loin que l'immédiat"
+    ],
+    "sensationsInternes": [
+      "légèreté naissante dans la poitrine",
+      "élan vers l'avenir, même petit",
+      "impression que quelque chose est encore possible",
+      "chaleur légère après la froideur du découragement",
+      "désir de croire, même avec prudence",
+      "énergie retrouvée pour la prochaine étape",
+      "fragilité — conscience que l'espoir peut disparaître"
+    ],
+    "pensees": [
+      "Peut-être que ça peut encore marcher.",
+      "Il y a encore une chance.",
+      "Et si c'était possible ?",
+      "Je ne veux pas abandonner maintenant.",
+      "Quelque chose peut changer.",
+      "Je ne sais pas si ça marchera — mais je vais essayer.",
+      "Il reste quelque chose à quoi s'accrocher.",
+      "Ce n'est pas encore fini."
+    ],
+    "effetsVoixLangage": [
+      "ton légèrement plus chaud qu'avant",
+      "conditionnel qui revient",
+      "phrases ouvertes vers l'avenir",
+      "moins de formulations définitives",
+      "questions qui cherchent une possibilité"
+    ],
+    "comportements": [
+      "reprend une action qu'il avait interrompue",
+      "cherche des informations sur ce qui pourrait changer",
+      "parle à nouveau de l'avenir",
+      "planifie, même prudemment",
+      "résiste à ceux qui lui disent que c'est inutile",
+      "retient les signes positifs plus longtemps que les négatifs"
+    ],
+    "masquesPossibles": [
+      "cynisme qui protège l'espoir fragile",
+      "pragmatisme de façade qui cache l'investissement",
+      "prudence excessive qui empêche de nommer ce qu'il espère"
+    ],
+    "evolutionsPossibles": [
+      "enthousiasme si l'espoir est nourri",
+      "déception amère si l'espoir est trahi",
+      "résignation si l'espoir s'épuise",
+      "ancrage si l'espoir se réalise"
+    ],
+    "contextesAggravants": [
+      "espoir déçu plusieurs fois",
+      "entourage qui décourage systématiquement",
+      "absence de signe positif dans la durée",
+      "situation objectivement très fermée"
+    ],
+    "contextesAttenuants": [
+      "petit signe positif qui nourrit l'espoir",
+      "quelqu'un qui espère avec lui",
+      "action concrète possible",
+      "passé où quelque chose d'impossible s'est quand même produit"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Lueur d'espoir", "description": "Presque rien — mais pas rien. Le personnage ne s'est pas encore résigné." },
+      { "niveau": 2, "label": "Espoir fragile", "description": "Il y croit un peu. Ça peut disparaître vite, mais c'est là." },
+      { "niveau": 3, "label": "Espoir véritable", "description": "L'espoir oriente les actions. Le personnage y travaille." },
+      { "niveau": 4, "label": "Espoir fort", "description": "L'espoir résiste aux obstacles. Il est ancré dans quelque chose de solide." },
+      { "niveau": 5, "label": "Espoir inébranlable", "description": "Rien ne peut éteindre l'espoir de ce personnage. C'est une force — ou une folie." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage ayant tout perdu",
+        "description": "L'espoir est minuscule et précieux. Il ne le nomme pas — le nommer pourrait le briser. Il le protège en silence."
+      },
+      {
+        "profil": "Personnage naïf",
+        "description": "L'espoir n'est pas lucide. Il espère parce qu'il n'a pas encore mesuré les obstacles. La chute sera plus rude."
+      },
+      {
+        "profil": "Personnage lucide qui espère quand même",
+        "description": "Sait exactement ce qui risque de ne pas marcher. Et espère quand même. Ce n'est pas de la naïveté — c'est un choix."
+      }
+    ],
+    "notesEditoriales": [
+      "L'espoir lucide est narrativement plus puissant que l'espoir naïf.",
+      "Il gagne en force quand il coexiste avec la connaissance des obstacles.",
+      "L'espoir que le lecteur ne partage pas crée une tension tragique.",
+      "Un personnage qui maintient l'espoir là où les autres ont renoncé est un levier narratif fort."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "enthousiasme" },
+      { "type": "peut_evoluer_en", "cible": "deception" },
+      { "type": "peut_evoluer_en", "cible": "resignation" },
+      { "type": "souvent_associe_a", "cible": "attente" },
+      { "type": "peut_masquer", "cible": "peur-de-la-resignation" },
+      { "type": "peut_s-opposer_a", "cible": "desespoir" }
+    ]
+  },
+  {
+    "id": "anticipation",
+    "label": "Anticipation",
+    "alias": [
+      "anticipation",
+      "attente active",
+      "impatience orientée",
+      "préparation mentale",
+      "projection dans l'avenir",
+      "tension positive",
+      "tension avant l'événement",
+      "attente chargée",
+      "préfiguration",
+      "conscience de ce qui approche"
+    ],
+    "famille": "espoir-attente",
+    "definitionCourte": "État de tension orientée vers un événement futur identifiable, qui mobilise l'attention et l'énergie du personnage avant même que l'événement n'arrive.",
+    "signesPhysiques": [
+      "regard plus vif, plus mobile",
+      "corps légèrement incliné vers l'avant",
+      "agitation contenue dans les mains ou les pieds",
+      "regard fréquent vers la porte, l'horloge ou la source attendue",
+      "sourire naissant à l'approche de l'heure",
+      "gestes de préparation",
+      "respiration légèrement plus rapide"
+    ],
+    "sensationsInternes": [
+      "tension légère dans tout le corps",
+      "énergie qui cherche à s'orienter",
+      "impatience qui rend le présent moins intéressant",
+      "accélération légère du pouls",
+      "pensée qui enjambe le présent pour l'avenir",
+      "mélange d'excitation et d'inquiétude légère"
+    ],
+    "pensees": [
+      "Encore combien de temps ?",
+      "C'est bientôt.",
+      "Je me demande comment ça va se passer.",
+      "Je suis prêt.",
+      "Il ne faut pas que je loupe le moment.",
+      "Je veux que ça commence maintenant.",
+      "Ce moment approche.",
+      "Je pense à ça depuis longtemps."
+    ],
+    "effetsVoixLangage": [
+      "débit légèrement plus rapide",
+      "retours fréquents sur l'événement",
+      "moins de concentration sur le présent",
+      "questions sur l'événement futur",
+      "difficulté à parler longtemps d'autre chose"
+    ],
+    "comportements": [
+      "vérifie l'heure ou les conditions régulièrement",
+      "prépare à l'avance",
+      "simule mentalement le scénario",
+      "parle de l'événement à plusieurs personnes",
+      "est moins disponible pour le présent",
+      "anticipe chaque détail"
+    ],
+    "masquesPossibles": [
+      "concentration intense sur d'autres choses pour ne pas laisser voir l'excitation",
+      "indifférence jouée",
+      "préparation frénétique présentée comme de l'organisation"
+    ],
+    "evolutionsPossibles": [
+      "appréhension si la tonalité devient négative",
+      "joie ou soulagement si l'événement est positif",
+      "déception si la réalité ne correspond pas à l'anticipation"
+    ],
+    "contextesAggravants": [
+      "événement très attendu depuis longtemps",
+      "incertitude sur le déroulement",
+      "enjeu élevé"
+    ],
+    "contextesAttenuants": [
+      "l'événement proche",
+      "préparation achevée",
+      "soutien de quelqu'un qui partage l'attente"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère attention", "description": "Le personnage sait que quelque chose arrive. Pas encore d'impact réel." },
+      { "niveau": 2, "label": "Anticipation sensible", "description": "Le futur commence à prendre de la place dans le présent." },
+      { "niveau": 3, "label": "Attente active", "description": "L'événement est très présent dans la pensée. La concentration est difficile." },
+      { "niveau": 4, "label": "Impatience franche", "description": "Le personnage a du mal à rester dans le présent. L'attente l'occupe entièrement." },
+      { "niveau": 5, "label": "Tension maximale", "description": "Le présent n'existe presque plus. Tout est suspendu à l'événement qui vient." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage positif",
+        "description": "L'anticipation est une forme de joie prolongée. L'avant est presque aussi bien que l'événement lui-même."
+      },
+      {
+        "profil": "Personnage anxieux",
+        "description": "L'anticipation est chargée d'inquiétude. Elle est difficile à tenir. Le personnage a besoin que ça arrive pour que ça s'arrête."
+      },
+      {
+        "profil": "Personnage contrôlé",
+        "description": "L'anticipation est canalisée dans la préparation. Il utilise l'énergie de l'attente pour tout optimiser. Ça l'aide à ne pas simplement attendre."
+      }
+    ],
+    "notesEditoriales": [
+      "L'anticipation est un outil de rythme narratif : elle ralentit le temps avant un événement.",
+      "Elle peut rendre le lecteur aussi impatient que le personnage.",
+      "La déception post-anticipation est un retournement narratif classique et efficace.",
+      "L'anticipation différente entre deux personnages face au même événement crée du conflit."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "joie" },
+      { "type": "peut_evoluer_en", "cible": "apprehension" },
+      { "type": "peut_evoluer_en", "cible": "deception" },
+      { "type": "souvent_associe_a", "cible": "espoir" },
+      { "type": "peut_preceder", "cible": "evenement-cle" },
+      { "type": "souvent_associe_a", "cible": "impatience" }
+    ]
+  },
+  {
+    "id": "impatience",
+    "label": "Impatience",
+    "alias": [
+      "impatience",
+      "difficulté à attendre",
+      "urgence intérieure",
+      "bouillonnement d'attente",
+      "incapacité à rester tranquille",
+      "frustration de l'attente",
+      "désir de voir les choses avancer",
+      "impatience créatrice",
+      "impatience nerveuse",
+      "désir que ça se passe maintenant"
+    ],
+    "famille": "espoir-attente",
+    "definitionCourte": "Tension désagréable causée par l'écart entre le rythme souhaité et le rythme réel des événements, qui pousse le personnage à vouloir accélérer ce qu'il ne peut pas contrôler.",
+    "signesPhysiques": [
+      "pied qui s'agite au sol",
+      "regard qui revient sur l'horloge ou la source d'attente",
+      "soupirs fréquents",
+      "changements de position répétés",
+      "doigts qui tapotent",
+      "regard qui se détache de l'activité en cours",
+      "parole qui accélère légèrement",
+      "tendance à couper avant la fin"
+    ],
+    "sensationsInternes": [
+      "tension dans les bras et les jambes",
+      "picotement dans les doigts",
+      "impression que le temps s'étire",
+      "énergie sans sortie",
+      "légère irritation sans cible précise",
+      "sensation d'être bridé"
+    ],
+    "pensees": [
+      "Pourquoi c'est si long ?",
+      "Ça devrait déjà être fait.",
+      "Il pourrait aller plus vite.",
+      "Je ne comprends pas pourquoi on attend encore.",
+      "Si ça ne bouge pas, je vais m'en occuper.",
+      "Ce rythme est insupportable.",
+      "Je ne suis pas fait pour attendre.",
+      "Ça prend trop de temps."
+    ],
+    "effetsVoixLangage": [
+      "débit plus rapide",
+      "phrases plus courtes",
+      "tendance à relancer avant que l'autre ait fini",
+      "soupirs audibles",
+      "questions répétées sur l'avancement"
+    ],
+    "comportements": [
+      "bouge, se lève, fait les cent pas",
+      "commence quelque chose d'autre pour occuper l'attente",
+      "interrompt pour accélérer",
+      "prend les devants sans attendre l'accord",
+      "s'énerve si la réponse tarde",
+      "communique l'urgence ressentie aux autres"
+    ],
+    "masquesPossibles": [
+      "calme de façade maintenu à grand effort",
+      "activité intense pour masquer l'attente",
+      "patience affichée qui craque sur les bords"
+    ],
+    "evolutionsPossibles": [
+      "frustration si l'attente se prolonge",
+      "soulagement brutal quand enfin ça avance",
+      "action impulsive si l'impatience prend le dessus",
+      "calme retrouvé si le rythme s'accélère"
+    ],
+    "contextesAggravants": [
+      "attente sur un enjeu important",
+      "sentiment que l'autre retarde exprès",
+      "contexte qui ne permet pas d'agir",
+      "manque de sommeil ou de nourriture"
+    ],
+    "contextesAttenuants": [
+      "activité engageante pendant l'attente",
+      "information sur le temps restant",
+      "compréhension de la raison du délai"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère hâte", "description": "Le personnage préférerait que ça aille plus vite. Rien de sérieux." },
+      { "niveau": 2, "label": "Impatience sensible", "description": "L'attente est perceptible. Le personnage bouge, soupire." },
+      { "niveau": 3, "label": "Impatience marquée", "description": "La concentration est difficile. L'attente prend toute la place." },
+      { "niveau": 4, "label": "Frémissement", "description": "Le personnage est presque incapable de rester en place." },
+      { "niveau": 5, "label": "Urgence incontrôlable", "description": "Le personnage passe à l'action avant que les conditions soient réunies." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage impulsif",
+        "description": "L'impatience est une constante. Il n'attend jamais vraiment — il agit avant que le moment soit juste. Ça lui réussit parfois. Souvent pas."
+      },
+      {
+        "profil": "Personnage habituellement patient",
+        "description": "L'impatience est déstabilisante. Il ne se reconnaît pas. Elle révèle à quel point l'enjeu est important pour lui."
+      },
+      {
+        "profil": "Personnage en position de pouvoir",
+        "description": "L'impatience est dirigée vers ceux qui « devraient aller plus vite ». Elle exprime une conception du temps comme ressource qu'il gère — et que les autres gâchent."
+      }
+    ],
+    "notesEditoriales": [
+      "L'impatience est utile pour révéler l'enjeu que le personnage donne à une situation.",
+      "Elle peut rendre sympathique (désir de bien faire) ou antipathique (mépris du rythme des autres).",
+      "L'impatience mal gérée est une source de conflit très efficace.",
+      "Un personnage impatient qui apprend à attendre est un arc narratif subtil mais puissant."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "anticipation" },
+      { "type": "peut_evoluer_en", "cible": "frustration" },
+      { "type": "peut_evoluer_en", "cible": "soulagement" },
+      { "type": "peut_declencher", "cible": "action-prematuree" },
+      { "type": "peut_masquer", "cible": "anxiete" },
+      { "type": "peut_suivre", "cible": "attente-longue" }
+    ]
+  },
+  {
+    "id": "resignation",
+    "label": "Résignation",
+    "alias": [
+      "résignation",
+      "acceptation contrainte",
+      "abandon de la lutte",
+      "capitulation intérieure",
+      "lâcher prise subi",
+      "consentement douloureux",
+      "renoncement",
+      "acceptation à contrecœur",
+      "soumission au réel",
+      "fin de la résistance"
+    ],
+    "famille": "espoir-attente",
+    "definitionCourte": "État dans lequel le personnage cesse de résister à une situation qu'il ne peut ou ne veut plus combattre, non par paix intérieure mais par épuisement de l'espoir ou de la force.",
+    "signesPhysiques": [
+      "corps qui s'affaisse légèrement sans tension",
+      "soupir long et lent, pas de colère dedans",
+      "regard qui se baisse ou s'éloigne de la situation",
+      "gestes plus lents et moins décidés",
+      "silence prolongé qui n'est pas d'accord",
+      "épaules qui se déposent",
+      "voix plus douce et moins assurée qu'avant"
+    ],
+    "sensationsInternes": [
+      "lourdeur calme qui n'est pas le repos",
+      "sensation que le combat est fini — même si ce n'est pas gagné",
+      "vide léger là où la résistance était",
+      "fatigue qui s'installe enfin",
+      "sentiment que ça ne sert plus à rien d'insister",
+      "tristesse douce sous l'acceptation"
+    ],
+    "pensees": [
+      "Ce n'est pas la peine.",
+      "J'ai essayé.",
+      "Il faut bien que ça se passe comme ça.",
+      "Je n'ai plus la force de me battre contre ça.",
+      "Ce n'est pas ce que je voulais — mais soit.",
+      "Qu'est-ce que ça changerait de continuer ?",
+      "Je ne peux pas changer ça.",
+      "Au moins, c'est clair maintenant."
+    ],
+    "effetsVoixLangage": [
+      "ton plus doux, moins combatif",
+      "moins de questions",
+      "formulations au passé",
+      "acceptation verbale qui sonne creuse",
+      "absence d'initiative dans la conversation"
+    ],
+    "comportements": [
+      "cesse d'argumenter",
+      "accepte ce qui lui est proposé sans enthousiasme",
+      "ne cherche plus de solutions",
+      "s'adapte à la situation en minimalisant",
+      "remercie sans conviction",
+      "continue mécaniquement sans investissement"
+    ],
+    "masquesPossibles": [
+      "sérénité affichée qui n'est pas de la paix",
+      "humour fataliste",
+      "pragmatisme qui cache le renoncement"
+    ],
+    "evolutionsPossibles": [
+      "paix véritable si la résignation devient acceptation",
+      "désespoir si l'épuisement s'approfondit",
+      "retour de l'espoir si quelque chose change",
+      "colère différée si la résignation s'avère injuste"
+    ],
+    "contextesAggravants": [
+      "résignation forcée par les autres",
+      "résignation sur quelque chose d'important",
+      "résignation répétée qui efface les espoirs successifs"
+    ],
+    "contextesAttenuants": [
+      "sens trouvé dans la situation acceptée",
+      "quelque chose de gain dans la perte",
+      "espace pour digérer avant d'aller de l'avant"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Lâcher prise léger", "description": "Le personnage arrête de pousser sur un point mineur. Pas de drama." },
+      { "niveau": 2, "label": "Résignation sensible", "description": "L'abandon est réel. Le personnage y perd quelque chose." },
+      { "niveau": 3, "label": "Résignation franche", "description": "Le personnage a renoncé à quelque chose d'important. C'est visible et douloureux." },
+      { "niveau": 4, "label": "Capitulation profonde", "description": "La résignation touche à quelque chose de fondamental. Elle change le personnage." },
+      { "niveau": 5, "label": "Abandon total", "description": "Le personnage a renoncé à se battre pour quoi que ce soit dans ce domaine." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage combatif par nature",
+        "description": "La résignation est un arrachement. Elle va contre sa nature. Elle arrive après une lutte longue et réelle. Elle ne ressemble pas à la paix — elle ressemble à la défaite."
+      },
+      {
+        "profil": "Personnage fataliste",
+        "description": "La résignation est familière. Elle arrive vite. Il n'est pas surpris que ça ne marche pas. C'est presque confortable."
+      },
+      {
+        "profil": "Personnage qui résigne pour protéger l'autre",
+        "description": "La résignation est un sacrifice. Il renonce parce que continuer ferait du mal. C'est douloureux mais c'est un choix, pas un effondrement."
+      }
+    ],
+    "notesEditoriales": [
+      "La résignation est distincte de l'acceptation : l'acceptation est en paix, la résignation ne l'est pas.",
+      "Elle peut être un point de basculement narratif — le personnage qui renonce peut surprendre en changeant d'avis.",
+      "La résignation d'un personnage fort est un moment narratif puissant.",
+      "Elle laisse souvent une empreinte de tristesse qui ne disparaît pas complètement."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "desespoir" },
+      { "type": "peut_evoluer_en", "cible": "acceptation" },
+      { "type": "peut_evoluer_en", "cible": "depression" },
+      { "type": "souvent_associe_a", "cible": "epuisement-moral" },
+      { "type": "peut_masquer", "cible": "tristesse-profonde" },
+      { "type": "peut_suivre", "cible": "echec-repete" }
+    ]
+  }
+]

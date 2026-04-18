@@ -1,0 +1,5 @@
+# Copiez ce fichier vers oauth-local.properties (non versionné) puis renseignez les valeurs.
+# Utilisé par Spring Boot pour l’échange OAuth Google « Desktop » (client_secret côté serveur uniquement).
+# Démarrage : depuis le dossier backend/, mvn spring-boot:run
+scriptor.oauth.google.client-id=VOTRE_CLIENT_ID.apps.googleusercontent.com
+scriptor.oauth.google.client-secret=VOTRE_SECRET

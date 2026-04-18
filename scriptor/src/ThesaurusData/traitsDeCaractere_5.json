@@ -1,0 +1,778 @@
+[
+  {
+    "id": "irresponsable",
+    "label": "Irresponsable",
+    "polarite": "negatif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Incapacité chronique à honorer ses engagements, à assumer les conséquences de ses actes ou à tenir compte de l'impact de ses comportements sur autrui. L'irresponsabilité n'est pas toujours de la mauvaise volonté — elle peut être une stratégie de survie, un refus d'une réalité difficile, ou une manière de rester perpétuellement dans l'irréel de l'enfance.",
+    "signesPhysiques": [
+      "sourire désarmant qui précède souvent les annonces difficiles",
+      "regard qui glisse sur le côté quand on lui réclame quelque chose",
+      "haussement d'épaules face aux reproches",
+      "gestes ouverts et décontractés qui contrastent avec la gravité de la situation",
+      "léger recul du corps quand on pointe ses manquements",
+      "rire bref et nerveux devant les conséquences de ses actes",
+      "posture relâchée même dans des contextes qui en demandent plus",
+      "expressions du visage qui changent vite pour passer à autre chose",
+      "mouvements de fuite légère — recul, demi-tour, changement de pièce",
+      "regard qui cherche une sortie dans les conversations difficiles"
+    ],
+    "sensationsInternes": [
+      "malaise diffus quand les conséquences de ses actes se matérialisent",
+      "légèreté feinte qui recouvre une anxiété sourde",
+      "soulagement immédiat quand quelqu'un d'autre prend en charge ce qu'il a laissé tomber",
+      "démangeaison intérieure à l'idée d'être tenu à quelque chose",
+      "sentiment d'étouffement dans les situations qui demandent de la constance",
+      "vague sentiment de honte vite noyé dans la justification",
+      "peur diffuse que les choses sérieuses révèlent qu'il n'est pas à la hauteur",
+      "agitation quand il ne peut pas esquiver ou déléguer"
+    ],
+    "pensees": [
+      "Ça va s'arranger tout seul, ça s'arrange toujours.",
+      "J'aurais dû le faire, mais... bon.",
+      "Pourquoi c'est toujours moi qu'on regarde ?",
+      "Je leur ferai un geste, ça compensera.",
+      "Ce n'était pas si important de toute façon.",
+      "Ils savent que je suis comme ça — ils l'ont accepté.",
+      "Je vais le faire. Demain. Vraiment.",
+      "Si quelqu'un d'autre avait géré ça, on n'en serait pas là."
+    ],
+    "effetsVoixLangage": [
+      "promet facilement et vaguement, sans détail ni date précise",
+      "utilise des formulations qui diluent sa part dans les problèmes",
+      "ton charmeur pour désamorcer les reproches",
+      "esquive les questions directes par l'humour ou la diversion",
+      "explications longues qui ne débouchent sur aucun engagement réel",
+      "dit souvent 'j'allais justement' ou 'je pensais que tu...'",
+      "reformule les reproches en malentendus pour en réduire la portée"
+    ],
+    "comportements": [
+      "oublie régulièrement ses engagements ou les honore à moitié",
+      "laisse les autres gérer les conséquences de ses choix",
+      "accumule des dettes — d'argent, de services, de présence — sans les rembourser",
+      "peut être charmant et généreux à court terme, décevant à long terme",
+      "cherche instinctivement quelqu'un à qui déléguer la responsabilité",
+      "minimise systématiquement l'impact de ses manquements",
+      "peut répéter exactement les mêmes erreurs sans en tirer de leçon visible",
+      "devient créatif dans les justifications a posteriori",
+      "fuit les conversations où il serait tenu responsable",
+      "peut se racheter par des gestes spectaculaires mais non durables"
+    ],
+    "masquesPossibles": [
+      "charme et générosité momentanée pour compenser et détourner l'attention",
+      "victime de circonstances — tout est toujours la faute de quelque chose d'extérieur",
+      "insouciance affichée, comme si les enjeux n'étaient pas réels",
+      "philosophie de vie — 'je vis dans le moment présent'"
+    ],
+    "manifestationsPositives": [
+      "peut être léger, drôle et apaisant dans des contextes à faibles enjeux",
+      "ne porte pas de rancune et passe vite à autre chose",
+      "peut avoir une créativité réelle non bridée par l'excès de sérieux",
+      "présence agréable dans les situations informelles",
+      "peut faire preuve d'une générosité impulsive sincère"
+    ],
+    "manifestationsNegatives": [
+      "épuise ceux qui l'entourent en compensant perpétuellement ses manquements",
+      "trahit la confiance de manière répétée, parfois sans s'en rendre compte",
+      "met en danger des projets, des relations ou des situations par son inconsistance",
+      "peut laisser des dommages durables en croyant que tout finit par s'arranger",
+      "est souvent incapable de tenir un rôle de soutien quand quelqu'un en a vraiment besoin"
+    ],
+    "blessuresPossibles": [
+      "a appris que prendre des responsabilités entraîne des punitions ou des fardeaux insupportables",
+      "a eu une figure parentale qui a écrasé toute tentative d'autonomie ou de maîtrise",
+      "a été responsable d'une chose grave dans sa jeunesse et ne s'en est jamais remis"
+    ],
+    "evolutionsPossibles": [
+      "peut être confronté à une conséquence si grave qu'il ne peut plus la contourner",
+      "peut trouver quelqu'un dont il ne supporte pas l'idée de décevoir",
+      "peut s'effondrer quand ceux qui compensaient disparaissent",
+      "peut faire un premier pas réel vers la responsabilité, maladroit mais sincère"
+    ],
+    "notesEditoriales": [
+      "L'irresponsabilité fonctionne mieux quand on en voit la peur sous-jacente — pas juste la légèreté.",
+      "Le personnage irresponsable est souvent aimé malgré tout : montrer pourquoi est plus intéressant que condamner.",
+      "Distinguer irresponsabilité par refus, par peur, ou par incapacité réelle — les moteurs narratifs sont différents.",
+      "Le moment de bascule est dramatiquement fort : quand quelqu'un ou quelque chose exige enfin qu'il soit là."
+    ]
+  },
+  {
+    "id": "fiable",
+    "label": "Fiable",
+    "polarite": "positif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Qualité de celui sur qui on peut compter sans réserve, qui honore ses engagements, reste présent dans les moments difficiles et dit ce qu'il pense et fait ce qu'il dit. La fiabilité n'est pas spectaculaire — elle se construit dans la répétition tranquille des petites choses tenues.",
+    "signesPhysiques": [
+      "note ou vérifie mentalement ce qu'on lui confie pour ne pas oublier",
+      "arrive à l'heure, souvent avant",
+      "posture stable et orientée vers l'interlocuteur dans les conversations importantes",
+      "contact visuel régulier et sincère",
+      "gestes mesurés, sans gesticulation inutile",
+      "absence de signaux de fuite dans les conversations difficiles",
+      "mains calmes même quand la situation est tendue",
+      "respiration régulière qui ancre sa présence",
+      "expressions faciales qui correspondent à ce qu'il dit",
+      "se retourne vers ceux qu'il a laissés, vérifie qu'ils vont bien"
+    ],
+    "sensationsInternes": [
+      "satisfaction calme quand un engagement est honoré",
+      "légère tension intérieure quand une promesse est en danger d'être manquée",
+      "malaise réel si les circonstances l'ont empêché de tenir parole",
+      "solidité intérieure dans les situations qui demandent de la constance",
+      "fatigue sincère quand on tire trop sur sa fiabilité sans la reconnaître",
+      "sentiment de cohérence interne quand ses actes correspondent à ses valeurs",
+      "inconfort dans les groupes où l'inconsistance est la norme",
+      "fierté discrète quand quelqu'un peut compter sur lui dans un moment important"
+    ],
+    "pensees": [
+      "J'ai dit que je le ferais. Je le ferai.",
+      "Si je ne suis pas là, qui le sera ?",
+      "Je ne peux pas me permettre de laisser tomber quelqu'un qui compte sur moi.",
+      "Une promesse, c'est une promesse.",
+      "Il n'a pas besoin de me demander deux fois.",
+      "Je sais que ça ne se voit pas, mais c'est ce que je fais.",
+      "Si ça ne compte pas pour les autres, ça compte quand même pour moi.",
+      "Être là quand c'est difficile, c'est le seul test qui compte."
+    ],
+    "effetsVoixLangage": [
+      "ne promet que ce qu'il peut tenir",
+      "dit non quand il ne peut pas plutôt que de promettre et décevoir",
+      "ton égal et direct, sans fioriture ni exagération",
+      "confirme ce qu'il a compris pour s'assurer qu'il n'y a pas de malentendu",
+      "prévient à l'avance s'il risque d'être en retard ou empêché",
+      "parle peu de ce qu'il fait, fait ce qu'il dit",
+      "n'a pas besoin qu'on lui rappelle deux fois une chose importante"
+    ],
+    "comportements": [
+      "honore ses engagements même quand personne ne s'en souviendrait",
+      "reste présent dans les situations difficiles sans chercher à fuir",
+      "prévient à l'avance plutôt que de disparaître sans explication",
+      "ne laisse pas les gens dans l'attente sans nouvelle",
+      "finit ce qu'il commence sauf raison majeure",
+      "s'excuse sincèrement quand il a manqué à quelque chose",
+      "peut être épuisé par la fiabilité qu'on attend de lui mais ne l'abandonne pas facilement",
+      "traite les petites promesses avec le même sérieux que les grandes",
+      "revient sur quelque chose de laissé en suspens si les circonstances le permettent",
+      "vérifie discrètement que ceux qu'il aide n'ont pas été oubliés"
+    ],
+    "masquesPossibles": [
+      "peut cacher sa fatigue ou sa surcharge pour continuer à être 'celui sur qui on peut compter'",
+      "peut refouler des besoins personnels au nom de la fiabilité envers les autres",
+      "peut masquer une peur de décevoir derrière l'apparence d'un choix serein",
+      "peut sembler froid ou distant parce qu'il mesure ses engagements"
+    ],
+    "manifestationsPositives": [
+      "crée une sécurité réelle pour ceux qui l'entourent",
+      "est souvent la colonne vertébrale invisible d'un groupe ou d'une relation",
+      "inspire confiance durablement, sans avoir besoin de le proclamer",
+      "permet aux autres de prendre des risques parce qu'ils savent qu'il sera là",
+      "apporte une stabilité qui a une valeur narrative très différente de l'action spectaculaire"
+    ],
+    "manifestationsNegatives": [
+      "peut être pris pour acquis et épuisé par les demandes des autres",
+      "peut avoir du mal à recevoir de l'aide ou de la fiabilité en retour",
+      "peut se sacrifier au point de ne plus rien avoir pour lui-même",
+      "peut ressentir une frustration profonde et rarement exprimée quand les autres ne font pas pareil",
+      "peut être perçu comme ennuyeux ou manquant d'impulsivité"
+    ],
+    "blessuresPossibles": [
+      "a grandi avec quelqu'un d'irresponsable dont il a comblé les manques très tôt",
+      "a été déçu si profondément par quelqu'un en qui il avait confiance qu'il a décidé de devenir lui-même la fiabilité",
+      "a appris que les personnes comptaient sur lui parce que personne d'autre n'était là"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à dire non et à poser ses propres limites sans se trahir",
+      "peut être confronté à une situation où il ne peut pas être là et doit en accepter les conséquences",
+      "peut découvrir que sa fiabilité masque un besoin profond d'être indispensable",
+      "peut trouver quelqu'un d'aussi fiable que lui et apprendre à se laisser porter"
+    ],
+    "notesEditoriales": [
+      "La fiabilité est narrativement sous-estimée — elle crée des personnages de soutien extraordinaires et des protagonistes discrets mais forts.",
+      "Son ombre est l'épuisement du donneur : montrer le coût de la fiabilité est plus honnête que de la présenter comme sans friction.",
+      "La fiabilité testée dans une situation impossible (deux engagements incompatibles) est un dilemme moral riche.",
+      "Distinguer fiabilité par choix et fiabilité par peur de décevoir : les deux se ressemblent de l'extérieur mais viennent de lieux très différents."
+    ]
+  },
+  {
+    "id": "cruel",
+    "label": "Cruel",
+    "polarite": "negatif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Disposition à infliger délibérément de la souffrance — physique, émotionnelle ou sociale — avec une conscience claire de l'effet produit. La cruauté n'est pas un accident de colère mais un acte voulu, parfois savouré, qui révèle un rapport à la douleur des autres fondamentalement différent de la norme.",
+    "signesPhysiques": [
+      "sourire infime qui précède le geste ou le mot blessant",
+      "regard qui cherche la réaction de l'autre après une atteinte",
+      "calme physique contrastant avec la violence de ce qu'il fait",
+      "légère tension de plaisir autour des yeux dans ces moments",
+      "voix qui s'adoucit parfois au moment de frapper le plus fort",
+      "posture détendue, presque nonchalante, lors des confrontations",
+      "gestes précis et économes — aucune énergie gaspillée",
+      "regard qui s'allume légèrement à la vue d'une vulnérabilité",
+      "absence des signaux d'empathie habituels — corps qui ne réagit pas à la douleur de l'autre",
+      "légère inclinaison de la tête lors des moments d'observation de la souffrance"
+    ],
+    "sensationsInternes": [
+      "sentiment de contrôle ou de pouvoir lors des moments de cruauté",
+      "satisfaction froide qui n'est pas de la joie mais s'en approche",
+      "calme inhabituel dans les situations qui provoquent l'agitation chez les autres",
+      "légère excitation anticipatoire à l'idée d'une confrontation",
+      "absence ou quasi-absence de la résonance émotionnelle avec la douleur d'autrui",
+      "satisfaction prolongée après un acte cruel réussi",
+      "irritabilité ou ennui dans les contextes où rien ne se passe",
+      "sentiment de supériorité dans les moments de domination"
+    ],
+    "pensees": [
+      "Il suffit de toucher cet endroit-là pour que tout s'effondre.",
+      "Elle aurait dû savoir ce que ça lui coûterait.",
+      "C'est lui qui m'a mis dans cette position.",
+      "Je ne fais que montrer ce qui était déjà là.",
+      "La souffrance des autres me dit quelque chose que les mots cachent.",
+      "Je n'ai pas commencé. J'ai juste continué.",
+      "Ils sont trop faibles pour comprendre comment le monde fonctionne réellement.",
+      "Je n'ai pas à me justifier d'avoir du pouvoir."
+    ],
+    "effetsVoixLangage": [
+      "choisit précisément le mot ou le détail qui fera le plus mal",
+      "ton doux ou neutre dans les moments les plus blessants",
+      "peut être brillant et charmant pour mieux créer la confiance avant de frapper",
+      "formulations qui laissent peu de prise à la réponse de la victime",
+      "ironie raffinée qui humilie sans jamais dire explicitement quelque chose d'inacceptable",
+      "silence calculé après un geste cruel pour laisser la douleur s'installer",
+      "peut nier avoir voulu blesser avec une fluidité déstabilisante"
+    ],
+    "comportements": [
+      "identifie les vulnérabilités des autres et les mémorise pour usage ultérieur",
+      "peut être gentil, même généreux, pour mieux disposer les autres à le croire",
+      "choisit des victimes ou des moments où le rapport de force lui est favorable",
+      "peut agir indirectement — rumeurs, exclusions, humiliations silencieuses",
+      "ne s'arrête pas devant la demande de grâce, parfois s'y renforce",
+      "peut présenter ses actes comme de la franchise, de la discipline ou de la justice",
+      "teste régulièrement les limites pour savoir jusqu'où il peut aller",
+      "peut protéger ceux dans sa sphère intérieure tout en étant impitoyable avec les autres",
+      "revient sur ses victimes, surtout si elles semblent se remettre",
+      "peut éprouver un vrai plaisir esthétique à la précision de la blessure infligée"
+    ],
+    "masquesPossibles": [
+      "franchise et honnêteté — 'je dis juste la vérité que personne n'ose dire'",
+      "humour — l'acte cruel présenté comme de la plaisanterie",
+      "discipline ou rigueur — la cruauté comme formation, éducation ou correction",
+      "charme et générosité en dehors des moments de cruauté pour brouiller les pistes"
+    ],
+    "manifestationsPositives": [
+      "peut avoir une lucidité rare sur les faiblesses des systèmes ou des personnes",
+      "peut être un protecteur redoutable pour ceux qui se trouvent dans sa sphère",
+      "peut être efficace dans des rôles qui demandent des décisions dures sans affect",
+      "son intelligence de la vulnérabilité humaine peut, redirigée, devenir empathie",
+      "peut être capable d'une loyauté absolue envers quelques personnes choisies"
+    ],
+    "manifestationsNegatives": [
+      "détruit des personnes et des relations parfois irréparablement",
+      "crée une culture de peur autour de lui",
+      "peut avoir un impact traumatique durable sur ses victimes",
+      "finit souvent isolé car ceux qui le peuvent l'évitent",
+      "empêche toute vraie intimité par l'impossibilité de la confiance"
+    ],
+    "blessuresPossibles": [
+      "a été lui-même l'objet d'une cruauté dont il n'a jamais pu se protéger",
+      "a appris très tôt que montrer sa vulnérabilité était dangereux",
+      "a grandi dans un environnement où la domination était la seule forme de relation"
+    ],
+    "evolutionsPossibles": [
+      "peut rencontrer une personne dont la souffrance résonne enfin en lui malgré tout",
+      "peut être confronté aux conséquences de ses actes d'une façon qui ne peut pas être niée",
+      "peut commencer à voir la cruauté en lui sans nécessairement pouvoir l'arrêter",
+      "peut être confronté à quelqu'un d'aussi cruel que lui — et éprouver pour la première fois ce que l'autre ressent"
+    ],
+    "notesEditoriales": [
+      "La cruauté est plus intéressante quand elle n'est pas gratuite : montrer ce qu'elle sert ou masque.",
+      "Éviter la cruauté comme pure caractérisation de méchant — même les personnages cruels ont une logique interne.",
+      "La cruauté précise et intelligente est narrativement plus puissante que la violence brute.",
+      "Un moment d'hésitation ou de remords, même infime, peut transformer un antagoniste plat en personnage mémorable."
+    ]
+  },
+  {
+    "id": "doux",
+    "label": "Doux",
+    "polarite": "positif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Qualité d'une présence qui ne force pas, ne heurte pas et ne cherche pas à écraser. La douceur véritable n'est pas mollesse ou absence de caractère — c'est le choix constant, souvent courageux, de ne pas ajouter de violence là où le monde en met déjà assez.",
+    "signesPhysiques": [
+      "gestes lents et mesurés, jamais brusques",
+      "voix posée, sans éclats même dans les désaccords",
+      "regard qui ne force pas, ne sonde pas, ne juge pas",
+      "toucher léger et attentif",
+      "mouvements qui laissent de l'espace à l'autre",
+      "sourire qui arrive progressivement, pas d'un coup",
+      "absence de gestes qui envahissent ou imposent",
+      "inclinaison du corps légèrement vers l'autre sans presser",
+      "patience visible dans les moments d'attente ou de tension",
+      "respiration calme qui se communique à ceux qui l'entourent"
+    ],
+    "sensationsInternes": [
+      "calme qui n'est pas de l'indifférence mais une forme d'ancrage",
+      "douleur réelle devant la violence ou la brutalité, même indirecte",
+      "satisfaction tranquille dans les moments d'harmonie",
+      "inconfort dans les environnements agressifs ou compétitifs",
+      "sensibilité fine aux états émotionnels des autres",
+      "effort parfois visible pour rester doux dans les situations qui froissent",
+      "soulagement physique quand un conflit se résout sans violence",
+      "chaleur diffuse dans les moments de connexion authentique"
+    ],
+    "pensees": [
+      "Il n'y a pas besoin d'aller plus vite que ça.",
+      "Ce n'est pas à moi de forcer quoi que ce soit.",
+      "Elle est blessée. Il faut juste être là, pas parler.",
+      "Je peux ne pas être d'accord sans avoir à l'écraser.",
+      "La brutalité ne règle rien — elle déplace le problème.",
+      "Est-ce que j'ai pris le temps de vraiment entendre ce qu'il disait ?",
+      "Il n'y a rien à prouver ici.",
+      "Si je réagis à chaud, je vais faire plus de mal que de bien."
+    ],
+    "effetsVoixLangage": [
+      "ton régulier, même sous pression",
+      "formulations qui ménagent l'autre même dans le désaccord",
+      "tend à chercher ce qui est vrai dans la position de l'autre avant de défendre la sienne",
+      "silence confortable, ne remplit pas le vide par réflexe",
+      "prend le temps de trouver les mots justes plutôt que les premiers disponibles",
+      "peut nommer sa propre émotion sans l'imposer",
+      "n'élève jamais la voix pour prouver un point"
+    ],
+    "comportements": [
+      "adapte son rythme à celui de l'autre",
+      "ne pousse pas quand l'autre n'est pas prêt",
+      "prend soin des détails qui comptent pour l'autre sans le souligner",
+      "peut rester dans un silence partagé sans le remplir",
+      "répond à la violence verbale ou émotionnelle sans y ajouter",
+      "remarque la fatigue, la tristesse ou le besoin chez les autres avant qu'ils le disent",
+      "crée un environnement où les autres osent être vulnérables",
+      "peut dire une vérité difficile avec une tendresse qui en réduit la douleur",
+      "peut s'affirmer et tenir une position sans hausser le ton",
+      "s'assure que personne n'est laissé de côté dans les groupes"
+    ],
+    "masquesPossibles": [
+      "peut utiliser la douceur pour éviter les conflits nécessaires",
+      "peut sembler doux alors qu'il est simplement passif ou résigné",
+      "peut cacher une souffrance ou une colère réelle sous la surface lisse",
+      "peut se servir de sa douceur pour être perçu comme inattaquable"
+    ],
+    "manifestationsPositives": [
+      "crée des espaces où les gens peuvent se détendre et être eux-mêmes",
+      "désamorce les tensions sans les nier",
+      "peut avoir une influence plus profonde que les personnages dominants",
+      "sa présence est réparatrice dans des contextes traumatiques",
+      "peut toucher là où les démonstrations de force échouent"
+    ],
+    "manifestationsNegatives": [
+      "peut être perçu comme faible ou sans consistance",
+      "peut être exploité par des personnages qui confondent douceur et absence de limites",
+      "peut accumuler des blessures non dites pour ne pas troubler l'harmonie",
+      "peut avoir du mal à s'affirmer dans des contextes qui récompensent l'agressivité",
+      "peut souffrir en silence plutôt que de créer un conflit"
+    ],
+    "blessuresPossibles": [
+      "a grandi dans un environnement violent et a choisi la douceur comme antidote",
+      "a appris que la brutalité ne menait nulle part après en avoir fait l'expérience",
+      "a été ou vu quelqu'un être profondément blessé par la dureté des autres"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à combiner douceur et fermeté sans que l'une efface l'autre",
+      "peut être mis à l'épreuve dans un contexte qui demande de la dureté",
+      "peut découvrir que sa douceur a protégé mais aussi bridé",
+      "peut être confronté à quelqu'un qui interprète sa douceur comme de la faiblesse — et devoir répondre"
+    ],
+    "notesEditoriales": [
+      "La douceur est trop rarement le trait central d'un protagoniste — elle peut l'être si on montre ce qu'elle coûte et ce qu'elle accomplit.",
+      "Distinguer douceur active (qui choisit de ne pas blesser) et passivité (qui n'agit pas) — la nuance est essentielle.",
+      "La douceur sous pression révèle un personnage. Mettre ce trait dans des situations difficiles est plus intéressant que le laisser dans des espaces confortables.",
+      "Attention au cliché du personnage doux martyrisé — la douceur peut être une force, pas seulement une vulnérabilité."
+    ]
+  },
+  {
+    "id": "adaptable",
+    "label": "Adaptable",
+    "polarite": "ambigu",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Capacité à se reconfigurer selon les contextes, les personnes et les exigences sans perdre pied. L'adaptabilité peut être une intelligence sociale et une force de survie extraordinaires, mais elle peut aussi signifier que le personnage n'a jamais eu à trouver un ancrage propre — ou qu'il l'a perdu en chemin.",
+    "signesPhysiques": [
+      "langage du corps qui se règle imperceptiblement sur celui de l'interlocuteur",
+      "posture qui change selon les groupes — plus détendue ici, plus formelle là",
+      "sourire qui arrive à point dans les contextes sociaux",
+      "regard attentif qui lit la pièce avant d'agir",
+      "vêtements ou apparence qui changent selon le rôle du moment",
+      "gestes qui s'accordent au registre de la conversation",
+      "voix qui adapte son débit et son ton à l'interlocuteur",
+      "légère observation initiale dans tout nouveau contexte avant de s'engager",
+      "aisance physique dans des environnements très différents",
+      "absence de rigidité dans les positions du corps"
+    ],
+    "sensationsInternes": [
+      "légère fluidité intérieure qui se réorganise selon les contextes",
+      "confort dans les situations nouvelles ou changeantes",
+      "malaise diffus quand on lui demande une position ferme et immuable",
+      "sentiment parfois de ne pas savoir exactement qui il est en dehors de ses rôles",
+      "plaisir discret à naviguer des registres différents avec aisance",
+      "fatigue si l'adaptation est trop constante ou trop éloignée de quelque chose de fondamental",
+      "légère anxiété à l'idée d'être vu tel qu'il est vraiment, sans rôle",
+      "soulagement quand il peut être sans façade avec quelqu'un"
+    ],
+    "pensees": [
+      "Ce groupe attend ça de moi. Je peux donner ça.",
+      "À quoi ressemble la bonne réponse ici ?",
+      "Je m'adapte. C'est ce que je sais faire mieux que tout.",
+      "Mais qui suis-je quand personne ne regarde ?",
+      "Je peux être ce dont ils ont besoin.",
+      "La rigidité est une faiblesse. La flexibilité est une force.",
+      "Parfois je ne sais plus si ce que je ressens est vrai ou construit pour le contexte.",
+      "Je m'entends bien avec tout le monde. C'est un avantage. Non ?"
+    ],
+    "effetsVoixLangage": [
+      "ajuste son vocabulaire, ses références et son registre à l'interlocuteur",
+      "peut sembler très différent selon les personnes qui le décrivent",
+      "tend à trouver quelque chose de vrai ou d'intéressant dans la position de l'autre",
+      "rarement en désaccord frontal — préfère reformuler que contredire",
+      "peut donner l'impression d'être d'accord avec des positions contradictoires",
+      "maîtrise les codes sociaux de registres très différents",
+      "peut sembler insaisissable ou sans position claire"
+    ],
+    "comportements": [
+      "change de groupe ou de réseau social avec une aisance que les autres n'ont pas",
+      "modifie son style, ses opinions affichées ou ses références selon le contexte",
+      "apprend vite les codes d'un nouvel environnement",
+      "survit dans des situations qui brisent les personnages plus rigides",
+      "peut jouer des rôles très différents dans sa vie sans conflit apparent",
+      "évite les conflits de valeurs en restant flou sur ce qu'il pense vraiment",
+      "peut être perçu comme profondément différent selon qui le connaît",
+      "cherche parfois des moments seuls pour retrouver quelque chose de stable en lui",
+      "peut perdre des liens profonds parce que les autres ne savent pas qui il est vraiment",
+      "peut s'effacer dans les contextes où être soi-même serait coûteux"
+    ],
+    "masquesPossibles": [
+      "chaque rôle social peut être un masque qui en cache d'autres",
+      "l'adaptabilité elle-même comme masque pour une identité instable ou effrayante",
+      "accord apparent pour éviter un conflit identitaire",
+      "fluidité affichée pour cacher une rigidité intérieure profonde"
+    ],
+    "manifestationsPositives": [
+      "survit et prospère dans des environnements changeants",
+      "comprend des personnes très différentes parce qu'il peut se mettre à leur place",
+      "désamorce des tensions par sa capacité à trouver un terrain commun",
+      "utile dans des situations qui demandent de lire et de naviguer des réalités complexes",
+      "peut être un pont entre des mondes qui se comprennent mal"
+    ],
+    "manifestationsNegatives": [
+      "peut ne jamais savoir vraiment ce qu'il veut ou qui il est",
+      "peut trahir des valeurs importantes en s'adaptant à des contextes qui les nient",
+      "peut être perçu comme hypocrite ou sans consistance",
+      "ses relations profondes peuvent manquer de la substance que donne la vraie révélation de soi",
+      "peut perdre le fil de lui-même à force de se reconfigurer"
+    ],
+    "blessuresPossibles": [
+      "a appris très tôt que s'adapter était la seule façon de survivre dans un environnement instable",
+      "a été rejeté ou puni pour avoir été lui-même et a conclu qu'il valait mieux se plier",
+      "a grandi dans un environnement où les règles changeaient sans prévenir"
+    ],
+    "evolutionsPossibles": [
+      "peut rencontrer une situation ou une personne qui exige qu'il soit simplement lui-même",
+      "peut découvrir ce à quoi il ne peut pas s'adapter et trouver là quelque chose de réel",
+      "peut comprendre que l'adaptation l'a protégé mais aussi empêché de se construire",
+      "peut apprendre à être flexible sans se perdre"
+    ],
+    "notesEditoriales": [
+      "L'adaptabilité est un trait narrativement riche parce qu'elle pose la question de l'identité : y a-t-il quelqu'un en dessous ?",
+      "Distinguer adaptabilité fonctionnelle (intelligence contextuelle) et adaptabilité défensive (disparaître pour ne pas être blessé).",
+      "Le moment où le personnage ne peut plus s'adapter est souvent le plus révélateur.",
+      "Éviter de présenter l'adaptabilité comme un super-pouvoir sans friction — ses coûts intérieurs sont réels."
+    ]
+  },
+  {
+    "id": "obsessionnel",
+    "label": "Obsessionnel",
+    "polarite": "negatif",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Fixation mentale et comportementale intense sur un objet, une personne, une idée ou un but, au point que tout le reste passe au second plan ou disparaît. L'obsession n'est pas simplement de la passion — c'est une pensée qui revient sans qu'on l'appelle, qui occupe l'espace même quand on voudrait qu'elle s'arrête.",
+    "signesPhysiques": [
+      "regard distrait ou lointain dans les conversations qui ne touchent pas à l'objet de l'obsession",
+      "retour systématique à un sujet même après avoir semblé s'en éloigner",
+      "tension dans les mains lors des moments où l'obsession est contrariée",
+      "insomnie visible — yeux cernés, fatigue portée mais pas reconnue",
+      "gestes répétitifs liés à l'objet — vérification, manipulation, retour",
+      "sourire involontaire ou crispation à la simple mention de l'objet",
+      "légère agitation si quelque chose le coupe de son accès à l'objet",
+      "concentration totale et presque effrayante dans les moments où il est sur sa piste",
+      "oubli des besoins physiques de base — manger, dormir, se déplacer",
+      "corps qui s'oriente inconsciemment vers l'objet de l'obsession"
+    ],
+    "sensationsInternes": [
+      "pensée qui revient sans qu'il l'ait appelée",
+      "soulagement momentané quand il cède à l'obsession, suivi d'une reprise",
+      "malaise croissant quand il tente de s'en éloigner",
+      "impression que tout le reste est moins réel ou moins important",
+      "énergie concentrée et presque brûlante quand il est sur sa piste",
+      "vide ou flottement quand l'objet de l'obsession est inaccessible",
+      "conscience que c'est excessif sans pouvoir s'arrêter",
+      "sentiment que s'il lâche, quelque chose de crucial sera perdu"
+    ],
+    "pensees": [
+      "Je ne peux pas arrêter de penser à ça.",
+      "Juste une dernière vérification, et je passe à autre chose.",
+      "Tout le monde ne voit pas ce que moi je vois.",
+      "Si je laisse tomber maintenant, tout ce que j'ai fait n'aura servi à rien.",
+      "Je sais que ce n'est pas normal. Mais je ne peux pas m'en empêcher.",
+      "Elle est là, quelque part. Je dois la trouver.",
+      "Encore un peu. Juste encore un peu.",
+      "Quand j'aurai la réponse, ça s'arrêtera."
+    ],
+    "effetsVoixLangage": [
+      "ramène systématiquement la conversation à l'objet de son obsession",
+      "peut parler longtemps et avec une précision inhabituelle sur son sujet",
+      "décrochage visible si la conversation s'éloigne de son centre",
+      "impatience légère devant les digressions",
+      "répétitions : revient sur des points déjà évoqués comme pour s'en assurer",
+      "peut parler de manière désordonnée si l'obsession est perturbée",
+      "ton qui monte d'un cran quand quelqu'un minimise ou remet en question son objet"
+    ],
+    "comportements": [
+      "consacre un temps disproportionné à l'objet de son obsession",
+      "revient vérifier même quand il vient de le faire",
+      "accumule des informations, des preuves, des traces liées à l'objet",
+      "peut sacrifier des relations ou des responsabilités pour maintenir l'obsession",
+      "réorganise son emploi du temps pour maximiser l'accès",
+      "peut ne pas dormir, manger ou se soigner normalement",
+      "résiste activement aux demandes d'arrêt, de modération ou de recul",
+      "peut impliquer ou recruter les autres dans son obsession",
+      "peut devenir agressif si quelqu'un tente de s'interposer",
+      "peut être fonctionnel dans tous les autres domaines — ce qui rend l'obsession plus difficile à voir"
+    ],
+    "masquesPossibles": [
+      "passion — présente l'obsession comme un engagement admirable",
+      "méticulosité — 'je suis juste très minutieux'",
+      "fausse distance — dit 'ça va, j'ai lâché' sans y croire",
+      "normalisation — minimise l'intensité pour éviter les questions"
+    ],
+    "manifestationsPositives": [
+      "peut atteindre des niveaux d'expertise ou d'accomplissement extraordinaires",
+      "ne lâche pas quand tous les autres ont abandonné",
+      "sa concentration peut résoudre des problèmes que personne d'autre ne verrait",
+      "peut créer des choses remarquables si l'obsession est orientée vers quelque chose de constructif",
+      "ténacité rare qui peut être un atout dans des contextes spécifiques"
+    ],
+    "manifestationsNegatives": [
+      "peut détruire sa propre vie et ses relations sans s'en rendre compte",
+      "peut blesser des innocents par son manque de disponibilité ou son intensité",
+      "peut devenir dangereux si l'obsession porte sur une personne",
+      "finit souvent isolé, les autres ne pouvant pas suivre ni comprendre",
+      "ne trouve pas de repos — même les moments de relâchement sont une attente"
+    ],
+    "blessuresPossibles": [
+      "a perdu quelque chose d'important et cherche à travers l'obsession à le retrouver ou à le comprendre",
+      "a grandi dans un environnement imprévisible où le contrôle obsessionnel était une survie",
+      "a fait une expérience fondatrice autour de l'objet de l'obsession qui l'a ancré là définitivement"
+    ],
+    "evolutionsPossibles": [
+      "peut avoir accès à l'objet de son obsession et découvrir que ça ne comble pas ce qu'il espérait",
+      "peut perdre l'objet et être forcé de recommencer à vivre autrement",
+      "peut trouver quelqu'un qui accepte l'obsession et lui permet de coexister avec elle",
+      "peut comprendre ce que l'obsession recouvre et commencer à traiter la blessure réelle"
+    ],
+    "notesEditoriales": [
+      "L'obsession est narrativement puissante parce qu'elle crée une tension permanente entre le personnage et le reste de sa vie.",
+      "La montrer de l'intérieur (pensées intrusives, retours involontaires) est plus efficace que de simplement décrire les comportements.",
+      "Distinguer obsession et passion : l'une choisit, l'autre s'impose — le personnage peut faire la différence ou pas.",
+      "Éviter d'en faire une caricature de 'fou' — l'obsession peut coexister avec une intelligence et une lucidité réelles."
+    ]
+  },
+  {
+    "id": "integre",
+    "label": "Intègre",
+    "polarite": "positif",
+    "famille": "rapport-a-soi",
+    "definitionCourte": "Cohérence profonde entre les valeurs, les paroles et les actes, maintenue même quand personne ne regarde et même quand l'intégrité coûte quelque chose. Ce n'est pas une vertu affichée — c'est une structure interne si solide qu'elle résiste à la pression, à la séduction et à la peur.",
+    "signesPhysiques": [
+      "regard direct et stable, sans fuite ni défi",
+      "posture cohérente quelle que soit la hiérarchie présente",
+      "pas de micro-signaux de malaise dans les situations alignées avec ses valeurs",
+      "légère tension visible quand on lui demande de faire quelque chose qui va à l'encontre",
+      "gestes calmes et mesurés même dans les confrontations éthiques",
+      "contact visuel maintenu quand il exprime un désaccord",
+      "corps qui ne se modifie pas selon qui est en face",
+      "absence du sourire social de convenance quand la situation l'appelle",
+      "respiration régulière même sous pression",
+      "légère élévation du menton — pas d'arrogance, juste de la présence"
+    ],
+    "sensationsInternes": [
+      "solidité intérieure dans les situations de pression",
+      "malaise réel quand quelque chose va à l'encontre de ses valeurs",
+      "soulagement calme après une décision difficile mais juste",
+      "sentiment de cohérence qui ne dépend pas de l'approbation extérieure",
+      "inconfort dans les environnements où les compromis éthiques sont la norme",
+      "légère fatigue après les situations qui ont demandé de tenir coûte que coûte",
+      "clarté intérieure même dans les situations complexes",
+      "absence de la culpabilité qui accompagne les compromis sur les valeurs essentielles"
+    ],
+    "pensees": [
+      "Est-ce que je pourrais défendre cette décision si quelqu'un me demandait pourquoi ?",
+      "Ce n'est pas parce que personne ne le saura que c'est acceptable.",
+      "Je sais ce qui est juste ici. Je dois le faire, même si c'est coûteux.",
+      "Je ne peux pas me regarder dans un miroir et faire ça.",
+      "Ils peuvent penser ce qu'ils veulent. Ma conscience est à moi.",
+      "Ce compromis-là, je ne peux pas le faire.",
+      "Être cohérent est parfois le chemin le plus difficile.",
+      "Je préfère perdre ceci que me perdre moi-même."
+    ],
+    "effetsVoixLangage": [
+      "dit ce qu'il pense vraiment, avec tact mais sans contourner",
+      "nomme les problèmes éthiques quand ils se posent, même si c'est inconfortable",
+      "n'embellit pas la réalité pour l'accommoder",
+      "ton identique en privé et en public",
+      "ne dit pas du bien d'une chose en face et le contraire derrière",
+      "accepte mal les formulations ambiguës qui permettent de se défausser",
+      "dit non quand ses valeurs l'exigent, sans chercher à s'en excuser"
+    ],
+    "comportements": [
+      "agit de la même façon qu'il soit ou non observé",
+      "signale les erreurs, y compris quand elles lui profitent",
+      "refuse des avantages obtenus de manière injuste",
+      "tient ses engagements même quand la situation a changé en sa défaveur",
+      "peut perdre des opportunités en refusant de compromettre ses valeurs",
+      "ne change pas de position selon qui est dans la pièce",
+      "nomme les manquements éthiques dans son entourage, parfois au coût de la relation",
+      "peut être seul à tenir une position quand tout le monde se compromet",
+      "n'utilise pas les informations confidentielles qui lui ont été données",
+      "revient sur ses propres erreurs sans chercher à les minimiser"
+    ],
+    "masquesPossibles": [
+      "peut cacher une rigidité morale sous l'apparence de l'intégrité",
+      "peut utiliser l'intégrité comme un bouclier contre les relations profondes",
+      "peut se servir de ses valeurs pour juger les autres plus que pour se guider lui-même",
+      "peut feindre une intégrité de façade pour masquer des compromis ailleurs"
+    ],
+    "manifestationsPositives": [
+      "peut être un ancrage moral pour ceux qui l'entourent",
+      "inspire une confiance profonde, pas juste situationnelle",
+      "prend de meilleures décisions à long terme parce qu'elles sont cohérentes",
+      "peut tenir dans des situations qui corrompent les autres",
+      "sa réputation résiste aux tempêtes parce qu'elle est fondée sur des actes réels"
+    ],
+    "manifestationsNegatives": [
+      "peut perdre des opportunités, des relations ou des ressources par rigidité éthique",
+      "peut être perçu comme inflexible, moralisateur ou difficile à vivre",
+      "peut souffrir d'une solitude réelle dans des environnements corrompus",
+      "peut être trop dur envers lui-même quand il perçoit un manquement",
+      "peut manquer de pragmatisme dans des situations où un compromis serait justifié"
+    ],
+    "blessuresPossibles": [
+      "a vu quelqu'un proche perdre tout ce qui comptait par manque d'intégrité",
+      "a lui-même fait un compromis grave dont il ne s'est jamais pardonné",
+      "a grandi dans un environnement de mensonge ou de double discours et en a développé une allergie"
+    ],
+    "evolutionsPossibles": [
+      "peut être confronté à une situation où l'intégrité absolue cause un tort réel à quelqu'un qu'il aime",
+      "peut apprendre la différence entre intégrité et rigidité",
+      "peut rencontrer quelqu'un d'intègre qui est son contraire en tout le reste — et devoir réviser ses certitudes",
+      "peut faire un compromis pour la première fois et devoir vivre avec ce que ça lui fait"
+    ],
+    "notesEditoriales": [
+      "L'intégrité n'est intéressante narrativement que sous pression — elle ne se montre pas dans les situations faciles.",
+      "Distinguer intégrité (cohérence valeurs-actes) et moralisme (jugement des autres) — les deux peuvent coexister mais sont très différents.",
+      "Un personnage intègre qui commet un acte contraire à ses valeurs a une trajectoire narrative explosive.",
+      "Éviter d'en faire un saint — l'intégrité peut coexister avec des défauts réels et une vraie complexité."
+    ]
+  },
+  {
+    "id": "manipulable",
+    "label": "Manipulable",
+    "polarite": "negatif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Tendance à céder aux demandes, pressions et manipulations des autres par manque de limites internes claires, peur du conflit, besoin d'approbation ou difficulté à faire confiance à son propre jugement. La manipulabilité n'est pas de la faiblesse de caractère — c'est souvent le résultat d'une histoire qui a appris que s'opposer coûte trop cher.",
+    "signesPhysiques": [
+      "accord verbal qui arrive trop vite sans réelle réflexion",
+      "regard qui cherche l'approbation après avoir exprimé un avis",
+      "changement de position visible quand l'autre insiste",
+      "légère rétraction du corps quand quelqu'un exprime une désapprobation",
+      "sourire conciliant même dans des situations qui méritent un refus",
+      "tension dans les mains quand il dit quelque chose qui pourrait déplaire",
+      "regard fuyant quand il a cédé contre son gré",
+      "gestes d'apaisement répétés dans les situations de tension légère",
+      "posture qui se rapetisse face aux personnages dominants",
+      "hocher de la tête en excès pendant que l'autre parle"
+    ],
+    "sensationsInternes": [
+      "malaise intérieur quand il dit oui sans le vouloir, déjà pendant qu'il le dit",
+      "soulagement de surface à court terme suivi d'une frustration sourde",
+      "peur diffuse avant les confrontations même mineures",
+      "doute sur son propre jugement dès que l'autre résiste",
+      "nœud dans le ventre quand il sent qu'on le manipule mais ne sait pas comment l'arrêter",
+      "fatigue qui vient de ne jamais être pleinement lui-même dans les relations",
+      "honte diffuse après avoir cédé contre sa conviction",
+      "légère dissociation entre ce qu'il pense et ce qu'il dit"
+    ],
+    "pensees": [
+      "Si je dis non, ça va tout compliquer.",
+      "Peut-être qu'il a raison et que j'ai tort.",
+      "Ce n'est pas si grave. Je peux bien faire ça.",
+      "Je ne veux pas qu'il soit en colère contre moi.",
+      "Je savais ce que je pensais. Mais là, je ne suis plus sûr.",
+      "Si j'avais été plus ferme dès le début, on n'en serait pas là.",
+      "Elle m'a l'air sincère. Peut-être que je deviens parano.",
+      "La paix vaut mieux que d'être dans mon droit."
+    ],
+    "effetsVoixLangage": [
+      "reformule ses positions à la baisse face à la résistance de l'autre",
+      "s'excuse d'avoir exprimé un avis contraire",
+      "tend à nuancer excessivement pour amortir le désaccord",
+      "répond aux critiques en se ralliant plutôt qu'en défendant",
+      "peut promettre des choses qu'il sait ne pas pouvoir tenir pour éviter la tension",
+      "sa voix monte légèrement en question même quand il n'en pose pas",
+      "utilise des formulations hésitantes : 'enfin', 'c'est peut-être moi', 'je ne sais pas'"
+    ],
+    "comportements": [
+      "change d'avis sous pression sans que de nouveaux arguments aient été donnés",
+      "dit oui alors qu'il pense non, puis en souffre",
+      "s'explique longuement là où un refus simple suffirait",
+      "anticipe les besoins des autres pour éviter le conflit",
+      "laisse des situations lui échapper par incapacité à s'opposer à temps",
+      "peut être utilisé comme intermédiaire ou courroie par des personnages manipulateurs",
+      "peut attribuer ses propres idées à l'autre pour éviter la confrontation liée à la paternité",
+      "excuse ou minimise les comportements blessants d'autrui pour ne pas avoir à y faire face",
+      "fait des faveurs disproportionnées pour s'assurer l'approbation",
+      "peut se retrouver dans des situations dont il ne voulait pas et ne sait pas comment il y est arrivé"
+    ],
+    "masquesPossibles": [
+      "générosité ou altruisme — 'je fais ça pour lui, pas pour moi'",
+      "pragmatisme — 'la paix vaut mieux que d'avoir raison'",
+      "modestie — 'je fais peut-être erreur'",
+      "bonté affichée pour masquer la peur de la confrontation"
+    ],
+    "manifestationsPositives": [
+      "peut être très attentif aux besoins des autres",
+      "crée peu de conflits dans les environnements tendus",
+      "peut être un intermédiaire utile dans des situations polarisées",
+      "souvent apprécié par son entourage proche pour sa disponibilité",
+      "peut développer une empathie fine à force d'observer et de s'adapter"
+    ],
+    "manifestationsNegatives": [
+      "peut se retrouver dans des situations de plus en plus compromettantes",
+      "peut être exploité jusqu'à l'épuisement ou jusqu'à la rupture",
+      "accumule des ressentiments qui explosent parfois de manière disproportionnée",
+      "peut perdre tout sens de ce qu'il veut vraiment",
+      "peut entrer dans des relations toxiques par incapacité à les refuser"
+    ],
+    "blessuresPossibles": [
+      "a appris très tôt que s'opposer avait des conséquences dangereuses ou douloureuses",
+      "a grandi dans un environnement où ses propres besoins étaient systématiquement secondaires",
+      "a été ridiculisé ou puni pour avoir défendu une position"
+    ],
+    "evolutionsPossibles": [
+      "peut trouver en lui ou grâce à quelqu'un une limite qu'il ne peut pas franchir — et tenir",
+      "peut comprendre que céder ne protège pas vraiment mais reporte",
+      "peut apprendre progressivement à faire confiance à son propre jugement",
+      "peut s'effondrer avant de se reconstruire avec des limites plus claires"
+    ],
+    "notesEditoriales": [
+      "La manipulabilité est narrativement puissante parce qu'elle crée un personnage en tension entre ce qu'il sait et ce qu'il fait.",
+      "Distinguer manipulabilité et gentillesse — quelqu'un peut être généreux et avoir des limites claires.",
+      "Le moment où un personnage manipulable tient enfin une position est souvent l'un des plus forts de son arc.",
+      "Éviter d'en faire une victime sans agentivité : même les personnages les plus manipulables font des choix, même petits."
+    ]
+  }
+]

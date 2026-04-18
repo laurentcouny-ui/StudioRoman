@@ -1,0 +1,452 @@
+[
+  {
+    "id": "salle-attente-hopital",
+    "label": "Salle d'attente d'hôpital",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "chaises en plastique dur alignées, usées aux accoudoirs",
+      "lumière froide de néon sans ombre ni relief",
+      "sol en lino gris, marqué de rainures et de traces de roulettes",
+      "distributeur de tickets avec son claquement régulier",
+      "odeur de désinfectant et de renfermé mêlées",
+      "bruit sourd de la ventilation en permanence",
+      "va-et-vient de personnes en blouse qui passent sans s'arrêter",
+      "télévision muette dans un coin avec sous-titres",
+      "plantes en plastique ou végétaux décolorés",
+      "enfant qui joue par terre sous le regard épuisé d'un parent"
+    ],
+    "emotionsTypiques": [
+      "anxiété sourde",
+      "attente pesante",
+      "impression d'impuissance",
+      "sentiment d'être hors du temps normal",
+      "solidarité silencieuse avec les autres présents"
+    ],
+    "ambiance": "Le temps y a une texture particulière — ni urgent ni tranquille. L'attente est un état en soi. Chaque personne présente porte quelque chose d'invisible.",
+    "detailsSensoriels": {
+      "olfactifs": ["désinfectant de surface", "air recyclé sans fraîcheur", "parfum de quelqu'un qui attend depuis longtemps"],
+      "auditifs": ["claquement de tickets", "ventilation constante", "noms appelés par un haut-parleur", "froissement de magazines"],
+      "visuels": ["horloge trop lente", "numéro d'attente affiché", "visages fermés ou absents"],
+      "tactiles": ["siège dur et froid", "accoudoir usé", "magazine déjà lu par dix personnes"]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Médecin ou infirmier",
+        "description": "Remarque d'abord le flux, l'organisation, les signaux cliniques sur les visages. L'atmosphère lui est familière — presque neutre. Il voit des états, pas des personnes qui attendent."
+      },
+      {
+        "profil": "Proche d'un patient en chirurgie",
+        "description": "Le temps s'étire de façon insupportable. Chaque bruit de porte est un signal possible. Il a lu le même paragraphe quatre fois."
+      },
+      {
+        "profil": "Habitué des lieux (maladie chronique)",
+        "description": "Reconnaît les rituels, les têtes habituelles, les protocoles. L'attente est familière. Ce n'est pas rassurant — c'est juste connu."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène d'attente avant une révélation médicale",
+      "lieu de rencontre improbable entre deux personnages",
+      "espace de réflexion intérieure forcée par l'inaction",
+      "révélateur de classe sociale par le temps d'attente"
+    ],
+    "notesEditoriales": [
+      "Éviter la description exhaustive : choisir 3 détails sensoriels précis vaut mieux qu'une liste.",
+      "Le lieu prend sa force dans ce qu'il dit de l'état émotionnel du personnage qui le traverse.",
+      "Le silence entre les personnes qui attendent est souvent plus chargé que les conversations.",
+      "Le rythme de la scène doit refléter le temps suspendu du lieu."
+    ]
+  },
+  {
+    "id": "appartement-delabre",
+    "label": "Appartement délabré",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "papier peint décollé aux coins, gondolé par l'humidité",
+      "fenêtres sales qui filtrent la lumière en la salissant",
+      "sol qui grince à des endroits précis",
+      "odeur d'humidité ancienne mêlée à du tabac froid",
+      "radiateur qui tape par intermittence",
+      "ampoule nue qui pendouille au plafond",
+      "moisissures dans les angles des murs",
+      "robinet qui goutte dans un évier ébréché",
+      "boîtes de nourriture entassées sur une surface encombrée",
+      "traces de vie dans l'entassement — médicaments, courrier ouvert, verre usé"
+    ],
+    "emotionsTypiques": [
+      "impression d'étouffement",
+      "mélancolie de ce qui a été",
+      "sentiment de relégation",
+      "honte ou indifférence selon le personnage",
+      "sentiment d'y être enfermé plutôt qu'installé"
+    ],
+    "ambiance": "Les choses ont une histoire ici — mais pas une belle histoire. L'espace témoigne de ce que la vie a fait de quelqu'un.",
+    "detailsSensoriels": {
+      "olfactifs": ["humidité ancienne", "tabac froid", "nourriture réchauffée", "poussière"],
+      "auditifs": ["parquet qui grince", "robinet", "radiateur", "voisins à travers les murs minces"],
+      "visuels": ["lumière pauvre", "accumulation de choses", "crasse installée, pas récente"],
+      "tactiles": ["surface collante", "tissu usé", "froid persistant malgré le chauffage"]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Personne qui y vit depuis longtemps",
+        "description": "Ne voit plus le délabrement — c'est chez lui. Ce qui le touche, c'est une visite qui ramène un regard extérieur et lui montre ce qu'il a cessé de voir."
+      },
+      {
+        "profil": "Visiteur pour la première fois",
+        "description": "Cherche où poser son regard sans paraître juger. L'inconfort est réel. Il essaie de voir la personne derrière le lieu."
+      },
+      {
+        "profil": "Personnage qui s'y est réfugié",
+        "description": "L'appartement délabré est un refuge. Le délabrement lui ressemble ou lui convient dans cet état. Il ne cherche pas à l'embellir."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu qui en dit long sur l'état d'un personnage sans explication",
+      "espace de honte ou de dignité selon comment on le traite",
+      "révélateur de la situation sociale ou de la dépression",
+      "lieu où un personnage découvre les conditions de vie réelles d'un autre"
+    ],
+    "notesEditoriales": [
+      "Les détails précis sont plus puissants que les adjectifs généraux.",
+      "Le regard que le personnage qui vit là porte sur son propre espace en dit autant que l'espace lui-même.",
+      "Un objet soigné dans un espace délabré crée un contraste très efficace.",
+      "Ce lieu fonctionne mieux quand il n'est pas commenté — montré, pas expliqué."
+    ]
+  },
+  {
+    "id": "cuisine-familiale-soir",
+    "label": "Cuisine familiale le soir",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "odeur de repas qui a cuit trop longtemps ou exactement ce qu'il faut",
+      "vapeur sur les carreaux froids",
+      "lumière chaude au-dessus de l'évier",
+      "bruits de vaisselle et de couverts",
+      "radio ou télévision en fond",
+      "frigidaire qui ronfle",
+      "table sur laquelle traîne encore du courrier ou des cahiers",
+      "chaise pour deux — ou pour cinq",
+      "torchon usé accroché à la porte du four",
+      "casserole qui siffle sur le feu"
+    ],
+    "emotionsTypiques": [
+      "intimité quotidienne",
+      "confort ou tension selon ce qui se passe",
+      "attente du repas comme rituel",
+      "lieu de vérité — les masques tombent souvent là"
+    ],
+    "ambiance": "La cuisine du soir est un espace de réalité. Ce qui se dit là se dit autrement que dans un salon — avec les mains occupées, le dos souvent tourné.",
+    "detailsSensoriels": {
+      "olfactifs": ["sauce qui réduit", "pain grillé", "vaisselle propre", "huile chaude"],
+      "auditifs": ["chocs de couverts", "eau qui coule", "voix qui se superposent à la radio"],
+      "visuels": ["lumière chaude et localisée", "buée sur les vitres", "assiettes qui s'empilent"],
+      "tactiles": ["chaleur de la pièce", "vapeur", "sol froid hors de la zone du four"]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Enfant qui revient dans la cuisine d'enfance",
+        "description": "Chaque détail est chargé. L'odeur arrive avant la conscience. Il est à nouveau petit et en sécurité — ou il remarque à quel point tout a rétréci."
+      },
+      {
+        "profil": "Personne en crise qui cuisine seule",
+        "description": "L'acte de cuisiner est une ancre. Le geste répétitif structure ce qui n'est pas structurable. La cuisine devient un espace de survie ordinaire."
+      },
+      {
+        "profil": "Étranger invité pour la première fois",
+        "description": "La cuisine révèle le vrai niveau d'intimité. Être dans la cuisine de quelqu'un, c'est être dans sa vie réelle — pas dans ce qu'il montre."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu des confidences — les mains occupées libèrent la parole",
+      "espace de tension domestique",
+      "révélateur d'une relation par la façon dont les gens s'y meuvent ensemble",
+      "lieu de retour et de déracinement simultanés"
+    ],
+    "notesEditoriales": [
+      "La cuisine est un des rares lieux où les corps coexistent de façon pratique — à exploiter pour la mise en scène.",
+      "Le dos tourné permet des dialogues impossibles face à face.",
+      "La nourriture est porteuse de sens — ce qu'on prépare, comment, pour qui.",
+      "Les bruits de cuisine peuvent couvrir une conversation ou la rendre plus intime."
+    ]
+  },
+  {
+    "id": "foret-nuit",
+    "label": "Forêt la nuit",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "sonore-tactile",
+    "elements": [
+      "obscurité à quelques pas du faisceau de lumière",
+      "sons amplifiés — craquements, bruissements, vent dans les feuilles",
+      "sol irrégulier et invisible",
+      "branches basses à hauteur de visage",
+      "humidité froide qui s'accumule sur les vêtements",
+      "absence de ligne d'horizon",
+      "désorentation progressive si on perd le chemin",
+      "luminosité lunaire intermittente selon les trouées",
+      "odeur de terre, de mousse, de bois humide"
+    ],
+    "emotionsTypiques": [
+      "vulnérabilité primitive",
+      "hyper-vigilance des sens",
+      "sentiment d'être observé",
+      "peur sourde ou exaltation selon le personnage"
+    ],
+    "ambiance": "La forêt de nuit est un espace qui redistribue les sens. Ce qu'on voit perd de l'importance — ce qu'on entend et ce qu'on ressent prend tout.",
+    "detailsSensoriels": {
+      "olfactifs": ["terre mouillée", "résine", "champignons", "air froid et pur"],
+      "auditifs": ["craquement de branches", "froissement de feuilles", "animal dans les fourrés", "silence entre deux sons"],
+      "visuels": ["obscurité presque totale", "formes qui ne sont pas ce qu'elles semblent", "ombres qui bougent"],
+      "tactiles": ["branches qui accrochent", "sol mou ou glissant", "froid humide sur le visage"]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Chasseur ou pisteur",
+        "description": "La nuit en forêt est son territoire. Il lit les sons, interprète les mouvements. L'obscurité est une information, pas une menace."
+      },
+      {
+        "profil": "Citadin perdu",
+        "description": "Chaque son est une menace possible. La perte de visibilité est une perte de contrôle totale. L'imagination comble ce que les yeux ne voient pas."
+      },
+      {
+        "profil": "Personnage en fuite",
+        "description": "La forêt est un refuge autant qu'un obstacle. L'obscurité le protège autant qu'elle le ralentit. La relation au lieu est contradictoire."
+      }
+    ],
+    "usagesNarratifs": [
+      "espace de poursuite ou de fuite",
+      "lieu de révélation ou de décision solitaire",
+      "cadre pour une confrontation avec la peur primitive",
+      "espace de rituel ou de passage"
+    ],
+    "notesEditoriales": [
+      "La forêt de nuit fonctionne mieux par les sons que par les visuels.",
+      "La désorientation progressive est une tension narrative puissante.",
+      "L'imagination du personnage est plus efficace que la description directe de ce qui se passe.",
+      "Le silence entre deux sons est souvent plus fort que les sons eux-mêmes."
+    ]
+  },
+  {
+    "id": "gare-grande-ville",
+    "label": "Grande gare en heure de pointe",
+    "type": "lieu-public",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "flux continu de personnes qui se croisent sans se voir",
+      "annonces au micro régulières et métalliques",
+      "bruits de valises à roulettes sur le carrelage",
+      "odeur de viennoiserie et de café mêlée à celle des rainures du sol",
+      "panneaux d'affichage qui cliquètent ou défilent",
+      "quais avec départs en cascade",
+      "groupes qui se cherchent dans la foule",
+      "personnes seules avec téléphone ou livre",
+      "agents en gilet qui orientent sans s'arrêter"
+    ],
+    "emotionsTypiques": [
+      "anonymat choisi ou subi",
+      "urgence du déplacement",
+      "solitude dans la masse",
+      "excitation du départ ou tristesse de la séparation"
+    ],
+    "ambiance": "Dans une grande gare, chacun est en transit vers quelque chose. Personne ne s'arrête vraiment. C'est un espace de passage où les émotions sont concentrées précisément parce que le temps est compté.",
+    "detailsSensoriels": {
+      "olfactifs": ["café", "viennoiseries", "foule", "diesel lointain des quais"],
+      "auditifs": ["annonces", "valises", "conversations fragmentées", "sifflet de contrôleur"],
+      "visuels": ["flux de corps", "panneaux lumineux", "lumière naturelle et artificielle mêlées"],
+      "tactiles": ["chaleur de la foule", "courant d'air des trains", "sol vibrant légèrement"]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Voyageur habituel",
+        "description": "Navigue dans la foule sans la voir. Connaît les raccourcis, les horaires, les pièges. La gare est un espace fonctionnel — presque invisible."
+      },
+      {
+        "profil": "Personne qui attend quelqu'un",
+        "description": "La gare est réduite à un point d'arrivée. Chaque visage est scanné. Le temps entre deux regards vers l'horloge est trop long."
+      },
+      {
+        "profil": "Personne qui part pour la première fois ou définitivement",
+        "description": "Chaque détail est chargé. La gare devient un seuil — une frontière entre avant et après. Le bruit de la foule accentue la solitude du départ."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu de séparation ou de retrouvailles",
+      "espace d'anonymat pour une rencontre ou un échange",
+      "seuil narratif entre deux parties d'une histoire",
+      "lieu où les personnages se croisent ou se manquent"
+    ],
+    "notesEditoriales": [
+      "La gare est un lieu de transition — à utiliser pour les moments de bascule narrative.",
+      "L'anonymat de la foule peut être un soulagement ou une source de solitude supplémentaire.",
+      "Les adieux en gare ont une temporalité précise — le quai, le train qui part, le quai vide.",
+      "Ce qui se dit dans une gare est souvent ce qui ne peut être dit nulle part ailleurs."
+    ]
+  },
+  {
+    "id": "chambre-enfant-vide",
+    "label": "Chambre d'enfant désertée",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "lit encore fait mais plus habité",
+      "posters ou dessins sur les murs",
+      "jouets ou objets rangés mais présents",
+      "odeur légèrement différente — moins vivante",
+      "lumière filtrée par des rideaux enfantins",
+      "quelques affaires oubliées qui n'ont pas suivi",
+      "traces dans la peinture ou le mur",
+      "vide là où il y avait du mouvement et du bruit"
+    ],
+    "emotionsTypiques": [
+      "nostalgie pour un parent",
+      "mélancolie du temps qui passe",
+      "fierté mêlée de perte",
+      "impression que le temps s'est arrêté dans la pièce"
+    ],
+    "ambiance": "Cette chambre n'accueille plus mais conserve. Elle est un musée du passé récent, habité par l'absence.",
+    "detailsSensoriels": {
+      "olfactifs": ["léger fond d'enfant, en train de disparaître", "propreté un peu morte", "vieux livre ou jouet en plastique"],
+      "auditifs": ["silence — là où il y avait du bruit", "plancher qui grince sous le pas de l'adulte"],
+      "visuels": ["objets bien trop petits désormais", "couleurs d'une autre période de la vie"],
+      "tactiles": ["tissu du lit", "bord du bureau", "objet laissé derrière"]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Parent après le départ pour les études",
+        "description": "Le départ est joyeux en surface — et douloureux dans le vide de la pièce. Il n'y a pas de crise, juste cette chambre qui prouve que quelque chose a changé."
+      },
+      {
+        "profil": "Parent après la mort d'un enfant",
+        "description": "La chambre est un sanctuaire. Rien n'a été touché ou tout a été vidé selon le personnage. Les deux révèlent comment il tient — ou ne tient pas."
+      },
+      {
+        "profil": "Enfant adulte qui revient",
+        "description": "La chambre a rétréci. Les objets qui semblaient grands sont petits. C'est à la fois réconfortant et décalant — une version ancienne de soi conservée ici."
+      }
+    ],
+    "usagesNarratifs": [
+      "espace de deuil ou de mélancolie pour un parent",
+      "lieu de retour et de confrontation avec le passé",
+      "révélateur de la relation parent-enfant sans dialogue",
+      "espace symbolique du temps qui passe"
+    ],
+    "notesEditoriales": [
+      "Le détail le plus chargé est souvent celui qui n'a pas été emporté.",
+      "Éviter l'excès de description — quelques détails précis suffisent.",
+      "Le silence de la chambre en dit plus que ce qu'elle contient.",
+      "Ce lieu fonctionne mieux quand quelqu'un est dedans que quand il est décrit de l'extérieur."
+    ]
+  },
+  {
+    "id": "bar-nuit-tard",
+    "label": "Bar en fin de nuit",
+    "type": "lieu-public",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "lumière basse et chaude sur des tables encombrées",
+      "odeur de bière renversée, de fumée ancienne et de sueur",
+      "verres qui traînent à moitié vides",
+      "musique qui s'est répétée trop longtemps",
+      "barman qui commence à ranger sans le dire",
+      "conversations qui ne ressemblent plus à des conversations",
+      "quelques derniers clients qui ne veulent pas que ça finisse",
+      "chaises retournées sur des tables déjà nettoyées"
+    ],
+    "emotionsTypiques": [
+      "mélancolie de la fin de fête",
+      "ivresse du moment ou de l'alcool",
+      "solitude dans l'animation qui s'éteint",
+      "conversations intimes rendues possibles par l'heure tardive"
+    ],
+    "ambiance": "À cette heure, les filtres sociaux ont cédé. Les conversations deviennent plus vraies ou plus décousues. Ce qui reste est ce qui voulait vraiment rester.",
+    "detailsSensoriels": {
+      "olfactifs": ["bière", "alcool fort", "sueur", "papier de serviette humide"],
+      "auditifs": ["musique qui baisse progressivement", "voix plus proches", "chocs de verre"],
+      "visuels": ["lumière de plus en plus localisée", "tables vides", "visages fatigués"],
+      "tactiles": ["surface collante du bar", "chaise qui racle le sol", "chaleur de fin de nuit"]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Barman en fin de service",
+        "description": "Le bar est un espace de travail en train de fermer. Il voit les derniers clients comme un problème à régler doucement. Il connaît ce moment par cœur."
+      },
+      {
+        "profil": "Personnage qui ne veut pas rentrer chez lui",
+        "description": "Le bar est la dernière ligne de résistance contre la solitude ou quelque chose qui l'attend. Tant qu'il est là, il n'a pas à y retourner."
+      },
+      {
+        "profil": "Deux personnages après une soirée chargée",
+        "description": "La fin du bar crée une intimité particulière. Les masques de soirée sont tombés. Ce qui se dit à 3h du matin dans un bar vide est souvent ce qui devait être dit."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de confession ou de vérité tardive",
+      "lieu d'adieu ou de début",
+      "espace de solitude partagée",
+      "révélateur de ce que les personnages font quand la nuit avance et que les autres partent"
+    ],
+    "notesEditoriales": [
+      "L'heure est un personnage dans ce lieu — la fatigue, l'alcool et la nuit tardive changent ce qui peut être dit.",
+      "Le barman qui range est une horloge narrative discrète.",
+      "Ce qui reste dans un bar en fin de nuit est ce qui résiste à partir.",
+      "Les conversations à 3h du matin ont une texture différente — à reproduire dans les dialogues."
+    ]
+  },
+  {
+    "id": "couloir-hopital-nuit",
+    "label": "Couloir d'hôpital la nuit",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "lumière réduite à quelques veilleuses et néons de guidage",
+      "silence ponctué par les appareils de surveillance",
+      "sol qui absorbe les pas sans les supprimer",
+      "odeur médicale encore plus pénétrante dans le silence",
+      "portes de chambres fermées ou entrebâillées",
+      "infirmière qui passe sans bruit précis",
+      "chariot de soins qui grince légèrement",
+      "salle d'attente de nuit avec une ou deux personnes assoupies"
+    ],
+    "emotionsTypiques": [
+      "vulnérabilité de la nuit hospitalière",
+      "sentiment de veille et de vigilance",
+      "peur ou calme forcé selon le contexte",
+      "solitude profonde dans un lieu collectif"
+    ],
+    "ambiance": "La nuit transforme l'hôpital. Ce qui était un espace fonctionnel devient presque irréel. Les frontières entre veille et sommeil sont floues. La mort et la guérison sont également proches.",
+    "detailsSensoriels": {
+      "olfactifs": ["désinfectant concentré", "plastique stérile", "médicaments"],
+      "auditifs": ["bip des moniteurs", "respiration amplifiée dans le silence", "porte qui s'ouvre doucement"],
+      "visuels": ["veilleuses rouges ou vertes", "silhouettes en blouse", "reflet du carrelage sous la lumière basse"],
+      "tactiles": ["rampe froide", "sol froid sous les pieds nus", "blouse de patient trop fine"]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Proche qui veille",
+        "description": "Le couloir est le territoire de l'attente nocturne. Il sort de la chambre pour respirer, pour pleurer, pour ne pas réveiller. Le couloir est l'espace de ce qu'on ne peut pas montrer au malade."
+      },
+      {
+        "profil": "Patient qui marche la nuit",
+        "description": "Marcher dans le couloir est un acte de résistance légère. Je peux encore bouger. Le couloir est l'espace entre l'alitement et la vie."
+      },
+      {
+        "profil": "Soignant de nuit",
+        "description": "Le couloir est son lieu de travail dans sa version la plus calme. Il connaît chaque porte, chaque bruit normal et anormal. La nuit a ses propres alertes."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu de révélations entre proches sortis de la chambre",
+      "espace de confrontation avec la mortalité",
+      "lieu de dialogue médecin-famille",
+      "espace de solitude profonde entre deux visites"
+    ],
+    "notesEditoriales": [
+      "Le couloir d'hôpital de nuit est un entre-deux — entre la vie normale et quelque chose d'autre.",
+      "Les sons y ont une signification particulière — à exploiter dans les dialogues.",
+      "Ce qui se dit dans ce couloir ne peut être dit nulle part ailleurs.",
+      "La lumière basse et les sons médicaux créent une atmosphère de veille permanente."
+    ]
+  }
+]

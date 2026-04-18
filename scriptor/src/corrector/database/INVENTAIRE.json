@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-04-10T00:00:00.000Z",
+  "sourcesRoot": "src/corrector/database/sources",
+  "scanNote": "Scan workspace: aucun fichier source hors .gitkeep. Copier les PDF/EPUB/ZIP/JSON dans sources/* puis regenere cet inventaire.",
+  "sources": {
+    "grammaire": [
+      {
+        "fichier": "Grammaire_francaise_complete_a_l_usage_*_Brachet_Auguste_bpt6k143919h.pdf",
+        "statut": "manquant",
+        "taille": null,
+        "usage": "Grammaire classique Brachet (fichier 1 CDC). Nom Gallica complet avec partie centrale variable."
+      },
+      {
+        "fichier": "Grammaire_Academie_Hermant.epub",
+        "statut": "manquant",
+        "taille": null,
+        "usage": "Grammaire Academie Hermant 1930 (fichier 2 CDC). Une seule extension .epub."
+      }
+    ],
+    "dictionnaires": [
+      {
+        "fichier": "dictionnaire_academie_francaise_5eme_edition.pdf",
+        "statut": "manquant",
+        "taille": null,
+        "usage": "Dictionnaire Academie 5e edition 1798 (fichier 3 CDC)."
+      },
+      {
+        "fichier": "Dictionnaire_abrege_Academie_Verger_bpt6k6350211s.pdf",
+        "statut": "manquant",
+        "taille": null,
+        "usage": "Dictionnaire abrege Verger (fichier 4 CDC). Nom long Gallica accepte si non renomme."
+      }
+    ],
+    "stylistique": [
+      {
+        "fichier": "Traite_stylistique_Bally.pdf",
+        "statut": "manquant",
+        "taille": null,
+        "usage": "Bally stylistique (fichier 5 CDC)."
+      },
+      {
+        "fichier": "Manuel_tropes_Fontanier.pdf",
+        "statut": "manquant",
+        "taille": null,
+        "usage": "Fontanier tropes (fichier 6 CDC)."
+      }
+    ],
+    "lexique": [
+      {
+        "fichier": "Lexique400.zip",
+        "statut": "manquant",
+        "taille": null,
+        "usage": "Lexique 4.0 archive (fichier 7 CDC). Extraction en Sequence 1."
+      }
+    ],
+    "morphalou": [
+      {
+        "fichier": "Morphalou3.1_CSV.csv",
+        "statut": "fourni",
+        "taille": null,
+        "usage": "Morphalou 3.1 ATILF (LGPL-LR) : lemmes + formes fléchies, séquence 1 / 3."
+      }
+    ],
+    "gramalecte": [
+      {
+        "fichier": "(fichiers Gramalecte telecharges)",
+        "statut": "manquant",
+        "taille": null,
+        "usage": "Correcteur Gramalecte (fichier 9 CDC)."
+      }
+    ]
+  },
+  "manquants": [
+    "sources/grammaire/Brachet PDF (bpt6k143919h ou equivalent)",
+    "sources/grammaire/Grammaire_Academie_Hermant.epub",
+    "sources/dictionnaires/dictionnaire_academie_francaise_5eme_edition.pdf",
+    "sources/dictionnaires/Verger abrege (bpt6k6350211s ou equivalent)",
+    "sources/stylistique/Traite_stylistique_Bally.pdf",
+    "sources/stylistique/Manuel_tropes_Fontanier.pdf",
+    "sources/lexique/Lexique400.zip",
+    "sources/gramalecte/*"
+  ],
+  "pret_pour_brique5": false
+}

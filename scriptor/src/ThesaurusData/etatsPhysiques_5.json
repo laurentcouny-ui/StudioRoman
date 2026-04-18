@@ -1,0 +1,1530 @@
+[
+  {
+    "id": "faim",
+    "label": "Faim",
+    "groupe": "besoins-vitaux",
+    "definitionCourte": "Sensation physique de manque de nourriture, qui progresse d'une légère irritation à une urgence corporelle et cognitive qui prend de plus en plus de place dans la conscience.",
+    "signesPhysiques": [
+      "gargouillements d'estomac",
+      "creux sous le sternum, impression de vide",
+      "légère pâleur dans les états avancés",
+      "mains qui cherchent quelque chose à manger",
+      "attention qui se tourne vers les odeurs de nourriture",
+      "baisse d'énergie dans les gestes",
+      "salivation à l'évocation ou l'odeur de nourriture"
+    ],
+    "sensationsInternes": [
+      "vide douloureux dans l'estomac",
+      "légère nausée dans les états de faim intense",
+      "difficulté à penser à autre chose qu'à manger",
+      "irritabilité qui monte avec la durée",
+      "faiblesse musculaire progressive",
+      "sentiment d'urgence corporelle qui ne peut pas être différé indéfiniment"
+    ],
+    "effetsSurPerception": [
+      "les odeurs alimentaires deviennent très saillantes",
+      "les stimuli non alimentaires semblent moins importants",
+      "le temps paraît plus long",
+      "les décisions deviennent moins fiables"
+    ],
+    "effetsVoixLangage": [
+      "ton légèrement plus court, moins patient",
+      "difficultés de concentration dans les échanges prolongés",
+      "sujets ramenés vers la nourriture",
+      "réponses moins élaborées"
+    ],
+    "pensees": [
+      "Je dois manger bientôt.",
+      "Je n'arrive pas à me concentrer sur autre chose.",
+      "Un peu plus et ça devient insupportable.",
+      "Si j'avais mangé avant...",
+      "Juste quelque chose — n'importe quoi.",
+      "Je suis agacé par tout depuis que j'ai faim."
+    ],
+    "comportements": [
+      "cherche de la nourriture ou en parle",
+      "devient moins patient dans les interactions",
+      "commet des erreurs inhabituelles",
+      "mange dès que possible et souvent trop vite",
+      "cherche à précipiter ou à annuler ce qui retarde le repas",
+      "peut refuser de s'engager dans des activités nouvelles tant que la faim n'est pas résolue"
+    ],
+    "masquesPossibles": [
+      "ignorer la faim par orgueil ou par nécessité sociale",
+      "la nier en société pour ne pas sembler grossier",
+      "boire beaucoup pour différer la sensation"
+    ],
+    "evolutionsPossibles": [
+      "soulagement et contentement après le repas",
+      "irritabilité qui cède dès les premières bouchées",
+      "faiblesse prolongée si la faim dure trop longtemps",
+      "douleurs gastriques dans les cas extrêmes"
+    ],
+    "contextesAggravants": [
+      "odeurs de nourriture sans accès",
+      "activité physique ou intellectuelle intense",
+      "longue attente sans perspective de repas proche"
+    ],
+    "contextesAttenuants": [
+      "nourriture disponible rapidement",
+      "eau ou boisson qui atténue temporairement",
+      "distraction intense qui détourne l'attention"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère faim", "description": "L'heure du repas approche. Le personnage y pense légèrement." },
+      { "niveau": 2, "label": "Faim sensible", "description": "Gargouillements présents. Le personnage a du mal à se concentrer sur autre chose." },
+      { "niveau": 3, "label": "Faim marquée", "description": "La faim occupe l'espace mental. L'irritabilité est réelle." },
+      { "niveau": 4, "label": "Faim intense", "description": "La faiblesse s'installe. Difficile de fonctionner normalement." },
+      { "niveau": 5, "label": "Famine", "description": "État de privation sévère. La faim est une urgence corporelle absolue." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage habitué à des repas réguliers",
+        "description": "La moindre perturbation du rythme des repas l'irrité rapidement. Il n'a pas appris à attendre — et il n'est pas à son avantage."
+      },
+      {
+        "profil": "Personnage ayant connu la privation",
+        "description": "La faim réveille des mémoires profondes. Même légère, elle rappelle autre chose — une période difficile, une peur plus grande."
+      },
+      {
+        "profil": "Personnage sous pression",
+        "description": "Il a oublié de manger — trop occupé. La faim arrive soudainement une fois la tension relâchée. Son corps lui réclame ce qu'il lui a refusé."
+      }
+    ],
+    "notesEditoriales": [
+      "La faim est un outil narratif sous-utilisé — elle modifie le comportement et les décisions de façon concrète et crédible.",
+      "Elle peut signaler la négligence de soi, l'absorption dans une tâche, ou une situation de privation."
+    ]
+  },
+  {
+    "id": "douleur-aigue",
+    "label": "Douleur aiguë",
+    "groupe": "douleur",
+    "definitionCourte": "Douleur intense et soudaine qui coupe le cours normal de l'action et monopolise toute l'attention du personnage — tranchante, brûlante ou lancinante, elle s'impose sans prévenir.",
+    "signesPhysiques": [
+      "contraction involontaire du muscle ou du membre touché",
+      "grimace brève ou retenue",
+      "corps qui se recroqueville autour de la douleur",
+      "respiration bloquée puis exhalée brusquement",
+      "pâleur soudaine",
+      "sueurs froides possibles",
+      "immobilité forcée pour ne pas aggraver"
+    ],
+    "sensationsInternes": [
+      "choc douloureux qui interrompt toute pensée",
+      "sensation de brûlure, de coupure ou de coup selon la nature",
+      "battements du cœur perceptibles au point douloureux",
+      "impression que le temps se fige autour de la douleur",
+      "nausée légère dans les cas d'intensité élevée",
+      "conscience hyper-focalisée sur le point atteint"
+    ],
+    "effetsSurPerception": [
+      "tout le reste devient flou — la douleur occupe tout le champ",
+      "les sons semblent lointains ou déformés",
+      "le temps se ralentit autour de l'impact",
+      "les visages et les paroles des autres deviennent difficilement interprétables"
+    ],
+    "effetsVoixLangage": [
+      "silence brusque ou son involontaire",
+      "phrases inachevées au moment de l'impact",
+      "voix tendue ou sifflante",
+      "difficulté à répondre pendant la phase aiguë"
+    ],
+    "pensees": [
+      "Aïe — merde.",
+      "C'est où, exactement ?",
+      "Est-ce que c'est grave ?",
+      "Ne montre rien.",
+      "Ça va passer.",
+      "Attends — ça ne passe pas."
+    ],
+    "comportements": [
+      "s'arrête net",
+      "tient ou protège la zone douloureuse",
+      "cherche à s'isoler ou à s'asseoir",
+      "refuse l'aide ou l'accepte selon le caractère",
+      "reprend progressivement l'activité dès que possible",
+      "peut devenir irritable si la douleur dure"
+    ],
+    "masquesPossibles": [
+      "retenue absolue devant certains publics",
+      "dédramatisation immédiate — ça va, ça va",
+      "déplacement de l'attention vers quelque chose d'urgent"
+    ],
+    "evolutionsPossibles": [
+      "douleur sourde qui prend le relais si la cause persiste",
+      "soulagement rapide si c'est passager",
+      "complication médicale si ignorée",
+      "traumatisme associé si la douleur est liée à un contexte violent"
+    ],
+    "contextesAggravants": [
+      "mouvement qui aggrave la zone",
+      "pression extérieure à continuer malgré tout",
+      "contexte où montrer la douleur serait un désavantage"
+    ],
+    "contextesAttenuants": [
+      "repos et immobilisation",
+      "aide médicale ou personne compétente",
+      "distraction intense qui détourne l'attention"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère douleur", "description": "Désagréable mais non invalidante. Le personnage continue." },
+      { "niveau": 2, "label": "Douleur sensible", "description": "Elle s'impose mais peut être gérée. Le personnage grimace intérieurement." },
+      { "niveau": 3, "label": "Douleur franche", "description": "Elle interrompt et laisse des séquelles de quelques minutes." },
+      { "niveau": 4, "label": "Douleur intense", "description": "Elle mobilise toutes les ressources. Difficile de faire autre chose." },
+      { "niveau": 5, "label": "Douleur insupportable", "description": "Elle submerge tout. L'action normale est impossible." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage habitué à la douleur",
+        "description": "Il la reconnaît, la juge, la classe. Elle ne le surprend plus. Il peut continuer à un niveau qui stupéfierait les autres."
+      },
+      {
+        "profil": "Personnage peu habitué",
+        "description": "La douleur le désarçonne. Il n'a pas les réflexes pour la gérer. Sa réaction peut être disproportionnée ou au contraire paralysée."
+      },
+      {
+        "profil": "Personnage en état de choc ou d'adrénaline",
+        "description": "Il ne la sent pas — ou seulement après. La douleur arrive décalée, une fois la situation résolue. La prise de conscience peut être violente."
+      }
+    ],
+    "notesEditoriales": [
+      "La douleur aiguë est un signal narratif efficace : elle arrête l'action et force une décision.",
+      "Sa gestion révèle le caractère — qui cache, qui montre, qui demande de l'aide."
+    ]
+  },
+  {
+    "id": "douleur-sourde",
+    "label": "Douleur sourde",
+    "groupe": "douleur",
+    "definitionCourte": "Douleur persistante et de fond, moins intense que la douleur aiguë mais présente en continu, qui use le personnage sur la durée et teinte sa façon d'être au monde.",
+    "signesPhysiques": [
+      "légère crispation autour de la zone douloureuse",
+      "posture adaptée pour éviter l'aggravation",
+      "mouvements plus prudents et plus économes",
+      "fatigue visible liée à l'effort de gérer la douleur",
+      "traits légèrement creusés dans les états prolongés",
+      "regard parfois absent — l'attention dérive vers la douleur",
+      "irritabilité de fond dans les interactions"
+    ],
+    "sensationsInternes": [
+      "présence constante d'une gêne qui ne disparaît pas",
+      "usure progressive qui vide l'énergie disponible",
+      "difficulté à trouver une position vraiment confortable",
+      "conscience permanente d'un corps qui ne fonctionne pas normalement",
+      "résignation légère liée à la durée",
+      "espoir de soulagement qui revient régulièrement"
+    ],
+    "effetsSurPerception": [
+      "le monde extérieur semble légèrement atténué — la douleur prend de la bande passante",
+      "les petites contrariétés sont moins tolérées",
+      "le temps semble plus long",
+      "les plaisirs ordinaires semblent moins accessibles"
+    ],
+    "effetsVoixLangage": [
+      "ton légèrement plus court dans les échanges prolongés",
+      "patience moins disponible",
+      "tendance à mettre fin aux conversations si la douleur augmente",
+      "formulations moins élaborées en état de fatigue-douleur"
+    ],
+    "pensees": [
+      "Elle est encore là.",
+      "Combien de temps ça va durer ?",
+      "Si j'arrivais à dormir, peut-être que ça irait mieux.",
+      "Je ne suis pas à mon niveau — mais personne ne le voit.",
+      "C'est supportable — pour l'instant.",
+      "Je suis las de me concentrer pour ne pas le montrer."
+    ],
+    "comportements": [
+      "adapte ses activités pour ménager la zone douloureuse",
+      "cherche des positions de soulagement régulièrement",
+      "peut annuler des engagements si la douleur s'intensifie",
+      "prend des analgésiques ou cherche d'autres soulagements",
+      "reste fonctionnel mais à un niveau légèrement réduit",
+      "peut se montrer moins disponible émotionnellement"
+    ],
+    "masquesPossibles": [
+      "normalité maintenue coûte que coûte",
+      "dédramatisation — c'est rien, ça va",
+      "activité pour ne pas y penser"
+    ],
+    "evolutionsPossibles": [
+      "soulagement si la cause est traitée",
+      "chronicisation et adaptation progressive",
+      "épuisement si la douleur dure sans issue",
+      "dépression possible si la douleur est trop longtemps ignorée"
+    ],
+    "contextesAggravants": [
+      "fatigue qui baisse le seuil de tolérance",
+      "obligation de fonctionner normalement",
+      "nuit sans sommeil liée à la douleur"
+    ],
+    "contextesAttenuants": [
+      "chaleur ou froid selon le type",
+      "repos sans obligation",
+      "présence bienveillante sans demande"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère gêne", "description": "Présente mais peu perturbante. Le personnage s'y adapte sans effort majeur." },
+      { "niveau": 2, "label": "Douleur de fond", "description": "Constante et légèrement usante. Le personnage fonctionne mais ça lui coûte." },
+      { "niveau": 3, "label": "Douleur installée", "description": "Elle infuse tout. Le personnage doit gérer en plus de tout le reste." },
+      { "niveau": 4, "label": "Douleur chronique lourde", "description": "Elle affecte les décisions, les relations, la qualité de vie." },
+      { "niveau": 5, "label": "Douleur invalidante", "description": "Elle prend toute la place. Fonctionnement normal impossible sans traitement." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage stoïque",
+        "description": "Il ne le mentionne pas. Les autres ne savent pas. L'effort invisible de tenir crée une distance intérieure que rien ne comble."
+      },
+      {
+        "profil": "Personnage qui en parle",
+        "description": "Il nomme la douleur, la décrit, demande de l'adaptation. Certains comprennent. D'autres ne savent pas quoi faire. Il gère la réaction des autres en plus de la douleur."
+      },
+      {
+        "profil": "Personnage habitué de longue date",
+        "description": "La douleur fait partie de son fond normal. Il ne se souvient plus vraiment de son absence. Elle structure sa façon d'être sans qu'il le remarque."
+      }
+    ],
+    "notesEditoriales": [
+      "La douleur sourde est un révélateur de caractère sur la durée — plus que la douleur aiguë qui est ponctuelle.",
+      "Elle agit comme un filtre sur toutes les scènes où le personnage y est soumis — à utiliser pour colorer subtilement."
+    ]
+  },
+  {
+    "id": "migraine",
+    "label": "Migraine",
+    "groupe": "douleur",
+    "definitionCourte": "Céphalée intense et souvent invalidante, fréquemment unilatérale, accompagnée d'une hypersensibilité aux stimuli et parfois de troubles visuels ou de nausées.",
+    "signesPhysiques": [
+      "main portée à la tempe ou au front",
+      "yeux plissés ou fermés face à la lumière",
+      "grimace légère et continue",
+      "teint légèrement pâle ou grisâtre",
+      "mouvements ralentis pour éviter d'aggraver",
+      "posture qui protège la tête des vibrations",
+      "nausée possible dans les cas intenses"
+    ],
+    "sensationsInternes": [
+      "douleur pulsatile calée sur le rythme cardiaque",
+      "impression que la tête est trop pleine",
+      "hypersensibilité à la lumière, aux sons, aux odeurs",
+      "nausée de fond ou franche",
+      "difficulté à réfléchir clairement",
+      "épuisement intense même sans effort physique"
+    ],
+    "effetsSurPerception": [
+      "la lumière devient agressive même à intensité normale",
+      "les sons semblent amplifiés et douloureux",
+      "les odeurs peuvent déclencher des nausées",
+      "les mouvements rapides autour de lui sont intolérables"
+    ],
+    "effetsVoixLangage": [
+      "voix basse pour ne pas aggraver la résonance",
+      "réponses courtes — parler demande un effort",
+      "formulations lentes et prudentes",
+      "annonce possible de la migraine pour expliquer le comportement"
+    ],
+    "pensees": [
+      "Il faut que j'aille dans le noir.",
+      "Si la lumière ne baisse pas, je ne vais pas tenir.",
+      "Combien d'heures encore ?",
+      "Je ne peux rien faire dans cet état.",
+      "J'aurais dû sentir que ça venait.",
+      "Tout le monde qui parle — c'est insupportable."
+    ],
+    "comportements": [
+      "cherche l'obscurité et le silence",
+      "demande à réduire les stimuli autour de lui",
+      "annule ou reporte les activités",
+      "prend les médicaments le plus tôt possible",
+      "s'allonge immobile si possible",
+      "évite les mouvements brusques"
+    ],
+    "masquesPossibles": [
+      "tenir en serrant les dents lors d'une obligation",
+      "port de lunettes de soleil en intérieur",
+      "excuse vague de fatigue pour ne pas expliquer"
+    ],
+    "evolutionsPossibles": [
+      "soulagement après quelques heures de repos dans le noir",
+      "aggravation si les stimuli ne peuvent pas être réduits",
+      "épuisement résiduel même après la crise",
+      "récurrence possible dans les jours suivants"
+    ],
+    "contextesAggravants": [
+      "lumière vive ou écrans",
+      "bruit fort ou soutenu",
+      "obligation de fonctionner normalement",
+      "stress ou tension"
+    ],
+    "contextesAttenuants": [
+      "obscurité et silence",
+      "froid sur les tempes",
+      "médicaments efficaces",
+      "repos total"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Céphalée légère", "description": "Gêne présente mais supportable. Le personnage continue." },
+      { "niveau": 2, "label": "Début de migraine", "description": "La douleur s'installe. Le personnage cherche à la contenir." },
+      { "niveau": 3, "label": "Migraine franche", "description": "La douleur est intense. Fonctionner normalement demande un effort énorme." },
+      { "niveau": 4, "label": "Migraine sévère", "description": "Le personnage ne peut plus se concentrer sur rien d'autre." },
+      { "niveau": 5, "label": "Migraine invalidante", "description": "Il ne peut pas rester debout. Toute stimulation est insupportable." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage migraineux chronique",
+        "description": "Il reconnaît les signes avant-coureurs et agit vite. Il a des protocoles. Mais quand la migraine passe le seuil, il sait que c'est fini pour la journée."
+      },
+      {
+        "profil": "Personnage en première migraine",
+        "description": "Il ne sait pas ce que c'est. Il pense à quelque chose de grave. La panique aggrave la douleur. L'ignorance est une souffrance supplémentaire."
+      },
+      {
+        "profil": "Personnage qui doit continuer",
+        "description": "Il tient par obligation — réunion impossible à annuler, enfant à garder. Chaque minute est un effort. Il compte le temps."
+      }
+    ],
+    "notesEditoriales": [
+      "La migraine est utile narrativement pour ses contraintes environnementales : elle force le personnage dans un espace particulier.",
+      "Elle révèle ce que les autres font pour l'aider — ou pas — ce qui dit beaucoup sur les relations."
+    ]
+  },
+  {
+    "id": "torpeur",
+    "label": "Torpeur",
+    "groupe": "epuisement",
+    "definitionCourte": "État de lourdeur somnolente dans lequel le corps et l'esprit résistent à l'activité — souvent post-prandiale, liée à la chaleur ou au relâchement après une période intense.",
+    "signesPhysiques": [
+      "paupières lourdes qui s'abaissent régulièrement",
+      "bâillements larges et répétés",
+      "corps avachi dans sa position",
+      "mouvements lents et peu précis",
+      "regard flou, qui ne fixe rien vraiment",
+      "muscles relâchés, sans tonicité",
+      "tête qui penche légèrement"
+    ],
+    "sensationsInternes": [
+      "lourdeur douce dans tout le corps",
+      "impression que se lever demanderait un effort disproportionné",
+      "pensées qui glissent avant de se formuler",
+      "chaleur interne agréable mais engourdie",
+      "résistance molle à toute stimulation extérieure",
+      "sentiment que rien n'est urgent et que c'est acceptable"
+    ],
+    "effetsSurPerception": [
+      "les sons semblent légèrement lointains",
+      "la lumière paraît tamisée même si elle est normale",
+      "les priorités semblent moins pressantes",
+      "les bruits brusques sont désagréables car ils rompent l'état"
+    ],
+    "effetsVoixLangage": [
+      "voix lente et traînante",
+      "réponses courtes et molles",
+      "sujets de conversation peu ambitieux",
+      "facilité à laisser les silences s'installer"
+    ],
+    "pensees": [
+      "Je pourrais dormir là, maintenant.",
+      "Je ne vais rien faire de compliqué.",
+      "Ce n'est pas le moment de décider quoi que ce soit.",
+      "Il fait trop chaud pour bouger.",
+      "Encore cinq minutes.",
+      "Je savais que j'aurais dû moins manger."
+    ],
+    "comportements": [
+      "reporte les tâches qui demandent de l'effort",
+      "cherche une position horizontale",
+      "répond à monosyllabes aux sollicitations",
+      "peut s'endormir s'il n'est pas stimulé",
+      "accepte tout ce qu'on lui propose de simple",
+      "refuse les activités qui demandent une réaction rapide"
+    ],
+    "masquesPossibles": [
+      "faire semblant d'écouter tout en somnolant",
+      "boire quelque chose de froid pour se réveiller artificiellement",
+      "s'occuper les mains pour ne pas s'endormir"
+    ],
+    "evolutionsPossibles": [
+      "soulagement si le sommeil est possible",
+      "irritabilité si forcé à rester éveillé",
+      "réveil progressif après une heure ou deux",
+      "fatigue résiduelle si le besoin de sommeil est trop important"
+    ],
+    "contextesAggravants": [
+      "chaleur",
+      "repas copieux",
+      "activité monotone qui ne stimule pas",
+      "manque de sommeil accumulé"
+    ],
+    "contextesAttenuants": [
+      "air frais ou eau froide",
+      "stimulation physique douce — marche",
+      "activité engageante qui nécessite de l'attention"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère somnolence", "description": "Le personnage bâille et a du mal à se concentrer. Il reste debout." },
+      { "niveau": 2, "label": "Torpeur légère", "description": "Il fonctionne mais au ralenti. Les réponses sont lentes." },
+      { "niveau": 3, "label": "Torpeur installée", "description": "Il résiste activement au sommeil. Difficile de faire quoi que ce soit de productif." },
+      { "niveau": 4, "label": "Torpeur profonde", "description": "Il lutte pour rester éveillé. Ses paupières se ferment par intermittence." },
+      { "niveau": 5, "label": "Endormissement", "description": "Il s'endort si rien ne l'en empêche — parfois malgré lui." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui se laisse aller",
+        "description": "Il accepte la torpeur avec plaisir. Il s'y glisse. Ce moment de laisser-faire est précieux."
+      },
+      {
+        "profil": "Personnage qui lutte contre",
+        "description": "Il refuse de s'endormir — trop à faire, ou mauvais moment. La lutte contre la torpeur est épuisante et visible."
+      },
+      {
+        "profil": "Personnage sous-stimulé",
+        "description": "La torpeur vient par ennui autant que par fatigue. Il n'a rien à faire, et ça l'engourdit."
+      }
+    ],
+    "notesEditoriales": [
+      "La torpeur ralentit narrativement — utile pour les scènes de transition ou de repos entre deux moments d'action.",
+      "Elle peut être drôle si le personnage lutte contre elle au mauvais moment."
+    ]
+  },
+  {
+    "id": "agitation-physique",
+    "label": "Agitation physique",
+    "groupe": "tension-activation",
+    "definitionCourte": "État d'excitation motrice dans lequel le corps ne peut pas rester immobile — besoin de bouger, de se lever, de faire quelque chose de physique, souvent lié à une tension nerveuse ou émotionnelle non déchargée.",
+    "signesPhysiques": [
+      "pieds qui tapotent le sol",
+      "mains qui cherchent quelque chose à tenir ou à manipuler",
+      "changements fréquents de position",
+      "va-et-vient dans l'espace disponible",
+      "rythme cardiaque légèrement plus élevé",
+      "tension dans les épaules et le dos",
+      "incapacité à rester assis longtemps"
+    ],
+    "sensationsInternes": [
+      "énergie qui cherche une sortie sans en trouver",
+      "inconfort de l'immobilité imposée",
+      "tension musculaire diffuse sans lieu précis",
+      "impression que bouger soulagerait",
+      "légère chaleur interne sans raison physique",
+      "pensées qui s'accélèrent en parallèle du corps"
+    ],
+    "effetsSurPerception": [
+      "les attentes paraissent insupportablement longues",
+      "les lieux clos semblent plus petits",
+      "les stimuli extérieurs sont captés avec une acuité excessive",
+      "la patience des autres semble incompréhensible"
+    ],
+    "effetsVoixLangage": [
+      "débit plus rapide",
+      "tendance à changer de sujet ou à anticiper",
+      "interruptions possibles",
+      "voix légèrement plus haute"
+    ],
+    "pensees": [
+      "Il faut que je bouge.",
+      "Je ne peux pas rester assis à ne rien faire.",
+      "Pourquoi tout le monde reste immobile ?",
+      "Si j'avais quelque chose à faire de mes mains...",
+      "Encore combien de temps comme ça ?",
+      "Je vais sortir faire un tour."
+    ],
+    "comportements": [
+      "se lève et marche fréquemment",
+      "manipule des objets — stylo, téléphone, clés",
+      "propose des activités physiques",
+      "prend des décisions rapides pour sortir de l'attente",
+      "devient difficile à retenir dans un espace contraint",
+      "peut finir par décharger l'énergie par une activité physique"
+    ],
+    "masquesPossibles": [
+      "immobilité forcée qui ressemble à de la maîtrise",
+      "concentration feinte sur une activité sédentaire",
+      "contraction des muscles pour rester en place"
+    ],
+    "evolutionsPossibles": [
+      "soulagement par l'exercice ou l'action",
+      "explosivité si l'agitation n'est pas déchargée",
+      "épuisement si elle dure sans résolution",
+      "anxiété si elle se mêle à une préoccupation intense"
+    ],
+    "contextesAggravants": [
+      "attente forcée sans action possible",
+      "lieu clos qui empêche le mouvement",
+      "tension émotionnelle non résolue",
+      "café ou stimulants"
+    ],
+    "contextesAttenuants": [
+      "activité physique même brève",
+      "espace pour marcher",
+      "action concrète qui mobilise l'énergie"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère nervosité motrice", "description": "Le personnage s'agite légèrement. Il contrôle encore bien." },
+      { "niveau": 2, "label": "Agitation sensible", "description": "Il ne peut pas rester tout à fait immobile." },
+      { "niveau": 3, "label": "Agitation franche", "description": "Se lever et bouger est quasi-involontaire." },
+      { "niveau": 4, "label": "Agitation intense", "description": "L'immobilité lui est presque physiquement douloureuse." },
+      { "niveau": 5, "label": "Suractivation motrice", "description": "Le corps est en mouvement constant. Difficile de l'arrêter sans effort considérable." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage anxieux",
+        "description": "L'agitation physique accompagne l'anxiété — les deux se nourrissent mutuellement. Bouger ne calme pas vraiment, mais rester immobile est insupportable."
+      },
+      {
+        "profil": "Personnage d'action",
+        "description": "L'agitation est son état naturel avant une action. Il est prêt, chargé. Si l'action tarde, il devient difficile à côtoyer."
+      },
+      {
+        "profil": "Enfant ou adolescent",
+        "description": "L'agitation physique est moins contrôlée — et souvent mal comprise par les adultes comme de l'indiscipline alors qu'elle est un besoin réel."
+      }
+    ],
+    "notesEditoriales": [
+      "L'agitation physique contraste bien avec les personnages immobiles autour de lui.",
+      "Elle révèle indirectement l'état émotionnel sans que le personnage le nomme."
+    ]
+  },
+  {
+    "id": "essoufflement",
+    "label": "Essoufflement",
+    "groupe": "tension-activation",
+    "definitionCourte": "Manque d'air consécutif à un effort, une émotion intense ou une condition physique — qui rend la parole difficile, force le ralentissement et rappelle au personnage les limites de son corps.",
+    "signesPhysiques": [
+      "respiration rapide et peu profonde",
+      "cage thoracique qui se soulève visiblement",
+      "bouche ouverte pour respirer",
+      "pause nécessaire avant de parler",
+      "rougeur au visage",
+      "mains posées sur les genoux ou une surface pour se soutenir",
+      "sueur légère aux tempes et au cou"
+    ],
+    "sensationsInternes": [
+      "brûlure légère dans les poumons",
+      "muscles qui demandent de l'oxygène",
+      "gorge sèche et chaude",
+      "sensation que le souffle ne suit pas",
+      "cœur qui bat vite et fort",
+      "légère vertige possible dans les cas intenses"
+    ],
+    "effetsSurPerception": [
+      "le monde extérieur semble secondaire face au besoin de respirer",
+      "les gestes des autres paraissent lents comparés à son propre rythme",
+      "les sons semblent légèrement étouffés",
+      "la priorité absolue est de récupérer"
+    ],
+    "effetsVoixLangage": [
+      "parole impossible ou très fragmentée pendant l'essoufflement",
+      "phrases très courtes pour économiser l'air",
+      "pause longue avant chaque réponse",
+      "voix rendue rauque par la respiration saccadée"
+    ],
+    "pensees": [
+      "Laisse-moi souffler.",
+      "Je ne peux pas parler maintenant.",
+      "Je n'aurais pas dû courir comme ça.",
+      "Encore quelques secondes.",
+      "Ça va — je reprends.",
+      "Mon corps n'a pas suivi."
+    ],
+    "comportements": [
+      "s'arrête et pose les mains sur les genoux",
+      "lève un doigt pour demander une pause",
+      "refuse de répondre tant que le souffle n'est pas revenu",
+      "boit de l'eau dès que possible",
+      "reprend progressivement l'activité une fois récupéré",
+      "peut rire de lui-même si le contexte le permet"
+    ],
+    "masquesPossibles": [
+      "continuer à parler pour masquer l'essoufflement — avec moins de mots",
+      "ralentir l'allure progressivement pour ne pas montrer la limite",
+      "tenir jusqu'à être hors de vue pour souffler"
+    ],
+    "evolutionsPossibles": [
+      "récupération rapide si l'effort s'arrête",
+      "aggravation si l'effort continue malgré tout",
+      "panique si l'essoufflement est mal interprété comme une suffocation"
+    ],
+    "contextesAggravants": [
+      "effort intense à froid",
+      "altitude",
+      "chaleur ou humidité",
+      "obligation de parler immédiatement après l'effort"
+    ],
+    "contextesAttenuants": [
+      "arrêt de l'effort",
+      "air frais",
+      "eau",
+      "quelques minutes sans sollicitation"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère accélération du souffle", "description": "Discernable mais non invalidant. La parole reste possible." },
+      { "niveau": 2, "label": "Essoufflement sensible", "description": "La parole est difficile. Il faut faire des pauses." },
+      { "niveau": 3, "label": "Essoufflement franc", "description": "Il ne peut pas parler. Il s'arrête et récupère." },
+      { "niveau": 4, "label": "Essoufflement intense", "description": "Il peine à reprendre son souffle. La récupération prend du temps." },
+      { "niveau": 5, "label": "Manque d'air", "description": "Il ne peut plus contrôler sa respiration. Panique possible si ça dure." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Sportif entraîné",
+        "description": "Il récupère vite et sait gérer. L'essoufflement est connu, prévisible. Il ne l'inquiète pas."
+      },
+      {
+        "profil": "Personnage sédentaire",
+        "description": "Il est surpris par ses propres limites. L'essoufflement le gêne et peut le rendre honteux."
+      },
+      {
+        "profil": "Personnage en fuite ou en urgence",
+        "description": "L'essoufflement est une contrainte dramatique — il doit continuer malgré tout. Chaque foulée coûte plus cher que la précédente."
+      }
+    ],
+    "notesEditoriales": [
+      "L'essoufflement est l'un des états physiques les plus utiles dans les scènes d'action ou de fuite.",
+      "Il crée une contrainte concrète sur la communication — une façon efficace de fragmenter un dialogue."
+    ]
+  },
+  {
+    "id": "bouffee-de-chaleur",
+    "label": "Bouffée de chaleur",
+    "groupe": "temperature",
+    "definitionCourte": "Montée soudaine et intense de chaleur dans le corps — liée à l'émotion, à l'effort, à la température ou à des causes hormonales — qui envahit le visage et la peau en quelques secondes.",
+    "signesPhysiques": [
+      "rougeur soudaine du visage et du cou",
+      "sueur qui apparaît rapidement sur le front et les tempes",
+      "geste vers le col ou les manches pour s'aérer",
+      "éventail improvisé avec un objet",
+      "malaise possible dans les cas intenses",
+      "regard qui cherche une fenêtre ou un air frais",
+      "agitation légère pour trouver du soulagement"
+    ],
+    "sensationsInternes": [
+      "chaleur montante qui part de la poitrine ou du ventre",
+      "peau qui brûle de l'intérieur",
+      "sensation d'étouffement léger",
+      "cœur qui s'emballe légèrement",
+      "tête qui tourne doucement dans les cas intenses",
+      "inconfort de ne pas pouvoir contrôler la réaction"
+    ],
+    "effetsSurPerception": [
+      "la chaleur ambiante devient insupportable",
+      "les vêtements semblent trop lourds",
+      "les regards des autres semblent tous fixés sur le visage rouge",
+      "la pièce paraît plus confinée"
+    ],
+    "effetsVoixLangage": [
+      "interruption ou pause dans la conversation",
+      "excuse ou commentaire sur la chaleur",
+      "voix légèrement altérée dans les cas intenses",
+      "gêne si la bouffée survient en public"
+    ],
+    "pensees": [
+      "J'ai trop chaud d'un coup.",
+      "Si je pouvais m'aérer.",
+      "Tout le monde voit que je suis rouge.",
+      "C'est passager — il faut juste attendre.",
+      "Pourquoi maintenant ?",
+      "De l'air frais — juste un peu."
+    ],
+    "comportements": [
+      "desserre le col ou ouvre un bouton",
+      "cherche l'air frais — fenêtre, sortie",
+      "boit quelque chose de frais rapidement",
+      "s'excuse ou détourne la conversation",
+      "s'évente avec ce qui est disponible",
+      "peut quitter brièvement la pièce si possible"
+    ],
+    "masquesPossibles": [
+      "continuer la conversation comme si de rien n'était",
+      "invoquer une explication neutre — il fait chaud ici",
+      "rire de soi-même pour dédramatiser"
+    ],
+    "evolutionsPossibles": [
+      "retour au normal en quelques minutes",
+      "frissons après la bouffée si la cause est émotionnelle",
+      "malaise si elle se répète ou dure",
+      "honte si elle survient au mauvais moment"
+    ],
+    "contextesAggravants": [
+      "lieu confiné ou surchauffé",
+      "émotion forte — honte, colère, embarras",
+      "alcool ou nourriture épicée",
+      "public qui observe"
+    ],
+    "contextesAttenuants": [
+      "air frais",
+      "eau froide sur les poignets",
+      "solitude ou lieu sans spectateur"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère chaleur", "description": "Le personnage a un peu chaud. Discret." },
+      { "niveau": 2, "label": "Bouffée sensible", "description": "Le visage rougit. Le personnage cherche à s'aérer." },
+      { "niveau": 3, "label": "Bouffée franche", "description": "Gêne et rougeur visibles. L'attention est accaparée." },
+      { "niveau": 4, "label": "Bouffée intense", "description": "Malaise possible. Le personnage doit s'arrêter." },
+      { "niveau": 5, "label": "Coup de chaleur", "description": "Vertiges, sueurs, sentiment de défaillance." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage pudique",
+        "description": "La rougeur est une trahison du corps qu'il ne peut pas contrôler. Elle le met hors de lui — ce qui aggrave la bouffée."
+      },
+      {
+        "profil": "Personnage en ménopause",
+        "description": "Les bouffées de chaleur sont familières et épuisantes. Il a développé des stratégies. Mais certains moments sont encore pris par surprise."
+      },
+      {
+        "profil": "Personnage dans un moment d'embarras",
+        "description": "La bouffée de chaleur survient au pire moment — révélant l'émotion qu'il cherchait à cacher. Elle trahit ce que ses mots refusaient de dire."
+      }
+    ],
+    "notesEditoriales": [
+      "La bouffée de chaleur peut signaler l'embarras ou la honte sans que le personnage les nomme.",
+      "Très efficace pour révéler un état intérieur que le personnage nie ou contrôle par ailleurs."
+    ]
+  },
+  {
+    "id": "etat-de-choc-physique",
+    "label": "État de choc physique",
+    "groupe": "reactions-extremes",
+    "definitionCourte": "Réaction physiologique à un traumatisme brutal — accident, violence, nouvelle dévastatrice — dans laquelle le corps entre en mode survie : pâleur, froid, tremblements, désorientation.",
+    "signesPhysiques": [
+      "pâleur soudaine, teint cireux",
+      "tremblements fins et incontrôlables",
+      "sueurs froides",
+      "regard vague et désorienté",
+      "lèvres légèrement bleutées dans les cas sévères",
+      "corps qui s'affaisse ou cherche à s'appuyer",
+      "respiration superficielle et irrégulière"
+    ],
+    "sensationsInternes": [
+      "froid intense qui vient de l'intérieur",
+      "sentiment de flotter légèrement hors de son corps",
+      "engourdissement général — douleur absente ou atténuée",
+      "impression que le bruit est lointain",
+      "incapacité à penser clairement",
+      "nausée sourde"
+    ],
+    "effetsSurPerception": [
+      "les stimuli semblent atténués, comme sous-marins",
+      "le temps se déforme — trop lent ou fragmenté",
+      "les visages autour ne sont pas identifiables clairement",
+      "les sons d'urgence autour semblent appartenir à un autre film"
+    ],
+    "effetsVoixLangage": [
+      "réponses monosyllabiques ou absentes",
+      "voix très basse et faible",
+      "confusion dans les dates, les noms, les faits",
+      "répétition de la même phrase ou question"
+    ],
+    "pensees": [
+      "Ce n'est pas réel.",
+      "Je dois rester debout.",
+      "Qu'est-ce qui se passe ?",
+      "Je ne sens plus mes jambes.",
+      "Il faut que quelqu'un m'aide.",
+      "Je ne comprends pas encore."
+    ],
+    "comportements": [
+      "reste immobile ou cherche à s'asseoir",
+      "accepte l'aide passivement",
+      "ne répond pas ou répond à côté",
+      "regarde dans le vide sans réaction aux sollicitations",
+      "peut s'effondrer si la cause est physique",
+      "souvent très froid même en lieu chaud"
+    ],
+    "masquesPossibles": [
+      "tentative de fonctionner normalement qui s'effondre",
+      "rires inappropriés dans les premières secondes",
+      "hyperactivité défensive qui cède brusquement"
+    ],
+    "evolutionsPossibles": [
+      "retour progressif à la conscience normale avec de l'aide",
+      "pleurs ou réaction émotionnelle différée une fois le choc passé",
+      "choc post-traumatique si le traumatisme est important",
+      "aggravation vers l'évanouissement si non pris en charge"
+    ],
+    "contextesAggravants": [
+      "rester seul sans aide",
+      "devoir continuer à agir malgré l'état",
+      "froid, lieu non protégé",
+      "nouvelles ou stimuli qui confirment le choc initial"
+    ],
+    "contextesAttenuants": [
+      "présence rassurante d'une personne calme",
+      "chaleur — couverture, boisson chaude",
+      "voix douce qui nomme ce qui se passe",
+      "position allongée"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Choc léger", "description": "Palleur et tremblement discrets. Le personnage est désarçonné mais reste fonctionnel." },
+      { "niveau": 2, "label": "Choc sensible", "description": "Froid et tremblement présents. Difficile de penser clairement." },
+      { "niveau": 3, "label": "État de choc franc", "description": "Désorientation visible. L'aide extérieure est nécessaire." },
+      { "niveau": 4, "label": "Choc profond", "description": "Le personnage est partiellement absent. Il ne comprend pas ce qui se passe." },
+      { "niveau": 5, "label": "Choc sévère", "description": "Risque d'évanouissement. Urgence médicale." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage formé aux situations d'urgence",
+        "description": "Il reconnaît le choc chez les autres mais pas toujours chez lui. Sa formation peut retarder la réaction — et la rendre plus brutale une fois que la pression cède."
+      },
+      {
+        "profil": "Témoin du choc d'un autre",
+        "description": "Il voit quelqu'un entrer en état de choc et ne sait pas quoi faire. La détresse de l'autre déclenche la sienne par contagion."
+      },
+      {
+        "profil": "Personnage après une blessure physique",
+        "description": "Le choc physique atténue la douleur dans les premières minutes — ce qui peut induire le personnage en erreur sur la gravité."
+      }
+    ],
+    "notesEditoriales": [
+      "L'état de choc physique crée un personnage temporairement hors du monde — utiliser pour les transitions et les moments de bascule.",
+      "Les détails physiques (froid, tremblements, pâleur) sont plus efficaces que les commentaires intérieurs."
+    ]
+  },
+  {
+    "id": "raideur-musculaire",
+    "label": "Raideur musculaire",
+    "groupe": "douleur",
+    "definitionCourte": "Muscles ou articulations qui refusent de se mouvoir avec leur amplitude normale — suite à une position prolongée, un froid, un effort ou un sommeil — rendant les premiers gestes inconfortables ou douloureux.",
+    "signesPhysiques": [
+      "gestes plus lents et plus prudents que d'habitude",
+      "grimace légère aux premiers mouvements",
+      "posture compensatoire pour éviter les angles douloureux",
+      "craquements articulaires fréquents",
+      "mains qui se serrent plusieurs fois pour s'échauffer",
+      "nuque ou dos tenus dans une position rigide",
+      "démarche légèrement modifiée"
+    ],
+    "sensationsInternes": [
+      "résistance dans les muscles qui ne veulent pas céder",
+      "douleur légère à l'étirement",
+      "impression que le corps a besoin de temps pour se mettre en marche",
+      "raideur qui diminue progressivement avec le mouvement",
+      "sentiment d'être vieux ou abîmé",
+      "légère frustration de ne pas avoir son corps disponible"
+    ],
+    "effetsSurPerception": [
+      "les premiers gestes du matin ou d'un réveil paraissent pénibles",
+      "la conscience du corps est plus forte que d'habitude",
+      "chaque mouvement est d'abord évalué avant d'être exécuté"
+    ],
+    "effetsVoixLangage": [
+      "soupir au moment de se lever",
+      "commentaire possible sur la raideur",
+      "ralentissement général dans les interactions"
+    ],
+    "pensees": [
+      "Mon corps n'est pas encore réveillé.",
+      "Encore cette raideur.",
+      "Il faut que je bouge un peu pour que ça passe.",
+      "J'aurais dû m'étirer hier.",
+      "Ce ne sera plus comme ça dans dix minutes.",
+      "Je vieilis."
+    ],
+    "comportements": [
+      "s'étire dès le réveil",
+      "fait quelques gestes pour échauffer les zones raides",
+      "évite les mouvements brusques",
+      "marche lentement les premières minutes",
+      "masse les zones douloureuses",
+      "attend que la raideur cède avant d'entreprendre"
+    ],
+    "masquesPossibles": [
+      "marcher normalement malgré l'inconfort",
+      "ignorer les craquements ou les minimiser",
+      "commencer l'activité sans montrer la gêne"
+    ],
+    "evolutionsPossibles": [
+      "disparition progressive avec l'échauffement",
+      "persistance si la cause est inflammatoire",
+      "aggravation si ignorée et forcée",
+      "chronicisation possible"
+    ],
+    "contextesAggravants": [
+      "froid",
+      "longue immobilité",
+      "mauvaise position de sommeil",
+      "effort intense la veille sans étirement"
+    ],
+    "contextesAttenuants": [
+      "chaleur — douche chaude, coussin chauffant",
+      "mouvements progressifs d'échauffement",
+      "massage"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère raideur", "description": "Quelques craquements. Rien de vraiment gênant." },
+      { "niveau": 2, "label": "Raideur matinale", "description": "Les premiers gestes coûtent. Ça passe en dix minutes." },
+      { "niveau": 3, "label": "Raideur marquée", "description": "L'amplitude est réduite. Il faut s'économiser." },
+      { "niveau": 4, "label": "Raideur douloureuse", "description": "Certains gestes sont franchement douloureux." },
+      { "niveau": 5, "label": "Blocage", "description": "Le personnage ne peut plus bouger normalement sans douleur." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage âgé",
+        "description": "La raideur matinale est rituelle. Il a ses protocoles. Ça ne le décourage plus — c'est juste le temps de mise en marche."
+      },
+      {
+        "profil": "Sportif au lendemain d'un effort",
+        "description": "La raideur est un signal de travail accompli. Elle est presque satisfaisante — preuve que le corps a répondu."
+      },
+      {
+        "profil": "Personnage stressé chronique",
+        "description": "La raideur est là en permanence, concentrée dans le cou et les épaules. Il ne s'en aperçoit plus — jusqu'au jour où quelqu'un lui dit de se détendre."
+      }
+    ],
+    "notesEditoriales": [
+      "La raideur est un détail réaliste qui ancre le corps du personnage dans le quotidien.",
+      "À utiliser pour les scènes du matin ou les lendemains d'effort — elle ralentit le démarrage et crée une texture temporelle."
+    ]
+  },
+  {
+    "id": "picotements",
+    "label": "Picotements",
+    "groupe": "sensations-nerveuses",
+    "definitionCourte": "Fourmillements ou picotements dans un membre ou une zone du corps, liés à une compression nerveuse, à une émotion forte ou à la récupération d'une circulation sanguine coupée.",
+    "signesPhysiques": [
+      "secousse légère du membre pour relancer la circulation",
+      "frottement ou massage de la zone concernée",
+      "grimace légère ou sourire si c'est familier",
+      "difficulté à utiliser le membre concerné normalement",
+      "appui moins sûr si c'est un pied ou une jambe",
+      "regard vers la zone — comme pour la vérifier"
+    ],
+    "sensationsInternes": [
+      "sensation d'aiguilles minuscules sous la peau",
+      "engourdissement partiel avec des pointes",
+      "chaleur progressivement retrouvée dans le membre",
+      "légère douleur au retour de la sensibilité",
+      "impression que le membre n'est pas tout à fait sien",
+      "conscience hyper-localisée d'une zone"
+    ],
+    "effetsSurPerception": [
+      "le membre concerné semble appartenir à quelqu'un d'autre",
+      "les gestes sont imprécis dans la zone touchée",
+      "l'attention est distraite par la sensation"
+    ],
+    "effetsVoixLangage": [
+      "commentaire possible sur la sensation",
+      "pause dans l'activité pour s'en occuper",
+      "humour si la situation le permet"
+    ],
+    "pensees": [
+      "Mon pied s'est endormi.",
+      "J'ai dû rester dans la mauvaise position.",
+      "Encore ces fourmis.",
+      "Il faut que je bouge.",
+      "Ça revient — ça pique.",
+      "Ça va passer."
+    ],
+    "comportements": [
+      "bouge ou secoue le membre",
+      "change de position",
+      "masse la zone",
+      "marche un peu pour relancer la circulation",
+      "fait des gestes répétitifs pour accélérer le retour",
+      "peut être handicapé dans ses mouvements pendant quelques minutes"
+    ],
+    "masquesPossibles": [
+      "continuer l'activité malgré la gêne",
+      "sourire ou ignorer si en public"
+    ],
+    "evolutionsPossibles": [
+      "disparition en quelques minutes",
+      "persistance si la position ou la compression continue",
+      "douleur si la circulation met du temps à revenir"
+    ],
+    "contextesAggravants": [
+      "position prolongée qui comprime un nerf",
+      "froid intense",
+      "anxiété ou tension qui peut provoquer des picotements aux extrémités"
+    ],
+    "contextesAttenuants": [
+      "mouvement du membre",
+      "chaleur",
+      "changement de position"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légères fourmis", "description": "Juste discernable. Le personnage continue sans vraiment s'arrêter." },
+      { "niveau": 2, "label": "Picotements sensibles", "description": "Il s'arrête pour bouger le membre." },
+      { "niveau": 3, "label": "Picotements intenses", "description": "Le membre est partiellement inutilisable le temps de la récupération." },
+      { "niveau": 4, "label": "Engourdissement douloureux", "description": "Le retour de la sensibilité est clairement douloureux." },
+      { "niveau": 5, "label": "Perte de sensibilité prolongée", "description": "Le membre ne répond pas. Possible cause neurologique à vérifier." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage habituel",
+        "description": "Il connaît ça — il a une mauvaise position récurrente. Il gère avec l'habitude, en soupirant."
+      },
+      {
+        "profil": "Personnage anxieux",
+        "description": "Les picotements l'inquiètent si au mauvais moment — il pense à quelque chose de grave et doit se rassurer."
+      }
+    ],
+    "notesEditoriales": [
+      "Les picotements sont un détail concret qui ancre le corps dans la scène.",
+      "Peut révéler qu'un personnage est resté immobile longtemps — sans avoir à le dire directement."
+    ]
+  },
+  {
+    "id": "spasme-musculaire",
+    "label": "Spasme musculaire",
+    "groupe": "douleur",
+    "definitionCourte": "Contraction involontaire et soudaine d'un muscle — souvent dans le dos, la nuque ou une jambe — qui dure quelques secondes à plusieurs heures et qui peut être intense au point d'immobiliser.",
+    "signesPhysiques": [
+      "contraction visible sous la peau",
+      "posture figée autour de la douleur",
+      "grimace brusque et intense",
+      "immobilité soudaine",
+      "sueur possible dans les cas intenses",
+      "mains qui cherchent à masser ou à comprimer",
+      "respiration bloquée puis lente pour gérer la douleur"
+    ],
+    "sensationsInternes": [
+      "douleur soudaine et très localisée",
+      "muscle qui ne répond plus aux ordres",
+      "sensation d'avoir quelque chose de bloqué à l'intérieur",
+      "brûlure dans le muscle contracté",
+      "impossibilité de relâcher malgré la volonté",
+      "légère nausée dans les cas intenses"
+    ],
+    "effetsSurPerception": [
+      "toute l'attention se concentre sur la zone",
+      "tout le reste disparaît pendant la durée du spasme",
+      "le temps s'arrête momentanément"
+    ],
+    "effetsVoixLangage": [
+      "son involontaire — souffle coupé ou gémissement retenu",
+      "impossibilité de parler pendant l'acmé",
+      "phrases courtes et précises après"
+    ],
+    "pensees": [
+      "Ah — merde.",
+      "Ne bouge pas.",
+      "Ça va passer — ça doit passer.",
+      "Qu'est-ce que j'ai fait ?",
+      "Respire lentement.",
+      "Si seulement je pouvais relâcher."
+    ],
+    "comportements": [
+      "s'immobilise totalement",
+      "cherche une position de soulagement",
+      "masse ou appuie sur la zone",
+      "demande de l'aide ou refuse stoïquement",
+      "attend que ça passe avant de reprendre quoi que ce soit",
+      "peut annuler l'activité en cours"
+    ],
+    "masquesPossibles": [
+      "retenir le son pour ne pas alerter",
+      "trouver une excuse pour s'isoler quelques secondes",
+      "continuer à parler malgré tout pour ne pas interrompre"
+    ],
+    "evolutionsPossibles": [
+      "soulagement en quelques minutes si passager",
+      "douleur résiduelle plusieurs heures",
+      "aggravation si on force le muscle",
+      "chronicisation possible dans certaines conditions"
+    ],
+    "contextesAggravants": [
+      "déshydratation",
+      "effort sans échauffement",
+      "position prolongée",
+      "froid"
+    ],
+    "contextesAttenuants": [
+      "chaleur sur la zone",
+      "étirement très progressif",
+      "massage",
+      "hydratation"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère contraction", "description": "Désagréable mais court. Le personnage s'arrête une seconde." },
+      { "niveau": 2, "label": "Spasme sensible", "description": "Il doit s'arrêter et attendre. Quelques secondes d'immobilité." },
+      { "niveau": 3, "label": "Spasme franc", "description": "Douleur intense mais brève. Laisse une raideur." },
+      { "niveau": 4, "label": "Spasme prolongé", "description": "Le muscle est bloqué plusieurs minutes. Difficile de continuer." },
+      { "niveau": 5, "label": "Contracture", "description": "Le muscle reste bloqué. Impossible de bouger la zone normalement." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage sportif",
+        "description": "Il reconnaît la sensation — il a eu ça avant. Il sait comment le gérer. Sa réaction est efficace et rapide."
+      },
+      {
+        "profil": "Personnage en moment crucial",
+        "description": "Le spasme survient au pire moment. Il doit le gérer sans le montrer, ce qui demande un effort supplémentaire."
+      }
+    ],
+    "notesEditoriales": [
+      "Le spasme est un outil narratif concret qui arrête le personnage physiquement au moment où il ne le peut pas.",
+      "À utiliser pour les scènes d'action ou de tension — il crée une contrainte inattendue."
+    ]
+  },
+  {
+    "id": "larmes-involontaires",
+    "label": "Larmes involontaires",
+    "groupe": "reactions-physiques",
+    "definitionCourte": "Larmes qui viennent sans qu'on les ait décidées — déclenchées par le froid, le vent, un bâillement, un yeux piqué, ou une émotion que le personnage cherche à contenir mais que le corps exprime malgré lui.",
+    "signesPhysiques": [
+      "larme qui coule sur la joue sans sanglot",
+      "yeux rouges ou brillants",
+      "clignements fréquents pour retenir",
+      "geste pour essuyer discrètement",
+      "tension autour des yeux pour contrôler",
+      "expression qui contraste avec les larmes — pas de tristesse visible",
+      "nez légèrement congestionné dans les cas longs"
+    ],
+    "sensationsInternes": [
+      "gorge qui se serre légèrement malgré soi",
+      "chaleur dans les yeux avant les larmes",
+      "sentiment de trahison du corps",
+      "inconfort d'être vu dans cet état",
+      "impossibilité de contrôler malgré la volonté",
+      "émotion sous-jacente possible — même niée"
+    ],
+    "effetsSurPerception": [
+      "la vision se brouille légèrement",
+      "les regards des autres semblent tous orientés vers le visage",
+      "l'attention est partiellement dérobée par la gestion de l'état"
+    ],
+    "effetsVoixLangage": [
+      "voix légèrement contractée si l'émotion accompagne les larmes",
+      "explication rapide — c'est le vent, j'ai quelque chose dans l'œil",
+      "silence possible pour ne pas laisser la voix trahir"
+    ],
+    "pensees": [
+      "Non, pas maintenant.",
+      "Ce ne sont pas des vraies larmes.",
+      "Personne ne doit voir ça.",
+      "Ce n'est pas ce qu'ils croient.",
+      "C'est juste le froid — ou la lumière.",
+      "Je ne pleure pas."
+    ],
+    "comportements": [
+      "essuie discrètement",
+      "détourne le regard",
+      "propose une explication physique",
+      "change de sujet",
+      "cligne des yeux plusieurs fois",
+      "peut chercher à quitter la situation si les larmes continuent"
+    ],
+    "masquesPossibles": [
+      "explication physique — allergie, vent, fatigue oculaire",
+      "rire pour dédramatiser",
+      "ignorer complètement et faire comme si"
+    ],
+    "evolutionsPossibles": [
+      "arrêt rapide si la cause était physique",
+      "larmes émotionnelles si la digue cède",
+      "honte si elles ont été vues et mal interprétées"
+    ],
+    "contextesAggravants": [
+      "yeux secs ou irrités",
+      "froid ou vent",
+      "bâillement prolongé",
+      "émotion contenue depuis longtemps"
+    ],
+    "contextesAttenuants": [
+      "environnement sans stimulation oculaire",
+      "solitude qui permet de laisser venir",
+      "clignements réguliers"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Œil brillant", "description": "Une légère humidité. Presque invisible." },
+      { "niveau": 2, "label": "Larme unique", "description": "Une larme coule. Le personnage l'essuie vite." },
+      { "niveau": 3, "label": "Larmes persistantes", "description": "Malgré la retenue, les larmes reviennent. Difficile à cacher." },
+      { "niveau": 4, "label": "Larmes visibles", "description": "Clairement présentes. Le personnage doit expliquer ou assumer." },
+      { "niveau": 5, "label": "Larmes qui débordent", "description": "Plus moyen de retenir. Le contrôle est perdu." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui refoule",
+        "description": "Les larmes involontaires sont une menace — elles révèlent ce qu'il cache. Il les combat avec une énergie qui dit plus que les larmes elles-mêmes."
+      },
+      {
+        "profil": "Personnage qui accepte",
+        "description": "Il n'en fait pas un drame. Ce sont des larmes — le corps fait ce qu'il fait. Il s'essuie et continue."
+      }
+    ],
+    "notesEditoriales": [
+      "Les larmes involontaires sont narrativement plus intéressantes que les larmes décidées — elles trahissent.",
+      "Elles peuvent être purement physiques ou révéler une émotion niée — ambiguïté à exploiter."
+    ]
+  },
+  {
+    "id": "faiblesse-soudaine",
+    "label": "Faiblesse soudaine",
+    "groupe": "reactions-extremes",
+    "definitionCourte": "Perte brutale et temporaire de la tonicité musculaire ou de l'énergie physique — les jambes qui se dérobent, les mains qui lâchent, le corps qui refuse de tenir.",
+    "signesPhysiques": [
+      "jambes qui plient légèrement sans décision",
+      "main qui lâche ce qu'elle tenait",
+      "appui recherché instinctivement contre un mur ou une personne",
+      "pâleur soudaine",
+      "regard qui se trouble momentanément",
+      "voix qui s'affaiblit",
+      "corps qui s'affaisse si l'appui manque"
+    ],
+    "sensationsInternes": [
+      "vide soudain dans les jambes",
+      "muscles qui refusent de répondre",
+      "légère nausée ou vertige accompagnateur",
+      "sentiment de perte de contrôle",
+      "chaleur ou froid brutal selon la cause",
+      "panique légère à la réalisation de l'état"
+    ],
+    "effetsSurPerception": [
+      "le monde semble instable un instant",
+      "les sons semblent lointains",
+      "la verticalité n'est plus évidente",
+      "tout se réduit à la nécessité de tenir debout"
+    ],
+    "effetsVoixLangage": [
+      "voix qui chute d'un ton",
+      "phrase interrompue",
+      "appel possible — aide ou prénom"
+    ],
+    "pensees": [
+      "Je ne vais pas tenir.",
+      "Accroche-toi.",
+      "Qu'est-ce qui se passe ?",
+      "Je n'ai pas mangé — ou je n'ai pas dormi.",
+      "Ne pas tomber.",
+      "Ça va revenir."
+    ],
+    "comportements": [
+      "s'accroche à ce qui est proche",
+      "s'assoit ou cherche à s'asseoir immédiatement",
+      "demande de l'aide ou au contraire fait tout pour ne pas le montrer",
+      "respire lentement pour récupérer",
+      "boit quelque chose dès que possible",
+      "reste immobile le temps que ça passe"
+    ],
+    "masquesPossibles": [
+      "semblant de chercher quelque chose pour s'appuyer sans en avoir l'air",
+      "détourner la conversation pour se donner le temps de récupérer",
+      "s'asseoir en prétextant autre chose"
+    ],
+    "evolutionsPossibles": [
+      "récupération rapide si la cause est passagère",
+      "évanouissement si la cause est plus grave",
+      "réapparition possible si la situation persiste",
+      "signal d'un état général à surveiller"
+    ],
+    "contextesAggravants": [
+      "faim et déshydratation",
+      "chaleur",
+      "émotion intense",
+      "effort brusque sans préparation"
+    ],
+    "contextesAttenuants": [
+      "s'asseoir",
+      "boire et manger",
+      "air frais",
+      "aide d'une personne présente"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère faiblesse", "description": "Un moment de mollesse. Le personnage s'appuie brièvement." },
+      { "niveau": 2, "label": "Faiblesse sensible", "description": "Il doit s'asseoir. L'activité est interrompue." },
+      { "niveau": 3, "label": "Faiblesse franche", "description": "Difficile de tenir debout sans aide." },
+      { "niveau": 4, "label": "Faiblesse sévère", "description": "Le personnage est à la limite de l'évanouissement." },
+      { "niveau": 5, "label": "Évanouissement", "description": "Il perd connaissance." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage physiquement fort",
+        "description": "La faiblesse le stupéfie — son corps ne lui avait jamais fait ça. Il ne sait pas comment le recevoir."
+      },
+      {
+        "profil": "Personnage qui s'est surchargé",
+        "description": "La faiblesse est la limite que son corps lui imposait depuis longtemps. Elle arrive comme un ultimatum."
+      }
+    ],
+    "notesEditoriales": [
+      "La faiblesse soudaine crée un moment de vulnérabilité physique qui peut révéler des états émotionnels ou relationnels.",
+      "Elle oblige le personnage à s'arrêter — et ceux autour de lui à réagir."
+    ]
+  },
+  {
+    "id": "satiete",
+    "label": "Satiété",
+    "groupe": "besoins-vitaux",
+    "definitionCourte": "État de plénitude physique après un repas — sensation d'avoir mangé à satiété, qui peut aller du bien-être tranquille à l'inconfort de trop.",
+    "signesPhysiques": [
+      "mouvements plus lents et plus mesurés",
+      "posture qui cherche un appui ou un relâchement",
+      "soupir de contentement possible",
+      "déplacement de la main vers l'estomac",
+      "bâillement possible dans la phase de digestion",
+      "visage détendu et légèrement flou",
+      "yeux légèrement plus fermés"
+    ],
+    "sensationsInternes": [
+      "plénitude douce dans l'estomac",
+      "chaleur diffuse dans l'abdomen",
+      "contraction légère si on a trop mangé",
+      "satisfaction biologique simple et complète",
+      "énergie légèrement redirigée vers la digestion",
+      "lourdeur agréable si à la bonne mesure — oppressive sinon"
+    ],
+    "effetsSurPerception": [
+      "le monde semble légèrement plus doux et moins urgent",
+      "les sujets difficiles paraissent moins pressants",
+      "les sens sont légèrement émoussés dans la phase de digestion active",
+      "les odeurs de nourriture perdent leur pouvoir d'attraction"
+    ],
+    "effetsVoixLangage": [
+      "voix plus posée et plus détendue",
+      "débit légèrement ralenti",
+      "conversation plus facile sur les sujets simples",
+      "difficulté à se concentrer sur des discussions complexes"
+    ],
+    "pensees": [
+      "C'était bien.",
+      "Je n'aurais peut-être pas dû reprendre.",
+      "Je ne pourrais plus rien avaler.",
+      "Quelqu'un a bien cuisiné.",
+      "Maintenant je pourrais dormir.",
+      "Je me sens bien."
+    ],
+    "comportements": [
+      "s'appuie en arrière ou s'allonge si possible",
+      "laisse la conversation dériver vers des sujets légers",
+      "repousse toute activité intense",
+      "peut s'endormir brièvement",
+      "parle plus du repas qu'autre chose"
+    ],
+    "masquesPossibles": [
+      "nier qu'on a trop mangé",
+      "continuer à manger par politesse malgré la satiété"
+    ],
+    "evolutionsPossibles": [
+      "torpeur post-prandiale",
+      "malaise si on a vraiment trop mangé",
+      "bien-être durable si la satiété était juste",
+      "culpabilité chez certains personnages"
+    ],
+    "contextesAggravants": [
+      "repas très riche ou très copieux",
+      "chaleur ambiante",
+      "alcool"
+    ],
+    "contextesAttenuants": [
+      "quantité raisonnable",
+      "repas partagé dans un contexte agréable",
+      "marche légère après"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère satisfaction", "description": "Repas raisonnable. Le personnage est rassasié sans lourdeur." },
+      { "niveau": 2, "label": "Satiété confortable", "description": "Il a bien mangé. Un peu lourd mais agréable." },
+      { "niveau": 3, "label": "Satiété pleine", "description": "Il ne pourrait plus rien avaler. La digestion commence." },
+      { "niveau": 4, "label": "Trop-plein", "description": "Il a trop mangé. Inconfort réel. Regrets possibles." },
+      { "niveau": 5, "label": "Malaise digestif", "description": "La quantité était excessive. Nausée et malaise." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui mange rarement à sa faim",
+        "description": "La satiété est un luxe. Il la savoure avec une conscience que d'autres n'ont pas. Elle peut réveiller de la gratitude ou du soulagement."
+      },
+      {
+        "profil": "Personnage avec une relation difficile à la nourriture",
+        "description": "La satiété déclenche une surveillance intérieure. Était-ce trop ? Il ne peut pas juste manger — il comptabilise."
+      }
+    ],
+    "notesEditoriales": [
+      "La satiété dans une scène signale un contexte de paix ou d'abondance — à contraster avec les scènes de privation.",
+      "Elle peut être le moment narratif pour des confidences — le repas partagé comme entrée en matière."
+    ]
+  },
+  {
+    "id": "courbatures",
+    "label": "Courbatures",
+    "groupe": "douleur",
+    "definitionCourte": "Douleurs musculaires diffuses apparaissant le lendemain ou le surlendemain d'un effort physique inhabituel — rappel du corps que quelque chose a été demandé et que la note est à payer.",
+    "signesPhysiques": [
+      "mouvements plus précautionneux que d'habitude",
+      "grimace légère aux premières sollicitations des muscles",
+      "posture adaptée pour économiser les zones douloureuses",
+      "gestes lents pour descendre un escalier ou se lever",
+      "étirements fréquents pour soulager",
+      "massage des cuisses ou des épaules",
+      "démarche légèrement raidie"
+    ],
+    "sensationsInternes": [
+      "douleur diffuse dans les muscles sollicités",
+      "sensation que les fibres musculaires résistent à l'utilisation",
+      "raideur qui s'atténue légèrement avec l'échauffement",
+      "corps qui se plaint dès que sollicité",
+      "fatigue de fond associée",
+      "conscience inhabituelle de muscles dont on n'a pas l'habitude"
+    ],
+    "effetsSurPerception": [
+      "chaque escalier est une information",
+      "les efforts à venir paraissent plus intimidants",
+      "le corps est présent dans la conscience de façon inhabituelle"
+    ],
+    "effetsVoixLangage": [
+      "commentaires spontanés sur l'état du corps",
+      "ton légèrement plaintif ou humoristique",
+      "ralentissement général"
+    ],
+    "pensees": [
+      "J'avais oublié que j'avais ces muscles-là.",
+      "C'est la preuve que j'ai travaillé.",
+      "Je ne referai pas ça de sitôt.",
+      "Si j'avais fait plus d'étirements...",
+      "Ça devrait aller mieux demain.",
+      "Mon corps me rappelle que je ne suis plus tout jeune."
+    ],
+    "comportements": [
+      "évite les escaliers si possible",
+      "prend plus de temps pour tous les mouvements",
+      "cherche la chaleur — bain chaud, coussin",
+      "annonce les courbatures aux autres",
+      "accepte les massages proposés",
+      "peut annuler une activité sportive prévue"
+    ],
+    "masquesPossibles": [
+      "minimiser devant les autres pour ne pas paraître faible",
+      "continuer à marcher normalement malgré la douleur"
+    ],
+    "evolutionsPossibles": [
+      "disparition en un à deux jours",
+      "soulagement par le mouvement progressif",
+      "aggravation si on force au lieu d'attendre",
+      "fierté si elles sont la preuve d'un effort accompli"
+    ],
+    "contextesAggravants": [
+      "effort intense après une longue période de sédentarité",
+      "froid",
+      "manque d'hydratation"
+    ],
+    "contextesAttenuants": [
+      "bain ou douche chaude",
+      "étirements progressifs",
+      "temps"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légères courbatures", "description": "On le sent mais ça ne gêne pas vraiment." },
+      { "niveau": 2, "label": "Courbatures sensibles", "description": "Le corps proteste à chaque sollicitation des zones concernées." },
+      { "niveau": 3, "label": "Courbatures marquées", "description": "Les mouvements sont adaptés. Les escaliers sont une épreuve." },
+      { "niveau": 4, "label": "Courbatures intenses", "description": "Se lever est douloureux. Chaque mouvement doit être économisé." },
+      { "niveau": 5, "label": "Douleurs musculaires sévères", "description": "Fonctionnement très limité. Le moindre geste est coûteux." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Sportif régulier",
+        "description": "Les courbatures sont un signal connu et presque rassurant. Il sait qu'elles passent. Il a ses rituels pour les gérer."
+      },
+      {
+        "profil": "Personnage peu sportif après un effort exceptionnel",
+        "description": "Les courbatures le surprennent par leur intensité. Son corps lui envoie une facture à laquelle il ne s'attendait pas."
+      },
+      {
+        "profil": "Personnage vieillissant",
+        "description": "Les courbatures durent plus longtemps qu'avant. Elles lui rappellent que son corps a changé — information qu'il reçoit avec résistance."
+      }
+    ],
+    "notesEditoriales": [
+      "Les courbatures ancrent le lendemain d'un événement physique intense — utiles pour les scènes post-effort, post-fuite ou post-combat.",
+      "Elles révèlent que le corps a une mémoire propre, indépendante de la volonté du personnage."
+    ]
+  }
+]

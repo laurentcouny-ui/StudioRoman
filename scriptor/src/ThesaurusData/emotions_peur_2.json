@@ -1,0 +1,385 @@
+[
+  {
+    "id": "anxiete",
+    "label": "Anxiété",
+    "alias": [
+      "anxiété",
+      "angoisse diffuse",
+      "inquiétude chronique",
+      "tension nerveuse",
+      "stress",
+      "appréhension permanente",
+      "malaise diffus",
+      "état d'alerte fond",
+      "nervosité de fond",
+      "anxiété généralisée"
+    ],
+    "famille": "peur-danger",
+    "definitionCourte": "État de tension intérieure persistante sans objet précis ou sans menace immédiate identifiable, qui maintient le personnage dans une vigilance épuisante et diffuse.",
+    "signesPhysiques": [
+      "mâchoire légèrement serrée, même au repos",
+      "épaules contractées en permanence",
+      "respiration courte et superficielle",
+      "mains qui s'agitent, tripotent un objet, se frottent",
+      "regard qui balaye l'espace sans s'arrêter",
+      "jambes qui bougent, pied qui tape au sol",
+      "sourcils légèrement froncés en continu",
+      "clignement des yeux plus fréquent",
+      "déglutition régulière sans raison apparente",
+      "ongles rongés ou cuticules arrachées"
+    ],
+    "sensationsInternes": [
+      "boule persistante dans la gorge ou le ventre",
+      "tension musculaire de fond difficile à localiser",
+      "cœur légèrement accéléré sans effort physique",
+      "impression que quelque chose va mal tourner",
+      "incapacité à se détendre vraiment même dans le calme",
+      "esprit qui tourne en boucle sur des scénarios négatifs",
+      "fatigue liée à la vigilance constante",
+      "sensation d'être à la limite sans jamais franchir le seuil"
+    ],
+    "pensees": [
+      "Et si ça tourne mal ?",
+      "Je n'aurais pas dû laisser passer ça.",
+      "Quelque chose va finir par arriver.",
+      "Est-ce que j'ai bien fermé ? Bien dit ? Bien fait ?",
+      "Je ne peux pas m'empêcher d'y repenser.",
+      "Ça va aller — mais peut-être pas.",
+      "Je suis fatigué d'avoir peur sans savoir de quoi.",
+      "Si je m'arrête de surveiller, il va se passer quelque chose."
+    ],
+    "effetsVoixLangage": [
+      "voix légèrement tendue, plus haute que d'habitude",
+      "débit accéléré par poussées",
+      "questions répétées pour confirmer",
+      "formulations prudentes, beaucoup de « peut-être »",
+      "tendance à couper ses propres phrases",
+      "silences remplis de bruits parasites (raclement, souffle)",
+      "reformulations fréquentes comme pour mieux contrôler"
+    ],
+    "comportements": [
+      "vérifie plusieurs fois ce qu'il vient de faire",
+      "anticipe les problèmes avant qu'ils existent",
+      "prépare des plans de secours pour des situations improbables",
+      "évite certains sujets de conversation par précaution",
+      "cherche des confirmations ou de la réassurance",
+      "relit, retouche, revérifie ses propres productions",
+      "supporte mal l'incertitude sur des détails mineurs",
+      "se lève la nuit pour vérifier quelque chose",
+      "peine à déléguer par peur que ça soit mal fait",
+      "catalogue mentalement tout ce qui pourrait aller de travers"
+    ],
+    "masquesPossibles": [
+      "efficacité et organisation extrêmes",
+      "humour léger et désinvolte",
+      "stoïcisme affiché",
+      "hyperactivité volontaire",
+      "contrôle minutieux présenté comme de la rigueur"
+    ],
+    "evolutionsPossibles": [
+      "panique si la menace se concrétise enfin",
+      "épuisement nerveux par accumulation",
+      "trouble obsessionnel si les rituels de vérification s'intensifient",
+      "soulagement bref suivi d'un nouvel objet d'anxiété",
+      "apaisement progressif si le personnage trouve un ancrage stable"
+    ],
+    "contextesAggravants": [
+      "incertitude prolongée sans réponse",
+      "multiplication de décisions importantes simultanées",
+      "isolement ou manque de soutien",
+      "passé de traumatismes non résolus",
+      "environnement imprévisible ou chaotique"
+    ],
+    "contextesAttenuants": [
+      "routine stable et prévisible",
+      "présence d'un interlocuteur calme et rassurant",
+      "action concrète possible sur la source d'inquiétude",
+      "épuisement qui force enfin le repos"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère inquiétude", "description": "Préoccupation légère en fond de pensée. Le personnage fonctionne normalement, avec un léger manque d'entrain." },
+      { "niveau": 2, "label": "Tension de fond", "description": "Le personnage est un peu plus tendu, un peu moins disponible. Il vérifie plus qu'il ne devrait." },
+      { "niveau": 3, "label": "Anxiété marquée", "description": "La vigilance envahit les conversations, les décisions, le sommeil. Le personnage commence à fonctionner en mode défensif." },
+      { "niveau": 4, "label": "Anxiété invalidante", "description": "La peur occupe tellement de ressources mentales que le personnage peine à se concentrer, à décider, à se détendre." },
+      { "niveau": 5, "label": "Crise d'angoisse", "description": "Le corps entre en alerte maximale : souffle court, cœur emballé, certitude d'un danger imminent sans cause identifiable." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage perfectionniste",
+        "description": "L'anxiété se cache derrière la rigueur. Il vérifie, relit, anticipe — et présente ça comme de la compétence. La peur de se tromper est plus forte que la peur de l'échec lui-même."
+      },
+      {
+        "profil": "Parent protecteur",
+        "description": "L'anxiété est entièrement projetée sur l'autre. Chaque silence de l'enfant, chaque retard de réponse est un signal possible. Il se sacrifie pour ne pas manquer ce qui pourrait arriver."
+      },
+      {
+        "profil": "Personnage ayant survécu à un trauma",
+        "description": "L'anxiété a un objet précis même si cet objet n'existe plus. Le corps continue de surveiller une menace passée comme si elle était présente. Le déclencheur peut être imperceptible pour les autres."
+      }
+    ],
+    "notesEditoriales": [
+      "L'anxiété se distingue de la peur par l'absence d'objet précis et sa durée : elle est un état, pas une réaction.",
+      "Éviter de la rendre uniquement sympathique — elle peut rendre un personnage épuisant pour ceux qui l'entourent.",
+      "Son signe le plus narrativement utile est ce qu'elle fait faire (vérifier, anticiper, éviter) plus que ce qu'elle fait ressentir.",
+      "L'anxiété peut coexister avec la fonctionnalité : un personnage très anxieux peut être très efficace — jusqu'au point de rupture."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "panique" },
+      { "type": "peut_evoluer_en", "cible": "epuisement-nerveux" },
+      { "type": "souvent_associe_a", "cible": "insomnie" },
+      { "type": "peut_masquer", "cible": "traumatisme-non-resolu" },
+      { "type": "peut_declencher", "cible": "comportements-de-controle" },
+      { "type": "peut_suivre", "cible": "choc-ou-trauma" }
+    ]
+  },
+  {
+    "id": "peur-sourde",
+    "label": "Peur sourde",
+    "alias": [
+      "peur sourde",
+      "pressentiment",
+      "inquiétude instinctive",
+      "malaise inexpliqué",
+      "sensation de danger diffus",
+      "mauvais pressentiment",
+      "peur de fond",
+      "peur enfouie",
+      "vigilance intuitive",
+      "sensation que quelque chose cloche"
+    ],
+    "famille": "peur-danger",
+    "definitionCourte": "Forme de peur basse, persistante et difficile à nommer, souvent liée à un pressentiment ou à une lecture intuitive d'un danger que la raison n'a pas encore formalisé.",
+    "signesPhysiques": [
+      "regard qui revient régulièrement sur un détail sans qu'on sache pourquoi",
+      "léger raidissement du dos ou de la nuque",
+      "pause imperceptible avant de répondre à une question anodine",
+      "sourire moins spontané, légèrement trop appliqué",
+      "respiration légèrement retenue sans s'en rendre compte",
+      "mains qui s'immobilisent sur un geste",
+      "oreille tendue à des sons qui ne devraient pas déranger",
+      "regard latéral, comme pour confirmer que tout est normal"
+    ],
+    "sensationsInternes": [
+      "impression floue que quelque chose ne va pas, sans pouvoir le formuler",
+      "légère tension dans les cervicales ou entre les omoplates",
+      "sensation d'être légèrement en décalage avec la scène",
+      "estomac qui se resserre sans raison évidente",
+      "impression de manquer une information importante",
+      "frisson court et bref qui ne s'explique pas",
+      "attention qui refuse de se poser complètement sur l'activité en cours"
+    ],
+    "pensees": [
+      "Quelque chose ne va pas mais je ne sais pas quoi.",
+      "J'aurais dû faire plus attention tout à l'heure.",
+      "Ce n'est probablement rien — mais j'en suis moins sûr qu'avant.",
+      "Pourquoi je n'arrive pas à me détendre là ?",
+      "Est-ce que j'ai raté quelque chose ?",
+      "Mon instinct me dit que je devrais partir.",
+      "Je surveille depuis tout à l'heure et je ne sais même pas quoi.",
+      "Peut-être que c'est moi qui me fais des films."
+    ],
+    "effetsVoixLangage": [
+      "réponses légèrement en retard, comme si l'attention était ailleurs",
+      "ton plus plat que d'habitude, moins modulé",
+      "tendance à abréger les échanges",
+      "formulations plus courtes, moins développées",
+      "regarder autour de soi en milieu de phrase",
+      "reprendre une phrase qu'on croyait close"
+    ],
+    "comportements": [
+      "regarde autour de lui sans en avoir l'air",
+      "ralentit le pas dans un couloir ou une pièce",
+      "repousse une décision qu'il aurait normalement prise vite",
+      "reste à portée d'une sortie",
+      "retourne sur ses pas pour vérifier quelque chose",
+      "observe les autres sans les interpeller",
+      "garde une partie de son attention en retrait de la conversation",
+      "évite de s'exposer davantage tant qu'il n'a pas compris"
+    ],
+    "masquesPossibles": [
+      "distraction apparente",
+      "légèreté forcée pour ne pas alarmer l'entourage",
+      "humour qui couvre la vigilance",
+      "fausse décontraction physique"
+    ],
+    "evolutionsPossibles": [
+      "peur claire quand le danger se confirme",
+      "soulagement si le pressentiment était faux",
+      "regret durable si le pressentiment était juste et ignoré",
+      "paranoïa légère si la peur sourde dure trop longtemps sans résolution"
+    ],
+    "contextesAggravants": [
+      "lieu mal éclairé ou dont la géographie est mal connue",
+      "situation sociale où on ne peut pas s'extraire facilement",
+      "passé d'expériences où l'instinct avait raison",
+      "fatigue qui affaiblit la rationalisation",
+      "présence d'un personnage dont le comportement est légèrement décalé"
+    ],
+    "contextesAttenuants": [
+      "confirmation que tout est normal par une source fiable",
+      "compréhension de l'origine du malaise",
+      "possibilité d'agir sur la source perçue",
+      "présence rassurante d'un personnage connu"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère gêne", "description": "Le personnage remarque à peine quelque chose. Une légère attention en plus, pas plus." },
+      { "niveau": 2, "label": "Malaise diffus", "description": "L'environnement semble légèrement faux sans qu'on puisse dire pourquoi. Le personnage reste vigilant passivement." },
+      { "niveau": 3, "label": "Pressentiment clair", "description": "La peur sourde est consciente. Le personnage sait qu'il surveille, sans savoir quoi." },
+      { "niveau": 4, "label": "Certitude instinctive", "description": "Le corps est convaincu d'un danger que la raison ne confirme pas encore. Chaque détail est interprété comme un signal." },
+      { "niveau": 5, "label": "Alerte totale", "description": "L'instinct a pris le dessus. Le personnage est prêt à fuir ou à agir avant même d'avoir formulé le danger." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage avec expérience du danger",
+        "description": "La peur sourde est une donnée professionnelle, presque technique. Il ne l'analyse pas, il agit dessus. La pause avant de franchir une porte n'est pas de la peur — c'est du protocole intégré."
+      },
+      {
+        "profil": "Personnage intuitif ou empathique",
+        "description": "Lit les micro-expressions, les tonalités, les silences. La peur sourde naît d'un décalage perçu chez l'autre : ce sourire qui n'allait pas avec les yeux, cette réponse trop rapide."
+      },
+      {
+        "profil": "Personnage rationnel",
+        "description": "Lutte contre le pressentiment parce qu'il ne peut pas le justifier. Cherche une explication logique pendant que la peur sourde grossit. Risque de rationaliser trop longtemps."
+      }
+    ],
+    "notesEditoriales": [
+      "La peur sourde est plus efficace en scène quand elle précède la révélation d'un danger réel — elle crée une tension avant l'événement.",
+      "Elle est aussi utile pour montrer ce qu'un personnage sait sans le savoir encore.",
+      "À ne pas confondre avec l'anxiété (qui n'a pas d'objet) : la peur sourde pointe vers quelque chose, même vaguement.",
+      "Son principal intérêt narratif est l'écart entre ce que le lecteur pressent et ce que le personnage consent à admettre."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "peur" },
+      { "type": "peut_evoluer_en", "cible": "terreur" },
+      { "type": "souvent_associe_a", "cible": "vigilance" },
+      { "type": "peut_preceder", "cible": "revelation-d-un-danger" },
+      { "type": "peut_masquer", "cible": "traumatisme-reactif" },
+      { "type": "souvent_associe_a", "cible": "pressentiment-narratif" }
+    ]
+  },
+  {
+    "id": "apprehension",
+    "label": "Appréhension",
+    "alias": [
+      "appréhension",
+      "redoute",
+      "crainte anticipatoire",
+      "peur de ce qui vient",
+      "anticipation négative",
+      "trac",
+      "inquiétude face à l'avenir",
+      "peur du lendemain",
+      "tension avant l'épreuve",
+      "peur de ce qu'on va trouver"
+    ],
+    "famille": "peur-danger",
+    "definitionCourte": "Peur orientée vers l'avenir proche, liée à un événement identifiable qui approche et dont l'issue est incertaine ou redoutée. Elle diffère de l'anxiété par son objet précis.",
+    "signesPhysiques": [
+      "ventre creusé à la seule évocation de l'échéance",
+      "agitation des mains ou des pieds en attendant",
+      "regard qui revient souvent sur l'heure ou la porte",
+      "corps légèrement tendu comme avant un effort",
+      "teint légèrement plus pâle ou au contraire légèrement rougi",
+      "soupirs plus fréquents, surtout pendant une pause",
+      "clignements des yeux un peu trop fréquents",
+      "bouche légèrement sèche, déglutition répétée"
+    ],
+    "sensationsInternes": [
+      "ventre contracté de façon intermittente",
+      "tension dans le thorax comme s'il fallait s'y préparer",
+      "légère nausée sans cause physique",
+      "difficulté à être pleinement dans le moment présent",
+      "esprit qui projette sans cesse l'événement à venir",
+      "sensation de temps qui se raccourcit malgré soi",
+      "impression que le corps se prépare à quelque chose qu'il redoute"
+    ],
+    "pensees": [
+      "Encore combien de temps ?",
+      "Et si ça se passe mal ?",
+      "Je n'aurais pas dû accepter.",
+      "Je ne suis pas prêt.",
+      "Peut-être que j'exagère — ou peut-être pas.",
+      "Comment je vais réagir si ça tourne mal ?",
+      "J'aimerais que ce soit déjà derrière moi.",
+      "Est-ce que j'ai tout prévu ce que je pouvais prévoir ?"
+    ],
+    "effetsVoixLangage": [
+      "ton légèrement tendu, légèrement plus aigu",
+      "phrases plus courtes que d'habitude",
+      "retour fréquent sur le sujet redouté même quand on en parle d'autre chose",
+      "rires nerveux à des moments inattendus",
+      "tendance à chercher des confirmations ou de la réassurance",
+      "silence brusque quand quelqu'un mentionne l'échéance"
+    ],
+    "comportements": [
+      "prépare et reprépare ce qu'il va faire ou dire",
+      "cherche des informations pour réduire l'incertitude",
+      "évite de penser à autre chose — ou cherche frénétiquement à le faire",
+      "demande conseil à plusieurs personnes",
+      "se lève ou bouge pour évacuer la tension",
+      "repousse des tâches annexes qui demandent de la concentration",
+      "compte les heures ou les jours",
+      "a du mal à rire franchement jusqu'à ce que l'événement soit passé"
+    ],
+    "masquesPossibles": [
+      "optimisme affiché",
+      "dédramatisation verbale",
+      "activité intense pour ne pas penser",
+      "cynisme léger face à l'événement redouté"
+    ],
+    "evolutionsPossibles": [
+      "soulagement intense si l'issue est favorable",
+      "peur franche si l'événement se passe mal",
+      "résignation si l'attente est trop longue",
+      "confiance retrouvée si le personnage s'est bien préparé et l'assume"
+    ],
+    "contextesAggravants": [
+      "enjeu perçu comme très élevé",
+      "expériences passées négatives liées à des événements similaires",
+      "peu de contrôle sur le déroulement de l'événement",
+      "isolement avant l'échéance",
+      "attente longue sans activité possible"
+    ],
+    "contextesAttenuants": [
+      "préparation sérieuse qui donne un sentiment de maîtrise",
+      "présence d'un allié ou d'un soutien",
+      "rappel de réussites passées similaires",
+      "possibilité d'agir concrètement dans l'attente"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère réticence", "description": "Le personnage préférerait que l'événement n'ait pas lieu mais s'en accommode. Légère tension en fond." },
+      { "niveau": 2, "label": "Appréhension sensible", "description": "Le personnage y pense régulièrement. Sa concentration en pâtit légèrement." },
+      { "niveau": 3, "label": "Crainte franche", "description": "L'appréhension occupe une part importante de l'espace mental. Le sommeil est plus agité à l'approche." },
+      { "niveau": 4, "label": "Redoute forte", "description": "Le personnage anticipe intensément le pire. Les préparatifs deviennent frénétiques ou au contraire paralysés." },
+      { "niveau": 5, "label": "Terreur anticipatoire", "description": "Le personnage est presque incapable de fonctionner tant l'événement à venir envahit tout. Il vit déjà la catastrophe avant qu'elle se produise." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage compétiteur",
+        "description": "L'appréhension est connue, domestiquée, presque rituelle. Elle fait partie de la préparation. Il ne la cache pas — il l'utilise comme carburant. La peur de perdre est motrice."
+      },
+      {
+        "profil": "Personnage peu confiant",
+        "description": "L'appréhension confirme ce qu'il croit déjà de lui-même : qu'il va échouer. Elle grossit les obstacles et minimise ses ressources. Se préparer est difficile parce que ça ne sert à rien de toute façon."
+      },
+      {
+        "profil": "Personnage expérimenté face à une situation nouvelle",
+        "description": "L'appréhension est déroutante précisément parce qu'il y est peu habitué. Il n'a pas de routine pour la gérer. Elle le rend moins sûr de lui que dans ses domaines de maîtrise."
+      }
+    ],
+    "notesEditoriales": [
+      "L'appréhension crée une tension narrative sans action : utile dans les scènes d'attente.",
+      "Sa résolution (dans un sens ou dans l'autre) est un point de bascule naturel pour une scène.",
+      "À distinguer de la peur sourde (objet flou) et de l'anxiété (absence d'objet) : l'appréhension sait ce qu'elle attend.",
+      "Un personnage qui appréhende et qui agit quand même est plus intéressant qu'un personnage sans peur."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "peur" },
+      { "type": "peut_evoluer_en", "cible": "soulagement" },
+      { "type": "peut_evoluer_en", "cible": "resignation" },
+      { "type": "souvent_associe_a", "cible": "insomnie-de-veille" },
+      { "type": "peut_masquer", "cible": "manque-de-confiance" },
+      { "type": "souvent_associe_a", "cible": "anticipation-negative" }
+    ]
+  }
+]

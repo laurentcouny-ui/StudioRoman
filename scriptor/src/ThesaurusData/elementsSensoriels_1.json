@@ -1,0 +1,562 @@
+[
+  {
+    "id": "odeur-renferme",
+    "label": "Odeur de renfermé",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur stagnante d'air non renouvelé, associée aux espaces clos, abandonnés ou longtemps fermés. Elle précède le regard et installe une atmosphère avant même que le personnage ait examiné la pièce.",
+    "qualite": "Lourde, épaisse, légèrement âcre — une odeur qui colle à la gorge et donne l'impression que le temps lui-même s'est déposé sur les surfaces.",
+    "associationsNarratives": [
+      "maison longtemps inoccupée après un décès",
+      "chambre d'adolescent transformée en lieu de pèlerinage par les parents",
+      "cave ou grenier où des objets ont été oubliés pendant des années",
+      "chambre d'hôtel bon marché aux volets fermés",
+      "pièce secrète découverte derrière une cloison ou une bibliothèque",
+      "appartement d'une personne âgée qui ne sort plus",
+      "voiture restée des semaines dans un parking souterrain",
+      "débarras d'une maison que l'on vide après une succession"
+    ],
+    "emotionsAssociees": [
+      "mélancolie douce-amère",
+      "malaise diffus et inexplicable",
+      "sentiment d'intrusion",
+      "nostalgie pesante",
+      "solitude durable",
+      "peur sourde avant de comprendre pourquoi"
+    ],
+    "memoires": [
+      "odeur de la maison de grands-parents disparue depuis",
+      "souvenir d'un endroit interdit dans l'enfance",
+      "première fois dans la chambre d'un absent que l'on aimait",
+      "lieu d'un secret longtemps gardé"
+    ],
+    "usagesTypiques": [
+      "signaler qu'un lieu est resté figé dans le temps sans l'énoncer directement",
+      "créer une sensation d'oppression avant même la description visuelle",
+      "ancrer un souvenir d'enfance difficile ou mélancolique",
+      "préparer une révélation : quelque chose a été caché ici",
+      "installer la présence d'un absent — celui qui habitait là n'est plus",
+      "ouvrir une scène d'enquête ou d'exploration sans dialogue"
+    ],
+    "contraires": [
+      "odeur-air-frais-matin",
+      "odeur-pluie-terre",
+      "odeur-propre-linge-sèche-vent"
+    ],
+    "combinaisons": [
+      "avec lumière-neon-froid : enfermement total, lieu institutionnel ou carcéral",
+      "avec son-silence-nuit : abandon absolu, lieu où personne n'est venu depuis longtemps",
+      "avec texture-vieux-papier : archives, chambre d'écrivain, passé intellectuel figé",
+      "avec froid-metal : cave, abri, lieu où l'on cache ou où l'on se cache"
+    ],
+    "notesEditoriales": [
+      "Très puissant en ouverture de scène : l'odeur arrive avant le regard, avant l'évaluation consciente — utiliser en premier plan narratif.",
+      "Cliché si utilisé seul — à combiner avec un détail visuel ou sonore précis pour lui donner une identité unique.",
+      "Permet de différer la description visuelle : le personnage sent avant de voir, ce qui crée une anticipation.",
+      "Éviter de l'associer systématiquement à la mort — elle peut aussi évoquer la préservation, la résistance du passé."
+    ]
+  },
+  {
+    "id": "odeur-pluie-terre",
+    "label": "Odeur de pluie sur terre sèche",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur minérale et végétale libérée par les premières gouttes de pluie tombant sur un sol asséché — appelée pétrichor. Immédiatement reconnaissable, chargée d'un soulagement presque physique.",
+    "qualite": "Fraîche, terreuse, légèrement métallique — une odeur qui monte du sol plutôt que de descendre du ciel, comme si la terre elle-même respirait enfin.",
+    "associationsNarratives": [
+      "été brûlant qui se brise enfin",
+      "jardin après des semaines de sécheresse",
+      "route de campagne au premier orage",
+      "retour au pays natal après une longue absence",
+      "moment de répit après une tension prolongée",
+      "terrain de jeu d'enfance en été",
+      "fin d'une période d'attente ou d'incertitude",
+      "prise de conscience après une longue sécheresse intérieure du personnage"
+    ],
+    "emotionsAssociees": [
+      "soulagement profond et presque physique",
+      "nostalgie heureuse",
+      "espoir renouvelé",
+      "sentiment de recommencement",
+      "joie simple et immédiate",
+      "mélancolie douce liée à un souvenir précis"
+    ],
+    "memoires": [
+      "étés d'enfance dans un lieu aimé",
+      "moment de libération après une épreuve",
+      "souvenir olfactif lié à une personne disparue",
+      "première pluie après un long voyage en pays chaud"
+    ],
+    "usagesTypiques": [
+      "marquer un tournant narratif : quelque chose se dénoue, une tension tombe",
+      "créer un contraste avec un état intérieur de sécheresse ou d'épuisement",
+      "ancrer un souvenir d'enfance heureux dans une scène difficile",
+      "signifier un retour — au pays, à soi-même, à une relation",
+      "ouvrir une scène de réconciliation ou de résolution",
+      "donner au lecteur un moment de respiration dans une scène dense"
+    ],
+    "contraires": [
+      "odeur-renferme",
+      "odeur-hopital",
+      "chaleur-seche-canicule"
+    ],
+    "combinaisons": [
+      "avec son-pluie-fenetre : dedans/dehors, protection et mélancolie simultanées",
+      "avec lumiere-fin-journee : beauté fragile, moment suspendu avant la nuit",
+      "avec chaleur-soleil-peau juste avant : transition brutale, rupture climatique et émotionnelle",
+      "avec texture-tissu-use : mémoire sensorielle d'une enfance modeste mais aimée"
+    ],
+    "notesEditoriales": [
+      "L'une des odeurs les plus universellement reconnues — son pouvoir mémoriel est immédiat, mais cela en fait aussi un risque de cliché sentimental.",
+      "Utiliser avec précision : préciser ce que cette odeur déclenche chez ce personnage précis plutôt que de compter sur la résonance universelle.",
+      "Puissante en fin de scène difficile : elle peut clore un passage sans dialogue, uniquement par le sens.",
+      "Différente de l'odeur de pluie sur asphalte chaud — qui, elle, évoque la ville et un soulagement plus urbain, moins archaïque."
+    ]
+  },
+  {
+    "id": "odeur-hopital",
+    "label": "Odeur d'hôpital",
+    "categorie": "olfactif",
+    "definitionCourte": "Mélange de désinfectant, d'air conditionné et d'une légère note organique que l'on ne parvient pas à identifier clairement. Une odeur fonctionnelle qui efface les odeurs humaines et installe l'impersonnel.",
+    "qualite": "Neutre en surface, mais chargée en dessous — une neutralité qui n'est pas l'absence d'odeur mais sa suppression active, ce qui la rend plus troublante encore.",
+    "associationsNarratives": [
+      "salle d'attente des urgences un soir de semaine",
+      "couloir menant à une chambre de soins intensifs",
+      "nuit blanche passée à attendre des nouvelles",
+      "visite à un proche qui ne se relèvera peut-être pas",
+      "retour après une opération — le soulagement et la peur mêlés",
+      "couloir d'une maternité, entre naissance et anxiété",
+      "moment où la vie reprend ses droits sur la mort ou inversement",
+      "lieu de suspension : ni chez soi ni ailleurs, dans l'attente pure"
+    ],
+    "emotionsAssociees": [
+      "anxiété sourde et durable",
+      "sentiment d'impuissance totale",
+      "peur que l'on essaie de rationaliser",
+      "impression d'être hors du monde ordinaire",
+      "gratitude froide pour ceux qui font ce travail",
+      "culpabilité de celui qui attend en bonne santé"
+    ],
+    "memoires": [
+      "mort d'un proche annoncée dans ce type de couloir",
+      "naissance d'un enfant ou d'un frère ou d'une sœur",
+      "propre hospitalisation passée",
+      "nuit passée sur une chaise à côté d'un lit de malade"
+    ],
+    "usagesTypiques": [
+      "ancrer immédiatement une scène dans la gravité sans l'énoncer",
+      "créer une distance émotionnelle : ce lieu déshumanise volontairement",
+      "signifier l'intrusion de la réalité dans une vie ordinaire",
+      "accompagner un personnage qui dissimule sa peur derrière le pragmatisme",
+      "opposer la froideur du lieu à la chaleur du lien entre deux personnages",
+      "marquer le début ou la fin d'une période de crise dans la vie du personnage"
+    ],
+    "contraires": [
+      "odeur-pluie-terre",
+      "odeur-cuisine-maison",
+      "odeur-bois-feu"
+    ],
+    "combinaisons": [
+      "avec lumiere-neon-froid : hôpital de nuit, désorientation et vulnérabilité maximale",
+      "avec son-pas-couloir : attente tendue, approche de l'inconnu",
+      "avec froid-metal : poignée de porte, brancard — le corps confronté à la mécanique du soin",
+      "avec son-silence-nuit : nuit en réanimation, suspension du temps"
+    ],
+    "notesEditoriales": [
+      "L'odeur d'hôpital est souvent utilisée comme raccourci narratif — préciser ce qui la compose évite le stéréotype.",
+      "Elle fonctionne par contraste : ce qu'elle recouvre (odeurs humaines, organiques) est aussi important que ce qu'elle est.",
+      "Un personnage qui ne la remarque pas — médecin, infirmier habitué — dit quelque chose sur son rapport à la normalisation de la souffrance.",
+      "Peut être utilisée en mémoire involontaire : un personnage qui la retrouve hors contexte et en est saisi."
+    ]
+  },
+  {
+    "id": "odeur-brule",
+    "label": "Odeur de brûlé",
+    "categorie": "olfactif",
+    "definitionCourte": "Odeur acre et envahissante produite par la combustion de matières organiques ou synthétiques. Elle alerte avant même que la source soit identifiée, déclenchant une réponse primaire.",
+    "qualite": "Âcre, pénétrante, qui s'accroche aux vêtements et aux cheveux — une odeur qui persiste longtemps après la disparition de sa source, comme une trace que l'on n'arrive pas à effacer.",
+    "associationsNarratives": [
+      "incendie découvert trop tard",
+      "cuisine laissée sans surveillance dans un moment de distraction",
+      "ruines d'une maison après un sinistre",
+      "feu de camp dont on ne retrouve pas l'origine",
+      "électroménager qui rend l'âme dans un appartement vide",
+      "village ou quartier après une violence",
+      "tentation ou colère qui a dépassé toute mesure",
+      "signal d'alarme que l'on a ignoré ou qu'on ignore encore"
+    ],
+    "emotionsAssociees": [
+      "peur soudaine et animale",
+      "urgence immédiate",
+      "horreur si la source est humaine",
+      "culpabilité rétrospective",
+      "soulagement frôlé — quand le danger est passé",
+      "deuil de ce qui a été détruit"
+    ],
+    "memoires": [
+      "incendie vécu dans l'enfance ou l'adolescence",
+      "moment où l'on a cru qu'il était trop tard",
+      "perte d'un objet ou d'un lieu irremplaçable",
+      "souvenir d'un feu de camp — la version positive, la chaleur collective"
+    ],
+    "usagesTypiques": [
+      "déclencher une alarme narrative sans passage par le regard ou le bruit",
+      "signifier qu'une limite a été franchie — physiquement ou symboliquement",
+      "accompagner un personnage qui revient sur les lieux d'un sinistre",
+      "créer une tension avant que le danger soit visible",
+      "marquer la fin d'une période : ce qui brûle ne reviendra pas",
+      "introduire une révélation — quelqu'un a voulu effacer quelque chose"
+    ],
+    "contraires": [
+      "odeur-pluie-terre",
+      "odeur-air-frais-matin",
+      "odeur-propre-savon"
+    ],
+    "combinaisons": [
+      "avec son-silence-nuit : incendie nocturne découvert trop tard, horreur suspendue",
+      "avec lumiere-fin-journee : fumée dans un ciel de crépuscule, beauté et catastrophe simultanées",
+      "avec froid-metal : extincteur, gond de porte calcinée — la résistance des matières inorganiques",
+      "avec gout-sang : violence ou accident grave, surcharge sensorielle"
+    ],
+    "notesEditoriales": [
+      "L'odeur de brûlé est l'une des rares odeurs à déclencher une réponse instinctive avant toute analyse consciente — à exploiter comme signal narratif pur.",
+      "Différencier : bois brûlé (presque agréable, feu de cheminée), plastique brûlé (danger chimique, artificiel), chair brûlée (horreur). Chacune a un registre différent.",
+      "Peut être porteuse d'ambivalence : le feu détruit et réchauffe. L'odeur peut évoquer les deux selon le contexte.",
+      "Attention à la surenchère : l'odeur de brûlé dans un texte signale immédiatement le danger — ne pas la neutraliser par trop d'usage."
+    ]
+  },
+  {
+    "id": "son-silence-nuit",
+    "label": "Silence de la nuit",
+    "categorie": "auditif",
+    "definitionCourte": "Absence relative des sons diurnes, révélant des bruits qui restent habituellement inaudibles — grincements, ventilation, battements intérieurs. Un silence qui n'est jamais vraiment silencieux.",
+    "qualite": "Dense, habité, légèrement oppressant — un silence qui amplifie ce qui n'a pas été dit dans la journée et qui rend les sons résiduels étrangement présents.",
+    "associationsNarratives": [
+      "insomnie après une conversation difficile",
+      "veille d'une décision importante",
+      "maison endormie que l'on traverse sans faire de bruit",
+      "nuit après une dispute ou une rupture",
+      "chambre d'hôpital à trois heures du matin",
+      "solitude choisie ou subie dans un appartement vide",
+      "moment où l'on écoute ce que l'on n'entend pas — l'absence d'un enfant, d'un partenaire",
+      "avant l'aube, quand la décision est déjà prise"
+    ],
+    "emotionsAssociees": [
+      "anxiété de fond sans objet précis",
+      "solitude aiguë",
+      "hypervigilance nocturne",
+      "mélancolie douce ou pesante selon le contexte",
+      "paix rare et précieuse pour certains personnages",
+      "sentiment d'être le seul éveillé dans le monde"
+    ],
+    "memoires": [
+      "nuits d'insomnie liées à une période difficile",
+      "souvenir d'une nuit de garde ou de veille auprès d'un proche",
+      "enfance — les sons de la maison endormie qui rassuraient ou inquiétaient",
+      "première nuit seul après une séparation"
+    ],
+    "usagesTypiques": [
+      "installer un état intérieur de vigilance ou d'agitation sans le nommer",
+      "créer un espace de pensée intérieure : la nuit permet le monologue",
+      "signifier l'isolement d'un personnage au milieu d'un monde endormi",
+      "préparer une apparition, une intrusion, un retour",
+      "marquer le temps qui passe différemment — la nuit dilate",
+      "opposer le calme extérieur au chaos intérieur du personnage"
+    ],
+    "contraires": [
+      "bruit-foule-ville",
+      "son-vie-maison-active",
+      "son-pluie-fenetre"
+    ],
+    "combinaisons": [
+      "avec odeur-renferme : lieu abandonné de nuit, maximum d'oppression",
+      "avec lumiere-neon-froid : insomnie en milieu institutionnel ou urbain",
+      "avec son-pas-couloir : quelqu'un se déplace dans la nuit — tension, crainte ou espoir",
+      "avec froid-metal : nuit d'hiver, fenêtre entrouverte — corps vulnérable dans le silence"
+    ],
+    "notesEditoriales": [
+      "Le silence de la nuit n'est pas l'absence de sons mais leur transformation : les rendre sensibles.",
+      "Ce qui s'entend dans ce silence révèle l'état du personnage — le lecteur entend ce que le personnage redoute ou espère.",
+      "Éviter la description générique 'il régnait un silence total' — le silence nocturne a une texture, des composantes.",
+      "Puissant pour les scènes de décision intérieure : la nuit ôte les distractions et contraint à la vérité."
+    ]
+  },
+  {
+    "id": "son-pluie-fenetre",
+    "label": "Pluie contre une fenêtre",
+    "categorie": "auditif",
+    "definitionCourte": "Son rythmique et variable de la pluie frappant une vitre — du crépitement léger à la rafale dense. Il crée une frontière sonore entre l'intérieur protégé et l'extérieur hostile ou mélancolique.",
+    "qualite": "Rythmé mais irrégulier, tantôt doux et tantôt violent — un son qui hypnotise légèrement et qui installe une bulle de présent autour du personnage.",
+    "associationsNarratives": [
+      "après-midi d'automne dans une pièce chaude",
+      "nuit d'insomnie où le corps est enfin immobile",
+      "conversation intime à l'abri d'une intempérie",
+      "attente à la fenêtre — quelqu'un qui ne vient pas",
+      "travail solitaire — écriture, lecture, pensée",
+      "convalescence dans une chambre close",
+      "rupture passée dans le silence — la pluie couvre ce qu'on ne dit pas",
+      "enfance — regarder la pluie tomber quand on ne peut pas sortir jouer"
+    ],
+    "emotionsAssociees": [
+      "mélancolie douce et consentie",
+      "sentiment de sécurité relative — dedans contre dehors",
+      "solitude agréable ou pesante selon l'état du personnage",
+      "nostalgie sans objet précis",
+      "paix légère, souvent fragile",
+      "tristesse que l'on laisse venir sans résistance"
+    ],
+    "memoires": [
+      "après-midis d'enfance pluvieux, livres et odeur de laine mouillée",
+      "premières semaines d'une relation — rester ensemble sous la pluie",
+      "période de deuil où le temps semblait suspendu",
+      "travail de nuit ou d'écriture solitaire"
+    ],
+    "usagesTypiques": [
+      "créer une atmosphère de clôture douce sans fermeture dramatique",
+      "accompagner une scène de pensée intérieure ou de confidence",
+      "signifier le passage du temps sans le nommer — la pluie dure, le personnage reste",
+      "offrir un fond sonore neutre qui permet au dialogue de respirer",
+      "contraster avec une tension intérieure forte : dehors il pleut, dedans tout s'effondre",
+      "ancrer une scène dans une saison sans la décrire explicitement"
+    ],
+    "contraires": [
+      "son-silence-nuit",
+      "chaleur-soleil-peau",
+      "son-foule-ouverte"
+    ],
+    "combinaisons": [
+      "avec odeur-pluie-terre : la pluie déborde dans la pièce par les fenêtres entrouvertes",
+      "avec lumiere-fin-journee : fin d'après-midi pluvieux, lumière grise dorée — beauté mélancolique",
+      "avec texture-tissu-use : couverture, vieux canapé — refuge simple et imparfait",
+      "avec gout-alcool-premier-verre : soirée solitaire, consentement à la tristesse"
+    ],
+    "notesEditoriales": [
+      "L'un des sons les plus utilisés en fiction pour créer de la mélancolie — à utiliser avec un détail qui le rend singulier : le rythme change, une rafale brise la régularité.",
+      "Le son de la pluie isole le personnage dans le présent : il couvre les sons extérieurs et crée une bulle temporelle.",
+      "Différencier selon l'intensité : bruine légère (paix, lassitude douce) / averse franche (urgence, tension) / rafale (violence climatique, danger ou colère).",
+      "Peut devenir intrusif si le personnage tente de penser malgré lui — la régularité peut agacer autant qu'apaiser."
+    ]
+  },
+  {
+    "id": "son-pas-couloir",
+    "label": "Pas dans un couloir",
+    "categorie": "auditif",
+    "definitionCourte": "Son de pas se déplaçant dans un couloir — qu'ils s'approchent, s'éloignent ou s'arrêtent. Le bruit est identifiable mais la source reste invisible, ce qui en fait un signal d'attente ou de menace.",
+    "qualite": "Cadencé mais humain — le rythme des pas en dit autant que leur vitesse ou leur poids. Chaque variation (ralentissement, pause, accélération) charge le son d'une intention.",
+    "associationsNarratives": [
+      "couloir d'hôpital — approche d'un médecin porteur de nouvelles",
+      "couloir d'hôtel dans une scène de suspense",
+      "maison dans laquelle quelqu'un se déplace de nuit",
+      "école ou administration — attente d'une convocation",
+      "prison — le gardien qui fait sa ronde",
+      "appartement — le voisin dont on connaît le quotidien malgré soi",
+      "couloir familial — enfant ou parent qui hésite à entrer",
+      "scène d'intrusion ou de filature"
+    ],
+    "emotionsAssociees": [
+      "anticipation tendue",
+      "peur diffuse avant l'identification de la source",
+      "soulagement si les pas s'éloignent",
+      "anxiété si les pas s'arrêtent devant une porte",
+      "espoir si l'on attendait quelqu'un",
+      "sentiment de surveillance ou d'exposition"
+    ],
+    "memoires": [
+      "nuits d'enfance à écouter les adultes se déplacer dans la maison",
+      "attente d'un verdict ou d'une annonce",
+      "intrusion réelle ou fantasmée",
+      "son des pas d'un proche que l'on reconnaissait avant même de le voir"
+    ],
+    "usagesTypiques": [
+      "créer de la tension sans révéler la source — le son précède et suspend",
+      "signaler l'approche d'un personnage clé avant son apparition à l'écran",
+      "installer un sentiment de surveillance ou d'enfermement",
+      "marquer l'attente : les pas qui ne viennent pas, ou qui s'arrêtent trop tôt",
+      "caractériser un personnage par son mode de déplacement — lourd, léger, pressé, hésitant",
+      "créer un contraste avec le silence qui suit l'arrêt des pas"
+    ],
+    "contraires": [
+      "son-silence-nuit",
+      "son-foule-diffuse",
+      "immobilite-totale"
+    ],
+    "combinaisons": [
+      "avec odeur-hopital : couloir médical, approche d'un verdict",
+      "avec lumiere-neon-froid : couloir institutionnel de nuit, vulnérabilité maximale",
+      "avec son-silence-nuit : les pas dans la maison endormie — intrusion ou insomnie partagée",
+      "avec son-porte-qui-claque : les pas aboutissent à une rupture, une sortie violente"
+    ],
+    "notesEditoriales": [
+      "La puissance de ce son tient à son invisibilité : on entend sans voir, ce qui oblige le personnage (et le lecteur) à interpréter.",
+      "Préciser le type de surface (parquet, lino, moquette) change radicalement la qualité du son et donc l'atmosphère.",
+      "Les pas qui s'arrêtent sont souvent plus chargés que les pas qui continuent — l'immobilité soudaine crée une attente insoutenable.",
+      "Peut être utilisé pour caractériser un personnage récurrent : son mode de marche devient une signature narrative."
+    ]
+  },
+  {
+    "id": "son-voix-lointaine",
+    "label": "Voix lointaine",
+    "categorie": "auditif",
+    "definitionCourte": "Voix perçue depuis une distance suffisante pour que les mots restent inintelligibles — seul le ton, le rythme ou l'émotion parviennent. La signification échappe, mais l'intention se devine.",
+    "qualite": "Floue, filtrée par la distance et les cloisons — une voix réduite à son enveloppe émotionnelle, sans son contenu, ce qui lui donne une étrange charge affective.",
+    "associationsNarratives": [
+      "enfant qui entend les parents se disputer dans la pièce d'à côté",
+      "personnage isolé qui entend la vie se dérouler sans lui",
+      "voix de quelqu'un que l'on a perdu, entendue par erreur ou en rêve",
+      "appel dont on ne comprend pas s'il vous est destiné",
+      "voisinage dense — l'intimité qui déborde malgré soi",
+      "scène de surveillance ou d'espionnage — trop loin pour tout entendre",
+      "souvenir d'une voix que l'on ne pourra plus jamais entendre",
+      "appel d'un enfant perdu dans une foule ou un espace ouvert"
+    ],
+    "emotionsAssociees": [
+      "mélancolie si la voix rappelle quelqu'un",
+      "anxiété si l'on ne comprend pas ce qui se dit",
+      "solitude — être séparé du flux de la vie",
+      "sentiment de mise à l'écart ou d'exclusion",
+      "espoir si l'on attend quelqu'un",
+      "nostalgie si la voix appartient au passé"
+    ],
+    "memoires": [
+      "voix d'un parent entendue de loin dans l'enfance — protection ou menace",
+      "dernière conversation avec un proche avant une séparation définitive",
+      "son d'une maison pleine entendu de l'extérieur",
+      "voix dans un rêve qui s'efface au réveil"
+    ],
+    "usagesTypiques": [
+      "créer une distance narrative entre le personnage et le monde",
+      "signifier l'exclusion sans la nommer : il entend mais ne peut pas participer",
+      "ancrer un souvenir par le son avant l'image",
+      "créer de l'ambiguïté : que dit-on ? est-ce danger ou tendresse ?",
+      "ouvrir sur une scène de mémoire involontaire",
+      "signaler qu'un personnage écoute ce qu'il ne devrait pas entendre"
+    ],
+    "contraires": [
+      "voix-proche-directe",
+      "son-silence-nuit",
+      "son-foule-claire"
+    ],
+    "combinaisons": [
+      "avec son-pluie-fenetre : voix filtrée par la pluie — mélancolie doublée, communication impossible",
+      "avec son-silence-nuit : voix dans la nuit, surgie de nulle part — menace ou fantôme",
+      "avec vision-floue-larmes : les larmes brouillent la vue, la voix arrive de loin — désorientation totale",
+      "avec odeur-renferme : voix ancienne dans un lieu figé — présence d'un absent"
+    ],
+    "notesEditoriales": [
+      "La voix lointaine fonctionne par ce qu'elle supprime : on ne comprend pas les mots mais on comprend l'émotion — cela donne au lecteur un rôle d'interprète.",
+      "Différencier selon ce que l'on perçoit : le rythme (agitation, calme), le ton (colère, tendresse, détresse), l'intensité (cri, chuchotement porté).",
+      "Peut être utilisée pour représenter l'état dissociatif d'un personnage : tout lui parvient comme de loin, même les voix proches.",
+      "La voix d'un mort entendue au loin — souvenir ou imagination — est l'une des utilisations les plus puissantes de ce registre."
+    ]
+  },
+  {
+    "id": "lumiere-fin-journee",
+    "label": "Lumière de fin de journée",
+    "categorie": "visuel",
+    "definitionCourte": "Lumière chaude et rasante des dernières heures avant le coucher du soleil — dorée, longue, qui allonge les ombres et teinte les surfaces d'une chaleur éphémère. Elle donne l'impression que le monde est en train de prendre congé.",
+    "qualite": "Chaude, dorée, horizontale — une lumière qui ne tombe pas mais qui glisse et qui effleure. Elle enlève la dureté des contours et donne à tout une dignité provisoire.",
+    "associationsNarratives": [
+      "fin d'une journée ordinaire qui va devenir extraordinaire",
+      "dernière heure passée avec quelqu'un avant une séparation",
+      "ville photographiée à l'heure où elle est la plus belle et la plus fausse",
+      "jardin ou campagne au crépuscule — temps suspendu avant la nuit",
+      "personnage qui regarde par une fenêtre sans vouloir bouger",
+      "scène de réconciliation ou de résolution en extérieur",
+      "fin d'une période de vie — départ, deuil, transition",
+      "promenade qui devient le dernier souvenir d'un lieu aimé"
+    ],
+    "emotionsAssociees": [
+      "mélancolie douce et consentie",
+      "nostalgie anticipée — beauté ressentie comme déjà perdue",
+      "paix fragile",
+      "sentiment d'accomplissement provisoire",
+      "désir de retenir le temps",
+      "tendresse pour ce qui va disparaître"
+    ],
+    "memoires": [
+      "étés d'enfance — la lumière qui allonge et annonce la fin du jeu",
+      "dernier soir dans une maison que l'on quitte",
+      "voyage — lumière étrangère sur un paysage inconnu",
+      "souvenir d'un être aimé dans cette lumière précise"
+    ],
+    "usagesTypiques": [
+      "marquer une transition narrative sans dialogue — le monde change de couleur",
+      "donner une beauté éphémère à une scène de séparation ou de deuil",
+      "créer un contraste : l'extérieur est doré, l'intérieur du personnage est sombre",
+      "signifier le passage du temps de manière visuelle et émotionnelle simultanément",
+      "clore un chapitre par une image plutôt que par une résolution",
+      "offrir au lecteur un moment de contemplation avant une rupture"
+    ],
+    "contraires": [
+      "lumiere-neon-froid",
+      "lumiere-aube-grise",
+      "obscurite-totale"
+    ],
+    "combinaisons": [
+      "avec odeur-pluie-terre : crépuscule après l'orage — beauté presque insoutenable",
+      "avec son-pluie-fenetre : lumière filtrée par la pluie, reflets sur le sol mouillé",
+      "avec chaleur-soleil-peau : corps et lumière réunis — présent plein et fugace",
+      "avec texture-vieux-papier : lettres relues au crépuscule — passé et lumière déclinante"
+    ],
+    "notesEditoriales": [
+      "La lumière de fin de journée est l'une des plus utilisées en fiction et en cinéma — sa force tient à son universalité, mais cela en fait aussi un risque de facilité.",
+      "L'appeler par son nom (heure dorée, lumière rasante) la nominalise — mieux vaut la décrire par ses effets sur les objets et les corps.",
+      "Elle peut être ironique : une scène tragique dans cette lumière crée un contraste bouleversant. Ne pas réserver aux seules scènes mélancoliques.",
+      "Ce que cette lumière fait à un personnage précis vaut plus que la description de la lumière elle-même."
+    ]
+  },
+  {
+    "id": "lumiere-neon-froid",
+    "label": "Lumière de néon froid",
+    "categorie": "visuel",
+    "definitionCourte": "Lumière artificielle blanche ou bleue produite par les tubes fluorescents — sans ombre, sans chaleur, sans profondeur. Elle expose sans révéler, illumine sans éclairer.",
+    "qualite": "Plate, légèrement vibrante, imperméable à la nuance — une lumière qui ne sélectionne rien et ne ménage personne. Elle rend tous les visages légèrement malades et tous les lieux interchangeables.",
+    "associationsNarratives": [
+      "couloir d'hôpital la nuit",
+      "salle d'interrogatoire ou bureau administratif",
+      "supermarché après vingt-deux heures",
+      "parking souterrain ou couloir de métro",
+      "cuisine d'appartement bon marché",
+      "salle de réunion après les heures de bureau",
+      "poste de police ou centre de rétention",
+      "cuisine d'un restaurant après le service — vide et épuisant"
+    ],
+    "emotionsAssociees": [
+      "malaise diffus sans cause identifiable",
+      "sentiment d'exposition et de vulnérabilité",
+      "fatigue amplifiée — la lumière ne repose pas",
+      "anonymat, sentiment de dissolution dans le collectif",
+      "anxiété de fond liée à l'attente",
+      "déshumanisation légère"
+    ],
+    "memoires": [
+      "nuits de garde ou d'attente dans un lieu institutionnel",
+      "travail de nuit dans un espace éclairé artificiellement",
+      "moment d'errance urbaine dans des espaces ouverts la nuit",
+      "souvenir d'un lieu qui donnait l'impression de ne jamais fermer"
+    ],
+    "usagesTypiques": [
+      "déshumaniser un espace sans en faire trop — la lumière seule suffit",
+      "signifier l'insomnie, la fatigue ou l'état dissociatif d'un personnage",
+      "opposer à la lumière naturelle pour créer un effet de prison ou d'enfermement",
+      "créer un fond visuel neutre qui concentre l'attention sur les visages et les gestes",
+      "ancrer une scène dans un registre administratif, judiciaire ou médical",
+      "rendre un espace familier légèrement menaçant après la tombée de la nuit"
+    ],
+    "contraires": [
+      "lumiere-fin-journee",
+      "lumiere-bougie-intime",
+      "lumiere-aube-naturelle"
+    ],
+    "combinaisons": [
+      "avec odeur-hopital : couloir médical — déshumanisation totale",
+      "avec son-pas-couloir : espace institutionnel de nuit, quelqu'un approche",
+      "avec froid-metal : surfaces inox ou aluminium — cuisine industrielle, morgue, bloc opératoire",
+      "avec son-silence-nuit : espace ouvert la nuit, vide de sens et de chaleur"
+    ],
+    "notesEditoriales": [
+      "La lumière de néon n'est jamais neutre narrativement — elle signale l'artifice, l'institution, l'inhospitalier.",
+      "Son légèrement visible (bourdonnement, scintillement) renforce le malaise — à ne pas oublier dans la description.",
+      "Elle peut être utilisée avec ironie dans une scène qui devrait être intime : un aveu, une réconciliation sous néon — le décor contredit le moment.",
+      "Sa pâleur sur les visages est un outil de caractérisation : un personnage qui s'y sent à l'aise dit quelque chose de lui."
+    ]
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "id": "opportuniste",
+    "label": "Opportuniste",
+    "polarite": "ambigu",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage opportuniste saisit les occasions avec une rapidité et une efficacité que les autres admirent ou redoutent selon leur position. Il ne crée pas les situations favorables — il les voit avant les autres et agit. La ligne entre intelligence stratégique et exploitation d'autrui reste souvent floue, y compris pour lui.",
+    "signesPhysiques": [
+      "regard qui évalue rapidement les possibilités d'une nouvelle situation",
+      "légère tension vers l'avant quand une occasion se présente",
+      "sourire mesuré et calculé qui ne devance jamais les circonstances",
+      "posture d'écoute attentive qui cache un calcul actif",
+      "gestes décidés une fois la décision prise, sans hésitation apparente",
+      "regard qui glisse vers les personnes utiles dans une pièce",
+      "expression neutre pendant l'évaluation, alors que d'autres réagissent",
+      "poignée de main ferme et regard direct au bon moment",
+      "corps légèrement en avant quand il sent quelque chose à saisir",
+      "pause infime — l'évaluation — avant d'agir",
+      "détente visible du corps une fois l'occasion saisie"
+    ],
+    "sensationsInternes": [
+      "acuité soudaine quand une situation offre une ouverture",
+      "légère excitation froide à l'identification d'une occasion",
+      "inconfort si une occasion passe sans avoir été saisie",
+      "calcul quasi-automatique des avantages et des risques",
+      "légère culpabilité parfois, rapidement rationalisée",
+      "satisfaction pragmatique après une saisie réussie",
+      "vigilance permanente en arrière-fond",
+      "sentiment d'être plus vivant dans les situations mouvantes"
+    ],
+    "pensees": [
+      "Cette situation crée une ouverture. Il faut agir maintenant.",
+      "Ils ne voient pas encore ce que je vois. C'est le moment.",
+      "Ce n'est pas ma faute si les autres ne sont pas prêts.",
+      "L'occasion ne se représentera pas. Je n'ai pas le luxe d'hésiter.",
+      "Ce que je fais est légal. Et c'est efficace.",
+      "Quelqu'un d'autre l'aurait fait à ma place. Autant que ce soit moi.",
+      "Je ne l'ai pas créée, cette situation. Je la lis simplement.",
+      "Il me regarde comme si j'avais trahi quelque chose. Je n'ai fait que choisir."
+    ],
+    "effetsVoixLangage": [
+      "discours qui présente ses intérêts comme alignés avec ceux de l'autre",
+      "formulations rapides et précises dans les moments d'opportunité",
+      "tendance à valoriser l'action sur la réflexion dans les discussions",
+      "arguments qui s'adaptent à son interlocuteur avec fluidité",
+      "peu d'états d'âme exprimés, beaucoup de pragmatisme affiché",
+      "charme de surface activé dans les interactions stratégiques",
+      "silence stratégique quand il ne sait pas encore ce qu'il gagne à parler"
+    ],
+    "comportements": [
+      "se positionne dans les situations favorables avant que les autres aient calculé",
+      "entretient des relations diversifiées qui peuvent se révéler utiles",
+      "adapte sa loyauté en fonction du rapport de forces",
+      "saisit une occasion même si un autre en pâtit indirectement",
+      "peut abandonner une relation si elle cesse d'être avantageuse",
+      "ne s'attarde pas dans les situations où il ne gagne rien",
+      "utilise les informations récoltées au bon moment",
+      "fait des concessions tactiques pour obtenir plus à terme",
+      "peut sembler généreux quand la générosité est stratégiquement profitable",
+      "change de camp si les circonstances l'exigent avec une fluidité qui étonne",
+      "se justifie facilement par des arguments sur la réalité du monde"
+    ],
+    "masquesPossibles": [
+      "efficacité et pragmatisme présentés comme des vertus professionnelles",
+      "charme et convivialité qui dissimulent les calculs sous-jacents",
+      "générosité tactique qui donne l'apparence d'un altruisme",
+      "loyauté affichée tant que les intérêts convergent"
+    ],
+    "manifestationsPositives": [
+      "saisit les occasions que d'autres laissent passer par excès de prudence",
+      "s'adapte rapidement aux changements de situation",
+      "peut entraîner son entourage dans des dynamiques favorables",
+      "prend des décisions sous pression sans paralysie",
+      "peut créer de la valeur là où d'autres ne voient que du chaos"
+    ],
+    "manifestationsNegatives": [
+      "peut sacrifier des personnes de confiance si l'opportunité est assez grande",
+      "crée de la méfiance durable une fois son mécanisme percé",
+      "ses alliances ne sont jamais tout à fait sûres",
+      "peut provoquer des dommages collatéraux qu'il minimise ou nie",
+      "finit parfois isolé quand les gens comprennent qu'ils ne sont que des moyens"
+    ],
+    "blessuresPossibles": [
+      "enfance dans un environnement de rareté où saisir avant les autres était une nécessité",
+      "expérience où faire confiance à un système ou à une personne a mené à une perte sévère",
+      "figure parentale qui valorisait exclusivement la réussite matérielle et la débrouillardise"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à choisir des occasions qui n'impliquent pas de sacrifier les autres",
+      "peut connaître un retournement où quelqu'un lui fait ce qu'il fait aux autres",
+      "peut évoluer vers un vrai leadership stratégique si la morale s'ajoute à l'intelligence",
+      "peut s'endurcir dans l'exploitation si rien ne le confronte à ses conséquences"
+    ],
+    "notesEditoriales": [
+      "L'opportuniste n'est pas nécessairement méchant — son ambiguïté réside dans le fait que les occasions qu'il saisit sont souvent réelles et que ses raisonnements ne sont pas faux.",
+      "La question dramatique centrale est : jusqu'où va-t-il ? À quel moment l'occasion devient-elle trop coûteuse humainement ?",
+      "Distinguer l'opportunisme de la simple ambition : l'opportuniste réagit à ce que la situation lui offre, l'ambitieux crée ses propres occasions."
+    ]
+  },
+  {
+    "id": "romantique",
+    "label": "Romantique",
+    "polarite": "ambigu",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Le personnage romantique porte sur l'amour et sur la vie une vision idéalisée qui magnifie le réel autant qu'elle le déforme. Ce n'est pas de la naïveté ordinaire : c'est une façon active de voir le monde comme il devrait être, comme un texte littéraire qu'on lit avec des attentes. L'idéalisme romantique peut élever autant qu'il peut blesser.",
+    "signesPhysiques": [
+      "regard qui s'illumine à l'évocation de ce qui le touche",
+      "léger sourire intérieur visible de l'extérieur, sans raison explicite",
+      "posture qui s'ouvre et se tend vers ce qui l'émeut",
+      "gestes amples et expressifs quand il parle de quelque chose qui compte",
+      "regard qui cherche quelque chose de beau même dans les environnements ordinaires",
+      "tendance à s'immobiliser face à quelque chose d'esthétiquement ou émotionnellement fort",
+      "yeux qui retiennent les larmes face à ce qui le touche",
+      "souffle légèrement retenu dans les moments de beauté",
+      "contact physique tendre et attentif avec les personnes aimées",
+      "expression de déception visible quand la réalité déçoit l'attente",
+      "gestes doux et lents dans les moments affectifs"
+    ],
+    "sensationsInternes": [
+      "chaleur profonde dans la poitrine face à ce qui le touche",
+      "élévation légère, comme si le sol perdait un peu de pesanteur",
+      "douleur aiguë quand l'idéal se heurte au réel",
+      "impression de vivre plus intensément dans les moments chargés",
+      "mélancolie douce entre les pics d'émotion",
+      "attente permanente d'un moment qui sera à la hauteur",
+      "sentiment d'être fait pour autre chose que l'ordinaire",
+      "désorientation quand ce qu'il aime se révèle imparfait"
+    ],
+    "pensees": [
+      "Ce moment existe. Il a existé. On ne peut pas le défaire.",
+      "Ce n'est peut-être pas parfait. Mais il y a quelque chose de beau dedans.",
+      "Je sais que j'idéalise. Mais ça me rend la vie possible.",
+      "Si l'amour ne mérite pas l'absolu, à quoi ça sert ?",
+      "Ils trouvent ça excessif. Moi je trouve qu'ils ne vivent pas assez.",
+      "Je préfère avoir espéré et m'être trompé que ne pas avoir espéré du tout.",
+      "Ce que je ressens est plus réel que ce qui se passe autour.",
+      "Il y a des moments qui ressemblent à ce que j'attendais."
+    ],
+    "effetsVoixLangage": [
+      "langage chargé d'images et de métaphores même dans le quotidien",
+      "tendance à l'hyperbole dans l'expression des sentiments",
+      "citations littéraires ou musicales dans les conversations intimes",
+      "ton qui monte légèrement dans l'évocation de ce qui compte",
+      "pauses lentes et significatives avant d'exprimer quelque chose de fort",
+      "mots choisis avec soin, comme s'ils avaient un poids particulier",
+      "difficulté à parler de sentiments en termes prosaïques"
+    ],
+    "comportements": [
+      "fait des gestes symboliques importants pour des occasions ordinaires",
+      "se souvient de détails affectifs que les autres oublient",
+      "peut tomber amoureux d'une idée de la personne avant la personne elle-même",
+      "est déçu de façon disproportionnée quand la réalité contredit l'idéal",
+      "cherche à créer des moments mémorables là où les autres se contentent du quotidien",
+      "peut sacrifier le confort pratique au profit d'une valeur symbolique",
+      "transforme les lieux ordinaires en espaces chargés de sens",
+      "revit mentalement les moments forts longtemps après qu'ils soient passés",
+      "peut attendre trop longtemps une relation parfaite et rater des relations imparfaites mais vraies",
+      "exprime ses sentiments de façon intense, parfois au-delà de ce que l'autre peut recevoir",
+      "relecture des événements dans la lumière de ce qu'ils auraient pu être"
+    ],
+    "masquesPossibles": [
+      "le romantisme peut masquer une peur de l'intimité réelle, remplacée par l'idéal",
+      "l'idéalisme peut protéger d'une déception anticipée",
+      "la beauté cherchée partout peut être une façon de ne pas regarder ce qui est difficile",
+      "l'intensité émotionnelle peut dissimuler une difficulté à habiter le quotidien"
+    ],
+    "manifestationsPositives": [
+      "apporte de la beauté et du sens dans les relations et les espaces qu'il habite",
+      "porte les autres à se sentir vus et précieux",
+      "ne se résigne pas à la médiocrité affective",
+      "peut être une source d'inspiration et de chaleur pour son entourage",
+      "maintient vivant quelque chose que le pragmatisme aurait éteint"
+    ],
+    "manifestationsNegatives": [
+      "peut aimer une version de la personne plutôt que la personne",
+      "ses déceptions sont violentes quand l'idéal cède",
+      "peut négliger les besoins pratiques d'une relation au profit du symbole",
+      "peut mettre une pression implicite sur ses proches qui ne peuvent pas être à la hauteur",
+      "peut rester dans des relations mortes parce que le souvenir est beau"
+    ],
+    "blessuresPossibles": [
+      "relation idéalisée dans l'enfance qui s'est révélée profondément décevante",
+      "environnement affectif pauvre qui a poussé l'imagination à compenser",
+      "premier amour perdu ou trahie qui est resté le modèle inconscient de tous les suivants"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à aimer le réel imparfait sans renoncer à la beauté",
+      "peut être brisé par une déception trop grande si rien ne prépare au réel",
+      "peut devenir un artiste ou un créateur qui canalise l'idéalisme en œuvre",
+      "peut trouver quelqu'un qui correspond suffisamment à l'idéal pour que la tension se résolve"
+    ],
+    "notesEditoriales": [
+      "Le personnage romantique n'est pas sentimental au sens péjoratif — il porte une exigence envers la vie qui peut être très profonde et très lucide.",
+      "La tension entre le romantique et le pragmatique est un des grands ressorts dramatiques de la fiction sentimentale et existentielle.",
+      "Éviter d'en faire un personnage naïf : le romantique peut être très conscient de ses illusions et les choisir quand même."
+    ]
+  },
+  {
+    "id": "pragmatique",
+    "label": "Pragmatique",
+    "polarite": "positif",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Le personnage pragmatique évalue les situations à l'aune de ce qui fonctionne, pas de ce qui est idéal. La question n'est pas 'est-ce que c'est beau ?' mais 'est-ce que ça marche ?'. Cette forme d'intelligence est souvent sous-estimée dans la fiction mais elle produit des personnages fiables, efficaces — et parfois surprenants quand la situation exige ce qu'ils ne savent pas faire.",
+    "signesPhysiques": [
+      "regard qui évalue rapidement et sans affect apparent",
+      "gestes fonctionnels, peu ornementaux",
+      "posture détendue dans les situations que d'autres trouvent angoissantes",
+      "front légèrement plissé face à ce qui semble inutilement compliqué",
+      "haussement d'épaules discret face aux conflits symboliques",
+      "regard direct, peu de temps pour les détours",
+      "absence de gestes de stress dans les situations de crise ordinaire",
+      "mains qui font quelque chose d'utile pendant les discussions",
+      "tension légère face à l'inefficacité",
+      "regard qui cherche la solution avant d'avoir fini d'entendre le problème",
+      "hochement de tête bref et simple quand il comprend"
+    ],
+    "sensationsInternes": [
+      "satisfaction nette quand quelque chose fonctionne",
+      "irritation contenue face à ce qui est inutilement compliqué",
+      "calme dans l'action, agitation dans l'attente",
+      "inconfort dans les situations purement symboliques ou cérémonielles",
+      "légère impatience face aux discussions philosophiques qui n'aboutissent pas",
+      "soulagement quand un problème est résolu, même imparfaitement",
+      "sentiment de compétence dans les crises pratiques",
+      "malaise face à des émotions qu'il ne sait pas à quoi faire servir"
+    ],
+    "pensees": [
+      "Qu'est-ce qui fonctionne ? C'est la seule question.",
+      "On peut discuter de l'idéal une fois que le problème est réglé.",
+      "Je n'ai pas besoin que ce soit parfait. J'ai besoin que ce soit fait.",
+      "La solution imparfaite maintenant vaut mieux que la solution parfaite trop tard.",
+      "Ce n'est pas ce que j'aurais voulu. C'est ce qu'il y a.",
+      "Les émotions ne disparaissent pas si on les ignore. Mais elles attendent.",
+      "Si ça ne résout pas le problème, à quoi ça sert ?",
+      "Ce n'est pas le moment d'avoir raison. C'est le moment d'agir."
+    ],
+    "effetsVoixLangage": [
+      "phrases courtes et orientées vers la conclusion",
+      "peu d'ornements rhétoriques dans le discours ordinaire",
+      "questions directes sur les objectifs et les moyens",
+      "répond aux questions complexes par des questions pratiques",
+      "formulations qui sautent les étapes jugées inutiles",
+      "impatience visible dans le ton quand la discussion tourne en rond",
+      "concision dans les récits — l'essentiel, pas le contexte"
+    ],
+    "comportements": [
+      "agit avant d'avoir toutes les informations si l'action est nécessaire",
+      "trouve des solutions de contournement là où d'autres cherchent des solutions parfaites",
+      "ne s'attarde pas sur la forme si le fond est atteint",
+      "peut paraître insensible dans des situations qui appellent de la compassion",
+      "résout les problèmes des autres avec efficacité mais parfois sans empathie visible",
+      "abandonne les plans qui ne fonctionnent pas sans s'y attacher",
+      "s'adapte aux contraintes sans en faire un drame",
+      "évite les rituels et les symboliques qui lui semblent coûteuses en temps",
+      "prend des décisions inconfortables si elles sont logiquement justes",
+      "peut paraître sans romantisme ni poésie dans sa façon d'habiter le quotidien",
+      "fait du triage constant entre ce qui est nécessaire et ce qui est superflu"
+    ],
+    "masquesPossibles": [
+      "le pragmatisme peut cacher une difficulté à accéder à ses propres émotions",
+      "l'efficacité peut être une façon d'éviter les situations qu'il ne contrôle pas",
+      "le pragmatisme peut masquer un cynisme ou un désenchantement non traité",
+      "la résolution de problèmes peut être une façon d'exister sans avoir à se livrer"
+    ],
+    "manifestationsPositives": [
+      "est irremplaçable dans les crises qui exigent des décisions rapides",
+      "ne panique pas et ne se perd pas dans les détails non essentiels",
+      "trouve des solutions là où les autres cherchent encore le problème",
+      "rassure par sa stabilité dans les situations chaotiques",
+      "ne sacrifie pas l'utile à l'agréable ou au symbolique"
+    ],
+    "manifestationsNegatives": [
+      "peut passer à côté de la dimension émotionnelle d'une situation",
+      "peut blesser en résolvant un problème sans avoir d'abord écouté",
+      "peut paraître froid ou inhumain dans des contextes qui exigent de la présence",
+      "peut prendre des décisions efficaces mais moralement discutables",
+      "peut ne pas comprendre pourquoi ses solutions, bonnes sur le fond, sont rejetées"
+    ],
+    "blessuresPossibles": [
+      "enfance où les émotions n'avaient pas de place ou créaient des problèmes",
+      "expérience où l'idéalisme ou le sentiment ont conduit à une perte concrète",
+      "apprentissage par nécessité dans un environnement où il fallait résoudre avant de ressentir"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre que certains problèmes ne sont pas à résoudre mais à traverser",
+      "peut être confronté à une situation où l'efficacité ne suffit pas et découvrir ses limites",
+      "peut trouver dans une relation ce que le pragmatisme seul ne lui a pas donné",
+      "peut intégrer l'empathie sans perdre son efficacité"
+    ],
+    "notesEditoriales": [
+      "Le pragmatique est souvent le personnage de soutien fiable — mais son arc propre est dans la confrontation à une situation que l'efficacité ne peut pas résoudre.",
+      "Attention à ne pas en faire un personnage unidimensionnellement 'utile' : son manque d'accès à l'émotionnel peut être sa blessure principale.",
+      "Le pragmatique et le romantique sont des archétypes complémentaires dont la tension produit des récits très riches."
+    ]
+  },
+  {
+    "id": "coquet",
+    "label": "Coquet",
+    "polarite": "ambigu",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage coquet accorde à son apparence et à l'effet qu'il produit sur autrui une attention qui va au-delà du simple soin de soi. L'image est un outil, un plaisir, parfois une forteresse. Derrière le souci de plaire peut se cacher le besoin d'être vu, admis, existant dans le regard de l'autre.",
+    "signesPhysiques": [
+      "regard qui vérifie son reflet dans les surfaces réfléchissantes en passant",
+      "ajustements discrets mais fréquents de la tenue ou des cheveux",
+      "posture légèrement plus droite dès qu'un regard se pose",
+      "sourire modulé selon l'interlocuteur et la situation",
+      "gestes légèrement plus lents et plus gracieux en présence d'autrui",
+      "contact visuel prolongé et légèrement appuyé",
+      "vêtements et accessoires choisis avec une précision que d'autres ne remarquent pas",
+      "léger sourire en coin face à quelqu'un qui le remarque",
+      "inclinaison de tête qui avantage les traits",
+      "toucher léger de la main ou du bras qui dure un demi-seconde de trop",
+      "regard qui glisse sur son propre corps pour vérifier l'effet"
+    ],
+    "sensationsInternes": [
+      "plaisir léger et constant dans la maîtrise de son apparence",
+      "légère excitation quand un regard s'attarde",
+      "inconfort face à une apparence négligée, même involontaire",
+      "satisfaction de se savoir remarqué",
+      "légère anxiété quand les conditions ne permettent pas le soin habituel",
+      "chaleur au ventre quand quelqu'un réagit comme espéré",
+      "sentiment d'exister plus pleinement quand on lui accorde de l'attention",
+      "irritation douce quand on ne le remarque pas"
+    ],
+    "pensees": [
+      "Ce n'est pas de la vanité. C'est du respect de moi-même.",
+      "Il m'a regardé. Bien.",
+      "Je sais ce que je fais quand je m'habille comme ça.",
+      "L'apparence est une forme de langage. Je parle couramment.",
+      "Je peux me permettre d'être vu. Je suis prêt.",
+      "Ils trouvent ça superficiel. Ils ont tort.",
+      "Si ça ne plaît pas à tout le monde, ça n'est pas le problème.",
+      "L'attention que je reçois, je la mérite. J'ai travaillé pour ça."
+    ],
+    "effetsVoixLangage": [
+      "ton légèrement plus modulé et attentif à l'effet produit",
+      "rires ajustés à l'interlocuteur",
+      "pauses légèrement esthétiques avant les répliques importantes",
+      "formulations qui contiennent souvent une référence à son apparence ou à celle de l'autre",
+      "compliments placés stratégiquement",
+      "ton qui baisse légèrement dans les échanges séducteurs",
+      "humour auto-dépréciatif sur son propre souci des apparences"
+    ],
+    "comportements": [
+      "arrive en avance aux événements pour être installé avant d'être vu arriver",
+      "choisit sa place dans une pièce selon la lumière et l'angle de vue",
+      "entretient son apparence avec un soin qui peut sembler excessif à l'extérieur",
+      "adapte son style aux situations pour toujours produire l'effet désiré",
+      "peut flirter sans intention réelle, par habitude ou pour tester son pouvoir",
+      "collecte les signes d'admiration sans jamais sembler les chercher",
+      "investit du temps et des ressources dans ce que les autres jugent superflu",
+      "peut négliger d'autres aspects de sa vie pour maintenir son image",
+      "est attentif à l'apparence des autres sans toujours le dire",
+      "se sent diminué dans les situations où l'apparence ne compte pas",
+      "peut se montrer généreux pour être bien vu autant que par altruisme"
+    ],
+    "masquesPossibles": [
+      "le soin des apparences peut masquer une profonde insécurité sur la valeur intérieure",
+      "la séduction peut être un substitut à l'intimité réelle",
+      "l'image peut être un rempart contre un intérieur qu'il n'ose pas montrer",
+      "la coquetterie peut masquer un besoin de contrôle dans les relations"
+    ],
+    "manifestationsPositives": [
+      "est attentif à l'impression qu'il laisse et sait adapter son comportement",
+      "crée une atmosphère agréable dans les environnements sociaux",
+      "peut aider les autres à prendre soin d'eux-mêmes avec douceur",
+      "apporte de l'élégance et du soin dans les espaces qu'il habite",
+      "sait faire sentir à l'autre qu'il est désirable et précieux"
+    ],
+    "manifestationsNegatives": [
+      "peut manquer de profondeur dans les relations si l'image prend trop de place",
+      "peut être déstabilisé par le vieillissement ou les changements physiques",
+      "peut instrumentaliser la séduction pour obtenir ce qu'il veut",
+      "peut négliger ses qualités non visibles au profit de l'image",
+      "peut agacer ou mettre mal à l'aise les personnages qui n'accordent pas de valeur à l'apparence"
+    ],
+    "blessuresPossibles": [
+      "enfance où l'apparence était le critère principal de valeur dans la famille",
+      "période où il était invisible ou négligé et a décidé de ne plus jamais l'être",
+      "humiliation liée à l'apparence qui l'a poussé à en faire une forteresse"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à exister sans le regard des autres comme confirmation",
+      "peut découvrir que quelqu'un l'aime pour ce qu'il cache plutôt que pour ce qu'il montre",
+      "peut vivre une crise physique (maladie, accident) qui l'oblige à se redéfinir",
+      "peut canaliser l'attention au détail dans une forme artistique ou créative"
+    ],
+    "notesEditoriales": [
+      "La coquetterie est souvent traitée comme un défaut superficiel — mais elle peut être une stratégie de survie ou un langage complexe sur le rapport à soi.",
+      "Éviter la caricature du personnage vaniteux sans profondeur : le soin de l'apparence est souvent le symptôme d'un besoin beaucoup plus profond.",
+      "Le moment le plus révélateur pour ce personnage est celui où il ne peut plus contrôler son apparence : qu'est-ce qui reste ?"
+    ]
+  },
+  {
+    "id": "misanthrope",
+    "label": "Misanthrope",
+    "polarite": "negatif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage misanthrope porte sur l'humanité un regard profondément négatif, nourri d'expériences accumulées et d'une déception qui a fini par se cristalliser en conviction. Ce n'est pas simplement de l'introversion ni de la timidité : c'est une vision du monde structurée, souvent articulée, parfois lucide — et toujours douloureuse à sa source.",
+    "signesPhysiques": [
+      "regard qui évalue avant d'accorder la moindre attention",
+      "distance physique maintenue systématiquement avec les inconnus",
+      "expression souvent légèrement fermée dans les espaces collectifs",
+      "soupir imperceptible en entrant dans un groupe",
+      "mains dans les poches ou bras croisés dans les environnements sociaux",
+      "sourire rare et légèrement en retard sur les occasions",
+      "mâchoire légèrement serrée dans les conversations de surface",
+      "regard qui décroche si la conversation devient banale",
+      "posture qui se tourne vers la sortie dans les grandes réunions",
+      "gestes économiques, peu de surplus expressif vers les inconnus",
+      "tension dans les épaules dans les lieux où il doit interagir"
+    ],
+    "sensationsInternes": [
+      "fatigue diffuse dans les environnements sociaux prolongés",
+      "irritation sourde face aux comportements humains qu'il anticipe",
+      "légère satisfaction amère quand ses prévisions négatives se confirment",
+      "solitude qu'il choisit mais qui peut peser quand même",
+      "tension entre le désir de connexion et la conviction qu'elle décevra",
+      "soulagement net à l'écart de la collectivité",
+      "mépris qui se transforme parfois en tristesse dans les moments calmes",
+      "nostalgie occasionnelle d'une confiance qu'il a perdue"
+    ],
+    "pensees": [
+      "Les gens déçoivent. Ce n'est pas du pessimisme. C'est de l'observation.",
+      "Ils font semblant. Tout le monde fait semblant.",
+      "Je préfère être seul que dans une compagnie qui me coûte plus qu'elle ne m'apporte.",
+      "Ce n'est pas de la haine. C'est de la lucidité.",
+      "Ils ont besoin de me plaire. Je n'ai pas besoin d'eux.",
+      "Chaque fois que j'ai ouvert la porte, j'ai regretté.",
+      "Quelques personnes méritent qu'on les fréquente. Très peu.",
+      "Je ne suis pas amer. Je suis honnête."
+    ],
+    "effetsVoixLangage": [
+      "formulations tranchantes qui ne laissent pas beaucoup de place à la discussion",
+      "ironie sèche comme réponse réflexe aux enthousiasmes des autres",
+      "peu de platitudes sociales, ce qui peut sembler brutal",
+      "propos directs qui heurtent parce qu'ils ne sont pas adoucis",
+      "commentaires sur l'humanité qui ont l'air d'observations générales mais sont des condamnations",
+      "silences qui pèsent dans les conversations mondaines",
+      "parfois une sincérité désarmante qui surprend ceux qui ne l'attendaient pas"
+    ],
+    "comportements": [
+      "évite les réunions sociales ou y participe le moins possible",
+      "part tôt des événements sans s'en excuser particulièrement",
+      "entretient très peu de relations et les choisit avec extrême soin",
+      "peut avoir une ou deux exceptions — des personnes qui ont résisté à sa défiance",
+      "dit à voix haute ce que d'autres pensent sans l'exprimer",
+      "refuse les politesses creuses même quand elles lubrifient le collectif",
+      "peut être d'une loyauté absolue envers les rares personnes qu'il a admises",
+      "préfère les animaux ou la nature aux espaces sociaux humains",
+      "peut s'investir dans des causes abstraites malgré son dégoût des individus",
+      "est honnête sur ses réticences, ce qui désarme parfois",
+      "peut trouver dans l'art, les livres ou le travail ce qu'il ne trouve plus dans les relations"
+    ],
+    "masquesPossibles": [
+      "le mépris peut masquer une déception très profonde et un besoin non satisfait de connexion",
+      "la misanthropie peut être un rempart contre une nouvelle blessure",
+      "l'ironie et le cynisme peuvent cacher une sensibilité extrême",
+      "l'indépendance affichée peut protéger d'une solitude qu'il ne veut pas nommer"
+    ],
+    "manifestationsPositives": [
+      "dit des vérités que les gens polis n'osent pas dire",
+      "est d'une loyauté exceptionnelle envers les rares personnes qu'il choisit",
+      "ne se laisse pas manipuler par les conventions sociales",
+      "peut avoir une lucidité sur les groupes humains qui manque aux personnes plus grégaires",
+      "son scepticisme peut protéger des décisions naïves"
+    ],
+    "manifestationsNegatives": [
+      "peut blesser sans s'en rendre compte par excès de franchise",
+      "se prive de ressources sociales qui lui seraient utiles",
+      "sa fermeture peut devenir une prophétie auto-réalisatrice",
+      "peut influencer négativement les personnes proches vers l'isolement",
+      "son mépris peut être injuste quand il s'applique à des individus sans distinction"
+    ],
+    "blessuresPossibles": [
+      "trahison répétée qui a transformé la déception ponctuelle en conviction générale",
+      "enfance dans un environnement humain hostile ou décevant sans alternative",
+      "idéalisme initial très haut dont l'effondrement a été proportionnel"
+    ],
+    "evolutionsPossibles": [
+      "peut rencontrer quelqu'un qui résiste suffisamment longtemps pour briser la conviction",
+      "peut s'effondrer dans une crise de solitude que la misanthropie ne peut plus remplir",
+      "peut trouver une communauté suffisamment petite et choisie pour rouvrir légèrement",
+      "peut mourir dans sa conviction sans jamais la remettre en question — ce qui n'est pas tragique en soi"
+    ],
+    "notesEditoriales": [
+      "La misanthropie la plus intéressante est celle qui vient d'un amour blessé de l'humanité — pas d'un mépris inné.",
+      "Éviter le misanthrope-sage dont les remarques cyniques sont toujours justes et jamais remises en question : la misanthropie a ses propres aveugles.",
+      "Le personnage misanthrope révèle souvent quelque chose d'important sur les autres personnages : comment ils réagissent à quelqu'un qui refuse de jouer le jeu social."
+    ]
+  },
+  {
+    "id": "materiel",
+    "label": "Matérialiste",
+    "polarite": "ambigu",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Le personnage matérialiste mesure sa réussite et sa sécurité à l'aune de ce qu'il possède. L'argent et les biens ne sont pas de la cupidité pure — ils peuvent être une forme de langage sur la valeur, la protection, la preuve qu'on a réussi là où d'autres ont échoué. La question n'est pas 'veux-tu des choses ?' mais 'pourquoi les choses sont-elles si importantes ?'",
+    "signesPhysiques": [
+      "regard qui évalue rapidement la valeur des objets et des personnes dans son environnement",
+      "satisfaction visible à l'acquisition ou à la possession d'un bien désirable",
+      "attention aux détails de qualité que d'autres ne distinguent pas",
+      "légère crispation face au gaspillage ou à la perte",
+      "toucher des objets avec une attention particulière",
+      "regard qui fait le tour de l'espace pour évaluer",
+      "posture plus assurée dans les environnements aisés",
+      "inconfort visible dans les environnements de pauvreté ou de désordre matériel",
+      "sourire légèrement supérieur face à quelqu'un qu'il dépasse matériellement",
+      "gestes soigneux avec ses affaires, même dans des circonstances ordinaires",
+      "regard qui revient sur ses propres possessions avec une satisfaction discrète"
+    ],
+    "sensationsInternes": [
+      "sécurité dont le socle est matériel plutôt qu'émotionnel",
+      "angoisse sourde face à la perte ou à l'insécurité financière",
+      "satisfaction profonde lors d'une acquisition réussie",
+      "légère honte parfois de l'importance qu'il accorde à l'argent",
+      "tension entre le besoin de posséder et ce que les autres en pensent",
+      "sentiment de puissance dans l'acte d'acheter",
+      "malaise face aux personnes qui semblent vivre sans ces repères",
+      "fierté liée aux signes extérieurs de réussite"
+    ],
+    "pensees": [
+      "Ce que je possède dit ce que je suis devenu.",
+      "L'argent ne fait pas le bonheur. Mais l'absence d'argent, ça, j'ai connu.",
+      "Je veux qu'on voie que j'ai réussi.",
+      "La sécurité matérielle n'est pas une obsession. C'est une priorité.",
+      "Ce que je gagne, je l'ai mérité.",
+      "Je peux me l'offrir. Et ça change quelque chose.",
+      "Les gens qui disent que l'argent ne compte pas n'en ont jamais manqué.",
+      "Posséder ce que je voulais enfant — ça a une signification que je ne veux pas minimiser."
+    ],
+    "effetsVoixLangage": [
+      "sujets financiers abordés avec aisance et précision",
+      "valeur des choses souvent mentionnée dans les conversations",
+      "tendance à évaluer les propositions en termes de coût-bénéfice",
+      "anecdotes de réussite ou d'acquisition glissées dans les conversations",
+      "langage qui révèle une familiarité avec les marques, les prix, les valeurs de marché",
+      "formulations discrètes mais révélatrices sur ce que les choses valent",
+      "peut se montrer généreux en grande occasion mais calculer en permanence"
+    ],
+    "comportements": [
+      "organise ses choix de vie autour de la sécurité et de la progression matérielle",
+      "compare sa situation à celle des autres en termes de possession ou de revenus",
+      "accorde une valeur symbolique importante aux cadeaux coûteux",
+      "peut négliger des relations qui n'ont pas de valeur matérielle ou sociale",
+      "évalue parfois les personnes à travers leurs signes extérieurs de réussite",
+      "fait des concessions dans d'autres domaines pour préserver la sécurité financière",
+      "collectionne des objets qui ont une valeur au-delà de leur utilité",
+      "peut être généreux de façon spectaculaire pour signaler sa position",
+      "a du mal à se séparer d'objets ayant de la valeur même quand ils sont inutiles",
+      "planifie à long terme en termes de patrimoine et d'accumulation",
+      "peut utiliser l'argent comme outil de pouvoir ou de contrôle dans les relations"
+    ],
+    "masquesPossibles": [
+      "le matérialisme peut masquer une peur profonde de manquer ou de retourner à une pauvreté passée",
+      "les possessions peuvent compenser un sentiment de vide intérieur",
+      "la réussite matérielle peut être une preuve destinée à une figure parentale exigeante",
+      "l'attachement aux biens peut masquer une difficulté à créer des attachements humains"
+    ],
+    "manifestationsPositives": [
+      "peut créer une sécurité matérielle qui protège son entourage",
+      "est fiable dans les engagements financiers",
+      "gère bien les ressources et ne les gaspille pas",
+      "peut être très généreux envers les personnes qu'il aime",
+      "sa rigueur financière peut stabiliser une famille ou un groupe"
+    ],
+    "manifestationsNegatives": [
+      "peut évaluer des relations en termes de gain ou de perte",
+      "peut sacrifier des valeurs non matérielles pour un gain financier",
+      "peut mettre une pression sur son entourage pour maintenir un certain niveau de vie",
+      "peut perdre des personnes qui se sentent instrumentalisées",
+      "peut ne jamais se sentir assez riche, assez assuré, assez protégé"
+    ],
+    "blessuresPossibles": [
+      "enfance dans la pauvreté ou l'insécurité économique dont il a juré de sortir",
+      "figure parentale qui mesurait l'amour en termes matériels",
+      "expérience de perte brutale d'un statut ou d'un confort"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre que ce qu'il cherche dans les possessions ne s'y trouve pas",
+      "peut vivre une perte matérielle qui l'oblige à reconstruire une valeur différente",
+      "peut trouver dans une relation ou un projet non-matériel ce que les biens n'ont pas donné",
+      "peut rester dans ce système de valeurs toute sa vie, ce qui n'est pas sans cohérence"
+    ],
+    "notesEditoriales": [
+      "Le personnage matérialiste est souvent caricaturé en avare ou en arriviste sans profondeur — mais le matérialisme issu d'une histoire de manque est beaucoup plus nuancé.",
+      "La question narrative centrale : que se passe-t-il quand ce que ce personnage possède ne suffit plus à le rassurer ?",
+      "Distinguer le matérialisme de la cupidité : le matérialiste peut être généreux, il cherche simplement à posséder, pas nécessairement à prendre."
+    ]
+  },
+  {
+    "id": "desinteresse",
+    "label": "Désintéressé",
+    "polarite": "positif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage désintéressé n'attend rien en retour de ce qu'il donne. Ce n'est pas de l'oubli de soi pathologique : c'est une orientation fondamentale vers les autres qui lui paraît naturelle, parfois au point de lui rendre le contraire incompréhensible. Le désintéressement peut être une grâce ou une vulnérabilité selon qui en profite.",
+    "signesPhysiques": [
+      "regard attentif posé sur les autres sans calcul visible",
+      "gestes vers l'autre qui semblent spontanés, non préparés",
+      "absence de posture défensive dans les échanges",
+      "sourire qui se produit dans l'acte de donner ou d'aider, pas après",
+      "corps orienté vers le besoin de l'autre même dans ses propres moments difficiles",
+      "mains ouvertes, pas retenues",
+      "légère surprise visible si quelqu'un lui offre quelque chose en retour",
+      "regard qui mesure les besoins des autres avant les siens propres",
+      "posture détendue dans le service, sans tension de performance",
+      "absence de regard vers les témoins lors d'un acte généreux",
+      "légère rougeur ou inconfort quand on souligne sa générosité"
+    ],
+    "sensationsInternes": [
+      "satisfaction simple et claire dans le fait d'avoir été utile",
+      "légère surprise à chaque fois que sa générosité est notée",
+      "inconfort face à la gratitude excessive ou ostentatoire",
+      "sentiment de juste alignement quand il aide sans que personne ne le sache",
+      "légère incompréhension face aux calculs que font les autres",
+      "fatigue parfois si son désintéressement est exploité",
+      "chaleur sincère dans la poitrine quand il voit quelqu'un aller mieux grâce à lui",
+      "doute rare sur ses propres besoins, qu'il a du mal à identifier"
+    ],
+    "pensees": [
+      "S'ils en ont besoin et que je peux, alors c'est simple.",
+      "Je ne le ferai pas si c'est pour qu'on me remercie.",
+      "Ils pensent que c'est rare. Je ne comprends pas pourquoi.",
+      "Ce n'est pas un sacrifice. C'est juste ce qu'on fait.",
+      "Si j'attends quelque chose en retour, ça change ce que c'est.",
+      "Ils ont l'air surpris. Comme si aider était exceptionnel.",
+      "Ce n'est pas à moi que ça appartient. Ce n'est jamais vraiment à moi.",
+      "Je donnerais plus si j'avais plus à donner."
+    ],
+    "effetsVoixLangage": [
+      "minimise spontanément ses propres actes généreux",
+      "redirige la conversation sur les besoins de l'autre dès qu'elle revient sur lui",
+      "refuse les compliments sur sa générosité avec une gêne sincère",
+      "formulations qui attribuent à l'autre le mérite de ce qu'il a facilité",
+      "peu de langage centré sur lui-même dans les conversations quotidiennes",
+      "ton doux et non performatif dans l'aide apportée",
+      "peut dire des choses profondes sans chercher à les mettre en valeur"
+    ],
+    "comportements": [
+      "aide sans attendre d'être demandé",
+      "donne de son temps, de son argent ou de son énergie sans calcul visible",
+      "peut se priver lui-même pour permettre à d'autres d'avoir plus",
+      "défend les absents sans y gagner quoi que ce soit",
+      "ne garde pas trace de ce qu'il a donné",
+      "refuse les compensations disproportionnées à ce qu'il a fait",
+      "peut se laisser exploiter par manque de vigilance sur ses propres limites",
+      "travaille souvent dans l'ombre sans chercher la reconnaissance",
+      "peut avoir du mal à recevoir, même quand c'est légitime",
+      "distribue son attention de façon égale sans favoritisme ostentatoire",
+      "ne se plaint pas de ses propres difficultés devant ceux qui en ont de plus grandes"
+    ],
+    "masquesPossibles": [
+      "le désintéressement peut masquer une difficulté à ressentir ses propres besoins",
+      "donner peut être une façon d'exister pour les autres quand on n'existe pas pour soi",
+      "l'abnégation peut cacher une peur de prendre de la place",
+      "le don peut être une forme de contrôle ou de dette non formulée"
+    ],
+    "manifestationsPositives": [
+      "crée une confiance immédiate et durable",
+      "peut changer des vies par des actes que personne n'a même remarqués",
+      "est un ancre dans les groupes traversés par l'égoïsme",
+      "permet à d'autres de donner sans avoir honte",
+      "sa présence élève subtilement le niveau de générosité collectif"
+    ],
+    "manifestationsNegatives": [
+      "peut s'épuiser à force de donner sans jamais recevoir",
+      "peut être exploité par des personnages qui profitent de sa difficulté à dire non",
+      "peut avoir du mal à formuler ses propres besoins dans les moments difficiles",
+      "peut frustrer les personnes qui veulent aussi lui donner",
+      "peut créer involontairement un déséquilibre dans les relations"
+    ],
+    "blessuresPossibles": [
+      "enfance où ne pas faire passer les autres avant soi avait des conséquences",
+      "conviction profonde que ses propres besoins sont moins légitimes que ceux des autres",
+      "relation formatrice avec quelqu'un qui avait besoin de lui de façon totale"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à recevoir sans culpabilité",
+      "peut découvrir que ses propres besoins méritent aussi d'être satisfaits",
+      "peut s'épuiser jusqu'à la rupture si personne ne le protège de son propre désintéressement",
+      "peut être un modèle transformateur pour des personnages qui n'ont jamais connu ça"
+    ],
+    "notesEditoriales": [
+      "Le personnage désintéressé est souvent idéalisé dans la fiction — mais son arc le plus honnête est celui qui montre ce que le désintéressement lui coûte.",
+      "Distinguer le désintéressement sain (qui part d'une plénitude) du désintéressement défensif (qui vient d'un manque de valeur de soi).",
+      "Le désintéressé peut être le personnage le plus difficile à écrire de façon juste : il risque la perfection sans vie si on ne lui trouve pas ses failles."
+    ]
+  },
+  {
+    "id": "vengeur-froid",
+    "label": "Patient dans la vengeance",
+    "polarite": "negatif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage patient dans la vengeance ne réagit pas à chaud. Il absorbe la blessure, la stocke, et prépare une réponse qui peut prendre des mois ou des années. Ce n'est pas de la passivité : c'est un contrôle absolu de soi au service d'une finalité unique. La patience de ce personnage est sa force la plus terrifiante — et sa prison la plus hermétique.",
+    "signesPhysiques": [
+      "visage qui ne réagit presque pas à l'instant de la blessure",
+      "regard légèrement vide immédiatement après l'offense — il est déjà ailleurs",
+      "sourire très bref, très mesuré, qui ne monte pas",
+      "posture stable dans les situations où d'autres s'emballeraient",
+      "gestes économiques même dans les moments de tension",
+      "regard qui revient sur la personne qui l'a blessé avec une précision nouvelle",
+      "légère tension dans la mâchoire qui est le seul signe extérieur",
+      "silence total dans les moments où une réaction serait attendue",
+      "paupières légèrement baissées au moment où il enregistre la blessure",
+      "retrait imperceptible du corps, comme une mise à distance calculée",
+      "regard parfois trop calme pour être naturel"
+    ],
+    "sensationsInternes": [
+      "douleur initiale pleinement ressentie et immédiatement convertie en résolution",
+      "froideur progressive qui descend à mesure que le plan prend forme",
+      "calme étrange et total une fois la décision prise",
+      "vigilance accrue et permanente envers la cible",
+      "plaisir froid dans l'anticipation",
+      "sentiment de puissance dans la patience elle-même",
+      "absence presque totale d'impulsivité dans les moments de tension",
+      "légère brûlure qui reste en fond, entretenue volontairement"
+    ],
+    "pensees": [
+      "Pas maintenant. Mais le moment viendra.",
+      "Il croit que c'est fini. Ce n'est pas fini.",
+      "Je n'oublie pas. Je mémorise.",
+      "La précipitation leur appartient. Le temps m'appartient.",
+      "Ils rient maintenant. Je peux attendre.",
+      "Ce n'est pas de la haine. C'est de la justice différée.",
+      "Je n'ai pas besoin qu'ils sachent que je prépare quelque chose.",
+      "Chaque jour que je tiens, je gagne. Chaque jour qu'il passe sans se méfier, il perd."
+    ],
+    "effetsVoixLangage": [
+      "ton stable et non porteur d'émotion apparente dans les interactions avec la cible",
+      "peut continuer des relations normales pendant la préparation",
+      "formulations non ambiguës mais non menaçantes",
+      "silence calculé qui a plus de poids que les mots",
+      "peut complimenter sincèrement la cible pendant la préparation",
+      "questions neutres qui recueillent des informations sans alerter",
+      "remarques rares mais précises qui révèlent son état à ceux qui font attention"
+    ],
+    "comportements": [
+      "maintient une façade de normalité avec la cible",
+      "observe et collecte des informations patiemment",
+      "attend le moment de vulnérabilité maximale",
+      "ne confie pas son plan, même à ses proches",
+      "peut paraître avoir pardonné alors qu'il a simplement reporté",
+      "peut agir si longtemps après que la cible a oublié",
+      "contrôle ses propres réactions de façon absolue pour ne pas révéler ses intentions",
+      "peut simuler une réconciliation pour approcher à nouveau",
+      "choisit des moyens qui maximisent l'effet tout en minimisant les risques pour lui",
+      "peut s'autodétruire partiellement dans la poursuite de la vengeance sans s'en rendre compte",
+      "ne ressent pas vraiment de satisfaction une fois la vengeance accomplie — la brûlure reste"
+    ],
+    "masquesPossibles": [
+      "la réconciliation simulée est le masque principal",
+      "le détachement apparent fait croire que la blessure est surmontée",
+      "l'amabilité maintenue avec la cible est le camouflage le plus efficace",
+      "la normalité quotidienne est préservée pour ne pas alerter l'entourage"
+    ],
+    "manifestationsPositives": [
+      "maîtrise de soi exceptionnelle dans d'autres domaines de vie",
+      "peut être loyal absolument envers les personnes qui ne l'ont pas trahi",
+      "sa patience peut être un atout réel dans des contextes non vindicatifs",
+      "ne réagit pas à l'impulsivité dans les conflits — ce qui peut être utile",
+      "peut protéger les siens avec une détermination que peu de personnages égalent"
+    ],
+    "manifestationsNegatives": [
+      "la vengeance devient parfois le sens organisateur de toute sa vie",
+      "peut détruire des relations collatérales dans la poursuite de son but",
+      "peut passer à côté de sa propre vie pendant la préparation",
+      "l'accomplissement de la vengeance ne libère souvent pas — il révèle le vide derrière",
+      "peut faire des dégâts disproportionnés à la blessure initiale"
+    ],
+    "blessuresPossibles": [
+      "trahison profonde qui a créé un sentiment d'impuissance immédiate",
+      "humiliation publique dont il n'a jamais pu se défendre sur le moment",
+      "perte irréparable dont il tient quelqu'un pour responsable"
+    ],
+    "evolutionsPossibles": [
+      "peut accomplir sa vengeance et découvrir que ça ne suffit pas",
+      "peut être arrêté in extremis par quelqu'un qui lui montre ce qu'il est en train de perdre",
+      "peut renoncer si la cible subit une souffrance externe qui rend la vengeance inutile",
+      "peut perdre tout ce qui compte dans sa vie dans la poursuite de son but"
+    ],
+    "notesEditoriales": [
+      "Le vengeur patient est l'un des archétypes les plus puissants de la fiction parce qu'il combine la blessure émotionnelle avec l'intelligence stratégique — deux moteurs narratifs simultanés.",
+      "La question centrale n'est pas 'va-t-il réussir ?' mais 'qui sera-t-il quand ce sera fini ?' — et souvent la réponse est troublante.",
+      "Éviter l'accomplissement satisfaisant de la vengeance si on veut rester honnête : la vengeance accomplie révèle presque toujours le vide qu'elle était censée combler."
+    ]
+  }
+]

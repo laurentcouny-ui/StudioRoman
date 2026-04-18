@@ -1,0 +1,321 @@
+[
+  {
+    "id": "exclusion",
+    "label": "Exclusion",
+    "famille": "solitude-rejet",
+    "definitionCourte": "Sentiment d'être mis à l'écart d'un groupe, d'une appartenance, d'une communauté — de façon active, passive ou implicite. L'exclusion fait mal parce qu'elle invalide le sentiment d'appartenance.",
+
+    "signesPhysiques": [
+      "regard qui cherche à intégrer le groupe sans y parvenir",
+      "sourires qui arrivent légèrement trop tard — en décalage",
+      "position physique en marge — bord du cercle, légèrement en retrait",
+      "épaules légèrement remontées ou rentrées",
+      "mouvements qui s'adaptent au groupe sans être invités",
+      "rires qui s'arrêtent trop vite — incertitude sur leur légitimité",
+      "regard qui observe les membres du groupe entre eux"
+    ],
+
+    "sensationsInternes": [
+      "creux dans la poitrine qui ressemble à la faim",
+      "conscience de chaque geste, de chaque mot — hyper-vigilance",
+      "chaleur au visage si l'exclusion est explicite",
+      "impression d'être derrière une vitre — voir sans être vu vraiment",
+      "envie de fuir et de rester en même temps"
+    ],
+
+    "pensees": [
+      "Ils ne me voient pas.",
+      "Je ne suis pas à ma place ici.",
+      "Pourquoi je n'arrive pas à m'intégrer ?",
+      "C'est exprès ou pas ?",
+      "Ils parlent comme si je n'étais pas là.",
+      "Qu'est-ce que je fais de faux ?"
+    ],
+
+    "effetsVoixLangage": [
+      "interventions trop rares ou trop fréquentes — les deux sont des marqueurs de l'exclusion",
+      "voix légèrement différente de l'ordinaire — trop prudente ou trop enjouée",
+      "tentatives de contribution qui ne trouvent pas leur place",
+      "silence prolongé par incapacité à s'insérer dans la conversation",
+      "formulations qui cherchent l'approbation du groupe"
+    ],
+
+    "comportements": [
+      "observe plus qu'il ne participe",
+      "peut s'effacer progressivement — venir de moins en moins",
+      "cherche un sous-groupe ou une personne à qui se rattacher",
+      "peut surcompenser — être trop drôle, trop utile, trop disponible",
+      "peut se retirer brusquement si l'exclusion est trop dure à soutenir"
+    ],
+
+    "masquesPossibles": [
+      "désinvolture — faire semblant que le groupe n'a pas d'importance",
+      "arrogance défensive — 'de toute façon ils ne m'intéressent pas'",
+      "hyper-sociabilité pour masquer l'inconfort"
+    ],
+
+    "evolutionsPossibles": [
+      "inclusion progressive si quelqu'un tend la main",
+      "retrait définitif et construction d'un autre espace d'appartenance",
+      "rancœur si l'exclusion est vécue comme intentionnelle",
+      "déconstruction — comprendre que ce groupe n'était peut-être pas le bon"
+    ],
+
+    "contextesAggravants": [
+      "exclusion publique et visible",
+      "groupe qui représente quelque chose d'important pour le personnage",
+      "absence d'alternative — pas d'autre groupe où aller",
+      "exclusion répétée dans différents contextes"
+    ],
+
+    "contextesAttenuants": [
+      "présence d'un seul allié dans le groupe",
+      "compréhension que l'exclusion n'est pas personnelle",
+      "découverte d'un autre espace d'appartenance"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Sentiment de marginalité légère", "description": "Le personnage n'est pas tout à fait dans le groupe mais n'en souffre pas vraiment." },
+      { "niveau": 2, "label": "Mise à l'écart", "description": "Visible. Le personnage la ressent, s'interroge." },
+      { "niveau": 3, "label": "Exclusion active", "description": "Il est écarté délibérément ou presque. La blessure est réelle." },
+      { "niveau": 4, "label": "Rejet de groupe", "description": "Le personnage est persona non grata. Les conséquences pratiques commencent." },
+      { "niveau": 5, "label": "Ostracisme", "description": "Exclusion totale et délibérée. Isolement complet dans le contexte social." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui a grandi en dehors du groupe dominant",
+        "description": "L'exclusion est familière — il a développé des stratégies. Elle fait moins mal mais laisse une trace ancienne qui se réactive facilement."
+      },
+      {
+        "profil": "Personnage habitué à être intégré",
+        "description": "L'exclusion est déstabilisante parce qu'elle est nouvelle. Il ne sait pas comment la gérer, n'en comprend pas les règles."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'exclusion est particulièrement puissante dans les récits de groupe — école, travail, famille — où la coexistence est forcée.",
+      "Elle peut être subtile et niée par ceux qui l'exercent. Cette ambiguïté est narrativement riche.",
+      "À distinguer du rejet (qui est actif et ciblé) et de l'isolement (qui peut être choisi)."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "retrait" },
+      { "type": "peut_suivre", "cible": "rejet" },
+      { "type": "peut_evoluer_en", "cible": "rancoeur" },
+      { "type": "souvent_associe_a", "cible": "honte" }
+    ]
+  },
+  {
+    "id": "invisibilite",
+    "label": "Invisibilité (émotionnelle)",
+    "famille": "solitude-rejet",
+    "definitionCourte": "Sentiment de ne pas être vu, reconnu ou compté par les autres — pas d'être rejeté, mais de ne pas exister vraiment aux yeux de ceux qui comptent.",
+
+    "signesPhysiques": [
+      "présence physique effacée — parle peu, s'habille pour ne pas attirer l'œil",
+      "gestes qui ne prennent pas de place",
+      "regard qui attend d'être invité avant de se poser sur quelqu'un",
+      "voix qui s'estompe en fin de phrase",
+      "posture penchée légèrement en retrait, comme pour s'excuser d'être là",
+      "sourire de confirmation plutôt que d'initiative",
+      "répond aux questions sans en poser — ne s'impose pas"
+    ],
+
+    "sensationsInternes": [
+      "impression d'être transparent dans les interactions",
+      "surprise presque douloureuse quand quelqu'un lui parle directement",
+      "creux quand il réalise qu'il n'a pas été remarqué",
+      "fatigue de faire des efforts qui ne sont pas vus",
+      "sentiment que sa présence ne change rien — que son absence non plus"
+    ],
+
+    "pensees": [
+      "Je pourrais partir, personne ne le remarquerait.",
+      "Je n'ai rien dit pendant tout le repas et personne ne l'a vu.",
+      "Est-ce que j'existe vraiment pour eux ?",
+      "Ils ne me demandent jamais comment je vais.",
+      "Je contribue mais personne n'attribue cette contribution.",
+      "Je suis là mais je ne suis pas là."
+    ],
+
+    "effetsVoixLangage": [
+      "parle peu et en général pour faciliter les autres",
+      "ses contributions sont reprisent par d'autres sans attribution",
+      "ne s'oppose pas — acquiesce souvent pour ne pas prendre de place",
+      "questions posées à mi-voix, presque comme si elles n'étaient pas censées être entendues",
+      "récits personnels très courts — n'attend pas d'être écouté longtemps"
+    ],
+
+    "comportements": [
+      "accomplit les tâches pratiques que personne ne remarque",
+      "n'interrompt pas",
+      "part souvent sans que personne ne le note",
+      "peut disparaître du groupe progressivement",
+      "peut soudainement disparaître de manière plus radicale et surprendre tout le monde"
+    ],
+
+    "masquesPossibles": [
+      "utilité excessive — être indispensable pour compenser le fait de ne pas être vu",
+      "humour discret qui fait rire mais ne crée pas de lien",
+      "hyperactivité sociale de surface — présent partout, vu nulle part"
+    ],
+
+    "evolutionsPossibles": [
+      "rupture soudaine — le personnage cesse d'être disponible et ça crée un vide",
+      "retrait volontaire et progressif",
+      "rencontre avec quelqu'un qui le voit vraiment — transformation",
+      "colère tardive si le sentiment dure trop longtemps"
+    ],
+
+    "contextesAggravants": [
+      "structures sociales très hiérarchiques où le bas est ignoré",
+      "entourage très expressif ou très fort qui éclipse",
+      "absence de rituel d'inclusion — groupe qui ne fait pas attention aux nouveaux"
+    ],
+
+    "contextesAttenuants": [
+      "un seul regard qui remarque, qui retient",
+      "tâche ou événement qui rend visible",
+      "espace où les règles sociales habituelles ne s'appliquent pas"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère discrétion", "description": "Le personnage n'est pas remarqué autant qu'il le voudrait. Ça le touche peu." },
+      { "niveau": 2, "label": "Non-reconnaissance", "description": "Ses contributions ou sa présence sont régulièrement passées sous silence." },
+      { "niveau": 3, "label": "Invisibilité réelle", "description": "Le personnage a l'impression de ne pas exister dans certains espaces." },
+      { "niveau": 4, "label": "Effacement", "description": "Le personnage cesse d'essayer d'être vu. Il disparaît intérieurement avant de disparaître physiquement." },
+      { "niveau": 5, "label": "Extinction de soi", "description": "Le personnage a perdu le sens de sa propre présence. Il ne sait plus s'il compte." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui a choisi la discrétion",
+        "description": "L'invisibilité est une stratégie autant qu'une souffrance. Être non-remarqué lui permet de traverser sans attirer l'attention. Mais parfois, il voudrait être vu malgré tout."
+      },
+      {
+        "profil": "Personnage qui a grandi dans l'ombre d'un autre",
+        "description": "L'invisibilité est familière depuis l'enfance — un parent, un frère ou une sœur plus brillant. Elle est connue, intégrée, parfois presque confortable, même si elle blesse."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'invisibilité est une des émotions les plus silencieuses — elle ne se crie pas, elle se vit dans la discrétion de ne pas être entendu.",
+      "Sa force narrative est dans la rupture — le moment où ce personnage invisible finit par se voir, ou par agir.",
+      "À distinguer de la solitude (qui porte sur l'absence de liens) et du rejet (qui est actif)."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "retrait" },
+      { "type": "peut_evoluer_en", "cible": "colere-refoulee" },
+      { "type": "souvent_associe_a", "cible": "effacement" },
+      { "type": "peut_masquer", "cible": "besoin-de-reconnaissance" }
+    ]
+  },
+  {
+    "id": "nostalgie-relationnelle",
+    "label": "Nostalgie d'une relation perdue",
+    "famille": "solitude-rejet",
+    "definitionCourte": "Manque douloureux d'une personne spécifique ou d'une relation qui n'existe plus — non pas parce que l'autre est mort, mais parce que le lien s'est défait, transformé, ou éloigné.",
+
+    "signesPhysiques": [
+      "regard attendri ou triste au souvenir d'une photo, d'un message ancien",
+      "sourire qui vient et part vite — plaisir et douleur mêlés",
+      "immobilité lors des rappels — une chanson, une odeur, un lieu commun",
+      "soupir doux en évoquant cette personne",
+      "geste vers le téléphone qu'on ne prend finalement pas",
+      "pause avant de parler d'elle — comme si le nom coûtait",
+      "contact différent avec les objets liés à cette personne"
+    ],
+
+    "sensationsInternes": [
+      "creux dans la poitrine en pensant à ce qui était",
+      "chaleur du souvenir mêlée de la froideur du présent",
+      "sentiment que quelque chose d'important a changé et ne reviendra pas",
+      "désir de réentendre cette voix, de revoir ce visage — sans agir",
+      "impression que cette relation avait quelque chose d'unique"
+    ],
+
+    "pensees": [
+      "On ne parle plus comme avant.",
+      "Je me demande si elle pense encore à moi.",
+      "Je ne sais même pas si on pourrait renouer.",
+      "Quelque chose s'est perdu et je ne sais pas exactement quand.",
+      "Ce n'est plus la même relation.",
+      "Les gens changent. Je suppose que je le savais."
+    ],
+
+    "effetsVoixLangage": [
+      "parle de cette personne au passé, même si elle est encore en vie",
+      "hésite à utiliser le présent",
+      "anecdotes évoquées avec tendresse et mélancolie",
+      "silence à la mention d'un souvenir partagé",
+      "minimise parfois l'attachement encore présent"
+    ],
+
+    "comportements": [
+      "peut regarder d'anciennes photos ou lire d'anciens messages",
+      "hésite à contacter la personne — peur de ne pas retrouver ce qui était",
+      "compare parfois les relations actuelles à cette relation perdue",
+      "peut garder des objets liés à cette personne sans les utiliser",
+      "évite certains endroits ou certaines chansons"
+    ],
+
+    "masquesPossibles": [
+      "'on a évolué différemment' — minimiser le deuil du lien",
+      "affectation de détachement — 'ça fait longtemps'",
+      "activité sociale intense pour ne pas ressentir le manque"
+    ],
+
+    "evolutionsPossibles": [
+      "réconciliation ou contact renoué — qui peut décevoir ou surprendre",
+      "deuil définitif du lien qui libère",
+      "sublimation — le lien perdu nourrit d'autres relations",
+      "obsession si la nostalgie n'est jamais traversée"
+    ],
+
+    "contextesAggravants": [
+      "voir cette personne à distance — réseaux sociaux, nouvel entourage",
+      "entendre parler d'elle par quelqu'un de commun",
+      "lieu ou objet qui porte le souvenir de la relation",
+      "période de solitude qui rend le manque plus aigu"
+    ],
+
+    "contextesAttenuants": [
+      "nouveau lien qui comble partiellement le vide",
+      "nouvelles qui montrent que l'autre va bien — ça suffit parfois",
+      "temps passé qui estompe progressivement"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Douce nostalgie", "description": "Souvenir tendre d'une relation éloignée. Le personnage y pense parfois, sans souffrance marquée." },
+      { "niveau": 2, "label": "Manque", "description": "La relation manque. Le personnage se demande parfois ce qu'elle devient." },
+      { "niveau": 3, "label": "Nostalgie relationnelle", "description": "Le souvenir revient souvent. Le lien manque dans les moments importants." },
+      { "niveau": 4, "label": "Deuil du lien", "description": "La relation perdue laisse un vide difficile à combler. Le personnage a du mal à ne pas la comparer." },
+      { "niveau": 5, "label": "Impossibilité de tourner la page", "description": "Le personnage reste attaché à ce qui était. La relation perdue occupe l'espace qui devrait aller à ce qui est." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui a vécu peu de liens profonds",
+        "description": "La perte d'une relation rare est dévastatrice. Ce personnage ne sait pas comment s'y reprendre."
+      },
+      {
+        "profil": "Personnage très sociable",
+        "description": "La perte d'un lien précis l'étonne lui-même — il a plein de relations, pourquoi celui-là manque-t-il autant ?"
+      }
+    ],
+
+    "notesEditoriales": [
+      "Différente du deuil ordinaire : la personne est toujours là, quelque part. C'est le lien qui est mort, pas elle.",
+      "Très fertile pour les récits d'amitié perdue, d'éloignement progressif, de trahison non dite.",
+      "Le détail sensoriel est particulièrement puissant ici : une chanson, une odeur, un lieu commun."
+    ],
+
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "nostalgie" },
+      { "type": "peut_evoluer_en", "cible": "deuil" },
+      { "type": "peut_declencher", "cible": "contact-renoue" }
+    ]
+  }
+]

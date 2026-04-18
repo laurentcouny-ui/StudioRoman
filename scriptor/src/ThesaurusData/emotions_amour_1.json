@@ -1,0 +1,368 @@
+[
+  {
+    "id": "amour",
+    "label": "Amour",
+    "alias": [
+      "amour",
+      "attachement profond",
+      "passion",
+      "amour romantique",
+      "amour durable",
+      "amour fusionnel",
+      "dévotion",
+      "amour inconditionnel",
+      "sentiment amoureux",
+      "lien profond"
+    ],
+    "famille": "amour-lien",
+    "definitionCourte": "Attachement profond et durable à une personne, qui réorganise les priorités, altère la perception du monde et crée une vulnérabilité élective.",
+    "signesPhysiques": [
+      "regard qui s'attarde sans s'en rendre compte",
+      "sourire qui vient avant qu'on ait décidé de sourire",
+      "corps qui se tourne naturellement vers l'autre",
+      "voix légèrement plus douce à l'adresse de l'être aimé",
+      "contact physique recherché — main, épaule, bras",
+      "rougeur légère dans certains moments d'intensité",
+      "attention particulière au détail de l'autre (geste, expression)",
+      "ralentissement dans la présence à l'autre"
+    ],
+    "sensationsInternes": [
+      "chaleur dans la poitrine en présence de l'autre",
+      "sentiment d'être plus soi-même avec lui ou elle",
+      "légèreté qui arrive sans raison apparente",
+      "douleur sourde en son absence",
+      "désir de connaître chaque détail de l'autre",
+      "sentiment de plénitude dans les moments partagés",
+      "vulnérabilité acceptée, presque choisie"
+    ],
+    "pensees": [
+      "Je veux qu'il soit bien.",
+      "Je pense à lui sans l'avoir décidé.",
+      "Sa présence change tout.",
+      "Est-ce qu'il ressent la même chose ?",
+      "Je ferai ce qu'il faut pour que ça dure.",
+      "Il me manque quand il n'est pas là.",
+      "Je vois le monde différemment depuis que je le connais.",
+      "Je ne veux pas lui faire de mal."
+    ],
+    "effetsVoixLangage": [
+      "voix plus douce, plus posée dans les échanges intimes",
+      "attention plus grande à ce que l'autre dit",
+      "moins de défense, moins d'ironie",
+      "pronoms qui changent : « on » revient",
+      "anecdotes qui reviennent sur l'être aimé sans raison apparente",
+      "silence confortable possible"
+    ],
+    "comportements": [
+      "modifie son emploi du temps pour être disponible",
+      "remarque et retient les détails de l'autre",
+      "adapte ses habitudes à celles de l'autre sans s'en rendre compte",
+      "prend soin sans qu'on le lui demande",
+      "choisit ses mots avec plus de soin",
+      "ressent la joie ou la peine de l'autre comme la sienne",
+      "présente l'autre aux gens qui comptent",
+      "garde des traces — photos, messages, objets"
+    ],
+    "masquesPossibles": [
+      "indifférence jouée",
+      "ironie distante qui cache la vulnérabilité",
+      "friendship qui protège l'amour non déclaré",
+      "attachement nié par peur du rejet"
+    ],
+    "evolutionsPossibles": [
+      "tendresse durable si l'amour se stabilise",
+      "jalousie si la sécurité est menacée",
+      "désir accru si l'amour est physiquement intense",
+      "deuil si la relation se rompt",
+      "attachement anxieux si la peur de perdre domine"
+    ],
+    "contextesAggravants": [
+      "distance géographique",
+      "opposition de l'entourage",
+      "secret ou dissimulation",
+      "amour non partagé",
+      "rival ou menace perçue"
+    ],
+    "contextesAttenuants": [
+      "réciprocité confirmée",
+      "présence physique partagée",
+      "confiance installée dans le temps",
+      "partage d'une épreuve surmontée ensemble"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Attirance", "description": "Intérêt particulier, plaisir de la présence. Pas encore d'attachement profond." },
+      { "niveau": 2, "label": "Sentiment naissant", "description": "Le personnage commence à penser à l'autre en dehors de sa présence. Une place se crée." },
+      { "niveau": 3, "label": "Amour établi", "description": "L'attachement est réel, profond, intégré. L'autre compte pour de vrai." },
+      { "niveau": 4, "label": "Amour intense", "description": "L'autre occupe une place centrale dans la vie intérieure. L'amour influence les décisions majeures." },
+      { "niveau": 5, "label": "Amour total", "description": "Le personnage est entièrement investi. La vie sans l'autre est inimaginable." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui a peur d'aimer",
+        "description": "L'amour arrive comme une menace. Plus il aime, plus il est exposé. Il alterne entre retrait et élan. La vulnérabilité est vécue comme un danger."
+      },
+      {
+        "profil": "Personnage sécurisé",
+        "description": "L'amour est une évidence tranquille. Il ne met pas en danger. Il s'exprime avec calme et constance. La solidité n'est pas l'absence de sentiment."
+      },
+      {
+        "profil": "Personnage amoureux pour la première fois",
+        "description": "Tout est nouveau et intense. Les signaux sont surinterprétés. L'amour occupe tout l'espace mental. Le monde extérieur perd de sa réalité."
+      }
+    ],
+    "notesEditoriales": [
+      "L'amour est plus puissant en fiction quand il rend le personnage vulnérable à quelque chose de précis.",
+      "Éviter de le réduire à l'attirance physique : l'amour durable est fait de connaissance et d'acceptation.",
+      "Sa texture narrative la plus riche est dans les petits gestes, pas dans les grandes déclarations.",
+      "L'amour contrarié ou non dit crée plus de tension que l'amour partagé."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "jalousie" },
+      { "type": "peut_evoluer_en", "cible": "tendresse" },
+      { "type": "peut_evoluer_en", "cible": "deuil" },
+      { "type": "souvent_associe_a", "cible": "desir" },
+      { "type": "peut_masquer", "cible": "peur-de-l-abandon" },
+      { "type": "peut_declencher", "cible": "sacrifice" }
+    ]
+  },
+  {
+    "id": "tendresse",
+    "label": "Tendresse",
+    "alias": [
+      "tendresse",
+      "affection douce",
+      "douceur pour l'autre",
+      "bienveillance aimante",
+      "attachement doux",
+      "amour tendre",
+      "sollicitude",
+      "soin affectueux",
+      "tendresse protectrice",
+      "affection filiale ou fraternelle"
+    ],
+    "famille": "amour-lien",
+    "definitionCourte": "Forme douce et protectrice d'affection qui ne cherche pas de retour immédiat, souvent mêlée d'un désir de préserver l'autre de ce qui pourrait lui faire du mal.",
+    "signesPhysiques": [
+      "contact physique doux — main qui se pose, épaule qu'on touche légèrement",
+      "sourire lent, presque invisible",
+      "regard qui adoucit les traits du visage",
+      "voix plus douce et plus basse",
+      "gestes qui font attention",
+      "mouvement vers l'autre calme et sans brusquerie",
+      "ajustement d'un détail sur l'autre (mèche, col)"
+    ],
+    "sensationsInternes": [
+      "chaleur tranquille dans la poitrine",
+      "sentiment de vouloir protéger sans étouffer",
+      "plaisir silencieux de la présence de l'autre",
+      "douceur légèrement douloureuse face à la fragilité de l'autre",
+      "patience naturelle",
+      "désir de bien sans condition"
+    ],
+    "pensees": [
+      "Je veux qu'il soit bien.",
+      "C'est fragile, ça.",
+      "Je l'aime pour ce qu'il est, pas pour ce qu'il fait.",
+      "Je prendrai soin de lui.",
+      "Sa maladresse est émouvante.",
+      "Je ne veux pas que ça lui arrive.",
+      "Je suis là.",
+      "Je ne lui en veux pas."
+    ],
+    "effetsVoixLangage": [
+      "voix apaisée, sans urgence",
+      "diminutifs ou prénoms dits autrement",
+      "silence confortable",
+      "questions qui s'intéressent vraiment",
+      "reformulations douces des pensées de l'autre"
+    ],
+    "comportements": [
+      "prépare ce qu'il sait que l'autre aime",
+      "reste là sans forcer la conversation",
+      "protège sans l'afficher",
+      "corrige en douceur, sans froisser",
+      "prend la défense de l'autre discrètement",
+      "se souvient des petites choses importantes pour l'autre",
+      "laisse de l'espace sans disparaître"
+    ],
+    "masquesPossibles": [
+      "brusquerie qui cache la tendresse",
+      "humour qui couvre l'affection",
+      "indifférence de façade",
+      "froideur pudique"
+    ],
+    "evolutionsPossibles": [
+      "amour profond si la tendresse est réciproque et dure",
+      "tristesse si la fragilité de l'autre s'aggrave",
+      "protectionnisme excessif si la peur domine",
+      "gratitude de l'autre qui renforce le lien"
+    ],
+    "contextesAggravants": [
+      "tendresse non reçue ou rejetée",
+      "fragilité trop grande de l'autre qui épuise",
+      "tendresse coupable dans un contexte interdit"
+    ],
+    "contextesAttenuants": [
+      "réciprocité de la tendresse",
+      "moment calme partagé",
+      "contact physique simple accepté"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Bienveillance", "description": "Affection légère, distante. Le personnage veut du bien sans investissement fort." },
+      { "niveau": 2, "label": "Affection douce", "description": "La tendresse est sensible mais contenue. Elle se lit dans les petits gestes." },
+      { "niveau": 3, "label": "Tendresse vraie", "description": "Le personnage est mû par la tendresse. Elle guide ses choix dans la scène." },
+      { "niveau": 4, "label": "Tendresse profonde", "description": "L'affection est stable et durable. Elle s'exprime naturellement et sans calcul." },
+      { "niveau": 5, "label": "Dévouement tendre", "description": "La tendresse est un engagement total. Le personnage se sacrifie sans s'en rendre compte." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui ne sait pas montrer ses émotions",
+        "description": "La tendresse passe par les actes, jamais par les mots. Il répare, prépare, protège — mais ne dit pas. L'autre doit apprendre à lire entre les lignes."
+      },
+      {
+        "profil": "Parent ou figure parentale",
+        "description": "La tendresse est mêlée d'une peur permanente pour l'autre. Elle prend une forme vigilante, attentive aux détails. Elle peut basculer facilement dans la surprotection."
+      },
+      {
+        "profil": "Personnage endurci",
+        "description": "La tendresse le déroute presque. Il ne s'y attendait plus. Elle sort maladroitement, par fragments. Mais sa rareté la rend d'autant plus précieuse."
+      }
+    ],
+    "notesEditoriales": [
+      "La tendresse est une émotion de la durée — elle se montre dans les gestes répétés, pas dans les grands moments.",
+      "Elle est souvent plus émouvante quand elle vient d'un personnage qu'on n'attendait pas à l'être.",
+      "Distinguer de l'amour romantique : la tendresse peut exister sans désir.",
+      "La tendresse envers quelqu'un qu'on a blessé est narrativement très riche."
+    ],
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "amour" },
+      { "type": "peut_evoluer_en", "cible": "protection" },
+      { "type": "peut_masquer", "cible": "culpabilite" },
+      { "type": "peut_coexister_avec", "cible": "tristesse" },
+      { "type": "peut_suivre", "cible": "reconciliation" },
+      { "type": "souvent_associe_a", "cible": "soin" }
+    ]
+  },
+  {
+    "id": "desir",
+    "label": "Désir",
+    "alias": [
+      "désir",
+      "attirance physique",
+      "désir charnel",
+      "envie de l'autre",
+      "attraction",
+      "désir amoureux",
+      "désir sexuel",
+      "tension physique",
+      "convoitise",
+      "envie intense"
+    ],
+    "famille": "amour-lien",
+    "definitionCourte": "Attirance physique et émotionnelle vers une personne, qui crée une tension intérieure et une focalisation involontaire sur l'autre.",
+    "signesPhysiques": [
+      "regard qui revient malgré soi sur l'autre",
+      "pupilles légèrement dilatées",
+      "voix qui se modifie légèrement à l'adresse de l'autre",
+      "corps qui se rapproche sans l'avoir décidé",
+      "conscience aiguë de la présence physique de l'autre",
+      "rougeur légère selon le contexte",
+      "gestes ralentis, plus mesurés en présence de l'autre",
+      "sourire différent — plus bas, moins large"
+    ],
+    "sensationsInternes": [
+      "chaleur dans le bas du ventre ou la poitrine",
+      "attention qui se fixe sur l'autre malgré les efforts pour la détourner",
+      "tension agréable mais difficile à tenir",
+      "conscience physique de l'espace entre l'autre et soi",
+      "accélération légère du pouls",
+      "impatience difficile à nommer",
+      "plaisir et inconfort mêlés"
+    ],
+    "pensees": [
+      "Je ne peux pas m'empêcher de le regarder.",
+      "Je voudrais qu'il s'approche.",
+      "Ce n'est peut-être pas le moment.",
+      "Est-ce qu'il ressent la même chose ?",
+      "Je n'arrive pas à penser à autre chose.",
+      "Ce serait une erreur — peut-être.",
+      "Je n'ai pas décidé de ressentir ça.",
+      "La distance entre nous est intenable."
+    ],
+    "effetsVoixLangage": [
+      "voix légèrement plus basse",
+      "débit ralenti en présence de l'autre",
+      "formulations plus prudentes",
+      "silences chargés",
+      "sous-entendus involontaires",
+      "contact du regard maintenu une seconde de trop"
+    ],
+    "comportements": [
+      "cherche des raisons de rester proche",
+      "trouve des prétextes pour un contact physique",
+      "remarque et retient les détails physiques de l'autre",
+      "éprouve de la jalousie si un tiers s'approche",
+      "résiste — ou ne résiste pas — selon le contexte",
+      "parle de l'autre plus qu'il ne devrait",
+      "cherche à plaire sans le formuler"
+    ],
+    "masquesPossibles": [
+      "indifférence jouée",
+      "agressivité légère",
+      "professionnalisme excessif",
+      "humour distanciateur"
+    ],
+    "evolutionsPossibles": [
+      "amour si le désir se double d'attachement",
+      "frustration si le désir n'est pas partagé",
+      "regret si le désir est agi et qu'il n'aurait pas dû",
+      "obsession si le désir n'est jamais résolu"
+    ],
+    "contextesAggravants": [
+      "interdit (relation professionnelle, engagement existant)",
+      "proximité physique prolongée sans possibilité d'issue",
+      "ambiguïté non résolue",
+      "désir non partagé"
+    ],
+    "contextesAttenuants": [
+      "distance physique",
+      "résolution (dans un sens ou dans l'autre)",
+      "contexte qui impose une autre priorité"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Attirance légère", "description": "L'autre plaît. Cela ne prend pas de place." },
+      { "niveau": 2, "label": "Désir sensible", "description": "Le personnage pense à l'autre en dehors de sa présence. C'est agréable et un peu gênant." },
+      { "niveau": 3, "label": "Désir franc", "description": "La tension est perceptible. Le personnage doit gérer ce qu'il ressent." },
+      { "niveau": 4, "label": "Désir intense", "description": "L'attirance est difficile à contenir. Elle modifie les comportements." },
+      { "niveau": 5, "label": "Désir obsessionnel", "description": "Le personnage ne pense plus à autre chose. L'autre occupe tout l'espace mental." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage en lien d'autorité",
+        "description": "Le désir est vécu comme une transgression. Il génère une lutte intérieure intense. L'autre est à la fois trop proche et intouchable."
+      },
+      {
+        "profil": "Personnage libre",
+        "description": "Le désir est accueilli comme une information. Il décide de ce qu'il en fait. Pas de culpabilité — seulement le choix."
+      },
+      {
+        "profil": "Personnage qui confond désir et amour",
+        "description": "L'intensité physique est interprétée comme un signe de quelque chose de plus profond. La désillusion est possible si la réalité ne suit pas."
+      }
+    ],
+    "notesEditoriales": [
+      "Le désir se montre mieux dans ce qu'il empêche de faire que dans ce qu'il provoque.",
+      "La tension non résolue est plus narrative que la résolution.",
+      "Éviter de le réduire au physique : le désir porte aussi une dimension de fascination, de curiosité pour l'autre.",
+      "Le désir dans un contexte impossible crée une dynamique narrative puissante."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "amour" },
+      { "type": "peut_evoluer_en", "cible": "frustration" },
+      { "type": "peut_evoluer_en", "cible": "jalousie" },
+      { "type": "souvent_associe_a", "cible": "tension-non-resolue" },
+      { "type": "peut_masquer", "cible": "besoin-de-lien" },
+      { "type": "peut_declencher", "cible": "transgression" }
+    ]
+  }
+]

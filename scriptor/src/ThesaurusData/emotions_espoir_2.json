@@ -1,0 +1,317 @@
+[
+  {
+    "id": "aspiration",
+    "label": "Aspiration",
+    "famille": "espoir-attente",
+    "definitionCourte": "Désir profond et orienté vers un idéal — quelque chose qu'on veut devenir, atteindre ou vivre, et qui tire le personnage vers l'avant sans garantie d'y arriver.",
+
+    "signesPhysiques": [
+      "regard qui se lève légèrement quand le sujet est évoqué",
+      "voix qui prend une qualité différente — plus douce ou plus intense",
+      "posture qui s'ouvre vers l'avenir — légère orientation en avant",
+      "sourire qui vient de loin — de quelque chose qu'on n'a pas encore mais qu'on imagine",
+      "geste d'ouverture des mains quand il en parle",
+      "silence bref avant de répondre — comme si le mot 'aspiration' méritait une pause",
+      "légère luminosité dans le regard"
+    ],
+
+    "sensationsInternes": [
+      "traction vers quelque chose d'absent mais ressenti comme juste",
+      "chaleur légère dans la poitrine à l'évocation de l'idéal",
+      "sentiment que ce n'est pas encore là mais que c'est possible",
+      "tension douce entre le présent et ce qu'on voudrait",
+      "énergie disponible pour ce qui va dans ce sens"
+    ],
+
+    "pensees": [
+      "Je veux ça.",
+      "C'est possible si je...",
+      "Je n'y suis pas encore mais j'y travaille.",
+      "Ça donnerait du sens à tout ça.",
+      "Je veux devenir quelqu'un qui...",
+      "Si j'y arrivais, j'aurais la paix."
+    ],
+
+    "effetsVoixLangage": [
+      "formulations tournées vers l'avenir",
+      "plans, projets, possibilités — le conditionnel présent",
+      "parle de son idéal avec une précision particulière — il le connaît bien",
+      "peut paraître rêveur ou idéaliste",
+      "distingue clairement ce qu'il veut de ce qu'il a"
+    ],
+
+    "comportements": [
+      "oriente ses choix dans la direction de l'aspiration",
+      "peut sacrifier des conforts présents pour s'en rapprocher",
+      "observe ceux qui vivent selon son idéal avec attention",
+      "peut ressentir une frustration douce quand quelque chose va à l'encontre",
+      "revient à l'aspiration comme à une boussole"
+    ],
+
+    "masquesPossibles": [
+      "pragmatisme qui cache l'idéal — 'je fais juste mon travail'",
+      "minimisation de l'aspiration par peur d'être moqué",
+      "cynisme de surface qui masque un idéalisme intact"
+    ],
+
+    "evolutionsPossibles": [
+      "réalisation — l'aspiration devient réalité",
+      "révision — l'idéal change au contact du réel",
+      "abandon douloureux — renoncer à ce qu'on voulait devenir",
+      "transmission — aider quelqu'un d'autre à aspirer à ce qu'on n'a pas pu atteindre"
+    ],
+
+    "contextesAggravants": [
+      "obstacle structurel entre le présent et l'idéal",
+      "entourage qui ne comprend pas ou qui décourage",
+      "rencontre avec quelqu'un qui a atteint l'idéal — peut amplifier ou décourager"
+    ],
+
+    "contextesAttenuants": [
+      "petite avancée concrète vers l'aspiration",
+      "rencontre avec quelqu'un qui partage et comprend",
+      "contexte qui permet l'expression partielle de l'idéal"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Envie vague", "description": "Direction diffuse. Le personnage n'a pas encore nommé ce qu'il veut." },
+      { "niveau": 2, "label": "Désir orienté", "description": "Sait ce qu'il aspire à. Cela guide certains choix." },
+      { "niveau": 3, "label": "Aspiration", "description": "L'idéal est clair et motivant. Structure sa vie autour." },
+      { "niveau": 4, "label": "Aspiration profonde", "description": "La distance entre le présent et l'idéal est une source de tension productive." },
+      { "niveau": 5, "label": "Vocation", "description": "L'aspiration est totale — identitaire. La vie autour est organisée en fonction." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage jeune",
+        "description": "L'aspiration est large, parfois floue, mais intense. Elle peut changer plusieurs fois avant de se fixer."
+      },
+      {
+        "profil": "Personnage en milieu de vie",
+        "description": "L'aspiration est souvent plus précise et plus chargée — le temps pèse. Ce personnage sait ce qu'il n'a pas encore fait et ne sait pas combien de temps il reste."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'aspiration est l'une des motivations les plus fortes narrativement — elle donne au personnage une direction sans garantie.",
+      "Elle est plus intéressante en tension avec le réel qu'en harmonie avec lui.",
+      "À distinguer de l'ambition (tournée vers le pouvoir ou la réussite) et de l'espoir (tourné vers un événement futur)."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "action" },
+      { "type": "peut_evoluer_en", "cible": "desespoir" },
+      { "type": "souvent_associe_a", "cible": "patience" }
+    ]
+  },
+  {
+    "id": "febrilite",
+    "label": "Fébrilité",
+    "famille": "espoir-attente",
+    "definitionCourte": "Agitation intérieure liée à l'attente de quelque chose d'important — ni angoisse ni joie pure, mais une tension excitée qui traverse le corps avant un événement anticipé.",
+
+    "signesPhysiques": [
+      "mouvement des mains plus fréquent que d'habitude",
+      "débit légèrement plus rapide",
+      "incapacité à rester immobile longtemps",
+      "regard plus vif, plus mobile",
+      "sourires qui viennent et partent rapidement",
+      "tendance à vérifier l'heure ou les messages",
+      "petits gestes répétitifs — tapoter, bouger les pieds"
+    ],
+
+    "sensationsInternes": [
+      "chaleur légère dans la poitrine qui monte et descend",
+      "légère accélération cardiaque",
+      "impression que le temps passe trop lentement",
+      "énergie disponible mais sans direction précise encore",
+      "mélange de plaisir anticipé et d'incertitude"
+    ],
+
+    "pensees": [
+      "Plus que X heures.",
+      "Pourvu que ça se passe bien.",
+      "Je n'arrive pas à penser à autre chose.",
+      "Ça va être bien, j'en suis sûr.",
+      "Et si ça ne se passait pas comme prévu ?",
+      "Allez."
+    ],
+
+    "effetsVoixLangage": [
+      "sujet de conversation revient à l'événement attendu",
+      "phrases plus courtes, plus nerveuses",
+      "rit plus facilement — la fébrilité rend poreuse",
+      "positivisme excessif ou inquiétude légère selon la personnalité",
+      "difficile de se concentrer vraiment sur autre chose"
+    ],
+
+    "comportements": [
+      "vérifie plusieurs fois les préparatifs",
+      "parle beaucoup de l'événement à venir",
+      "a du mal à dormir la veille",
+      "commence des choses sans les finir — l'attention dérive",
+      "peut être légèrement irritable si quelque chose interfère"
+    ],
+
+    "masquesPossibles": [
+      "désinvolture affichée — 'je ne suis pas du genre à stresser'",
+      "suractivité sur d'autres tâches pour canaliser l'énergie",
+      "laconisme — refus de montrer à quel point ça compte"
+    ],
+
+    "evolutionsPossibles": [
+      "soulagement si l'événement se passe bien",
+      "déception si les attentes n'étaient pas réalistes",
+      "résolution de la tension — le corps retombe",
+      "répétition — certains personnages fonctionnent dans un état de fébrilité chronique"
+    ],
+
+    "contextesAggravants": [
+      "enjeu important ou incertain",
+      "longue attente",
+      "nouvelle inquiétante en amont de l'événement"
+    ],
+
+    "contextesAttenuants": [
+      "distraction efficace",
+      "présence d'un proche calme",
+      "rituel personnel qui canalise l'énergie"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère impatience", "description": "L'événement approche. Le personnage est légèrement plus animé." },
+      { "niveau": 2, "label": "Fébrilité légère", "description": "Visible pour les proches. Le personnage tient en place." },
+      { "niveau": 3, "label": "Fébrilité", "description": "Agitation notable. Difficile de se concentrer sur autre chose." },
+      { "niveau": 4, "label": "Tension excitée", "description": "L'attente occupe presque tout. La fébrilité commence à gêner." },
+      { "niveau": 5, "label": "Nervosité intense", "description": "L'agitation est difficile à maîtriser. Peut être perçue comme de l'anxiété." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage expressif",
+        "description": "La fébrilité est contagieuse — il partage et amplifie autour de lui."
+      },
+      {
+        "profil": "Personnage qui se contrôle",
+        "description": "La fébrilité est contenue mais lisible dans les petits détails — les mains, la voix, le regard."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La fébrilité est utile pour montrer ce qui compte pour un personnage — il ne peut pas feindre l'indifférence quand il est fébrile.",
+      "Elle est plus précise et plus humaine que l'anxiété générique.",
+      "À utiliser avant un événement clé pour ancrer l'enjeu dans le corps du personnage."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "soulagement" },
+      { "type": "peut_evoluer_en", "cible": "deception" },
+      { "type": "souvent_associe_a", "cible": "impatience" }
+    ]
+  },
+  {
+    "id": "confiance-retrouvee",
+    "label": "Confiance retrouvée",
+    "famille": "espoir-attente",
+    "definitionCourte": "Retour progressif à la confiance — en quelqu'un, en quelque chose, ou en soi-même — après une période de méfiance, de doute ou de trahison. Fragile, précieuse, teintée de mémoire.",
+
+    "signesPhysiques": [
+      "posture qui s'ouvre progressivement — moins de fermeture",
+      "regard plus direct, moins défensif",
+      "gestes plus détendus, moins surveillés",
+      "sourire qui dure un peu plus longtemps qu'avant",
+      "corps qui se rapproche légèrement au lieu de maintenir la distance habituelle",
+      "moins de vérification dans les comportements",
+      "respiration plus ample en présence de la personne ou du contexte concerné"
+    ],
+
+    "sensationsInternes": [
+      "chaleur prudente — pas encore totale, mais là",
+      "légèreté de ne pas avoir à se défendre",
+      "conscience aiguë que quelque chose a changé",
+      "mélange de soulagement et de vulnérabilité",
+      "douceur un peu étrange — l'habitude de la méfiance résiste encore"
+    ],
+
+    "pensees": [
+      "Peut-être que c'est différent cette fois.",
+      "Je peux lâcher un peu.",
+      "Il n'est pas comme les autres.",
+      "Ça fait du bien.",
+      "Je me rends compte que j'ai baissé ma garde.",
+      "Et si c'était vrai ?"
+    ],
+
+    "effetsVoixLangage": [
+      "partage des informations plus personnelles — prudent mais plus ouvert",
+      "moins de questions défensives",
+      "ton plus doux et moins surveillé",
+      "formulations qui laissent entrer l'autre",
+      "aveux discrets de ce qu'il ressentait avant"
+    ],
+
+    "comportements": [
+      "accepte de l'aide sans autant de résistance",
+      "initie des contacts plutôt que d'attendre",
+      "parle de lui-même davantage",
+      "reste attentif aux signes — la confiance reste conditionnelle",
+      "peut nommer avec pudeur que quelque chose a changé"
+    ],
+
+    "masquesPossibles": [
+      "prudence maintenue pour ne pas avoir l'air vulnérable",
+      "humour qui dédramatise la nouveauté de l'ouverture",
+      "faux-semblant de rien pour protéger la fragilité"
+    ],
+
+    "evolutionsPossibles": [
+      "confiance pleine si rien ne vient la briser",
+      "rechute brutale si une trahison — même mineure — survient",
+      "transmission — aide quelqu'un d'autre à faire le même chemin",
+      "transformation — le personnage devient différent grâce à cette confiance"
+    ],
+
+    "contextesAggravants": [
+      "événement ambigu qui peut être interprété comme trahison",
+      "rappel de la blessure ancienne",
+      "tiers qui met en doute la fiabilité de l'autre"
+    ],
+
+    "contextesAttenuants": [
+      "comportement cohérent de l'autre dans le temps",
+      "moment de vulnérabilité partagée",
+      "acte qui dépasse les attentes"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Ouverture prudente", "description": "Début de détente. Le personnage laisse entrer un peu plus." },
+      { "niveau": 2, "label": "Confiance naissante", "description": "Quelque chose se reconstruit. Fragile mais présent." },
+      { "niveau": 3, "label": "Confiance retrouvée", "description": "Réelle mais consciente de sa fragilité. Le personnage y tient." },
+      { "niveau": 4, "label": "Foi renouvelée", "description": "La confiance est profonde à nouveau. Elle a traversé quelque chose." },
+      { "niveau": 5, "label": "Confiance totale", "description": "Plus forte qu'avant la blessure parce qu'elle a été reconstruite." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage très méfiant de base",
+        "description": "La confiance retrouvée est un bouleversement — ce personnage ne se reconnaît pas. Elle est d'autant plus précieuse."
+      },
+      {
+        "profil": "Personnage qui revient de loin",
+        "description": "La blessure était grande. La confiance ne retrouve pas sa forme d'avant — elle est différente, plus consciente, moins naïve."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La confiance retrouvée est narrativement forte parce qu'elle implique un changement intérieur — quelque chose qui a été choisi malgré la peur.",
+      "Elle est souvent plus intéressante que la confiance initiale parce qu'elle a une histoire.",
+      "À distinguer de la naïveté recouvrée : la confiance retrouvée sait ce qu'elle risque."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "mefiance" },
+      { "type": "peut_evoluer_en", "cible": "confiance" },
+      { "type": "souvent_associe_a", "cible": "vulnerabilite" }
+    ]
+  }
+]

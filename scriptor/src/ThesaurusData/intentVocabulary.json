@@ -1,0 +1,898 @@
+[
+  {
+    "id": "emotions-generales",
+    "famille": "emotions",
+    "label": "Émotions",
+    "reformulation": "Tu sembles chercher comment rendre visible l'état intérieur de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "comment montrer", "rendre visible", "ce qu'il ressent", "ce qu'elle ressent",
+      "émotion", "ressent quelque chose", "état émotionnel", "vie intérieure",
+      "trop froid", "trop neutre", "le lecteur ne ressent rien", "scène sans affect",
+      "manque d'émotion", "personnage sans émotion", "plat émotionnellement",
+      "comment écrire", "traduire en acte", "montrer sans dire",
+      "exprimer un sentiment", "rendre palpable", "faire sentir au lecteur"
+    ],
+    "mots": [
+      "émotion", "émotionnel", "ressent", "sentiment", "affect", "intérieur",
+      "réagit", "réaction", "touché", "bouleversé", "agité", "troublé"
+    ]
+  },
+  {
+    "id": "emotions-colere",
+    "famille": "emotions",
+    "sousFamille": "colere-rage-frustration",
+    "label": "Colère / Rage / Frustration",
+    "reformulation": "Tu sembles chercher comment rendre visible la colère ou la frustration de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "explose", "pète les plombs", "hors de lui", "hors d'elle",
+      "s'emporte", "perd le contrôle", "monte en rage", "en colère",
+      "frustré", "bout de nerfs", "éclate", "explose de rage",
+      "ne supporte plus", "fed up", "exaspéré", "agacé profondément",
+      "colère froide", "retient sa colère", "rage contenue",
+      "violence rentrée", "agressivité", "hostile", "irascible"
+    ],
+    "mots": [
+      "colère", "rage", "fureur", "furieux", "furieuse", "frustration",
+      "frustré", "énervé", "irrité", "agacé", "exaspéré", "hostile",
+      "agressif", "violence", "éclat", "explose", "ressentiment", "rancœur"
+    ]
+  },
+  {
+    "id": "emotions-peur",
+    "famille": "emotions",
+    "sousFamille": "peur-terreur-anxiete",
+    "label": "Peur / Anxiété / Terreur",
+    "reformulation": "Tu sembles chercher comment rendre visible la peur ou l'anxiété de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "a peur", "prend peur", "terrorisé", "angoissé", "anxieux",
+      "tremble de peur", "paralysé par la peur", "panique", "terreur",
+      "peur sourde", "appréhension", "crainte", "n'ose pas",
+      "quelque chose qui fait peur", "scène qui fait peur",
+      "tension avant quelque chose", "pressentiment",
+      "menace qui approche", "peur de perdre", "peur de l'échec"
+    ],
+    "mots": [
+      "peur", "terreur", "frayeur", "angoisse", "anxiété", "anxieux",
+      "panique", "phobie", "crainte", "appréhension", "tremble",
+      "paralysé", "inhibé", "tétanisé", "effrayé", "apeuré"
+    ]
+  },
+  {
+    "id": "emotions-tristesse",
+    "famille": "emotions",
+    "sousFamille": "tristesse-melancolie-deuil",
+    "label": "Tristesse / Mélancolie / Deuil",
+    "reformulation": "Tu sembles chercher comment rendre visible la tristesse ou le deuil de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "triste", "pleure", "larmes", "chagrin", "mélancolie", "cafard",
+      "déprimé", "abattu", "effondré", "deuil", "perte", "manque",
+      "nostalgie", "regret", "langueur", "vide intérieur",
+      "rien ne va", "ne trouve plus de joie", "lourd à porter",
+      "porte quelque chose de lourd", "ne va pas bien", "mal"
+    ],
+    "mots": [
+      "tristesse", "triste", "chagrin", "deuil", "mélancolie", "nostalgie",
+      "regret", "perte", "larmes", "pleure", "abattu", "cafard",
+      "langueur", "vide", "effondré", "inconsolable"
+    ]
+  },
+  {
+    "id": "emotions-joie",
+    "famille": "emotions",
+    "sousFamille": "joie-enthousiasme-soulagement",
+    "label": "Joie / Soulagement / Enthousiasme",
+    "reformulation": "Tu sembles chercher comment rendre visible la joie ou le soulagement de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "heureux", "heureuse", "joie", "soulagement", "enthousiaste",
+      "légèreté", "euphorique", "rayonne", "tout va bien soudain",
+      "soulagé", "enfin", "moment de bonheur", "scène positive",
+      "allégresse", "jubile", "tout sourire", "légèreté soudaine",
+      "respiré", "poids enlevé", "fête", "victoire émotionnelle"
+    ],
+    "mots": [
+      "joie", "bonheur", "heureux", "heureuse", "soulagement", "soulagé",
+      "enthousiasme", "enthousiaste", "légèreté", "euphorie", "allégresse",
+      "jubilation", "rire", "sourire", "espoir"
+    ]
+  },
+  {
+    "id": "emotions-honte",
+    "famille": "emotions",
+    "sousFamille": "honte-culpabilite-embarras",
+    "label": "Honte / Culpabilité / Embarras",
+    "reformulation": "Tu sembles chercher comment rendre visible la honte ou la culpabilité de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "honte", "honteux", "honteuse", "gêné", "embarrassé", "rougit",
+      "culpabilité", "coupable", "se sent coupable", "remords",
+      "n'arrive pas à se le pardonner", "erreur qu'il a commise",
+      "humilié", "humiliation", "rabaissé", "se juge",
+      "regard des autres", "ne se pardonne pas", "se reproche"
+    ],
+    "mots": [
+      "honte", "culpabilité", "remords", "embarras", "gêne", "humiliation",
+      "honteux", "coupable", "rougit", "mortifié", "vergogne", "regret"
+    ]
+  },
+  {
+    "id": "emotions-degout",
+    "famille": "emotions",
+    "sousFamille": "degout-mepris",
+    "label": "Dégoût / Mépris / Répulsion",
+    "reformulation": "Tu sembles chercher comment rendre visible le dégoût, la répulsion ou le mépris de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "dégoût", "dégoûté", "dégoûtée", "écœuré", "écœurée", "répugnance",
+      "répulsion", "aversion", "mépris", "méprise", "crache sur",
+      "recule avec dégoût", "horreur physique", "nausée", "sans dégoût"
+    ],
+    "mots": [
+      "dégoût", "dégout", "degout", "répugnance", "répulsion", "aversion",
+      "écœurement", "écoeurement", "mépris", "nausée", "révoltant", "révoltante",
+      "sordide", "répugnant", "répugnante", "horreur", "écœurant", "écoeurant"
+    ]
+  },
+  {
+    "id": "emotions-amour",
+    "famille": "emotions",
+    "sousFamille": "amour-tendresse-desir",
+    "label": "Amour / Tendresse / Désir",
+    "reformulation": "Tu sembles chercher comment rendre visible l'amour, la tendresse ou le désir de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "amoureux", "amoureuse", "tombe amoureux", "désire", "attire",
+      "tendresse", "affection", "sentiment amoureux", "relation amoureuse",
+      "jaloux", "jalousie", "désir", "attirance", "séduction",
+      "aimer quelqu'un", "sentiments pour quelqu'un",
+      "comment montrer l'amour sans le dire", "retient ses sentiments"
+    ],
+    "mots": [
+      "amour", "amoureux", "amoureuse", "désir", "tendresse", "affection",
+      "jalousie", "jaloux", "attirance", "attachement", "passion",
+      "adoration", "convoitise", "dévotion"
+    ]
+  },
+  {
+    "id": "emotions-desespoir",
+    "famille": "emotions",
+    "sousFamille": "desespoir-resignation",
+    "label": "Désespoir / Résignation / Épuisement moral",
+    "reformulation": "Tu sembles chercher comment rendre visible le désespoir ou l'épuisement moral de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "désespoir", "désespéré", "plus d'espoir", "a abandonné",
+      "résigné", "plus envie", "plus de force", "capitule",
+      "épuisement moral", "épuisé de se battre", "n'en peut plus",
+      "lâche", "lâche prise", "abandonne tout", "à bout",
+      "vide de sens", "plus rien ne compte", "indifférent à tout",
+      "détresse", "effondrement", "rupture intérieure"
+    ],
+    "mots": [
+      "désespoir", "désespéré", "résignation", "résigné", "épuisement",
+      "détresse", "effondrement", "abandon", "vide", "lassitude",
+      "abdique", "capitule", "renoncement"
+    ]
+  },
+  {
+    "id": "emotions-complexes",
+    "famille": "emotions",
+    "sousFamille": "emotions-complexes",
+    "label": "Émotions complexes / Ambivalence",
+    "reformulation": "Tu sembles chercher une émotion nuancée ou contradictoire, difficile à nommer simplement.",
+    "poids": 0.9,
+    "patterns": [
+      "deux sentiments à la fois", "ambivalent", "contradictoire",
+      "ni l'un ni l'autre", "entre deux", "mélange d'émotions",
+      "ne sait pas ce qu'il ressent", "sentiments contradictoires",
+      "heureux et triste en même temps", "soulagement coupable",
+      "colère et tendresse", "aimer et détester",
+      "sentiment impossible à nommer", "émotion complexe",
+      "sentiment imposteur", "désenchantement", "mélancolie douce"
+    ],
+    "mots": [
+      "ambivalence", "ambivalent", "contradictoire", "paradoxal",
+      "complexe", "nuancé", "mélange", "désenchantement",
+      "imposteur", "tendresse-deuil"
+    ]
+  },
+  {
+    "id": "etats-physiques",
+    "famille": "etatsPhysiques",
+    "label": "États physiques",
+    "reformulation": "Tu sembles chercher comment ancrer ton personnage dans son corps.",
+    "poids": 1.0,
+    "patterns": [
+      "corps", "physique", "ancrer dans le corps", "trop dans la tête",
+      "manque de corporalité", "rendre concret", "incarner",
+      "comment montrer physiquement", "le corps du personnage",
+      "signes physiques", "manifestation physique", "corps qui réagit",
+      "sensations du corps", "état du corps"
+    ],
+    "mots": [
+      "corps", "physique", "corporel", "incarné", "sensations",
+      "manifestation", "physiquement"
+    ]
+  },
+  {
+    "id": "etats-physiques-douleur",
+    "famille": "etatsPhysiques",
+    "sousFamille": "douleur",
+    "label": "Douleur / Blessure physique",
+    "reformulation": "Tu sembles chercher comment rendre visible la douleur physique de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "a mal", "douleur", "blessé", "blessure", "souffre physiquement",
+      "douleur sourde", "douleur aiguë", "migraine", "mal de tête",
+      "courbatures", "raideur", "brûlure", "dos qui fait mal",
+      "crampe", "spasme", "blessure de guerre", "cicatrice douloureuse"
+    ],
+    "mots": [
+      "douleur", "blessure", "mal", "souffre", "brûlure", "crampe",
+      "migraine", "courbature", "raideur", "spasme"
+    ]
+  },
+  {
+    "id": "etats-physiques-fatigue",
+    "famille": "etatsPhysiques",
+    "sousFamille": "epuisement",
+    "label": "Fatigue / Épuisement",
+    "reformulation": "Tu sembles chercher comment rendre visible l'épuisement physique de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "épuisé", "fatigué", "n'en peut plus physiquement", "à bout de forces",
+      "fatigue nerveuse", "manque de sommeil", "insomnie",
+      "tombe de fatigue", "les jambes coupées", "plus d'énergie",
+      "s'endort debout", "les yeux qui se ferment"
+    ],
+    "mots": [
+      "épuisement", "fatigue", "épuisé", "fatigué", "insomnie",
+      "torpeur", "lourdeur", "pesanteur"
+    ]
+  },
+  {
+    "id": "etats-physiques-stress",
+    "famille": "etatsPhysiques",
+    "sousFamille": "manifestations-stress",
+    "label": "Manifestations physiques du stress",
+    "reformulation": "Tu sembles chercher les manifestations physiques du stress ou de la tension.",
+    "poids": 1.0,
+    "patterns": [
+      "tremble", "sueurs froides", "cœur qui bat", "palpitations",
+      "nausée de stress", "ventre noué", "gorge serrée", "hyperventile",
+      "souffle coupé", "mains moites", "corps sous adrénaline",
+      "vertige de stress", "oppression dans la poitrine"
+    ],
+    "mots": [
+      "tremblement", "sueurs", "palpitations", "nausée", "vertige",
+      "oppression", "adrénaline", "hyperventilation"
+    ]
+  },
+  {
+    "id": "traits-caractere",
+    "famille": "traitsDeCaractere",
+    "label": "Traits de caractère",
+    "reformulation": "Tu sembles chercher un trait de caractère pour donner de la personnalité à ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "trait de caractère", "personnalité", "caractère", "façon d'être",
+      "type de personnage", "genre de personne", "il est du genre à",
+      "elle a tendance à", "comment construire", "personnage plat",
+      "manque de personnalité", "pas crédible", "trop cliché",
+      "donner de la profondeur", "personnage intéressant",
+      "ce qui le définit", "ce qui la définit", "trait dominant"
+    ],
+    "mots": [
+      "caractère", "personnalité", "trait", "tempérament", "nature",
+      "profil", "type", "identité", "attribut"
+    ]
+  },
+  {
+    "id": "traits-positifs",
+    "famille": "traitsDeCaractere",
+    "sousFamille": "traits-positifs",
+    "label": "Traits positifs / Forces",
+    "reformulation": "Tu sembles chercher un trait positif ou une force pour ton personnage.",
+    "poids": 0.9,
+    "patterns": [
+      "courageux", "loyal", "altruiste", "généreux", "bienveillant",
+      "empathique", "résilient", "déterminé", "intègre", "fiable",
+      "force de caractère", "point fort", "qualité", "vertu",
+      "ce qui le rend admirable", "ce qui le rend attachant"
+    ],
+    "mots": [
+      "courageux", "loyal", "altruiste", "généreux", "bienveillant",
+      "empathique", "résilient", "intègre", "fiable", "force", "qualité"
+    ]
+  },
+  {
+    "id": "traits-negatifs",
+    "famille": "traitsDeCaractere",
+    "sousFamille": "traits-negatifs",
+    "label": "Traits négatifs / Défauts",
+    "reformulation": "Tu sembles chercher un défaut ou une zone d'ombre pour ton personnage.",
+    "poids": 0.9,
+    "patterns": [
+      "défaut", "faille", "zone d'ombre", "côté sombre", "vice",
+      "orgueil", "arrogant", "manipulateur", "lâche", "cruel",
+      "mesquin", "jaloux", "possessif", "calculateur", "cynique",
+      "ce qui le rend imparfait", "ce qui cloche chez lui",
+      "personnage qui agace", "anti-héros", "villain"
+    ],
+    "mots": [
+      "défaut", "faille", "orgueil", "arrogance", "manipulation",
+      "lâcheté", "cruauté", "jalousie", "cynisme", "vice", "ombre"
+    ]
+  },
+  {
+    "id": "conflits-generaux",
+    "famille": "conflits",
+    "label": "Conflits",
+    "reformulation": "Tu sembles chercher une source de tension ou de conflit pour ta scène ou ton récit.",
+    "poids": 1.0,
+    "patterns": [
+      "conflit", "tension", "opposition", "accrochage", "affrontement",
+      "manque de tension", "scène trop calme", "l'enjeu n'est pas clair",
+      "qu'est-ce qui se joue", "qu'est-ce qui bloque", "blocage narratif",
+      "ils ne s'affrontent pas", "rien ne se passe", "plat",
+      "relancer l'action", "créer un obstacle", "mettre en difficulté"
+    ],
+    "mots": [
+      "conflit", "tension", "opposition", "obstacle", "enjeu",
+      "accrochage", "affrontement", "friction", "blocage"
+    ]
+  },
+  {
+    "id": "conflits-internes",
+    "famille": "conflits",
+    "sousFamille": "conflits-internes",
+    "label": "Conflit intérieur / Dilemme",
+    "reformulation": "Tu sembles chercher un conflit intérieur ou un dilemme pour ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "conflit intérieur", "dilemme", "déchiré", "tiraillé",
+      "deux voix en lui", "ne sait pas quoi faire", "choix impossible",
+      "devoir contre désir", "raison contre cœur", "se bat contre lui-même",
+      "doute profond", "remet tout en question", "crise intérieure",
+      "indécision profonde", "ne sait plus où il en est"
+    ],
+    "mots": [
+      "dilemme", "conflit intérieur", "déchiré", "tiraillé", "doute",
+      "indécision", "crise", "remise en question"
+    ]
+  },
+  {
+    "id": "conflits-moraux",
+    "famille": "conflits",
+    "sousFamille": "conflits-moraux",
+    "label": "Conflit moral / Éthique",
+    "reformulation": "Tu sembles chercher un conflit moral ou éthique pour ton personnage.",
+    "poids": 0.9,
+    "patterns": [
+      "moral", "éthique", "bien et mal", "conscience morale",
+      "ce qu'il fait est-il juste", "dilemme moral", "faire quelque chose de mal pour une bonne raison",
+      "fin qui justifie les moyens", "trahir ses valeurs",
+      "se compromettre", "ligne rouge", "limite morale"
+    ],
+    "mots": [
+      "moral", "éthique", "valeurs", "conscience", "juste", "injuste",
+      "dilemme", "compromis", "trahison de valeurs"
+    ]
+  },
+  {
+    "id": "conflits-pouvoir",
+    "famille": "conflits",
+    "sousFamille": "conflits-pouvoir",
+    "label": "Conflit de pouvoir / Autorité",
+    "reformulation": "Tu sembles chercher un conflit de pouvoir ou d'autorité.",
+    "poids": 0.9,
+    "patterns": [
+      "pouvoir", "autorité", "hiérarchie", "chef contesté",
+      "rapport de force", "domination", "soumission", "manipulation",
+      "qui décide", "qui commande", "lutte de pouvoir",
+      "contestation", "rébellion contre l'autorité"
+    ],
+    "mots": [
+      "pouvoir", "autorité", "hiérarchie", "domination", "contrôle",
+      "manipulation", "soumission", "rébellion"
+    ]
+  },
+  {
+    "id": "blessures-emotionnelles",
+    "famille": "blessuresEmotionnelles",
+    "label": "Blessures émotionnelles / Passé douloureux",
+    "reformulation": "Tu sembles chercher une blessure passée qui explique le comportement de ton personnage.",
+    "poids": 1.0,
+    "patterns": [
+      "blessure", "trauma", "traumatisme", "passé douloureux",
+      "son passé le hante", "backstory", "wound", "origine du comportement",
+      "expliquer pourquoi il est comme ça", "donner de la profondeur",
+      "quelque chose s'est passé avant", "blessure d'enfance",
+      "ce qui l'a construit", "ce qui l'a abîmé", "cicatrice émotionnelle",
+      "comportement inexpliqué qui vient de loin"
+    ],
+    "mots": [
+      "blessure", "trauma", "traumatisme", "passé", "cicatrice",
+      "origine", "construction", "enfance", "blessé"
+    ]
+  },
+  {
+    "id": "blessures-abandon",
+    "famille": "blessuresEmotionnelles",
+    "sousFamille": "abandon-rejet",
+    "label": "Abandon / Rejet",
+    "reformulation": "Tu sembles chercher comment une blessure d'abandon ou de rejet façonne ton personnage.",
+    "poids": 0.9,
+    "patterns": [
+      "abandonné", "rejeté", "pas voulu", "laissé pour compte",
+      "peur de l'abandon", "peur d'être quitté", "parent absent",
+      "enfant non désiré", "mis à l'écart", "exclu", "pas à sa place"
+    ],
+    "mots": [
+      "abandon", "rejet", "exclu", "laissé", "non voulu", "déserté"
+    ]
+  },
+  {
+    "id": "blessures-trahison",
+    "famille": "blessuresEmotionnelles",
+    "sousFamille": "trahison-humiliation",
+    "label": "Trahison / Humiliation passée",
+    "reformulation": "Tu sembles chercher comment une trahison ou une humiliation passée façonne ton personnage.",
+    "poids": 0.9,
+    "patterns": [
+      "trahi", "trahison", "humilié", "humiliation passée", "trompé",
+      "menti", "confiance brisée", "percé à jour", "exposé",
+      "dénoncé", "trahi par quelqu'un de proche"
+    ],
+    "mots": [
+      "trahison", "trahir", "humiliation", "confiance brisée",
+      "mensonge", "trompé", "dénoncé"
+    ]
+  },
+  {
+    "id": "dynamiques-relationnelles",
+    "famille": "dynamiquesRelationnelles",
+    "label": "Dynamiques relationnelles",
+    "reformulation": "Tu sembles chercher comment mieux construire la relation entre tes personnages.",
+    "poids": 1.0,
+    "patterns": [
+      "relation", "lien", "dynamique", "entre les deux", "entre eux",
+      "comment ça se passe entre", "leur rapport", "leur relation",
+      "la relation est plate", "on ne comprend pas leur lien",
+      "comment construire la relation", "rendre la relation intéressante",
+      "tension entre deux personnages", "ça coince entre eux"
+    ],
+    "mots": [
+      "relation", "lien", "rapport", "dynamique", "entre", "relationnelle"
+    ]
+  },
+  {
+    "id": "dynamiques-amour",
+    "famille": "dynamiquesRelationnelles",
+    "sousFamille": "relations-amoureuses",
+    "label": "Relation amoureuse / Couple",
+    "reformulation": "Tu sembles chercher comment construire ou complexifier une relation amoureuse.",
+    "poids": 1.0,
+    "patterns": [
+      "couple", "relation amoureuse", "amour non dit", "attirance",
+      "tension romantique", "UST", "qui ne s'avoue pas ses sentiments",
+      "amour impossible", "amour interdit", "ex", "rupture amoureuse",
+      "deux amoureux", "sentiments non déclarés", "love interest"
+    ],
+    "mots": [
+      "couple", "amoureux", "romantique", "attirance", "séduction",
+      "ex", "rupture", "relation amoureuse"
+    ]
+  },
+  {
+    "id": "dynamiques-famille",
+    "famille": "dynamiquesRelationnelles",
+    "sousFamille": "relations-familiales",
+    "label": "Relations familiales",
+    "reformulation": "Tu sembles chercher une dynamique familiale pour ton récit.",
+    "poids": 1.0,
+    "patterns": [
+      "famille", "familial", "parent enfant", "père", "mère",
+      "frère", "sœur", "fratrie", "parent absent", "parent toxique",
+      "enfant prodigue", "relation avec ses parents", "héritage familial",
+      "poids de la famille", "secret de famille"
+    ],
+    "mots": [
+      "famille", "parent", "père", "mère", "enfant", "frère",
+      "sœur", "fratrie", "familial"
+    ]
+  },
+  {
+    "id": "dynamiques-pouvoir",
+    "famille": "dynamiquesRelationnelles",
+    "sousFamille": "relations-pouvoir",
+    "label": "Relation de pouvoir / Emprise",
+    "reformulation": "Tu sembles chercher une dynamique de pouvoir ou d'emprise entre tes personnages.",
+    "poids": 0.9,
+    "patterns": [
+      "emprise", "manipulation dans la relation", "l'un domine l'autre",
+      "relation toxique", "dépendance affective", "contrôle dans le couple",
+      "mentor possessif", "l'un prend le dessus", "rapport de force dans la relation"
+    ],
+    "mots": [
+      "emprise", "domination", "dépendance", "contrôle", "toxique",
+      "manipulation relationnelle", "possessif"
+    ]
+  },
+  {
+    "id": "dynamiques-rivalite",
+    "famille": "dynamiquesRelationnelles",
+    "sousFamille": "rivalites",
+    "label": "Rivalité",
+    "reformulation": "Tu sembles chercher une dynamique de rivalité entre tes personnages.",
+    "poids": 1.0,
+    "patterns": [
+      "rivalité", "rivals", "compétition", "se font concurrence",
+      "jalousie entre eux", "veulent la même chose", "s'affrontent",
+      "l'un contre l'autre", "rivalité fraternelle", "rivalité professionnelle"
+    ],
+    "mots": [
+      "rivalité", "rival", "compétition", "jalousie", "concurrence"
+    ]
+  },
+  {
+    "id": "motivations",
+    "famille": "motivations",
+    "label": "Motivations / Enjeux",
+    "reformulation": "Tu sembles chercher ce qui pousse ton personnage à agir.",
+    "poids": 1.0,
+    "patterns": [
+      "pourquoi il fait ça", "pourquoi elle fait ça", "motivation",
+      "moteur du personnage", "ce qui le pousse", "raison d'agir",
+      "but du personnage", "objectif", "ce qu'il veut vraiment",
+      "on ne comprend pas ses choix", "ses actions ne font pas sens",
+      "manque de motivation", "personnage sans but", "arc narratif flou",
+      "qu'est-ce qu'il cherche", "ce qui le fait avancer"
+    ],
+    "mots": [
+      "motivation", "moteur", "raison", "but", "objectif", "pourquoi",
+      "intention", "désir", "vouloir", "chercher", "pousser"
+    ]
+  },
+  {
+    "id": "motivations-protection",
+    "famille": "motivations",
+    "sousFamille": "protection",
+    "label": "Protéger quelqu'un ou quelque chose",
+    "reformulation": "Tu sembles chercher un moteur de protection pour ton personnage.",
+    "poids": 0.9,
+    "patterns": [
+      "protège quelqu'un", "veut protéger", "à tout prix protéger",
+      "sacrifice pour protéger", "mettre à l'abri", "garder en sécurité",
+      "cacher un secret pour protéger", "mensonge pour protéger"
+    ],
+    "mots": [
+      "protéger", "protection", "abri", "sécurité", "sacrifice"
+    ]
+  },
+  {
+    "id": "motivations-reparation",
+    "famille": "motivations",
+    "sousFamille": "réparation",
+    "label": "Réparer / Racheter une faute",
+    "reformulation": "Tu sembles chercher un moteur de réparation ou de rédemption pour ton personnage.",
+    "poids": 0.9,
+    "patterns": [
+      "réparer", "se racheter", "rédemption", "se pardonner",
+      "rattraper une erreur", "compenser", "faute passée",
+      "vivre avec ce qu'il a fait", "effacer son passé",
+      "faire quelque chose de bien pour réparer"
+    ],
+    "mots": [
+      "réparer", "rédemption", "racheter", "compenser", "faute",
+      "pardon", "effacer"
+    ]
+  },
+  {
+    "id": "motivations-identite",
+    "famille": "motivations",
+    "sousFamille": "identité et transmission",
+    "label": "Identité / Devenir / Transmission",
+    "reformulation": "Tu sembles chercher un moteur identitaire — ce que le personnage cherche à devenir ou à transmettre.",
+    "poids": 0.9,
+    "patterns": [
+      "qui il est vraiment", "qui elle est vraiment", "trouver son identité",
+      "devenir soi-même", "construction de soi", "rupture avec le passé",
+      "laisser une trace", "transmettre", "héritage à laisser",
+      "ne pas vouloir ressembler à", "devenir quelqu'un de différent"
+    ],
+    "mots": [
+      "identité", "devenir", "transmission", "héritage", "construction",
+      "rupture", "trace", "transformation"
+    ]
+  },
+  {
+    "id": "lieux-generaux",
+    "famille": "lieux",
+    "label": "Lieux",
+    "reformulation": "Tu sembles chercher un lieu pour ancrer ta scène.",
+    "poids": 1.0,
+    "patterns": [
+      "lieu", "endroit", "décor", "setting", "espace",
+      "où se passe la scène", "cherche un lieu", "besoin d'un décor",
+      "lieux emblématiques", "lieu narratif", "choisir un lieu"
+    ],
+    "mots": [
+      "lieu", "endroit", "décor", "espace", "cadre", "setting"
+    ]
+  },
+  {
+    "id": "lieux-rural",
+    "famille": "lieux",
+    "sousFamille": "lieux-ruraux",
+    "label": "Lieux ruraux / Nature",
+    "reformulation": "Tu sembles chercher un lieu rural ou naturel pour ta scène.",
+    "poids": 0.9,
+    "patterns": [
+      "campagne", "nature", "forêt", "champ", "ferme", "rural",
+      "village", "paysage", "montagne", "rivière", "lac",
+      "isolé dans la nature", "hors de la ville", "grand air"
+    ],
+    "mots": [
+      "campagne", "nature", "forêt", "rural", "village", "montagne",
+      "rivière", "champ", "ferme"
+    ]
+  },
+  {
+    "id": "lieux-urbain",
+    "famille": "lieux",
+    "sousFamille": "lieux-urbains",
+    "label": "Lieux urbains / Ville",
+    "reformulation": "Tu sembles chercher un lieu urbain pour ta scène.",
+    "poids": 0.9,
+    "patterns": [
+      "ville", "urbain", "rue", "immeuble", "quartier", "café",
+      "bureau", "hôpital", "commissariat", "gare", "métro",
+      "appartement", "restaurant", "bar", "école", "hôtel"
+    ],
+    "mots": [
+      "ville", "urbain", "rue", "quartier", "immeuble", "café",
+      "bureau", "hôpital", "gare", "appartement"
+    ]
+  },
+  {
+    "id": "atmospheres",
+    "famille": "atmospheres",
+    "label": "Atmosphères / Ambiances",
+    "reformulation": "Tu sembles chercher comment donner une atmosphère particulière à ta scène.",
+    "poids": 1.0,
+    "patterns": [
+      "atmosphère", "ambiance", "donner une ambiance", "l'ambiance est trop neutre",
+      "atmosphère oppressante", "scène qui met mal à l'aise",
+      "créer une tension atmosphérique", "décor qui dit quelque chose",
+      "lieu qui exprime quelque chose", "comment rendre l'atmosphère",
+      "le lieu doit parler", "scène sensorielle"
+    ],
+    "mots": [
+      "atmosphère", "ambiance", "oppressant", "pesant", "atmosphérique",
+      "climate", "mood"
+    ]
+  },
+  {
+    "id": "meteo",
+    "famille": "meteo",
+    "label": "Météo / Conditions atmosphériques",
+    "reformulation": "Tu sembles chercher un phénomène météo pour enrichir ta scène.",
+    "poids": 0.9,
+    "patterns": [
+      "météo", "temps qu'il fait", "pluie", "neige", "orage",
+      "vent", "brouillard", "soleil", "nuit", "froid", "chaleur",
+      "saison", "conditions climatiques", "il pleut", "il neige",
+      "tempête", "canicule", "gel", "brume"
+    ],
+    "mots": [
+      "météo", "pluie", "neige", "orage", "vent", "brouillard",
+      "froid", "chaleur", "givre", "tempête", "soleil"
+    ]
+  },
+  {
+    "id": "elements-sensoriels",
+    "famille": "elementsSensoriels",
+    "label": "Éléments sensoriels",
+    "reformulation": "Tu sembles chercher des détails sensoriels pour rendre ta scène plus concrète.",
+    "poids": 1.0,
+    "patterns": [
+      "sensoriel", "sensations", "détails sensoriels", "concret",
+      "manque de texture", "trop abstrait", "ancrer dans le réel",
+      "odeur", "bruit", "son", "texture", "lumière", "toucher",
+      "voir entendre sentir", "décrire le décor autrement",
+      "rendre la scène vivante", "détails qui font exister"
+    ],
+    "mots": [
+      "sensoriel", "odeur", "son", "bruit", "texture", "lumière",
+      "toucher", "saveur", "gustatif", "sensation", "concret", "matière"
+    ]
+  },
+  {
+    "id": "objets-narratifs",
+    "famille": "objetsNarratifs",
+    "label": "Objets narratifs / Symboles",
+    "reformulation": "Tu sembles chercher un objet porteur de sens pour ta scène ou ton récit.",
+    "poids": 0.9,
+    "patterns": [
+      "objet symbolique", "objet chargé", "prop", "objet narratif",
+      "quelque chose qui symbolise", "objet qui dit quelque chose",
+      "objet héritage", "objet transmis", "objet qui porte une histoire",
+      "souvenir matériel", "objet comme indice", "détail qui parle"
+    ],
+    "mots": [
+      "objet", "symbole", "symbolique", "prop", "héritage",
+      "souvenir", "trace matérielle"
+    ]
+  },
+  {
+    "id": "professions",
+    "famille": "professions",
+    "label": "Professions / Métiers",
+    "reformulation": "Tu sembles chercher à construire le profil professionnel de ton personnage.",
+    "poids": 0.9,
+    "patterns": [
+      "profession", "métier", "travail", "job", "ce qu'il fait dans la vie",
+      "quelle profession pour mon personnage", "médecin", "avocat",
+      "policier", "journaliste", "enseignant", "militaire",
+      "artiste", "ouvrier", "cadre", "profil professionnel"
+    ],
+    "mots": [
+      "profession", "métier", "travail", "emploi", "job",
+      "médecin", "avocat", "policier", "militaire", "artiste"
+    ]
+  },
+  {
+    "id": "meta-profondeur",
+    "famille": "traitsDeCaractere",
+    "famillesSecondaires": ["blessuresEmotionnelles", "motivations"],
+    "label": "Profondeur de personnage",
+    "reformulation": "Tu sembles chercher à donner plus de profondeur à ton personnage.",
+    "poids": 0.95,
+    "patterns": [
+      "donner de la profondeur", "personnage plus complexe", "plus humain",
+      "moins cliché", "plus crédible", "plus intéressant",
+      "étoffez le personnage", "construire le personnage",
+      "backstory", "passé qui explique", "pourquoi il est comme ça",
+      "ce qui l'a construit", "personnage en trois dimensions"
+    ],
+    "mots": [
+      "profondeur", "complexe", "crédible", "intéressant", "étoffé",
+      "construit", "tridimensionnel", "humain"
+    ]
+  },
+  {
+    "id": "meta-scene-morte",
+    "famille": "conflits",
+    "famillesSecondaires": ["emotions", "dynamiquesRelationnelles"],
+    "label": "Scène qui ne décolle pas",
+    "reformulation": "Tu sembles chercher à relancer une scène qui manque de tension ou de vie.",
+    "poids": 0.95,
+    "patterns": [
+      "scène qui ne décolle pas", "ça ne marche pas", "scène plate",
+      "rien ne se passe", "trop calme", "manque quelque chose",
+      "la scène tourne à vide", "pas de tension", "ennuyeux",
+      "le lecteur s'ennuie", "sans enjeu", "scène morte",
+      "relancer", "quelque chose qui bloque", "je suis bloqué sur cette scène"
+    ],
+    "mots": [
+      "bloqué", "plate", "mort", "tourne", "vide", "ennuyeux",
+      "ennui", "sans enjeu", "décollage"
+    ]
+  },
+  {
+    "id": "meta-comportement-inexplique",
+    "famille": "motivations",
+    "famillesSecondaires": ["blessuresEmotionnelles", "traitsDeCaractere"],
+    "label": "Comportement difficile à justifier",
+    "reformulation": "Tu sembles chercher à justifier ou expliquer un comportement de ton personnage.",
+    "poids": 0.95,
+    "patterns": [
+      "comportement inexpliqué", "on ne comprend pas pourquoi",
+      "ses choix semblent arbitraires", "pas cohérent", "trop aléatoire",
+      "justifier l'action", "expliquer le comportement",
+      "ses actes ne font pas sens", "le lecteur ne comprend pas",
+      "rendre logique", "rendre crédible l'action"
+    ],
+    "mots": [
+      "inexpliqué", "arbitraire", "incohérent", "justifier",
+      "expliquer", "sens", "logique", "crédible"
+    ]
+  },
+  {
+    "id": "meta-reaction-invisible",
+    "famille": "emotions",
+    "famillesSecondaires": ["etatsPhysiques"],
+    "label": "Réaction peu lisible",
+    "reformulation": "Tu sembles chercher comment rendre la réaction de ton personnage plus lisible.",
+    "poids": 0.95,
+    "patterns": [
+      "réaction peu lisible", "on ne voit pas ce qu'il ressent",
+      "trop intérieur", "tout dans la tête", "pas assez visible",
+      "montrer sans écrire l'émotion", "comment extérioriser",
+      "rendre visible la réaction", "signes concrets", "show don't tell"
+    ],
+    "mots": [
+      "lisible", "visible", "extérioriser", "montrer", "réaction",
+      "show", "tell", "intérieur"
+    ]
+  },
+  {
+    "id": "meta-relation-froide",
+    "famille": "dynamiquesRelationnelles",
+    "famillesSecondaires": ["emotions", "conflits"],
+    "label": "Relation entre personnages trop froide",
+    "reformulation": "Tu sembles chercher à donner plus de vie ou de tension à la relation entre tes personnages.",
+    "poids": 0.95,
+    "patterns": [
+      "relation froide", "trop distante", "entre eux ça ne prend pas",
+      "leur relation manque", "on ne croit pas à leur lien",
+      "dialogue trop froid", "échanges plats", "pas de chimie",
+      "deux personnages qui ne s'intéressent pas",
+      "rendre la relation vivante", "friction entre eux"
+    ],
+    "mots": [
+      "froide", "distante", "chimie", "friction", "vivante",
+      "lien", "crédible", "prend pas"
+    ]
+  },
+  {
+    "id": "meta-decor-neutre",
+    "famille": "atmospheres",
+    "famillesSecondaires": ["elementsSensoriels", "lieux"],
+    "label": "Décor trop neutre",
+    "reformulation": "Tu sembles chercher à donner plus de présence ou de sens à ton décor.",
+    "poids": 0.95,
+    "patterns": [
+      "décor trop neutre", "lieu sans vie", "décor qui ne dit rien",
+      "scène sans atmosphère", "trop générique", "pas ancré",
+      "décor interchangeable", "lieu qui pourrait être n'importe où",
+      "rendre le lieu présent", "le lieu doit exister"
+    ],
+    "mots": [
+      "neutre", "générique", "interchangeable", "présent",
+      "ancré", "exister", "atmosphère"
+    ]
+  },
+  {
+    "id": "meta-arc-personnage",
+    "famille": "motivations",
+    "famillesSecondaires": ["traitsDeCaractere", "blessuresEmotionnelles"],
+    "label": "Arc du personnage",
+    "reformulation": "Tu sembles chercher à construire l'arc de transformation de ton personnage.",
+    "poids": 0.95,
+    "patterns": [
+      "arc du personnage", "arc narratif", "transformation",
+      "évolution du personnage", "comment il change",
+      "point de départ et d'arrivée", "qui il est au début et à la fin",
+      "character arc", "chemin du personnage", "progression du personnage"
+    ],
+    "mots": [
+      "arc", "transformation", "évolution", "progression",
+      "chemin", "changement", "début", "fin"
+    ]
+  },
+  {
+    "id": "meta-tension-narrative",
+    "famille": "conflits",
+    "famillesSecondaires": ["motivations", "dynamiquesRelationnelles"],
+    "label": "Tension narrative",
+    "reformulation": "Tu sembles chercher à créer ou intensifier la tension de ton récit.",
+    "poids": 0.95,
+    "patterns": [
+      "tension narrative", "suspense", "enjeu dramatique",
+      "garder le lecteur en haleine", "l'enjeu manque",
+      "qu'est-ce qu'on risque de perdre", "les stakes",
+      "hausser les enjeux", "dramatiser", "rendre l'enjeu plus fort",
+      "ce qui est en jeu", "qu'est-ce qui se joue vraiment"
+    ],
+    "mots": [
+      "tension", "suspense", "enjeu", "stakes", "dramatique",
+      "haletant", "risque", "perdre", "joue"
+    ]
+  }
+]

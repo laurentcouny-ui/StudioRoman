@@ -1,0 +1,14 @@
+﻿{
+  "id": "en-v1",
+  "language": "en",
+  "version": "1.0.0",
+  "patterns": [
+    { "suffix": "tion", "splits": ["ti-on"] },
+    { "suffix": "ing", "splits": ["ing"] },
+    { "suffix": "able", "splits": ["a-ble"] },
+    { "suffix": "ment", "splits": ["me-nt"] },
+    { "suffix": "ness", "splits": ["ne-ss"] },
+    { "suffix": "ology", "splits": ["ol-o-gy"] },
+    { "suffix": "ative", "splits": ["at-ive"] }
+  ]
+}

@@ -1,0 +1,664 @@
+[
+  {
+    "id": "cave-vieille-maison",
+    "label": "Cave d'une vieille maison",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "olfactif-tactile",
+    "elements": [
+      "murs en pierre apparente, humides ou salpêtrés",
+      "sol en terre battue ou carrelage ancien fissuré",
+      "ampoule nue pendue au plafond bas",
+      "étagères en bois avec bocaux, bouteilles, outils oubliés",
+      "casiers à vin vides ou garnis selon la maison",
+      "vieilles valises, cartons empilés près du mur du fond",
+      "odeur d'humidité, de terre et de vieux bois",
+      "silence épais, coupé des bruits de la maison",
+      "araignées dans les angles, toiles anciennes"
+    ],
+    "emotionsTypiques": [
+      "malaise primaire lié à l'obscurité et à l'espace bas",
+      "curiosité coupable de qui fouille dans le passé d'une maison",
+      "claustrophobie légère ou très présente selon le personnage",
+      "sentiment d'entrer dans un temps antérieur",
+      "paix étrange pour qui l'apprivoise",
+      "légère angoisse de l'isolement sonore — personne n'entendrait si on criait"
+    ],
+    "ambiance": "La cave est le dessous de la maison, au sens littéral et symbolique. Ce qui s'y dépose — bouteilles, outils, objets sans place ailleurs — dit ce qu'une famille refoule ou conserve sans s'en souvenir. Le froid et l'humidité y ont une présence presque corporelle.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "humidité froide et minérale des murs en pierre",
+        "odeur de moisi discret, persistant même après aération",
+        "bois ancien des étagères et des casiers, sec et poussiéreux",
+        "légère odeur de vin ou de vinaigre selon les bouteilles conservées"
+      ],
+      "auditifs": [
+        "silence presque total, étouffant les sons de la maison au-dessus",
+        "goutte d'eau qui tombe sur le sol à intervalles réguliers",
+        "craquement de la porte ou des marches de l'escalier descendant",
+        "bruit de ses propres pas amplifié dans le silence"
+      ],
+      "visuels": [
+        "lumière de l'ampoule nue qui crée des ombres dures et des angles non éclairés",
+        "murs de pierre dont la surface est irrégulière, humide par endroits",
+        "bocaux alignés, certains d'une ancienneté impossible à dater",
+        "poussière sur chaque surface horizontale, épaisse sur les objets non touchés",
+        "trappe ou fenestron minuscule qui laisse entrer un rai de lumière naturelle",
+        "étiquettes de bouteilles jaunies, écritures passées"
+      ],
+      "tactiles": [
+        "froid constant qui ne varie pas selon les saisons",
+        "humidité sur les murs que la main ramène sur elle-même",
+        "sol irrégulier sous les pieds, légèrement instable",
+        "faible hauteur sous plafond — tension dans le dos à courber légèrement"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Enfant envoyé chercher quelque chose à la cave",
+        "description": "Descend vite, prend sans chercher vraiment, remonte encore plus vite. La lumière de l'ampoule nue n'éclaire pas assez, les ombres dans les coins semblent se déplacer. La porte laissée ouverte en haut est le seul lien rassurant avec le monde vivant."
+      },
+      {
+        "profil": "Personne qui trie les affaires après une succession",
+        "description": "La cave est le dernier endroit trié — le plus difficile aussi, parce qu'elle contient ce que la maison n'a jamais su où mettre. Chaque carton est une surprise : souvenir, déchet, trésor. Le froid et le silence font de ce tri un acte presque rituel."
+      },
+      {
+        "profil": "Habitant qui y descend régulièrement",
+        "description": "N'a plus peur de rien ici depuis longtemps. Connaît le chemin dans le noir ou presque. La cave est un prolongement utile de la maison, ni plus ni moins. L'odeur d'humidité est devenue imperceptible. Il sait exactement où sont les bocaux de tomates de l'été dernier."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de découverte d'un objet ou document dissimulé là depuis des années",
+      "lieu d'une confrontation entre deux personnages coupés du monde",
+      "cadre pour une peur primaire — obscurité, espace bas, isolement sonore",
+      "lieu symbolique du refoulé d'une famille : ce qui est descendu à la cave ne remonte pas seul",
+      "scène de tension dans l'attente — se cacher, attendre que quelque chose passe",
+      "inventaire d'une vie passée lors d'un tri successoral"
+    ],
+    "notesEditoriales": [
+      "La cave est un archétype fort — à utiliser avec précision pour éviter la cave-cliché d'horreur. Sa puissance est souvent plus grande dans les récits réalistes.",
+      "L'isolement sonore de la cave est son détail le plus efficace narrativement : personne n'entendrait. Cette pensée, même fugace pour un personnage, change la tonalité de la scène.",
+      "Le froid constant de la cave est un détail physique que le lecteur reconnaît : il ancre le lieu dans le corps avant la tête.",
+      "Un bocal non identifiable sur une étagère vaut souvent plus qu'une description générale des objets entassés."
+    ]
+  },
+  {
+    "id": "train-de-nuit",
+    "label": "Train de nuit",
+    "type": "espace-transition",
+    "dominanteSensorielle": "sonore-tactile",
+    "elements": [
+      "compartiments couchettes aux couchettes dépliées, draps fins",
+      "fenêtre qui reflète la nuit noire et l'intérieur du compartiment",
+      "oscillation régulière du wagon en mouvement",
+      "couloir étroit avec passagers en chaussettes ou pyjama",
+      "bruits de pas la nuit — déplacements vers les toilettes",
+      "lumière bleue de nuit qui reste allumée faiblement",
+      "inconnus qui partagent l'espace étroit d'une nuit entière",
+      "arrêts intermédiaires où quelqu'un monte ou descend sans que les autres se réveillent vraiment",
+      "bruit métallique des rails qui berce ou empêche de dormir selon les nuits"
+    ],
+    "emotionsTypiques": [
+      "suspension du temps et des responsabilités",
+      "légère intimité contrainte avec des inconnus",
+      "mélancolie douce du voyage nocturne",
+      "liberté paradoxale dans un espace confiné en mouvement",
+      "anxiété du sommeil impossible ou au contraire abandon total",
+      "sentiment d'être entre deux vies, deux endroits, deux états"
+    ],
+    "ambiance": "Le train de nuit crée une communauté provisoire d'inconnus partageant l'obscurité et le bruit des rails. Personne n'est vraiment chez soi, personne n'est vraiment nulle part. C'est précisément dans cet entre-deux que certaines conversations, certaines pensées ou certaines décisions deviennent possibles.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de renfermé et de plastique chauffé des couchettes",
+        "traces du repas pris par quelqu'un dans le compartiment plus tôt",
+        "légère odeur de transpiration dans l'espace confiné et chaud",
+        "air des toilettes qui filtre parfois dans le couloir"
+      ],
+      "auditifs": [
+        "bruit rythmique des rails, continu et hypnotique",
+        "oscillations métalliques dans les virages ou les changements de voie",
+        "respiration des dormeurs, parfois ronflement discret",
+        "voix basses de ceux qui ne dorment pas encore",
+        "annonce automatique ou haut-parleur sourd lors des arrêts en gare"
+      ],
+      "visuels": [
+        "fenêtre noire dans laquelle se reflète le compartiment — superposition de la nuit et des visages",
+        "lumière bleue de nuit, trop faible pour lire mais qui empêche l'obscurité totale",
+        "formes enroulées sous les couvertures fines",
+        "sac coincé dans le filet au-dessus, bras d'un passager pendant",
+        "brèves lumières de gares traversées ou de routes parallèles au train",
+        "montre ou téléphone consulté dans l'obscurité, écran trop lumineux"
+      ],
+      "tactiles": [
+        "oscillation constante du wagon, perçue par le corps entier",
+        "couchette étroite et ferme, matelas fin",
+        "couverture légère, souvent insuffisante par temps froid",
+        "vibration des rails qui remonte dans le dos allongé"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Voyageur solitaire insomniaque",
+        "description": "Passe la nuit à regarder la fenêtre noire et son propre reflet. Le bruit des rails devient une pensée obsessionnelle ou une berceuse selon l'heure. À 3h du matin dans un train, les idées qu'on ne s'autorise pas le jour viennent d'elles-mêmes."
+      },
+      {
+        "profil": "Famille avec enfant en bas âge",
+        "description": "Gère en silence l'espace exigu, l'enfant qui s'éveille à chaque arrêt, les sacs encombrants. L'intimité forcée avec les inconnus du compartiment est source de gêne et parfois de solidarité inattendue. La nuit est longue."
+      },
+      {
+        "profil": "Deux personnes qui ne se connaissaient pas et se retrouvent à parler",
+        "description": "La nuit, l'obscurité, le mouvement et l'absence de sortie possible créent les conditions d'une conversation qui ne serait pas possible ailleurs. On se dit des choses dans un train de nuit qu'on ne dirait pas à la lumière du jour à quelqu'un qu'on reverrait."
+      }
+    ],
+    "usagesNarratifs": [
+      "conversation nocturne entre deux personnages qui ne devraient pas se parler",
+      "moment de suspension narrative entre deux événements majeurs du récit",
+      "scène de révélation intime facilitée par l'anonymat et l'obscurité",
+      "fuite ou voyage contraint dans un espace où on ne peut ni avancer ni reculer",
+      "illustration de la solitude dans la promiscuité",
+      "arrivée à l'aube dans une ville inconnue — le train comme rite de passage"
+    ],
+    "notesEditoriales": [
+      "Le train de nuit est un espace hors du temps social normal — les règles habituelles de la conversation y sont légèrement suspendues. À exploiter pour des échanges improbables.",
+      "La fenêtre noire qui reflète le compartiment est une image puissante : on voit le dehors et le dedans superposés. Ne pas la gâcher avec un commentaire explicatif.",
+      "Le bruit des rails peut être berçant ou oppressant selon l'état du personnage — à moduler sans le signaler.",
+      "L'arrêt en gare au milieu de la nuit est un micro-événement narratif : quelqu'un monte, quelqu'un descend, le monde existe encore dehors."
+    ]
+  },
+  {
+    "id": "salle-urgences-attente",
+    "label": "Salle d'attente des urgences",
+    "type": "espace-public",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "chaises en plastique coloré, vissées entre elles en rangées",
+      "tableau d'affichage des temps d'attente estimés, qui ne change pas assez vite",
+      "distributeur de tickets numérotés",
+      "lumière blanche de néon sans ombre ni chaleur",
+      "télévision accrochée au mur avec programme quelconque, volume bas",
+      "personnel soignant qui passe sans s'arrêter, air concentré",
+      "diversité des patients : douleur visible, invisible, exprimée ou retenue",
+      "odeur mêlée de désinfectant, de sang et de vêtements mouillés",
+      "enfant qui pleure dans les bras d'un parent épuisé"
+    ],
+    "emotionsTypiques": [
+      "angoisse de l'attente sans information",
+      "impuissance face à un système qui dépasse l'individu",
+      "solidarité silencieuse avec les autres dans la même situation",
+      "peur de ce qui va être dit ou découvert",
+      "épuisement physique et nerveux mêlés",
+      "présence aiguë au corps — le sien ou celui d'un proche"
+    ],
+    "ambiance": "La salle d'attente des urgences est le lieu de toutes les crises en même temps, rangées sur des chaises en plastique. Personne n'y est par choix. L'égalité est brutale : tout le monde attend, tout le monde a peur, tout le monde regarde l'heure.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "désinfectant chimique omniprésent, qui imprègne l'air et les vêtements",
+        "légère odeur de sang ou de blessure parfois, selon les présents",
+        "vêtements mouillés par la pluie ou la transpiration de ceux qui sont arrivés vite",
+        "café de distributeur, fade et trop chaud"
+      ],
+      "auditifs": [
+        "appels de numéros ou de noms par le personnel, trop espacés",
+        "gémissements ou sanglots étouffés de certains patients",
+        "télévision en fond sonore, absurde dans ce contexte",
+        "bip des appareils médicaux dans les couloirs adjacents",
+        "voix calme et professionnelle du personnel, qui contraste avec l'état des patients"
+      ],
+      "visuels": [
+        "rangées de visages de toutes les couleurs, unifiés par l'inquiétude",
+        "blessures visibles — pansements improvisés, bras en écharpe, visages marqués",
+        "téléphone consulté compulsivement pour mesurer le temps qui passe",
+        "porte battante par laquelle entrent et sortent les soignants",
+        "affichages sur les murs — droits des patients, numéros d'urgence — que personne ne lit",
+        "poignée de chaise en plastique usée par des milliers de mains"
+      ],
+      "tactiles": [
+        "chaise dure et froide, inconfortable après trente minutes",
+        "mains qui se serrent — les siennes ou celles d'un proche",
+        "vêtements encore humides ou froissés par la précipitation du départ",
+        "froid de la salle qui contraste avec l'anxiété qui échauffe le corps"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Accompagnant d'un proche gravement blessé",
+        "description": "N'est plus tout à fait dans son propre corps. Suit les consignes mécaniquement, s'assoit, attend. Regarde les autres comme depuis très loin. Chaque fois que la porte battante s'ouvre, son coeur s'emballe. Le temps d'attente est une forme de torture douce."
+      },
+      {
+        "profil": "Infirmier ou aide-soignant en pause dans cette salle",
+        "description": "Voit les visages d'attente avec un mélange d'empathie et de distance professionnelle apprise. Sait que l'attente leur semble insupportable mais sait aussi ce qui se passe derrière la porte. Il se sert un café au distributeur et ne reste pas — l'atmosphère de la salle l'affecte encore."
+      },
+      {
+        "profil": "Personne venue seule pour elle-même",
+        "description": "Gère seule la peur et l'attente. Personne n'est au courant qu'elle est là. Regarde les couples, les familles autour d'elle et ressent sa solitude de façon particulièrement aiguë dans ce contexte. Envoie des messages que personne ne comprend vraiment sans savoir qu'elle est aux urgences."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène d'attente insupportable comme cadre de tension maximale",
+      "lieu de révélation sur la gravité d'une situation",
+      "cadre pour explorer la solidarité entre inconnus dans la détresse",
+      "scène de solitude absolue malgré le monde autour",
+      "dialogue impossible entre personnages qui ne peuvent pas se parler vraiment dans ce contexte",
+      "confrontation avec la vulnérabilité physique — la sienne ou celle d'un être aimé"
+    ],
+    "notesEditoriales": [
+      "La salle d'attente des urgences est une arène émotionnelle naturelle — à utiliser avec une grande économie de description. Deux détails précis font plus qu'une description exhaustive.",
+      "Le téléphone consulté compulsivement est le geste le plus contemporain et le plus reconnaissable de ce lieu : il dit tout de l'impuissance et de l'attente.",
+      "Éviter d'en faire un décor purement misérabiliste : l'humour inattendu, la tendresse entre inconnus, la distraction absurde de la télé — tout cela coexiste avec la détresse.",
+      "Le personnel soignant qui passe sans s'arrêter n'est pas indifférent — il est ailleurs, dans une urgence que la salle d'attente ne voit pas."
+    ]
+  },
+  {
+    "id": "jardin-potager-matin",
+    "label": "Jardin potager au matin",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "rangées de légumes à différents stades de croissance",
+      "rosée sur les feuilles et les toiles d'araignée entre les plants",
+      "sol sombre et humide, fraîchement arrosé ou mouillé de nuit",
+      "odeur de terre, de tomate et d'herbes qui se libère avec la chaleur montante",
+      "oiseaux actifs dans les arbres voisins",
+      "panier en osier posé à terre pour la récolte du jour",
+      "tuteurs en bois, ficelles tendues, protections anti-limaces",
+      "lumière rasante du matin qui allonge les ombres entre les rangs",
+      "quelques insectes en mouvement sur les fleurs ouvertes"
+    ],
+    "emotionsTypiques": [
+      "paix profonde du matin avant le monde",
+      "satisfaction du travail lent et patient rendu visible",
+      "présence au corps et à la matière, loin des abstractions",
+      "légèreté dans le geste simple et répété",
+      "tendresse pour ce qui pousse lentement",
+      "mélancolie douce possible si le jardin appartient à quelqu'un de disparu"
+    ],
+    "ambiance": "Le potager au matin est un lieu de lenteur obligatoire : les gestes y sont dictés par la plante, par le sol, par le temps qu'il fait. Rien n'y est urgent. La satisfaction qu'il procure est physique et concrète — la tomate dans la main, la terre sous les ongles.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de terre humide et chaude, dégagée par la rosée",
+        "parfum fort et reconnaissable des feuilles de tomate effleurées",
+        "herbes aromatiques — basilic, persil, ciboulette — au moindre frôlement",
+        "légère odeur végétale des courgettes ou concombres en fleur"
+      ],
+      "auditifs": [
+        "chant des oiseaux actif et proche dans la lumière du matin",
+        "silence du jardin, différent du silence de la ville — habité et vivant",
+        "bruit de la pelle ou du sécateur dans le silence",
+        "bourdonnement d'une abeille ou d'un insecte pollinisateur"
+      ],
+      "visuels": [
+        "rosée sur les feuilles, petites gouttes qui captent la lumière rasante",
+        "couleurs vives des légumes mûrs dans la lumière oblique du matin",
+        "ombres longues des tuteurs et des plantes étirées sur le sol sombre",
+        "toile d'araignée tendue entre deux plants, révélée par la rosée",
+        "traces de pas dans la terre fraîche des rangs arrosés",
+        "fleurs de courgette ou de haricot, oranges ou blanches, ouvertes depuis l'aube"
+      ],
+      "tactiles": [
+        "rosée froide sur les mains et les avant-bras",
+        "terre humide et grasse sous les doigts, sous les genoux si on s'agenouille",
+        "peau d'une tomate mûre, lisse et tiède malgré la rosée",
+        "tige rugueuse d'un plant de tomate dont les poils laissent une odeur sur les doigts"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Retraité qui jardine depuis quarante ans",
+        "description": "Se lève avant tout le monde, comme toujours. Le potager est son temps à lui, avant les obligations. Ses gestes sont automatiques — il sait sans regarder si le sol a besoin d'eau, si le plant va bien. Le plaisir est profond mais silencieux, presque sans mots."
+      },
+      {
+        "profil": "Personne qui jardine pour la première fois",
+        "description": "Apprend à regarder autrement. Cherche à distinguer ce qui pousse de ce qui est mauvaise herbe. Touche les plantes avec curiosité et légère maladresse. Découvre que la terre sous les ongles n'est pas désagréable. Revient le lendemain voir si quelque chose a bougé."
+      },
+      {
+        "profil": "Personne qui entretient le jardin d'un proche décédé",
+        "description": "Fait les gestes qu'elle a vus faire. Retrouve les outils, les ficelles, les semences stockées avec soin. Chaque rangée est une trace. Elle ne sait pas toujours pourquoi elle continue — mais elle continue. Le potager est devenu une façon de continuer le dialogue."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de retour à la simplicité physique pour un personnage épuisé par l'abstraction",
+      "lieu de conversation à mi-voix dans la complicité du travail partagé",
+      "espace de deuil actif — entretenir ce que quelqu'un d'autre a planté",
+      "cadre pour une révélation douce plutôt que dramatique",
+      "illustration du temps long face au temps court d'une crise",
+      "scène matinale de paix avant un événement qui va tout changer"
+    ],
+    "notesEditoriales": [
+      "Le potager est un lieu à risque d'idéalisation rurale — l'ancrer dans des détails concrets et imparfaits (limaces, plant qui ne pousse pas, sol trop sec) évite la carte postale.",
+      "L'odeur des feuilles de tomate est l'un des marqueurs olfactifs les plus précis et les plus reconnaissables de ce lieu — elle suffit à tout évoquer.",
+      "La rosée du matin est un détail temporel : elle disparaît avec le soleil. S'en servir pour ancrer la scène dans un moment précis de la journée.",
+      "Un outil oublié là par quelqu'un de disparu peut concentrer tout un deuil en une seule image — sans qu'il soit besoin d'expliquer davantage."
+    ]
+  },
+  {
+    "id": "commissariat-couloir",
+    "label": "Couloir de commissariat",
+    "type": "espace-public",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "couloir étroit avec banc en bois ou en métal le long du mur",
+      "portes fermées de chaque côté, numérotées ou sans indication",
+      "lumière fluorescente crue et sans ombre",
+      "agents qui passent avec des dossiers, sans regarder les personnes qui attendent",
+      "tableau d'affichage avec avis de recherche et consignes réglementaires",
+      "sol carrelé gris ou beige, crissant parfois sous les semelles",
+      "bruit de conversations étouffées derrière les portes",
+      "fenêtre à barreaux ou simplement haute et givré en hiver",
+      "odeur de papier administratif et de café réchauffé"
+    ],
+    "emotionsTypiques": [
+      "inquiétude sourde ou aiguë selon ce qui a amené là",
+      "sentiment d'être hors de son élément, d'être évalué",
+      "impatience de l'attente administrative",
+      "intimidation institutionnelle même sans raison précise",
+      "honte possible, légitime ou non",
+      "méfiance ou au contraire recours désespéré selon les circonstances"
+    ],
+    "ambiance": "Le couloir de commissariat est un sas institutionnel : on y attend d'être vu, d'être traité, d'être relâché ou retenu. L'architecture du lieu signifie le pouvoir avant même que quiconque ait pris la parole. On s'y fait petit, même sans raison.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de papier administratif, légèrement moisi",
+        "café réchauffé depuis trop longtemps, venant d'une salle adjacente",
+        "désinfectant sur le sol carrelé, persistant",
+        "vêtements de personnes qui viennent d'ici ou là — sans parfum particulier mais avec une présence"
+      ],
+      "auditifs": [
+        "conversations filtrées derrière les portes fermées, incompréhensibles",
+        "téléphone qui sonne et est décroché sans hâte",
+        "bruit de tampons ou de claviers dans les bureaux",
+        "silence entre les personnes qui attendent sur le banc — sans se parler",
+        "porte qui s'ouvre et se referme, signal d'un mouvement"
+      ],
+      "visuels": [
+        "lumière fluorescente qui uniformise les visages et creuse les traits",
+        "personnes assises sur le banc, chacune dans sa propre attente",
+        "agents en uniforme ou en civil qui passent avec l'air d'avoir autre chose à faire",
+        "affiches réglementaires sur le mur — droits, procédures — que personne ne lit",
+        "casier de rangement ou étagère de dossiers entrapeçus par une porte entrouverte",
+        "horloge murale dont l'aiguille avance trop lentement"
+      ],
+      "tactiles": [
+        "banc dur qui n'invite pas à rester",
+        "air sec et légèrement froid, maintenu par une climatisation indifférente",
+        "mains qui se crispent sur un sac ou un document",
+        "sol sonore sous les semelles — chaque pas s'entend"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Personne convoquée pour la première fois",
+        "description": "Analyse chaque détail du lieu comme une menace potentielle. Le banc lui semble déjà une punition. Elle ne sait pas si elle doit parler aux agents qui passent ou rester silencieuse. Chaque bruit de porte déclenche un pic d'anxiété. Elle n'a rien fait de grave — mais le lieu la fait douter."
+      },
+      {
+        "profil": "Agent habitué qui traverse le couloir",
+        "description": "Ne remarque plus les personnes qui attendent sur le banc — elles font partie du décor habituel. Marche vite, tête dans les papiers. Ce couloir, c'est le trajet entre deux tâches. Il a perdu sa charge symbolique depuis des années."
+      },
+      {
+        "profil": "Parent venu porter plainte",
+        "description": "A attendu avant de venir — trop longtemps. Le couloir ressemble à la dernière étape d'une décision difficile. Regarde les affiches sans les lire. Répète dans sa tête ce qu'il va dire. La froideur institutionnelle du lieu contraste durement avec ce qu'il porte en lui."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène d'attente avant une audition ou un interrogatoire décisif",
+      "espace de confrontation entre un personnage et l'institution",
+      "cadre pour une révélation sur le passé d'un personnage — ce qui l'a amené ici",
+      "lieu de rencontre fortuite entre deux personnes dont les histoires sont liées",
+      "illustration de la peur institutionnelle indépendante de la culpabilité réelle",
+      "scène de dépôt de plainte comme acte de courage ou de rupture"
+    ],
+    "notesEditoriales": [
+      "Le commissariat intimide même les innocents : c'est un ressort narratif puissant qui ne nécessite pas de coupabilité réelle pour fonctionner.",
+      "La lumière fluorescente est un détail tellement usé qu'il faut en faire quelque chose de précis ou l'éviter — ne pas simplement mentionner 'lumière crue'.",
+      "Le banc dur et le silence entre inconnus sur ce banc sont deux détails qui fonctionnent ensemble pour créer l'atmosphère sans effort.",
+      "L'agent qui passe sans regarder dit plus sur le rapport institution/individu que n'importe quel commentaire narratif."
+    ]
+  },
+  {
+    "id": "chambre-malade-longue-duree",
+    "label": "Chambre de malade longue durée",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "lit médicalisé à hauteur réglable avec barres latérales",
+      "table de nuit encombrée de médicaments, eau, téléphone, mouchoirs",
+      "fenêtre souvent unique, vue limitée sur cour intérieure ou parking",
+      "fauteuil pour les visiteurs, légèrement inconfortable",
+      "moniteur éventuellement présent, avec ses chiffres et son bip discret",
+      "photos et dessins d'enfants affichés sur le mur par les proches",
+      "odeur de médicaments, de linge propre et de corps",
+      "sonnette d'appel à portée de main",
+      "téléviseur accroché haut sur le mur, utilisé ou éteint selon les heures"
+    ],
+    "emotionsTypiques": [
+      "épuisement du malade et de ses proches en miroir",
+      "tendresse aiguisée par l'inquiétude",
+      "sentiment d'impuissance face au corps qui échappe",
+      "ennui lourd teinté d'angoisse",
+      "habitude douloureuse pour ceux qui reviennent chaque jour",
+      "intimité forcée et parfois très profonde avec le corps et les limites"
+    ],
+    "ambiance": "La chambre de longue durée installe une temporalité à part : ni urgence, ni résolution proche. Le temps s'y étire, les visites rythment les journées, les nuits sont longues. C'est un lieu où on apprend à vivre au ralenti avec une peur constante en fond.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "médicaments — légèrement chimiques, parfois doux selon le traitement",
+        "linge propre des blouses et du linge de lit changé régulièrement",
+        "corps — présence douce ou lourde selon l'état, jamais totalement neutre",
+        "fleurs apportées par les visiteurs, qui parfument et puis se fânent"
+      ],
+      "auditifs": [
+        "bip régulier d'un moniteur, absent ou présent selon l'équipement",
+        "voix du personnel soignant dans le couloir, étouffée par la porte",
+        "télévision en fond — programme sans importance mais présence nécessaire",
+        "silence entre les mots dans une conversation qui manque de mots",
+        "roulement des chariots de soins dans le couloir"
+      ],
+      "visuels": [
+        "photos et dessins épinglés sur le mur — tentative de personnaliser un lieu impersonnel",
+        "table de nuit surchargée comme une biographie condensée : les médicaments, le livre à moitié lu, le téléphone",
+        "fenêtre sur une vue limitée, encadrée et toujours la même",
+        "lit médicalisé dont les mécanismes trahissent la dépendance",
+        "visage du malade — celui qu'on connaît et celui que la maladie modifie",
+        "chaise du visiteur légèrement de côté, jamais tout à fait à la bonne place"
+      ],
+      "tactiles": [
+        "main du malade dans la sienne — chaude ou froide selon le moment",
+        "air sec et trop chaud ou trop froid de la climatisation hospitalière",
+        "bord du lit médicalisé, froid et métallique si on s'appuie",
+        "mouchoir froissé dans la poche du visiteur"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Proche qui vient tous les jours",
+        "description": "A appris à lire l'état de la journée en entrant : le visage, la position dans le lit, la table de nuit. Sait quoi apporter, quoi ne pas dire, quand rester silencieux. La chambre est devenue familière mais pas neutre. Il ressort souvent épuisé d'une façon qu'il ne sait pas nommer."
+      },
+      {
+        "profil": "Le malade lui-même",
+        "description": "La chambre est devenue son monde entier — ou presque. Connaît chaque fissure du plafond, chaque bruit récurrent du couloir. La fenêtre est précieuse. Les visites sont ce qui structure le temps. La nuit est longue et différente du jour d'une façon que les visiteurs ne voient pas."
+      },
+      {
+        "profil": "Visiteur qui vient pour la première fois",
+        "description": "Ne sait pas comment entrer dans cette chambre, comment regarder, quoi dire. Le lit médicalisé, les médicaments, l'odeur — tout lui signifie quelque chose qu'il n'est pas prêt. Son malaise et son affection existent en même temps, et il ne sait pas bien lequel montrer."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de réconciliation ou de confession difficile entre deux personnes qui n'ont plus le temps",
+      "lieu d'une révélation sur le passé, dite ou non dite dans les derniers instants",
+      "cadre pour explorer la culpabilité du bien-portant face au malade",
+      "illustration du temps suspendu et de l'adaptation à l'impossible",
+      "scène de deuil anticipatoire — la perte avant la perte",
+      "intimité forcée et précieuse entre personnages que la vie ordinaire avait éloignés"
+    ],
+    "notesEditoriales": [
+      "Ce lieu ne supporte pas l'excès de pathétique : sa force est dans la précision des détails ordinaires — le livre à moitié lu, la vue sur le parking — pas dans le drame explicite.",
+      "La main du malade tenue par le visiteur est un geste qui concentre tout — à utiliser une seule fois et avec soin.",
+      "La chambre de longue durée est aussi un lieu d'habitude et de routine : ne pas l'oublier. L'horreur douce vient justement de cette normalisation.",
+      "Le malade comme personnage actif, et non comme simple objet de soin, doit être présent dans l'écriture — sa perception du lieu est aussi valide que celle du visiteur."
+    ]
+  },
+  {
+    "id": "entrepot-marchandises",
+    "label": "Entrepôt de marchandises",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "rayonnages métalliques hauts jusqu'au plafond, chargés de palettes",
+      "sol en béton brut, marqué de lignes de sécurité jaunes et noires",
+      "chariots élévateurs en mouvement ou garés en bout de travée",
+      "odeur de carton, de plastique et de métal mêlés",
+      "lumières au néon suspendues haut, qui n'atteignent pas bien les coins",
+      "températures variables selon les zones — réfrigérées ou ambiantes",
+      "codes-barres partout : rayonnages, palettes, sol",
+      "bruit de fonds mouvants, portes de quai qui s'ouvrent et se ferment",
+      "employés rares dans les travées, isolés par la taille du lieu"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'écrasement par l'échelle du lieu",
+      "anonymat dans un espace fait pour les objets, pas pour les personnes",
+      "concentration technique sans place pour autre chose",
+      "légère angoisse des espaces très hauts ou très vastes",
+      "solitude dans un lieu de travail collectif",
+      "impression de ne pas exister en dehors de sa tâche"
+    ],
+    "ambiance": "L'entrepôt de marchandises est un lieu fait pour les objets en transit : tout y est dimensionné pour les palettes, les camions, les flux. L'être humain y est présent mais non central — il circule dans un espace qui ne lui est pas destiné.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "carton humide et légèrement acide des caisses entassées",
+        "plastique de film étirable chauffé par les machines de cerclage",
+        "huile des chariots élévateurs, légère et persistante",
+        "froid sec de la zone réfrigérée, qui coupe la respiration"
+      ],
+      "auditifs": [
+        "bip de recul des chariots élévateurs, régulier et mécanique",
+        "grondement des portes de quai métalliques qui s'ouvrent",
+        "bruit de palettes déposées sur le béton, percutant",
+        "ventilation puissante dans les zones climatisées",
+        "voix rares, portées par l'acoustique de l'espace vide"
+      ],
+      "visuels": [
+        "travées à perte de vue, identiques et répétées",
+        "hauteur des rayonnages qui écrase la silhouette humaine",
+        "lignes jaunes sur le sol qui imposent des circuits",
+        "cartons portant des logos de marques connues, qui semblent incongrus dans cet espace brut",
+        "lumière insuffisante dans les coins reculés des rayonnages",
+        "silhouette isolée d'un préparateur de commandes au loin dans une travée"
+      ],
+      "tactiles": [
+        "froid brutal de la zone frigorifique sur la peau et la respiration",
+        "béton qui résonne sous les pas et fatigue les pieds",
+        "carton rugueux et légèrement humide sous les doigts",
+        "vibrations du sol quand un chariot passe dans la travée voisine"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Préparateur de commandes après des heures de travail",
+        "description": "Ne voit plus les rayonnages — voit les codes, les emplacements, les manques. Son corps connaît les travées mieux que sa tête. La fatigue physique est réelle mais il a appris à ne plus la mesurer. La fin du poste est le seul horizon qui compte."
+      },
+      {
+        "profil": "Responsable logistique qui visite le site",
+        "description": "Voit l'entrepôt comme un tableau de chiffres rendu visible. Remarque ce qui est bien rangé, ce qui déborde, ce qui crée un goulot. Les employés dans les travées sont des unités de flux. Son regard est professionnel, efficace, et légèrement inquiétant de froideur."
+      },
+      {
+        "profil": "Personne qui vit là depuis peu",
+        "description": "A encore la capacité de voir le lieu — son immensité, sa répétition, son manque d'humanité. Ressent une dissonance entre l'abondance des marchandises et la pauvreté de l'espace humain. Le trajet entre les travées ressemble à une métaphore qu'il n'arrive pas tout à fait à formuler."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de filature ou de confrontation dans un espace labyrinthique",
+      "cadre pour une conversation impossible — trop grand, trop bruyant",
+      "illustration de la déshumanisation du travail contemporain",
+      "espace de tension physique — accident, chute, panne de chariot",
+      "lieu symbolique de l'abondance abstraite et de la pauvreté concrète",
+      "scène nocturne dans un espace normalement habité mais soudain vide"
+    ],
+    "notesEditoriales": [
+      "L'entrepôt est un lieu sous-utilisé en fiction française — sa puissance vient précisément du fait qu'il n'est pas un décor littéraire attendu.",
+      "La hauteur des rayonnages est un détail physique important : elle change la relation des corps à l'espace et doit être mentionnée.",
+      "Les lignes jaunes sur le sol sont un détail concret qui dit tout du rapport entre corps humain et logique industrielle du lieu.",
+      "Ce lieu supporte très bien les scènes nocturnes ou hors-service : quand les chariots s'arrêtent et que le silence s'installe, l'entrepôt devient autre chose."
+    ]
+  },
+  {
+    "id": "terrasse-cafe-ete",
+    "label": "Terrasse de café l'été",
+    "type": "espace-public",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "tables rondes en métal avec plateau en faux marbre ou en plastique",
+      "chaises en rotin ou en métal peint, légères et déplaçables",
+      "parasols ouverts, ombre portée sur les tables selon l'heure",
+      "passants sur le trottoir, visibles et audibles",
+      "commandes criées ou passées par signe au serveur en mouvement",
+      "verres froids qui transpirent dans la chaleur",
+      "odeur de café, de cigarette et de chaleur sur l'asphalte",
+      "bruit continu de la ville — voitures, vélos, conversations",
+      "pigeons ou chats selon la ville et la terrasse"
+    ],
+    "emotionsTypiques": [
+      "plaisir simple et non cérébral d'être là",
+      "légèreté de l'été dans le corps et l'humeur",
+      "curiosité voyeuse pour les passants",
+      "sociabilité fluide ou contrainte selon la compagnie",
+      "ennui doux ou impatience selon l'attente",
+      "sentiment d'appartenir au lieu et à la ville"
+    ],
+    "ambiance": "La terrasse de café l'été est l'un des seuls espaces publics où ne rien faire est socialement admis, voire attendu. On y vient pour voir et être vu, pour parler ou se taire, pour boire quelque chose de froid à l'ombre d'un parasol. La ville y est décor et compagnie.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "café serré et chaud même par 30 degrés",
+        "légère odeur de cigarette portée par le vent depuis la table voisine",
+        "asphalte chaud sous le soleil, presque palpable",
+        "crème solaire sur quelqu'un qui passe"
+      ],
+      "auditifs": [
+        "bruit de fond de la ville — voitures, conversations, vélos",
+        "voix proches de la table voisine, trop audibles parfois",
+        "cuillère qui tinte sur le verre à l'heure du café",
+        "pieds de chaise raclés sur le trottoir quand quelqu'un s'installe",
+        "sonnerie de téléphone, systématiquement celui de quelqu'un d'autre"
+      ],
+      "visuels": [
+        "jeu d'ombre et de lumière sur les tables selon le parasol et l'heure",
+        "verres et tasses translucides, condensation sur le verre froid",
+        "file des passants sur le trottoir, perpétuellement en mouvement",
+        "serveur qui slalome entre les tables, plateau en main",
+        "couleurs vives des vêtements d'été dans la lumière directe",
+        "chaleur visible au-dessus de l'asphalte dans la distance"
+      ],
+      "tactiles": [
+        "métal chaud de la chaise au soleil au moment de s'asseoir",
+        "verre froid et humide dans la main",
+        "chaleur sur les épaules et le dessus du crâne hors du parasol",
+        "brise légère et irrégulière qui donne envie de s'arrêter là pour toujours"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Deux amis qui ne se sont pas vus depuis longtemps",
+        "description": "La terrasse est le cadre idéal pour la reprise d'un lien — ni trop intime (pas chez soi), ni trop formel. Le bruit de la ville en fond soustrait les silences gênants. On parle facilement parce qu'on peut aussi regarder les passants. La conversation peut aller loin ou rester en surface — la terrasse tolère les deux."
+      },
+      {
+        "profil": "Personne seule qui observe",
+        "description": "Fait des métiers aux passants, invente des vies. Le carnet ouvert ou le téléphone en main sont des alibis. Sa table légèrement à l'écart lui donne une position d'observateur qui lui convient. Il ne cherche pas à partir — la terrasse le nourrit d'une façon qu'il ne chercherait pas à expliquer."
+      },
+      {
+        "profil": "Touriste dans une ville inconnue",
+        "description": "La terrasse est son premier point d'ancrage dans la ville. Il regarde les gens avec l'attention de celui qui ne comprend pas encore les codes. Le serveur qui parle vite, la façon dont les habitués s'installent, les types de commandes — il collecte des informations sans avoir l'air. La ville commence ici."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de retrouvailles dans un cadre mi-intime mi-public",
+      "observation d'un personnage tiers par le protagoniste depuis sa table",
+      "lieu de conversation où la ville est à la fois distraction et témoin",
+      "cadre pour une annonce difficile adoucie par la légèreté du lieu",
+      "espace de solitude choisie dans l'anonymat de la ville",
+      "scène de filature ou de surveillance dans un décor ouvert et mouvant"
+    ],
+    "notesEditoriales": [
+      "La terrasse de café est un cliché du roman français — à assumer pleinement ou à subvertir. Éviter la terrasse décorative : lui donner une fonction dramatique précise.",
+      "Le bruit de fond de la ville est l'un des éléments constitutifs de ce lieu : le mentionner de façon précise plutôt que générique ('un brouhaha').",
+      "La conversation à voix trop haute à la table voisine est un outil narratif classique et efficace — à utiliser avec intention.",
+      "La terrasse change selon l'heure : celle du matin (café, journaux, départ au travail) est un lieu très différent de celle de l'après-midi (oisiveté, apéritif)."
+    ]
+  }
+]

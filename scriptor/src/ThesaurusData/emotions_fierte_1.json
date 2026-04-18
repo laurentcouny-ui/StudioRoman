@@ -1,0 +1,464 @@
+[
+  {
+    "id": "fierte",
+    "label": "Fierté",
+    "alias": [
+      "fierté",
+      "sentiment d'accomplissement",
+      "satisfaction de soi",
+      "dignité",
+      "estime de soi gagnée",
+      "fierté légitime",
+      "fierté bien placée",
+      "sentiment de valeur",
+      "reconnaissance de soi",
+      "tête haute"
+    ],
+    "famille": "fierte-confiance",
+    "definitionCourte": "Satisfaction profonde de soi-même, d'autrui ou d'un groupe, liée à un accomplissement réel ou à une valeur défendue, différente de l'arrogance par son ancrage dans quelque chose de mérité.",
+    "signesPhysiques": [
+      "menton légèrement relevé",
+      "épaules en arrière, posture haute et ouverte",
+      "sourire lent et plein",
+      "regard droit, contact oculaire assumé",
+      "démarche plus assurée",
+      "gestes plus larges et plus libres",
+      "voix plus pleine",
+      "légère dilatation des narines"
+    ],
+    "sensationsInternes": [
+      "chaleur dans la poitrine, large et stable",
+      "sentiment que tout le corps tient droit",
+      "élan calme et solide",
+      "satisfaction qui n'a pas besoin de témoin",
+      "impression que ce qui a été fait compte",
+      "légèreté sans euphorie"
+    ],
+    "pensees": [
+      "J'ai fait ça.",
+      "On y est arrivés.",
+      "J'ai tenu sur ce point.",
+      "C'était difficile — et je l'ai quand même fait.",
+      "Je me reconnais dans ce résultat.",
+      "Ça valait le coup.",
+      "Je peux regarder ça en face.",
+      "Je suis content de la personne que j'ai été là."
+    ],
+    "effetsVoixLangage": [
+      "ton plus assuré, sans affectation",
+      "moins d'hésitations",
+      "déclarations plus directes",
+      "anecdote racontée sans minimisation",
+      "capacité à recevoir le compliment sans le déflectar"
+    ],
+    "comportements": [
+      "assume la réussite sans la gonfler",
+      "parle de son travail avec simplicité",
+      "partage la fierté avec ceux qui y ont contribué",
+      "défend ses choix sans agressivité",
+      "refuse la comparaison dénigrante",
+      "porte le résultat de façon visible mais sobre"
+    ],
+    "masquesPossibles": [
+      "minimisation de façade pour ne pas paraître arrogant",
+      "déflexion vers les autres",
+      "humour autodérisoire qui couvre la fierté réelle"
+    ],
+    "evolutionsPossibles": [
+      "confiance renforcée",
+      "arrogance si la fierté perd son ancrage dans le mérite",
+      "gratitude envers ceux qui ont permis l'accomplissement",
+      "désir de renouveler l'expérience"
+    ],
+    "contextesAggravants": [
+      "fierté non reconnue par l'entourage",
+      "dévalorisation par quelqu'un dont l'opinion compte",
+      "contexte qui juge la fierté comme de l'arrogance"
+    ],
+    "contextesAttenuants": [
+      "partage de la fierté avec quelqu'un qui comprend",
+      "reconnaissance extérieure qui confirme",
+      "espace pour savourer seul"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Satisfaction légère", "description": "Ce qui a été fait est bien. Le personnage en est simplement content." },
+      { "niveau": 2, "label": "Fierté sensible", "description": "L'accomplissement est réel et reconnu intérieurement. La posture change légèrement." },
+      { "niveau": 3, "label": "Fierté franche", "description": "Le personnage est vraiment fier. Il le montre sans l'exagérer." },
+      { "niveau": 4, "label": "Fierté intense", "description": "L'accomplissement dépasse ce qu'il espérait. La fierté est profonde et durable." },
+      { "niveau": 5, "label": "Fierté totale", "description": "Ce moment marque quelque chose. Le personnage en tirera une confiance durable." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage avec faible estime de lui-même",
+        "description": "La fierté est rare et presque déstabilisante. Il ne sait pas très bien comment la tenir. Elle est fragile — un seul commentaire négatif peut la défaire."
+      },
+      {
+        "profil": "Personnage exigeant",
+        "description": "La fierté est difficile à atteindre. Il sait ce qu'il aurait pu faire mieux. Quand elle vient, elle est d'autant plus solide."
+      },
+      {
+        "profil": "Personnage fier pour quelqu'un d'autre",
+        "description": "La fierté est dirigée vers un enfant, un élève, un proche. Elle est parfois plus forte que sa propre fierté personnelle. Elle révèle l'investissement dans l'autre."
+      }
+    ],
+    "notesEditoriales": [
+      "Distinguer la fierté légitime de l'arrogance : la fierté reconnaît le mérite sans invalider les autres.",
+      "Un personnage fier de quelqu'un d'autre est souvent plus émouvant que fier de lui-même.",
+      "La fierté brisée (par un échec ou une dévalorisation) est un moment narratif fort.",
+      "La fierté peut coexister avec la honte — les deux portent sur l'identité."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "arrogance" },
+      { "type": "peut_evoluer_en", "cible": "confiance" },
+      { "type": "peut_evoluer_en", "cible": "gratitude" },
+      { "type": "souvent_associe_a", "cible": "accomplissement" },
+      { "type": "peut_masquer", "cible": "doute-residuel" },
+      { "type": "peut_suivre", "cible": "effort-recompense" }
+    ]
+  },
+  {
+    "id": "confiance",
+    "label": "Confiance",
+    "alias": [
+      "confiance en soi",
+      "assurance",
+      "sécurité intérieure",
+      "stabilité intérieure",
+      "aplomb",
+      "calme face à l'adversité",
+      "solidité",
+      "certitude tranquille",
+      "ancrage",
+      "sérénité opérationnelle"
+    ],
+    "famille": "fierte-confiance",
+    "definitionCourte": "Sentiment stable de sa propre capacité à faire face, à décider et à agir, construit sur l'expérience ou la connaissance de soi, qui n'a pas besoin de la validation permanente des autres.",
+    "signesPhysiques": [
+      "posture détendue mais droite",
+      "regard stable, direct sans être provocateur",
+      "gestes mesurés et délibérés",
+      "voix posée, sans chercher l'approbation",
+      "sourire calme",
+      "silence confortable avant de répondre",
+      "démarche régulière et assurée"
+    ],
+    "sensationsInternes": [
+      "ancrage calme dans le corps",
+      "sentiment que l'espace autour de soi est habitable",
+      "pensée claire sans bruit de fond anxieux",
+      "élan tranquille vers ce qui doit être fait",
+      "absence de besoin urgent de confirmer",
+      "légèreté dans la décision"
+    ],
+    "pensees": [
+      "Je sais ce que j'ai à faire.",
+      "J'ai déjà traversé des choses difficiles.",
+      "Je peux me fier à mon jugement sur ça.",
+      "Si ça ne va pas, je m'adapterai.",
+      "Je n'ai pas besoin qu'ils approuvent.",
+      "Je connais mes limites — et je les accepte.",
+      "Je peux être honnête sur ce que je sais et ce que je ne sais pas.",
+      "Ça ira."
+    ],
+    "effetsVoixLangage": [
+      "ton neutre et stable",
+      "réponses directes sans excès de précaution",
+      "capacité à dire non sans long préambule",
+      "formulations affirmatives",
+      "peu de questions de validation"
+    ],
+    "comportements": [
+      "prend des décisions sans report excessif",
+      "accepte d'avoir tort sans effondrement",
+      "délègue sans angoisse",
+      "exprime un désaccord sans agressivité",
+      "reste stable face à la critique",
+      "n'a pas besoin d'occuper tout l'espace",
+      "laisse les autres avoir raison si c'est le cas"
+    ],
+    "masquesPossibles": [
+      "confiance jouée qui cache l'anxiété",
+      "arrogance qui compense le manque de confiance réelle"
+    ],
+    "evolutionsPossibles": [
+      "arrogance si elle perd le contact avec l'humilité",
+      "désorientation si elle est fortement ébranlée",
+      "renforcement après une épreuve surmontée",
+      "générosité — la confiance permet de soutenir les autres"
+    ],
+    "contextesAggravants": [
+      "domaine nouveau où l'expérience ne s'applique pas",
+      "échec public inattendu",
+      "remise en question par quelqu'un de respecté",
+      "pression de groupe prolongée"
+    ],
+    "contextesAttenuants": [
+      "domaine de maîtrise reconnu",
+      "soutien de quelqu'un en qui on a confiance",
+      "réussite récente qui confirme la compétence"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère assurance", "description": "Le personnage est à peu près à l'aise. Pas d'anxiété particulière." },
+      { "niveau": 2, "label": "Confiance sensible", "description": "L'assurance est réelle et visible. Le personnage avance sans hésitation inutile." },
+      { "niveau": 3, "label": "Confiance établie", "description": "Le personnage sait ce qu'il est capable de faire. Il agit en cohérence." },
+      { "niveau": 4, "label": "Confiance solide", "description": "La confiance résiste à la pression. Les obstacles ne l'ébranlent pas facilement." },
+      { "niveau": 5, "label": "Ancrage total", "description": "La confiance est une ressource inépuisable dans cette situation. Rien ne la déstabilise durablement." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui a tout reconstruit",
+        "description": "La confiance est le résultat d'un travail. Elle n'est pas naturelle — elle est construite sur des preuves accumulées. Elle est précieuse précisément parce qu'elle a coûté."
+      },
+      {
+        "profil": "Personnage naturellement confiant",
+        "description": "La confiance est constitutive. Elle n'est pas questionnée. Ce qui est narrativement intéressant est de la voir fissurée — et ce qui se passe quand ça arrive."
+      },
+      {
+        "profil": "Personnage confiant dans un seul domaine",
+        "description": "L'assurance est très localisée. En dehors de son domaine, le personnage est vulnérable. L'écart entre les deux zones est une source de tension narrative."
+      }
+    ],
+    "notesEditoriales": [
+      "La vraie confiance est silencieuse — elle n'a pas besoin de s'afficher.",
+      "Distinguer la confiance de l'arrogance : la confiance ne diminue pas l'autre.",
+      "Une confiance ébranlée est l'un des arcs les plus efficaces pour un personnage fort.",
+      "La confiance peut être un masque : un personnage confiant sur des bases fragiles est très vulnérable."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "arrogance" },
+      { "type": "peut_evoluer_en", "cible": "humilite" },
+      { "type": "peut_suivre", "cible": "fierte" },
+      { "type": "souvent_associe_a", "cible": "competence" },
+      { "type": "peut_masquer", "cible": "doute-non-resolu" },
+      { "type": "peut_etre_ebranlee_par", "cible": "echec" }
+    ]
+  },
+  {
+    "id": "arrogance",
+    "label": "Arrogance",
+    "alias": [
+      "arrogance",
+      "suffisance",
+      "fierté excessive",
+      "supériorité affichée",
+      "condescendance assumée",
+      "vanité",
+      "sentiment d'être au-dessus",
+      "hubris",
+      "présomption",
+      "orgueil mal placé"
+    ],
+    "famille": "fierte-confiance",
+    "definitionCourte": "Conviction affichée d'une supériorité sur les autres qui se manifeste par une dévalorisation implicite ou explicite de leur jugement, de leurs capacités ou de leur valeur.",
+    "signesPhysiques": [
+      "menton relevé au-delà du naturel",
+      "regard qui passe au-dessus ou à côté de l'autre",
+      "sourire condescendant, trop lent, trop maîtrisé",
+      "posture trop droite, trop définie",
+      "gestes larges qui occupent l'espace des autres",
+      "soupir à peine perceptible avant de répondre",
+      "regard vers un public imaginaire quand l'autre parle"
+    ],
+    "sensationsInternes": [
+      "satisfaction de se sentir au-dessus de la situation",
+      "légère irritation face à ce qu'il juge inférieur",
+      "impatience envers la lenteur des autres",
+      "confort dans sa propre perception d'excellence",
+      "absence d'effort d'empathie — ça ne lui paraît pas nécessaire"
+    ],
+    "pensees": [
+      "Je suis le seul à vraiment comprendre ici.",
+      "S'ils m'écoutaient, ça irait plus vite.",
+      "Ce niveau est en dessous de moi.",
+      "Ils ont besoin de moi — l'inverse n'est pas vrai.",
+      "Je n'ai pas à justifier mes décisions à des gens comme eux.",
+      "Il parle — mais il n'a pas tort non plus — mais quand même.",
+      "Ma réussite parle pour moi.",
+      "Je n'ai pas de temps à perdre avec ça."
+    ],
+    "effetsVoixLangage": [
+      "ton poli mais vide de chaleur",
+      "formulations qui simplifient pour enseigner",
+      "interruptions légères",
+      "reformulations qui corrigent implicitement",
+      "silences qui précèdent une réponse trop évidente selon lui"
+    ],
+    "comportements": [
+      "ne cherche pas à convaincre — il expose",
+      "ne tient pas vraiment compte des objections",
+      "coupe court aux développements qu'il juge inutiles",
+      "sélectionne ses interlocuteurs",
+      "n'écoute que partiellement",
+      "attribue les succès à lui-même, les échecs aux circonstances ou aux autres"
+    ],
+    "masquesPossibles": [
+      "politesse parfaite qui contient tout le mépris",
+      "générosité condescendante",
+      "humour léger qui dissimule l'invalidation"
+    ],
+    "evolutionsPossibles": [
+      "humiliation si la réalité contredit la supériorité",
+      "remise en question forcée si quelqu'un refuse de plier",
+      "solitude si l'entourage se fatigue",
+      "confiance saine si l'arrogance est traversée"
+    ],
+    "contextesAggravants": [
+      "validation répétée par l'entourage",
+      "réussite trop facile",
+      "absence de contre-pouvoir ou de contradiction",
+      "milieu qui récompense la suffisance"
+    ],
+    "contextesAttenuants": [
+      "échec face à quelqu'un qu'il méprisait",
+      "relation avec quelqu'un qui ne se laisse pas impressionner",
+      "crise qui le met à égalité avec les autres"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère suffisance", "description": "Le personnage est confiant en lui et ça dépasse légèrement. Pas encore invalidant." },
+      { "niveau": 2, "label": "Arrogance sensible", "description": "La condescendance est perceptible pour l'autre. Elle crée une distance légère." },
+      { "niveau": 3, "label": "Arrogance marquée", "description": "Le personnage invalide régulièrement. L'entourage en souffre." },
+      { "niveau": 4, "label": "Suffisance profonde", "description": "L'arrogance est une posture totale. Il ne voit plus vraiment les autres." },
+      { "niveau": 5, "label": "Hubris", "description": "Le personnage est convaincu de son infaillibilité. La chute est inévitable." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage réellement très compétent",
+        "description": "L'arrogance est partiellement justifiée — ce qui la rend plus difficile à combattre. Il a souvent raison. Mais il invalide des personnes de valeur par réflexe, pas par analyse."
+      },
+      {
+        "profil": "Personnage qui compense une insécurité",
+        "description": "L'arrogance est une armure. Sous la suffisance se cache une peur de ne pas être suffisant. Si la carapace se fissure, c'est cette peur qui sort."
+      },
+      {
+        "profil": "Personnage élevé dans un contexte de supériorité",
+        "description": "L'arrogance n'est pas une décision — c'est une culture. Il ne réalise pas ce qu'il fait. La prise de conscience, quand elle arrive, est violente."
+      }
+    ],
+    "notesEditoriales": [
+      "L'arrogance est plus intéressante comme masque que comme trait brut.",
+      "Un personnage arrogant qui a une raison d'être arrogant est plus crédible qu'un arrogant sans fond.",
+      "La chute de l'arrogance est l'un des arcs narratifs les plus classiques — mais toujours efficace.",
+      "Distinguer de la confiance : l'arrogance invalide, la confiance n'en a pas besoin."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "fierte" },
+      { "type": "peut_evoluer_en", "cible": "chute-et-humiliation" },
+      { "type": "peut_masquer", "cible": "insecurite-profonde" },
+      { "type": "souvent_associe_a", "cible": "mepris" },
+      { "type": "peut_declencher", "cible": "rejet-de-l-entourage" },
+      { "type": "peut_suivre", "cible": "reussite-repetee" }
+    ]
+  },
+  {
+    "id": "satisfaction",
+    "label": "Satisfaction",
+    "alias": [
+      "satisfaction",
+      "contentement tranquille",
+      "sentiment du travail accompli",
+      "accomplissement discret",
+      "bien-être mérité",
+      "plénitude légère",
+      "sentiment d'avoir bien fait",
+      "quiétude méritée",
+      "plaisir de l'achèvement",
+      "sentiment de suffisance juste"
+    ],
+    "famille": "fierte-confiance",
+    "definitionCourte": "État de calme contentement lié à la correspondance entre ce qu'on voulait accomplir et ce qui a été accompli, sans excès ni agitation.",
+    "signesPhysiques": [
+      "soupir long et tranquille",
+      "corps qui se détend et s'installe",
+      "sourire calme, sans effort",
+      "gestes ralentis dans un sens agréable",
+      "regard posé, serein",
+      "épaules qui descendent naturellement",
+      "voix légèrement plus grave et plus posée"
+    ],
+    "sensationsInternes": [
+      "chaleur tranquille dans la poitrine",
+      "légèreté sans excitation",
+      "impression que la journée avait un sens",
+      "fatigue douce qui n'est pas désagréable",
+      "sentiment de fermeture — les boucles ouvertes se referment",
+      "plaisir du résultat sans urgence de continuer"
+    ],
+    "pensees": [
+      "C'est bien.",
+      "C'est ce que je voulais faire.",
+      "La journée n'est pas perdue.",
+      "Je peux m'arrêter là.",
+      "C'était ce qu'il fallait.",
+      "Je suis content de la façon dont j'ai géré ça.",
+      "Ça correspond à ce que je voulais.",
+      "Je peux passer à autre chose maintenant."
+    ],
+    "effetsVoixLangage": [
+      "ton apaisé",
+      "moins de questions",
+      "réponses plus complètes et moins défensives",
+      "capacité à s'arrêter dans une conversation sans chercher plus"
+    ],
+    "comportements": [
+      "marque une pause naturelle",
+      "ferme ce qu'il était en train de faire",
+      "remercie si quelqu'un a contribué",
+      "ne cherche pas à surfer immédiatement sur la réussite",
+      "apprécie le calme qui suit"
+    ],
+    "masquesPossibles": [
+      "minimisation habituelle",
+      "recherche immédiate du prochain objectif pour éviter le vide"
+    ],
+    "evolutionsPossibles": [
+      "fierté si quelqu'un reconnaît la réussite",
+      "joie si la satisfaction est partagée",
+      "mélancolie légère si la fin d'un projet coïncide avec un vide"
+    ],
+    "contextesAggravants": [
+      "résultat non reconnu par l'entourage",
+      "satisfaction interrompue par une nouvelle tâche immédiate",
+      "comparaison défavorable avec quelqu'un qui a mieux fait"
+    ],
+    "contextesAttenuants": [
+      "moment seul pour savourer",
+      "partage simple avec un proche",
+      "contexte qui permet une vraie pause"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère satisfaction", "description": "Ça s'est bien passé. Le personnage passe à autre chose sereinement." },
+      { "niveau": 2, "label": "Satisfaction sensible", "description": "Le personnage est vraiment content. Il marque un arrêt." },
+      { "niveau": 3, "label": "Satisfaction franche", "description": "L'accomplissement est réel et reconnu. Le personnage est visiblement apaisé." },
+      { "niveau": 4, "label": "Sentiment d'accomplissement", "description": "Quelque chose d'important vient d'être achevé. La satisfaction est profonde." },
+      { "niveau": 5, "label": "Plénitude", "description": "Le résultat dépasse les attentes. Le personnage est en paix avec ce qu'il a fait." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage très exigeant",
+        "description": "La satisfaction est rare. Il faut avoir vraiment bien fait pour qu'elle arrive. Quand elle vient, elle est précieuse. Mais elle ne dure pas longtemps avant la prochaine exigence."
+      },
+      {
+        "profil": "Personnage qui aime le travail bien fait",
+        "description": "La satisfaction est régulière et accessible. Elle ne dépend pas de la reconnaissance — seulement du résultat. C'est une forme de bonheur discret et constant."
+      },
+      {
+        "profil": "Personnage en fin de projet long",
+        "description": "La satisfaction est mêlée de mélancolie. Quelque chose qui a occupé de l'espace et du temps vient de se terminer. La joie est réelle mais le vide aussi."
+      }
+    ],
+    "notesEditoriales": [
+      "La satisfaction est une émotion calme — elle ne fait pas de bruit, mais elle ancre.",
+      "Elle peut contraster efficacement avec une scène de tension pour marquer une respiration narrative.",
+      "La satisfaction après un sacrifice est narrativement très puissante.",
+      "Distinguer du soulagement : la satisfaction est liée à la qualité du résultat, le soulagement à la fin de la tension."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "joie" },
+      { "type": "peut_evoluer_en", "cible": "fierte" },
+      { "type": "peut_evoluer_en", "cible": "melancolie" },
+      { "type": "souvent_associe_a", "cible": "accomplissement" },
+      { "type": "peut_suivre", "cible": "effort-soutenu" },
+      { "type": "peut_contraster_avec", "cible": "frustration" }
+    ]
+  }
+]

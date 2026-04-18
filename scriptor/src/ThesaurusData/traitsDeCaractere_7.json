@@ -1,0 +1,788 @@
+[
+  {
+    "id": "secretif",
+    "label": "Secretif",
+    "polarite": "ambigu",
+    "famille": "rapport-a-soi",
+    "definitionCourte": "Le personnage secrétif ne révèle presque rien de son intérieur, même aux personnes proches. Ce n'est pas toujours de la méfiance : parfois c'est une forme de pudeur absolue, une conviction profonde que l'intérieur appartient à soi seul. Il peut sourire, s'engager, être présent — et rester totalement opaque.",
+    "signesPhysiques": [
+      "regard légèrement voilé, même dans un sourire franc",
+      "pause infime avant chaque réponse personnelle",
+      "geste de refermer les mains quand la conversation s'approfondit",
+      "épaules légèrement tournées vers l'intérieur en position d'écoute",
+      "yeux qui dévient sur un objet neutre quand la question touche au vif",
+      "sourire qui ne monte pas jusqu'aux yeux lors des confidences des autres",
+      "posture stable, presque immobile — peu de gestes parasites",
+      "regard qui balaye la pièce avant de répondre à une question personnelle",
+      "mains qui s'occupent (tasse, stylo) quand le sujet devient intime",
+      "légère inclinaison de tête, comme s'il évaluait combien donner",
+      "lèvres légèrement pressées entre les répliques"
+    ],
+    "sensationsInternes": [
+      "sentiment de confort dans l'opacité, comme une couverture",
+      "vigilance douce mais constante sur ce qui peut être dit",
+      "satisfaction subtile quand il détourne habilement une question",
+      "légère crispation intérieure quand quelqu'un creuse trop",
+      "impression que se livrer serait perdre quelque chose d'essentiel",
+      "calme particulier dans les silences qu'il crée",
+      "sentiment d'être plus entier quand il n'est pas vu entièrement",
+      "légère anxiété diffuse si quelqu'un semble le 'lire' malgré tout"
+    ],
+    "pensees": [
+      "Ce n'est pas un mensonge. Je n'ai juste pas dit l'essentiel.",
+      "Ils savent ce que je veux qu'ils sachent.",
+      "Si je le dis à voix haute, ça devient réel d'une autre manière.",
+      "Garder ça pour moi, c'est la seule chose que personne ne peut prendre.",
+      "Il me regarde comme s'il comprenait. Il ne comprend pas.",
+      "Je pourrais tout dire. Mais pourquoi le ferais-je ?",
+      "Ce que je ressens ne les concerne pas.",
+      "Ils préféreraient une version de moi, pas moi."
+    ],
+    "effetsVoixLangage": [
+      "répond à des questions personnelles par des questions",
+      "reformule la question pour en changer subtilement l'angle",
+      "utilise 'on' à la place de 'je' quand le sujet devient intime",
+      "phrases courtes, précises, sans ornements superflus",
+      "silence de réflexion légèrement trop long avant les réponses sensibles",
+      "change de sujet avec une fluidité apparente",
+      "donne des réponses vraies mais incomplètes, jamais fausses"
+    ],
+    "comportements": [
+      "ne parle de lui-même qu'en réponse directe, jamais spontanément",
+      "écoute beaucoup et restitue peu",
+      "maintient plusieurs cercles sociaux qui ne se connaissent pas entre eux",
+      "range ses affaires personnelles hors de portée de regard",
+      "évite les environnements où l'alcool ou la fatigue pourrait faire parler",
+      "quitte doucement les conversations qui s'approchent trop",
+      "peut sembler ouvert sur des sujets factuels, mais reste fermé sur l'émotionnel",
+      "ne tient pas de journal ou le détruit après lecture",
+      "choisit les amis pour leur discrétion autant que pour leur caractère",
+      "observe les autres avec attention sans jamais livrer la même attention sur lui-même",
+      "peut trahir une émotion dans un geste, mais la nie immédiatement si remarquée"
+    ],
+    "masquesPossibles": [
+      "affabilité chaleureuse qui donne l'impression de tout partager",
+      "humour léger qui détourne sans sembler se dérober",
+      "intérêt sincère pour les autres qui évite qu'on s'intéresse à lui",
+      "discours philosophique abstrait à la place du personnel",
+      "occupation permanente qui rend les confidences 'impossibles'"
+    ],
+    "manifestationsPositives": [
+      "peut être un confident fiable car il ne divulgue pas",
+      "gère la pression sans s'effondrer ni exploser",
+      "maintient une forme de dignité intérieure dans les situations d'humiliation",
+      "protège son entourage de ses propres angoisses",
+      "ne se livre pas à l'impulsivité verbale destructrice"
+    ],
+    "manifestationsNegatives": [
+      "crée de la distance dans les relations intimes qui exigent la réciprocité",
+      "peut laisser les conflits se creuser faute de les exprimer",
+      "frustre les proches qui ne savent jamais vraiment où ils en sont",
+      "peut être perçu comme froid, supérieur ou manipulateur",
+      "empêche parfois la résolution de blessures qu'il ne nomme pas"
+    ],
+    "blessuresPossibles": [
+      "confidence livrée dans l'enfance et retournée contre lui",
+      "entourage qui utilisait ses émotions comme munitions",
+      "trahison d'un secret majeur par quelqu'un de confiance"
+    ],
+    "evolutionsPossibles": [
+      "peut s'ouvrir progressivement à une seule personne qui n'exige pas",
+      "peut basculer dans l'isolement total si la méfiance se renforce",
+      "peut apprendre à distinguer ce qui mérite d'être gardé de ce qui mérite d'être dit",
+      "peut révéler son intérieur dans une crise où il n'a plus le choix — moment dramatique fort"
+    ],
+    "notesEditoriales": [
+      "Ne pas confondre avec la froideur ou la sécheresse émotionnelle : le personnage secrétif ressent profondément, il choisit simplement de ne pas montrer.",
+      "Le secret est plus intéressant quand il protège quelque chose de vulnérable — pas quand il cache un simple défaut.",
+      "Éviter le cliché du 'personnage mystérieux' qui n'est secrétif que pour paraître intéressant : la vraie opacité a une raison ancrée dans l'histoire."
+    ]
+  },
+  {
+    "id": "bavard",
+    "label": "Bavard",
+    "polarite": "ambigu",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage bavard parle beaucoup, souvent de façon compulsive, comme si le silence était une menace à remplir d'urgence. Ce n'est pas toujours de la superficialité : parfois la parole est une façon de rester en contact, de contrôler l'atmosphère ou de ne pas laisser sa propre tête prendre la parole. La bavardise peut cacher autant qu'elle révèle.",
+    "signesPhysiques": [
+      "débit rapide, phrases qui s'enchaînent sans pause naturelle",
+      "gestes des mains qui accompagnent et amplifient les mots",
+      "regard qui cherche confirmation dans les yeux de l'interlocuteur",
+      "léger sourire en fin de phrase, comme une invitation à continuer",
+      "corps orienté vers l'autre, légèrement penché en avant",
+      "sourcils expressifs qui bougent avec les intonations",
+      "gestes d'ouverture des paumes quand il expose un point",
+      "inspiration brève mais audible avant de reprendre la parole",
+      "rires légers qui ponctuent les transitions entre sujets",
+      "mouvements de tête fréquents pour appuyer ses propres propos",
+      "regard vif, attentif aux réactions, prêt à rebondir"
+    ],
+    "sensationsInternes": [
+      "inconfort croissant quand le silence s'étire trop longtemps",
+      "énergie qui cherche une sortie et trouve les mots",
+      "satisfaction quand l'autre rit ou approuve",
+      "légère panique si personne ne réagit",
+      "sensation d'exister davantage quand il parle",
+      "angoisse diffuse dans les pièces silencieuses",
+      "impression que ses pensées ont besoin d'être dites pour être réelles",
+      "chaleur dans la gorge et la poitrine quand la conversation s'anime"
+    ],
+    "pensees": [
+      "Le silence est insupportable. Il faut que je dise quelque chose.",
+      "Si je parle, ils rient. Si je me tais, qu'est-ce qu'ils pensent ?",
+      "J'ai une histoire parfaite pour ça. Juste une.",
+      "Je ne peux pas m'arrêter là — il faut que je finisse.",
+      "Est-ce que je parle trop ? Non, il sourit encore.",
+      "Je voulais juste dire ça, et puis ça s'est enchaîné.",
+      "Si je me tais trop longtemps, ils vont voir que je ne sais pas quoi dire.",
+      "Les mots sortent avant que je décide de les dire."
+    ],
+    "effetsVoixLangage": [
+      "débit soutenu avec peu de silences prolongés",
+      "digressions fréquentes avant de revenir au sujet",
+      "questions rhétoriques qui n'attendent pas vraiment de réponse",
+      "reprend la parole très vite après l'autre, parfois en chevauchement",
+      "rires intégrés dans le discours pour fluidifier",
+      "formules de transition abondantes : 'et du coup', 'mais en même temps', 'enfin'",
+      "volume qui monte légèrement dans l'enthousiasme"
+    ],
+    "comportements": [
+      "remplit les silences avant même qu'ils aient duré deux secondes",
+      "relance une conversation qui s'éteignait naturellement",
+      "raconte des anecdotes dans les situations de tension pour détendre",
+      "parle d'autant plus vite que l'interlocuteur semble pressé",
+      "pose des questions mais enchaîne avant d'entendre la réponse complète",
+      "s'excuse parfois de parler trop, puis recommence immédiatement",
+      "commente à voix basse même quand il est censé être seul",
+      "se perd dans les détails et doit être rappelé au sujet principal",
+      "cherche le contact visuel avec n'importe qui dans une pièce silencieuse",
+      "peut parler de choses sans importance pour éviter de parler de l'essentiel",
+      "répond aux textos immédiatement et longuement"
+    ],
+    "masquesPossibles": [
+      "sociabilité chaleureuse qui semble naturelle et spontanée",
+      "humour et légèreté qui font oublier qu'il évite certains sujets",
+      "enthousiasme communicatif qui fait passer la quantité pour de la vivacité",
+      "intérêt pour les autres exprimé en mots pour ne pas avoir à l'exprimer autrement",
+      "expertise ou passion affichée pour occuper l'espace conversationnel"
+    ],
+    "manifestationsPositives": [
+      "met les gens à l'aise dans les situations sociales difficiles",
+      "détend les atmosphères tendues avec naturel",
+      "retient facilement les informations sur les autres et les leur restitue",
+      "anime les groupes et maintient la cohésion",
+      "peut exprimer ce que les autres n'osent pas dire"
+    ],
+    "manifestationsNegatives": [
+      "prend toute la place dans les conversations de groupe",
+      "interrompt sans s'en rendre compte",
+      "dit parfois des choses qu'il aurait mieux valu taire faute de filtre",
+      "peut épuiser les introvertis ou les personnes en difficulté",
+      "sa vraie détresse passe souvent inaperçue, noyée dans les mots"
+    ],
+    "blessuresPossibles": [
+      "enfance dans un foyer silencieux ou tendu où parler était le seul moyen de créer de la chaleur",
+      "période d'isolement ou de rejet où la parole était le seul lien possible",
+      "parent peu disponible que seule l'animation verbale parvenait à capter"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à supporter le silence en prenant conscience de ce qu'il fuit",
+      "peut devenir un très bon conteur ou communicant si la compulsion se canalise",
+      "peut basculer dans la solitude si les gens finissent par se lasser",
+      "peut découvrir dans un moment de crise que les mots ne suffisent pas"
+    ],
+    "notesEditoriales": [
+      "Le personnage bavard est souvent utilisé pour la comédie ou la légèreté, mais son potentiel dramatique est immense : que se passe-t-il quand il n'a plus de mots ?",
+      "La bavardise compulsive est souvent une forme d'anxiété sociale déguisée en sociabilité — à traiter avec nuance plutôt qu'en faire un simple défaut comique.",
+      "Attention au cliché du bavard superficiel : les bavards révèlent souvent des vérités accidentelles que les personnages réservés n'auraient jamais dites."
+    ]
+  },
+  {
+    "id": "pedant",
+    "label": "Pédant",
+    "polarite": "negatif",
+    "famille": "rapport-au-savoir",
+    "definitionCourte": "Le personnage pédant exhibe son savoir non pour partager mais pour se placer au-dessus. La connaissance devient une arme de distinction sociale, un rempart contre l'impression de vulnérabilité. Derrière l'étalage, il y a souvent une peur profonde de ne pas être reconnu à sa juste valeur.",
+    "signesPhysiques": [
+      "index levé avant une correction",
+      "petit sourire condescendant quand quelqu'un se trompe",
+      "regard qui glisse vers le haut comme pour chercher une citation",
+      "posture droite et légèrement en retrait, position de professeur",
+      "mains jointes ou entrelacées dans une posture de réflexion ostensible",
+      "froncement de sourcils devant une formulation imprécise",
+      "inspiration légère et audible avant une correction importante",
+      "regard circulaire pour vérifier que le groupe a bien vu la correction",
+      "lèvres pincées face à une erreur qu'il laisse filer momentanément",
+      "hochement de tête lent, comme accordant un bon point après réflexion",
+      "regard légèrement par-dessus l'interlocuteur plutôt que dans ses yeux"
+    ],
+    "sensationsInternes": [
+      "picotement d'irritation à chaque imprécision entendue",
+      "satisfaction froide quand il corrige avec succès",
+      "sentiment d'être seul de son niveau dans la pièce",
+      "malaise aigu face à ce qu'il ne sait pas",
+      "tension quand quelqu'un semble aussi compétent que lui",
+      "légère euphorie quand il place une référence que personne d'autre ne reconnaît",
+      "angoisse sourde quand il n'est pas consulté sur son domaine",
+      "impression de devoir combler un vide culturel à lui seul"
+    ],
+    "pensees": [
+      "Ils n'ont pas lu grand-chose, c'est évident.",
+      "Ce n'est pas tout à fait exact. Je vais devoir corriger.",
+      "Comment peut-on parler de ça sans avoir lu l'original ?",
+      "Je ne peux pas les laisser se tromper devant tout le monde.",
+      "Si je ne dis rien, il va continuer à propager cette erreur.",
+      "Ils ont l'air impressionnés. Bien.",
+      "Ce serait plus rapide si je faisais confiance à leur jugement. Mais je ne peux pas.",
+      "La précision n'est pas un luxe, c'est une exigence minimale."
+    ],
+    "effetsVoixLangage": [
+      "citations fréquentes en langue étrangère, parfois non traduites",
+      "corrections de vocabulaire ou de grammaire intégrées dans la conversation",
+      "ton légèrement didactique, même dans les échanges informels",
+      "longues parenthèses historiques ou étymologiques",
+      "reformulation des propos de l'autre 'pour être plus précis'",
+      "références à des auteurs peu connus placées de façon ostentatoire",
+      "pause avant les mots rares, légèrement appuyée"
+    ],
+    "comportements": [
+      "corrige les gens en public même sur des détails mineurs",
+      "arrive en réunion avec plus de documentation que nécessaire",
+      "souligne les erreurs des autres avant de répondre au fond",
+      "évite les sujets où il n'est pas expert",
+      "collecte des preuves de sa supériorité intellectuelle (diplômes affichés, livres visibles)",
+      "dévalorise les sources populaires ou accessibles",
+      "parle en dernier pour avoir le 'mot de la fin'",
+      "interrompt pour corriger même au milieu d'une anecdote sans enjeu",
+      "refuse de simplifier quand on le lui demande",
+      "compare implicitement les gens à des standards élevés qu'il incarne seul",
+      "quitte mentalement les conversations qui ne l'instruisent pas"
+    ],
+    "masquesPossibles": [
+      "passion sincère pour le savoir, indiscernable de la posture",
+      "souci du détail et de la rigueur présenté comme une vertu professionnelle",
+      "pédagogie déguisée en arrogance pour ceux qui ne veulent pas voir la nuance",
+      "générosité intellectuelle simulée ('je partage simplement ce que je sais')"
+    ],
+    "manifestationsPositives": [
+      "peut être une ressource précieuse dans les domaines où la précision compte",
+      "ne laisse pas passer les erreurs factuelles graves",
+      "maintient un niveau d'exigence qui élève parfois le groupe",
+      "sa rigueur peut protéger d'une prise de décision basée sur une erreur",
+      "peut transmettre une vraie passion pour la connaissance malgré la forme"
+    ],
+    "manifestationsNegatives": [
+      "éteint les discussions en les transformant en cours magistraux",
+      "humilie sans s'en rendre compte les personnes moins diplômées",
+      "bloque la créativité en exigeant la rigueur en dehors de son contexte",
+      "provoque de la rébellion silencieuse chez ceux qui se sentent rabaissés",
+      "peut passer à côté de vérités exprimées avec les mauvais mots"
+    ],
+    "blessuresPossibles": [
+      "enfant surdoué non reconnu par ses pairs ou minimisé par sa famille",
+      "humiliation scolaire ou académique liée à une erreur publique",
+      "figure parentale qui conditionnait l'amour à la performance intellectuelle"
+    ],
+    "evolutionsPossibles": [
+      "peut évoluer vers une vraie générosité intellectuelle si quelqu'un lui apprend quelque chose qu'il ne savait pas",
+      "peut s'effondrer si confronté à son domaine d'ignorance dans un contexte public",
+      "peut apprendre l'humilité via une relation qui valorise autre chose que le savoir",
+      "peut basculer dans l'isolement si son entourage se lasse définitivement"
+    ],
+    "notesEditoriales": [
+      "Le pédant est souvent l'objet de moquerie dans la fiction — mais il devient beaucoup plus intéressant quand on comprend ce qu'il cherche à protéger derrière le savoir.",
+      "Distinguer le pédant du passionné : le passionné partage, le pédant distingue. La motivation est radicalement différente.",
+      "Attention au cliché du pédant entièrement négatif : ses corrections sont parfois justes, ce qui complique la relation des autres personnages à lui."
+    ]
+  },
+  {
+    "id": "naif",
+    "label": "Naïf",
+    "polarite": "ambigu",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage naïf fait confiance naturellement, voit le bien avant le mal, et interprète les situations à travers un filtre de bienveillance fondamentale. Ce n'est pas de la bêtise : c'est souvent une vision du monde construite dans un environnement protégé ou une décision inconsciente de croire en la bonté humaine malgré tout. La naïveté peut être une force ou une cible.",
+    "signesPhysiques": [
+      "regard direct et ouvert, sans calcul apparent",
+      "sourire facile et genuine, non mesuré",
+      "posture ouverte, bras non croisés, corps orienté vers l'autre",
+      "expressions faciales visibles et non dissimulées",
+      "légère surprise visible sur le visage face à la mauvaise foi",
+      "gestes larges et sans retenue",
+      "hochement de tête fréquent pendant que l'autre parle",
+      "front légèrement plissé quand quelque chose lui échappe",
+      "pas vif et non prudent dans les nouveaux environnements",
+      "regard qui cherche l'accord et l'harmonie",
+      "absence de micro-expressions de méfiance habituellement présentes"
+    ],
+    "sensationsInternes": [
+      "chaleur sincère dans la poitrine en présence des autres",
+      "surprise douloureuse quand une trahison survient",
+      "inconfort face au cynisme qu'il ne comprend pas vraiment",
+      "légèreté dans le corps quand il entre dans une nouvelle situation",
+      "désorientation quand les signaux de danger lui échappent",
+      "sentiment de connexion rapide avec des inconnus",
+      "douleur vive et disproportionnée face aux déceptions",
+      "incompréhension viscérale face à la cruauté gratuite"
+    ],
+    "pensees": [
+      "Il est bizarre, mais je suis sûr qu'il a ses raisons.",
+      "Elle a l'air sincère. Pourquoi mentirait-elle ?",
+      "Je ne comprends pas pourquoi tout le monde se méfie autant.",
+      "Peut-être qu'avec de la patience, ça va s'arranger.",
+      "Il n'a pas voulu faire ça exprès.",
+      "Je dois avoir mal compris. Il ne peut pas vraiment penser ça.",
+      "Si je montre que je lui fais confiance, il sera à la hauteur.",
+      "Les gens sont fondamentalement bons. Je le crois encore."
+    ],
+    "effetsVoixLangage": [
+      "questions directes sans sous-entendu ni stratégie",
+      "formulations sans ironie ni double sens",
+      "tendance à prendre les métaphores et l'ironie au pied de la lettre",
+      "ton sincère même dans des contextes qui appellent la prudence",
+      "formules bienveillantes comme réponse réflexe",
+      "peu de nuances dans les formulations : 'c'est bien' ou 'c'est mal'",
+      "hésitation marquée avant de formuler une suspicion"
+    ],
+    "comportements": [
+      "prête de l'argent sans garantie",
+      "donne le bénéfice du doute systématiquement",
+      "révèle des informations personnelles trop tôt dans une relation",
+      "fait confiance aux inconnus sur la foi d'une première impression positive",
+      "s'étonne sincèrement quand ses attentes ne sont pas comblées",
+      "ne détecte pas les manipulations tant qu'elles sont voilées",
+      "répond honnêtement aux questions pièges",
+      "s'engage dans des promesses sans mesurer les conséquences",
+      "interprète les comportements ambigus sous leur meilleur angle",
+      "continue de donner des chances malgré les signaux d'alerte répétés",
+      "peut être facilement orienté par une figure d'autorité convaincante"
+    ],
+    "masquesPossibles": [
+      "la naïveté peut être feinte : certains personnages font semblant pour obtenir des aveux",
+      "la candeur comme stratégie de désarmement",
+      "l'innocence affichée pour éviter les responsabilités",
+      "confiance simulée pour ne pas paraître méfiant dans un contexte dangereux"
+    ],
+    "manifestationsPositives": [
+      "crée une atmosphère de confiance dans les groupes",
+      "ne porte pas de rancœur longtemps",
+      "peut voir du potentiel là où les autres ont renoncé",
+      "désarme les personnes hostiles par son absence de menace",
+      "maintient une capacité d'émerveillement que d'autres ont perdue"
+    ],
+    "manifestationsNegatives": [
+      "peut être exploité facilement par des personnages malveillants",
+      "expose ses proches à des risques en faisant confiance aux mauvaises personnes",
+      "ses déceptions sont violentes et peuvent le briser profondément",
+      "résiste aux avertissements des autres, ce qui peut créer des conflits",
+      "peut paraître irresponsable ou immature aux yeux de personnages plus prudents"
+    ],
+    "blessuresPossibles": [
+      "enfance protégée qui n'a pas exposé aux trahisons ordinaires",
+      "décision consciente ou non de ne pas laisser la méfiance l'abîmer après une blessure",
+      "entourage qui valorisait la confiance et punissait le soupçon"
+    ],
+    "evolutionsPossibles": [
+      "peut devenir sage sans perdre sa bonté fondamentale après une trahison bien traitée",
+      "peut basculer dans une méfiance absolue si la blessure est trop grande",
+      "peut devenir un modèle de résilience si sa confiance est récompensée",
+      "peut apprendre à distinguer confiance choisie et confiance automatique"
+    ],
+    "notesEditoriales": [
+      "La naïveté est souvent utilisée comme défaut comique, mais elle peut être profondément tragique : le personnage naïf est celui qui paie le prix des illusions des autres.",
+      "Éviter d'en faire un personnage passif ou sans intelligence — la naïveté porte une vision du monde active, pas une absence de pensée.",
+      "Le moment où le personnage naïf perd sa naïveté est l'un des moments dramatiques les plus puissants de la fiction."
+    ]
+  },
+  {
+    "id": "intuitif",
+    "label": "Intuitif",
+    "polarite": "positif",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Le personnage intuitif saisit les situations, les atmosphères et les intentions sans avoir besoin de les analyser. C'est une forme d'intelligence non verbale, construite dans le corps autant que dans l'esprit, qui lui permet de lire ce que les autres ne voient pas encore. Cette faculté peut être un don ou une source d'isolement.",
+    "signesPhysiques": [
+      "léger plissement des yeux quand il perçoit quelque chose qui ne concorde pas",
+      "pause imperceptible avant une réponse — il vient de capter quelque chose",
+      "regard qui dérive légèrement sur le côté quand il 'reçoit' une impression",
+      "respiration légèrement ralentie dans les moments de perception aiguë",
+      "posture qui s'oriente vers la source d'un signal sans qu'il l'ait décidé",
+      "tension fugace dans les épaules avant qu'un problème soit annoncé",
+      "sourire légèrement en avance sur ce qui justifie de sourire",
+      "contact visuel prolongé comme s'il lisait en dessous des mots",
+      "main posée sur l'avant-bras de l'autre au bon moment, sans raison apparente",
+      "regard circulaire à l'entrée dans un lieu, sans raison formulée",
+      "légère inclinaison vers l'autre quand quelque chose lui échappe encore"
+    ],
+    "sensationsInternes": [
+      "impression de 'savoir' sans pouvoir expliquer comment",
+      "tension physique légère avant une mauvaise nouvelle",
+      "chaleur diffuse quand une personne est sincère",
+      "malaise dans le ventre face à une situation faussée",
+      "certitude calme qui précède la vérification rationnelle",
+      "légère vibration d'alerte dans la poitrine face au danger",
+      "sensation d'accord total corps-esprit quand une décision est juste",
+      "inconfort persistant face à ce qu'il ressent mais ne peut pas démontrer"
+    ],
+    "pensees": [
+      "Quelque chose ne va pas. Je ne sais pas encore quoi.",
+      "Il ment. Pas sur tout, mais sur l'essentiel.",
+      "Cette pièce a changé depuis la dernière fois. Je ne sais pas comment je le sais.",
+      "Je devrais partir maintenant. Avant que ça tourne.",
+      "Elle est épuisée. Personne d'autre ne le voit.",
+      "J'aurais dû écouter ce que j'ai ressenti la première fois.",
+      "Parfois je préférerais ne pas savoir ce que je sais.",
+      "C'est difficile d'expliquer sans avoir l'air fou."
+    ],
+    "effetsVoixLangage": [
+      "formulations prudentes du type 'j'ai l'impression que' ou 'quelque chose me dit que'",
+      "remarques latérales qui s'avèrent pertinentes plus tard",
+      "reformulations qui capturent exactement ce que l'autre n'avait pas dit",
+      "silences qui précèdent une observation juste",
+      "questions qui touchent à quelque chose que personne n'avait mentionné",
+      "ton doux et non assertif même quand la perception est exacte",
+      "tendance à ne pas insister sur ce qu'il ressent si on lui résiste"
+    ],
+    "comportements": [
+      "agit sur une impression avant d'en avoir la preuve",
+      "détecte les tensions dans un groupe avant qu'elles s'expriment",
+      "choisit ses relations sur la base de quelque chose qu'il ne peut pas formuler",
+      "évite des lieux ou des personnes sans raison articulée",
+      "arrive au bon moment comme par hasard",
+      "anticipe les besoins des autres sans qu'ils aient parlé",
+      "sent quand une conversation a un sous-texte et l'adresse prudemment",
+      "relit les situations passées à la lumière d'intuitions confirméess",
+      "doute parfois de ses perceptions quand elles ne sont pas validées",
+      "peut paraître distant quand il est en train de 'traiter' une impression",
+      "prend des décisions qui semblent irrationnelles mais s'avèrent justes"
+    ],
+    "masquesPossibles": [
+      "présente ses intuitions comme des 'observations' pour les rendre acceptables",
+      "feint de ne pas savoir pour ne pas effrayer ou mettre mal à l'aise",
+      "cache sa perception derrière des questions orientées",
+      "utilise l'humour pour glisser une vérité perçue sans s'exposer"
+    ],
+    "manifestationsPositives": [
+      "détecte les dangers avant qu'ils deviennent visibles",
+      "comprend les personnes en détresse sans qu'elles aient à tout expliquer",
+      "prend de bonnes décisions dans l'incertitude",
+      "crée des liens profonds rapidement grâce à une lecture fine des autres",
+      "adapte son comportement aux besoins non exprimés de son entourage"
+    ],
+    "manifestationsNegatives": [
+      "peut être perçu comme intrusif ou inquiétant",
+      "ses intuitions sont parfois fausses et il peut agir prématurément",
+      "peut porter le poids des émotions des autres sans y être invité",
+      "difficultés à expliquer ses décisions rationnellement",
+      "peut douter de lui-même si son entourage rejette systématiquement ses perceptions"
+    ],
+    "blessuresPossibles": [
+      "enfance dans un environnement imprévisible où lire les signaux était vital",
+      "figure parentale dont l'humeur changeante nécessitait une vigilance constante",
+      "expérience traumatique où ne pas avoir perçu quelque chose a eu des conséquences graves"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à faire confiance à ses perceptions sans en avoir honte",
+      "peut devenir un guide ou un soutien exceptionnel pour les autres",
+      "peut s'épuiser à force de percevoir ce que personne d'autre ne partage",
+      "peut trouver un équilibre entre intuition et vérification rationnelle"
+    ],
+    "notesEditoriales": [
+      "L'intuition est un excellent outil narratif car elle permet au personnage de savoir quelque chose que le lecteur ne sait pas encore — créant une tension sans exposition.",
+      "Éviter l'intuition magique ou infaillible : l'erreur d'intuition est souvent plus révélatrice que la justesse.",
+      "L'origine de l'intuition (souvent une forme d'hypervigilance apprise) est plus intéressante que la capacité elle-même."
+    ]
+  },
+  {
+    "id": "stoique",
+    "label": "Stoïque",
+    "polarite": "ambigu",
+    "famille": "rapport-a-soi",
+    "definitionCourte": "Le personnage stoïque a fait de la maîtrise de soi une philosophie de vie. Il absorbe les chocs sans les extérioriser, supporte la douleur sans la nommer, et maintient une équanimité qui peut être une force admirée ou un mur qui isole. Derrière le calme, tout existe — rien n'est nié, tout est contenu.",
+    "signesPhysiques": [
+      "visage peu expressif dans les situations de crise",
+      "respiration lente et contrôlée même sous pression",
+      "posture stable, peu affectée par les chocs émotionnels visibles",
+      "mains calmes, pas de gestes nerveux",
+      "mâchoire légèrement serrée dans les moments les plus difficiles",
+      "regard direct et non fuyant face aux mauvaises nouvelles",
+      "absence quasi-totale de tics nerveux",
+      "lenteur délibérée des mouvements même dans l'urgence",
+      "clignement des yeux légèrement plus lent que la normale sous stress",
+      "légère tension dans le cou perceptible seulement de près",
+      "corps orienté face au problème, sans recul ni évitement"
+    ],
+    "sensationsInternes": [
+      "douleur pleinement ressentie mais non exprimée",
+      "effort conscient de maintenir la régularité de la respiration",
+      "sentiment de dignité dans la maîtrise",
+      "pression croissante qui s'accumule sans sortie",
+      "calme étrange que certains vivent comme de la distance à soi-même",
+      "légère fatigue après un effort de contrôle prolongé",
+      "satisfaction sobre quand il tient sous une pression que d'autres n'auraient pas supportée",
+      "solitude profonde que la maîtrise empêche de partager"
+    ],
+    "pensees": [
+      "Ce que je ressens n'a pas à dicter ce que je fais.",
+      "La douleur est là. Elle passera. Je continue.",
+      "Montrer ça ne changerait rien. Ça ne ferait qu'ajouter du désordre.",
+      "Ce n'est pas de l'indifférence. C'est un choix.",
+      "Je peux tenir encore un peu. Et encore un peu après ça.",
+      "Les autres ont besoin que quelqu'un soit stable.",
+      "Je le ressens. Je le note. Je vais de l'avant.",
+      "Le moment de s'effondrer n'est pas maintenant."
+    ],
+    "effetsVoixLangage": [
+      "ton égal et peu modulé, même dans les extrêmes",
+      "phrases courtes et économiques en crise",
+      "peu d'adjectifs émotionnels dans le discours spontané",
+      "formulations à l'infinitif ou à la première personne factuelle",
+      "réponses aux questions émotionnelles souvent décalées vers le pragmatique",
+      "silence comme réponse valide, non anxieux",
+      "ton légèrement plus bas et plus lent quand il est touché"
+    ],
+    "comportements": [
+      "reste fonctionnel dans des situations où d'autres s'effondrent",
+      "prend soin des autres en crise avant de prendre soin de lui",
+      "reporte la gestion de ses propres émotions à un moment privé",
+      "ne cherche pas de validation émotionnelle",
+      "peut sembler insensible à des moments qui touchent les autres",
+      "reprend ses activités rapidement après un choc",
+      "évite de se plaindre même quand c'est légitime",
+      "répond aux situations de crise par de l'action avant la parole",
+      "supporte physiquement plus que la moyenne avant de demander de l'aide",
+      "peut s'isoler brièvement pour relâcher la pression sans être vu",
+      "garde les preuves de sa fragilité strictement privées"
+    ],
+    "masquesPossibles": [
+      "le stoïcisme peut masquer une incapacité apprise à exprimer les émotions",
+      "la force peut être une performance pour protéger les autres de sa fragilité",
+      "le calme peut dissimuler une colère froide qui s'accumule",
+      "l'équanimité peut masquer un détachement pathologique ou une dépression"
+    ],
+    "manifestationsPositives": [
+      "est un pilier dans les crises collectives",
+      "ne réagit pas impulsivement sous la pression",
+      "inspire confiance et stabilité aux personnes qui l'entourent",
+      "prend de bonnes décisions quand les autres sont submergés",
+      "ne rajoute pas au chaos émotionnel d'une situation difficile"
+    ],
+    "manifestationsNegatives": [
+      "peut priver ses proches de la connexion émotionnelle dont ils ont besoin",
+      "sa force peut être perçue comme de l'indifférence ou du jugement",
+      "reporte indéfiniment le traitement de ses blessures",
+      "peut exploser ou s'effondrer brutalement quand la pression dépasse le seuil",
+      "peut décourager les autres de lui montrer leur fragilité"
+    ],
+    "blessuresPossibles": [
+      "figure parentale qui sanctionnait les émotions ou les trouvait inutiles",
+      "expérience où s'être effondré a eu des conséquences graves pour lui ou les autres",
+      "rôle de 'fort de la famille' endossé très jeune par nécessité"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à laisser entrer quelqu'un derrière le mur avec une confiance progressive",
+      "peut s'effondrer spectaculairement si la pression accumulée dépasse sa capacité",
+      "peut trouver dans le stoïcisme une paix véritable et non défensive",
+      "peut devenir un mentor pour des personnes moins stables"
+    ],
+    "notesEditoriales": [
+      "Le personnage stoïque est souvent utilisé comme 'pilier' narratif — mais son arc dramatique le plus puissant est le moment où le pilier fissure.",
+      "Distinguer le stoïcisme comme philosophie choisie du stoïcisme comme défense psychologique construite sur la honte des émotions.",
+      "Les signes de fracture chez un personnage stoïque sont d'autant plus frappants qu'ils sont rares — un seul tremblement peut valoir une scène entière."
+    ]
+  },
+  {
+    "id": "capricieux",
+    "label": "Capricieux",
+    "polarite": "negatif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage capricieux change d'humeur, de désirs et d'exigences de façon imprévisible, souvent au détriment de ceux qui l'entourent. L'inconstance n'est pas toujours de la mauvaise volonté : elle peut refléter une incapacité à réguler ses émotions, une immaturité affective ou une habitude de voir ses caprices satisfaits sans conséquences.",
+    "signesPhysiques": [
+      "expression faciale qui change rapidement sans transition",
+      "moue boudeuse immédiate quand quelque chose déplaît",
+      "soupir théâtral à la moindre contrariété",
+      "corps qui se détourne brusquement quand il n'est pas satisfait",
+      "bras croisés et tête légèrement inclinée dans la contrariété",
+      "yeux qui roulent imperceptiblement face à ce qui ne convient pas",
+      "animation soudaine du visage quand un désir est satisfait",
+      "tapotement des doigts ou du pied dans l'impatience",
+      "froncement de sourcils profond et brusque",
+      "sourire large et soudain quand on lui donne ce qu'il veut",
+      "posture qui s'affaisse dans la déception ostensible"
+    ],
+    "sensationsInternes": [
+      "frustration immédiate et intense dès que l'envie est contrariée",
+      "satisfaction éphémère quand le désir est exaucé",
+      "ennui rapide après l'obtention de ce qui était voulu",
+      "irritation diffuse qui cherche un objet",
+      "impression que les autres ne font pas assez d'efforts",
+      "légère confusion intérieure face à ses propres changements",
+      "sensation de vide que le prochain caprice va combler",
+      "énergie qui monte rapidement sans direction stable"
+    ],
+    "pensees": [
+      "Ce n'est plus ce que je veux. Maintenant je veux autre chose.",
+      "Pourquoi est-ce qu'on discute encore ? J'ai dit non.",
+      "Ils pourraient faire un effort. C'est si compliqué ?",
+      "Je le voulais hier. Aujourd'hui c'est différent.",
+      "Ils ne sont pas obligés d'être d'accord, mais ils pourraient au moins essayer.",
+      "Ce n'est pas ma faute si j'ai changé d'avis.",
+      "Je savais que ça ne me plairait pas autant que prévu.",
+      "Il suffit de demander. Je ne comprends pas pourquoi ça pose problème."
+    ],
+    "effetsVoixLangage": [
+      "changements de sujet brusques sans transition",
+      "ton qui monte rapidement dans la contrariété",
+      "plaintes fréquentes sur des détails mineurs",
+      "exigences formulées comme des évidences",
+      "soupirs et commentaires sous-entendus si les choses ne se passent pas comme voulu",
+      "retour soudain à la bonne humeur une fois le caprice satisfait",
+      "formulations qui excluent la négociation : 'je veux', 'je ne veux pas'"
+    ],
+    "comportements": [
+      "change de programme au dernier moment en attendant que les autres s'adaptent",
+      "boude si on ne satisfait pas ses demandes",
+      "accuse les autres de ne pas le comprendre",
+      "exige une attention constante ou se plaint d'être ignoré",
+      "peut être charmant et difficile dans la même heure",
+      "teste les limites de l'entourage de façon répétée",
+      "abandonne les projets ou relations qui ne le stimulent plus",
+      "compare son sort défavorablement à celui des autres sans raison",
+      "réclame ce qu'il a refusé peu avant",
+      "rend l'entourage responsable de son humeur",
+      "peut utiliser les larmes ou le silence punitif pour obtenir ce qu'il veut"
+    ],
+    "masquesPossibles": [
+      "charme et spontanéité qui font passer le caprice pour de la vivacité",
+      "sensibilité affichée qui justifie les sautes d'humeur",
+      "humour qui dédramatise les exigences et les rend acceptables",
+      "générosité soudaine après un caprice, pour compenser"
+    ],
+    "manifestationsPositives": [
+      "peut apporter de la vivacité et de l'imprévisibilité dans un groupe trop rigide",
+      "exprime ses désirs clairement, sans ambiguïté",
+      "peut reconnaître spontanément ses erreurs si la bonne humeur revient",
+      "son enthousiasme peut être communicatif quand il est orienté",
+      "peut être capable de grande générosité dans les phases de satisfaction"
+    ],
+    "manifestationsNegatives": [
+      "épuise l'entourage qui ne sait jamais à quoi s'attendre",
+      "rend la planification commune difficile ou impossible",
+      "ses proches marchent sur des œufs en permanence",
+      "peut détruire des relations ou des projets par instabilité",
+      "refuse souvent de reconnaître l'impact de ses changements sur les autres"
+    ],
+    "blessuresPossibles": [
+      "enfant dont les désirs ont toujours été satisfaits sans apprentissage de la frustration",
+      "instabilité émotionnelle dans l'enfance qui n'a jamais été régulée",
+      "figure parentale imprévisible dont il a reproduit inconsciemment le modèle"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre la tolérance à la frustration via une relation qui tient ferme",
+      "peut trouver un domaine qui canalise son énergie et réduit l'inconstance",
+      "peut mûrir si confronté aux conséquences réelles de ses caprices",
+      "peut basculer vers une instabilité plus grave si jamais contenu"
+    ],
+    "notesEditoriales": [
+      "Le personnage capricieux est souvent utilisé comme source de conflit comique, mais son potentiel tragique est plus intéressant : qu'est-ce qu'il fuit en changeant sans cesse ?",
+      "Distinguer le caprice de surface (désirs changeants) du caprice profond (incapacité à supporter que la réalité ne corresponde pas à ses attentes).",
+      "L'entourage du personnage capricieux est souvent aussi intéressant à écrire que lui : comment tient-on, et pourquoi ?"
+    ]
+  },
+  {
+    "id": "discipline",
+    "label": "Discipliné",
+    "polarite": "positif",
+    "famille": "rapport-a-soi",
+    "definitionCourte": "Le personnage discipliné a construit sa vie sur des structures, des habitudes et une volonté de long terme qui lui permettent de tenir là où d'autres abandonnent. La discipline n'est pas de la rigidité : c'est une forme de respect envers ses propres engagements, souvent construite à force de défaites surmontées. Elle peut être une armure autant qu'une force.",
+    "signesPhysiques": [
+      "gestes précis et économiques, sans surplus",
+      "ponctualité systématique, visible dans le corps qui n'a pas l'habitude d'attendre",
+      "posture droite sans effort apparent",
+      "apparence soignée même dans les circonstances difficiles",
+      "rythme de travail stable, peu affecté par l'ambiance extérieure",
+      "regard qui revient au travail après une distraction",
+      "mains occupées à quelque chose d'utile dans les temps morts",
+      "respiration régulière pendant l'effort",
+      "absence de tics ou d'agitation dans les tâches longues",
+      "concentration visible dans les traits qui ne bougent plus",
+      "corps orienté vers la tâche, pas vers la distraction"
+    ],
+    "sensationsInternes": [
+      "satisfaction profonde dans la complétion d'une tâche prévue",
+      "légère tension quand la structure est perturbée de l'extérieur",
+      "calme dans l'effort qui vient de la préparation",
+      "inconfort face au désordre ou à l'improvisation forcée",
+      "fierté sobre dans la régularité maintenue",
+      "fatigue acceptée comme partie du processus",
+      "sentiment de maîtrise qui donne un sentiment de sécurité intérieure",
+      "résistance à la tentation ressentie comme un effort musculaire"
+    ],
+    "pensees": [
+      "Je l'ai décidé. Je le fais. C'est aussi simple que ça.",
+      "La motivation est un luxe. L'habitude est une fondation.",
+      "Je n'ai pas envie. Mais j'y vais quand même.",
+      "Chaque fois que j'aurais pu arrêter et que je n'ai pas arrêté, c'est une victoire.",
+      "Le désordre des autres me coûte de l'énergie.",
+      "Je suis ce que je fais de façon répétée.",
+      "Il suffit de faire la prochaine chose. Puis la suivante.",
+      "Je peux me reposer quand c'est fini. Pas avant."
+    ],
+    "effetsVoixLangage": [
+      "discours structuré, avec début milieu fin",
+      "formulations directes et peu de circonlocutions",
+      "peu de 'peut-être' ou de 'si j'en ai envie' dans les engagements",
+      "tendance à transformer les intentions des autres en plans d'action",
+      "impatience légère face aux discussions sans conclusion",
+      "ton stable et sans fioriture dans les moments de travail",
+      "questions orientées vers les étapes et les délais"
+    ],
+    "comportements": [
+      "respecte ses engagements même quand personne ne le surveille",
+      "crée des systèmes et des routines pour ne pas dépendre de sa motivation",
+      "refuse rarement ce qui est difficile si c'est nécessaire",
+      "planifie à l'avance et dévie peu du plan",
+      "se lève, mange, travaille à des heures régulières",
+      "coupe les distractions de façon délibérée pendant le travail",
+      "peut paraître froid ou rigide dans les situations qui réclament de la souplesse",
+      "termine ce qu'il commence, même quand l'enthousiasme est retombé",
+      "évalue régulièrement ses progrès par rapport à ses propres standards",
+      "peut sembler dur avec les autres parce qu'il est dur avec lui-même",
+      "refuse de faire des exceptions même quand elles seraient légitimes"
+    ],
+    "masquesPossibles": [
+      "la discipline peut masquer une peur profonde du chaos ou de l'échec",
+      "la structure peut être une façon d'éviter l'imprévu émotionnel",
+      "l'exigence envers soi peut être une façon d'éviter de se confronter à ses propres désirs",
+      "la discipline peut servir à contrôler un environnement dont d'autres aspects sont ingérables"
+    ],
+    "manifestationsPositives": [
+      "atteint ses objectifs quand d'autres abandonnent",
+      "est fiable dans les crises et les engagements collectifs",
+      "son exemple peut inspirer les personnes moins structurées",
+      "résiste aux tentations qui détourneraient d'un but important",
+      "maintient sa valeur propre indépendamment des résultats immédiats"
+    ],
+    "manifestationsNegatives": [
+      "peut être inflexible dans des situations qui exigent de l'adaptation",
+      "peut juger sévèrement les personnes moins disciplinées",
+      "sa rigidité peut créer des conflits dans les environnements informels",
+      "peut sacrifier des relations ou des plaisirs au nom de l'objectif",
+      "peut ne pas savoir se reposer ou lâcher prise même quand c'est nécessaire"
+    ],
+    "blessuresPossibles": [
+      "période de chaos ou d'impuissance dans laquelle la discipline est devenue le seul contrôle possible",
+      "figure parentale désorganisée ou instable dont il a décidé de ne pas reproduire le modèle",
+      "échec passé attribué au manque de discipline et jamais tout à fait pardonné à lui-même"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à intégrer la souplesse sans voir ça comme une défaite",
+      "peut découvrir que la discipline peut servir le bonheur autant que la performance",
+      "peut s'effondrer si la structure qui le tient est soudainement impossible à maintenir",
+      "peut devenir un modèle ou un mentor pour des personnages qui cherchent la stabilité"
+    ],
+    "notesEditoriales": [
+      "La discipline est souvent présentée comme un trait héroïque sans failles — mais son intérêt narratif est dans ce qu'elle coûte : que renonce-t-il à vivre pour tenir ses structures ?",
+      "Distinguer la discipline choisie (réponse à des valeurs) de la discipline compulsive (réponse à l'anxiété) — les deux ont des ressorts dramatiques très différents.",
+      "Le moment où un personnage discipliné se permet une exception révèle ce qu'il tient vraiment par-dessus tout."
+    ]
+  }
+]

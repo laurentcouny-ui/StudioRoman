@@ -1,0 +1,778 @@
+[
+  {
+    "id": "nostalgique",
+    "label": "Nostalgique",
+    "polarite": "ambigu",
+    "famille": "rapport-au-temps",
+    "definitionCourte": "Orientation permanente vers un passé idéalisé ou perdu, qui colore la perception du présent d'une teinte mélancolique. La nostalgie peut être une richesse intérieure — une mémoire vive et une sensibilité aux traces — ou une prison qui empêche de s'investir dans ce qui vient.",
+    "signesPhysiques": [
+      "regard qui se perd dans le lointain lors des évocations du passé",
+      "sourire doux et légèrement triste quand un souvenir est activé",
+      "gestes qui ralentissent à la manipulation d'un objet ancien ou chargé",
+      "légère tension autour des yeux à la vue de quelque chose qui rappelle",
+      "pause inhabituelle avant de répondre quand on l'interroge sur le passé",
+      "corps qui se détend dans les lieux qui lui rappellent quelque chose",
+      "regard qui s'attarde plus que les autres sur les photographies ou les objets anciens",
+      "respiration qui change imperceptiblement lors des évocations fortes",
+      "voix qui se modifie légèrement quand il parle d'avant",
+      "tendance à toucher les objets anciens avec plus de soin"
+    ],
+    "sensationsInternes": [
+      "chaleur douce et douloureuse à la fois lors des évocations",
+      "sentiment que le passé était plus réel ou plus vivant que le présent",
+      "douceur amère à la pensée de ce qui ne reviendra pas",
+      "impression que quelque chose d'essentiel est resté là-bas",
+      "mélancolie de fond sans objet précis dans certains contextes",
+      "sentiment que les souvenirs s'effacent et que c'est une perte réelle",
+      "légère déréalisation du présent comparé à ce qu'il se rappelle",
+      "plaisir et douleur mêlés dans les moments de mémoire intense"
+    ],
+    "pensees": [
+      "Ce n'est plus pareil. Ça ne le sera plus jamais.",
+      "Je me souviens de l'exacte lumière de cet après-midi.",
+      "Pourquoi est-ce que le présent n'a jamais cette texture-là ?",
+      "Si je pouvais revenir à ce moment, juste pour une heure.",
+      "Les choses simples d'avant manquent d'une façon que je ne sais pas expliquer.",
+      "Est-ce que c'était vraiment mieux, ou est-ce que je l'embellis ?",
+      "Il n'y a plus personne qui se souvient de cette époque avec moi.",
+      "Ce qui a disparu ne disparaît jamais tout à fait si on s'en souvient."
+    ],
+    "effetsVoixLangage": [
+      "parle du passé avec une précision et une chaleur qu'il n'a pas pour le présent",
+      "utilise le plus-que-parfait et l'imparfait avec une tendresse particulière",
+      "peut couper une conversation pour signaler un lien avec un souvenir",
+      "ton qui se modifie — plus doux, plus lent — quand il évoque ce qui a été",
+      "comparaisons fréquentes entre ce qui est et ce qui était",
+      "peut sembler absent si le présent ne retient pas son attention",
+      "dit souvent 'à l'époque' ou 'autrefois' comme des seuils"
+    ],
+    "comportements": [
+      "garde des objets, des photographies, des lettres au-delà de leur utilité",
+      "retourne dans des lieux du passé même si rien n'y justifie pratiquement le voyage",
+      "cherche des personnes qui partagent ses souvenirs pour les faire revivre",
+      "peut refuser de laisser évoluer des espaces ou des habitudes chargés de mémoire",
+      "compare le présent au passé d'une façon qui peut sembler décalée",
+      "réactive des rituels anciens pour retrouver une sensation perdue",
+      "peut avoir du mal à s'investir pleinement dans des liens ou des projets nouveaux",
+      "revient régulièrement sur les mêmes histoires et les mêmes souvenirs",
+      "peut idéaliser des périodes qui n'étaient pas si simples en réalité",
+      "cherche dans le présent des échos ou des rhymes avec ce qui a été"
+    ],
+    "masquesPossibles": [
+      "détachement — 'c'est du passé, ça ne compte plus'",
+      "humour sur ses propres nostalgies pour les rendre acceptables",
+      "investissement excessif dans le présent pour ne pas se laisser emporter",
+      "collection ou accumulation comme substitut à l'aveu de ce qu'on cherche"
+    ],
+    "manifestationsPositives": [
+      "mémoire vive et précieuse qui enrichit sa compréhension du présent",
+      "sensibilité fine au passage du temps et à ce qu'il emporte",
+      "peut honorer ce qui a compté d'une façon que d'autres ne font pas",
+      "crée des liens profonds avec ceux qui partagent ses références",
+      "peut trouver dans le passé des ressources que le présent n'offre pas"
+    ],
+    "manifestationsNegatives": [
+      "peut rester coincé dans des dynamiques ou des identités dépassées",
+      "peut mesurer les gens du présent à l'aune d'absents idéalisés",
+      "peut manquer le présent à force de le comparer à ce qui était",
+      "peut entretenir un deuil non résolu sous l'apparence de la nostalgie",
+      "peut rendre le changement difficile là où il serait nécessaire"
+    ],
+    "blessuresPossibles": [
+      "a perdu brusquement quelqu'un ou quelque chose d'essentiel et n'a jamais fait son deuil",
+      "a connu une période de sécurité et de bonheur qui a été brutalement interrompue",
+      "a grandi dans un environnement instable et cherche dans le passé un ancrage qu'il n'a pas dans le présent"
+    ],
+    "evolutionsPossibles": [
+      "peut trouver dans le présent quelque chose qui lui donne envie d'y être pleinement",
+      "peut comprendre que la nostalgie protège aussi d'un présent difficile",
+      "peut faire le deuil de ce qui a été pour enfin habiter ce qui est",
+      "peut transformer sa mémoire en création — écriture, transmission, art"
+    ],
+    "notesEditoriales": [
+      "La nostalgie est plus intéressante quand on montre ce qu'elle recouvre — pas seulement ce qu'elle célèbre.",
+      "Distinguer nostalgie saine (mémoire nourricière) et nostalgie paralysante (refus du présent).",
+      "Le moment où un personnage nostalgique choisit le présent est souvent le plus beau de son arc.",
+      "Éviter la nostalgie de façade — la vraie nostalgie est précise, sensorielle, presque physique."
+    ]
+  },
+  {
+    "id": "rebelle",
+    "label": "Rebelle",
+    "polarite": "ambigu",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Résistance viscérale à l'autorité, aux règles et aux normes imposées — non par caprice mais par une conviction profonde que l'ordre établi est soit injuste, soit une cage. La rébellion peut être un moteur d'émancipation et de changement ou une posture qui empêche de voir quand les règles sont là pour quelque chose.",
+    "signesPhysiques": [
+      "regard direct qui ne se baisse pas face à l'autorité",
+      "posture légèrement relâchée dans les contextes formels — signal discret de non-conformité",
+      "mâchoire qui se serre face aux injonctions",
+      "sourire imperceptible à l'idée de contourner une règle",
+      "langage du corps qui occupe l'espace sans demander la permission",
+      "tension dans les épaules dans les situations hiérarchiques rigides",
+      "gestes qui débordent légèrement le cadre convenu",
+      "regard qui évalue la légitimité de l'autorité avant d'y répondre",
+      "légère élévation du menton face à ce qu'il perçoit comme une injonction injuste",
+      "corps qui s'oriente vers la sortie ou vers l'espace de manœuvre dans les situations d'encadrement"
+    ],
+    "sensationsInternes": [
+      "réaction physique immédiate à l'ordre non justifié — chaleur, crispation",
+      "sentiment d'étouffement dans les structures rigides",
+      "élan d'énergie à l'idée de transgresser ou de contourner",
+      "confort paradoxal dans l'inconfort de la marginalité",
+      "malaise dans les situations de conformité totale",
+      "vigilance permanente sur ce qui restreint ou contrôle",
+      "exaltation lors des moments de résistance aboutie",
+      "fatigue de devoir constamment se battre pour occuper son espace"
+    ],
+    "pensees": [
+      "Pourquoi ? Qui a décidé que ça devait être comme ça ?",
+      "Ce n'est pas parce que c'est la règle que c'est juste.",
+      "Je ne vais pas baisser la tête juste pour qu'ils soient à l'aise.",
+      "Il y a toujours une autre façon de faire.",
+      "Quelqu'un doit dire que ça ne va pas.",
+      "Je ne me bats pas contre tout. Je me bats contre ce qui mérite d'être combattu.",
+      "L'obéissance sans question, c'est déjà une forme de complicité.",
+      "Est-ce que c'est de la rébellion ou est-ce que j'ai juste raison ?"
+    ],
+    "effetsVoixLangage": [
+      "pose les questions que les autres n'osent pas ou ne pensent pas à poser",
+      "ton qui ne se modifie pas en présence d'une autorité",
+      "peut être précis et argumenté dans sa résistance — pas seulement émotionnel",
+      "tend à nommer ce que les autres acceptent sans le dire",
+      "peut sembler irrespectueux là où il est simplement cohérent",
+      "dit non directement, sans circonlocutions",
+      "peut avoir un humour acide sur les conventions et les hiérarchies"
+    ],
+    "comportements": [
+      "contourne les règles qu'il juge injustes ou arbitraires",
+      "questionne systématiquement la légitimité des autorités",
+      "s'allie naturellement avec ceux qui sont en marge ou opprimés",
+      "peut se retrouver en conflit avec des institutions, des organisations ou des familles",
+      "refuse les rôles qui impliquent une obéissance aveugle",
+      "peut agir seul si le groupe ne suit pas",
+      "prend des risques que les autres ne prennent pas",
+      "peut sacrifier sa sécurité ou son confort pour une position de principe",
+      "peut aussi résister par réflexe là où la règle était bonne",
+      "crée parfois le chaos là où il cherchait la liberté"
+    ],
+    "masquesPossibles": [
+      "indifférence ou détachement — 'ça m'est égal, je fais juste ce que je veux'",
+      "humour sur les conventions pour masquer une colère réelle",
+      "altruisme — 'je ne me bats pas pour moi, je me bats pour eux'",
+      "cynisme — la rébellion comme protection contre une déception profonde"
+    ],
+    "manifestationsPositives": [
+      "peut voir les injustices que les autres ont normalisées",
+      "agit quand les autres se taisent par peur des conséquences",
+      "peut protéger des personnes vulnérables par son refus de l'ordre injuste",
+      "apporte de l'oxygène dans les systèmes figés",
+      "peut être le catalyseur d'un changement nécessaire"
+    ],
+    "manifestationsNegatives": [
+      "peut résister par réflexe même quand la règle est juste",
+      "peut s'aliéner des alliés potentiels par excès de confrontation",
+      "peut mettre en danger lui-même et ceux qui l'entourent",
+      "peut finir isolé parce que personne ne peut suivre l'intensité de son refus",
+      "peut confondre la transgression avec l'émancipation"
+    ],
+    "blessuresPossibles": [
+      "a été contraint ou opprimé par une autorité injuste à un moment fondateur",
+      "a vu quelqu'un qu'il aimait écrasé par un système ou une hiérarchie",
+      "a été sévèrement puni pour avoir pensé par lui-même"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à distinguer la résistance utile de la résistance réflexe",
+      "peut trouver une structure qu'il a choisie et dans laquelle il peut s'épanouir",
+      "peut comprendre que certaines règles protègent ceux qu'il voulait libérer",
+      "peut faire le deuil de l'autorité idéale qu'il cherchait sans le savoir"
+    ],
+    "notesEditoriales": [
+      "La rébellion n'est intéressante que si elle est confrontée à une règle qui a une raison d'être — le conflit moral est là.",
+      "Distinguer la rébellion pour soi et la rébellion pour les autres — les motivations créent des personnages très différents.",
+      "Un rebelle qui trouve une cause plus grande que lui peut être transformé sans être trahi.",
+      "Éviter le cliché du rebelle cool et sans conséquences — la rébellion a un coût réel."
+    ]
+  },
+  {
+    "id": "conformiste",
+    "label": "Conformiste",
+    "polarite": "ambigu",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Besoin profond d'appartenir, de ne pas se distinguer et de se conformer aux normes du groupe ou de la société. Le conformisme peut être une sagesse sociale, une stratégie de survie ou un refus d'assumer le coût de la singularité — mais il peut aussi étouffer ce qui en lui est irremplaçable.",
+    "signesPhysiques": [
+      "vêtements, coiffure et apparence qui épousent les codes du groupe",
+      "regard qui vérifie les réactions des autres avant de s'exprimer",
+      "gestes qui ne débordent pas du registre attendu",
+      "sourire de convenance qui arrive au bon moment social",
+      "posture qui se règle sur celle du groupe dominant",
+      "légère tension avant de dire quelque chose qui pourrait détonner",
+      "bref coup d'œil à l'entourage avant de prendre position",
+      "absence de gestes ou de marqueurs distinctifs dans les contextes formels",
+      "adaptation rapide des opinions exprimées si elles semblent trop marginales",
+      "aisance visible quand il est dans la norme, gêne légère quand il en sort"
+    ],
+    "sensationsInternes": [
+      "soulagement de s'intégrer sans friction",
+      "malaise diffus quand il remarque qu'il pense différemment du groupe",
+      "confort dans les situations prévisibles et codifiées",
+      "légère angoisse devant les situations qui demandent d'afficher une singularité",
+      "sentiment de sécurité dans l'appartenance collective",
+      "culpabilité sourde quand il trahit une conviction pour rester dans la norme",
+      "fatigue de constamment surveiller et ajuster",
+      "soulagement quand quelqu'un d'autre exprime ce qu'il pensait sans oser le dire"
+    ],
+    "pensees": [
+      "Si je dis ça, ils vont me regarder différemment.",
+      "Ce n'est probablement pas le bon moment pour être différent.",
+      "Tout le monde fait comme ça. Il doit y avoir une raison.",
+      "Je peux avoir mes opinions pour moi. Pas besoin de les étaler.",
+      "C'est plus simple de suivre que d'expliquer pourquoi je ne suis pas d'accord.",
+      "Est-ce que c'est vraiment ma conviction ou est-ce que j'ai juste intégré la leur ?",
+      "L'important c'est de ne pas perdre ma place ici.",
+      "Si je me démarque trop, je vais me retrouver seul."
+    ],
+    "effetsVoixLangage": [
+      "tend à rejoindre la position majoritaire dans les discussions de groupe",
+      "formulations qui restent dans les clous du groupe",
+      "peut modérer ou retirer une position si elle reçoit de la résistance",
+      "utilise le vocabulaire et les références valorisées dans son groupe",
+      "peut être brillant dans la formulation de consensus",
+      "tend à exprimer ses désaccords en privé plutôt qu'en public",
+      "peut sembler dépourvu d'opinion propre dans les espaces où il ne se sent pas en sécurité"
+    ],
+    "comportements": [
+      "adapte son comportement au groupe dans lequel il se trouve",
+      "évite de prendre des positions publiques clivantes",
+      "peut changer d'opinion selon le groupe qui est devant lui",
+      "suit les codes vestimentaires, culturels et comportementaux de son milieu",
+      "peut saborder des idées originales pour rester dans le registre attendu",
+      "cherche l'approbation avant de s'engager dans des choix importants",
+      "peut refuser des opportunités qui lui demanderaient de sortir du rang",
+      "se range souvent derrière la décision collective même si elle lui semble erronée",
+      "peut être très efficace à transmettre et perpétuer les normes du groupe",
+      "peut ressentir de la gêne ou de la méfiance face à ceux qui transgressent"
+    ],
+    "masquesPossibles": [
+      "pragmatisme — 'je ne me bats pas contre des moulins à vent'",
+      "humilité — 'je ne suis pas sûr d'avoir raison'",
+      "générosité — 'ce qui compte, c'est le groupe, pas moi'",
+      "cynisme privé qui contraste avec la conformité publique"
+    ],
+    "manifestationsPositives": [
+      "crée de la cohésion et de la stabilité dans les groupes",
+      "sait lire et respecter les codes qui permettent de fonctionner ensemble",
+      "peut être un allié fiable dans des contextes qui demandent de la discrétion",
+      "peut survivre et prospérer dans des environnements très codifiés",
+      "sa capacité à s'intégrer lui ouvre des portes fermées aux autres"
+    ],
+    "manifestationsNegatives": [
+      "peut réprimer des convictions importantes au nom de l'appartenance",
+      "peut se rendre complice passif de choses qu'il juge mauvaises par conformité",
+      "peut perdre le sens de ce qu'il est vraiment à force de se plier",
+      "peut contribuer à des dynamiques de groupe injustes par silence ou acquiescement",
+      "peut ressentir une frustration ou une honte de lui-même jamais exprimée"
+    ],
+    "blessuresPossibles": [
+      "a été exclu ou marginalisé pour sa différence à un moment fondateur",
+      "a grandi dans un milieu où se distinguer était dangereux ou coûteux",
+      "a appris que l'appartenance était conditionnelle à la conformité"
+    ],
+    "evolutionsPossibles": [
+      "peut rencontrer une situation où la conformité lui coûte quelque chose d'irremplaçable",
+      "peut trouver un groupe qui accepte sa singularité et lui permet de sortir du moule",
+      "peut prendre conscience de ce qu'il a sacrifié et choisir de le récupérer",
+      "peut traverser une rupture avec son groupe et se découvrir pour la première fois"
+    ],
+    "notesEditoriales": [
+      "Le conformiste est un personnage dramatiquement riche parce que sa tension est intérieure et invisible de l'extérieur.",
+      "Distinguer conformisme par peur et conformisme par appartenance : les deux se ressemblent mais viennent de lieux différents.",
+      "Le moment où un personnage conformiste transgresse enfin est souvent le plus explosif de son arc.",
+      "Éviter d'en faire un simple mouton — le conformiste peut avoir une intelligence fine de son contexte et des raisons valables."
+    ]
+  },
+  {
+    "id": "charismatique",
+    "label": "Charismatique",
+    "polarite": "ambigu",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Magnétisme naturel qui attire les regards, crée de la confiance et donne envie de suivre, même sans autorité formelle. Le charisme peut être un don au service des autres ou un instrument de pouvoir ; il dépend toujours de ce que le personnage en fait et de la lucidité qu'il a sur son effet.",
+    "signesPhysiques": [
+      "contact visuel prolongé et chaleureux qui donne l'impression d'être vu",
+      "sourire qui arrive au bon moment et qui touche les yeux",
+      "gestes ouverts qui incluent l'interlocuteur dans l'espace",
+      "voix qui porte sans effort, avec une qualité qui attire l'attention",
+      "posture assurée sans être dominante",
+      "légère inclinaison vers l'autre lors des échanges — signal d'attention",
+      "présence physique qui remplit l'espace sans l'envahir",
+      "aisance dans les entrées et sorties de groupe",
+      "rire contagieux qui donne envie d'y participer",
+      "gestes de la main qui soulignent et rythmement sans être mécaniques"
+    ],
+    "sensationsInternes": [
+      "confort naturel dans les situations sociales même difficiles",
+      "conscience diffuse de l'effet qu'il produit, parfois sans l'avoir cherché",
+      "énergie qui monte dans les situations où il doit rallier ou convaincre",
+      "légère solitude parfois — l'impression que les autres voient une image, pas lui",
+      "plaisir réel dans la connexion humaine, même brève",
+      "vigilance intérieure sur l'usage qu'il fait de son influence",
+      "inconfort si le charisme attire des attentes qu'il ne peut pas remplir",
+      "sentiment parfois d'être en représentation sans pouvoir s'arrêter"
+    ],
+    "pensees": [
+      "Je sens que je les ai perdus. Il faut que je reprenne ça.",
+      "Est-ce qu'ils suivent parce qu'ils y croient ou parce que c'est moi qui le dis ?",
+      "Je peux les convaincre. La question est : est-ce que je le devrais ?",
+      "Quelqu'un doit prendre ça en main. Autant que ce soit moi.",
+      "Est-ce que je suis vraiment ce que je projette ?",
+      "La confiance est fragile. Je ne dois pas l'oublier.",
+      "Je veux qu'ils voient ce que je vois. Pas juste qu'ils me suivent.",
+      "Le charisme sans substance, c'est de la manipulation."
+    ],
+    "effetsVoixLangage": [
+      "adapte son registre à l'interlocuteur avec fluidité et naturel",
+      "sait quand parler et quand se taire pour créer de l'effet",
+      "utilise les prénoms, crée une impression de relation personnelle",
+      "formulations qui donnent aux autres l'impression d'avoir pensé ensemble",
+      "voix qui module — plus basse dans l'intimité, plus portée dans le collectif",
+      "humour qui inclut plutôt que d'exclure",
+      "peut reformuler la position de l'autre en la rendant meilleure avant de déployer la sienne"
+    ],
+    "comportements": [
+      "entre dans un groupe et en lit rapidement la dynamique",
+      "crée rapidement une impression de proximité, même avec des inconnus",
+      "peut rallier des gens à une cause en peu de temps",
+      "gère les tensions interpersonnelles avec une aisance qui semble naturelle",
+      "peut être suivi même quand il a tort — ce qui est un risque réel",
+      "peut inspirer une loyauté qui va au-delà de ce qu'il mérite objectivement",
+      "peut se retrouver en position de pouvoir sans l'avoir cherché",
+      "peut aussi utiliser son charisme délibérément pour manipuler",
+      "attire les confidences, les demandes et les projections des autres",
+      "peut se sentir épuisé à force d'être une surface de projection"
+    ],
+    "masquesPossibles": [
+      "intimité simulée — crée un sentiment de proximité qui n'est pas réciproque",
+      "sincérité calculée — la chaleur est réelle mais sélective selon les enjeux",
+      "humilité de façade qui rend le charisme plus efficace",
+      "modestie sur son propre effet pour éviter la résistance"
+    ],
+    "manifestationsPositives": [
+      "peut mobiliser des gens autour d'une cause réelle",
+      "crée des connexions qui donnent de l'élan aux projets collectifs",
+      "peut redonner confiance à des personnes qui en manquent",
+      "sait inspirer sans écraser — c'est rare",
+      "peut être un relais de voix qui n'auraient pas été entendues autrement"
+    ],
+    "manifestationsNegatives": [
+      "peut être suivi aveuglément là où la réflexion aurait été nécessaire",
+      "peut exercer une influence sans en mesurer les conséquences",
+      "peut devenir dépendant de l'effet qu'il produit",
+      "peut confondre adhésion et compréhension",
+      "peut se sentir profondément seul derrière la façade"
+    ],
+    "blessuresPossibles": [
+      "a appris très tôt que plaire était une protection",
+      "a grandi dans un environnement où il fallait être remarquable pour exister",
+      "a été aimé pour ce qu'il projette plutôt que pour ce qu'il est"
+    ],
+    "evolutionsPossibles": [
+      "peut rencontrer quelqu'un qui le voit derrière le charisme — et ne pas savoir quoi faire",
+      "peut échouer à rallier quelqu'un et en être profondément ébranlé",
+      "peut comprendre que son charisme est aussi une distance",
+      "peut choisir de mettre son influence au service d'autre chose que lui-même"
+    ],
+    "notesEditoriales": [
+      "Le personnage charismatique est plus intéressant quand on voit ce que le charisme lui coûte ou masque.",
+      "Distinguer charisme authentique (magnétisme fondé sur une présence réelle) et charisme performatif (façade construite).",
+      "La question du consentement autour de l'influence est un territoire narratif riche pour ce personnage.",
+      "Éviter d'en faire un leader idéal ou un manipulateur sans nuances — la vérité est entre les deux."
+    ]
+  },
+  {
+    "id": "renferme",
+    "label": "Renfermé",
+    "polarite": "ambigu",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Fermeture systématique de son monde intérieur aux autres. Le personnage renfermé ne révèle rien ou presque de ce qu'il ressent, pense ou traverse. Cette opacité peut être une protection précieuse, une façon de garder intact quelque chose de fragile — ou une prison dont il a perdu la clé.",
+    "signesPhysiques": [
+      "regard qui observe plus qu'il ne s'offre",
+      "visage qui donne peu à lire même dans des moments chargés",
+      "gestes contenus, peu d'expression corporelle spontanée",
+      "bras souvent croisés ou corps légèrement tourné",
+      "sourire rare, et quand il vient, il surprend",
+      "absence des micro-expressions habituelles qui signalent l'état émotionnel",
+      "mouvements prévisibles et économes — rien de gratuit",
+      "silence physique confortable dans des situations où d'autres s'agiteraient",
+      "légère distance maintenue dans les espaces partagés",
+      "tendance à choisir des positions périphériques dans les groupes"
+    ],
+    "sensationsInternes": [
+      "sentiment de protection dans la non-révélation",
+      "confort dans la solitude intérieure",
+      "malaise parfois douloureux quand quelqu'un approche trop près",
+      "désir parfois de se laisser voir — vite recouvert",
+      "fatigue de devoir constamment gérer la distance",
+      "soulagement quand les autres n'insistent pas",
+      "impression que s'ouvrir serait une forme de perte",
+      "légère jalousie diffuse envers ceux qui semblent se confier facilement"
+    ],
+    "pensees": [
+      "Ils n'ont pas besoin de savoir ça.",
+      "Si je dis ce que je ressens vraiment, ça va changer quelque chose que je ne veux pas changer.",
+      "Je peux gérer ça tout seul.",
+      "Ce que je garde pour moi m'appartient.",
+      "Est-ce que ça irait mieux si je parlais ? Je ne crois pas.",
+      "Il veut savoir. Pourquoi ? Qu'est-ce qu'il ferait avec ça ?",
+      "Je ne suis pas froid. Je suis juste discret.",
+      "Si un jour je m'ouvrais vraiment, je ne sais pas ce qui sortirait."
+    ],
+    "effetsVoixLangage": [
+      "réponses courtes et précises qui n'ouvrent pas sur la suite",
+      "ne relance pas les conversations sur lui-même",
+      "peut être loquace sur des sujets extérieurs et silencieux sur sa propre vie",
+      "ton qui reste égal quelle que soit la charge émotionnelle de la situation",
+      "peut sembler distant ou poli d'une façon qui maintient à distance",
+      "ne répond pas à toutes les questions — certaines restent sans réponse",
+      "peut sembler parler franchement alors qu'il ne dit rien de personnel"
+    ],
+    "comportements": [
+      "ne partage pas spontanément des informations personnelles",
+      "peut écouter les autres longuement sans rien révéler de lui-même",
+      "prend du temps avant d'accorder une confiance même légère",
+      "peut fuir les situations qui demandent une expression émotionnelle publique",
+      "exprime parfois ce qui compte à travers des actes plutôt que des mots",
+      "peut être très loyaux envers les rares personnes à qui il s'est ouvert",
+      "cherche des espaces seuls régulièrement pour recharger",
+      "peut avoir une intimité réelle avec quelques personnes, totalement invisible de l'extérieur",
+      "peut sembler indifférent là où il est simplement retenu",
+      "peut avoir une vie intérieure très riche que personne ne voit"
+    ],
+    "masquesPossibles": [
+      "indifférence affichée là où il y a une vraie sensibilité",
+      "pragmatisme ou rationalité pour couvrir les émotions",
+      "humour bref et sec qui détourne sans révéler",
+      "grande compétence ou efficacité pour exister sans avoir à se montrer"
+    ],
+    "manifestationsPositives": [
+      "peut être un observateur fin et lucide",
+      "garde des secrets et des confidences sans effort",
+      "crée une présence stable qui ne dramatise pas",
+      "peut offrir une forme de refuge à ceux qui n'ont pas besoin de performances sociales",
+      "sa rareté dans l'expression donne un poids particulier à ce qu'il dit"
+    ],
+    "manifestationsNegatives": [
+      "peut laisser des relations dépérir faute de nourrissement",
+      "peut rater des connexions importantes parce qu'il n'a pas laissé entrer",
+      "peut être mal compris, froid, arrogant ou désintéressé",
+      "peut accumuler en silence jusqu'à une rupture",
+      "peut souffrir d'une solitude qu'il a en partie construite lui-même"
+    ],
+    "blessuresPossibles": [
+      "a été blessé après s'être ouvert et n'a plus pris ce risque",
+      "a appris très tôt que montrer ses émotions les rendait vulnérables à l'exploitation",
+      "a grandi dans un environnement où l'expression émotionnelle était mal reçue ou ridicule"
+    ],
+    "evolutionsPossibles": [
+      "peut rencontrer quelqu'un qui ne force pas et à qui il finit par se confier",
+      "peut être confronté à une situation qui demande qu'il dise quelque chose à voix haute",
+      "peut découvrir que son silence a protégé mais aussi isolé",
+      "peut apprendre qu'être vu n'est pas nécessairement être exposé"
+    ],
+    "notesEditoriales": [
+      "Le personnage renfermé est narrativement puissant parce que sa profondeur est cachée — la révélation progressive est un ressort fort.",
+      "Distinguer le renfermé volontaire (qui choisit de ne pas révéler) et le renfermé par incapacité (qui ne sait pas comment faire).",
+      "Ses moments d'ouverture, même brefs, ont un impact narratif disproportionné par contraste.",
+      "Éviter l'équation renfermé = mystérieux/profond : il peut aussi être renfermé sur quelque chose d'ordinaire, ce qui est plus humain."
+    ]
+  },
+  {
+    "id": "colereux-froid",
+    "label": "Froid dans la colère",
+    "polarite": "ambigu",
+    "famille": "rapport-aux-emotions",
+    "definitionCourte": "Capacité à ne pas laisser éclater la colère mais à la contenir, la contrôler et la laisser agir en silence — plus précisément, plus durablement et parfois plus dangereusement que la colère explosive. Ce n'est pas l'absence de colère, c'est son organisation.",
+    "signesPhysiques": [
+      "visage qui se ferme au lieu de s'enflammer",
+      "yeux qui deviennent fixes et lisibles d'une façon inhabituelle",
+      "voix qui baisse et se ralentit au lieu de monter",
+      "mâchoire serrée avec une immobilité parfaite",
+      "gestes qui deviennent précis et économes — plus de flottement",
+      "respiration qui se ralentit délibérément",
+      "posture qui se redresse légèrement",
+      "regard qui ne cède pas et ne cherche pas à intimider — il constate",
+      "silence prolongé avant de répondre",
+      "absence totale des signaux habituels d'agitation ou d'urgence"
+    ],
+    "sensationsInternes": [
+      "chaleur qui monte mais qui est immédiatement canalisée",
+      "clarté étrange et froide qui remplace l'agitation habituelle",
+      "sentiment de pouvoir dans le contrôle — plus fort que l'explosion",
+      "conscience aiguë de chaque détail de la situation",
+      "pression intérieure qui cherche une sortie qui ne soit pas l'éclat",
+      "temps qui semble ralentir pendant les moments de colère froide",
+      "absence de peur — seulement de la détermination",
+      "épuisement parfois profond après la sortie de cet état"
+    ],
+    "pensees": [
+      "Je ne vais pas lui donner la satisfaction de me voir perdre le contrôle.",
+      "Je me souviens de tout. Je n'oublie rien.",
+      "Il ne sait pas encore ce qu'il vient de faire.",
+      "Je répondrai. Pas maintenant. Mais je répondrai.",
+      "Plus je suis calme, plus ça devrait lui faire peur.",
+      "Ce n'est pas de la froideur. C'est de la précision.",
+      "Chaque détail de ce moment est gravé.",
+      "Je n'ai pas besoin de crier pour être entendu."
+    ],
+    "effetsVoixLangage": [
+      "voix qui baisse sous la normale dans les moments de colère intense",
+      "phrases courtes et définitives",
+      "absence totale de tremblements ou d'altérations vocales",
+      "ton égal qui contraste avec le poids de ce qui est dit",
+      "silences qui font plus d'effet que les mots",
+      "vocabulaire qui devient plus précis, moins familier",
+      "peut dire des choses terribles d'une voix parfaitement calme"
+    ],
+    "comportements": [
+      "ne réagit pas à chaud — prend le temps de la mise à distance",
+      "peut sembler indifférent alors qu'il est en train de tout enregistrer",
+      "agit plus tard, avec méthode, là où d'autres auraient explosé sur le moment",
+      "peut couper le contact sans explication — et cela suffit",
+      "peut répondre des semaines plus tard d'une façon qui montre qu'il n'a rien oublié",
+      "tend à finir ce qu'il commence dans les confrontations",
+      "ne donne pas de deuxième chance facilement",
+      "peut intimider davantage par son calme que par n'importe quel éclat",
+      "peut avoir des réactions différées qui surprennent ceux qui pensaient avoir eu le dernier mot",
+      "prend soin de ne pas montrer l'étendue de ce qu'il ressent dans les moments décisifs"
+    ],
+    "masquesPossibles": [
+      "indifférence totale — 'ça ne m'affecte pas'",
+      "politesse formelle qui masque une résolution absolue",
+      "retrait — disparaît plutôt qu'il n'affronte, mais n'a pas abandonné",
+      "bienveillance de surface pendant qu'il agit en sous-terrain"
+    ],
+    "manifestationsPositives": [
+      "ne dit pas des choses qu'il regrettera sous le coup de la colère",
+      "reste fonctionnel et stratégique là où d'autres seraient paralysés ou déstabilisés",
+      "peut être redoutable dans des situations qui demandent du sang-froid",
+      "prend de meilleures décisions dans les situations conflictuelles",
+      "peut protéger des personnes par sa capacité à agir sans paniquer"
+    ],
+    "manifestationsNegatives": [
+      "peut laisser des situations pourrir au lieu de les crever à chaud",
+      "peut accumuler des rancœurs qui ressortent trop tard et trop fort",
+      "peut intimider ou faire peur sans le vouloir",
+      "peut être perçu comme calculateur ou impitoyable",
+      "peut blesser profondément parce que ses actes sont précis, pas hasardeux"
+    ],
+    "blessuresPossibles": [
+      "a appris que l'explosion de colère était dangereuse — pour lui ou pour les autres",
+      "a été puni ou ridiculisé pour avoir perdu le contrôle",
+      "a grandi dans un environnement où la colère explosive causait des dommages dont il est resté responsable"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à exprimer sa colère avant qu'elle soit organisée en représailles",
+      "peut être confronté à une situation où le contrôle ne suffit pas",
+      "peut rencontrer quelqu'un qui désamorce sa colère froide simplement en ne lui opposant aucune résistance",
+      "peut comprendre que le contrôle parfait de sa colère l'isole autant qu'il le protège"
+    ],
+    "notesEditoriales": [
+      "La colère froide est narrativement plus puissante que la colère explosive parce qu'elle dure et qu'elle agit.",
+      "Distinguer maîtrise saine de la colère et colère froide pathologique : la première libère, la seconde accumule.",
+      "Le moment où la colère froide déraille ou se libère malgré tout est souvent le plus dramatiquement fort.",
+      "Éviter d'en faire un super-pouvoir sans coût — la colère froide épuise, isole et peut se retourner contre celui qui la porte."
+    ]
+  },
+  {
+    "id": "serviable-compulsif",
+    "label": "Serviable compulsif",
+    "polarite": "negatif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Besoin irrépressible de rendre service, d'être utile et d'anticiper les besoins des autres — non par générosité libre mais par incapacité à tolérer le conflit, le rejet ou l'idée de décevoir. L'aide est réelle mais elle sert aussi à réguler une angoisse intérieure que le personnage ne peut pas regarder en face.",
+    "signesPhysiques": [
+      "propose son aide avant même qu'on en parle",
+      "regard qui cherche constamment ce qui pourrait être fait",
+      "tension physique si personne n'a besoin de lui dans un contexte social",
+      "sourire qui s'allume quand quelqu'un accepte son aide",
+      "corps qui se penche vers l'avant, prêt à agir",
+      "légère agitation si quelqu'un refuse son aide",
+      "mains qui bougent — remplissent les verres, ajustent, arrangent",
+      "présence physique près des personnes qui semblent avoir besoin de quelque chose",
+      "tension légère dans les situations où rien ne lui est demandé",
+      "sourire de soulagement quand une tâche est accomplie"
+    ],
+    "sensationsInternes": [
+      "anxiété diffuse qui ne se calme que dans l'action de service",
+      "peur sous-jacente de ne pas être assez utile",
+      "soulagement immédiat quand quelqu'un accepte son aide",
+      "inconfort difficile à nommer quand il ne peut rien faire pour quelqu'un",
+      "culpabilité si quelqu'un a besoin de quelque chose qu'il n'a pas vu",
+      "sensation de vacuité si personne n'a besoin de lui",
+      "fatigue réelle qui coexiste avec l'impossibilité de s'arrêter",
+      "malaise à l'idée de dire non, même quand c'est nécessaire"
+    ],
+    "pensees": [
+      "Si je fais ça pour eux, tout ira bien entre nous.",
+      "Je ne peux pas le laisser gérer ça seul.",
+      "Je suis là pour ça.",
+      "Si je dis non, il va me trouver inutile.",
+      "Je n'ai qu'à faire ça en plus. Ce n'est rien.",
+      "Peut-être que si j'aide assez, ils ne partiront pas.",
+      "Je n'arrive pas à me souvenir de la dernière fois où j'ai dit non.",
+      "Pourquoi est-ce que je me sens coupable de ne pas pouvoir faire plus ?"
+    ],
+    "effetsVoixLangage": [
+      "propose, suggère, offre dans presque chaque échange",
+      "dit oui avant d'avoir fini d'évaluer si c'est possible",
+      "minimise ses propres besoins pour laisser de la place à ceux des autres",
+      "reformule les refus pour laisser une porte ouverte",
+      "ton chaleureux et disponible même quand il est épuisé",
+      "peut avoir du mal à terminer une phrase sans proposer quelque chose en plus",
+      "ne parle pas facilement de ce dont il a lui-même besoin"
+    ],
+    "comportements": [
+      "prend en charge des responsabilités qui ne sont pas les siennes",
+      "ne peut pas quitter une situation sans s'assurer que tout le monde va bien",
+      "dit oui à des demandes qui l'épuisent",
+      "anticipe les besoins des autres avant qu'ils soient exprimés",
+      "se sent coupable quand il n'a pas pu ou pas su aider",
+      "peut devenir indispensable dans des groupes ou des relations qui profitent de sa disponibilité",
+      "évite les conflits par une aide préventive",
+      "peut s'effacer entièrement derrière les besoins des autres",
+      "peut ressentir de la rancœur quand l'aide n'est pas reconnue ou réciproquée",
+      "n'a souvent aucune idée de ce dont il a lui-même besoin"
+    ],
+    "masquesPossibles": [
+      "générosité — 'j'aime juste aider'",
+      "modestie — 'je ne prends pas de place, c'est tout'",
+      "efficacité — 'c'est plus simple si je m'en occupe'",
+      "love language — 'c'est ma façon d'exprimer que je tiens à eux'"
+    ],
+    "manifestationsPositives": [
+      "peut être un soutien réel et précieux dans des contextes de besoin",
+      "crée de la fluidité dans les groupes par son attention aux besoins pratiques",
+      "peut remarquer et combler des manques que personne d'autre ne voit",
+      "sa disponibilité est réelle, même si ses motivations sont complexes",
+      "peut créer des liens profonds avec ceux qui le voient vraiment"
+    ],
+    "manifestationsNegatives": [
+      "peut s'épuiser jusqu'à l'effondrement",
+      "peut entretenir des relations déséquilibrées où l'aide est un lien de dépendance",
+      "peut nier ses propres besoins jusqu'à ne plus les reconnaître",
+      "peut ressentir une amertume profonde quand l'aide n'est pas reconnue",
+      "peut empêcher les autres de se débrouiller en les sur-aidant"
+    ],
+    "blessuresPossibles": [
+      "a appris que son existence dépendait de son utilité pour les autres",
+      "a grandi dans un environnement où le conflit était dangereux et l'aide une protection",
+      "a été abandonné ou rejeté et a conclu qu'être indispensable était la seule garantie de ne plus l'être"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à dire non et découvrir que la relation tient quand même",
+      "peut s'effondrer quand plus personne n'a besoin de lui et devoir se retrouver",
+      "peut rencontrer quelqu'un qui l'aide et ne sait pas quoi faire de ça",
+      "peut comprendre que son aide compulsive sert aussi à éviter d'être vu tel qu'il est"
+    ],
+    "notesEditoriales": [
+      "Le personnage serviable compulsif est souvent sous-estimé narrativement — il porte une tension réelle entre générosité et survie.",
+      "Son effondrement est souvent plus brutal que celui des personnages qui affichent leur vulnérabilité.",
+      "Distinguer service libre (qui donne et peut s'arrêter) et service compulsif (qui ne peut pas ne pas donner).",
+      "La scène où il laisse quelqu'un gérer seul pour la première fois peut être plus dramatique qu'une confrontation directe."
+    ]
+  },
+  {
+    "id": "instable-emotionnel",
+    "label": "Instable émotionnel",
+    "polarite": "negatif",
+    "famille": "rapport-aux-emotions",
+    "definitionCourte": "Réactivité émotionnelle intense et volatile qui dépasse régulièrement la mesure de la situation. Les émotions ne filtrent pas — elles arrivent entières, immédiatement, et peuvent changer de cap sans que l'extérieur ait changé. Ce n'est pas de la faiblesse de caractère mais souvent le symptôme d'une blessure intérieure qui n'a pas eu les outils pour se cicatriser.",
+    "signesPhysiques": [
+      "expressions du visage qui changent rapidement et de manière frappante",
+      "larmes qui arrivent sans signal préalable",
+      "rire soudain dans des situations à forte charge émotionnelle",
+      "gestes qui s'emballent quand l'émotion monte",
+      "voix qui change de registre plusieurs fois dans un même échange",
+      "tremblements discrets dans les moments d'intensité émotionnelle forte",
+      "rougeur ou pâleur soudaine selon l'émotion",
+      "corps qui semble ne pas savoir quoi faire — s'assoit, se lève, revient",
+      "contact physique recherché ou fui brusquement selon l'état",
+      "regard qui peut sembler différent à quelques minutes d'intervalle"
+    ],
+    "sensationsInternes": [
+      "émotions qui arrivent en vague sans signal d'avertissement",
+      "difficulté à identifier ce qu'il ressent avant qu'il soit submergé",
+      "sensation que les émotions sont physiquement plus grandes que son corps",
+      "épuisement profond après les épisodes intenses",
+      "honte ou confusion après les réactions disproportionnées",
+      "sentiment que les autres ne comprennent pas l'intensité réelle de ce qu'il vit",
+      "brefs moments de calme entre deux vagues qui donnent l'illusion que c'est passé",
+      "peur diffuse de sa propre réactivité"
+    ],
+    "pensees": [
+      "Je ne voulais pas réagir comme ça. C'est sorti tout seul.",
+      "Pourquoi est-ce que je ressens tout aussi fort ?",
+      "Ils vont encore dire que je surréagis. Peut-être qu'ils ont raison.",
+      "Je ne peux pas expliquer pourquoi ça m'affecte autant.",
+      "Cinq minutes de calme, et voilà que c'est reparti.",
+      "Je m'excuse tellement souvent que ça ne veut plus rien dire.",
+      "Je ne suis pas fou. Je ressens juste les choses autrement.",
+      "Est-ce qu'il y aura un jour où je contrôlerai ça ?"
+    ],
+    "effetsVoixLangage": [
+      "voix qui monte ou se brise selon l'état émotionnel",
+      "peut rire et pleurer dans un même échange",
+      "débit qui s'emballe ou se coupe selon les vagues",
+      "peut dire des choses qu'il regrettera sous le coup de l'émotion",
+      "peut sembler incohérent parce que les mots ne suivent plus les émotions",
+      "tendance à revenir sur les échanges passés, à s'excuser, à réexpliquer",
+      "peut sembler parfaitement calme puis brusquement submergé"
+    ],
+    "comportements": [
+      "réagit de manière disproportionnée à des événements mineurs",
+      "peut s'emporter puis se calmer et chercher à réparer très vite",
+      "peut prendre des décisions impulsives sous le coup d'une émotion forte",
+      "peut avoir du mal à maintenir des engagements quand les émotions varient",
+      "s'excuse régulièrement pour ses réactions",
+      "peut chercher du réconfort de manière intense puis repousser celui qu'on lui offre",
+      "peut s'isoler après les épisodes par honte ou par épuisement",
+      "peut tester la solidité des relations à travers ses réactions",
+      "peut avoir une empathie très fine et une générosité réelle dans les moments calmes",
+      "peut être imprévisible pour ceux qui ne comprennent pas sa dynamique intérieure"
+    ],
+    "masquesPossibles": [
+      "humour — transforme les moments d'intensité en dérision",
+      "détachement forcé qui craque à la première pression",
+      "hyperactivité — se noie dans l'action pour ne pas ressentir",
+      "perfectionnisme — contrôle l'extérieur pour compenser l'incontrôlable intérieur"
+    ],
+    "manifestationsPositives": [
+      "peut ressentir et transmettre des émotions avec une intensité rare",
+      "empathie souvent profonde pour la souffrance des autres",
+      "peut être d'une générosité et d'une chaleur extraordinaires dans les moments calmes",
+      "sa présence émotionnelle peut être un ancrage pour ceux qui se sentent seuls",
+      "peut avoir une créativité liée à la profondeur de ce qu'il ressent"
+    ],
+    "manifestationsNegatives": [
+      "peut épuiser ceux qui l'entourent par l'intensité des demandes émotionnelles",
+      "peut blesser dans les moments de surcharge sans le vouloir",
+      "peut créer de l'insécurité dans les relations par son imprévisibilité",
+      "peut prendre des décisions dévastatrices sous l'empire d'une émotion",
+      "peut souffrir d'une solitude profonde si son entourage finit par se protéger"
+    ],
+    "blessuresPossibles": [
+      "a grandi dans un environnement émotionnellement chaotique ou violent",
+      "n'a jamais eu les outils pour apprendre à nommer et réguler ses émotions",
+      "a subi des traumatismes répétés qui ont laissé une hyperréactivité durable"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à reconnaître les signaux avant les vagues et y répondre autrement",
+      "peut trouver un ancrage — une personne, une pratique — qui lui donne plus de régulation",
+      "peut comprendre la blessure sous-jacente à son instabilité et commencer à la traiter",
+      "peut trouver des espaces — création, expression — où l'intensité émotionnelle devient une force"
+    ],
+    "notesEditoriales": [
+      "L'instabilité émotionnelle est plus humaine que pathologique si on la montre de l'intérieur, pas seulement de l'extérieur.",
+      "Éviter d'en faire un personnage uniquement difficile — montrer aussi ce que son intensité donne, pas seulement ce qu'elle coûte.",
+      "Distinguer l'instabilité émotionnelle d'un personnage en crise et un trait structurant — les deux demandent des traitements narratifs différents.",
+      "La honte que ce personnage ressent sur sa propre réactivité est souvent plus lourde à porter que les réactions elles-mêmes."
+    ]
+  }
+]

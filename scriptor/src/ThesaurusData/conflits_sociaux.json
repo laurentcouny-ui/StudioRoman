@@ -1,0 +1,606 @@
+[
+  {
+    "id": "discrimination",
+    "label": "Discrimination",
+    "alias": [
+      "être traité différemment",
+      "exclusion systémique",
+      "traitement inégal",
+      "rejet lié à l'identité",
+      "injustice de catégorie",
+      "stigmate social",
+      "préjugé agi",
+      "ostracisme identitaire",
+      "barrière invisible",
+      "être réduit à une catégorie"
+    ],
+    "famille": "conflits sociaux",
+    "definitionCourte": "Le personnage est traité différemment — désavantagé, exclu, rabaissé — en raison de ce qu'il est : origine, genre, âge, corps, orientation, classe, croyance.",
+    "natureDuConflit": "Conflit entre l'identité du personnage (ce qu'il est) et le regard social (ce que les autres en font). L'injustice est réelle mais souvent difficile à prouver, à nommer et à affronter sans coût.",
+    "forcesEnPresence": [
+      "identité visée par la discrimination",
+      "pouvoir systémique de ceux qui discriminent",
+      "impuissance face à des mécanismes plus grands que soi",
+      "besoin de dignité et de reconnaissance",
+      "risque de la dénonciation",
+      "fatigue de subir et de devoir expliquer",
+      "internalisation possible du regard négatif"
+    ],
+    "declencheursFrequents": [
+      "traitement visible et injuste dans une situation concrète",
+      "commentaire ou geste révélateur d'un préjugé",
+      "refus ou obstacle lié à l'identité du personnage",
+      "comparaison avec quelqu'un de non discriminé dans la même situation",
+      "accumulation de microagressions qui atteignent un point de saturation",
+      "moment où le personnage doit décider de réagir ou de se taire",
+      "allié qui voit enfin ce que le personnage subissait",
+      "situation où ne pas réagir serait aussi une forme de capitulation"
+    ],
+    "signauxAvantCoureurs": [
+      "hypervigilance dans les situations où la discrimination est possible",
+      "préparation mentale avant d'entrer dans certains espaces",
+      "fatigue liée à la gestion permanente du regard des autres",
+      "sur-performance pour compenser un handicap imposé",
+      "calcul constant du coût de parler contre le coût de se taire",
+      "isolement progressif pour éviter les situations à risque",
+      "colère retenue qui cherche une sortie",
+      "moments de doute sur si l'interprétation est juste ou non"
+    ],
+    "silencesEtNonDits": [
+      "l'ampleur de la discrimination n'est souvent pas mesurée par ceux qui ne la subissent pas",
+      "la fatigue de subir n'est souvent pas dite — pour ne pas être réduit à une victime",
+      "la colère légitime est souvent tue pour ne pas confirmer un stéréotype",
+      "ceux qui discriminent ne reconnaissent souvent pas leurs propres comportements",
+      "les alliés potentiels ne savent pas ce qui se passe s'ils ne demandent pas",
+      "la question de savoir si réagir changera quelque chose n'a pas de réponse simple"
+    ],
+    "penseesTypiques": [
+      "Est-ce que c'est vraiment ce que je pense que c'est ?",
+      "Je ne vais pas donner l'avantage à quelqu'un qui me réduit à ça.",
+      "Si je réagis, je suis le problème. Si je me tais, je valide.",
+      "Ça fait des années que je gère ça. Je suis épuisé.",
+      "Personne autour de moi ne vit ça. Personne ne comprend vraiment.",
+      "Je dois travailler deux fois plus pour être vu à égalité.",
+      "Ils ne me voient pas. Ils voient ce qu'ils ont décidé que je suis.",
+      "Je suis en colère. Et je ne peux même pas montrer ma colère sans confirmer leur image de moi.",
+      "Est-ce que je mérite d'être traité autrement ? — Oui. Évidemment. Alors pourquoi est-ce que je doute ?"
+    ],
+    "comportementsTypiques": [
+      "adapte son comportement pour ne pas déclencher les préjugés",
+      "sur-performe pour être irréprochable",
+      "documente les incidents pour avoir des preuves",
+      "cherche des alliés qui peuvent témoigner ou soutenir",
+      "choisit ses batailles avec soin",
+      "dénonce parfois — avec les risques que cela comporte",
+      "se retire des espaces où la discrimination est systématique",
+      "oscille entre épuisement et détermination"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui discrimine a souvent le pouvoir institutionnel — et peut nier sans conséquence.",
+      "La personne discriminée a un pouvoir de témoignage — mais l'exercer a un coût.",
+      "Les alliés ont un pouvoir souvent sous-exploité — leur parole pèse différemment.",
+      "Le groupe qui discrimine a le pouvoir du nombre et de la norme."
+    ],
+    "variantes": [
+      {
+        "relation": "Discrimination directe et visible",
+        "description": "L'acte est clair et identifiable. Le personnage peut le nommer. Le conflit est entre réagir et se protéger."
+      },
+      {
+        "relation": "Discrimination systémique diffuse",
+        "description": "Aucun acte isolé n'est clairement condamnable. C'est l'accumulation qui épuise. Difficile à prouver, impossible à ignorer."
+      },
+      {
+        "relation": "Discrimination intragroupe",
+        "description": "Le personnage est discriminé à l'intérieur de son propre groupe d'appartenance pour une sous-identité. La trahison est double."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Microagressions répétées", "description": "Commentaires, regards, omissions. Rien de saisissable — mais tout s'accumule." },
+      { "niveau": 2, "label": "Traitement inégal visible", "description": "La différence de traitement est observable. Le personnage doit décider quoi en faire." },
+      { "niveau": 3, "label": "Exclusion ou refus explicite", "description": "L'acte discriminatoire est direct. Les conséquences concrètes sont là." },
+      { "niveau": 4, "label": "Confrontation ou dénonciation", "description": "Le personnage réagit — avec tout le risque que ça comporte." },
+      { "niveau": 5, "label": "Impact durable sur l'identité ou la trajectoire", "description": "La discrimination a changé quelque chose de fondamental dans la vie ou l'identité du personnage." }
+    ],
+    "escaladeTypique": [
+      "accumulation silencieuse de traitements inégaux",
+      "point de saturation ou incident déclencheur",
+      "choix entre réagir et absorber",
+      "confrontation ou retrait",
+      "conséquences durables et reconstruction"
+    ],
+    "voiesDeResolution": [
+      "la dénonciation est entendue et a des effets réels",
+      "un allié agit là où le personnage ne pouvait pas",
+      "le personnage trouve un espace où son identité est pleinement acceptée",
+      "le conflit n'est pas résolu — il est géré, enduré, contourné",
+      "le personnage transforme l'épreuve en force ou en engagement"
+    ],
+    "blessuresUnderlyantes": [
+      "identité visée depuis l'enfance — la discrimination est constitutive",
+      "moment fondateur où la discrimination a été vécue pour la première fois avec toute son injustice",
+      "internalisation partielle du regard négatif qui crée un conflit avec l'estime de soi",
+      "solitude de subir quelque chose que les proches non discriminés ne comprennent pas",
+      "épuisement d'une vigilance permanente jamais vraiment relâchée"
+    ],
+    "contextesFavorables": [
+      "personnage dans une institution homogène qui ne lui ressemble pas",
+      "situation où la discrimination conditionne une opportunité importante",
+      "personnage entouré d'alliés théoriques qui ne voient pas ce qui se passe",
+      "moment où une décision concrète est influencée par la discrimination"
+    ],
+    "personnagesSouventConcernes": [
+      "le personnage minoritaire dans un environnement dominant homogène",
+      "la première personne de son groupe à accéder à un espace",
+      "le personnage dont l'identité est multiple et fait face à des discriminations croisées",
+      "celui dont la discrimination est devenue si habituelle qu'il ne la signale plus",
+      "l'allié qui découvre l'étendue de ce qu'il n'avait pas vu"
+    ],
+    "erreursDEcriture": [
+      "réduire le personnage discriminé à sa seule identité discriminée",
+      "faire de la discrimination le seul arc de l'histoire sans autres dimensions",
+      "résoudre par la seule bonne volonté — les discriminations systémiques résistent aux bonnes intentions individuelles",
+      "ignorer le coût de la dénonciation pour le personnage qui la fait",
+      "écrire la discrimination comme expérience exotique si elle n'est pas vécue de l'intérieur — risque de réduction ou d'inexactitude"
+    ],
+    "notesEditoriales": [
+      "La discrimination est plus juste narrativement quand elle est spécifique et concrète, pas générique.",
+      "Le doute du personnage (est-ce vraiment de la discrimination ?) est un mécanisme réel à ne pas effacer.",
+      "Différencier : discrimination (identité ciblée) / stigmatisation (identité dévalorisée) / conflit de classe (position sociale).",
+      "Le personnage qui subit ne doit pas être réduit à une victime — la résistance, l'adaptation et la complexité sont au cœur."
+    ]
+  },
+  {
+    "id": "conflit-de-classe",
+    "label": "Conflit de classe",
+    "alias": [
+      "fossé social",
+      "inégalité de condition",
+      "choc des milieux",
+      "traversée de classe",
+      "trahison de classe",
+      "monde d'en bas contre monde d'en haut",
+      "ascension sociale et ses coûts",
+      "dissonance de milieu",
+      "honte sociale",
+      "entre deux mondes"
+    ],
+    "famille": "conflits sociaux",
+    "definitionCourte": "Le personnage est confronté à l'inégalité de condition sociale — la sienne ou celle des autres. Le fossé des classes crée de l'invisibilité, de la honte, du ressentiment et parfois de la trahison.",
+    "natureDuConflit": "Conflit entre les mondes sociaux et ce qu'ils font aux individus qui les traversent ou qui sont pris en étau entre eux. L'argent, les codes, le langage et les opportunités ne sont pas neutres.",
+    "forcesEnPresence": [
+      "origine sociale et les codes qu'elle transmet",
+      "aspiration à une condition différente",
+      "honte ou fierté liée à son milieu",
+      "regard de l'autre classe — condescendant ou envieux",
+      "codes culturels qui révèlent l'appartenance malgré soi",
+      "loyauté envers son milieu d'origine",
+      "coût de la traversée de classe — perte de soi ou des siens"
+    ],
+    "declencheursFrequents": [
+      "rencontre avec quelqu'un d'un milieu très différent",
+      "situation qui révèle la différence de condition de manière humiliante",
+      "accès à un monde plus favorisé qui met en lumière ce qu'on n'a pas eu",
+      "retour dans son milieu d'origine après une traversée de classe",
+      "commentaire condescendant ou naïvement blessant",
+      "découverte que certains codes qu'on croyait universels sont de classe",
+      "moment où l'argent ou son absence change concrètement les options",
+      "honte devant les siens de ce qu'on est devenu"
+    ],
+    "signauxAvantCoureurs": [
+      "vigilance sur les codes sociaux dans les espaces de l'autre classe",
+      "dissimulation de son origine dans certains contextes",
+      "gêne ou colère diffuse dans les conversations sur l'argent ou les privilèges",
+      "sentiment de ne jamais vraiment appartenir à aucun milieu",
+      "sur-correction ou sur-affichage de certains codes pour compenser",
+      "ressentiment envers ceux qui ont eu ce qu'on n'a pas eu",
+      "honte rétrospective de son milieu d'origine",
+      "distance qui s'installe avec les proches d'origine"
+    ],
+    "silencesEtNonDits": [
+      "l'argent n'est presque jamais dit clairement dans les milieux favorisés",
+      "la honte de son origine n'est jamais avouée",
+      "le ressentiment envers ceux qui ont plus n'est jamais dit dans certaines relations",
+      "la perte de soi dans la traversée de classe n'est pas reconnue",
+      "la condescendance des milieux favorisés est rarement nommée comme telle",
+      "la trahison de classe ressentie par ceux qui restent n'est pas formulée"
+    ],
+    "penseesTypiques": [
+      "Ils ne savent pas ce que ça coûte d'arriver de là où je viens.",
+      "Je suis passé de l'autre côté — et je ne me reconnais plus.",
+      "Ils me voient comme un imposteur ici. Et un traître là-bas.",
+      "L'argent ne rend pas les gens meilleurs. Mais son absence limite tout.",
+      "Je ne veux pas avoir honte de mes parents.",
+      "Pourquoi est-ce que je dois tout faire deux fois mieux pour avoir la même chose ?",
+      "Ils parlent de l'égalité des chances comme si c'était réel.",
+      "Je suis entre deux mondes et je n'appartiens vraiment à aucun.",
+      "Ma réussite me coûte quelque chose que je ne sais pas encore nommer."
+    ],
+    "comportementsTypiques": [
+      "ajuste son langage, ses vêtements, ses codes selon le milieu où il se trouve",
+      "dissimule son origine dans certains contextes",
+      "surcompense par une affirmation agressive de ses origines dans d'autres",
+      "ressent de la gêne dans les deux milieux",
+      "prend de la distance avec ses proches d'origine sans l'annoncer",
+      "cherche d'autres personnes en traversée de classe pour se sentir moins seul",
+      "utilise sa connaissance des deux mondes comme avantage",
+      "porte la honte ou la colère sans toujours savoir à qui l'adresser"
+    ],
+    "positionsDePouvoir": [
+      "La classe favorisée a le pouvoir des codes, des réseaux et des capitaux qui se transmettent invisiblement.",
+      "La classe populaire a le pouvoir du nombre et de l'expérience concrète — souvent non reconnus.",
+      "Le personnage en traversée de classe a le pouvoir de comprendre les deux mondes — au prix de n'appartenir vraiment à aucun.",
+      "Celui qui nomme le problème de classe dans un espace qui le nie a un pouvoir de déstabilisation réel."
+    ],
+    "variantes": [
+      {
+        "relation": "Ascension sociale",
+        "description": "Le personnage a réussi à changer de milieu. Il vit entre deux mondes — la fierté de l'ascension et la culpabilité de laisser les siens."
+      },
+      {
+        "relation": "Rencontre amoureuse entre classes",
+        "description": "L'amour traverse le fossé — mais les codes, les familles, les projets de vie ne coïncident pas. La différence révèle ce qui était invisible."
+      },
+      {
+        "relation": "Descente sociale",
+        "description": "Le personnage perd sa position — par ruine, maladie, divorce. Il découvre un monde qu'il ne connaissait pas — et ses propres angles morts sur lui."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Friction discrète", "description": "La différence est perçue mais pas encore conflictuelle. Des malaises légers, des codes manqués." },
+      { "niveau": 2, "label": "Dissonance visible", "description": "La différence de condition crée des incompréhensions concrètes. Le personnage doit naviguer." },
+      { "niveau": 3, "label": "Confrontation directe", "description": "Le fossé est nommé — avec condescendance, ressentiment ou incompréhension sincère." },
+      { "niveau": 4, "label": "Crise identitaire", "description": "Le personnage ne sait plus à quel monde il appartient ni qui il est dans chacun." },
+      { "niveau": 5, "label": "Choix ou rupture", "description": "Le personnage choisit un monde — avec tout ce que ça implique de perte de l'autre." }
+    ],
+    "escaladeTypique": [
+      "différence de condition présente mais non conflictualisée",
+      "incident qui révèle le fossé",
+      "confrontation ou maladresse qui nomme la différence",
+      "crise d'appartenance",
+      "accommodation, traversée ou rupture"
+    ],
+    "voiesDeResolution": [
+      "le personnage trouve une identité qui intègre les deux mondes sans les nier",
+      "la relation survit à la différence de classe grâce à un travail réel des deux côtés",
+      "le personnage choisit son camp — avec le deuil de ce qu'il quitte",
+      "la différence est nommée et un dialogue réel devient possible",
+      "le fossé reste — et le personnage apprend à vivre avec la solitude de la traversée"
+    ],
+    "blessuresUnderlyantes": [
+      "honte de son origine intégrée dès l'enfance",
+      "message reçu que sa condition était une faute ou une infériorité",
+      "trahison par un milieu favorisé qui ne l'a jamais vraiment accepté",
+      "culpabilité de s'être éloigné des siens en réussissant",
+      "colère longtemps réprimée face à l'injustice structurelle"
+    ],
+    "contextesFavorables": [
+      "personnage en mobilité sociale ascendante ou descendante",
+      "rencontre amoureuse ou amicale entre milieux très différents",
+      "personnage qui retourne dans son milieu d'origine après en être sorti",
+      "situation où les inégalités de condition sont rendues concrètes et incontournables"
+    ],
+    "personnagesSouventConcernes": [
+      "l'étudiant boursier dans une grande école",
+      "la personne en couple avec quelqu'un d'un milieu très différent",
+      "l'enfant d'une famille populaire devenu professionnel",
+      "le personnage ruiné qui découvre la pauvreté",
+      "celui dont l'accent, les manières ou le vocabulaire trahissent toujours l'origine"
+    ],
+    "erreursDEcriture": [
+      "réduire le conflit de classe à un simple manque d'argent",
+      "rendre les milieux favorisés entièrement mauvais ou les milieux populaires entièrement victimes",
+      "ignorer les codes culturels — c'est autant de classe que l'argent",
+      "résoudre par la seule bonne volonté individuelle sans voir les structures",
+      "traiter la traversée de classe comme une réussite pure sans montrer ses coûts identitaires"
+    ],
+    "notesEditoriales": [
+      "Le conflit de classe est souvent invisible pour ceux qui ne le vivent pas — d'où l'importance de le rendre concret.",
+      "La honte sociale et la honte de la honte sont des ressorts dramatiques très puissants.",
+      "Différencier : conflit de classe (condition sociale structurelle) / discrimination (identité ciblée) / stigmatisation (image sociale imposée).",
+      "Les personnages en traversée de classe voient les deux mondes — ce qui en fait des observateurs narrativement précieux."
+    ]
+  },
+  {
+    "id": "stigmatisation",
+    "label": "Stigmatisation",
+    "alias": [
+      "étiquette infamante",
+      "marque sociale",
+      "identité réduite à un défaut",
+      "être défini par un stigmate",
+      "réputation qui précède",
+      "regard social dévalorisé",
+      "être catalogué",
+      "image imposée",
+      "identité abîmée par le regard des autres",
+      "porter une marque qu'on n'a pas choisie"
+    ],
+    "famille": "conflits sociaux",
+    "definitionCourte": "Le personnage porte une marque sociale — maladie, passé judiciaire, comportement, apparence, identité — qui le réduit aux yeux des autres et colore toutes ses interactions.",
+    "natureDuConflit": "Conflit entre l'identité réelle du personnage et l'identité réduite que la stigmatisation lui impose. Le regard social est une prison — même quand il n'est pas dit.",
+    "forcesEnPresence": [
+      "stigmate réel ou perçu qui précède le personnage",
+      "regard social qui réduit à une seule dimension",
+      "besoin de dignité et d'être vu dans sa complexité",
+      "peur de la révélation si le stigmate est dissimulable",
+      "épuisement de gérer le regard des autres",
+      "intériorisation partielle du regard négatif",
+      "désir de se définir soi-même"
+    ],
+    "declencheursFrequents": [
+      "moment où le stigmate est révélé ou visible",
+      "regard ou commentaire qui réduit le personnage à son stigmate",
+      "traitement différent lié à la marque sociale",
+      "rencontre avec quelqu'un qui ne sait pas encore — et qui va apprendre",
+      "situation qui force à choisir entre cacher et assumer",
+      "défense de quelqu'un d'autre stigmatisé qui renvoie à sa propre situation",
+      "interaction avec quelqu'un d'autre porteur du même stigmate",
+      "moment de validation — être vu autrement que par le stigmate"
+    ],
+    "signauxAvantCoureurs": [
+      "vigilance sur les informations qu'il divulgue sur lui-même",
+      "anticipation des réactions avant toute révélation",
+      "fatigue de la gestion permanente de l'image",
+      "sur-investissement dans des domaines qui compensent le stigmate",
+      "attentes négatives intégrées dans les interactions",
+      "solitude liée au fait que peu de gens connaissent vraiment",
+      "réactions disproportionnées quand quelqu'un touche au stigmate",
+      "tendresse envers ceux qui ne réduisent pas"
+    ],
+    "silencesEtNonDits": [
+      "le stigmate est rarement nommé directement par ceux qui le portent et ceux qui le voient",
+      "l'impact sur l'estime de soi n'est pas dit",
+      "la fatigue de la dissimulation ou de l'assomption n'est pas avouée",
+      "ceux qui stigmatisent croient souvent être neutres ou bienveillants",
+      "la question de si révéler ou cacher est la bonne stratégie n'a pas de réponse simple",
+      "le désir d'être vu sans le stigmate n'est presque jamais formulé"
+    ],
+    "penseesTypiques": [
+      "Ils me voient avant de me voir moi.",
+      "Si je leur dis, ça va changer comment ils me regardent pour toujours.",
+      "Je suis tellement plus que ça. Pourquoi est-ce que c'est tout ce qu'ils retiennent ?",
+      "Je dois travailler deux fois plus pour être vu à ma juste valeur.",
+      "Est-ce que je serais différent si j'avais grandi sans cette marque ?",
+      "Certains jours je le cache. D'autres je le porte comme une armure.",
+      "Je veux qu'on me voie. Mais pas comme ça.",
+      "J'ai intégré leur regard. C'est ça le plus difficile à défaire.",
+      "Si tu savais vraiment, est-ce que tu serais encore là ?"
+    ],
+    "comportementsTypiques": [
+      "dissimule le stigmate dans les contextes où c'est possible",
+      "le revendique fortement dans d'autres pour reprendre le contrôle du récit",
+      "teste les gens avant de révéler",
+      "s'entoure préférentiellement de personnes qui partagent le même stigmate",
+      "sur-performe pour neutraliser le stigmate par la compétence",
+      "réagit avec une sensibilité particulière aux commentaires liés au stigmate",
+      "cherche des modèles qui montrent que le stigmate n'est pas un plafond",
+      "relit chaque interaction à travers le prisme de ce que l'autre sait ou ne sait pas"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui stigmatise a le pouvoir de définir — même sans le vouloir.",
+      "Le porteur du stigmate a le pouvoir de révéler ou de cacher — ce qui est aussi une forme de contrôle.",
+      "Les communautés de personnes stigmatisées ont un pouvoir de validation et de résistance collective.",
+      "Celui qui voit le personnage au-delà du stigmate a un pouvoir de guérison réel."
+    ],
+    "variantes": [
+      {
+        "relation": "Stigmate visible",
+        "description": "La marque est immédiatement perceptible — corps, apparence, comportement. Le personnage ne peut pas choisir de la cacher. La gestion est permanente."
+      },
+      {
+        "relation": "Stigmate dissimulable",
+        "description": "Le personnage peut choisir de révéler ou non — maladie, passé, identité. La question devient : quand, à qui, comment. Et toujours : quel prix ?"
+      },
+      {
+        "relation": "Stigmate hérité",
+        "description": "Le personnage porte le stigmate d'un parent, d'une famille, d'un groupe d'origine. Il n'a pas choisi ce qu'il représente pour les autres."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Regard perçu", "description": "Le personnage sait que le stigmate est là. Il le gère sans confrontation directe." },
+      { "niveau": 2, "label": "Interaction colorée", "description": "Les relations sont influencées par le stigmate — dans les deux sens." },
+      { "niveau": 3, "label": "Confrontation directe", "description": "Le stigmate est nommé, agi, ou révélé dans un moment à enjeu." },
+      { "niveau": 4, "label": "Crise identitaire", "description": "Le stigmate menace l'image de soi ou une relation importante." },
+      { "niveau": 5, "label": "Redéfinition", "description": "Le personnage se réapproprie son identité — ou se perd dans le regard des autres." }
+    ],
+    "escaladeTypique": [
+      "stigmate présent en arrière-plan de toutes les interactions",
+      "incident qui le rend visible ou qui force la révélation",
+      "gestion — dissimulation, confrontation ou revendication",
+      "crise qui met en jeu l'identité et les relations",
+      "redéfinition de soi — avec ou sans le stigmate"
+    ],
+    "voiesDeResolution": [
+      "le personnage est vu dans sa complexité par quelqu'un d'important",
+      "il réapproprie le stigmate et en fait une force ou une identité",
+      "une communauté de personnes stigmatisées offre une appartenance sans réduction",
+      "le contexte social change et diminue le poids du stigmate",
+      "le personnage apprend à vivre avec — sans que le stigmate disparaisse"
+    ],
+    "blessuresUnderlyantes": [
+      "intégration précoce du regard dévalorisé comme vérité sur soi",
+      "absence de modèles qui portent le même stigmate sans y être réduits",
+      "moment fondateur où le stigmate a été utilisé comme arme",
+      "solitude de porter quelque chose que peu de gens comprennent de l'intérieur",
+      "désir d'être aimé sans condition qui se heurte à la réalité du regard social"
+    ],
+    "contextesFavorables": [
+      "personnage dont le stigmate conditionne un enjeu narratif important",
+      "situation de révélation dans une relation à fort enjeu",
+      "personnage confronté à quelqu'un qui porte le même stigmate différemment",
+      "contexte où le stigmate détermine concrètement les options disponibles"
+    ],
+    "personnagesSouventConcernes": [
+      "le survivant d'une maladie ou d'une expérience socialement dévalorisée",
+      "le personnage avec un casier judiciaire qui cherche à se reconstruire",
+      "l'enfant qui porte le stigmate d'un parent",
+      "le personnage dont le corps ne correspond pas aux normes dominantes",
+      "celui qui a vécu quelque chose de honteux dans l'œil de sa communauté"
+    ],
+    "erreursDEcriture": [
+      "réduire le personnage à son stigmate — il est aussi autre chose",
+      "faire du stigmate le seul moteur narratif sans autres dimensions",
+      "rendre la réappropriation trop facile — elle est souvent partielle et douloureuse",
+      "écrire la stigmatisation de l'extérieur sans comprendre l'expérience intérieure",
+      "confondre stigmatisation (regard social imposé) et discrimination (traitement inégal) — les deux coexistent mais sont distincts"
+    ],
+    "notesEditoriales": [
+      "Le stigmate le plus puissant narrativement est celui qui est partiellement intériorisé — le personnage lutte autant contre le regard des autres que contre le sien propre.",
+      "La validation par quelqu'un qui voit au-delà du stigmate est un ressort narratif fort — à utiliser avec précision.",
+      "Différencier : stigmatisation (image sociale dévalorisée) / discrimination (traitement inégal) / honte contre exposition (peur d'être vu).",
+      "Les personnages porteurs de stigmate peuvent aussi stigmatiser — la complexité morale est là."
+    ]
+  },
+  {
+    "id": "privilege-aveugle",
+    "label": "Privilège aveugle",
+    "alias": [
+      "ne pas voir ses avantages",
+      "ignorance de sa propre position",
+      "avantages invisibles",
+      "angle mort social",
+      "décalage de perspective",
+      "naïveté structurelle",
+      "innocence du privilège",
+      "angle mort de classe ou de genre",
+      "non-conscience de sa chance",
+      "découverte de ce qu'on n'a pas vu"
+    ],
+    "famille": "conflits sociaux",
+    "definitionCourte": "Le personnage bénéficie d'avantages systémiques qu'il ne voit pas — ou refuse de voir. La confrontation à ces angles morts est déstabilisante, menaçante pour l'image de soi, et potentiellement transformatrice.",
+    "natureDuConflit": "Conflit entre l'image de soi (méritocratique, juste, indépendant) et la réalité des avantages structurels dont bénéficie le personnage sans les avoir choisis ni remarqués.",
+    "forcesEnPresence": [
+      "image de soi construite sur la méritocratie et l'indépendance",
+      "avantages réels mais invisibles de l'intérieur",
+      "confrontation par quelqu'un qui les voit de l'extérieur",
+      "résistance à l'idée d'avoir bénéficié de quelque chose qu'on n'a pas mérité",
+      "peur que reconnaître le privilège diminue la valeur des efforts",
+      "sincérité possible — ne pas voir n'est pas toujours de la mauvaise foi",
+      "coût identitaire de la reconnaissance"
+    ],
+    "declencheursFrequents": [
+      "rencontre avec quelqu'un qui n'a pas les mêmes accès pour des raisons structurelles",
+      "confrontation directe par quelqu'un qui nomme le privilège",
+      "situation révélatrice d'un avantage normalement invisible",
+      "récit d'expérience radicalement différente de la sienne pour des raisons non méritocratiques",
+      "découverte que quelque chose tenu pour acquis n'est pas universel",
+      "erreur ou injustice commise par naïveté sur la situation des autres",
+      "demande de reconnaissance qui déclenche une résistance",
+      "moment de réflexion sur les conditions de son propre parcours"
+    ],
+    "signauxAvantCoureurs": [
+      "discours méritocratique fort — j'ai réussi par mon travail",
+      "incompréhension sincère des difficultés des autres",
+      "irritabilité quand les inégalités structurelles sont abordées",
+      "besoin de minimiser les avantages reçus",
+      "difficulté à écouter les expériences très différentes des siennes",
+      "saut vers ses propres difficultés quand les difficultés des autres sont évoquées",
+      "malaise quand la question du privilège est posée directement",
+      "résistance à toute forme de remise en question de sa trajectoire"
+    ],
+    "silencesEtNonDits": [
+      "les avantages reçus ne sont jamais nommés car ils semblent normaux",
+      "la résistance à reconnaître le privilège n'est pas avouée comme résistance",
+      "la peur que la reconnaissance efface le mérite des efforts n'est pas dite",
+      "la douleur ou la colère de celui qui n'a pas les mêmes accès n'est pas entendue",
+      "la question de ce que le personnage ferait différemment s'il voyait n'est jamais posée",
+      "la différence entre avoir eu de la chance et ne pas mériter ce qu'on a n'est jamais clarifiée"
+    ],
+    "penseesTypiques": [
+      "Je suis arrivé là par mon travail. Personne ne m'a rien donné.",
+      "Tout le monde peut réussir s'il le veut vraiment.",
+      "Pourquoi est-ce qu'ils me demandent de culpabiliser d'être ce que je suis ?",
+      "Je n'ai jamais fait de mal à personne.",
+      "Si j'avais vraiment des privilèges, je le saurais.",
+      "Ils ont les mêmes chances que moi — ils font des choix différents.",
+      "Je comprends. Mais je ne vois pas ce que ça change concrètement.",
+      "Reconnaître ça ne veut pas dire que mes efforts ne comptent pas, non ?",
+      "Je commence à voir ce que je n'avais pas vu. C'est inconfortable."
+    ],
+    "comportementsTypiques": [
+      "minimise les avantages structurels en les ramenant à des efforts individuels",
+      "change de sujet quand les inégalités systémiques sont abordées",
+      "écoute partiellement les expériences différentes puis revient à la sienne",
+      "résiste activement à la notion de privilège pour des raisons identitaires",
+      "fait preuve de bonne volonté de surface sans changer ses représentations",
+      "est sincèrement déstabilisé quand il voit quelque chose qu'il ne voyait pas",
+      "fait des erreurs de bonne foi qui blessent malgré l'intention",
+      "commence un processus de révision de sa vision du monde — lent et non linéaire"
+    ],
+    "positionsDePouvoir": [
+      "Le personnage privilégié a un pouvoir structurel souvent invisible à ses propres yeux.",
+      "Celui qui nomme le privilège a un pouvoir de déstabilisation — et un risque de rejet.",
+      "La résistance au privilège peut être un mécanisme de maintien du pouvoir inconscient.",
+      "La reconnaissance du privilège ne redistribue pas automatiquement le pouvoir — mais change la relation."
+    ],
+    "variantes": [
+      {
+        "relation": "Confrontation par quelqu'un de proche",
+        "description": "Un ami, un partenaire, un collègue nomme le privilège. La proximité rend la résistance plus difficile à maintenir — et la révélation plus destabilisante."
+      },
+      {
+        "relation": "Découverte progressive",
+        "description": "Pas de confrontation directe — une accumulation d'expériences et de lectures qui fait lentement basculer la perception. Le conflit est intérieur, lent, non dramatique."
+      },
+      {
+        "relation": "Personage en perte de privilège",
+        "description": "Le personnage perd un avantage qu'il n'avait pas vu comme tel — et découvre par contraste ce qu'il avait. La prise de conscience passe par l'expérience directe."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Angle mort confortable", "description": "Le personnage ne voit pas et ne cherche pas à voir. Son monde fonctionne bien." },
+      { "niveau": 2, "label": "Premier signal ignoré", "description": "Quelque chose est dit ou montré. Le personnage le met de côté sans vraiment y répondre." },
+      { "niveau": 3, "label": "Déstabilisation réelle", "description": "Le personnage ne peut plus ignorer ce qu'il voit. La résistance ou la révision commence." },
+      { "niveau": 4, "label": "Remise en question de soi", "description": "La vision du monde et l'image de soi sont ébranlées. Qui suis-je si ce que je croyais mériter n'était pas que du mérite ?" },
+      { "niveau": 5, "label": "Révision ou déni renforcé", "description": "Le personnage intègre la révélation et change — ou la rejette définitivement pour préserver l'image de soi." }
+    ],
+    "escaladeTypique": [
+      "angle mort confortable maintenu",
+      "confrontation ou expérience révélatrice",
+      "résistance ou déstabilisation",
+      "processus non linéaire de révision ou de déni",
+      "changement réel ou renforcement de la fermeture"
+    ],
+    "voiesDeResolution": [
+      "le personnage intègre la révélation et change sa façon de voir et d'agir",
+      "la prise de conscience est partielle — le personnage voit mais ne change pas encore",
+      "la résistance l'emporte — le personnage rejette et se ferme",
+      "une expérience directe lui fait vivre ce qu'il ne pouvait pas voir de l'extérieur",
+      "la reconnaissance n'efface pas le mérite mais le contextualise — résolution nuancée possible"
+    ],
+    "blessuresUnderlyantes": [
+      "identité construite sur la méritocratie — reconnaître le privilège menace tout",
+      "effort réel fourni qui semble diminué par la reconnaissance d'un avantage structurel",
+      "expérience de difficultés personnelles qui rend invisible les facilités par ailleurs",
+      "manque de contact avec des expériences radicalement différentes",
+      "message reçu que le monde est juste si on travaille assez fort"
+    ],
+    "contextesFavorables": [
+      "personnage confronté à une réalité sociale qu'il n'avait pas vue de près",
+      "relation avec quelqu'un d'un milieu très différent qui expose les angles morts",
+      "personnage en position de décision qui doit prendre en compte des inégalités structurelles",
+      "moment de perte d'un avantage qui révèle ce que sa présence avait rendu invisible"
+    ],
+    "personnagesSouventConcernes": [
+      "le personnage issu d'un milieu favorisé qui se croit autodidacte",
+      "l'homme qui découvre les inégalités de genre dans sa propre vie professionnelle",
+      "le parent qui comprend que ses enfants n'ont pas les mêmes chances que d'autres",
+      "le personnage bien intentionné mais dont les angles morts causent du tort",
+      "celui qui commence à voir et ne sait pas encore quoi faire de ce qu'il voit"
+    ],
+    "erreursDEcriture": [
+      "rendre la prise de conscience immédiate et complète — elle est presque toujours partielle et non linéaire",
+      "transformer le personnage en porte-parole idéologique au lieu de rester dans la complexité humaine",
+      "ignorer les difficultés réelles du personnage au nom du privilège — les deux peuvent coexister",
+      "rendre la résistance entièrement malveillante — l'angle mort sincère est plus riche",
+      "confondre privilège aveugle (angle mort) et double standard moral (asymétrie délibérée)"
+    ],
+    "notesEditoriales": [
+      "Ce conflit est plus puissant quand le personnage a vraiment travaillé dur — la révélation est alors une vraie déstabilisation, pas un jugement.",
+      "La prise de conscience ne doit pas effacer la complexité du personnage — elle l'enrichit.",
+      "Différencier : privilège aveugle (angle mort personnel) / conflit de classe (structure sociale) / double standard (asymétrie morale délibérée).",
+      "Le personnage en processus de révision — ni aveugle ni transformé — est le plus riche narrativement."
+    ]
+  }
+]

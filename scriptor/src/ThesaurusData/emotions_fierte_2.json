@@ -1,0 +1,317 @@
+[
+  {
+    "id": "vanite",
+    "label": "Vanité",
+    "famille": "fierte-confiance",
+    "definitionCourte": "Fierté tournée vers l'apparence et le regard des autres — le personnage a besoin d'être admiré, remarqué, loué pour ce qu'il projette plutôt que pour ce qu'il est.",
+
+    "signesPhysiques": [
+      "soin excessif apporté à l'apparence avant chaque interaction",
+      "regard qui cherche à capturer l'attention sans en avoir l'air",
+      "sourire qui attend l'écho — se maintient tant qu'il n'est pas reflété",
+      "posture étudiée — ni naturelle ni rigide, calculée",
+      "geste de remise en ordre d'un détail d'apparence dans les moments d'incertitude",
+      "regard vers les miroirs, les reflets, les vitres",
+      "réaction visible à tout compliment — même discret"
+    ],
+
+    "sensationsInternes": [
+      "légère anxiété quand l'attention se détourne",
+      "satisfaction intense lors d'un compliment ou d'un regard admiratif",
+      "malaise si l'apparence ou la performance est critiquée",
+      "besoin de confirmer en interne l'image que l'on projette",
+      "dépendance légère à la validation extérieure pour se sentir bien"
+    ],
+
+    "pensees": [
+      "Est-ce qu'ils me remarquent ?",
+      "Je dois être à mon meilleur.",
+      "Ils ont dû noter ce que j'ai dit.",
+      "Je suis sûr qu'ils m'ont trouvé impressionnant.",
+      "Cette tenue est parfaite.",
+      "Qu'est-ce qu'ils pensent de moi en ce moment ?"
+    ],
+
+    "effetsVoixLangage": [
+      "formulations qui mettent en avant ses propres réussites naturellement",
+      "tendance à ramener à soi dans les conversations",
+      "sensibilité aux compliments — répond avec plus de chaleur et d'ouverture",
+      "minimisation légère pour attirer le compliment — attente de la contradiction",
+      "anecdotes qui le positionnent favorablement, même indirectement"
+    ],
+
+    "comportements": [
+      "investissement important dans l'image — vêtements, photos, présence sociale",
+      "comparaison discrète avec les autres",
+      "inconfort si quelqu'un éclipse sa présence",
+      "peut être généreux si ça renforce une image de générosité",
+      "peut être blessant sans le vouloir — ses préoccupations propres éclipsent celles des autres"
+    ],
+
+    "masquesPossibles": [
+      "humilité de surface pour attirer davantage de compliments",
+      "altruisme performatif",
+      "fausse indifférence à l'apparence — 'je ne fais aucun effort'"
+    ],
+
+    "evolutionsPossibles": [
+      "effondrement si la source d'admiration se tarit",
+      "maturation vers une fierté moins dépendante du regard",
+      "manipulation si la vanité s'accompagne d'intelligence stratégique",
+      "vulnérabilité inattendue si le personnage est soudain invisible"
+    ],
+
+    "contextesAggravants": [
+      "contexte compétitif où l'attention est un enjeu",
+      "présence de quelqu'un qui attire davantage l'attention",
+      "critique publique même légère"
+    ],
+
+    "contextesAttenuants": [
+      "admiration sincère et inconditionnelle",
+      "succès récent qui stabilise l'estime de soi",
+      "relation intime où la performance n'est pas nécessaire"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Coquetterie légère", "description": "Attention à l'apparence, plaisir des compliments. Sans dépendance." },
+      { "niveau": 2, "label": "Souci du regard", "description": "Le regard des autres importe. Le personnage s'y adapte souvent." },
+      { "niveau": 3, "label": "Vanité marquée", "description": "L'image est centrale. Les compliments et critiques ont un impact fort." },
+      { "niveau": 4, "label": "Dépendance à l'admiration", "description": "Le bien-être est conditionné au regard positif des autres." },
+      { "niveau": 5, "label": "Narcissisme", "description": "Tout est subordonné à l'image et à l'admiration. Les autres n'existent que comme miroir." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage conscient de sa vanité",
+        "description": "La combat ou l'accepte selon les moments. Sa lucidité crée une distance ironique avec lui-même."
+      },
+      {
+        "profil": "Personnage qui ne la reconnaît pas",
+        "description": "Pense sincèrement mériter l'attention qu'il cherche. La critique de sa vanité le blesse comme une injustice."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La vanité est souvent comique quand elle est légère, tragique quand elle est profonde.",
+      "À ne pas unidimensionnaliser — la vanité protège souvent une estime de soi fragile.",
+      "Le personnage vaniteux révèle beaucoup de lui-même précisément dans ce qu'il cherche à montrer."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_masquer", "cible": "insecurite" },
+      { "type": "peut_evoluer_en", "cible": "narcissisme" },
+      { "type": "souvent_associe_a", "cible": "besoin-de-validation" }
+    ]
+  },
+  {
+    "id": "honte-de-soi",
+    "label": "Honte de soi",
+    "famille": "honte-culpabilite",
+    "definitionCourte": "Sentiment profond d'être fondamentalement déficient, inférieur ou indigne — non pas à cause d'un acte précis mais à cause de ce qu'on est.",
+
+    "signesPhysiques": [
+      "posture effondrée en privé — redressée par effort en public",
+      "regard qui se baisse instinctivement",
+      "voix qui manque de conviction",
+      "difficulté à recevoir un compliment — le corps résiste",
+      "mouvements qui s'excusent d'occuper l'espace",
+      "sourire qui ne dure pas — comme si la joie ne lui était pas permise",
+      "contact visuel difficile avec des figures d'autorité"
+    ],
+
+    "sensationsInternes": [
+      "impression d'être moins que les autres — sans raison précise, juste un fond",
+      "malaise de fond à être soi",
+      "sentiment que les autres voient quelque chose de faux ou de déficient en lui",
+      "douleur diffuse lors des comparaisons — même favorables",
+      "fatigue de se maintenir à un niveau qui semble insuffisant"
+    ],
+
+    "pensees": [
+      "Je ne mérite pas ça.",
+      "Si ils savaient vraiment qui je suis.",
+      "Je suis une fraude.",
+      "Les autres sont mieux que moi.",
+      "Quelque chose ne va pas chez moi.",
+      "Je n'aurais pas dû naître dans cette famille."
+    ],
+
+    "effetsVoixLangage": [
+      "minimisation systématique de ses propres mérites",
+      "difficulté à formuler des opinions avec assurance",
+      "apologétique — s'excuse souvent sans raison",
+      "tend à se référencer négativement",
+      "répond aux compliments par des négations — 'ce n'est pas vraiment moi'"
+    ],
+
+    "comportements": [
+      "sabote parfois ses propres réussites — ne se permet pas de réussir",
+      "accepte des situations indígnes de lui",
+      "met très haut la barre pour les autres mais très bas pour lui-même",
+      "fuit les contextes où il pourrait être admiré",
+      "évite les relations intimes par peur d'être vraiment connu"
+    ],
+
+    "masquesPossibles": [
+      "arrogance défensive — l'attaque avant qu'on l'attaque",
+      "perfectionisme extrême pour compenser le sentiment d'être insuffisant",
+      "humour autodépréciatif constant",
+      "retrait total pour n'exposer personne à ce qu'il est"
+    ],
+
+    "evolutionsPossibles": [
+      "thérapie ou relation qui démantèle progressivement la honte de soi",
+      "effondrement si la honte est trop longtemps portée seul",
+      "révolte — refus brusque de se diminuer encore",
+      "sublimation par l'action — créer quelque chose qui justifie d'exister"
+    ],
+
+    "contextesAggravants": [
+      "comparaison explicite à un autre jugé supérieur",
+      "rejet ou abandon par quelqu'un d'important",
+      "famille d'origine qui a transmis cette honte",
+      "milieu social qui confirme une infériorité"
+    ],
+
+    "contextesAttenuants": [
+      "relation où le personnage est reçu tel qu'il est",
+      "succès obtenu par ses propres moyens",
+      "quelqu'un qui nomme et invalide la honte de soi"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère insuffisance ressentie", "description": "Le personnage ne se sent pas toujours à la hauteur. Ne domine pas." },
+      { "niveau": 2, "label": "Doute de valeur", "description": "Revient souvent, colore certaines relations et décisions." },
+      { "niveau": 3, "label": "Honte de soi marquée", "description": "Présente dans de nombreuses interactions. Freine l'expression de soi." },
+      { "niveau": 4, "label": "Sentiment d'indignité", "description": "Le personnage se voit comme fondamentalement moins que les autres." },
+      { "niveau": 5, "label": "Honte toxique", "description": "Envahissante. Le personnage ne peut pas se concevoir comme méritant quoi que ce soit de bien." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage issu d'une famille dysfonctionnelle",
+        "description": "La honte de soi a été transmise, apprise, parfois explicitement enseignée. Elle est si ancienne qu'elle semble naturelle."
+      },
+      {
+        "profil": "Personnage qui réussit malgré lui",
+        "description": "Malgré des réussites visibles, le personnage ne peut pas les intégrer. L'écart entre ce que les autres voient et ce qu'il ressent est source de vertige."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Distinguer de la honte ordinaire : la honte de soi ne porte pas sur un acte mais sur l'être — c'est plus profond et plus difficile à résoudre.",
+      "Ce personnage est souvent plus bienveillant avec les autres qu'avec lui-même — ce contraste peut être narrativement riche.",
+      "À ne pas confondre avec l'humilité, qui est consciente et choisie."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_masquer", "cible": "arrogance-defensive" },
+      { "type": "peut_evoluer_en", "cible": "retrait" },
+      { "type": "souvent_associe_a", "cible": "auto-sabotage" }
+    ]
+  },
+  {
+    "id": "humilite",
+    "label": "Humilité",
+    "famille": "fierte-confiance",
+    "definitionCourte": "Conscience claire de ses limites et de ses erreurs, sans se diminuer pour autant. L'humilité est une fierté qui sait douter — elle n'est pas de la faiblesse mais de la lucidité.",
+
+    "signesPhysiques": [
+      "écoute attentive sans interrompre",
+      "regard qui se pose sur l'autre franchement, sans domination",
+      "posture ouverte et détendue — pas de posture de défense",
+      "sourire qui reconnaît quand il a tort — sans aigreur",
+      "gestes calmes qui ne cherchent pas à impressionner",
+      "absence de mise en scène de soi dans les interactions",
+      "capacité à se taire quand quelqu'un d'autre parle mieux"
+    ],
+
+    "sensationsInternes": [
+      "confort dans le fait de ne pas tout savoir",
+      "légèreté à reconnaître une erreur — ça ne menace pas",
+      "curiosité sincère face à ce qu'on ne comprend pas encore",
+      "satisfaction de comprendre quelque chose grâce à l'autre",
+      "absence du besoin constant de prouver"
+    ],
+
+    "pensees": [
+      "Je ne sais pas tout.",
+      "Il a peut-être raison.",
+      "J'aurais pu mieux faire.",
+      "Qu'est-ce que je peux apprendre ici ?",
+      "Je n'ai pas besoin d'avoir l'air d'avoir raison.",
+      "Ce n'est pas une honte d'avoir besoin d'aide."
+    ],
+
+    "effetsVoixLangage": [
+      "reconnaît ses erreurs simplement, sans surjeu",
+      "formulations qui laissent de la place à la nuance",
+      "questions sincères — pas pour performer l'humilité",
+      "valorise les contributions des autres naturellement",
+      "ne minimise pas non plus ses propres compétences — juste les place sans emphase"
+    ],
+
+    "comportements": [
+      "demande de l'aide sans en faire un acte de bravoure",
+      "attribue les réussites à plusieurs contributeurs",
+      "ne monopolise pas la parole dans les contextes collectifs",
+      "accepte la critique sans se défendre systématiquement",
+      "peut surprendre par la qualité de sa présence — l'humilité est souvent magnétique"
+    ],
+
+    "masquesPossibles": [
+      "humilité de surface pour gagner de la sympathie — pas de vrai doute",
+      "autodestruction sous couvert d'humilité",
+      "humilité stratégique — technique de négociation"
+    ],
+
+    "evolutionsPossibles": [
+      "confiance mature — l'humilité et la confiance coexistent",
+      "exploitation si le personnage n'est pas dans un milieu qui la respecte",
+      "renforcement par les expériences — chaque erreur reconnue l'ancre davantage"
+    ],
+
+    "contextesAggravants": [
+      "contexte très compétitif qui pénalise l'humilité",
+      "entourage qui confond humilité et faiblesse",
+      "besoin pressant de prouver — deadline, enjeu vital"
+    ],
+
+    "contextesAttenuants": [
+      "contexte bienveillant où l'apprentissage est valorisé",
+      "relation de confiance qui peut recevoir l'humilité sans l'exploiter"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Modestie légère", "description": "Ne se met pas en avant inutilement." },
+      { "niveau": 2, "label": "Humilité ordinaire", "description": "Reconnaît ses erreurs. N'a pas besoin de dominer." },
+      { "niveau": 3, "label": "Humilité réelle", "description": "Cherche activement à apprendre des autres, y compris de ceux qu'il pourrait surpasser." },
+      { "niveau": 4, "label": "Humilité profonde", "description": "Sa conscience de ses limites est une force — il construit sur ce fondement." },
+      { "niveau": 5, "label": "Humilité totale", "description": "Peut frôler l'effacement de soi — à nuancer selon si elle est saine ou non." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage très compétent",
+        "description": "L'humilité chez ce personnage est surprenante et crédible. Elle ne vient pas du manque mais du surplus — il n'a pas besoin de prouver."
+      },
+      {
+        "profil": "Personnage en apprentissage",
+        "description": "L'humilité est naturelle à ce stade — il sait qu'il ne sait pas. Elle peut évoluer vers la confiance ou vers la dépendance selon le contexte."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'humilité authentique est rare et difficile à écrire sans la rendre naïve ou moralisatrice.",
+      "Elle est plus convaincante montrée par des comportements spécifiques que déclarée.",
+      "Un personnage humble qui se trompe fait rarement l'objet de moquerie — ce contraste est intéressant."
+    ],
+
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "confiance" },
+      { "type": "peut_masquer", "cible": "peur-de-devoir" },
+      { "type": "peut_evoluer_en", "cible": "confiance-mature" }
+    ]
+  }
+]

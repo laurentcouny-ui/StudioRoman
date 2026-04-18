@@ -1,0 +1,708 @@
+[
+  {
+    "id": "cage-escalier-hlm",
+    "label": "Cage d'escalier de HLM",
+    "type": "urbain-logement",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "murs en béton peints d'un blanc jauni par les années",
+      "rampe métallique froide aux poignées usées et grasses",
+      "boîtes aux lettres alignées au rez-de-chaussée, certaines sans nom",
+      "sol en carrelage gris fissuré aux joints noircis",
+      "néons qui clignotent par intermittence ou restent éteints",
+      "tags et graffitis effacés à moitié sur les paliers",
+      "vélos enchaînés aux tuyaux dans les recoins",
+      "porte coupe-feu en métal vert déjà bosselée"
+    ],
+    "bruits": [
+      "écho amplifié des pas sur les marches en béton",
+      "claquement de porte qui rebondit dans tout l'immeuble",
+      "voix étouffées filtrant à travers les cloisons minces",
+      "ronronnement de l'ascenseur en panne ou en marche laborieuse",
+      "pleurs d'un enfant deux étages plus haut"
+    ],
+    "odeurs": [
+      "mélange de cuisine épicée venant de plusieurs appartements",
+      "humidité persistante dans les angles mal ventilés",
+      "odeur de tabac froid incrustée dans le béton",
+      "détergent bon marché utilisé par les agents d'entretien"
+    ],
+    "textures": [
+      "rampe métallique légèrement poisseuse sous la main",
+      "mur rugueux dont la peinture s'écaille en plaques",
+      "carrelage froid à travers les semelles fines"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'enfermement malgré le passage",
+      "vigilance automatique face à l'inconnu qui monte",
+      "familiarité sans chaleur, reconnaissance sans lien",
+      "malaise discret devant la promiscuité involontaire"
+    ],
+    "usagesNarratifs": [
+      "lieu de rencontre ou d'évitement entre voisins",
+      "espace de transition où un personnage reporte un moment difficile",
+      "scène de guet-apens ou de filature dans un cadre banal",
+      "révélateur des rapports de force dans un immeuble"
+    ],
+    "tensionsTypiques": [
+      "voisin qu'on ne veut pas croiser attendu à tout moment",
+      "présence d'un inconnu qu'on ne reconnaît pas",
+      "odeur ou bruit qui laisse deviner ce qui se passe derrière les portes",
+      "lumière défaillante qui rend le trajet incertain la nuit"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Résident de longue date",
+        "description": "Ne voit plus les murs, traverse machinalement. Repère immédiatement l'anomalie — un inconnu, une porte entrouverte, une odeur nouvelle. La cage d'escalier est un baromètre social qu'il lit sans y penser."
+      },
+      {
+        "profil": "Visiteur extérieur",
+        "description": "Éprouve une gêne diffuse face à la promiscuité, à l'usure visible, à l'absence d'intimité. Cherche rapidement le bon étage, évite les contacts. L'immeuble lui semble oppressant ou mélancolique selon son propre rapport à la précarité."
+      },
+      {
+        "profil": "Enfant du quartier",
+        "description": "Connaît chaque recoin, chaque palier comme un terrain de jeu ou un raccourci. L'escalier est familier, parfois refuge, parfois lieu de bande. Les dangers que les adultes perçoivent lui sont souvent invisibles."
+      }
+    ],
+    "notesEditoriales": [
+      "Éviter la caricature misérabiliste : la cage d'escalier de HLM est d'abord un lieu ordinaire de vie partagée, pas un décor de désolation.",
+      "Un détail précis — un nom écrit au feutre sur une boîte aux lettres, un paillasson personnalisé — suffit à humaniser le lieu sans le romancer.",
+      "L'acoustique y est particulièrement forte : les sons traversent, les conversations portent. C'est un excellent dispositif pour faire entendre ce qu'on ne devrait pas."
+    ]
+  },
+  {
+    "id": "palier-immeuble-ancien",
+    "label": "Palier d'immeuble haussmannien",
+    "type": "urbain-logement",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "tomettes hexagonales rouge sombre au sol, usées au centre du passage",
+      "porte en bois massif avec heurtoir en cuivre terni",
+      "paillasson en coco effiloché aux bords",
+      "applique murale en laiton avec ampoule trop faible",
+      "miroir biseauté encadré de boiseries sombres",
+      "boîte aux lettres en laiton encastrée dans le mur",
+      "plafond haut avec une moulure de plâtre légèrement fissurée",
+      "vide-ordures condamné dont la trappe reste visible"
+    ],
+    "bruits": [
+      "craquement du parquet derrière la porte voisine",
+      "sonnette d'appartement dont le timbre résonne dans le couloir",
+      "glissement d'une lettre sous la porte",
+      "voix assourdie d'une radio ou d'une télévision"
+    ],
+    "odeurs": [
+      "cire de parquet ancienne mêlée à la poussière",
+      "parfum persistant d'un voisin qui vient de sortir",
+      "odeur légère de renfermé venue du puits de lumière",
+      "cuisine du soir qui monte depuis l'étage inférieur"
+    ],
+    "textures": [
+      "rampe en fer forgé dont le vernis s'est patiné",
+      "porte massive qui résiste légèrement avant de s'ouvrir",
+      "tomette lisse au centre et rugueuse en bordure"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'être entre deux mondes, ni dedans ni dehors",
+      "discrétion imposée par la proximité des autres portes",
+      "nostalgie diffuse d'un passé bourgeois imaginé",
+      "tension de l'attente devant une sonnette qu'on hésite à presser"
+    ],
+    "usagesNarratifs": [
+      "espace de confrontation feutrée entre voisins de palier",
+      "lieu de décision : entrer ou repartir",
+      "révélateur du statut social par contraste ou appartenance",
+      "cadre d'une confidence chuchotée à la dernière seconde"
+    ],
+    "tensionsTypiques": [
+      "porte voisine entrouverte sur une conversation qu'on entend malgré soi",
+      "présence d'un visiteur attendu depuis trop longtemps",
+      "lettre ou colis posé devant une porte — signe de vie ou d'absence",
+      "voisin de palier croisé à une heure inhabituelle"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Propriétaire occupant de longue date",
+        "description": "Voit le palier comme une extension de son territoire. Surveille discrètement ce qui s'y passe, remarque la moindre modification. La présence d'un inconnu l'irrite ou l'inquiète sans qu'il le montre."
+      },
+      {
+        "profil": "Locataire récent",
+        "description": "Navigue encore avec prudence, cherche à ne pas faire de bruit, sourit trop vite aux voisins inconnus. Le palier est un terrain social où les codes ne sont pas encore lus."
+      },
+      {
+        "profil": "Visiteur amoureux ou clandestin",
+        "description": "Ressent chaque son comme un danger. L'ascenseur qui arrive, la porte qui grince, le pas dans l'escalier — tout devient signal. Le palier est le lieu de la plus grande vulnérabilité."
+      }
+    ],
+    "notesEditoriales": [
+      "Le palier haussmannien fonctionne comme un sas social : il dit beaucoup de l'immeuble sans montrer les appartements.",
+      "Attention à ne pas en faire un simple décor de thriller — il est surtout un espace de cohabitation contrainte entre des mondes qui s'ignorent.",
+      "La lumière trop faible de l'applique crée naturellement une tension visuelle à exploiter dans les scènes nocturnes."
+    ]
+  },
+  {
+    "id": "studio-etudiant",
+    "label": "Studio étudiant",
+    "type": "urbain-logement",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "lit deux places comprimé contre un mur, couverture froissée",
+      "bureau étroit encombré de feuilles, de tasses et d'un câble chargeur emmêlé",
+      "kitchenette réduite à deux plaques et un évier peu profond",
+      "fenêtre donnant sur un mur d'en face ou sur une cour intérieure",
+      "étagères en planches et parpaings chargées de livres et de vêtements",
+      "salle de bain minuscule où le miroir est trop petit",
+      "tapis usé récupéré ou acheté au marché",
+      "affiche de film ou de concert collée directement au mur"
+    ],
+    "bruits": [
+      "ronronnement du frigidaire dans le silence de la nuit",
+      "bruit de pas au-dessus, très audible sur le plancher ancien",
+      "alarme de téléphone à heure fixe, récurrente",
+      "musique filtrée depuis l'appartement voisin",
+      "sonnette de vélo dans la rue en contrebas"
+    ],
+    "odeurs": [
+      "mélange de nourriture réchauffée et de linge séché en intérieur",
+      "légère humidité dans la salle de bain sans ventilation",
+      "parfum ou déodorant mêlé à l'air stagnant",
+      "papier, livres et poussière sur les étagères surchargées"
+    ],
+    "textures": [
+      "couverture polyester légèrement piquante contre la peau",
+      "bureau stratifié tiède sous les coudes posés dessus",
+      "poignée de porte qui tourne un peu trop librement"
+    ],
+    "emotionsTypiques": [
+      "liberté fragile mêlée de solitude",
+      "tension chronique de fin de mois",
+      "sentiment de transition permanente, de rien qui dure",
+      "intimité intense dans un espace trop petit pour la cacher"
+    ],
+    "usagesNarratifs": [
+      "lieu où un personnage réapprend à vivre seul ou pour la première fois",
+      "espace de crise : la taille du lieu amplifie l'état intérieur",
+      "décor d'une rencontre intime dans un cadre précaire",
+      "révélateur de la situation économique sans le dire explicitement"
+    ],
+    "tensionsTypiques": [
+      "impossibilité de fuir ou de s'isoler dans un si petit espace",
+      "cohabitation difficile si deux personnes s'y retrouvent souvent",
+      "accumulation d'objets qui révèle les priorités et les abandons",
+      "loyer trop élevé pour ce que le lieu offre"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Étudiant qui y habite",
+        "description": "A domestiqué chaque centimètre, connaît le sens de chaque désordre. Éprouve à la fois de la fierté pour son espace à lui et une lassitude face à ses limites. Ne le voit plus tel qu'il est."
+      },
+      {
+        "profil": "Parent en visite",
+        "description": "Voit d'abord l'étroitesse et l'inconfort. Retient ses remarques ou ne les retient pas. Cherche un endroit pour poser son manteau, ne le trouve pas. L'inquiétude se glisse entre les meubles."
+      },
+      {
+        "profil": "Ami de passage qui n'a jamais quitté le domicile familial",
+        "description": "Mélange d'admiration pour l'indépendance et de malaise devant la précarité visible. Le studio lui semble à la fois romantique et invivable."
+      }
+    ],
+    "notesEditoriales": [
+      "Le studio fonctionne comme un révélateur émotionnel : ce qu'on y cache ou expose dit plus que les dialogues.",
+      "Résister à l'envie de le décrire en entier — choisir deux ou trois détails précis qui disent l'ensemble.",
+      "La taille crée une dramaturgie naturelle : deux personnages en conflit dans un studio n'ont nulle part où aller."
+    ]
+  },
+  {
+    "id": "chambre-de-bonne",
+    "label": "Chambre de bonne",
+    "type": "urbain-logement",
+    "dominanteSensorielle": "tactile-visuel",
+    "elements": [
+      "plafond mansardé si bas qu'on ne peut se tenir droit qu'au centre",
+      "lucarne donnant sur les toits de zinc et les cheminées",
+      "sol en lino usé ou parquet brut mal poncé",
+      "lavabo encastré dans le mur, robinet qui goutte",
+      "radiateur en fonte qui claque en chauffant, insuffisant par grand froid",
+      "lit de camp ou matelas sur cadre étroit, repoussé contre un mur",
+      "crochet ou barre de penderie en guise de placard",
+      "murs peints d'un blanc cassé avec les traces des occupants précédents"
+    ],
+    "bruits": [
+      "vent sous la lucarne imparfaitement jointée",
+      "pas des voisins sur le parquet fin dans la chambre adjacente",
+      "canalisation qui vibre dans le mur la nuit",
+      "sonnerie lointaine d'ascenseur ou de porte palière"
+    ],
+    "odeurs": [
+      "odeur de vieux bois chauffé par le soleil d'été",
+      "humidité persistante après la pluie sur les toits",
+      "odeur propre de détergent tentant de couvrir l'ancien",
+      "cuisine collective depuis le couloir de service"
+    ],
+    "textures": [
+      "mur rugueux dont la peinture s'effrite si on l'effleure",
+      "lucarne froide au toucher en hiver, brûlante en été",
+      "parquet qui fléchit légèrement sous le pied au même endroit"
+    ],
+    "emotionsTypiques": [
+      "solitude concentrée, presque physique",
+      "sentiment d'être hors du monde, suspendu au-dessus de lui",
+      "précarité vécue comme provisoire ou définitive selon les personnages",
+      "calme étrange loin du bruit des étages inférieurs"
+    ],
+    "usagesNarratifs": [
+      "refuge d'un personnage qui cache sa situation",
+      "espace de repli après une rupture ou une perte",
+      "lieu d'un secret — la hauteur et l'isolement protègent",
+      "décor de la pauvreté choisie ou subie dans un quartier aisé"
+    ],
+    "tensionsTypiques": [
+      "chaleur insupportable l'été sous les toits",
+      "froid qui s'infiltre en hiver malgré le chauffage",
+      "isolement qui peut basculer dans l'enfermement",
+      "promiscuité sonore avec les voisins de couloir"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Occupant précaire",
+        "description": "Vit dans un équilibre fragile entre gratitude d'avoir un toit et douleur de n'avoir que ça. Chaque bruit devient intime par nécessité. La lucarne est la seule ouverture au monde — elle prend une valeur démesurée."
+      },
+      {
+        "profil": "Artiste ou écrivain qui l'a choisi",
+        "description": "Romanticise le dénuement. Voit dans l'étroitesse une forme de concentration, dans la vue sur les toits une liberté. Peut se permettre de ne pas voir le reste."
+      },
+      {
+        "profil": "Propriétaire qui y monte rarement",
+        "description": "Entre avec un peu de gêne, constate l'usure sans vraiment la voir, repart vite. Le lieu lui est presque abstrait — il ne l'habite que dans les papiers."
+      }
+    ],
+    "notesEditoriales": [
+      "La chambre de bonne est un des lieux les plus chargés symboliquement de la littérature française — à manier avec conscience de cet héritage.",
+      "La vue sur les toits est à la fois la principale richesse et le signe de la marginalisation : utiliser cette ambiguïté.",
+      "Préférer un seul détail très physique — la hauteur du plafond, la lucarne, le radiateur — plutôt qu'une liste exhaustive."
+    ]
+  },
+  {
+    "id": "appartement-de-luxe",
+    "label": "Appartement de luxe",
+    "type": "urbain-logement",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "parquet en chêne massif ciré, qui ne craque pas",
+      "baies vitrées donnant sur une vue dégagée ou un jardin privé",
+      "cuisine ouverte avec plan de travail en marbre ou en pierre naturelle",
+      "éclairage indirect encastré dans les faux plafonds",
+      "mobilier sobre et coûteux, chaque objet à sa place",
+      "salle de bain en carrelage grand format avec douche à l'italienne",
+      "bouquet de fleurs fraîches sur une console — signe de personnel ou d'attention",
+      "interphone avec écran, serrure à code ou domosys"
+    ],
+    "bruits": [
+      "silence épais, presque total, que les doubles vitrages préservent",
+      "cliquetis discret du système de ventilation centralisée",
+      "sonnerie de l'interphone en bas, feutrée",
+      "musique diffusée par un système audio intégré, sans source visible"
+    ],
+    "odeurs": [
+      "légère odeur de cire ou de produit d'entretien de qualité",
+      "bougie parfumée dans l'entrée ou le salon",
+      "fleurs coupées dont le parfum se répand dans l'espace ouvert",
+      "absence presque totale d'odeurs alimentaires ou corporelles"
+    ],
+    "textures": [
+      "parquet lisse et légèrement frais sous les pieds nus",
+      "plan de travail en marbre froid au toucher",
+      "canapé en cuir ou en tissu de qualité qui ne résiste pas à l'assise"
+    ],
+    "emotionsTypiques": [
+      "sentiment de légèreté lié à l'espace et à la lumière",
+      "confort engourdissant qui étouffe certaines pensées",
+      "malaise discret pour qui n'y est pas habitué",
+      "sentiment de protection ou d'invulnérabilité illusoire"
+    ],
+    "usagesNarratifs": [
+      "décor qui révèle la distance entre personnages de milieux différents",
+      "espace où le conflit prend une forme feutrée, contenue",
+      "lieu d'un vide existentiel malgré l'abondance matérielle",
+      "décor de confrontation entre héritiers ou entre partenaires"
+    ],
+    "tensionsTypiques": [
+      "silence qui amplifie les non-dits",
+      "espace trop grand pour la solitude qu'il contient",
+      "présence d'un personnel ou d'un prestataire qui observe sans être vu",
+      "rupture entre l'ordre affiché et le désordre intérieur du personnage"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Propriétaire habitué",
+        "description": "Ne voit plus le luxe — c'est simplement son cadre. Remarque l'imperfection infime : un verre mal rangé, une tache sur le marbre. La perfection est normale, la moindre défaillance devient visible."
+      },
+      {
+        "profil": "Visiteur d'un autre milieu",
+        "description": "Ressent une gêne physique à toucher les objets, à s'asseoir. Cherche où poser son manteau, hésite. Le lieu lui parle d'un écart social qu'il préférerait ignorer."
+      },
+      {
+        "profil": "Personnel de maison ou prestataire",
+        "description": "Voit les zones de travail, les angles poussiéreux, les défauts cachés. Connaît les habitudes des occupants sans les connaître. Le luxe lui est devenu neutre, presque transparent."
+      }
+    ],
+    "notesEditoriales": [
+      "L'appartement de luxe n'est pas un décor de récompense : c'est souvent un lieu d'enfermement doré, à utiliser comme tel.",
+      "Le silence y est un personnage à part entière — il pèse différemment selon l'état émotionnel du personnage.",
+      "Éviter l'inventaire de marques ou de prix : les détails de qualité se disent par la matière et la lumière, pas par les étiquettes."
+    ]
+  },
+  {
+    "id": "foyer-travailleurs",
+    "label": "Foyer de travailleurs",
+    "type": "urbain-logement",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "couloir long avec portes identiques numérotées au marqueur",
+      "tableau d'affichage avec règlement intérieur et horaires du réfectoire",
+      "salle commune avec télévision fixée en hauteur et chaises en plastique",
+      "cabines téléphoniques ou téléphones partagés dans un recoin",
+      "douches collectives avec rideaux en plastique dépareillés",
+      "chambre individuelle minuscule avec lit, armoire métal et bureau",
+      "photos de famille punaisées sur le mur au-dessus du lit",
+      "fenêtre donnant sur la cour intérieure ou sur un mur"
+    ],
+    "bruits": [
+      "va-et-vient constant dans le couloir à toutes heures",
+      "télévision collective allumée même sans spectateur",
+      "conversations en plusieurs langues qui se mêlent",
+      "alarme de réveil très tôt le matin dans les chambres voisines",
+      "son d'un téléphone qui sonne longtemps avant d'être décroché"
+    ],
+    "odeurs": [
+      "mélange de cuisines diverses venues de la salle commune",
+      "produit désinfectant des couloirs passé chaque matin",
+      "vêtements de travail légèrement humides sur un crochet",
+      "tabac froid dans les zones fumeurs ou aux abords de l'entrée"
+    ],
+    "textures": [
+      "draps fins et rigides d'un blanc lavé trop souvent",
+      "poignée de porte en métal poli par des milliers de passages",
+      "mur carrelé des douches froid et légèrement glissant"
+    ],
+    "emotionsTypiques": [
+      "solitude collective — on n'est jamais seul mais jamais vraiment ensemble",
+      "nostalgie d'un autre endroit, d'une autre vie",
+      "attente du week-end ou du retour au pays",
+      "solidarité discrète entre gens du même couloir"
+    ],
+    "usagesNarratifs": [
+      "lieu de rencontre entre personnages venus de loin, de cultures différentes",
+      "espace qui révèle ce qu'on a laissé derrière soi",
+      "décor d'une solitude vécue au milieu d'autres",
+      "cadre d'une confidence inattendue entre deux inconnus"
+    ],
+    "tensionsTypiques": [
+      "manque d'intimité total qui use sur la durée",
+      "tension latente entre résidents de cultures différentes",
+      "règlement intérieur ressenti comme une contrainte supplémentaire",
+      "nouvelle arrivée qui déplace les équilibres existants"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Résident de longue date",
+        "description": "A organisé sa chambre au millimètre pour en faire son territoire. Connaît tous les rythmes du foyer, les humeurs de chaque couloir. La promiscuité est devenue son environnement normal."
+      },
+      {
+        "profil": "Nouvel arrivant",
+        "description": "Déposé dans une chambre identique à toutes les autres avec une clé et un règlement. Cherche un visage familier, un signe de bienvenue. Le foyer est à la fois refuge et dépossession."
+      },
+      {
+        "profil": "Travailleur social ou agent du foyer",
+        "description": "Voit les situations, les demandes, les tensions. Connaît des histoires entières derrière chaque porte. La distance professionnelle lui coûte ou le protège selon les jours."
+      }
+    ],
+    "notesEditoriales": [
+      "Le foyer de travailleurs est un lieu de vie complet, pas seulement un dortoir — y montrer des habitudes, des rituels, des liens.",
+      "La photo punaisée au mur est souvent le seul signe de vie intérieure visible : ne pas la négliger.",
+      "Éviter l'exoticisation ou le misérabilisme : les résidents y vivent, s'y adaptent, y créent des liens — parfois des liens forts."
+    ]
+  },
+  {
+    "id": "squat-urbain",
+    "label": "Squat urbain",
+    "type": "urbain-marge",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "fenêtres condamnées par des planches ou du contreplaqué décloué",
+      "sol jonché de matelas, de couvertures, de sacs de couchage",
+      "murs couverts de tags, d'affiches et de dessins au fusain",
+      "câbles électriques dérivés depuis un compteur ou passés par la fenêtre",
+      "espace commun avec caisses en guise de tables et chaises récupérées",
+      "coins aménagés avec tissu ou carton pour créer une forme d'intimité",
+      "réchaud à gaz ou plaque chauffante sur une surface stable",
+      "tas de vêtements, de livres, d'objets récupérés dans des sacs"
+    ],
+    "bruits": [
+      "pas sur un plancher dont les lames bougent",
+      "discussion à voix basse dans un coin, en continu",
+      "bruit de rue amplifié par les fenêtres mal fermées",
+      "chien qui tourne, qui gratte, qui s'allonge",
+      "musique depuis un téléphone posé à plat, saturée"
+    ],
+    "odeurs": [
+      "humidité froide des murs non chauffés",
+      "cendre de cigarette et tabac roulé",
+      "nourriture préparée en espace confiné",
+      "odeur de corps et de vêtements rarement lavés, sans être écrasante"
+    ],
+    "textures": [
+      "sol inégal sous les matelas, dur ou souple selon le support",
+      "mur dont l'enduit s'effrite au moindre contact",
+      "couverture épaisse et rugueuse, parfois humide au toucher"
+    ],
+    "emotionsTypiques": [
+      "sentiment de liberté fragile, toujours menacée",
+      "solidarité forte dans un groupe qui se construit ses propres règles",
+      "vigilance permanente face au risque d'expulsion",
+      "ambiguïté entre refuge et précarité vécue au quotidien"
+    ],
+    "usagesNarratifs": [
+      "espace d'accueil d'un personnage qui n'a nulle part où aller",
+      "lieu de rencontre entre des trajectoires très différentes",
+      "décor d'une organisation collective ou d'un conflit interne",
+      "révélateur des marges urbaines invisibles au récit principal"
+    ],
+    "tensionsTypiques": [
+      "menace constante d'expulsion par les forces de l'ordre ou le propriétaire",
+      "conflit sur les règles internes du lieu partagé",
+      "arrivée d'un inconnu qui déstabilise le groupe",
+      "dépendance à l'alcool ou à la drogue chez certains membres"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Occupant engagé politiquement",
+        "description": "Vit le squat comme une forme de résistance urbaine et d'expérimentation sociale. Voit les règles collectives comme un projet, pas comme une contrainte. Défend le lieu avec une conviction militante."
+      },
+      {
+        "profil": "Occupant par nécessité",
+        "description": "Est là parce qu'il n'a pas d'autre option. Souffre de l'instabilité mais n'en parle pas. Cherche une sortie sans savoir laquelle. Le squat est un seuil, pas une destination."
+      },
+      {
+        "profil": "Journaliste ou outsider qui visite",
+        "description": "Navigue entre fascination et malaise. Cherche à observer sans déranger, y parvient mal. Ramène une image simplifiée — romantique ou alarmiste selon son regard."
+      }
+    ],
+    "notesEditoriales": [
+      "Le squat n'est pas un décor exotique : y montrer des routines, des règles, des tensions internes donne plus de vérité qu'une description d'atmosphère.",
+      "La menace d'expulsion peut rester hors-champ et n'en peser que plus lourdement sur les personnages.",
+      "Éviter l'uniformisation des occupants : un squat urbain réunit souvent des profils très divers avec des raisons d'être là très différentes."
+    ]
+  },
+  {
+    "id": "pavillon-de-banlieue",
+    "label": "Pavillon de banlieue",
+    "type": "urbain-logement",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "façade en crépi beige ou gris avec volets de couleur coordonnée",
+      "petit jardin de devant délimité par une barrière basse ou une haie taillée",
+      "allée de carrelage ou de gravier depuis le portail jusqu'à la porte",
+      "garage intégré dont la porte automatique est la première chose qu'on entend",
+      "jardin de derrière avec terrasse, barbecue et quelques arbres fruitiers",
+      "salon donnant sur le jardin avec baie vitrée coulissante",
+      "cuisine équipée avec table familiale centrale",
+      "boîte aux lettres sur le portail avec le nom de famille en lettres adhésives"
+    ],
+    "bruits": [
+      "tondeuse d'un voisin le dimanche matin",
+      "aboiements d'un chien dans le jardin d'à côté",
+      "portière de voiture qui claque dans l'allée",
+      "télévision allumée dans le salon avec volume de fond",
+      "enfants qui jouent dans la rue ou dans le jardin"
+    ],
+    "odeurs": [
+      "herbe coupée fraîche en été",
+      "barbecue et viande grillée le week-end",
+      "produit lave-vaisselle en fin de soirée",
+      "jardin mouillé après la pluie"
+    ],
+    "textures": [
+      "gravier de l'allée sous les semelles",
+      "haie légèrement piquante si on la frôle",
+      "terrasse en béton chaud sous les pieds nus l'été"
+    ],
+    "emotionsTypiques": [
+      "sentiment de normalité — ni misère ni luxe, mais la vie telle qu'elle devrait être",
+      "ennui discret qui se confond avec la sécurité",
+      "fierté discrète du propriétaire pour son bien",
+      "sentiment d'enfermement dans un horizon trop prévisible"
+    ],
+    "usagesNarratifs": [
+      "décor du quotidien familial où la tension couve sous la normalité",
+      "espace de la vie ordinaire dont un personnage cherche à s'échapper",
+      "lieu d'un retour — après des années ailleurs, qu'est-ce qui a changé ?",
+      "révélateur des compromis d'une vie construite sur des choix raisonnables"
+    ],
+    "tensionsTypiques": [
+      "voisinage trop proche qui surveille sans le dire",
+      "tension conjugale ou familiale que les murs minces ne suffisent pas à étouffer",
+      "désir d'ailleurs contre la sécurité du connu",
+      "événement extérieur qui vient troubler la routine du quartier"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Propriétaire qui y a construit sa vie",
+        "description": "Chaque modification — la terrasse ajoutée, le portail changé — est une victoire. Le pavillon est la preuve d'une trajectoire. Il en connaît chaque défaut avec affection."
+      },
+      {
+        "profil": "Adolescent qui y a grandi",
+        "description": "Vit le pavillon comme un horizon trop étroit. Connaît chaque voisin, chaque bruit, chaque habitude — et en éprouve une forme d'étouffement qu'il ne saurait pas nommer."
+      },
+      {
+        "profil": "Visiteur citadin",
+        "description": "Trouve le calme agréable au premier quart d'heure, puis ressent un malaise diffus face à la répétition des façades identiques. Étrangeté d'un lieu fait pour rester."
+      }
+    ],
+    "notesEditoriales": [
+      "Le pavillon de banlieue est un des décors les plus chargés de représentations en littérature française — il mérite d'être traité avec nuance et précision plutôt qu'avec condescendance.",
+      "Le jardin est souvent l'élément le plus révélateur : entretenu ou laissé à lui-même, il dit l'état du foyer sans dialogue.",
+      "Attention au cliché du pavillon-prison : il peut aussi être un lieu de bonheur sincère, d'appartenance, de vie bien remplie."
+    ]
+  },
+  {
+    "id": "chambre-dhote",
+    "label": "Chambre d'hôte",
+    "type": "urbain-logement",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "lit avec couvre-lit à motif choisi avec soin, coussin décoratif en trop",
+      "commode ancienne avec miroir ovale et pot de fleurs séchées",
+      "fenêtre avec rideaux en lin légèrement transparents",
+      "livret d'accueil manuscrit posé sur la table de nuit",
+      "salle de bain partagée ou privative avec serviettes pliées en triangle",
+      "cadres avec photos du quartier ou reproductions encadrées",
+      "clé ancienne ou badge plastifié sur un porte-clé artisanal",
+      "petite table avec deux chaises, en bois clair ou peint"
+    ],
+    "bruits": [
+      "hôte qui s'agite dans la cuisine dès le matin",
+      "autres voyageurs dans le couloir, valises sur le parquet",
+      "sons de la maison principale filtrés par une porte",
+      "cloche d'église ou bruit de rue selon le quartier"
+    ],
+    "odeurs": [
+      "café fraîchement passé le matin qui monte jusqu'à la chambre",
+      "linge repassé et légèrement parfumé des draps propres",
+      "vieux bois ou vieille pierre selon l'ancienneté de la maison",
+      "confiture maison ou pain grillé au petit-déjeuner"
+    ],
+    "textures": [
+      "draps en coton épais, légèrement amidonnés",
+      "parquet en bois qui gémit légèrement sous le pied",
+      "robinet de salle de bain en laiton, légèrement difficile à tourner"
+    ],
+    "emotionsTypiques": [
+      "confort chaleureux mais légèrement artificiel",
+      "sentiment d'être hébergé plutôt qu'accueilli vraiment",
+      "curiosité pour la vie de la maison dont on ne voit qu'une partie",
+      "légère gêne de la cohabitation intime avec des inconnus"
+    ],
+    "usagesNarratifs": [
+      "espace de transit d'un personnage entre deux étapes de sa vie",
+      "lieu d'une rencontre entre voyageurs aux trajectoires croisées",
+      "décor qui révèle le regard de l'hôte sur ses hôtes",
+      "cadre d'un secret gardé dans un lieu trop chaleureux pour en avoir"
+    ],
+    "tensionsTypiques": [
+      "hôte trop présent ou trop curieux",
+      "autre voyageur dont la présence dérange",
+      "règles non écrites de la maison qu'on doit deviner",
+      "sentiment d'être toujours légèrement de trop"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Voyageur habitué des chambres d'hôte",
+        "description": "Évalue rapidement le rapport qualité-prix, compare avec d'autres expériences. Repère les détails qui trahissent l'effort ou la routine. Apprécie sans s'y attacher."
+      },
+      {
+        "profil": "Voyageur en situation de rupture",
+        "description": "Trouve dans la chambre d'hôte un semblant de foyer. Le petit-déjeuner partagé, la chaleur d'une maison habitée — tout cela prend une valeur disproportionnée."
+      },
+      {
+        "profil": "Hôte qui gère la chambre",
+        "description": "Voit d'abord les draps à changer, la salle de bain à nettoyer, le petit-déjeuner à préparer. Les voyageurs sont des présences temporaires dont il lit rapidement le caractère."
+      }
+    ],
+    "notesEditoriales": [
+      "La chambre d'hôte est un lieu de cohabitation contrainte enrobée de chaleur — utiliser cette tension entre l'accueil et la distance.",
+      "Le livret manuscrit de l'hôte est un excellent révélateur de caractère : sa précision ou son imprécision dit beaucoup.",
+      "Contrairement à l'hôtel, la chambre d'hôte implique une présence humaine permanente derrière la porte — à exploiter narrativement."
+    ]
+  },
+  {
+    "id": "residence-etudiante",
+    "label": "Résidence étudiante",
+    "type": "urbain-logement",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "façade en béton ou en brique avec balconnets identiques à chaque étage",
+      "hall d'entrée avec interphone, boîtes aux lettres et digicode",
+      "couloir à moquette bleue ou grise avec numéros de portes",
+      "studio de 18 à 25 m² avec kitchenette intégrée et salle de bain",
+      "fenêtre donnant sur une cour intérieure, un parking ou un campus",
+      "mobilier standardisé : bureau, chaise, lit une place, armoire",
+      "tableau de liège ou tableau blanc avec planning affiché",
+      "machine à laver et sèche-linge en espace commun par étage"
+    ],
+    "bruits": [
+      "musique depuis plusieurs chambres en même temps, se contrariant",
+      "alarme incendie déclenchée par erreur le soir",
+      "groupe qui rentre tard dans le couloir avec éclats de rire",
+      "réveil très tôt le matin dans la chambre adjacente",
+      "machine à laver qui vibre dans la buanderie commune"
+    ],
+    "odeurs": [
+      "désodorisant institutionnel dans les parties communes",
+      "nourriture réchauffée au micro-ondes depuis plusieurs étages",
+      "légère odeur de moisissure dans les salles de bain mal ventilées",
+      "alcool bon marché les soirs de week-end"
+    ],
+    "textures": [
+      "moquette du couloir légèrement collante aux endroits de passage",
+      "bureau en stratifié rayé par des années de stylos et de clés",
+      "vitres froides en hiver mal isolées par les joints usés"
+    ],
+    "emotionsTypiques": [
+      "solitude paradoxale dans un lieu toujours bruyant",
+      "liberté d'une première vie autonome mêlée d'angoisse",
+      "sentiment d'appartenir à un groupe sans vraiment y être",
+      "nostalgie déjà présente d'un temps qu'on sait provisoire"
+    ],
+    "usagesNarratifs": [
+      "décor d'une première confrontation à la vie adulte",
+      "lieu d'une amitié naissante ou d'un premier amour",
+      "espace où un personnage s'effondre loin de tout soutien",
+      "révélateur du fossé entre l'idée des études et leur réalité"
+    ],
+    "tensionsTypiques": [
+      "voisin trop bruyant avec qui on n'ose pas entrer en conflit",
+      "sentiment d'isolement dans un lieu fait pour le collectif",
+      "fin de mois difficile dans un espace qui rappelle constamment le coût",
+      "retour contraint dans la chambre après un événement difficile"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Étudiant en première année",
+        "description": "Tout est nouveau, parfois exaltant, souvent déstabilisant. La résidence représente à la fois la liberté et la solitude. Les voisins de couloir peuvent devenir des amis intimes ou rester des inconnus."
+      },
+      {
+        "profil": "Étudiant en fin de cursus",
+        "description": "Voit la résidence avec une lassitude affectueuse. Connaît les règles, les habitudes, les défauts. Commence à s'imaginer ailleurs — cette chambre sera la dernière."
+      },
+      {
+        "profil": "Parent qui aide à l'installation",
+        "description": "Manie les cartons en retenant ses commentaires. La chambre lui semble trop petite, le quartier trop bruyant, le mobilier trop usé. Repart avec un mélange de fierté et d'inquiétude."
+      }
+    ],
+    "notesEditoriales": [
+      "La résidence étudiante est un espace de transition intense : tout y est provisoire, ce qui rend chaque relation et chaque événement plus saillant.",
+      "Le bruit des voisins est une présence narrative à part entière — il dit la vie qui se passe derrière chaque porte.",
+      "Le mobilier standardisé peut être humanisé ou déshumanisé selon le degré d'appropriation du personnage : affiches, plantes, photos — ou murs nus."
+    ]
+  }
+]

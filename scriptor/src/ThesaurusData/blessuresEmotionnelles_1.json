@@ -1,0 +1,572 @@
+[
+  {
+    "id": "abandon-enfance",
+    "label": "Abandon dans l'enfance",
+    "famille": "abandon-rejet",
+    "definitionCourte": "Un parent est parti — physiquement ou progressivement — laissant l'enfant sans figure d'attachement stable. La blessure n'est pas seulement l'absence : c'est l'interprétation que l'enfant en a faite. Si quelqu'un part, c'est parce qu'il n'était pas suffisant pour rester.",
+    "originesPossibles": [
+      "parent qui a quitté le foyer sans explication ou sans retour",
+      "décès brutal d'un parent alors que l'enfant était très jeune",
+      "placement en famille d'accueil ou en institution à un âge précoce",
+      "parent physiquement présent mais émotionnellement absent — jamais vraiment là",
+      "frère ou sœur parti tôt, qui servait de figure protectrice principale",
+      "parent qui a refait sa vie et progressivement effacé le lien",
+      "séparation traumatique non expliquée — l'enfant n'a jamais su pourquoi"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne suis pas assez pour que quelqu'un reste.",
+      "Les gens que j'aime finissent toujours par partir.",
+      "Je dois mériter l'amour en permanence — il n'est jamais acquis.",
+      "Si je m'attache, ça va faire mal. Autant ne pas commencer.",
+      "Il doit y avoir quelque chose en moi qui repousse les gens.",
+      "Je suis fondamentalement seul. Les autres ne font que passer.",
+      "La dépendance est dangereuse. Il vaut mieux n'avoir besoin de personne."
+    ],
+    "peursCentrees": [
+      "peur d'être quitté, même dans des relations stables et sereines",
+      "peur de l'amour profond — plus on aime, plus on peut perdre",
+      "peur de la solitude, et simultanément peur de l'attachement",
+      "peur de devenir un fardeau qui pousse les autres à partir",
+      "peur de faire confiance — croire et se retrouver seul à nouveau"
+    ],
+    "comportementsDefensifs": [
+      "part avant d'être quitté — sabote les relations avant qu'elles atteignent un point critique",
+      "s'attache avec une intensité qui sature et éloigne les autres",
+      "alterne entre fusion totale et retrait brutal",
+      "surveille les signaux d'alarme dans les comportements des autres — un retard de réponse devient une menace",
+      "cherche une validation constante que l'autre est encore là",
+      "peut s'effacer pour ne pas prendre de place et ainsi ne pas mériter d'être chassé",
+      "teste les gens — parfois sans en avoir conscience — pour vérifier s'ils vont rester"
+    ],
+    "conflitsInternesTypiques": [
+      "désire passionnément la proximité mais la sabote dès qu'elle devient réelle",
+      "veut croire que cette relation-ci sera différente, mais n'y arrive pas vraiment",
+      "ressent une colère sourde envers le parent absent et honte d'avoir cette colère",
+      "jalousie envers ceux qui semblent avoir été aimés sans condition — et culpabilité d'être jaloux",
+      "conflit entre le besoin d'être vu et la peur d'être vu tel qu'il est vraiment"
+    ],
+    "manifestationsPhysiques": [
+      "vigilance corporelle constante dans les relations proches — prêt à réagir à la moindre variation",
+      "difficultés à s'endormir seul ou à rester seul les premières nuits dans un espace nouveau",
+      "nœud dans la gorge ou resserrement thoracique quand l'autre tarde à répondre ou à revenir",
+      "légère nausée avant les séparations même temporaires",
+      "tension dans les bras — envie de retenir ou de saisir, retenue par la raison"
+    ],
+    "declencheurs": [
+      "un partenaire qui rentre tard sans prévenir",
+      "une amitié qui se fait plus rare sans explication",
+      "une rupture, même douce et consentie",
+      "un proche qui prend une décision importante sans l'inclure",
+      "quelqu'un qui dit « j'ai besoin d'espace »",
+      "un silence inhabituel dans une relation habituellement régulière"
+    ],
+    "cheminsVersResolution": [
+      "quelqu'un qui reste — qui ne part pas malgré les tests, les crises, les fuites",
+      "une relation thérapeutique qui permet de revisiter l'événement d'origine avec des mots d'adulte",
+      "retrouver le parent absent — ou faire le deuil de ne jamais le retrouver — et survivre à cette rencontre ou à cette absence",
+      "découvrir qu'il peut être seul sans que cela signifie qu'il est abandonné",
+      "apprendre à distinguer solitude choisie et abandon subi"
+    ],
+    "impactRelationnel": [
+      "relations romantiques marquées par une anxiété d'attachement intense",
+      "amitiés souvent asymétriques — il donne beaucoup pour s'assurer de ne pas être quitté",
+      "difficultés à recevoir de l'amour stable sans le minimiser ou le mettre à l'épreuve",
+      "peut devenir le protecteur ou le sauveur des autres — pour être indispensable",
+      "peut fuir les personnes les plus fiables parce qu'elles ne correspondent pas au modèle d'amour appris"
+    ],
+    "notesEditoriales": [
+      "La blessure d'abandon est l'une des plus universelles — l'enjeu est de la rendre spécifique à ce personnage, pas générique.",
+      "Éviter la confusion entre blessure d'abandon et simple introversion : l'abandonné souffre souvent en surface de sa difficulté à s'attacher, pas de sa préférence pour la solitude.",
+      "Le moment narratif le plus fort n'est pas la répétition du schéma mais l'instant où le personnage le reconnaît — et doit décider s'il répète ou s'il risque.",
+      "Un personnage avec cette blessure peut paraître fort, indépendant, presque invulnérable — le lecteur doit voir ce que cette force coûte."
+    ]
+  },
+  {
+    "id": "humiliation-publique",
+    "label": "Humiliation publique",
+    "famille": "honte-exposition",
+    "definitionCourte": "Le personnage a été exposé, moqué ou rabaissé devant un groupe — école, famille, travail, réseau social. La blessure ne porte pas seulement sur l'événement mais sur le regard des témoins : l'humiliation publique transforme la honte en quelque chose de partagé, d'enregistré, d'impossible à effacer seul.",
+    "originesPossibles": [
+      "moqueries répétées en classe devant les camarades",
+      "réprimande publique par un adulte (parent, enseignant, supérieur) devant un groupe",
+      "erreur ou échec exposé en public et tourné en ridicule",
+      "trahison d'un secret par un proche devant plusieurs personnes",
+      "humiliation sexuelle ou corporelle en public",
+      "discours ou performance raté sous les rires ou le silence pesant",
+      "exposition numérique — photo, vidéo, conversation privée rendue publique"
+    ],
+    "croyancesNegativesInduites": [
+      "Si je me montre tel que je suis, les autres vont me ridiculiser.",
+      "Je suis fondamentalement ridicule — ils l'ont vu.",
+      "Les groupes sont dangereux. On n'y est jamais en sécurité.",
+      "La honte que j'ai ressentie ce jour-là était méritée.",
+      "Les gens se souviennent de mes erreurs longtemps après que moi je voudrais qu'ils oublient.",
+      "Je dois être parfait en public ou ne pas paraître du tout.",
+      "La confiance se retourne toujours contre soi à un moment ou un autre."
+    ],
+    "peursCentrees": [
+      "peur de parler en public, de se ridiculiser à nouveau",
+      "peur du regard des autres dans tout contexte de groupe",
+      "peur de l'erreur — la moindre faute peut devenir un spectacle",
+      "peur de la confiance — elle peut se transformer en trahison exposée",
+      "peur des foules, des rassemblements, des espaces sans échappatoire"
+    ],
+    "comportementsDefensifs": [
+      "contrôle son apparence et ses paroles de manière excessive en public",
+      "évite de prendre des risques visibles — mieux vaut ne rien faire que risquer l'exposition",
+      "développe une armure d'humour ou d'ironie pour prendre les devants",
+      "attaque avant d'être attaqué — la meilleure défense dans les groupes",
+      "fuit les situations où il pourrait se retrouver au centre de l'attention",
+      "minimise ses propres réussites pour ne pas s'exposer à l'envie ou à la critique",
+      "garde ses projets, désirs et espoirs très privés — révéler quelque chose c'est lui donner un pouvoir"
+    ],
+    "conflitsInternesTypiques": [
+      "veut être vu et reconnu mais redoute le regard des autres",
+      "colère envers les témoins qui ont ri ou n'ont pas défendu — et honte d'avoir cette colère",
+      "envie de raconter ce qu'il a vécu mais peur de revivifier la honte en le disant",
+      "conflit entre l'image qu'il veut donner et la peur d'être percé à jour",
+      "honte de la honte — trouver l'événement encore aussi douloureux des années après lui semble une faiblesse"
+    ],
+    "manifestationsPhysiques": [
+      "rougissement involontaire dans des situations même légèrement similaires",
+      "palpitations ou accélération cardiaque avant une prise de parole ou une exposition en groupe",
+      "transpiration des mains dans les contextes d'évaluation ou de regard collectif",
+      "voix qui se brise ou disparaît dans les moments de pression publique",
+      "nausée légère avant les situations perçues comme des expositions"
+    ],
+    "declencheurs": [
+      "être mis en avant dans un groupe de manière inattendue",
+      "entendre quelqu'un rire sans savoir de quoi",
+      "un silence qui suit une prise de parole — quelle que soit sa cause",
+      "voir quelqu'un d'autre se faire moquer ou embarrasser",
+      "revenir dans un lieu où l'humiliation s'est produite",
+      "croiser quelqu'un qui était présent ce jour-là"
+    ],
+    "cheminsVersResolution": [
+      "être défendu publiquement dans une situation similaire — quelqu'un prend son parti devant les autres",
+      "vivre une réussite publique qui réécrit le récit — sans effacer le souvenir mais en ajoutant une autre couche",
+      "raconter l'événement à quelqu'un qui le reçoit avec sérieux — et voir la honte diminuer d'être nommée",
+      "confronter un témoin ou l'auteur de l'humiliation — qu'il y ait réparation ou non",
+      "trouver quelqu'un qui a vécu la même chose — la honte partagée perd de son pouvoir"
+    ],
+    "impactRelationnel": [
+      "évite les groupes d'amis nombreux, préfère les relations en tête-à-tête",
+      "difficultés à se montrer vulnérable ou imparfait devant quiconque",
+      "peut jouer le rôle du bouffon volontaire pour prendre les devants sur la moquerie",
+      "relations professionnelles marquées par un soin excessif de l'image",
+      "peut mal réagir aux critiques même bienveillantes — elles résonnent comme une exposition"
+    ],
+    "notesEditoriales": [
+      "L'humiliation publique laisse une mémoire sensorielle très précise — les détails du lieu, les visages, les sons — à utiliser dans les déclencheurs.",
+      "Éviter de résoudre cette blessure par un simple triomphe public inversé : la vraie guérison passe par l'intérieur, pas par la revanche.",
+      "Le personnage qui a subi cette blessure peut être le plus courageux dans les situations privées — et le plus fragile dès qu'un groupe regarde.",
+      "Cette blessure génère souvent des personnages qui excellent dans les coulisses mais fuient les lumières — levier dramatique fort quand les lumières les rattrapent."
+    ]
+  },
+  {
+    "id": "trahison-intime",
+    "label": "Trahison d'un proche",
+    "famille": "trahison-confiance",
+    "definitionCourte": "Le personnage a été trahi par quelqu'un en qui il avait une confiance totale — ami, amour, famille. La blessure ne porte pas seulement sur l'acte de trahison mais sur la révélation qu'il accomplit : il n'avait pas vu qui était vraiment cet être. Et s'il a été aveugle une fois, il peut l'être encore.",
+    "originesPossibles": [
+      "ami proche qui a révélé un secret douloureux ou utilisé des confidences",
+      "partenaire amoureux infidèle dont il a découvert la trahison de manière brutale",
+      "membre de la famille qui a menti délibérément sur quelque chose d'essentiel",
+      "collègue ou associé qui a volé un projet, une idée ou une opportunité",
+      "ami qui a pris le parti de l'ennemi dans un conflit important",
+      "confidence confiée en confiance et utilisée comme arme",
+      "trahison multiple de la même personne — la blessure s'est répétée"
+    ],
+    "croyancesNegativesInduites": [
+      "On ne peut jamais vraiment connaître quelqu'un.",
+      "La confiance totale est une naïveté que je ne peux pas me permettre.",
+      "Les gens sont fondamentalement intéressés — l'amour cache toujours quelque chose.",
+      "Si je me suis trompé sur lui, je peux me tromper sur n'importe qui.",
+      "Mes propres jugements ne sont pas fiables.",
+      "Mieux vaut être seul que de risquer d'être trahi à nouveau.",
+      "L'intimité donne du pouvoir à l'autre — et ce pouvoir finit par être utilisé contre soi."
+    ],
+    "peursCentrees": [
+      "peur de se confier — chaque confidence est une arme potentielle",
+      "peur de l'intimité profonde même quand elle est désirée",
+      "peur d'être à nouveau aveugle — de ne pas voir la trahison venir",
+      "peur d'aimer quelqu'un autant qu'il a aimé le traître",
+      "peur de son propre jugement — il ne fait plus confiance à ses intuitions"
+    ],
+    "comportementsDefensifs": [
+      "partage peu ou partiellement — garde toujours quelque chose en réserve",
+      "teste les gens avant de s'ouvrir, parfois pendant très longtemps",
+      "interprète les gestes neutres ou ambigus comme des signaux d'alerte",
+      "observe, analyse, cherche les contradictions entre les mots et les actes",
+      "construit des murs affectifs qui paraissent polis mais ne laissent passer presque rien",
+      "peut devenir contrôlant dans les relations proches — pour voir venir",
+      "se retire avant que l'autre puisse le faire — coupe les liens de manière préventive"
+    ],
+    "conflitsInternesTypiques": [
+      "désire la connexion profonde mais ne peut pas se permettre de l'accorder vraiment",
+      "veut croire en les autres mais surveille en permanence",
+      "colère envers le traître mêlée de honte d'avoir accordé une telle confiance",
+      "nostalgie de l'époque où il faisait confiance facilement",
+      "conflit entre le désir de pardonner pour se libérer et l'impossibilité de croire que l'autre a vraiment changé"
+    ],
+    "manifestationsPhysiques": [
+      "tension dans les épaules et la nuque en présence de nouvelles personnes",
+      "regard plus scrutateur qu'avant — il lit les visages à la recherche de contradictions",
+      "malaise physique diffus dans les situations d'intimité où il sait qu'il devrait faire confiance",
+      "contraction thoracique ou nœud gastrique quand quelqu'un le surprend ou le déçoit même légèrement",
+      "légère nausée lors des moments de transparence forcée"
+    ],
+    "declencheurs": [
+      "quelqu'un qui connaît un détail de sa vie qu'il n'a pas communiqué consciemment",
+      "découvrir que deux personnes ont parlé de lui en son absence",
+      "un mensonge même petit dans une relation qu'il croyait claire",
+      "quelqu'un qui prend le parti d'un tiers contre lui",
+      "se retrouver dans une situation similaire à celle de la trahison d'origine",
+      "revoir ou entendre parler de l'auteur de la trahison"
+    ],
+    "cheminsVersResolution": [
+      "quelqu'un qui reste transparent et cohérent pendant suffisamment longtemps pour que la méfiance commence à se défaire",
+      "le personnage est lui-même mis en position de trahir — et choisit de ne pas le faire, ce qui lui redonne confiance en ses propres valeurs",
+      "une vérité révélée sur la trahison d'origine qui en change la lecture — l'autre avait des raisons, même inacceptables",
+      "une thérapie ou une conversation profonde qui sépare « cet homme m'a trahi » de « les gens trahissent toujours »",
+      "aider quelqu'un d'autre à traverser une trahison — et voir, de l'extérieur, que la confiance peut se reconstruire"
+    ],
+    "impactRelationnel": [
+      "relations romantiques marquées par une surveillance affective diffuse",
+      "amitiés très peu nombreuses, sélectionnées avec une rigueur presque clinique",
+      "incapacité à recevoir de l'aide sans se demander ce que l'autre veut en retour",
+      "peut être d'une loyauté absolue envers le tout petit cercle qu'il a laissé entrer",
+      "peut projeter les intentions du traître sur des personnes qui n'ont rien fait"
+    ],
+    "notesEditoriales": [
+      "La blessure de trahison intime est narrativement puissante quand la trahison était de quelqu'un qu'on comprend aussi — pas un simple méchant.",
+      "Éviter la résolution rapide : la reconstruction de la confiance après une trahison profonde est lente, non linéaire, et souvent incomplète.",
+      "Ce personnage peut paraître froid ou distant sans l'être vraiment — le lecteur doit voir ce que cache cette distance.",
+      "Le moment le plus fort : quand il laisse entrer quelqu'un et que ça fonctionne — et que cette réussite lui fait peur autant que la trahison."
+    ]
+  },
+  {
+    "id": "negligence-emotionnelle",
+    "label": "Négligence émotionnelle",
+    "famille": "invisibilite-negation",
+    "definitionCourte": "Les parents étaient là — physiquement présents, souvent fonctionnels — mais émotionnellement absents. Personne n'a enseigné au personnage à nommer ce qu'il ressentait, à croire que ses émotions comptaient, à chercher du réconfort. La blessure est d'autant plus difficile à voir qu'il n'y a pas eu d'événement visible : seulement une absence.",
+    "originesPossibles": [
+      "parents très investis professionnellement, présents physiquement mais jamais vraiment disponibles",
+      "famille où les émotions ne se parlaient pas — ni en positif ni en négatif",
+      "parent dépressif ou dépassé qui n'avait plus de ressources émotionnelles à donner",
+      "éducation fondée uniquement sur la performance, le résultat, jamais sur l'être",
+      "fratrie nombreuse où chacun devait se gérer seul",
+      "parents qui confondaient amour et provision matérielle — les besoins physiques comblés, les émotionnels ignorés",
+      "message implicite ou explicite que les émotions sont un signe de faiblesse"
+    ],
+    "croyancesNegativesInduites": [
+      "Ce que je ressens n'est pas important — ou du moins pas pour les autres.",
+      "Je dois gérer seul. Demander de l'aide, c'est être un fardeau.",
+      "Les émotions sont une faiblesse à dissimuler, pas quelque chose à exprimer.",
+      "Personne ne peut vraiment comprendre ce que je vis.",
+      "Je n'ai pas le droit d'avoir des besoins émotionnels.",
+      "Si je montre que j'ai besoin de quelque chose, je serai ignoré ou jugé.",
+      "Je ne suis pas sûr de savoir ce que je ressens — ou si ce que je ressens est réel."
+    ],
+    "peursCentrees": [
+      "peur d'être perçu comme faible ou trop sensible",
+      "peur de demander du soutien et d'être ignoré — ou de confirmer qu'il n'en mérite pas",
+      "peur de l'intimité émotionnelle — ne sait pas comment naviguer dans cet espace",
+      "peur de ses propres émotions — elles lui sont en partie étrangères",
+      "peur d'être « trop » pour les autres si jamais il laisse sortir quelque chose"
+    ],
+    "comportementsDefensifs": [
+      "s'occupe des autres pour éviter de s'occuper de lui-même",
+      "minimise systématiquement ses propres souffrances — « ça va, c'est rien »",
+      "aide les autres à traverser leurs émotions sans jamais traverser les siennes",
+      "développe une hypercompétence dans les domaines pratiques pour compenser",
+      "peut devenir un expert de l'émotion des autres tout en étant coupé des siennes",
+      "répond « je ne sais pas » quand on lui demande ce qu'il ressent — sincèrement",
+      "peut s'effondrer en privé après des événements que les autres ont traversés plus visiblement"
+    ],
+    "conflitsInternesTypiques": [
+      "ressent des émotions mais ne sait pas toujours les nommer ou les localiser",
+      "désire la proximité émotionnelle mais ne sait pas comment y entrer",
+      "conflit entre l'image de quelqu'un de fort et autonome et un besoin profond d'être vu",
+      "jalousie envers ceux qui semblent pouvoir pleurer ou demander sans honte",
+      "colère diffuse sans objet précis — quelque chose manque mais il ne sait pas quoi"
+    ],
+    "manifestationsPhysiques": [
+      "somatisation fréquente — le corps exprime ce que les mots ne peuvent pas",
+      "tension chronique dans le dos, les épaules, la mâchoire",
+      "fatigue inexpliquée lors des périodes de stress émotionnel non exprimé",
+      "légère dissociation dans les situations de forte charge émotionnelle",
+      "difficultés à pleurer, ou larmes qui arrivent de manière inattendue et décalée"
+    ],
+    "declencheurs": [
+      "voir quelqu'un recevoir du réconfort ou de l'aide facilement",
+      "une question sincère sur ce qu'il ressent vraiment",
+      "être dans un groupe où les émotions circulent librement",
+      "une situation de crise où il ne reçoit aucun soutien — comme d'habitude",
+      "prendre soin de quelqu'un et réaliser qu'il ne sait pas recevoir ce qu'il donne"
+    ],
+    "cheminsVersResolution": [
+      "quelqu'un qui pose la question et attend vraiment la réponse — sans s'impatienter",
+      "un espace (thérapeutique ou autre) où les émotions ont le droit d'exister sans être utiles",
+      "se retrouver dans une situation de détresse suffisamment intense pour que le masque lâche — et survivre à ça",
+      "rencontrer quelqu'un qui a grandi dans le même contexte et qui a appris à s'en défaire",
+      "apprendre le vocabulaire des émotions — littéralement, progressivement, et y trouver un chemin vers lui-même"
+    ],
+    "impactRelationnel": [
+      "partenaires romantiques qui se plaignent de son inaccessibilité émotionnelle",
+      "amitiés souvent asymétriques — il écoute mais ne se confie pas",
+      "peut être perçu comme froid ou indifférent alors qu'il ressent profondément",
+      "difficultés à demander de l'aide même en situation de crise réelle",
+      "peut attirer des personnes en détresse — il sait prendre soin, pas recevoir"
+    ],
+    "notesEditoriales": [
+      "La négligence émotionnelle est la blessure la plus difficile à montrer parce qu'elle n'a pas de scène fondatrice visible — elle s'est construite dans les milliers de petits moments où personne n'a regardé.",
+      "Éviter de la réduire à « il n'a pas été aimé » : souvent les parents aimaient, mais ne savaient pas le montrer, ou le montraient autrement — la nuance est importante.",
+      "Ce personnage peut être le plus fiable, le plus solide, le plus disponible pour les autres — ce qui rend d'autant plus bouleversant le moment où quelqu'un remarque qu'il n'a jamais demandé ce dont il avait besoin.",
+      "Son arc de guérison le plus puissant : apprendre que recevoir n'est pas de la faiblesse, que ses besoins sont légitimes, et le croire vraiment."
+    ]
+  },
+  {
+    "id": "echec-fondateur",
+    "label": "Échec fondateur",
+    "famille": "honte-echec",
+    "definitionCourte": "Un échec catastrophique a eu lieu — projet raté, relation détruite, responsabilité manquée — et il a défini le personnage à ses propres yeux. Ce n'est pas simplement un mauvais souvenir : c'est une preuve. La preuve de quelque chose de fondamental sur ce qu'il est, sur ce qu'il peut espérer, sur la confiance qu'il peut accorder à lui-même.",
+    "originesPossibles": [
+      "projet professionnel ou créatif dans lequel tout était investi, qui a échoué de manière visible",
+      "décision importante qui a eu des conséquences irréparables pour lui ou pour d'autres",
+      "responsabilité confiée et manquée — quelqu'un comptait sur lui et il n'a pas été à la hauteur",
+      "relation amoureuse ou familiale brisée par quelque chose qu'il aurait pu éviter",
+      "examen, compétition ou épreuve raté à un moment où tout dépendait du résultat",
+      "investissement total dans une voie qui s'est avérée une impasse",
+      "erreur de jugement dont les conséquences ont été durables et difficiles à réparer"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne suis pas capable de réussir ce qui compte vraiment.",
+      "Quand j'essaie vraiment, je rate. Autant ne pas essayer.",
+      "Je suis le genre de personne qui échoue.",
+      "Si j'avais été différent, ça ne serait pas arrivé.",
+      "Ma confiance en moi était de l'orgueil mal placé.",
+      "Les autres voient en moi quelqu'un que je ne suis pas.",
+      "Je ne mérite pas une deuxième chance — j'ai gâché la première."
+    ],
+    "peursCentrees": [
+      "peur de s'investir vraiment dans quelque chose de nouveau — et d'échouer encore",
+      "peur que les autres découvrent l'étendue de cet échec passé",
+      "peur de la réussite — elle rendrait la chute suivante d'autant plus dure",
+      "peur de faire confiance à son propre jugement",
+      "peur que cet échec ne soit pas le dernier mais le premier d'une série"
+    ],
+    "comportementsDefensifs": [
+      "évite les situations à fort enjeu pour ne pas risquer un nouvel échec",
+      "se sabote parfois avant d'atteindre le point critique — mieux vaut choisir d'échouer",
+      "minimise ses ambitions pour les rendre atteignables sans risque",
+      "travaille avec une intensité excessive pour compenser — ou au contraire abandonne avant d'essayer vraiment",
+      "se montre excessivement modeste sur ses capacités réelles",
+      "cherche la validation extérieure avant d'agir — ne fait plus confiance à son propre jugement",
+      "peut devenir le soutien des autres dans leurs projets plutôt que de porter les siens"
+    ],
+    "conflitsInternesTypiques": [
+      "désire encore réussir mais la peur de l'échec est plus forte que le désir",
+      "honte de l'échec et honte de la honte — trouver qu'il n'arrive pas à passer à autre chose lui semble une autre faiblesse",
+      "conflit entre ce qu'il sait faire et ce qu'il ose tenter",
+      "jalousie envers ceux qui essaient sans ce poids — et culpabilité d'être jaloux",
+      "colère contre lui-même qui se retourne parfois contre les autres qui réussissent"
+    ],
+    "manifestationsPhysiques": [
+      "blocage physique — paralysie, procrastination ancrée dans le corps, pas seulement dans la tête",
+      "nausée ou tension avant les situations d'évaluation ou de performance",
+      "fatigue accrue dans les projets à fort enjeu — le corps résiste à ce que l'esprit ordonne",
+      "sommeil perturbé lors des phases de prise de décision importante",
+      "tension dans les mains et les avant-bras lors des tâches créatives ou décisives"
+    ],
+    "declencheurs": [
+      "une opportunité similaire à celle qui a mené à l'échec fondateur",
+      "quelqu'un qui mentionne l'événement — même indirectement",
+      "voir quelqu'un d'autre réussir là où il a échoué",
+      "être mis en position de responsabilité similaire",
+      "une situation où il réalise qu'il recommence à vraiment vouloir quelque chose"
+    ],
+    "cheminsVersResolution": [
+      "réussir quelque chose de comparable — non pour effacer, mais pour ajouter une couche différente à son identité",
+      "comprendre les circonstances de l'échec plus complètement — et voir qu'il portait plus que sa part",
+      "aider quelqu'un d'autre à traverser un échec similaire — et se voir de l'extérieur",
+      "accepter que l'échec ne soit pas une preuve mais un événement — douloureux, mais distinct de ce qu'il est",
+      "trouver quelqu'un qui connaît l'échec et qui le juge autrement qu'il ne se juge lui-même"
+    ],
+    "impactRelationnel": [
+      "difficultés à se montrer ambitieux ou enthousiaste devant les autres — peur d'être perçu s'il échoue",
+      "peut soutenir les projets des autres avec une générosité sincère qui contraste avec son blocage personnel",
+      "relations marquées par un besoin de validation avant de s'engager",
+      "peut repousser les personnes qui croient en lui — leur confiance lui fait peur",
+      "peut être d'une aide précieuse à ceux qui traversent des échecs — sa compréhension est profonde et sans jugement"
+    ],
+    "notesEditoriales": [
+      "L'échec fondateur est plus intéressant quand sa part de responsabilité est réelle mais pas totale — la blessure est dans ce qu'il a fait de sa part.",
+      "Éviter la résolution par un triomphe miraculeux : l'arc le plus juste est celui qui permet au personnage de réessayer — pas nécessairement de réussir.",
+      "Ce personnage peut être le plus brillant de la scène et le plus immobile face à ses propres enjeux : le contraste est dramatiquement très riche.",
+      "La question à poser au personnage : est-ce qu'il croit qu'il a échoué parce qu'il a fait quelque chose de mauvais, ou parce qu'il est quelqu'un de mauvais ? Cette distinction est au cœur de la blessure."
+    ]
+  },
+  {
+    "id": "perte-brutale",
+    "label": "Perte brutale",
+    "famille": "deuil-absence",
+    "definitionCourte": "Quelqu'un d'essentiel est parti soudainement — mort, disparition, rupture brutale sans préavis. La brutalité n'est pas seulement dans la douleur mais dans l'absence de préparation : le monde était un, puis il a changé de forme en un instant. Le personnage n'a jamais eu le temps de dire au revoir, de préparer quelque chose, d'être prêt.",
+    "originesPossibles": [
+      "mort subite d'un parent, d'un ami ou d'un amour — accident, crise cardiaque, violence",
+      "disparition sans explication — quelqu'un qui ne revient pas sans qu'on sache pourquoi",
+      "rupture brutale décidée par l'autre du jour au lendemain, sans signe avant-coureur",
+      "ami ou amour emporté par une maladie très rapide",
+      "perte d'un enfant",
+      "suicide d'un proche sans qu'il ait rien vu venir",
+      "départ forcé et définitif — expulsion, guerre, fuite — qui a séparé des personnes aimées"
+    ],
+    "croyancesNegativesInduites": [
+      "Rien n'est permanent. Tout peut disparaître du jour au lendemain.",
+      "S'attacher, c'est se préparer à perdre.",
+      "Je n'ai pas dit ce que j'aurais dû dire. Il est trop tard maintenant.",
+      "Le bonheur est précaire — en être conscient, c'est en être privé.",
+      "Je n'aurais pas dû partir ce matin-là. Si j'étais resté...",
+      "Les gens qu'on aime nous quittent. C'est ainsi.",
+      "Je ne méritais pas de le garder."
+    ],
+    "peursCentrees": [
+      "peur de s'attacher à ce qui peut être perdu — c'est-à-dire à tout",
+      "peur des au revoirs — même les plus ordinaires",
+      "peur d'être heureux — le bonheur est ce qu'on perd",
+      "peur de son propre deuil — de ne pas savoir le traverser, ou de n'en jamais sortir",
+      "peur que la prochaine perte arrive avant qu'il soit prêt — il ne sera jamais prêt"
+    ],
+    "comportementsDefensifs": [
+      "dit au revoir de manière excessivement soignée à chaque séparation, même brève",
+      "garde des objets, des photos, des messages comme preuves que quelque chose a existé",
+      "s'investit moins dans ce qu'il aime pour ne pas avoir trop à perdre",
+      "peut devenir surprotecteur envers ceux qui lui restent",
+      "refuse de parler de la personne perdue — ou au contraire en parle en permanence",
+      "vit parfois dans une urgence diffuse — il faut tout faire maintenant",
+      "peut s'engourdir affectivement comme protection préventive"
+    ],
+    "conflitsInternesTypiques": [
+      "désire aimer pleinement mais ne peut pas sans la peur de perdre à nouveau",
+      "colère contre la personne qui est partie — et honte de cette colère envers quelqu'un qu'on aimait",
+      "culpabilité sur ce qu'il aurait pu faire différemment — avant, pendant, après",
+      "conflit entre le deuil actif et l'impression de trahir le disparu en allant mieux",
+      "désir de continuer à vivre et sentiment que continuer est une forme d'abandon"
+    ],
+    "manifestationsPhysiques": [
+      "douleur physique réelle lors des anniversaires ou des rappels de la perte",
+      "fatigue corporelle pendant les phases de deuil actif",
+      "hypersensibilité sensorielle — certaines odeurs, musiques, textures déclenchent une réaction immédiate",
+      "impression physique d'absence — comme un membre fantôme",
+      "difficultés à dormir dans les périodes de commémoration ou de rappel"
+    ],
+    "declencheurs": [
+      "une odeur, une musique, un objet lié à la personne perdue",
+      "quelqu'un qui ressemble à la personne disparue",
+      "un anniversaire — de naissance, de mort, de rencontre",
+      "une bonne nouvelle qu'il voudrait partager avec quelqu'un qui n'est plus là",
+      "voir d'autres personnes vivre ce qu'il ne peut plus vivre avec le disparu"
+    ],
+    "cheminsVersResolution": [
+      "faire le deuil de ce qui n'a pas pu être dit — lettre, geste symbolique, rituel personnel",
+      "accepter que continuer à vivre n'est pas une trahison",
+      "trouver quelqu'un qui a traversé une perte comparable et survécu à son deuil",
+      "investir quelque chose de nouveau — une relation, un projet — et découvrir qu'aimer à nouveau est possible",
+      "revisiter des souvenirs de la personne perdue et trouver que la joie peut coexister avec le manque"
+    ],
+    "impactRelationnel": [
+      "peut aimer intensément dans une urgence qui déstabilise les autres",
+      "garde souvent des rituels ou des habitudes liés au disparu — difficiles à expliquer",
+      "peut idéaliser le disparu au point que personne ne peut le remplacer",
+      "difficultés à laisser aller les relations devenues toxiques — il sait trop ce que perdre coûte",
+      "peut devenir un soutien exceptionnel pour les autres en deuil — et ne pas savoir recevoir ce soutien en retour"
+    ],
+    "notesEditoriales": [
+      "La perte brutale se distingue du deuil ordinaire par l'absence de préparation — insister sur ce que le personnage n'a pas eu le temps de dire ou de faire.",
+      "Éviter de résoudre cette blessure par une rencontre qui remplace le disparu : ce n'est pas de remplacement qu'il s'agit, mais de capacité à coexister avec l'absence.",
+      "Les déclencheurs sensoriels sont particulièrement puissants pour cette blessure — les utiliser avec précision, pas avec excès.",
+      "Un personnage portant cette blessure peut être d'une vitalité saisissante — parce qu'il sait mieux que personne que le temps est compté."
+    ]
+  },
+  {
+    "id": "violence-subie",
+    "label": "Violence subie",
+    "famille": "trauma-corps",
+    "definitionCourte": "Le personnage a subi une violence — physique, sexuelle, psychologique — qui a inscrit dans son corps la conviction que le monde peut être dangereux, et que lui-même peut être réduit à un objet. La blessure est d'autant plus profonde qu'elle touche à l'intégrité de la personne : pas seulement ce qu'il a vécu, mais ce qu'il croit être depuis lors.",
+    "originesPossibles": [
+      "violence physique répétée dans l'enfance, par un parent ou une figure d'autorité",
+      "violence conjugale ou dans une relation intime",
+      "agression sexuelle par un inconnu ou par un proche — avec les complications propres à chaque contexte",
+      "violence psychologique prolongée — humiliation, manipulation, dévalorisation systématique",
+      "violence institutionnelle — dans une école, une structure d'accueil, un milieu carcéral",
+      "violence de guerre ou de conflit armé",
+      "témoin régulier de violence subie par un proche — blessure par proxy"
+    ],
+    "croyancesNegativesInduites": [
+      "Mon corps ne m'appartient pas vraiment — il peut être pris, utilisé.",
+      "Je ne suis pas en sécurité. Nulle part, avec personne.",
+      "Quelque chose en moi a attiré ça. Je suis responsable.",
+      "Je ne vaux pas assez pour être protégé.",
+      "Les gens qui ont du pouvoir l'utilisent pour faire du mal.",
+      "La gentillesse cache toujours quelque chose.",
+      "Si je montre que j'ai peur, ça empire les choses."
+    ],
+    "peursCentrees": [
+      "peur de la répétition — la violence peut revenir, n'importe quand, n'importe où",
+      "peur de la proximité physique — le corps de l'autre peut devenir une menace",
+      "peur de perdre le contrôle de la situation — être à la merci de quelqu'un",
+      "peur de parler de ce qui s'est passé — ne pas être cru, être jugé, ou que ça n'ait servi à rien",
+      "peur des figures d'autorité ou des contextes de pouvoir asymétrique"
+    ],
+    "comportementsDefensifs": [
+      "hyper-vigilance constante — scrute l'environnement, évalue les sorties, lit les corps",
+      "réaction de sursaut marquée face aux mouvements brusques ou aux bruits inattendus",
+      "contrôle intense de son environnement immédiat — besoin de savoir qui est là, où sont les issues",
+      "évitement des situations, lieux ou personnes rappelant le contexte de la violence",
+      "dissociation partielle dans les situations de stress — le corps est là, lui non",
+      "peut devenir très bon à lire les signaux d'alerte dans les comportements des autres",
+      "peut alterner entre sur-contrôle et effondrement selon l'intensité du déclencheur"
+    ],
+    "conflitsInternesTypiques": [
+      "colère contre l'auteur de la violence et honte incompréhensible qui se mêle à cette colère",
+      "désir de contact et de proximité et peur viscérale de ce que le corps de l'autre peut faire",
+      "conflit entre savoir intellectuellement qu'il n'est pas responsable et le ressentir vraiment",
+      "honte de la honte — être encore affecté des années après lui semble une faiblesse",
+      "désir de raconter et peur des réactions — pitié, incrédulité, ou pire, banalisation"
+    ],
+    "manifestationsPhysiques": [
+      "réponses corporelles automatiques — sursaut, fuite, gel — déclenchées par des stimuli qui ne sont pas objectivement dangereux",
+      "tension chronique dans certaines zones du corps en lien avec le type de violence subie",
+      "hypersensibilité ou au contraire engourdissement dans certaines zones corporelles",
+      "difficultés à dormir, cauchemars, réveil en sursaut",
+      "nausée ou contraction rapide face à des déclencheurs sensoriels liés à la violence"
+    ],
+    "declencheurs": [
+      "une odeur, un son, une texture liés au contexte de la violence",
+      "quelqu'un qui reproduit un geste, une intonation ou un comportement de l'auteur",
+      "une situation de pouvoir asymétrique — être sous l'autorité de quelqu'un",
+      "être touché de manière inattendue, même doucement",
+      "entendre parler d'une violence similaire dans une conversation ou dans les médias"
+    ],
+    "cheminsVersResolution": [
+      "un espace sûr — thérapeutique, relationnel — où la violence peut être nommée sans être jugée",
+      "retrouver un contrôle sur son corps et son espace — souvent progressif et non linéaire",
+      "un geste de reconnaissance de la part d'un tiers — « ce qui s'est passé n'aurait pas dû »",
+      "vivre une expérience de proximité ou d'intimité qui ne se transforme pas en menace — et que son corps l'enregistre",
+      "trouver une manière de témoigner, d'agir ou de transmettre qui transforme l'expérience en quelque chose d'autre qu'une cicatrice"
+    ],
+    "impactRelationnel": [
+      "difficultés avec la confiance physique et l'intimité corporelle, même dans les relations aimantes",
+      "peut attirer des relations de pouvoir asymétrique — familiarité du schéma",
+      "peut être d'une protection farouche envers les plus vulnérables — particulièrement les enfants",
+      "peut avoir du mal à croire qu'il mérite une relation saine et égale",
+      "peut devenir thérapeute, protecteur, témoin pour les autres — et ne pas savoir recevoir ce rôle pour lui-même"
+    ],
+    "notesEditoriales": [
+      "La violence subie exige une écriture précise et retenue : montrer les effets sans exploiter la souffrance, sans voyeurisme.",
+      "Éviter de réduire ce personnage à sa blessure — la violence est une partie de son histoire, pas toute son identité.",
+      "La dissociation est un mécanisme de survie, pas une faiblesse — la traiter avec respect dans l'écriture.",
+      "Le chemin vers la résolution n'est pas linéaire et n'a pas à l'être dans la fiction — un personnage qui va mieux de manière réaliste est plus puissant qu'un personnage guéri de manière trop nette."
+    ]
+  }
+]

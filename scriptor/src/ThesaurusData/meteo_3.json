@@ -1,0 +1,436 @@
+[
+  {
+    "id": "pluie-fine-persistante",
+    "label": "Pluie fine persistante",
+    "type": "pluie",
+    "definitionCourte": "Pluie qui ne s'annonce pas, ne s'arrête pas, ne fait pas de bruit et finit par imprégner tout sans qu'on l'ait vu venir. Elle ne mouille pas — elle infiltre.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur de pétrichor persistante et douce — la terre qui boit lentement",
+        "humidité dans les vêtements que le froid finit par transformer en inconfort",
+        "odeur de trottoir mouillé sans la violence de l'averse — plus intime, plus têtue"
+      ],
+      "auditifs": [
+        "quasi-silence — la pluie fine ne s'entend presque pas, elle se devine",
+        "crépitement délicat sur les feuilles — imperceptible si on ne tend pas l'oreille",
+        "ruissellement discret des gouttières, sans urgence",
+        "bruit de pas mouillés sur le bitume — frottement humide"
+      ],
+      "visuels": [
+        "halo autour des lumières de rue — le monde légèrement flou",
+        "vitres qui pleurent sans bruit, traçant des chemins irréguliers",
+        "parapluies ouverts puis refermés dans une hésitation répétée",
+        "sol qui brille sans flaques — une surface humide qui réfléchit sans casser"
+      ],
+      "tactiles": [
+        "humidité qui s'accumule insidieusement — on ne le remarque qu'à la deuxième heure",
+        "cheveux qui s'alourdissent doucement",
+        "frisson léger quand le vent pousse la pluie dans le cou"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "découragement lent — la pluie fine épuise par son entêtement, pas par sa violence",
+      "impression que la journée n'a pas de contours clairs — tout se passe dans un gris uniforme",
+      "repli sur soi, moins d'envie de parler, de décider, d'agir",
+      "mélancolie diffuse que le personnage n'arrive pas à nommer",
+      "temps qui semble plus long — les heures s'étirent dans le gris"
+    ],
+    "emotionsTypiques": [
+      "mélancolie douce et indifférenciée",
+      "nostalgie sans objet précis",
+      "envie de rester, de ne pas commencer",
+      "intimité possible avec quelqu'un à l'abri"
+    ],
+    "usagesNarratifs": [
+      "arrière-fond parfait d'une journée où rien ne se passe en surface et tout se passe dedans",
+      "décor des scènes de rumination, de doute, d'hésitation prolongée",
+      "contraste avec un intérieur chaud — la pluie fine amplifie le refuge",
+      "accompagnement d'une attente — le personnage attend quelque chose qui ne vient pas"
+    ],
+    "contraste": "Contraste avec le grand beau qui suit parfois après des jours de gris — le soulagement est physique. Sa persistance est sa qualité narrative principale.",
+    "notesEditoriales": [
+      "La pluie fine est moins spectaculaire que l'averse mais plus sournoise — elle convient aux récits d'intériorité.",
+      "Son entêtement est sa qualité narrative : elle ne lâche pas, comme certains états d'âme.",
+      "Ne pas confondre avec le crachin : la pluie fine est plus dense et mouille véritablement."
+    ]
+  },
+  {
+    "id": "nuit-ete-chaude",
+    "label": "Nuit d'été chaude",
+    "type": "chaleur",
+    "definitionCourte": "Nuit qui ne rafraîchit pas, qui garde la chaleur du jour dans ses plis, et dans laquelle tout ce qui s'est passé dans la journée continue de fermenter.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur de nuit chaude — fleurs qui embaument plus fort après le coucher du soleil",
+        "herbe tiède qui respire encore",
+        "transpiration légère — la sienne, celle de quelqu'un proche",
+        "barbecues éteints depuis des heures dont l'odeur persiste dans l'air calme"
+      ],
+      "auditifs": [
+        "grillons — rythme continu et enveloppant, plus fort à mesure qu'on s'éloigne des lumières",
+        "moustiques en bourdonnement erratique",
+        "conversations de voisins portées par l'air calme — des fragments sans contexte",
+        "musique depuis une fenêtre ouverte loin — une mélodie qu'on n'identifie pas bien",
+        "silence de la ville à 3h du matin — plus dense que le silence de jour"
+      ],
+      "visuels": [
+        "étoiles visibles si hors ville — ciel d'été dense et proche",
+        "silhouettes sur les terrasses ou les balcons, découpées sur fond clair",
+        "reflets sur une piscine ou une rivière — lumière qui tremble",
+        "bougies ou guirlandes — lumière chaude et vacillante"
+      ],
+      "tactiles": [
+        "draps tièdes qui ne rafraîchissent pas",
+        "air qui ne bouge pas — chaleur immobile",
+        "peau moite au contact d'une autre peau",
+        "pieds nus sur un carrelage ou une terrasse encore chauds"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "permissivité — la nuit chaude d'été autorise ce que la journée interdirait",
+      "ralentissement des inhibitions — la chaleur amollit les défenses",
+      "désir amplifié ou épuisement total selon le personnage",
+      "insomnie possible — le corps ne parvient pas à se refroidir pour dormir",
+      "temps suspendu — la nuit d'été chaude est hors des règles ordinaires"
+    ],
+    "emotionsTypiques": [
+      "désir — de contact, de silence, de quelque chose d'indéfini",
+      "mélancolie douce d'une nuit qui finira",
+      "liberté nocturne et ses tentations",
+      "nostalgie des étés passés qui revient inévitablement"
+    ],
+    "usagesNarratifs": [
+      "scène de désir ou de premier aveu — la nuit chaude donne le courage",
+      "insomnie comme espace de pensée — ce qu'on ne peut pas éviter à 3h du matin",
+      "scène collective — la terrasse, le jardin, le balcon avec plusieurs personnages",
+      "décor de secret partagé dans l'obscurité nocturne"
+    ],
+    "contraste": "Contraste avec la clarté crue du lendemain matin — ce qui a été dit ou fait dans la nuit chaude survit dans la lumière. Amplifie les scènes d'intimité.",
+    "notesEditoriales": [
+      "La nuit chaude d'été est l'un des décors les plus sensuels de la fiction — à utiliser pour les scènes d'aveu.",
+      "L'insomnie est sa face sombre : le personnage seul dans la chaleur avec ses pensées.",
+      "Éviter la romantisation automatique — une nuit d'été peut être étouffante, sans issue."
+    ]
+  },
+  {
+    "id": "premier-jour-printemps",
+    "label": "Premier vrai jour de printemps",
+    "type": "grand-beau",
+    "definitionCourte": "Pas le premier jour officiel — le premier jour ressenti. Celui où le corps comprend soudainement que l'hiver a lâché et que quelque chose de différent a commencé.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur de terre qui se réveille — humus, racines, sève qui monte",
+        "odeur de fleurs précoces qui surprend à chaque coin de rue",
+        "air plus léger, moins serré que l'air d'hiver — quelque chose s'est desserré"
+      ],
+      "auditifs": [
+        "oiseaux revenus ou réveillés — chant dense et presque excessif",
+        "bourdonnement des premières abeilles — son absent depuis des mois",
+        "voix plus nombreuses dehors — les gens sont sortis",
+        "enfants dans les cours et les parcs — une énergie qu'on n'avait pas entendue"
+      ],
+      "visuels": [
+        "lumière plus chaude dans son angle, plus longue dans sa durée",
+        "bourgeons sur les branches — pas encore des feuilles, mais la promesse",
+        "gens en manches de chemise trop tôt — le désir d'y croire avant l'heure",
+        "terrasses rouvertes avec le premier café dehors de l'année"
+      ],
+      "tactiles": [
+        "soleil qui chauffe vraiment le visage tourné vers lui",
+        "air doux qui ne résiste pas contre la peau",
+        "sol qui commence à se réchauffer sous les semelles"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "allègement physique et moral — quelque chose se desserre dans la poitrine",
+      "désir de mouvement, de sortie, de contact avec l'extérieur",
+      "impression de renaissance involontaire — même les personnages résistants y cèdent",
+      "contraste cruel si le personnage traverse une période difficile — le monde va bien, lui non"
+    ],
+    "emotionsTypiques": [
+      "soulagement physique après l'hiver",
+      "allégresse légère, presque irrationnelle",
+      "désir de changer quelque chose",
+      "tristesse possible si la beauté révèle ce qui manque"
+    ],
+    "usagesNarratifs": [
+      "décor de renaissance ou de nouveau départ narratif",
+      "contraste puissant avec un état émotionnel sombre — le printemps accuse",
+      "point de départ d'une histoire — quand la vie recommence à bouger",
+      "révélateur de l'état d'un personnage : celui qui ne remarque pas le printemps est vraiment loin"
+    ],
+    "contraste": "Contraste avec la dépression saisonnière qui précède — le printemps est une mesure de ce qu'on portait. Contraste avec les pluies printanières qui reviennent dès le lendemain.",
+    "notesEditoriales": [
+      "Le premier jour de printemps est une émotion collective — la partager entre personnages crée une connexion immédiate.",
+      "Éviter le symbolisme trop appuyé : le printemps n'a pas besoin d'être dit pour que le lecteur le ressente.",
+      "Le corps réagit avant la tête — utiliser les réactions physiques plutôt que les pensées."
+    ]
+  },
+  {
+    "id": "ciel-couvert-gris-plat",
+    "label": "Ciel couvert gris uniforme",
+    "type": "ciel-couvert",
+    "definitionCourte": "Pas de pluie, pas de soleil — un plafond blanc et plat qui efface les ombres, nie les reliefs et donne à tout la même valeur visuelle. Le monde s'est aplati.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "air neutre, sans marqueur — ni humide ni sec",
+        "odeur de la ville sans soleil — plus fade, moins marquée"
+      ],
+      "auditifs": [
+        "sons ordinaires du lieu — rien de notable n'est ajouté ou retiré par le ciel",
+        "silence qui n'est pas un vrai silence — juste l'absence de météo"
+      ],
+      "visuels": [
+        "lumière diffuse sans direction — les ombres ont disparu",
+        "couleurs atténuées, légèrement délavées",
+        "horizon qui se confond avec le ciel — pas de ligne de séparation nette",
+        "visages sans ombre — expression plus difficile à lire sous cette lumière"
+      ],
+      "tactiles": [
+        "température tempérée sans être douce — ni agréable ni désagréable",
+        "air qui ne résiste pas, ne colle pas, ne pique pas"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "absence d'impulsion extérieure — le ciel couvert ne pousse ni à l'action ni au repos",
+      "journée sans repères temporels clairs — on ne sait pas quelle heure il est",
+      "état neutre qui peut basculer dans la torpeur ou la concentration selon le personnage",
+      "invisibilité des expressions — la lumière diffuse efface les nuances du visage"
+    ],
+    "emotionsTypiques": [
+      "neutralité légèrement oppressante",
+      "impression d'une journée sans début ni fin",
+      "ennui possible ou concentration intérieure selon le contexte",
+      "sentiment que rien d'important ne peut arriver — ou que tout peut arriver sans signal"
+    ],
+    "usagesNarratifs": [
+      "décor des scènes de routine ou de monotonie délibérée",
+      "fond neutre qui laisse toute la place au dialogue ou à l'action intérieure",
+      "journée ordinaire dont la grisaille contraste avec un événement extraordinaire",
+      "accompagnement d'une dépression légère ou d'un état de suspension"
+    ],
+    "contraste": "Sa neutralité absolue fait ressortir les émotions humaines sans concurrence. Contraste fort avec tout événement vif — un ciel couvert rend les moments de couleur plus puissants.",
+    "notesEditoriales": [
+      "Le ciel couvert gris est sous-utilisé parce qu'il est visuellement peu frappant — c'est précisément sa force.",
+      "Il efface les ombres sur les visages — utile pour les scènes où la lisibilité émotionnelle doit être réduite.",
+      "Sa neutralité peut servir de point de départ d'une rupture narrative : 'Et pourtant, ce jour-là...'"
+    ]
+  },
+  {
+    "id": "nuit-gel-etoilee",
+    "label": "Nuit de gel sous les étoiles",
+    "type": "froid",
+    "definitionCourte": "Nuit sans nuages, donc sans couverture — le froid pénètre librement depuis le ciel étoilé, et l'espace entre les étoiles semble trop grand, trop noir, trop présent.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "air pur à l'extrême — sans humidité, sans particules, presque vide",
+        "odeur de givre qui commence à se former sur les surfaces",
+        "rien d'autre — le froid a tout suspendu"
+      ],
+      "auditifs": [
+        "silence presque total — le froid a tout figé",
+        "craquement d'un arbre au loin — le bois qui travaille dans le gel",
+        "pas sur le sol gelé qui résonnent sans être absorbés"
+      ],
+      "visuels": [
+        "ciel d'une densité d'étoiles rare — la pollution lumineuse atténuée par le froid sec",
+        "tout ce qui réfléchit la lumière stellaire scintille — givre, glace, flaques gelées",
+        "propre haleine visible comme un petit nuage blanc",
+        "immobilité totale — le monde figé dans le gel"
+      ],
+      "tactiles": [
+        "froid qui brûle les narines à chaque inspiration",
+        "sol dur sous les pas — gelé en profondeur",
+        "visage qui fait mal après quelques minutes dehors"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "sentiment d'être seul dans un espace immense — le ciel étoilé écrase sans agresser",
+      "clarté de pensée que le froid impose — les idées brumeuses se tranchent",
+      "conscience de sa propre petitesse face au ciel — vertige possible",
+      "beauté qui fait presque mal — trop vaste, trop froide pour être confortable",
+      "désir de rentrer et désir de rester coexistent"
+    ],
+    "emotionsTypiques": [
+      "vertige cosmique doux",
+      "solitude absolue — ni bonne ni mauvaise, juste entière",
+      "clarté mentale que le froid impose",
+      "sentiment de suspension hors du temps ordinaire"
+    ],
+    "usagesNarratifs": [
+      "scène de contemplation ou de révélation sous le ciel étoilé",
+      "moment de décision pris dans l'isolement et la clarté du froid",
+      "décor d'un deuil ou d'une rupture — le ciel est indifférent à tout",
+      "scène entre deux personnages qui regardent les étoiles — rapprochement ou distance"
+    ],
+    "contraste": "Contraste avec les espaces intérieurs chauds — la nuit de gel rend le foyer plus précieux. Contraste avec la journée qui suit, presque douce en comparaison.",
+    "notesEditoriales": [
+      "Le froid de la nuit claire est plus silencieux, plus vaste, moins agressif que le froid de journée.",
+      "Les étoiles dans le froid semblent plus proches — paradoxe à exploiter.",
+      "Éviter la contemplation stellaire automatiquement liée à la mort — elle peut aussi signifier la résistance."
+    ]
+  },
+  {
+    "id": "vent-du-sud-chaud",
+    "label": "Vent du sud chaud et sec",
+    "type": "vent",
+    "definitionCourte": "Vent qui vient de loin, qui sent autre chose — le sable, la garrigue, une chaleur étrangère. Il dessèche les lèvres, irrite les yeux, et apporte avec lui quelque chose d'exotique et d'inquiétant.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "odeur de terre sèche et de poussière transportée de loin",
+        "garrigue si vent méditerranéen — thym, lavande, résine",
+        "odeur de sable possible — fine poussière ocre qui s'installe partout",
+        "chaleur sèche qui assèche les muqueuses avant d'être sentie"
+      ],
+      "auditifs": [
+        "sifflement aigu dans les antennes et les fils — différent des autres vents",
+        "volets qui claquent avec une régularité nerveuse",
+        "feuilles qui bruissent sans arrêt — le vent ne s'arrête jamais vraiment",
+        "voix portées de façon imprévisible — parfois jusqu'à vous, parfois arrachées"
+      ],
+      "visuels": [
+        "ciel qui prend une teinte légèrement ocre ou orangée",
+        "poussière visible dans la lumière oblique",
+        "cheveux et vêtements battus dans une direction constante",
+        "yeux plissés de tous les gens dehors — la lumière et la poussière"
+      ],
+      "tactiles": [
+        "lèvres qui se dessèchent rapidement",
+        "yeux qui irritent, qui pleurent malgré eux",
+        "chaleur sèche sur la peau — différente de la canicule, plus agressive",
+        "sensation d'électricité statique dans les cheveux et les vêtements"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "irritabilité neurologique — certains vents chauds sont liés à des migraines et des tensions",
+      "désorientation légère — le vent change l'acoustique et les repères",
+      "sensation de venir d'ailleurs — le vent transporte quelque chose d'étranger",
+      "agitation intérieure sans cause identifiable",
+      "certains personnages adorent ce vent — son énergie, son étrangeté"
+    ],
+    "emotionsTypiques": [
+      "irritabilité sans objet",
+      "fièvre légère — état légèrement altéré",
+      "désir de mouvement, d'aller quelque part",
+      "mélancolie étrange importée d'ailleurs"
+    ],
+    "usagesNarratifs": [
+      "vent qui arrive avec un personnage ou précède un changement",
+      "déclencheur d'une agitation narrative — quelque chose vient",
+      "décor exotique pour un lieu ordinaire — le vent du sud transforme le familier",
+      "personnage qui réagit au vent de façon révélatrice — qui est dérangé, qui est vivifié"
+    ],
+    "contraste": "Contraste avec la pluie qui peut suivre si le vent pousse des nuages. Contraste avec le calme qui revient après — et le sable qu'il a laissé partout.",
+    "notesEditoriales": [
+      "Le vent du sud a une personnalité propre — méditerranéen, saharien, chaud — à préciser selon la géographie du récit.",
+      "Il peut être lié à des pratiques locales : en Provence, le mistral était une excuse légale pour la démence.",
+      "Le sable laissé dans les espaces intérieurs est un détail concret puissant — le vent s'est introduit partout."
+    ]
+  },
+  {
+    "id": "verglas",
+    "label": "Verglas",
+    "type": "froid",
+    "definitionCourte": "Glace invisible sur les surfaces ordinaires. Le danger n'a pas de couleur, pas de texture visible, pas de signal. Le monde familier est devenu un piège.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "rien de particulier — le verglas n'a pas d'odeur, c'est son piège",
+        "air froid et légèrement humide — indifférenciable d'une journée normale"
+      ],
+      "auditifs": [
+        "silence — aucun signal sonore du danger",
+        "bruit caractéristique d'une chute — absent jusqu'au moment où il est trop tard",
+        "crissement discret de pneus sur une surface à risque"
+      ],
+      "visuels": [
+        "surfaces qui brillent légèrement — mais pas toujours",
+        "gens qui marchent différemment — petits pas, bras légèrement écartés",
+        "accidents de voiture à distance — une logique causale visible seulement de loin"
+      ],
+      "tactiles": [
+        "glissement soudain sous le pied — perte de contrôle instantanée",
+        "réflexe de rattrapage — les bras qui s'écartent, le cœur qui s'emballe",
+        "surface absolument lisse sous les doigts si on la touche"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "vigilance constante qui épuise — chaque pas est une question",
+      "sentiment de trahison du monde familier — les trottoirs ordinaires sont devenus dangereux",
+      "ralentissement imposé — on ne peut pas se presser sur le verglas",
+      "vulnérabilité physique soudaine pour les personnes âgées ou peu habiles",
+      "adrénaline du glissement et de la récupération"
+    ],
+    "emotionsTypiques": [
+      "vigilance anxieuse",
+      "sentiment de trahison du familier",
+      "humour possible après une glissade sans conséquence",
+      "peur réelle pour soi ou pour quelqu'un de plus fragile"
+    ],
+    "usagesNarratifs": [
+      "accident ou chute comme déclencheur narratif",
+      "métaphore de la confiance brisée — ce qui semblait sûr ne l'était pas",
+      "ralentissement imposé à un personnage pressé — le monde lui résiste physiquement",
+      "scène de soin ou de vulnérabilité — aider quelqu'un à avancer sur le verglas"
+    ],
+    "contraste": "Contraste avec les surfaces molles et sûres — le verglas dit que ce qui était fiable ne l'est plus. Amplifie la vulnérabilité des personnages âgés ou blessés.",
+    "notesEditoriales": [
+      "Le verglas est un danger sans signal — à utiliser pour les scènes de surprise et de trahison du monde ordinaire.",
+      "Sa transparence est sa caractéristique narrative principale : le danger est invisible.",
+      "La glissade sans chute est une micro-tension parfaite pour une scène par ailleurs calme."
+    ]
+  },
+  {
+    "id": "ciel-rouge-soir",
+    "label": "Ciel rouge du soir",
+    "type": "grand-beau",
+    "definitionCourte": "Ciel qui s'embrase à l'ouest pendant dix à vingt minutes avant la nuit. Spectaculaire sans prévenir, et déjà passé au moment où on a appelé quelqu'un pour le voir.",
+    "elementsSensoriels": {
+      "olfactifs": [
+        "air du soir — légèrement plus frais, herbe qui exhale après une journée chaude",
+        "odeur de rosée qui commence — fraîche, végétale",
+        "fumée de cheminée possible si soirée froide"
+      ],
+      "auditifs": [
+        "oiseaux du soir — crépusculaires, différents de ceux du matin",
+        "activité humaine qui ralentit — voix moins nombreuses",
+        "silence de la contemplation — les gens regardent vers le ciel, ils ne parlent pas"
+      ],
+      "visuels": [
+        "rouge, orange, rose, violet — couleurs qui changent vite et ne se répètent jamais à l'identique",
+        "silhouettes découpées contre le ciel — arbres, toits, antennes",
+        "nuages qui deviennent des tableaux en quelques minutes",
+        "horizon qui semble plus proche dans cette lumière"
+      ],
+      "tactiles": [
+        "fraîcheur du soir qui commence à descendre",
+        "lumière rouge chaude sur la peau du visage tourné vers l'ouest",
+        "brise légère du soir après une journée immobile"
+      ]
+    },
+    "effetsSurPersonnage": [
+      "arrêt spontané de l'activité — la beauté interrompt ce qu'on était en train de faire",
+      "désir de partager — pointer vers quelqu'un d'autre, appeler",
+      "sentiment de chance ou de don — avoir été là au bon moment",
+      "mélancolie rapide liée à la disparition imminente — c'est déjà en train de passer",
+      "comparaison intérieure avec le propre état du personnage"
+    ],
+    "emotionsTypiques": [
+      "émerveillement spontané et fugace",
+      "mélancolie du passage — la beauté ne dure pas",
+      "gratitude silencieuse",
+      "désir de témoigner — de montrer, de raconter"
+    ],
+    "usagesNarratifs": [
+      "pause narrative — le ciel impose l'arrêt et la contemplation",
+      "scène entre deux personnages — ce qu'on dit en regardant le même ciel",
+      "révélateur : celui qui ne le voit pas, ou qui ne peut pas s'arrêter pour le regarder",
+      "fin de chapitre ou de journée narrative — le ciel qui marque la transition"
+    ],
+    "contraste": "Contraste immédiat avec la nuit qui le suit — la beauté n'a pas de lendemain. Amplifie les scènes de fin et de transition.",
+    "notesEditoriales": [
+      "La brièveté du ciel rouge du soir est sa qualité narrative principale — toujours déjà en train de passer.",
+      "Le désir de partager est une réaction universelle — riche pour les scènes de connexion ou de solitude.",
+      "Éviter d'en faire un symbole de mort — il peut aussi être une promesse, un début."
+    ]
+  }
+]

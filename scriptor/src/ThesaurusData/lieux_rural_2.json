@@ -1,0 +1,672 @@
+[
+  {
+    "id": "champ-laboure",
+    "label": "Champ labouré",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "sillons parallèles s'étirant jusqu'à la lisière, réguliers comme des plis",
+      "mottes de terre retournée, brun foncé ou rouge argile selon le sol",
+      "corbeaux perchés sur les billons en file, s'envolant au passage",
+      "traces de pneus du tracteur marquées dans la terre fraîche",
+      "cailloux rejetés en bord de sillon par le passage de la charrue",
+      "horizon dégagé, ciel immense au-dessus du champ vide",
+      "résidus de chaume de la récolte précédente, tordus et décolorés"
+    ],
+    "bruits": [
+      "cri des corbeaux s'interpellant sur les sillons",
+      "vent qui passe sans obstacle sur la surface ouverte",
+      "bruit sourd du tracteur au loin si la charrue est encore en action",
+      "silence pesant coupé seulement par les oiseaux"
+    ],
+    "odeurs": [
+      "terre fraîchement retournée, humus et argile mêlés",
+      "minéral et végétal en décomposition, légèrement acide",
+      "air froid de l'automne portant la poussière du sillon"
+    ],
+    "textures": [
+      "motte de terre qui s'effrite entre les doigts si elle est sèche",
+      "argile qui colle et alourdit les semelles si le sol est mouillé",
+      "arête de sillon tranchante sous la botte"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'immensité et de petitesse face à l'étendue",
+      "mélancolie de la fin de cycle, le champ attendant",
+      "calme austère d'un paysage vidé de sa production",
+      "potentiel latent, impression que tout recommence"
+    ],
+    "usagesNarratifs": [
+      "espace de solitude et de méditation pour un personnage",
+      "lieu symbolisant l'attente, le recommencement, la patience",
+      "décor d'une scène de travail interrompu ou de panne",
+      "paysage traversé lors d'une errance ou d'une fuite"
+    ],
+    "tensionsTypiques": [
+      "terre trop sèche ou trop humide qui compromet les semailles",
+      "dispute de bornage sur la limite entre deux champs",
+      "présence d'un inconnu traversant le champ privé",
+      "découverte dans la terre retournée de quelque chose d'inattendu"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur",
+        "description": "Lit la qualité du labour, la profondeur des sillons, l'état des mottes. Le champ est un outil de travail. Il évalue, calcule, anticipe les semailles."
+      },
+      {
+        "profil": "Promeneur urbain",
+        "description": "Frappé par la monotonie régulière des sillons et l'immensité du ciel. Ressent un mélange d'ennui et d'ouverture. L'odeur de terre lui semble forte et nouvelle."
+      },
+      {
+        "profil": "Personnage en deuil",
+        "description": "Le champ labouré ressemble à quelque chose de profané, de mis à nu. La terre retournée évoque un enfouissement. L'espace vide amplifie le manque."
+      }
+    ],
+    "notesEditoriales": [
+      "Le champ labouré est un paysage de l'entre-deux : entre deux cycles, entre deux saisons. Puissant pour les scènes de transition narrative.",
+      "Les corbeaux sur les sillons sont un détail classique mais juste — à nuancer avec un autre détail plus inattendu.",
+      "L'absence de couleur vive dans ce paysage est un choix fort : à exploiter ou à rompre délibérément."
+    ]
+  },
+  {
+    "id": "prairie",
+    "label": "Prairie",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "herbe dense et légèrement ondulante sous le vent, d'un vert soutenu",
+      "pissenlits et trèfles mêlés aux graminées, niveau variable selon la saison",
+      "fil barbelé tendu sur piquets de bois ou de métal rouillé",
+      "taches sombres là où les vaches ont piétiné et déposé leurs bouses",
+      "fourmilières discrètes au pied des piquets, couronnées d'aiguilles",
+      "mare ou abreuvoir en tôle dans un angle, entouré de boue"
+    ],
+    "bruits": [
+      "frémissement de l'herbe longue dans le vent",
+      "bourdonnement d'insectes, présence diffuse en été",
+      "cloches des vaches tintant à distance",
+      "chant d'alouette en altitude, quasi invisible"
+    ],
+    "odeurs": [
+      "herbe fraîche coupée ou froissée, végétal et sucré",
+      "bouse sèche ou fraîche selon la saison",
+      "fleurs de trèfle en été, légèrement mielleuses"
+    ],
+    "textures": [
+      "herbe longue qui fouette les mollets au passage",
+      "sol spongieux sous les pieds après la pluie",
+      "tige de pissenlit creuse et laiteuse entre les doigts"
+    ],
+    "emotionsTypiques": [
+      "détente et ouverture, impression de respirer plus grand",
+      "légèreté estivale ou nostalgie automnale selon la saison",
+      "impression d'immobilité du temps en milieu de journée",
+      "douce indifférence du paysage aux soucis humains"
+    ],
+    "usagesNarratifs": [
+      "lieu d'une scène d'enfance ou de jeu libre",
+      "espace d'une conversation entre deux personnages qui marchent",
+      "paysage de fond pour une scène bucolique à valeur de contraste",
+      "lieu où un personnage s'arrête et prend une décision"
+    ],
+    "tensionsTypiques": [
+      "vache échappée ou blessée à retrouver avant la nuit",
+      "sécheresse qui brûle l'herbe et compromet l'alimentation du troupeau",
+      "conflit sur les droits de passage ou d'usage",
+      "présence d'un étranger au milieu de la prairie sans explication"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Éleveur",
+        "description": "Évalue la hauteur de l'herbe, sa densité, sa qualité fourragère. Voit où le sol est trop piétiné, où la clôture s'est affaissée. La prairie est un capital à gérer."
+      },
+      {
+        "profil": "Enfant",
+        "description": "L'herbe haute est un monde à part, une jungle miniature. Il court, se cache, regarde le ciel couché sur le dos. Le temps s'arrête."
+      },
+      {
+        "profil": "Peintre ou artiste de passage",
+        "description": "Perçoit les nuances de vert, la lumière changeante, le mouvement de l'herbe comme une texture vivante. S'arrête souvent, s'accroupit, regarde de côté."
+      }
+    ],
+    "notesEditoriales": [
+      "La prairie est trop souvent traitée comme un décor neutre : lui donner une saison précise et une heure du jour change tout.",
+      "Le son des cloches de vaches à distance est un détail d'une grande efficacité évocatrice sans être excessif.",
+      "Une prairie en été et une prairie en novembre sont des lieux presque opposés : choisir consciemment."
+    ]
+  },
+  {
+    "id": "paturage",
+    "label": "Pâturage",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "troupeau dispersé en petits groupes, têtes baissées sur l'herbe rase",
+      "parcelle délimitée par une clôture électrique, isolateurs orange",
+      "bouses fraîches parsemant le sol, entourées de mouches",
+      "bosquets d'arbres en îlots où les bêtes se réunissent à la chaleur",
+      "auge en béton ou cuve en plastique pour l'eau, débordante de mousse verte",
+      "herbe plus courte et plus terne que dans la prairie non pâturée",
+      "traces de sabots en demi-cercle autour de l'abreuvoir"
+    ],
+    "bruits": [
+      "mâchonnement sourd et constant du troupeau",
+      "meuglement isolé sans urgence apparente",
+      "bourdonnement de mouches autour des bouses",
+      "claquement du fil électrique contre un poteau"
+    ],
+    "odeurs": [
+      "herbe mâchée et salive animale, légèrement acide",
+      "bouse fraîche, forte et lourde",
+      "poil chaud des bovins au soleil"
+    ],
+    "textures": [
+      "herbe rase et dure sous les semelles, parsemée de plaques nues",
+      "poil du flanc d'une vache, épais et légèrement humide",
+      "sol compacté et durci autour de l'abreuvoir"
+    ],
+    "emotionsTypiques": [
+      "calme presque hypnotique du troupeau en train de paître",
+      "sentiment de lenteur irréductible du monde animal",
+      "légère répulsion pour qui n'est pas familier des bouses",
+      "attachement discret à certains animaux reconnus"
+    ],
+    "usagesNarratifs": [
+      "espace de surveillance silencieuse pour un personnage seul",
+      "lieu où une naissance ou une mort animale survient",
+      "décor d'une scène de transmission entre éleveur vieillissant et successeur",
+      "paysage de fond d'une journée ordinaire qui bascule"
+    ],
+    "tensionsTypiques": [
+      "animal blessé ou malade à identifier parmi le troupeau",
+      "fil électrique coupé et troupeau qui s'échappe",
+      "prédateur ayant attaqué une bête pendant la nuit",
+      "sécheresse réduisant l'herbe disponible, pâturage épuisé"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Éleveur expérimenté",
+        "description": "Compte les bêtes du regard, repère immédiatement celle qui se tient à l'écart ou boite. Le pâturage est une carte mentale qu'il lit en permanence."
+      },
+      {
+        "profil": "Randonneur traversant",
+        "description": "Hésite à traverser par crainte des bêtes. Les trouve imposantes de près. Accélère le pas, essaie de rester discret. L'odeur le surprend."
+      },
+      {
+        "profil": "Vétérinaire",
+        "description": "Entre dans le pâturage avec assurance, repère les animaux qui méritent attention. Observe postures, robe, comportement alimentaire. Chaque bête lui communique quelque chose."
+      }
+    ],
+    "notesEditoriales": [
+      "Le pâturage est un lieu de lenteur assumée — à utiliser pour ralentir le rythme d'une scène ou créer un contraste avec une urgence intérieure.",
+      "Les bovins au pâturage sont souvent des personnages secondaires silencieux très efficaces — témoins indifférents qui ancrent la scène.",
+      "Distinguer pâturage (animaux présents, herbe rase) de prairie (herbe haute, pas nécessairement pâturée) pour éviter l'approximation."
+    ]
+  },
+  {
+    "id": "verger",
+    "label": "Verger",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "rangées d'arbres fruitiers aux troncs tordus, écorce couverte de lichen",
+      "herbe haute entre les arbres, humide et froide au sol",
+      "fruits tombés au pied des arbres, certains éclatés et brunis",
+      "branches basses chargées en saison, fouettant le passage",
+      "échelle en bois appuyée contre un tronc, rungs disjoints",
+      "cagettes en bois empilées au bout d'une rangée"
+    ],
+    "bruits": [
+      "chute sourd d'un fruit mûr sur le sol herbeux",
+      "bourdonnement des guêpes sur les fruits tombés",
+      "froissement des feuilles dans le vent de fin d'été",
+      "craquement d'une branche fléchie sous le poids de la récolte"
+    ],
+    "odeurs": [
+      "fruits mûrs éclatés au sol, sucré et légèrement fermenté",
+      "lichen humide sur les troncs, terreux et frais",
+      "pomme ou poire fraîche, acide et végétal"
+    ],
+    "textures": [
+      "peau du fruit mûr sous le pouce, légèrement résistante puis cédante",
+      "écorce rugueuse et fissurée du vieux tronc de pommier",
+      "sol irrégulier caché par l'herbe haute, risque de cheville"
+    ],
+    "emotionsTypiques": [
+      "nostalgie douce des récoltes d'enfance",
+      "abondance légèrement oppressante en période de pleine production",
+      "mélancolie de la fin de saison quand les fruits tombent seuls",
+      "plaisir sensoriel simple du fruit cueilli et mangé sur place"
+    ],
+    "usagesNarratifs": [
+      "lieu de scène d'enfance ou de souvenir sensoriel fort",
+      "espace d'une conversation informelle pendant la cueillette",
+      "décor symbolisant l'abondance ou son contraire, l'abandon",
+      "lieu d'un événement passé dont les arbres restent témoins"
+    ],
+    "tensionsTypiques": [
+      "récolte compromise par le gel ou la maladie",
+      "verger abandonné depuis la mort du propriétaire, en friche",
+      "dispute sur les fruits tombés de l'arbre côté voisin",
+      "chute d'un personnage depuis l'échelle ou d'une branche"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Arboriculteur",
+        "description": "Évalue la charge des branches, la couleur des fruits, la présence de tavelure ou de cochenilles. La beauté du verger ne l'arrête pas : il voit ce qu'il y a à faire."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Le verger est un terrain de jeu et de liberté. Grimpe, cueille, mange directement. Les vieux troncs tordus sont des chevaux ou des monstres selon l'heure."
+      },
+      {
+        "profil": "Héritier après un décès",
+        "description": "Voit le verger comme une responsabilité ou un poids. Les arbres plantés par quelqu'un d'autre sont une présence muette de ce quelqu'un. Il ne sait pas s'il va garder ou arracher."
+      }
+    ],
+    "notesEditoriales": [
+      "Le verger est un des rares paysages ruraux associé spontanément à l'enfance — à utiliser pour des régressions émotionnelles ou des retours sur le passé.",
+      "La chute des fruits mûrs au sol est une image de fin de cycle très forte sans être convenue si elle est ancrée dans le sensible.",
+      "Un verger en fleurs et un verger en fin de récolte sont deux espaces émotionnels très différents : être précis sur la saison."
+    ]
+  },
+  {
+    "id": "vigne-en-hiver",
+    "label": "Vigne en hiver",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "pieds de vigne taillés court, ceps tordus comme des poings fermés",
+      "fils de fer parallèles tendus sur piquets, légèrement rouillés",
+      "sol nu entre les rangs, terre battue et froide",
+      "écorce grise et ridée des vieux ceps, couverte de lichens fins",
+      "sarments coupés entassés en fagots le long des rangs",
+      "ciel bas et uniforme, lumière plate sans ombre portée"
+    ],
+    "bruits": [
+      "vent qui sifflé entre les fils de fer tendus",
+      "craquement d'un sarment gelé sous la semelle",
+      "silence presque total par temps calme et couvert",
+      "froissement d'une bâche de protection arrachée par le vent"
+    ],
+    "odeurs": [
+      "terre froide et humide, légèrement argileuse",
+      "bois mort des sarments taillés, sec et sans sève",
+      "air chargé d'humidité sans odeur dominante"
+    ],
+    "textures": [
+      "cep rugueux et tordu sous la main gantée",
+      "sarment cassant, sec, qui craque net",
+      "sol gelé en surface, dur comme de la pierre"
+    ],
+    "emotionsTypiques": [
+      "austérité presque mélancolique du paysage dépouillé",
+      "sentiment de résistance face au froid et au dénuement",
+      "calme profond d'un paysage qui se repose",
+      "patience imposée par le cycle végétal qu'on ne peut accélérer"
+    ],
+    "usagesNarratifs": [
+      "décor d'une scène de travail solitaire par temps froid",
+      "paysage symbolisant l'attente, la dormance, le potentiel invisible",
+      "espace d'une errance ou d'une fuite par temps hivernal",
+      "lieu de confrontation entre deux personnages sans témoins"
+    ],
+    "tensionsTypiques": [
+      "gel tardif menaçant les bourgeons au débourrement",
+      "travail de taille qui doit être fini avant la montée de sève",
+      "vigneron seul dans le froid, épuisé, qui perd pied",
+      "dispute sur la méthode de taille, tradition contre modernité"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Vigneron",
+        "description": "Lit chaque cep comme un individu : où tailler, combien de bourgeons laisser. La vigne en hiver est son texte à corriger. Le froid est une condition de travail, pas un décor."
+      },
+      {
+        "profil": "Touriste hors saison",
+        "description": "Déçu par l'aspect dépouillé et sombre du vignoble. Ne comprend pas ce qu'il voit. Préfère les photos de septembre. Le paysage lui semble mort."
+      },
+      {
+        "profil": "Peintre ou photographe",
+        "description": "Fasciné par la répétition des formes tordues, la géométrie des fils, la lumière plate. Trouve dans la vigne en hiver un sujet plus intéressant qu'en été."
+      }
+    ],
+    "notesEditoriales": [
+      "La vigne en hiver est un paysage paradoxal : apparent dénuement et richesse latente. À exploiter pour des personnages à la croisée d'un cycle.",
+      "La répétition des rangs et des ceps crée un effet hypnotique ou obsessionnel selon l'état du personnage.",
+      "Éviter le cliché de la vigne romantique : en hiver, c'est un paysage dur, froid, presque hostile."
+    ]
+  },
+  {
+    "id": "champ-de-tournesols",
+    "label": "Champ de tournesols",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "tiges hautes et rigides, certaines dépassant la tête d'un adulte",
+      "capitules jaune vif orientés à l'est le matin, au sud en journée",
+      "feuilles larges et rugueuses, légèrement collantes au toucher",
+      "couloir entre deux rangées, sombre et étroit comme un tunnel végétal",
+      "graines noires apparaissant sur les capitules à maturité",
+      "tiges sèches en fin de saison, capitules brunis inclinant la tête"
+    ],
+    "bruits": [
+      "froissement épais des feuilles larges dans le vent",
+      "bourdonnement dense des abeilles sur les capitules",
+      "craquement sourd des tiges rigides qui se balancent",
+      "silence particulier au cœur du champ, étouffé par la végétation"
+    ],
+    "odeurs": [
+      "odeur végétale forte, légèrement résineuse, des tiges et feuilles",
+      "pollen dense et légèrement sucré en pleine floraison",
+      "terre chaude et sèche sous le couvert en été"
+    ],
+    "textures": [
+      "feuille rugueuse et légèrement collante contre la peau",
+      "tige ligneuse qui résiste quand on essaie de la plier",
+      "capitule bruissant de graines sous les doigts à maturité"
+    ],
+    "emotionsTypiques": [
+      "émerveillement visuel face à l'uniformité et à la couleur",
+      "légère oppression dans le couloir sombre entre les rangs",
+      "gaieté instinctive liée au jaune et à l'été",
+      "mélancolie de fin d'été quand les capitules se penchent"
+    ],
+    "usagesNarratifs": [
+      "lieu de cache ou de fuite dans un espace désorientant",
+      "décor d'une scène estivale à contraste fort avec un drame",
+      "espace symbolisant la direction, l'orientation, la constance",
+      "lieu d'une rencontre ou d'un jeu d'enfants"
+    ],
+    "tensionsTypiques": [
+      "se perdre dans les rangs sans pouvoir s'orienter",
+      "sécheresse brûlant les tiges avant maturation",
+      "découverte d'un objet ou d'une présence au cœur du champ",
+      "sanglier ou chevreuil couché dans les rangs, invisible"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur",
+        "description": "Voit la couleur des feuilles, évalue la taille des capitules, anticipe la récolte. La beauté lui est secondaire. Il cherche les signes de stress hydrique."
+      },
+      {
+        "profil": "Touriste photographe",
+        "description": "Cherche l'angle parfait, la lumière du matin, le cadrage. Le champ est un sujet avant d'être un lieu. Il évite de s'y enfoncer trop loin."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Fasciné par la hauteur des tiges qui le dépassent. L'intérieur du champ est une forêt jaune, un labyrinthe. Il s'y perd volontiers et appelle pour qu'on le trouve."
+      }
+    ],
+    "notesEditoriales": [
+      "Le champ de tournesols est visuellement saturé — à utiliser avec parcimonie ou en opposition délibérée avec un état émotionnel sombre.",
+      "L'intérieur du champ est acoustiquement coupé du monde : un espace de huis clos végétal peu exploité.",
+      "Le tournesol en fin de saison, tête penchée et capitule brun, change radicalement la charge émotionnelle du lieu."
+    ]
+  },
+  {
+    "id": "lavande",
+    "label": "Champ de lavande",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "rangées de plants en dôme arrondi, couverts de fleurs mauves en juillet",
+      "allées de terre ocre entre les rangs, sèche et craquelée",
+      "abeilles en vol stationnaire au-dessus des tiges fleuries",
+      "tiges ligneuses gris-vert en hiver, sèches et odorantes encore",
+      "horizon bleu-mauve si le champ est vaste, fondu dans le ciel",
+      "étiquettes de producteur plantées en bout de rang"
+    ],
+    "bruits": [
+      "bourdonnement continu et dense des pollinisateurs",
+      "froissement léger des tiges sous le vent du plateau",
+      "silence entre les rangs, seul le vent et les insectes"
+    ],
+    "odeurs": [
+      "lavande fraîche en fleur, camphré et floral puissant",
+      "miel de lavande porté par les abeilles et l'air chaud",
+      "terre sèche et calcaire sous la chaleur estivale"
+    ],
+    "textures": [
+      "tige de lavande coupée, légèrement collante de résine",
+      "fleur écrasée entre les doigts libérant l'huile essentielle",
+      "sol calcaire et friable sous les semelles en plein été"
+    ],
+    "emotionsTypiques": [
+      "apaisement sensoriel quasi immédiat lié à l'odeur",
+      "sentiment de carte postale, de beauté attendue et pourtant réelle",
+      "légère saturation olfactive si l'exposition est longue",
+      "nostalgie provençale ou méridionale pour qui en vient"
+    ],
+    "usagesNarratifs": [
+      "décor d'une scène romantique ou de réconciliation",
+      "lieu symbolisant la Provence, un imaginaire régional précis",
+      "espace d'une scène estivale de plein air",
+      "paysage de fond d'un moment de calme avant un retournement"
+    ],
+    "tensionsTypiques": [
+      "gel tardif tuant les plants après débourrement",
+      "sécheresse réduisant la production d'huile essentielle",
+      "conflit avec l'apiculture voisine sur les droits de butinage",
+      "champ rachetable, menace de lotissement"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Producteur de lavande",
+        "description": "Évalue la floraison, surveille les signes de shab (maladie), pense à la date de fauche. L'odeur lui est ordinaire. La beauté du champ est un outil de marketing."
+      },
+      {
+        "profil": "Touriste nordique",
+        "description": "Submergé par le spectacle et l'odeur. Prend des photos de tout. Veut cueillir une tige. L'intensité sensorielle lui semble presque irréelle."
+      },
+      {
+        "profil": "Apiculteur voisin",
+        "description": "Regarde le champ comme une ressource nourricière pour ses ruches. Évalue l'état de la floraison selon ses besoins. La beauté n'est pas son angle d'entrée."
+      }
+    ],
+    "notesEditoriales": [
+      "Le champ de lavande est un lieu à fort risque de cliché touristique — l'ancrer dans une contrainte économique ou une tension le sort du pittoresque.",
+      "L'odeur est si dominante qu'elle peut devenir oppressante : utile pour un personnage avec une hypersensibilité ou un souvenir traumatique lié au parfum.",
+      "En dehors de la floraison (juillet–août), la lavande est un paysage gris-vert austère très différent — préciser la saison."
+    ]
+  },
+  {
+    "id": "colline",
+    "label": "Colline",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "pente douce couverte d'herbe rase et de buissons bas",
+      "roches affleurantes, calcaire ou granit selon la région",
+      "chemin en lacets marqué par le passage des troupeaux",
+      "vue dégagée depuis le sommet sur les champs en contrebas",
+      "arbres isolés au sommet, courbés par le vent dominant",
+      "pierrier sur le versant nord, moussu et glissant"
+    ],
+    "bruits": [
+      "vent plus fort en haut qu'en bas, sifflant dans les pierres",
+      "bêlement d'un troupeau en contrebas, lointain et mat",
+      "chant des insectes en été, strident et constant",
+      "voix portées depuis le bas, déformées par la distance"
+    ],
+    "odeurs": [
+      "thym sauvage ou genêts selon la région, écrasés sous les semelles",
+      "air vif et légèrement iodé en bord de plateau",
+      "résine de pins si la pente en est couverte"
+    ],
+    "textures": [
+      "herbe rase et dure sous les semelles sur le plateau",
+      "pierre chaude et rugueuse sous la paume si on s'appuie",
+      "buisson résistant qui accroche les jambes"
+    ],
+    "emotionsTypiques": [
+      "sentiment de domination et de clarté depuis le sommet",
+      "effort physique et récompense de la vue",
+      "solitude choisie ou subie selon le contexte",
+      "exposition au vent comme sensation physique de vulnérabilité"
+    ],
+    "usagesNarratifs": [
+      "lieu où un personnage vient pour voir ou réfléchir",
+      "espace d'une scène de fuite ou de poursuite sur terrain difficile",
+      "décor symbolisant l'élévation, la distance prise",
+      "point de vue narratif depuis lequel le reste se comprend"
+    ],
+    "tensionsTypiques": [
+      "tempête qui surprend un personnage au sommet exposé",
+      "terrain glissant lors d'une descente précipitée",
+      "quelqu'un vu au loin depuis le sommet, dont on ne sait pas s'il monte",
+      "signal ou feu observé depuis la colline, signifiant une urgence en bas"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Randonneur expérimenté",
+        "description": "Gère son effort, observe le terrain, calcule la météo. La vue est un plaisir acquis. Il repère les sentiers, évalue la distance."
+      },
+      {
+        "profil": "Enfant qui monte pour la première fois",
+        "description": "L'effort est disproportionné, les genoux tremblent. Mais la vue en haut est une révélation. Le monde vu d'en haut modifie quelque chose."
+      },
+      {
+        "profil": "Personnage qui fuit",
+        "description": "Ne regarde pas le paysage. Monte pour ne pas être vu ou pour voir si on le suit. Chaque bruit derrière lui est amplifié par l'effort et la peur."
+      }
+    ],
+    "notesEditoriales": [
+      "La colline crée naturellement une structure narrative : montée, sommet, descente — à mettre en correspondance avec l'arc émotionnel.",
+      "Le vent en haut est un personnage à part entière : il change l'acoustique, la sensation physique, l'humeur.",
+      "La vue depuis le sommet est un outil narratif classique mais efficace — ce que le personnage choisit de regarder en dit autant que la scène elle-même."
+    ]
+  },
+  {
+    "id": "plateau-agricole",
+    "label": "Plateau agricole",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "étendue plane à perte de vue, découpée en parcelles de cultures différentes",
+      "silos métalliques à l'horizon, brillants dans la lumière rasante",
+      "routes droites et interminables, bordées de talus ou de fossés",
+      "ciel immense, nuages à basse altitude visibles sur tout le tour",
+      "poteaux électriques et téléphoniques rythmant la ligne d'horizon",
+      "hangars à distance, seuls repères verticaux dans le plat"
+    ],
+    "bruits": [
+      "vent continu et sans obstacle, changeant de direction imperceptiblement",
+      "bruit lointain d'un tracteur invisible dans une parcelle",
+      "absence de son naturel intense, plateau ouvert et balayé"
+    ],
+    "odeurs": [
+      "odeur de la culture en cours : blé, betterave, colza, selon la saison",
+      "air froid et sec en hiver, chaud et poussiéreux en été",
+      "engrais répandu après épandage, âcre et persistant"
+    ],
+    "textures": [
+      "vent constant contre le visage, légèrement desséchant",
+      "asphalte chaud sous les semelles en été",
+      "poussière soulevée par chaque véhicule sur les routes sèches"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'écrasement sous le ciel trop grand",
+      "solitude géographique parfois oppressante",
+      "calme austère et dépouillement assumé",
+      "sentiment de transparence, d'être vu de partout"
+    ],
+    "usagesNarratifs": [
+      "paysage de transition ou de traversée longue et silencieuse",
+      "décor d'une scène de poursuite en voiture sur route droite",
+      "espace symbolisant l'isolement social ou géographique",
+      "lieu où rien ne se cache — tout le monde voit tout le monde"
+    ],
+    "tensionsTypiques": [
+      "panne sur une route sans réseau ni passage",
+      "orage qui s'annonce visible de loin sans abri possible",
+      "quelqu'un qui vous observe depuis le bord d'une parcelle",
+      "route barrée, demi-tour impossible, situation sans issue claire"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant du plateau",
+        "description": "Perçoit la beauté particulière de l'horizontale, les changements de lumière sur les cultures. Ne sent plus le vent. Lit le paysage comme un calendrier agricole."
+      },
+      {
+        "profil": "Personnage arrivant de la montagne ou de la mer",
+        "description": "Déstabilisé par l'absence de repère vertical. Le ciel lui semble menaçant et trop présent. L'espace ouvert crée une anxiété diffuse."
+      },
+      {
+        "profil": "Conducteur sur route nationale",
+        "description": "Le plateau est une épreuve de durée : même paysage sur des dizaines de kilomètres. La monotonie peut hypnotiser. L'attention décroche sans qu'on s'en aperçoive."
+      }
+    ],
+    "notesEditoriales": [
+      "Le plateau agricole est l'un des paysages les plus difficiles à rendre intéressants pour un lecteur urbain — insister sur la verticalité du ciel pour compenser l'horizontalité du sol.",
+      "La transparence du lieu — on voit loin, on est vu — est une tension latente très exploitable narrativement.",
+      "Éviter de traiter le plateau comme un non-lieu : il a une géographie, une histoire agraire, des usagers précis."
+    ]
+  },
+  {
+    "id": "lande",
+    "label": "Lande",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "végétation basse et dense : bruyères, ajoncs, fougères sèches",
+      "sol acide et pauvre, souvent tourbeux ou sablonneux",
+      "roches affleurantes couvertes de lichen gris-vert",
+      "sentier étroit et peu marqué disparaissant dans la végétation",
+      "horizon dégagé, légèrement ondulant, sans arbre sauf en lisière",
+      "nappes de brume basse en automne, dissimulant les creux du terrain"
+    ],
+    "bruits": [
+      "vent qui passe dans les fougères avec un bruissement rugueux",
+      "cri rauque d'un corbeau ou d'un geai traversant à basse altitude",
+      "craquement des ajoncs secs sous les pieds",
+      "silence oppressant par absence de vent, en pleine lande"
+    ],
+    "odeurs": [
+      "bruyère en fleur en fin d'été, légèrement mielleuse",
+      "tourbe humide en automne, lourde et terreuse",
+      "résine d'ajonc chauffé au soleil"
+    ],
+    "textures": [
+      "fougère sèche qui craque et s'effrite entre les doigts",
+      "sol spongieux dans les zones humides, qui cède sous le pied",
+      "ajonc qui lacère la peau si on s'y accroche"
+    ],
+    "emotionsTypiques": [
+      "impression d'une nature indifférente et légèrement hostile",
+      "sensation de liberté austère et sans concession",
+      "mélancolie teintée de grandeur, sentiment celtique ou gothique",
+      "vulnérabilité face à un paysage qui n'offre pas d'abri"
+    ],
+    "usagesNarratifs": [
+      "paysage de fuite, d'errance, de désorientation",
+      "décor d'une scène gothique ou de tension psychologique",
+      "lieu symbolisant la marge, l'entre-deux, l'indécis",
+      "espace où un personnage se perd — géographiquement ou intérieurement"
+    ],
+    "tensionsTypiques": [
+      "incendie de lande en période sèche, se propageant vite",
+      "tourbière dissimulée par la végétation, risque d'enlisement",
+      "désorientation dans la brume sans point de repère",
+      "rencontre inattendue avec un animal sauvage ou une personne"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant de la région",
+        "description": "Connaît chaque creux, chaque zone humide. Traverse la lande par des chemins invisibles pour les autres. Ne la trouve ni belle ni menaçante — elle est chez lui."
+      },
+      {
+        "profil": "Randonneur d'ailleurs",
+        "description": "Fasciné par la rudesse du paysage mais mal équipé pour le sol irrégulier et la végétation dense. Surestime sa capacité à s'orienter. Se retrouve parfois à rebrousser chemin."
+      },
+      {
+        "profil": "Personnage en crise",
+        "description": "La lande lui ressemble : sans repère, sans abri, exposée. Il y marche sans but précis. Le paysage amplifie son état intérieur sans le commenter."
+      }
+    ],
+    "notesEditoriales": [
+      "La lande est un paysage à forte charge littéraire (Brontë, Hardy) — en prendre conscience pour l'utiliser délibérément ou au contraire l'ancrer dans le quotidien.",
+      "La tourbière dissimulée sous la végétation est un détail de tension physique réel, peu exploité en littérature française.",
+      "La lande en brume est un cliché fonctionnel : l'assumer et le densifier par un détail sonore ou olfactif précis."
+    ]
+  }
+]

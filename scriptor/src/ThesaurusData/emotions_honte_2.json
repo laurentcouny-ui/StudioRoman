@@ -1,0 +1,338 @@
+[
+  {
+    "id": "remords",
+    "label": "Remords",
+    "famille": "honte-culpabilite",
+    "definitionCourte": "Douleur morale persistante liée à un acte passé que le personnage ne peut pas défaire — et dont il se sait pleinement responsable.",
+
+    "signesPhysiques": [
+      "regard qui fuit le sujet ou la personne concernée",
+      "mains qui se crispent ou s'immobilisent",
+      "pause avant de répondre — comme si la bouche devait approuver chaque mot",
+      "gorge qui se serre en évoquant le sujet",
+      "légère contraction du visage à l'évocation de l'acte",
+      "gestes lents, comme alanguis par un poids intérieur",
+      "tendance à ne pas finir ses phrases sur le sujet"
+    ],
+
+    "sensationsInternes": [
+      "poids chaud et sourd dans la poitrine",
+      "impression que quelque chose ne peut pas être remis en place",
+      "pensées qui reviennent en boucle sur le moment exact",
+      "nœud dans le ventre à chaque rappel",
+      "envie de réparer sans savoir comment ni si c'est encore possible",
+      "sentiment d'être en dette envers quelqu'un ou quelque chose"
+    ],
+
+    "pensees": [
+      "J'aurais dû faire autrement.",
+      "Je savais que c'était mal, et je l'ai fait quand même.",
+      "Est-ce qu'ils me pardonneront un jour ?",
+      "Est-ce que je mérite de l'être ?",
+      "Si je pouvais revenir en arrière...",
+      "Je ne peux pas effacer ça."
+    ],
+
+    "effetsVoixLangage": [
+      "voix plus basse en évoquant l'acte passé",
+      "formulations indirectes — difficile de dire les choses directement",
+      "tendance à s'interrompre, à corriger, à revenir",
+      "excuses spontanées, parfois hors contexte",
+      "mots choisis avec soin, comme pour alléger ce qui est dit",
+      "silence prolongé après une mention de l'événement"
+    ],
+
+    "comportements": [
+      "évite les personnes ou les lieux liés à l'acte",
+      "compense par des gestes d'attention disproportionnés envers la personne lésée",
+      "se confie à mi-voix, comme si parler trop fort rendait la chose plus réelle",
+      "cherche des occasions de réparer sans les nommer comme telles",
+      "se sabote parfois — ne se permet pas d'être heureux"
+    ],
+
+    "masquesPossibles": [
+      "indifférence affichée — faire comme si l'acte n'avait pas eu lieu",
+      "humour cynique pour dédramatiser",
+      "activisme de compensation — hyperactivité pour ne pas penser",
+      "rationalisation — trouver de bonnes raisons après coup"
+    ],
+
+    "evolutionsPossibles": [
+      "pardon de l'autre qui libère, parfois partiellement seulement",
+      "acceptation que certaines choses ne peuvent pas être réparées",
+      "basculement vers l'auto-punition si le remords s'installe trop longtemps",
+      "transformation en force motrice si le personnage décide d'agir différemment désormais"
+    ],
+
+    "contextesAggravants": [
+      "rencontrer la personne lésée",
+      "être rappelé à l'acte par un tiers",
+      "voir que les conséquences perdurent",
+      "être pardonné alors qu'on ne le mérite pas — rend le remords plus aigu"
+    ],
+
+    "contextesAttenuants": [
+      "avoir réparé ou tenté de réparer",
+      "passage du temps associé à une prise de distance",
+      "pardon explicite et sincère de la personne lésée",
+      "action concrète qui change quelque chose"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Regret léger", "description": "Conscience d'avoir mal agi, sans que cela n'entame vraiment le quotidien." },
+      { "niveau": 2, "label": "Remords ponctuel", "description": "L'acte revient parfois, crée un malaise. Le personnage préférerait l'oublier mais n'y arrive pas tout à fait." },
+      { "niveau": 3, "label": "Remords ancré", "description": "Présent en fond de conscience. Modifie les comportements du personnage envers la personne lésée." },
+      { "niveau": 4, "label": "Remords dévorant", "description": "Occupe une part importante des pensées. Commence à altérer les relations et la capacité à être heureux." },
+      { "niveau": 5, "label": "Châtiment intérieur", "description": "Le personnage s'empêche de vivre pleinement. Le remords est devenu une forme d'auto-punition chronique." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage froid ou pragmatique",
+        "description": "Le remords est rationalisé, minimisé, mis à distance. Il peut surgir brutalement à un moment inattendu — lors d'une conversation, d'un signe anodin — et déstabiliser un personnage qui pensait avoir réglé la question."
+      },
+      {
+        "profil": "Personnage empathique",
+        "description": "Le remords est profond et constant. Ce personnage ressent chaque conséquence pour l'autre comme s'il était à sa place. L'acte reste présent même des années plus tard."
+      },
+      {
+        "profil": "Adolescent ou jeune adulte",
+        "description": "Le remords peut être excessif par rapport à l'acte réel — l'amplitude émotionnelle est plus grande, la capacité de recul moins développée. Le personnage grossit ce qu'il a fait."
+      }
+    ],
+
+    "notesEditoriales": [
+      "Distinguer du regret (qui porte sur ce qu'on n'a pas fait) et de la culpabilité (qui est plus abstraite). Le remords est précis : un acte, une conséquence, une conscience.",
+      "Le remords est dramatiquement puissant car il est rétrospectif — il n'attend rien, contrairement à la culpabilité qui cherche souvent le pardon.",
+      "Un personnage qui ne ressent pas de remords (ou prétend ne pas en ressentir) peut en dire autant qu'un personnage qui en est rongé."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "reparation" },
+      { "type": "peut_suivre", "cible": "culpabilite" },
+      { "type": "peut_evoluer_en", "cible": "auto-punition" },
+      { "type": "souvent_associe_a", "cible": "silence-charge" },
+      { "type": "peut_masquer", "cible": "honte" }
+    ]
+  },
+  {
+    "id": "vergogne",
+    "label": "Vergogne",
+    "famille": "honte-culpabilite",
+    "definitionCourte": "Honte sourde et diffuse qui n'est pas liée à un acte précis mais à un sentiment durable d'être mal vu, mal jugé, ou d'avoir transgressé une norme sociale implicite.",
+
+    "signesPhysiques": [
+      "yeux qui se dérobent lors d'un contact social",
+      "voix qui perd de l'assurance sans raison apparente",
+      "recul imperceptible face à quelqu'un qui semble la juger",
+      "petits gestes d'ajustement — vêtements, cheveux — comme pour se rendre présentable",
+      "sourire trop rapide, trop conciliant",
+      "rougeur légère lors d'une attention non désirée",
+      "posture légèrement repliée, ni droite ni totalement affaissée"
+    ],
+
+    "sensationsInternes": [
+      "conscience aiguë du regard de l'autre sans savoir ce qu'il y voit",
+      "sentiment de ne pas être à la hauteur d'une norme floue",
+      "légère chaleur dans la nuque ou le visage",
+      "impression de prendre trop de place, ou pas assez",
+      "malaise de fond, difficile à nommer"
+    ],
+
+    "pensees": [
+      "Qu'est-ce qu'ils pensent de moi ?",
+      "J'aurais dû me taire.",
+      "Je ne suis pas comme eux.",
+      "Quelque chose cloche dans ce que je fais.",
+      "Je prends trop de place.",
+      "Je ne sais pas comment me tenir ici."
+    ],
+
+    "effetsVoixLangage": [
+      "tendance à s'excuser de parler",
+      "phrases qui se terminent sur une montée interrogative — cherche la validation",
+      "minimisation de soi dans les formulations",
+      "difficulté à tenir une opinion face à quelqu'un qui insiste",
+      "bavardage compulsif pour remplir les silences gênants"
+    ],
+
+    "comportements": [
+      "se fond dans le groupe plutôt que de se distinguer",
+      "accepte des invitations ou des rôles dont il n'a pas envie pour ne pas déplaire",
+      "rectifie sa façon de parler, de s'habiller, de se comporter selon les présents",
+      "évite de demander ce dont il a besoin"
+    ],
+
+    "masquesPossibles": [
+      "affectation de désinvolture — faire semblant que rien ne le touche",
+      "humour autodépréciatif pour anticiper le jugement",
+      "conformisme social poussé à l'extrême",
+      "agressivité défensive si quelqu'un pointe quelque chose"
+    ],
+
+    "evolutionsPossibles": [
+      "acceptation de soi progressive si le personnage trouve un espace où il n'a pas à se justifier",
+      "inhibition durable si la vergogne n'est jamais confrontée",
+      "révolte intérieure tardive qui déstabilise les proches",
+      "transfert vers l'arrogance comme défense — se surcompenser"
+    ],
+
+    "contextesAggravants": [
+      "environnement social très codifié ou hiérarchique",
+      "comparaison implicite ou explicite avec d'autres",
+      "erreur sociale visible aux yeux de plusieurs",
+      "milieu qui n'est pas le sien d'origine"
+    ],
+
+    "contextesAttenuants": [
+      "présence de quelqu'un qui valorise le personnage tel qu'il est",
+      "contexte où les normes sociales habituelles ne s'appliquent pas",
+      "humour partagé qui dédramatise"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Légère gêne sociale", "description": "Malaise ponctuel, vite surmonté." },
+      { "niveau": 2, "label": "Conscience du regard d'autrui", "description": "Le personnage se surveille plus qu'il ne le devrait dans certains contextes." },
+      { "niveau": 3, "label": "Vergogne installée", "description": "Teinte les interactions sociales. Le personnage se sent toujours légèrement inadapté." },
+      { "niveau": 4, "label": "Inhibition sociale", "description": "Le personnage se restreint significativement pour ne pas s'exposer au jugement." },
+      { "niveau": 5, "label": "Honte de soi diffuse", "description": "Le personnage ne se sent légitime nulle part. La vergogne est devenue une manière d'être." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage issu d'un milieu différent de son contexte actuel",
+        "description": "La vergogne est liée à l'origine — classe, culture, éducation. Ce personnage a appris à parler, s'habiller, se comporter différemment pour s'adapter, mais ressent une trahison de soi dans cette adaptation."
+      },
+      {
+        "profil": "Adolescent",
+        "description": "Tout semble exposé aux yeux de ses pairs. La vergogne est amplifiée par la conviction que tout le monde le regarde et le juge en permanence."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La vergogne est plus sociale et diffuse que la honte — elle n'est pas liée à un acte précis mais à une manière d'être perçu.",
+      "Elle est souvent invisible dans le récit : le personnage ne la nomme pas, elle filtre ses comportements en sous-main.",
+      "Particulièrement utile pour explorer les personnages déclassés, les immigrés de milieu, les personnages en ascension sociale non assumée."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "honte" },
+      { "type": "souvent_associe_a", "cible": "conformisme" },
+      { "type": "peut_masquer", "cible": "colere-refoulee" }
+    ]
+  },
+  {
+    "id": "mortification",
+    "label": "Mortification",
+    "famille": "honte-culpabilite",
+    "definitionCourte": "Honte aiguë et soudaine qui traverse le corps comme une brûlure — souvent déclenchée par une humiliation publique, un échec visible ou une trahison de l'image que le personnage veut donner de lui-même.",
+
+    "signesPhysiques": [
+      "rougeur qui monte du cou au visage de manière visible",
+      "immobilité soudaine, comme figé par la honte",
+      "yeux qui se ferment brièvement — réflexe de disparaître",
+      "mâchoire crispée, muscles du visage tendus",
+      "mains qui cherchent un appui ou s'agrippent à quelque chose",
+      "corps qui se recroqueville imperceptiblement",
+      "respiration coupée, puis reprise de manière contrôlée"
+    ],
+
+    "sensationsInternes": [
+      "chaleur intense et soudaine au visage — brûlure sous la peau",
+      "vide brutal dans l'estomac",
+      "impression que le sol s'est dérobé sous les pieds",
+      "conscience aiguë de chaque regard dans la pièce",
+      "désir violent de disparaître ou d'inverser le temps",
+      "bourdonnement léger dans les oreilles"
+    ],
+
+    "pensees": [
+      "Non. Non non non.",
+      "Tout le monde a vu.",
+      "Je ne m'en remettrai jamais.",
+      "Qu'est-ce qu'ils pensent de moi maintenant ?",
+      "Je voudrais ne pas exister pendant cinq minutes.",
+      "Je ne peux plus jamais revenir ici."
+    ],
+
+    "effetsVoixLangage": [
+      "silence total — impossible de parler pendant quelques secondes",
+      "voix qui se brise ou disparaît",
+      "rire nerveux qui sonne faux",
+      "tentative de minimiser rapidement — 'ce n'est rien, vraiment'",
+      "réponses courtes et plates, juste pour s'en sortir"
+    ],
+
+    "comportements": [
+      "quitte la pièce ou cherche à le faire dès que possible",
+      "détourne le regard pour éviter les yeux des témoins",
+      "fait semblant de n'avoir pas remarqué si l'humiliation est trop grande à assumer",
+      "peut réagir par une défense agressive si poussé à bout",
+      "met du temps à reparaître dans les espaces où cela s'est passé"
+    ],
+
+    "masquesPossibles": [
+      "bravade immédiate — 'je m'en fiche'",
+      "rire excessif pour faire comme si c'était une blague",
+      "retournement de la honte en attaque vers la source",
+      "humour noir pour diluer la blessure devant autrui"
+    ],
+
+    "evolutionsPossibles": [
+      "colère défensive qui surgit après coup, une fois seul",
+      "évitement durable du lieu, de la personne ou du contexte",
+      "transformation en moteur — le personnage décide de ne plus jamais se laisser exposer",
+      "humilité forcée si le personnage accepte de traverser sa mortification"
+    ],
+
+    "contextesAggravants": [
+      "public nombreux et connu",
+      "présence d'une personne admirée ou redoutée",
+      "impossibilité physique de fuir",
+      "répétition ou insistance de l'humiliation"
+    ],
+
+    "contextesAttenuants": [
+      "seul témoin ou absence totale de témoins",
+      "quelqu'un qui détourne l'attention et offre une sortie",
+      "humour bienveillant qui dédramatise sans blesser davantage"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Gêne forte", "description": "Moment embarrassant mais vite digéré. Le personnage y pense encore le soir mais passe à autre chose." },
+      { "niveau": 2, "label": "Honte visible", "description": "Rougeur, silence. Le personnage a du mal à reprendre la conversation normalement." },
+      { "niveau": 3, "label": "Mortification", "description": "Sensation physique intense. Le personnage cherche à fuir ou à disparaître." },
+      { "niveau": 4, "label": "Traumatisme social", "description": "L'événement reste présent longtemps. Le personnage évite activement le contexte dans lequel cela s'est passé." },
+      { "niveau": 5, "label": "Effondrement de l'image de soi", "description": "La mortification a détruit quelque chose de fondamental dans la manière dont le personnage se perçoit face aux autres." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage très soucieux de son image",
+        "description": "La mortification est catastrophique. Ce personnage avait construit une façade précise — l'effondrement est vécu comme une destruction de soi, pas seulement d'une apparence."
+      },
+      {
+        "profil": "Personnage habitué à l'adversité",
+        "description": "Absorbe la mortification plus vite mais la ressent tout autant en privé. La maîtrise extérieure coûte — et le corps en paie le prix."
+      },
+      {
+        "profil": "Enfant ou adolescent",
+        "description": "Ampleur maximale. Les témoins sont ses pairs, les enjeux sont identitaires. La mortification à cet âge laisse des traces qui réapparaissent à l'âge adulte."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La mortification est distincte de la honte par son intensité soudaine et sa dimension physique — c'est une honte qui brûle.",
+      "Le moment juste après la mortification est narrativement riche : que fait le personnage dans les secondes qui suivent ? Fuit-il ? Attaque-t-il ? Se fige-t-il ?",
+      "Ne pas confondre avec l'humiliation : l'humiliation implique un bourreau actif. La mortification peut se produire sans personne de mauvaise intention."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "colere-defensive" },
+      { "type": "peut_suivre", "cible": "humiliation" },
+      { "type": "peut_evoluer_en", "cible": "retrait-social" },
+      { "type": "souvent_associe_a", "cible": "rougeur" },
+      { "type": "peut_masquer", "cible": "vulnerabilite" }
+    ]
+  }
+]

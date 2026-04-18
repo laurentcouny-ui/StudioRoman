@@ -1,0 +1,562 @@
+[
+  {
+    "id": "foret-profonde",
+    "label": "Forêt profonde",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "arbres centenaires dont les cimes se ferment au-dessus",
+      "sous-bois dégagé — trop sombre pour les buissons",
+      "racines massives qui soulèvent le sol depuis des décennies",
+      "troncs moussus, certains couchés depuis des années",
+      "lumière rare et verticale — quelques trouées seulement",
+      "champignons de toutes tailles sur les bois morts",
+      "silence particulier — feutré, comme si l'espace absorbait le son"
+    ],
+    "bruits": [
+      "oiseaux en cime — loin au-dessus, difficiles à voir",
+      "craquement d'un tronc au vent — intermittent et soudain",
+      "feuilles mortes sous les pas — doux et continu",
+      "silence de fond qui amplifie les sons isolés"
+    ],
+    "odeurs": [
+      "humus très concentré — odeur profonde et complexe",
+      "champignons — terreux et minéral",
+      "résine si résineux — plus sec et franc"
+    ],
+    "textures": [
+      "sol élastique sur des dizaines de centimètres de feuilles",
+      "mousse humide et froide sur les pierres et les troncs",
+      "écorce des grands arbres — rugueuse et feuilletée"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'insignifiance bienveillante face à l'échelle des arbres",
+      "désorientation progressive loin des chemins",
+      "paix particulière que le monde extérieur n'offre pas"
+    ],
+    "usagesNarratifs": [
+      "espace de fuite ou de refuge hors du monde",
+      "épreuve de navigation sans repères visibles",
+      "confrontation avec une présence animale ou humaine inattendue",
+      "décor d'un récit initiatique ou de survie"
+    ],
+    "tensionsTypiques": [
+      "perte d'orientation — la forêt profonde n'a pas de repères évidents",
+      "nuit qui tombe avant la sortie",
+      "animal dangereux — sanglier, ou simple peur irrationnelle"
+    ],
+    "variantesPerception": [
+      {"profil": "Forestier ou chasseur", "description": "Il lit la forêt par les traces, les couloirs de lumière, les directions du vent. L'espace immense est organisé pour lui."},
+      {"profil": "Personnage perdu", "description": "Tous les arbres se ressemblent. Le soleil n'est pas visible. Il tourne inconsciemment en cercles. La panique commence par les pieds."},
+      {"profil": "Enfant qui entre pour la première fois seul", "description": "Il s'avance plus loin que prévu. À un moment, il ne voit plus le bord. Le silence est différent ici. Il s'arrête."}
+    ],
+    "notesEditoriales": [
+      "La forêt profonde impose l'humilité — on ne la traverse pas, on y entre et on essaie d'en sortir. Cet état d'esprit est narrativement exploitable.",
+      "La désorientation en forêt profonde est un phénomène réel — marcher en cercles sans s'en rendre compte. À décrire de façon concrète."
+    ]
+  },
+  {
+    "id": "tourbiere",
+    "label": "Tourbière",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "surface d'eau sombre entre des îlots de sphaignes",
+      "végétation rase et particulière — droséras, linaigrettes blanches",
+      "sol spongieux qui cède sous les pieds — dix centimètres à chaque pas",
+      "brume matinale qui reste longtemps sur la surface",
+      "couleur de l'eau — brun-noir très particulier",
+      "absence d'arbres sur la tourbière elle-même",
+      "bordure de bouleaux et de pins à circonférence limitée"
+    ],
+    "bruits": [
+      "silence presque total — très peu d'oiseaux sur la tourbière",
+      "bruit de succion du sol à chaque pas",
+      "vent sans obstacles — rase campagne sonore",
+      "grenouilles dans les mares de sphaignes"
+    ],
+    "odeurs": [
+      "végétation aquatique particulière — entre l'humus et l'algue",
+      "air humide et frais en toutes saisons",
+      "eau noire — odeur minérale et tannique"
+    ],
+    "textures": [
+      "sol élastique et dangereux — peut cacher de la profondeur",
+      "sphaigne froide et mouillée sous les mains",
+      "eau très froide à travers les semelles"
+    ],
+    "emotionsTypiques": [
+      "malaise lié à l'instabilité du sol",
+      "beauté étrange d'un milieu hostile",
+      "sentiment d'être dans un lieu hors du temps ordinaire"
+    ],
+    "usagesNarratifs": [
+      "piège naturel — ce qu'on croit solide ne l'est pas",
+      "conservation naturelle — les tourbières conservent les corps et les objets",
+      "lieu de découverte archéologique ou macabre",
+      "espace de désorientation et de danger diffus"
+    ],
+    "tensionsTypiques": [
+      "sol qui cède — risque réel d'enlisement",
+      "ce qui est conservé sous la surface",
+      "brume qui efface les repères visuels"
+    ],
+    "variantesPerception": [
+      {"profil": "Scientifique ou naturaliste", "description": "La tourbière est un milieu rare et précieux. Il s'y déplace avec soin, connaît les espèces, mesure l'épaisseur de la tourbe. La beauté lui est réelle."},
+      {"profil": "Promeneur non averti", "description": "Il avance par curiosité. Le sol qui cède l'inquiète. Il fait demi-tour avant d'être allé trop loin."},
+      {"profil": "Personnage en fuite", "description": "Il traverse sans regarder. Le sol se dérobe. Il trébuche, plonge un bras dans la tourbe froide. Il repart boueux et ralenti."}
+    ],
+    "notesEditoriales": [
+      "Les corps humains conservés dans les tourbières sont un fait archéologique célèbre — une tourbière peut porter ce sous-texte.",
+      "L'instabilité du sol de tourbière est physiquement inconfortable et narrativement puissante — le terrain qui ne tient pas."
+    ]
+  },
+  {
+    "id": "gorges-rurales",
+    "label": "Gorges et canyon rural",
+    "type": "rural-nature",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "parois rocheuses verticales de chaque côté",
+      "rivière au fond — émeraude ou turquoise selon le fond",
+      "chemin taillé dans la roche ou escaliers de pierre",
+      "ombre permanente sauf à midi en été",
+      "végétation accrochée dans les fissures de la roche",
+      "suintements d'eau sur les parois",
+      "écho des voix et des sons rebondi sur la roche"
+    ],
+    "bruits": [
+      "rivière amplifiée par l'encaissement",
+      "écho — chaque son revient différent",
+      "oiseaux de falaise — cris stridents et hauts",
+      "vent absent au fond, présent en haut"
+    ],
+    "odeurs": [
+      "eau courante — fraîche et minérale",
+      "roche mouillée",
+      "végétation des parois — fougères et mousses"
+    ],
+    "textures": [
+      "roche froide sous les mains pour le cheminement",
+      "chemin étroit et caillouteux",
+      "embruns de la rivière si cascade proche"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'encaissement — le monde est réduit à un corridor",
+      "vertige si la hauteur des parois est grande",
+      "fascination pour la force de l'eau qui a creusé"
+    ],
+    "usagesNarratifs": [
+      "couloir naturel sans alternative — avancer ou reculer",
+      "lieu de crue soudaine — piège géologique",
+      "décor d'escalade ou de descente à risque",
+      "espace coupé du monde — ni téléphone ni secours"
+    ],
+    "tensionsTypiques": [
+      "crue subite — l'eau monte sans prévenir",
+      "chemin qui devient impraticable après la pluie",
+      "vertige face à la hauteur des parois"
+    ],
+    "variantesPerception": [
+      {"profil": "Grimpeur ou guide", "description": "Il lit la roche — les prises, les fissures, les lignes d'escalade. Les gorges sont une salle de sport naturelle."},
+      {"profil": "Randonneur ordinaire", "description": "Le chemin est beau mais étroit. Il regarde l'eau en bas, les parois de chaque côté. L'encaissement le rassure et l'inquiète simultanément."},
+      {"profil": "Personnage pourchassé", "description": "Le fond des gorges est un piège. Pas d'issue latérale. Il avance vite en espérant que le chemin s'ouvre. L'eau monte légèrement depuis une heure."}
+    ],
+    "notesEditoriales": [
+      "L'écho dans les gorges crée un effet sonore particulier — les voix reviennent modifiées. Utile pour les scènes de communication sous tension.",
+      "Le risque de crue dans les gorges est réel et peu connu du grand public — narrativement inattendu."
+    ]
+  },
+  {
+    "id": "falaise-rurale",
+    "label": "Falaise rurale ou côte rocheuse",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "bord abrupt — herbe jusqu'au vide",
+      "roches en bas, visibles depuis le sommet",
+      "mer ou rivière loin en dessous selon la région",
+      "vent permanent et fort — il prend les vêtements",
+      "vue dégagée à 180 degrés vers l'horizon",
+      "garde-corps parfois — souvent absent ou insuffisant",
+      "oiseaux de falaise — fous de Bassan, guillemots selon la région"
+    ],
+    "bruits": [
+      "vent permanent — difficile de s'entendre parler normalement",
+      "mer en contrebas — bruit continu et variable",
+      "cris d'oiseaux de falaise",
+      "herbes qui fouettent dans la rafale"
+    ],
+    "odeurs": [
+      "iode et sel si mer proche",
+      "herbe battue par le vent — verdure pressée",
+      "absence d'odeur par vent fort — tout est dispersé"
+    ],
+    "textures": [
+      "vent qui pousse physiquement",
+      "herbe courte et dure sous les pieds — tassée par le vent",
+      "sol qui semble normal mais n'est plus loin du bord"
+    ],
+    "emotionsTypiques": [
+      "vertige — attirance et répulsion simultanées",
+      "sentiment de liberté absolu et de danger absolu",
+      "impression d'être au bord de quelque chose de définitif"
+    ],
+    "usagesNarratifs": [
+      "lieu de décision extrême — suicide, sacrifice, saut",
+      "rencontre au bord du monde entre deux personnages",
+      "espace de confrontation avec la finitude",
+      "point de vue privilégié — voir loin sans être vu"
+    ],
+    "tensionsTypiques": [
+      "érosion — le bord recule, le sol n'est pas sûr",
+      "vent qui peut faire perdre l'équilibre",
+      "enfant ou animal trop proche du bord"
+    ],
+    "variantesPerception": [
+      {"profil": "Habitant qui y vient souvent", "description": "Il s'approche du bord sans vertige. Il sait exactement où le sol est sûr, à quel endroit l'érosion progresse. La vue ne l'arrête plus."},
+      {"profil": "Visiteur qui n'a pas le pied marin", "description": "Il s'arrête à deux mètres du bord. Ses genoux sont moins sûrs que d'habitude. Il regarde depuis là où il se sent encore en sécurité."},
+      {"profil": "Personnage au bout du rouleau", "description": "Le vide dit quelque chose que les mots ne disent pas. Il ne sait pas encore ce qu'il fait là. Le vent le tient debout malgré lui."}
+    ],
+    "notesEditoriales": [
+      "La falaise est l'un des lieux les plus chargés symboliquement — le bord entre deux états. À utiliser avec précision pour ne pas tomber dans le cliché.",
+      "L'attraction du vide (appel du vide) est un phénomène psychologique documenté — narrativement exploitable sans en faire une pathologie."
+    ]
+  },
+  {
+    "id": "bois-de-nuit",
+    "label": "Forêt ou bois la nuit",
+    "type": "rural-nature",
+    "dominanteSensorielle": "sonore-tactile",
+    "elements": [
+      "obscurité quasi totale — les arbres bloquent même la lune",
+      "silhouettes des troncs visibles si yeux adaptés",
+      "sol identique à la nuit — guidage au toucher et à l'ouïe",
+      "lumière d'une lampe qui crée un cercle et amplifie l'obscurité au-delà",
+      "animaux nocturnes — chouettes, renards, chevreuils",
+      "bruit du vent dans les cimes — identique à la journée mais plus inquiétant",
+      "mousse froide sous la main si on tâtonne"
+    ],
+    "bruits": [
+      "hululement de chouettes — ponctuel et directionnel",
+      "branches qui craquent — toujours plus fort qu'on ne s'y attend",
+      "animal qui fuit — bruit soudain dans les feuilles",
+      "silence de fond plus épais qu'en journée"
+    ],
+    "odeurs": [
+      "humus plus perceptible la nuit — l'humidité monte",
+      "résine si bois de résineux",
+      "odeur animale si animal proche"
+    ],
+    "textures": [
+      "sol trompeur — racines et trous impossibles à voir",
+      "branches basses qui touchent le visage",
+      "froid qui monte avec l'immobilité"
+    ],
+    "emotionsTypiques": [
+      "peur primaire — l'obscurité et les sons inconnus",
+      "désorientation sans repères visuels",
+      "excitation pour celui qui connaît et qui n'a pas peur"
+    ],
+    "usagesNarratifs": [
+      "poursuite nocturne ou fuite dans le noir",
+      "expérience initiatique — passer la nuit en forêt",
+      "rendez-vous clandestin — discrétion garantie par l'obscurité",
+      "perte — enfant ou adulte qui ne retrouve plus le chemin"
+    ],
+    "tensionsTypiques": [
+      "perte de direction sans repères visuels",
+      "panique qui altère toute décision rationnelle",
+      "rencontre avec un animal nocturne — souvent une frayeur sans danger réel"
+    ],
+    "variantesPerception": [
+      {"profil": "Braconnier ou personne habituée à la nuit en forêt", "description": "Il se déplace à l'ouïe et à la mémoire. L'obscurité est une protection, pas une menace. Il voit mieux que celui qui porte une lampe."},
+      {"profil": "Personnage perdu en panique", "description": "Il court sans direction, trébuche, se blesse. Les branches sont des obstacles. Les sons sont des menaces. Il crie — personne ne répond."},
+      {"profil": "Personnage qui attend immobile", "description": "Il s'est arrêté. Respire. L'obscurité s'organise progressivement. Il commence à distinguer les formes. L'attente remplace la panique."}
+    ],
+    "notesEditoriales": [
+      "La forêt de nuit est un lieu de peur primitive que tous les personnages ne vivent pas de la même façon — la différence entre habitude et première fois est narrative.",
+      "Lampe torche ou pas de lampe : deux expériences totalement différentes à distinguer."
+    ]
+  },
+  {
+    "id": "col-de-montagne",
+    "label": "Col de montagne ou passage en altitude",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "point le plus haut du passage — vue sur deux versants",
+      "vent fort et froid même en été",
+      "croix ou cairn qui marque le sommet",
+      "route qui serpente depuis les deux vallées",
+      "névé ou neige persistante dans les zones à l'ombre",
+      "végétation rase et résistante — espèces d'altitude",
+      "vide des deux côtés — panorama à 180 degrés"
+    ],
+    "bruits": [
+      "vent constant et fort — difficile de s'entendre",
+      "silence entre les rafales — très court et très propre",
+      "cloches de troupeaux en été si estives proches",
+      "moteur d'un véhicule qui monte — audible longtemps avant"
+    ],
+    "odeurs": [
+      "air d'altitude — pur et froid, presque sans odeur",
+      "herbe d'altitude en été",
+      "neige si présente — absence d'odeur presque totale"
+    ],
+    "textures": [
+      "vent qui pénètre les vêtements quelle que soit l'épaisseur",
+      "sol rocheux et instable",
+      "froid qui mord les extrémités"
+    ],
+    "emotionsTypiques": [
+      "sentiment du passage — on a franchi quelque chose",
+      "exposition totale — nulle part où se cacher",
+      "euphorie de l'altitude pour certains, malaise pour d'autres"
+    ],
+    "usagesNarratifs": [
+      "point de non-retour symbolique — une fois passé le col",
+      "lieu d'arrêt forcé par les conditions météo",
+      "passage clandestin — les cols servent depuis toujours",
+      "espace de décision à mi-chemin entre deux territoires"
+    ],
+    "tensionsTypiques": [
+      "météo qui change en quelques minutes à l'altitude",
+      "véhicule en panne sur une route de col sans réseau",
+      "fermeture du col par la neige — séparation ou blocage"
+    ],
+    "variantesPerception": [
+      {"profil": "Montagnard", "description": "Le col est une porte. Il sait le vent, la météo, les signes. Il passe rapidement, sans s'attarder — le froid est réel."},
+      {"profil": "Cycliste ou coureur", "description": "Le col est une victoire physique. L'effort pour monter est dans les jambes. Le panorama du sommet est la récompense."},
+      {"profil": "Migrant ou fugitif", "description": "Le col est la seule traversée possible. Il ne sait pas ce qu'il trouvera de l'autre côté. Le froid est dans le corps depuis des heures."}
+    ],
+    "notesEditoriales": [
+      "Le col est un seuil géographique et narratif — ce qui sépare deux mondes est une porte qu'on doit décider de franchir.",
+      "La météo d'altitude est un personnage à part entière — elle peut bloquer, tuer, sauver."
+    ]
+  },
+  {
+    "id": "grotte",
+    "label": "Grotte",
+    "type": "rural-nature",
+    "dominanteSensorielle": "tactile-sonore",
+    "elements": [
+      "entrée plus petite que l'intérieur — passage qui se rétrécit",
+      "obscurité totale au-delà des premiers mètres",
+      "stalactites et stalagmites si calcaire",
+      "sol de terre meuble et humide ou de roche",
+      "eau qui suinte sur les parois",
+      "basse température constante — plus fraîche que dehors",
+      "odeur de minéral et d'humidité permanente"
+    ],
+    "bruits": [
+      "goutte d'eau — son amplifié par l'acoustique de la grotte",
+      "bruit d'eau courante si rivière souterraine",
+      "écho des voix — déformés et renvoyés",
+      "silence de fond différent de tout autre silence"
+    ],
+    "odeurs": [
+      "minéral — calcaire, argile, pierre mouillée",
+      "humidité froide sans végétation",
+      "chauves-souris si colonie présente — guano et odeur animale"
+    ],
+    "textures": [
+      "roche froide et humide partout",
+      "stalactite — lisse et froide comme du marbre",
+      "sol glissant — argile ou calcite déposée"
+    ],
+    "emotionsTypiques": [
+      "claustrophobie pour ceux qui la ressentent",
+      "fascination pour le monde souterrain",
+      "sentiment de pénétrer quelque chose de secret"
+    ],
+    "usagesNarratifs": [
+      "cache parfaite — obscurité et isolement garantis",
+      "lieu préhistorique ou symbolique — les grottes sont le berceau",
+      "piège — l'entrée peut se refermer, l'eau monter",
+      "espace initiatique dans les traditions anciennes"
+    ],
+    "tensionsTypiques": [
+      "lampe qui lâche — obscurité totale",
+      "crue souterraine — l'eau monte vite",
+      "passage trop étroit pour revenir en arrière"
+    ],
+    "variantesPerception": [
+      {"profil": "Spéléologue", "description": "Il lit les concrétions, mesure les dimensions, évalue les risques. La grotte est un texte géologique. Il se déplace à quatre pattes avec naturel."},
+      {"profil": "Claustrophobe", "description": "L'entrée est encore possible. Plus loin, il sent les parois se rapprocher même si elles ne le font pas. La respiration se bloque."},
+      {"profil": "Enfant qui y entre pour la première fois", "description": "L'obscurité absolue est une expérience nouvelle. Il s'arrête, lève la main devant les yeux — rien. Pour la première fois, l'obscurité est réelle."}
+    ],
+    "notesEditoriales": [
+      "L'obscurité totale d'une grotte est une expérience sensorielle que très peu de personnages ont vécue — la décrire demande de l'avoir vécue ou de la reconstituer précisément.",
+      "L'acoustique d'une grotte est très particulière — les sons s'allongent, se déforment, reviennent de directions inattendues."
+    ]
+  },
+  {
+    "id": "marais",
+    "label": "Marais",
+    "type": "rural-nature",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "eau entre des touffes de végétation — ni terre ni eau vraiment",
+      "joncs et roseaux qui barrent toute vue",
+      "canaux étroits qui serpentent sans direction apparente",
+      "vase noire visible dans les zones de passage animal",
+      "brume matinale qui reste longtemps",
+      "oiseaux d'eau — hérons immobiles, canards",
+      "nuées d'insectes dès les beaux jours"
+    ],
+    "bruits": [
+      "grenouilles — omniprésentes et variables",
+      "oiseaux d'eau — cris particuliers et peu communs",
+      "bruit de succion de chaque pas dans la vase",
+      "roseaux qui bruissent — son continu dans le vent"
+    ],
+    "odeurs": [
+      "vase — odeur de soufre et d'organique très forte",
+      "eau stagnante — distinct de l'eau courante",
+      "végétation aquatique — jonc, roseau"
+    ],
+    "textures": [
+      "sol spongieux — on ne sait jamais si le prochain pas sera solide",
+      "vase froide qui monte dans la chaussure",
+      "roseau coupant sur les mains"
+    ],
+    "emotionsTypiques": [
+      "désorientation — partout pareil, nulle part de repère",
+      "sentiment d'un monde hostile à la présence humaine",
+      "beauté austère que peu acceptent vraiment"
+    ],
+    "usagesNarratifs": [
+      "espace de fuite ou de poursuite impossible à traverser vite",
+      "milieu de braconnage et d'activités clandestines",
+      "paysage intérieur d'un personnage embourbé",
+      "lieu de noyade lente et invisible"
+    ],
+    "tensionsTypiques": [
+      "enlisement — graduel et silencieux",
+      "désorientation — toutes les directions se ressemblent",
+      "nuit qui tombe dans un espace sans issue claire"
+    ],
+    "variantesPerception": [
+      {"profil": "Chasseur de canards habitué", "description": "Il a ses passes, ses postes d'affût, ses chemins de passage. Le marais lui est lisible. L'odeur est neutre — c'est l'odeur de la chasse."},
+      {"profil": "Personnage perdu", "description": "Les joncs l'entourent de partout. Il avance et s'enfonce. Il recule et retrouve la même image. Il crie — le son est absorbé par la végétation dense."},
+      {"profil": "Ornithologiste", "description": "Le marais est une bibliothèque de sons. Il reconnaît chaque espèce à son cri. La beauté du lieu lui est naturelle — il y vient avant l'aube pour être seul."}
+    ],
+    "notesEditoriales": [
+      "L'odeur du marais est indescriptible pour qui ne l'a pas sentie — fort, organique, ni agréable ni vraiment désagréable. Ne pas édulcorer.",
+      "La désorientation dans les marais est réelle et documentée — les canaux semblent tous identiques, le soleil est absent par temps couvert."
+    ]
+  },
+  {
+    "id": "riviere-en-crue",
+    "label": "Rivière en crue",
+    "type": "rural-nature",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "eau marron et chargée de matières en suspension",
+      "niveau qui a envahi les berges habituelles",
+      "courant visible à la surface — rapide et tourbillonnant",
+      "objets emportés — branches, bidons, mobilier de jardin",
+      "berge transformée — arbres dans l'eau jusqu'aux branches basses",
+      "grondement audible de loin",
+      "pont dont les arches sont à moitié noyées"
+    ],
+    "bruits": [
+      "grondement sourd et continu — plus fort en crue qu'en eau normale",
+      "chocs des objets emportés contre les obstacles",
+      "eau qui claque contre les rives envahies",
+      "craquement d'un arbre emporté ou arraché"
+    ],
+    "odeurs": [
+      "terre et limon en suspension — odeur de crue très particulière",
+      "végétation arrachée et transportée",
+      "eau boueuse — plus lourde que l'eau normale"
+    ],
+    "textures": [
+      "bord de berge instable — la terre s'effrite dans l'eau",
+      "eau froide et opaque — on ne voit pas le fond",
+      "boue déposée par le recul des eaux si la crue baisse"
+    ],
+    "emotionsTypiques": [
+      "puissance et danger immédiats — la rivière est devenue autre chose",
+      "fascination pour la force destructrice de l'eau",
+      "urgence si bâtiments ou personnes menacés"
+    ],
+    "usagesNarratifs": [
+      "crise immédiate — sauvetage, évacuation, noyade",
+      "passage impossible — la rivière coupe la route",
+      "révélateur de caractère face à la catastrophe naturelle",
+      "après la crue — les dégâts comme nouveau paysage"
+    ],
+    "tensionsTypiques": [
+      "pont menacé — passage bloqué ou dangereux",
+      "personne ou animal emporté par le courant",
+      "maison ou ferme inondée — sauvegarde des biens"
+    ],
+    "variantesPerception": [
+      {"profil": "Riverain habitué aux crues", "description": "Il a vu ça avant. Il évalue le niveau, calcule combien de temps avant que ça rentre dans la maison. Il agit vite et sans panique."},
+      {"profil": "Personne qui voit une crue pour la première fois", "description": "La rivière qu'il connaissait n'existe plus. Ce qu'il voit est effrayant et fascinant. Il s'approche trop près — un geste d'évaluation dangereux."},
+      {"profil": "Enfant", "description": "La rivière en crue est spectaculaire. Les adultes l'éloignent mais il revient. L'eau brune et rapide est la chose la plus vivante qu'il ait vue."}
+    ],
+    "notesEditoriales": [
+      "L'odeur de crue est très particulière — terreuse, lourde, avec quelque chose d'animal dans la végétation arrachée. Chercher ce détail plutôt que 'l'eau sentait fort'.",
+      "La crue change la géographie en quelques heures — des passages ordinaires disparaissent, des zones inaccessibles s'ouvrent."
+    ]
+  },
+  {
+    "id": "plateau-rocailleux",
+    "label": "Plateau rocailleux et causses",
+    "type": "rural-nature",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "surface calcaire horizontale à perte de vue",
+      "végétation rase — genévriers, thym, lavande sauvage",
+      "lapiaz — roche calcaire creusée de sillons par l'eau",
+      "dolines — dépressions circulaires dans le plateau",
+      "bergeries abandonnées en pierre sèche",
+      "moutons si troupeaux encore présents — souvent au loin",
+      "ciel omniprésent — l'horizon est haut et proche"
+    ],
+    "bruits": [
+      "vent permanent et direct — rien pour le freiner",
+      "cloches de moutons au loin",
+      "silence exceptionnel par temps calme",
+      "cri d'un rapace — visible longtemps"
+    ],
+    "odeurs": [
+      "thym et serpolet — très fort en été, écrasé sous les pieds",
+      "mineral de la roche calcaire",
+      "chaleur de la pierre en plein été"
+    ],
+    "textures": [
+      "roche calcaire chaude en été, froide le matin",
+      "thym sous les pieds — résistant et odorant",
+      "lapiaz — irrégulier, qui blesse les chevilles"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'exposition totale — nulle part où se cacher",
+      "liberté et solitude du paysage horizontal",
+      "impression d'être au bout du monde"
+    ],
+    "usagesNarratifs": [
+      "isolement absolu — espace sans témoin",
+      "paysage d'une errance ou d'une traversée",
+      "cadre d'un récit pastoral disparu",
+      "espace de contemplation ou de dépression profonde selon le personnage"
+    ],
+    "tensionsTypiques": [
+      "chaleur extrême en été sans abri possible",
+      "orage qui arrive vite et sans abri",
+      "perte de chemin — tous les endroits se ressemblent"
+    ],
+    "variantesPerception": [
+      {"profil": "Berger", "description": "Il lit le plateau par les pâturages, les points d'eau, les bergeries. L'espace immense est organisé pour lui selon ses déplacements habituels."},
+      {"profil": "Marcheur", "description": "L'horizontalité le dépayse après la forêt. Le ciel prend plus de place. Il se sent vu de partout et de nulle part."},
+      {"profil": "Personnage déprimé", "description": "L'espace ouvert ne lui offre aucune prise. Pas d'arbre pour s'appuyer, pas de mur pour se cacher. Il marche sans but dans un espace qui n'en a pas non plus."}
+    ],
+    "notesEditoriales": [
+      "Le plateau calcaire impose une expérience du ciel que les paysages boisés n'offrent pas — l'espace vertical est inversé.",
+      "Le thym écrasé sous les pieds est un détail olfactif très fort et très précis — odeur immédiate et mémorable."
+    ]
+  }
+]

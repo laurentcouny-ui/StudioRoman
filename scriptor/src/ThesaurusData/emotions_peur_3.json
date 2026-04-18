@@ -1,0 +1,329 @@
+[
+  {
+    "id": "effroi",
+    "label": "Effroi",
+    "famille": "peur-danger",
+    "definitionCourte": "Peur soudaine et intense provoquée par quelque chose de menaçant, d'extraordinaire ou de profondément perturbant. L'effroi frappe avant même que la pensée n'arrive — c'est le corps qui réagit en premier.",
+
+    "signesPhysiques": [
+      "sursaut involontaire — le corps recule ou se fige",
+      "yeux écarquillés, pupilles dilatées",
+      "bouche entrouverte, sans son",
+      "peau qui se hérisse sur les bras et la nuque",
+      "respiration suspendue pendant une fraction de seconde",
+      "pâleur soudaine ou flush de chaleur",
+      "mains levées instinctivement devant soi"
+    ],
+
+    "sensationsInternes": [
+      "décharge électrique dans tout le corps",
+      "cœur qui s'emballe d'un coup, sans préambule",
+      "ventre qui se creuse instantanément",
+      "froid soudain dans le dos ou la nuque",
+      "sensation de vide dans la tête — les pensées disparaissent",
+      "jambes qui deviennent momentanément moins sûres"
+    ],
+
+    "pensees": [
+      "Qu'est-ce que c'est ?",
+      "Non.",
+      "Ce n'est pas possible.",
+      "Il faut partir.",
+      "Ça ne devrait pas exister.",
+      "Je n'ai jamais vu quelque chose comme ça."
+    ],
+
+    "effetsVoixLangage": [
+      "cri étouffé ou cri plein selon la personnalité",
+      "silence absolu pendant quelques secondes",
+      "voix qui monte d'un demi-ton",
+      "questions courtes, incomplètes — 'C'est quoi... c'est quoi ça ?'",
+      "débit très rapide après le choc initial",
+      "rire nerveux et bref — réaction de décharge"
+    ],
+
+    "comportements": [
+      "recul ou immobilité totale selon le réflexe dominant",
+      "recherche instinctive d'un appui ou d'une présence",
+      "regard qui accroche celui de l'autre pour chercher une confirmation",
+      "peut fuir ou au contraire s'approcher selon la nature de l'effroi",
+      "temps de récupération nécessaire avant de pouvoir parler normalement"
+    ],
+
+    "masquesPossibles": [
+      "blague immédiate pour dédramatiser — rire et détourner",
+      "pragmatisme affiché — 'Ce n'est rien, allons-y'",
+      "colère de compensation — l'effroi retourné en agressivité"
+    ],
+
+    "evolutionsPossibles": [
+      "retour au calme progressif si la menace est écartée",
+      "fixation durable si l'objet de l'effroi n'est pas résolu",
+      "traumatisme si l'effroi était trop intense ou répété",
+      "fascination paradoxale — certains personnages sont attirés par ce qui les effraie"
+    ],
+
+    "contextesAggravants": [
+      "obscurité ou visibilité réduite",
+      "isolement — être seul quand ça arrive",
+      "surprise totale — sans le moindre préambule",
+      "effroi devant quelque chose d'incompréhensible ou d'inexplicable"
+    ],
+
+    "contextesAttenuants": [
+      "présence d'un allié",
+      "lumière ou repère spatial",
+      "explication rapide de ce qui s'est passé"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Sursaut", "description": "Réaction brève, vite surmontée. Le cœur bat un peu vite pendant trente secondes." },
+      { "niveau": 2, "label": "Frayeur", "description": "Réaction visible. Le personnage a besoin d'un moment pour se reprendre." },
+      { "niveau": 3, "label": "Effroi", "description": "Réaction physique intense. Le corps a pris le dessus sur la pensée pendant plusieurs secondes." },
+      { "niveau": 4, "label": "Terreur soudaine", "description": "Paralysie temporaire. Le personnage ne peut plus agir pendant quelques secondes." },
+      { "niveau": 5, "label": "Choc", "description": "L'effroi laisse une trace durable. Le personnage reste ébranlé longtemps après." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage entraîné au danger",
+        "description": "La réaction physique est similaire mais plus courte. L'effroi est reconnu, nommé, mis de côté rapidement. Ce n'est pas l'absence de peur — c'est la capacité à fonctionner malgré elle."
+      },
+      {
+        "profil": "Personnage imaginatif",
+        "description": "L'effroi alimente l'imagination. Ce personnage continue d'élaborer après coup — amplifie, imagine le pire, rejoue la scène."
+      },
+      {
+        "profil": "Enfant",
+        "description": "L'effroi peut être provoqué par des choses anodines pour un adulte. Sa force tient au manque de références — ce personnage n'a pas encore appris ce qui est vraiment dangereux."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'effroi est l'une des réactions les plus physiques du répertoire émotionnel — il se montre dans le corps avant de se nommer.",
+      "Le moment juste après l'effroi est narrativement riche : que fait le personnage des deux secondes qui suivent ?",
+      "À distinguer de la peur-sourde (chronique, diffuse) et de la terreur (plus longuement maintenue)."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "fuite" },
+      { "type": "peut_evoluer_en", "cible": "traumatisme" },
+      { "type": "peut_masquer", "cible": "fascination" },
+      { "type": "souvent_associe_a", "cible": "sursaut" }
+    ]
+  },
+  {
+    "id": "inhibition",
+    "label": "Inhibition",
+    "famille": "peur-danger",
+    "definitionCourte": "Peur de passer à l'acte qui bloque le personnage avant même d'avoir essayé. L'inhibition n'est pas la lâcheté — c'est l'incapacité à franchir un seuil intérieur malgré la volonté.",
+
+    "signesPhysiques": [
+      "immobilité au seuil de l'action — main sur la poignée, mais la porte ne s'ouvre pas",
+      "hésitation visible avant de parler",
+      "gestes commencés puis interrompus",
+      "regard qui cherche l'approbation d'un autre avant d'agir",
+      "respiration légèrement retenue",
+      "tension dans les épaules sans raison apparente",
+      "petits mouvements répétitifs — frotte ses doigts, ajuste quelque chose"
+    ],
+
+    "sensationsInternes": [
+      "quelque chose qui retient au dernier moment",
+      "nœud à l'estomac juste avant l'action",
+      "conscience aiguë de ce qui pourrait mal se passer",
+      "impression que ce n'est pas le bon moment — toujours",
+      "fatigue de se préparer sans jamais agir",
+      "voix intérieure qui produit des objections au dernier instant"
+    ],
+
+    "pensees": [
+      "Ce n'est pas le bon moment.",
+      "Et si ça ne marche pas ?",
+      "Je ne suis pas prêt.",
+      "Je devrais attendre encore.",
+      "Les autres font ça naturellement, pas moi.",
+      "Je vais le faire demain."
+    ],
+
+    "effetsVoixLangage": [
+      "commence à parler puis s'arrête avant d'avoir fini sa pensée",
+      "formulations conditionnelles et hypothétiques — 'si jamais', 'peut-être que'",
+      "besoin de validation verbale avant d'aller plus loin",
+      "tendance à poser des questions rhétoriques sur ses propres capacités",
+      "silence prolongé quand l'action attendue est celle de la parole"
+    ],
+
+    "comportements": [
+      "remet à plus tard systématiquement",
+      "délègue ce qu'il pourrait faire lui-même",
+      "prépare indéfiniment sans jamais exécuter",
+      "fait faire par les autres ce qu'il ressent comme impossible pour lui",
+      "peut fonctionner parfaitement dans un cadre clairement balisé mais être paralysé dès qu'il faut initier"
+    ],
+
+    "masquesPossibles": [
+      "perfectionnisme comme justification — 'ce n'est pas assez bien encore'",
+      "surcharge d'information pour repousser la décision",
+      "humour sur soi-même — 'je suis le roi de la procrastination'",
+      "activisme sur des tâches secondaires pour éviter la principale"
+    ],
+
+    "evolutionsPossibles": [
+      "franchissement du seuil grâce à une pression extérieure ou une deadline",
+      "confiance progressive par petits succès accumulés",
+      "épuisement d'une vie à ne pas agir — bascule vers la résignation",
+      "déclencheur émotionnel fort qui court-circuite l'inhibition"
+    ],
+
+    "contextesAggravants": [
+      "enjeux importants ou visibilité sociale de l'action",
+      "passé d'échec ou d'humiliation liée à ce type d'action",
+      "attente explicite des autres",
+      "perfectionnisme intérieur élevé"
+    ],
+
+    "contextesAttenuants": [
+      "cadre sécurisant où l'erreur est possible sans conséquences",
+      "présence d'un accompagnant bienveillant",
+      "enjeu très faible — ça permet de s'entraîner",
+      "colère ou urgence qui court-circuite la réflexion"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Hésitation légère", "description": "Le personnage prend un peu de temps mais agit quand même." },
+      { "niveau": 2, "label": "Retard systématique", "description": "Reporte souvent. Finit par agir mais tardivement et avec effort." },
+      { "niveau": 3, "label": "Blocage habituel", "description": "L'inhibition concerne un domaine précis. Elle colore ses relations et ses choix." },
+      { "niveau": 4, "label": "Paralysie partielle", "description": "L'inhibition est envahissante. Le personnage voit des opportunités qu'il ne saisit pas." },
+      { "niveau": 5, "label": "Paralysie totale", "description": "Incapacité à agir dans de nombreux domaines. Le personnage souffre de ce qu'il ne fait pas." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage très compétent",
+        "description": "L'inhibition n'affecte pas ses capacités réelles, seulement sa capacité à les montrer. Ce décalage est au cœur de la tension de ce personnage."
+      },
+      {
+        "profil": "Personnage issu d'une culture où l'initiative individuelle est mal vue",
+        "description": "L'inhibition a une dimension culturelle — dépasser le groupe, se distinguer, demander, sont des actes chargés. Elle n'est pas pathologique mais inscrite."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'inhibition est particulièrement intéressante dans les récits car elle crée de la tension par l'inaction — ce qui ne se passe pas peut être aussi dramatique que ce qui se passe.",
+      "À distinguer de la lâcheté : un personnage inhibé peut avoir tout le courage moral du monde — c'est le passage à l'acte qui lui résiste, pas la valeur.",
+      "L'inhibition se joue dans les petits moments autant que dans les grandes décisions."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_masquer", "cible": "peur-du-jugement" },
+      { "type": "peut_evoluer_en", "cible": "resignation" },
+      { "type": "souvent_associe_a", "cible": "perfectionnisme" },
+      { "type": "peut_declencher", "cible": "regret" }
+    ]
+  },
+  {
+    "id": "crainte",
+    "label": "Crainte",
+    "famille": "peur-danger",
+    "definitionCourte": "Peur respectueuse et mesurée face à quelque chose de plus grand, de plus fort ou de plus incertain que soi. La crainte n'est pas la terreur — elle garde la conscience de la menace sans la désorganiser.",
+
+    "signesPhysiques": [
+      "regard qui se baisse légèrement en présence de la source de crainte",
+      "voix plus douce, plus prudente",
+      "gestes plus lents, plus délibérés",
+      "distance maintenue — pas trop proche",
+      "posture légèrement contractée mais non figée",
+      "vérifications discrètes — s'assurer que tout va bien",
+      "léger tremblement si la source de crainte est particulièrement forte"
+    ],
+
+    "sensationsInternes": [
+      "conscience aiguë de l'écart entre soi et la source de crainte",
+      "retenue — quelque chose qui dit 'fais attention'",
+      "légère tension dans le corps, pas désagréable si la crainte est respectueuse",
+      "vigilance maintenue sans être épuisante",
+      "sentiment de vulnérabilité assumée"
+    ],
+
+    "pensees": [
+      "Je dois faire attention.",
+      "Ce n'est pas quelque chose à prendre à la légère.",
+      "Il pourrait m'arriver quelque chose ici.",
+      "Je préfère être prudent.",
+      "Ce n'est pas le moment de faire l'imprudent.",
+      "Je vais y aller doucement."
+    ],
+
+    "effetsVoixLangage": [
+      "ton plus bas, plus respectueux",
+      "formulations qui laissent de la place à l'incertitude",
+      "prudence dans le choix des mots",
+      "moins d'assurance que d'habitude",
+      "questions posées prudemment plutôt qu'affirmations"
+    ],
+
+    "comportements": [
+      "avance prudemment, prend son temps",
+      "observe avant d'agir",
+      "cherche à comprendre ce à quoi il fait face avant d'y répondre",
+      "maintient une issue de secours mentale",
+      "ne provoque pas inutilement la source de crainte"
+    ],
+
+    "masquesPossibles": [
+      "fanfaronnade pour cacher la crainte aux autres",
+      "humour qui banalise",
+      "excès de préparation — contrôler ce qu'on peut pour réduire l'incertitude"
+    ],
+
+    "evolutionsPossibles": [
+      "apprivoisement progressif de la source de crainte",
+      "basculement vers la peur si la menace se précise",
+      "respect durable — la crainte bien dosée peut devenir une ressource"
+    ],
+
+    "contextesAggravants": [
+      "incertitude sur les intentions ou les capacités de la source",
+      "passé de mauvaise expérience avec quelque chose de similaire",
+      "isolement"
+    ],
+
+    "contextesAttenuants": [
+      "familiarité progressive avec la source de crainte",
+      "information qui réduit l'incertitude",
+      "présence d'un allié ou d'un guide"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Prudence", "description": "Le personnage est attentif, ralentit légèrement. Pas vraiment de peur, juste du respect." },
+      { "niveau": 2, "label": "Crainte légère", "description": "Présence de la menace perçue. Le personnage adapte son comportement." },
+      { "niveau": 3, "label": "Crainte marquée", "description": "La retenue est visible. Le personnage avance mais prudemment, en surveillant." },
+      { "niveau": 4, "label": "Appréhension forte", "description": "La source de crainte occupe l'esprit. Difficile de penser à autre chose." },
+      { "niveau": 5, "label": "Crainte paralysante", "description": "La prudence devient paralysie. Le personnage n'ose plus avancer." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage religieux ou spirituel",
+        "description": "La crainte peut être une vertu — crainte de Dieu, du sacré, de la mort. Elle structure le rapport au monde plutôt qu'elle ne le désorganise."
+      },
+      {
+        "profil": "Personnage habitué au contrôle",
+        "description": "La crainte est gérée par la préparation. Ce personnage fait tout pour anticiper et réduire l'incertitude. La crainte résiduelle est supportable tant qu'il peut agir dessus."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La crainte est une peur productive — elle met en mouvement avec précaution. Différente de la peur qui paralyse.",
+      "Elle peut être un marqueur de sagesse chez un personnage, surtout dans un contexte où d'autres agissent avec imprudence.",
+      "Peut coexister avec la fascination ou le respect — la montagne fait craindre autant qu'elle attire."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "peur" },
+      { "type": "souvent_associe_a", "cible": "respect" },
+      { "type": "peut_masquer", "cible": "admiration" }
+    ]
+  }
+]

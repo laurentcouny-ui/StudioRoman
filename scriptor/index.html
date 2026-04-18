@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <!--
+      Production : resserrer frame-src sur l’origine exacte du thésaurus (ex. https://thesaurus.example.com)
+      et ajouter l’API IA dans connect-src quand elle est connue. Voir README « Modules futurs ».
+    -->
+    <!-- frame-ancestors : ignoré dans une CSP meta ; en prod, utiliser un en-tête HTTP (ex. nginx). -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self' https://accounts.google.com; connect-src 'self' https://www.googleapis.com https://oauth2.googleapis.com https://content.dropboxapi.com https://www.dropbox.com https://api.languagetool.org; img-src 'self' data: blob: https:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'"
+    />
+    <!-- favicon.ico = icône générée (Tauri) ou PNG ; les navigateurs demandent /favicon.ico par défaut -->
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" href="/logo-scriptor.png" />
+    <link rel="apple-touch-icon" href="/logo-scriptor.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0f172a" />
+    <title>Studio Roman — atelier d’écriture</title>
+    <style>
+      body { margin: 0; background: #0f172a; color: #e2e8f0; font-family: system-ui, sans-serif; min-height: 100vh; }
+      #root { min-height: 100vh; }
+    </style>
+  </head>
+    <body>
+    <div id="root">
+      <noscript>
+        <div style="padding: 2rem; text-align: center;">
+          <p>Studio Roman nécessite JavaScript. Activez-le puis rechargez la page.</p>
+        </div>
+      </noscript>
+    </div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

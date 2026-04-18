@@ -1,0 +1,57 @@
+{
+  "version": "2026.04.1",
+  "modernityDefault": "prefer-1990-rectifications",
+  "sources": [
+    {
+      "id": "brachet-dussouchet-1901",
+      "label": "Brachet & Dussouchet (1901)",
+      "role": "grammar-legacy",
+      "bundled": false,
+      "note": "Domaine public — corpus complet à placer hors dépôt si redistribution."
+    },
+    {
+      "id": "academie-1798",
+      "label": "Dictionnaire Académie 5e éd. (1798)",
+      "role": "lexicon-historical",
+      "bundled": false
+    },
+    {
+      "id": "bally-stylistique",
+      "label": "Charles Bally — stylistique",
+      "role": "style-reference",
+      "bundled": false
+    },
+    {
+      "id": "fontanier-tropes",
+      "label": "Fontanier — tropes",
+      "role": "figures-reference",
+      "bundled": false
+    },
+    {
+      "id": "lexique-4-gpl",
+      "label": "Lexique 3.x / 4.0 (lexique.org, GPL)",
+      "role": "lexicon-modern",
+      "bundled": false,
+      "note": "Fichiers lexique sous GPL — non inclus dans le dépôt."
+    },
+    {
+      "id": "morphalou-3-lgfl",
+      "label": "Morphalou 3.1 (ATILF, LGPL-LR)",
+      "role": "morphology-inflected-forms",
+      "bundled": true,
+      "note": "Formes fléchies pour réconciliation LT et séquence 3."
+    },
+    {
+      "id": "dicollecte",
+      "label": "Dicollecte / LibreOffice FR",
+      "role": "orthography",
+      "bundled": false
+    },
+    {
+      "id": "sample-rules-bundled",
+      "label": "Règles mécaniques d’amorçage Scriptor",
+      "role": "mechanical-seed",
+      "bundled": true
+    }
+  ]
+}

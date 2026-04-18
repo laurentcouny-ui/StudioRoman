@@ -1,0 +1,678 @@
+[
+  {
+    "id": "dortoir-collectif",
+    "label": "Dortoir collectif",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "auditif-olfactif",
+    "elements": [
+      "rangées de lits superposés aux barreaux métalliques froids",
+      "casiers personnels alignés, certains cadenassés, d'autres entrouverts",
+      "lumière blafarde des plafonniers qui bourdonnent légèrement",
+      "couvertures réglementaires aux couleurs identiques",
+      "photos et petits objets glissés sous les oreillers ou collés aux murs",
+      "sol en lino ciré qui crisse sous les semelles",
+      "sac de sport ou paquetage posé au pied d'un lit",
+      "odeur mêlée de transpiration, de savon bon marché et de tissu lavé trop souvent",
+      "chuchotements qui circulent dans l'obscurité après l'extinction des feux",
+      "respiration de dix, vingt personnes dans le même espace clos"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'appartenance collective malgré soi",
+      "manque de intimité, frustration sourde",
+      "nostalgie anticipée ou rétrospective",
+      "solidarité discrète entre corps fatigués",
+      "solitude particulière d'être entouré sans être seul",
+      "adaptation forcée à la promiscuité"
+    ],
+    "ambiance": "Le dortoir collectif impose une intimité non choisie : on partage le même air, les mêmes insomnies, les mêmes réveils brusques. L'individu y apprend à exister dans un espace réduit tout en n'étant jamais vraiment seul.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "transpiration tiède mêlée de déodorant bon marché",
+        "odeur de tissu usé et de détergent institutionnel",
+        "relent de nourriture apportée en douce",
+        "air vicié d'une pièce rarement aérée",
+        "parfum isolé d'un produit capillaire — seule note personnelle dans la masse"
+      ],
+      "auditifs": [
+        "ronflements discrets ou puissants selon les nuits",
+        "grincement d'un sommier sous un corps qui se retourne",
+        "bruissement furtif dans l'obscurité — quelqu'un qui ne dort pas",
+        "réveil qui brise le silence à heure fixe",
+        "toux réprimée, souffle qui s'accélère dans un mauvais rêve"
+      ],
+      "visuels": [
+        "lits alignés avec une géométrie impersonnelle",
+        "petits territoires personnels bricolés autour de chaque couchette",
+        "ombres projetées par les barreaux dans la lumière de couloir",
+        "vêtements pliés avec soin ou entassés sans ordre sur les barreaux",
+        "plafond bas, impeccable et sans intérêt — que l'insomniaque finit par connaître par cœur",
+        "fenêtre unique à la vitre légèrement opaque"
+      ],
+      "tactiles": [
+        "matelas trop dur ou affaissé par des années d'usage",
+        "froid du métal au réveil nocturne",
+        "tissu rugueux des couvertures réglementaires",
+        "chaleur corporelle collective qui réchauffe la pièce malgré tout"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Nouvelle recrue militaire",
+        "description": "Perçoit le dortoir comme une épreuve à passer, un rite d'uniformisation. Surveille les autres du coin de l'œil, mémorise les hiérarchies non dites, apprend vite qui protège et qui menace. La promiscuité devient une école de survie sociale."
+      },
+      {
+        "profil": "Enfant en colonie ou internat",
+        "description": "Oscille entre l'excitation de la vie en groupe et le manque déchirant de la maison. Les chuchotements nocturnes sont précieux — ils créent une communauté secrète hors de portée des adultes. Le lit devient le seul espace vraiment sien."
+      },
+      {
+        "profil": "Adulte habitué à la solitude",
+        "description": "Vit la promiscuité comme une agression douce mais constante. Chaque son, chaque odeur des autres lui rappelle qu'il n'est pas chez lui. S'isole mentalement, construit des murs invisibles, regrette l'absence de silence."
+      }
+    ],
+    "usagesNarratifs": [
+      "révéler la hiérarchie informelle d'un groupe par la disposition des lits et les petits rituels",
+      "créer une intimité paradoxale entre personnages qui partagent l'espace sans se choisir",
+      "exposer la vulnérabilité nocturne d'un personnage qui ne peut se cacher",
+      "marquer la perte d'identité individuelle dans un système collectif",
+      "utiliser les conversations à voix basse dans l'obscurité pour des aveux impossibles en plein jour",
+      "signaler un changement de statut lorsqu'un personnage quitte le dortoir pour une chambre individuelle"
+    ],
+    "notesEditoriales": [
+      "Le dortoir fonctionne mieux comme lieu de tension latente que comme simple décor : qui dort près de qui n'est jamais anodin.",
+      "Éviter la description exhaustive des lits — choisir deux ou trois détails personnels qui distinguent les occupants sans les nommer tous.",
+      "Les scènes nocturnes en dortoir offrent une temporalité à part : la nuit suspend les rôles et permet des vérités que le jour interdit.",
+      "Le contraste entre uniformité imposée et résistance personnelle (photos cachées, petits objets) est un ressort narratif puissant."
+    ]
+  },
+  {
+    "id": "cabinet-medecin-campagne",
+    "label": "Cabinet de médecin de campagne",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "salle d'attente aux chaises dépareillées mais toujours occupées",
+      "revues de santé empilées, feuilletées jusqu'à l'usure",
+      "table d'examen recouverte de papier craquant",
+      "armoire vitrée aux médicaments et instruments rangés sans ostentation",
+      "diplômes encadrés jaunis sur les murs entre deux affiches de prévention",
+      "bureau encombré de dossiers papier — l'informatique n'a pas tout remplacé",
+      "tension-mètre et stéthoscope posés sur un plan de travail usé",
+      "lumière naturelle par une fenêtre donnant sur la place du village",
+      "plantes vertes robustes qui survivent à tout",
+      "sonnette d'entrée qui annonce chaque patient à tout le cabinet"
+    ],
+    "emotionsTypiques": [
+      "confiance mêlée d'appréhension",
+      "soulagement d'être enfin écouté",
+      "pudeur liée à la révélation du corps",
+      "inquiétude en attente de diagnostic",
+      "sentiment d'être connu — trop connu parfois",
+      "résignation de l'habitué"
+    ],
+    "ambiance": "Ici, le médecin connaît les noms des enfants et les deuils récents. Le cabinet de campagne est moins un lieu de soin qu'un lieu de confiance accumulée : chaque consultation s'inscrit dans une histoire partagée qui dépasse la médecine.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "alcool à 70° et désinfectant doux",
+        "papier vieux et poussière de dossiers",
+        "parfum discret du médecin, identique depuis des années",
+        "odeur de café froid dans un bureau sans fenêtre",
+        "légère senteur de campagne qui entre avec chaque patient"
+      ],
+      "auditifs": [
+        "voix du médecin, familière et posée, derrière la cloison fine",
+        "craquement du papier de la table d'examen",
+        "tintement de l'instrument métallique posé dans un plateau",
+        "silence concentré de la consultation — audible depuis la salle d'attente",
+        "horloge murale dont le tic-tac ralentit l'attente"
+      ],
+      "visuels": [
+        "murs crème légèrement jaunis, sans ostentation décorative",
+        "photo de classe ou de village encadrée — le médecin est d'ici",
+        "plantes en pot qui débordent légèrement de leurs rebords",
+        "chaises dépareillées récupérées au fil des années",
+        "fenêtre sur la rue principale : on voit qui entre et qui sort",
+        "affiche de prévention cornée, collée avec du ruban adhésif"
+      ],
+      "tactiles": [
+        "papier de la table d'examen froid sous les cuisses",
+        "stéthoscope glacé posé sur la peau chaude",
+        "brassard du tensiomètre qui serre lentement le bras",
+        "main du médecin — ferme, neutre, professionnelle"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Patient de longue date",
+        "description": "Ressent une confiance presque familiale mais aussi l'inconfort d'être trop connu. Le médecin sait tout : la dépression de l'année dernière, le deuil, la prise de poids. Difficile de mentir, difficile de tout dire aussi."
+      },
+      {
+        "profil": "Étranger de passage ou nouvel arrivant",
+        "description": "Perçoit le cabinet comme un espace chargé de mémoires dont il est exclu. Les autres patients se saluent, le médecin parle de gens qu'il ne connaît pas. Il est l'anomalie dans un tissu social établi."
+      },
+      {
+        "profil": "Enfant accompagné d'un parent",
+        "description": "Vit le cabinet à hauteur de regard : le bord du bureau, les instruments mystérieux, les adultes qui parlent de lui à la troisième personne. Le craquement du papier de la table d'examen est associé à quelque chose d'inévitable et d'un peu effrayant."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu d'aveu médical qui révèle ce qu'un personnage cache à son entourage",
+      "espace où la vie d'un village entier devient lisible à travers les patients qui attendent",
+      "cadre pour des révélations de diagnostic qui changent une trajectoire narrative",
+      "souligner la continuité d'une vie par la fidélité d'un médecin qui connaît tout",
+      "confronter un personnage à sa propre vulnérabilité physique sans fioritures",
+      "créer une tension entre le secret médical et la perméabilité des rumeurs villageoises"
+    ],
+    "notesEditoriales": [
+      "Le cabinet de campagne porte une charge mémorielle que le cabinet de ville n'a pas : le médecin est un personnage en soi, même s'il n'est pas nommé.",
+      "La salle d'attente est souvent plus riche narrativement que la consultation elle-même : c'est là que les gens attendent ensemble, qu'ils s'observent, qu'ils savent.",
+      "Attention au cliché du 'bon vieux médecin de famille' : la figure peut être tout aussi froide, épuisée ou débordée qu'un praticien urbain.",
+      "L'espace révèle une époque : les dossiers papier, les diplômes jaunis, la salle d'attente sans borne Wi-Fi disent quelque chose du rapport du personnage à la modernité."
+    ]
+  },
+  {
+    "id": "cour-ecole-vide",
+    "label": "Cour d'école après la sonnerie",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "asphalte gris encore marqué de jeux à la craie colorée",
+      "portail métallique refermé sur le silence",
+      "préau vide dont l'écho amplifie le moindre son",
+      "bancs en bois usés aux arêtes rondes par des générations de corps",
+      "paniers de basket sans filet, tiges rouillées",
+      "billes oubliées dans un coin, poubelle renversée",
+      "feuilles mortes qui traversent l'espace sans personne pour les regarder",
+      "fenêtres de classe éclairées de l'intérieur — vie suspendue mais présente",
+      "odeur d'herbe et de béton chaud ou mouillé selon la saison",
+      "silence soudain après le tumulte — presque sonore en lui-même"
+    ],
+    "emotionsTypiques": [
+      "mélancolie de l'absence",
+      "nostalgie de l'enfance ou de la jeunesse",
+      "sentiment de temps suspendu",
+      "solitude étrange dans un lieu fait pour le collectif",
+      "légèreté ou libération selon le point de vue",
+      "pressentiment ou rappel d'une période révolue"
+    ],
+    "ambiance": "La cour d'école vide retient encore l'empreinte des corps qui viennent de partir. Les traces de jeux, les cris qui s'éteignent, le portail qui ne claque plus — tout ici parle d'une vie collective qui s'est retirée d'un coup, laissant un espace brusquement trop grand.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "béton chaud sous le soleil de fin d'après-midi",
+        "herbe rare poussant entre les dalles",
+        "relent de cantine qui dérive depuis les fenêtres ouvertes",
+        "air frais d'automne dans lequel flotte encore quelque chose de sucré — goûter oublié"
+      ],
+      "auditifs": [
+        "silence absolu après le déluge sonore de la récréation",
+        "voix étouffées derrière les vitres des classes",
+        "grincement du portail dans le vent",
+        "pigeon qui prend son envol dans le préau",
+        "écho des propres pas — inhabituels dans ce lieu"
+      ],
+      "visuels": [
+        "marelles tracées à la craie, à moitié effacées",
+        "ballon coincé sous un banc, oublié dans la hâte",
+        "fenêtres rectangulaires éclairées, découpant des rectangles dorés dans l'asphalte gris",
+        "arbres plantés depuis des décennies, trop grands pour la cour",
+        "grilles aux barreaux peints en bleu ou vert, couleur institutionnelle",
+        "flaque d'eau dans laquelle se reflète un nuage"
+      ],
+      "tactiles": [
+        "asphalte rugueux sous la paume si l'on s'y appuie",
+        "vent léger dans l'espace dégagé, plus sensible qu'à l'extérieur",
+        "froid de la grille métallique au contact des doigts",
+        "chaleur résiduelle du banc exposé au soleil"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Enseignant épuisé",
+        "description": "Voit la cour vide comme un répit mérité, presque une promesse. Le silence qui suit le bruit est une respiration. Mais il sait que ça recommence demain, et l'après-demain — et ce calcul assombrit légèrement le soulagement."
+      },
+      {
+        "profil": "Parent qui attend",
+        "description": "Scrute le portail depuis l'extérieur, repère les derniers enfants qui sortent. La cour vide signale que son enfant est encore dedans — retard, oubli, problème. L'espace qui s'est vidé devient une source d'inquiétude croissante."
+      },
+      {
+        "profil": "Adulte revenu dans son ancienne école",
+        "description": "Superpose deux images : la cour qu'il a connue et celle qu'il voit. Tout est plus petit que dans son souvenir. Les repères sont là — le banc, l'arbre — mais habitées d'une absence qu'il ne sait pas nommer tout de suite."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu de retour nostalgique ou douloureux pour un personnage adulte",
+      "espace de transition pour montrer la solitude d'un enfant exclu ou en retard",
+      "décor de scène post-catastrophe symbolique — le lieu des enfants sans les enfants",
+      "contraste temporel : décrire la cour vide juste avant ou après un événement dramatique",
+      "lieu de rendez-vous clandestin rendu possible par le vide",
+      "souligner la fin d'une période ou d'une innocence"
+    ],
+    "notesEditoriales": [
+      "La force de ce lieu est dans le contraste entre sa vocation collective et son état présent : l'absence structure l'espace.",
+      "Attention au cliché mélancolique trop facile — la cour vide peut aussi signifier liberté, soulagement, pouvoir retrouvé.",
+      "Les traces de jeux (marelles, dessins) sont de puissants vecteurs narratifs : elles gardent une empreinte de vie sans la vie elle-même.",
+      "La lumière change la tonalité radicalement : soleil d'automne crée la nostalgie, lumière de fin de journée d'hiver crée l'inquiétude."
+    ]
+  },
+  {
+    "id": "salle-sport-abandon",
+    "label": "Salle de sport à l'abandon",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "parquet gondolé aux joints noircis, résonnant sous chaque pas",
+      "cages de but rouillées, filets pendant en lambeaux",
+      "gradins effondrés ou disloqués, certains sièges arrachés",
+      "lumière naturelle qui passe par des verrières cassées ou encrassées",
+      "lignes de jeu encore visibles sur le sol, délavées mais lisibles",
+      "équipements abandonnés — ballon crevé, cordes à sauter en tas",
+      "pigeons installés dans les poutres métalliques, fientes accumulées",
+      "peinture qui s'écaille en plaques sur les murs de brique",
+      "silence d'espace industriel, sans réverbération molle",
+      "plantes grimpantes qui progressent depuis les joints de fenêtre"
+    ],
+    "emotionsTypiques": [
+      "mélancolie de la gloire passée",
+      "sentiment de désolation et d'oubli",
+      "étrange beauté dans la ruine",
+      "inquiétude liée à l'abandon non expliqué",
+      "nostalgie pour quelque chose qu'on n'a pas soi-même vécu",
+      "sentiment d'intrusion dans un espace interdit"
+    ],
+    "ambiance": "La salle de sport abandonnée conserve la mémoire du mouvement dans l'immobilité. Les lignes de jeu sur le parquet, les numéros effacés sur les vestiaires, les gradins vides — tout dit qu'ici, des corps se sont affrontés, des victoires et des défaites ont eu lieu, puis plus rien.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "humidité de pierre et de bois pourri",
+        "fiente de pigeon, âcre et persistante",
+        "vieille sueur absorbée par le parquet, jamais tout à fait partie",
+        "poussière soulevée à chaque pas",
+        "air stagnant, privé de circulation depuis longtemps"
+      ],
+      "auditifs": [
+        "écho amplifié de ses propres pas sur le parquet creux",
+        "roucoulement des pigeons dans les hauteurs",
+        "grincement métallique d'une porte ou d'une grille dans le vent",
+        "craquement du parquet qui cède légèrement sous le poids",
+        "silence absolu entre deux bruits — assourdissant"
+      ],
+      "visuels": [
+        "rais de lumière poussiéreux qui traversent l'espace depuis les verrières",
+        "ombres longues des poutres métalliques sur le sol",
+        "tag ou inscription laissé par des passants après l'abandon",
+        "chiffres de score encore peints sur un tableau illisible",
+        "végétation qui progresse depuis les murs — nature qui reprend ses droits",
+        "détail préservé au milieu du chaos — un ballon intact, un trophée oublié"
+      ],
+      "tactiles": [
+        "parquet qui fléchit légèrement, inquiétant",
+        "poussière sur toute surface touchée",
+        "courant d'air froid depuis les bris de vitraux",
+        "métal rouillé qui tache les mains au contact"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Ancien sportif qui reconnaît le lieu",
+        "description": "Superpose deux états du lieu — ce qu'il a été et ce qu'il est. Retrouve des repères (la cage, le parquet) mais devenus méconnaissables. La ruine lui parle de ce qui s'est terminé en lui aussi : une époque, une énergie, peut-être une identité."
+      },
+      {
+        "profil": "Adolescent qui s'y introduit clandestinement",
+        "description": "Vit l'abandon comme une permission : ici, les règles ont disparu avec les adultes. L'espace délabré est excitant, dangereux juste assez. Chaque objet trouvé est une relique, chaque salle une aventure. La peur et l'ivresse se mêlent."
+      },
+      {
+        "profil": "Photographe ou artiste",
+        "description": "Voit la beauté dans la ruine — la lumière sur le parquet, la géométrie brisée des gradins, les couleurs passées. Le lieu est une composition en soi. L'abandon n'est pas une tragédie mais une transformation."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu de scène de confrontation ou de révélation hors du monde social normal",
+      "espace symbolisant l'échec ou le passé glorieux d'un personnage",
+      "décor de poursuite ou de fuite dans un espace désorientatnt",
+      "lieu de refuge pour un personnage marginal ou exclu",
+      "utiliser la ruine pour parler de ce qui s'est brisé sans le nommer explicitement",
+      "contraste temporel : flashback dans la salle pleine, présent dans la salle vide"
+    ],
+    "notesEditoriales": [
+      "Le lieu abandonné fonctionne comme une métaphore incarnée — à utiliser avec discernement pour ne pas forcer le symbole.",
+      "La lumière est le vrai personnage de cet espace : les rais de soleil dans la poussière changent l'atmosphère de ruine en quelque chose de presque sacré.",
+      "Éviter l'accumulation de détails de décrépitude — deux ou trois éléments précis suffisent à créer l'impression.",
+      "Le paradoxe du lieu : il retient encore la forme de ce qu'il était, ce qui le rend plus émouvant qu'un espace simplement vide."
+    ]
+  },
+  {
+    "id": "ascenseur-panne",
+    "label": "Ascenseur en panne",
+    "type": "espace-transition",
+    "dominanteSensorielle": "tactile-sonore",
+    "elements": [
+      "cabine immobilisée entre deux étages, légèrement penchée ou à l'aplomb incertain",
+      "lumière de secours rougeâtre ou jaune qui transforme les visages",
+      "porte close qui ne répond plus à la pression des doigts",
+      "miroir sur un pan de mur — les reflets deviennent oppressants",
+      "alarme intermittente ou sonnerie sans réponse",
+      "chaleur qui monte progressivement avec le temps et les corps",
+      "boutons illuminés qui restent sans effet",
+      "bruit de mécanisme suspendu, lointain, qu'on interprète à tort",
+      "plancher vibrant légèrement ou au contraire figé comme du béton",
+      "odeur métallique mêlée de parfum et de respiration"
+    ],
+    "emotionsTypiques": [
+      "claustrophobie naissante ou confirmée",
+      "anxiété d'impuissance",
+      "inconfort de la promiscuité forcée",
+      "frustration de l'attente sans horizon",
+      "tension entre étrangers contraints de coexister",
+      "peur sourde liée à la verticalité suspendue"
+    ],
+    "ambiance": "L'ascenseur en panne est un espace de confinement accidentel : des corps qui ne se connaissent pas, ou qui se connaissent trop, réduits à deux mètres carrés sans issue. Le temps y ralentit de manière disproportionnée, chaque minute comptée contre la chaleur qui monte.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "métal chaud, légèrement huileux",
+        "parfum du compagnon involontaire — trop présent, trop proche",
+        "propre transpiration qui commence à pointer",
+        "air recyclé, de plus en plus chargé à mesure que le temps passe"
+      ],
+      "auditifs": [
+        "silence mécanique soudain après l'arrêt",
+        "sonnette d'alarme — aiguë, répétitive, sans réponse rapide",
+        "voix étouffées depuis les étages, inaccessibles",
+        "grondement lointain d'un autre ascenseur en mouvement dans la cage",
+        "respiration propre et celle des autres — trop audible"
+      ],
+      "visuels": [
+        "lumière de secours qui jaunit les visages",
+        "chiffres figés sur le panneau d'affichage entre deux étages",
+        "reflets dans le miroir — soi-même démultiplié ou déformé",
+        "fissure dans le joint de porte, seule ouverture sur l'extérieur",
+        "boutons qui restent illuminés sans effet — signal d'impuissance"
+      ],
+      "tactiles": [
+        "paroi métallique froide dans le dos ou contre l'épaule",
+        "plancher qui ne bouge pas mais qu'on surveille quand même",
+        "chaleur croissante et imperceptiblement humide",
+        "vibration légère quand on appuie sur les boutons — seul retour physique"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Claustrophobe",
+        "description": "Ressent l'arrêt comme une catastrophe immédiate. Les parois semblent se rapprocher. La respiration se raccourcit avant même que la situation soit objectivement critique. L'intelligence sait que c'est irrationnel, le corps ne l'entend pas."
+      },
+      {
+        "profil": "Deux personnes qui se connaissent trop ou pas assez",
+        "description": "La panne force une coexistence que les convenances ordinaires permettaient d'éviter. Le silence devient un personnage à part entière. Ce qu'on ne dit pas prend plus de place que la cabine elle-même."
+      },
+      {
+        "profil": "Technicien ou professionnel du bâtiment",
+        "description": "Diagnostique immédiatement, écoute les bruits mécaniques, évalue la situation sans panique. Son calme contraste avec l'agitation des autres et peut les rassurer ou les agacer selon la dynamique du groupe."
+      }
+    ],
+    "usagesNarratifs": [
+      "forcer une confrontation entre deux personnages qui s'évitaient",
+      "révéler la claustrophobie ou d'autres peurs inavouées d'un personnage",
+      "créer une intimité involontaire qui déplace une relation",
+      "utiliser le temps suspendu pour un aveu, une rupture, une réconciliation",
+      "scène de tension pure où l'enjeu est la maîtrise de soi face à la peur",
+      "symbol de situation bloquée : l'ascenseur dit ce que le personnage vit intérieurement"
+    ],
+    "notesEditoriales": [
+      "Lieu-cliché des comédies romantiques — à utiliser avec conscience ou à détourner volontairement.",
+      "La force de l'ascenseur en panne est l'impossibilité de fuir : les personnages doivent se faire face. C'est cette contrainte qui est dramatiquement utile.",
+      "Le temps est le vrai moteur : cinq minutes ne produisent pas le même effet qu'une heure. Préciser la durée change tout.",
+      "Attention à ne pas surcharger le lieu de symbolisme — la situation parle d'elle-même si les personnages sont bien posés."
+    ]
+  },
+  {
+    "id": "nuit-banlieue-calme",
+    "label": "Nuit dans une banlieue calme",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "réverbères à intervalles réguliers, cônes de lumière orange sur l'asphalte",
+      "pavillons aux volets fermés, quelques fenêtres encore éclairées",
+      "voitures garées en rangs silencieux le long des trottoirs",
+      "bruit lointain d'une route ou d'une autoroute — fond sonore continu",
+      "chien qui aboie deux fois puis se tait",
+      "odeur d'herbe coupée et de béton tiède",
+      "haies et palissades qui découpent l'espace en territoires distincts",
+      "chat qui traverse la rue sans se presser",
+      "lumière bleue d'un écran derrière une fenêtre",
+      "ciel plus clair au-dessus de la ville visible à l'horizon"
+    ],
+    "emotionsTypiques": [
+      "solitude apaisée ou mélancolique selon l'état du personnage",
+      "sentiment de marginalité — être le seul éveillé, le seul dehors",
+      "paix fragile qui tient à peu",
+      "légère inquiétude ou liberté selon le profil",
+      "sensation d'être invisible dans le monde endormi",
+      "nostalgie douce ou amertume de la vie des autres — leurs fenêtres éclairées"
+    ],
+    "ambiance": "La banlieue calme la nuit est un monde parallèle : les mêmes rues familières de jour deviennent un espace privé, inhabité. Chaque lumière derrière un volet est une vie dont on est exclu, chaque bruit rompt une promesse de silence.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "herbe de jardin, humide du soir",
+        "fumée de cheminée en saison froide",
+        "asphalte tiède qui libère la chaleur accumulée",
+        "relent de pot d'échappement sur la route proche",
+        "air nocturne propre, sans les odeurs diurnes"
+      ],
+      "auditifs": [
+        "silence habité de sons lointains — camion sur l'autoroute, train",
+        "voix filtrée par une fenêtre entrouverte",
+        "bruit de ses propres pas — trop présents dans le silence",
+        "claquement d'un volet, bruit de vaisselle dans une cuisine",
+        "insectes nocturnes selon la saison"
+      ],
+      "visuels": [
+        "cônes de lumière orange des réverbères sur l'asphalte mouillé ou sec",
+        "ombres longues et nettes découpées par les lampadaires",
+        "silhouette des antennes et des toits contre le ciel gris-orange",
+        "fenêtres éclairées — rectangles de vie dans la façade sombre",
+        "rue parfaitement vide — absence de mouvement comme un tableau",
+        "reflet des lumières dans une flaque ou sur le capot d'une voiture"
+      ],
+      "tactiles": [
+        "air frais, plus froid que prévu après la chaleur du jour",
+        "humidité légère sur la peau, rosée précoce",
+        "trottoir sous les semelles — différent de marcher de jour",
+        "vent nul ou quasi nul — la nuit suspend même le vent"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Insomniaque en promenade nocturne",
+        "description": "Ressent la nuit comme un territoire personnel, presque propriétaire. Le silence est une respiration que le jour lui refuse. La banlieue endormie n'est pas vide : elle est à lui, temporairement. Mais la lumière d'une fenêtre allumée lui rappelle qu'il n'est pas seul à ne pas dormir."
+      },
+      {
+        "profil": "Adolescent rentrant trop tard",
+        "description": "Marche vite, surveille chaque voiture qui passe. Chaque lumière allumée chez lui est une menace — les parents qui l'attendent. La rue familière de jour est traversée d'inquiétude, chaque pas calculé pour ne pas faire de bruit."
+      },
+      {
+        "profil": "Étranger ou sans domicile",
+        "description": "Voit les fenêtres éclairées comme un rappel de ce qu'il n'a pas. La tranquillité de la banlieue n'est pas la sienne. Les maisons fermées disent l'exclusion plus clairement que n'importe quel panneau. Le silence n'est pas reposant — il est indifférent."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de fuite ou de retour nocturne chargé",
+      "promenade de personnage en crise qui a besoin d'air et de solitude",
+      "révélation ou résolution d'un conflit intérieur dans le silence de la nuit",
+      "suivre un personnage qui surveille une maison ou attend quelqu'un",
+      "contraster l'apparente normalité du lieu avec l'état intérieur du personnage",
+      "scène de rencontre improbable dans un espace supposément vide"
+    ],
+    "notesEditoriales": [
+      "La banlieue calme la nuit fonctionne par contraste avec sa version diurne : le même espace, radicalement différent sans les habitants.",
+      "La lumière des réverbères est un détail visuel récurrent mais efficace — à préciser : lumière orange halogène, LED blanche, clignotante ?",
+      "Les fenêtres éclairées sont un motif puissant : elles suggèrent des vies entières sans les montrer.",
+      "Éviter de trop charger l'atmosphère de menace : la banlieue calme la nuit peut aussi être un espace de paix, pas nécessairement de danger."
+    ]
+  },
+  {
+    "id": "salon-funèbre",
+    "label": "Salon funèbre",
+    "type": "espace-public",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "fleurs en abondance — couronnes, gerbes, lys blancs en décomposition lente",
+      "lumière tamisée à l'extrême, bougies ou éclairage indirect",
+      "cercueil ouvert ou fermé selon les traditions, posé sur un support tendu de velours",
+      "chaises disposées en rangées face à l'endroit où repose le corps",
+      "livre de condoléances sur un pupitre à l'entrée",
+      "photos du défunt encadrées ou posées sur un tissu sombre",
+      "murmures et sanglots contenus — la voix n'est jamais pleinement libérée ici",
+      "personnel funèbre en noir, présences discrètes aux mouvements calculés",
+      "air lourd de parfums floraux qui ne masquent pas tout à fait autre chose",
+      "montre arrêtée ou horloge absente — le temps semble suspendu"
+    ],
+    "emotionsTypiques": [
+      "deuil à différentes intensités selon la proximité avec le défunt",
+      "gêne sociale — la mort force des rituels qu'on ne sait pas toujours tenir",
+      "soulagement parfois, immédiatement suivi de culpabilité",
+      "sentiment d'irréalité face au corps immobile",
+      "solidarité contrainte avec des inconnus liés par le même deuil",
+      "peur sourde de sa propre mort, activée malgré soi"
+    ],
+    "ambiance": "Le salon funèbre est un espace de convention collective face à l'inconvevable. On y vient pour les vivants autant que pour les morts : témoigner, être vu dans son deuil, trouver les mots que la situation exige et qu'on n'a jamais.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "lys blancs dont le parfum sucré vire à l'écœurant avec le temps",
+        "encens ou cierges selon les traditions",
+        "parfum du personnage qui vient de se lever — déplacé, trop vivant",
+        "odeur froide et légèrement antiseptique du corps préparé",
+        "roses et chrysanthèmes mêlés — combinaison qui ne ressemble qu'à ça"
+      ],
+      "auditifs": [
+        "murmures maintenus dans les graves par convention",
+        "sanglot qui rompt brièvement le silence, puis se reprend",
+        "son feutré des pas sur la moquette épaisse",
+        "musique de fond presque inaudible — classique ou religieuse selon le choix",
+        "froissement de mouchoir, raclement de gorge discret"
+      ],
+      "visuels": [
+        "lumière chaude et basse qui donne aux visages une teinte cireuse",
+        "fleurs qui dégradent imperceptiblement — les pétales commencent à tomber",
+        "cercueil ou urne comme centre de gravité de toute la pièce",
+        "visages des endeuillés — les traits tirés, les yeux rouges ou secs selon les gens",
+        "tenue noire de tous les présents — uniformité imposée par la mort",
+        "petite photo du défunt qui ne ressemble pas tout à fait à ce qu'on attendait"
+      ],
+      "tactiles": [
+        "main du présentateur funèbre — froide et ferme comme la situation",
+        "tissu épais de la moquette qui amortit chaque pas",
+        "froid plus prononcé que dans le reste du bâtiment",
+        "contact bref et maladroit des embrassades de condoléances"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Proche du défunt",
+        "description": "Vit dans un état de dissociation partielle. Les gestes s'enchaînent — serrer les mains, répondre aux condoléances — mais le corps agit sans l'esprit. L'absence du défunt est physiquement ressentie comme un poids dans la poitrine, une désorientation permanente."
+      },
+      {
+        "profil": "Relation difficile avec le défunt",
+        "description": "Naviguer dans le salon funèbre est une performance double : montrer le deuil attendu tout en gérant ce que l'on ressent vraiment — soulagement, colère, amour compliqué. Chaque condoléance reçue est une phrase à déchiffrer."
+      },
+      {
+        "profil": "Enfant présent pour la première fois dans un salon funèbre",
+        "description": "Observe les adultes plus que le défunt. Cherche les codes — quand s'asseoir, quand pleurer, pourquoi parle-t-on si bas. Le corps dans le cercueil est à la fois fascinant et incompréhensible. La mort n'est pas encore une abstraction : c'est juste cette personne qui ne bouge pas."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu de réunion forcée de personnages qui s'évitent ordinairement",
+      "révélation de secrets liés au défunt par des présences inattendues",
+      "confronter un personnage à sa propre mortalité dans un espace qui ne laisse pas fuir",
+      "créer une tension entre le deuil performé et les émotions réelles",
+      "lieu de dialogue entre personnages contraints à la politesse malgré les conflits",
+      "débuter ou clore un arc narratif — mort comme seuil"
+    ],
+    "notesEditoriales": [
+      "Le salon funèbre est un espace de convention sociale intense : tout ce qui s'y passe est codifié, ce qui rend les écarts d'autant plus signifiants.",
+      "La présence du corps est optionnelle narrativement — ce que les gens font autour du cercueil est souvent plus riche que la description du mort lui-même.",
+      "Attention à ne pas transformer le lieu en catalogue du deuil : choisir un ou deux détails sensoriel forts (l'odeur des lys, le froid) suffit à ancrer la scène.",
+      "Le salon funèbre révèle les dynamiques familiales ou sociales en les comprimant dans un espace et un temps limités — ressort dramatique puissant."
+    ]
+  },
+  {
+    "id": "chambre-adolescent",
+    "label": "Chambre d'adolescent",
+    "type": "espace-intime",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "posters arrachés ou soigneusement encadrés selon le tempérament",
+      "bureau envahi de papiers, cahiers, câbles et objets sans logique apparente",
+      "lit rarement fait, couverture froissée en tas",
+      "vêtements au sol ou sur la chaise — jamais entièrement rangés",
+      "écran d'ordinateur ou de téléphone, lumière bleue persistante",
+      "pile de livres ou de jeux — indices de ce qui compte vraiment",
+      "miroir sur lequel des autocollants ou post-it ont été collés",
+      "odeur caractéristique — mélange de propre et d'enfermé, de parfum et de chambre",
+      "fenêtre parfois ouverte sur l'extérieur, parfois obstinément close",
+      "traces d'une vie secrète : journal intime, carnets, objets cachés"
+    ],
+    "emotionsTypiques": [
+      "territoire de l'intimité absolue, résistance à l'intrusion",
+      "sentiment d'identité en construction — le décor comme manifeste",
+      "solitude choisie ou subie selon les jours",
+      "créativité non surveillée, expérimentation",
+      "honte et fierté mêlées de ce que l'espace révèle",
+      "refuge contre la pression extérieure — famille, école, société"
+    ],
+    "ambiance": "La chambre d'adolescent est un laboratoire d'identité : chaque objet, chaque affiche, chaque désordre est une déclaration. C'est l'espace le plus personnel qui soit, et paradoxalement celui qu'on est le plus réticent à montrer.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "mélange de parfum ou déodorant jeune et d'air peu renouvelé",
+        "papier, encre, livres ou cahiers froissés",
+        "nourriture apportée et parfois oubliée — emballage de snack",
+        "linge porté posé sur la chaise plutôt que dans le panier"
+      ],
+      "auditifs": [
+        "musique à volume variable — très forte quand on est seul, coupée net si quelqu'un frappe",
+        "son de jeu vidéo ou de vidéo, voix de contenu en fond",
+        "silence soudain quand on écoute si les parents montent",
+        "grincement du lit quand on se retourne",
+        "frappe de clavier ou de téléphone — rythme de la communication silencieuse"
+      ],
+      "visuels": [
+        "chaos organisé selon une logique que seul l'occupant maîtrise",
+        "affiches et images qui disent les idoles, les rêves, les appartenances",
+        "lumière souvent basse — stores tirés ou lampe de bureau seulement",
+        "photos d'amis épinglées ou affichées — le cercle social rendu visible",
+        "objet symbolique — cadeau d'un ami, souvenir, talisman — visible mais discret",
+        "miroir où l'on se regarde et où l'on a collé des choses pour ne pas trop se regarder"
+      ],
+      "tactiles": [
+        "couverture froissée, moelleuse, marque de territoire",
+        "sol jonché d'objets — navigation mentale requise",
+        "bureau qui absorbe tout sans rendre rien",
+        "contact du téléphone — extension du corps, presque"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Parent qui entre sans frapper",
+        "description": "Lit l'espace comme un message incompréhensible et légèrement anxiogène. Le désordre est un affront, les affiches une déclaration d'indépendance, les objets fermés (tiroirs, carnets) autant de murs. L'espace dit clairement : tu n'es plus dans ma vie principale."
+      },
+      {
+        "profil": "Ami proche invité dans la chambre",
+        "description": "Décode les signes avec empathie — reconnaît les références, comprend la signification des objets. La chambre n'est pas le chaos qu'elle paraît : c'est une carte. Être invité ici est une marque de confiance que les deux savent reconnaître."
+      },
+      {
+        "profil": "L'adolescent lui-même après un échec ou une humiliation",
+        "description": "Referme la porte avec le sentiment que l'espace est le seul endroit au monde où personne ne peut l'atteindre. Le lit est un abri, la musique un bouclier. La chambre absorbe la honte — provisoirement."
+      }
+    ],
+    "usagesNarratifs": [
+      "révéler l'identité profonde d'un personnage par ses objets et son espace",
+      "scène d'intrusion parentale comme violation ressentie",
+      "dialogue difficile dans un territoire où l'un est en position de force",
+      "refuge après une scène extérieure traumatisante",
+      "présenter un personnage absent à travers sa chambre",
+      "changer l'état d'une chambre pour signifier l'évolution du personnage au fil du récit"
+    ],
+    "notesEditoriales": [
+      "La chambre d'adolescent est un cliché si elle est décrite de façon exhaustive — le désordre universel. La rendre singulière exige deux ou trois détails très précis et inhabituels.",
+      "Ce que l'occupant cache est souvent plus révélateur que ce qu'il montre : le carnet fermé, l'objet dissimulé sous le matelas.",
+      "La chambre évolue avec le personnage : montrer une chambre différente à deux moments du récit dit plus qu'un paragraphe de psychologie.",
+      "La lumière est un détail clé : stores tirés en plein jour disent quelque chose que la description du désordre ne dit pas."
+    ]
+  }
+]

@@ -1,0 +1,1512 @@
+[
+  {
+    "id": "devoir-contre-desir",
+    "label": "Devoir contre désir",
+    "alias": [
+      "obligation contre envie",
+      "raison contre instinct",
+      "sacrifice contre plaisir",
+      "responsabilité contre liberté",
+      "loyauté contre désir propre",
+      "attente contre aspiration",
+      "contrainte contre rêve",
+      "discipline contre impulsion",
+      "honneur contre bonheur",
+      "vie choisie contre vie voulue"
+    ],
+    "famille": "conflits internes",
+    "definitionCourte": "Le personnage est tiraillé entre ce qu'il se sent obligé de faire et ce qu'il veut profondément pour lui-même.",
+    "natureDuConflit": "Conflit interne entre l'identité sociale (ce que l'on doit être) et l'identité intime (ce que l'on veut être). La tension est souvent silencieuse et durable.",
+    "forcesEnPresence": [
+      "sens du devoir ancré profondément",
+      "désir authentique longtemps refoulé",
+      "peur du jugement si on choisit le désir",
+      "culpabilité anticipée",
+      "besoin d'approbation extérieure",
+      "loyauté envers des personnes dépendantes",
+      "peur de la liberté autant que de la cage"
+    ],
+    "declencheursFrequents": [
+      "opportunité soudaine d'accomplir son désir",
+      "demande de sacrifice supplémentaire par ceux envers qui on a des devoirs",
+      "rencontre avec quelqu'un qui a choisi son désir et semble heureux",
+      "signe que le temps passe et que le désir devient moins atteignable",
+      "moment de faiblesse où le désir s'exprime malgré tout",
+      "prise de conscience que le devoir a été accompli mais que rien ne s'est arrangé",
+      "confrontation avec quelqu'un qui ne comprend pas le sacrifice",
+      "permission implicite ou explicite de choisir le désir"
+    ],
+    "signauxAvantCoureurs": [
+      "irritabilité croissante sans cause claire",
+      "petits plaisirs pris en cachette",
+      "idéalisation de ce qui aurait pu être",
+      "comparaisons mentales avec la vie de ceux qui ont choisi autrement",
+      "fatigue qui n'est pas physique",
+      "rêves ou pensées récurrentes autour du désir refoulé",
+      "gestes d'évasion temporaire — alcool, fuite, excès",
+      "moments de doute sur si le sacrifice valait vraiment"
+    ],
+    "silencesEtNonDits": [
+      "le personnage ne dit pas qu'il souffre pour ne pas culpabiliser ceux qui bénéficient de son sacrifice",
+      "le désir n'est souvent pas nommé même intérieurement",
+      "la question de savoir si le devoir est vraiment exigé ou auto-imposé reste sans réponse",
+      "personne ne sait ce que le personnage a renoncé à être",
+      "la colère d'avoir dû choisir n'est jamais exprimée",
+      "l'amour envers ceux pour qui on se sacrifie et la souffrance du sacrifice coexistent sans être dits"
+    ],
+    "penseesTypiques": [
+      "Je ne peux pas les abandonner pour vivre ma vie.",
+      "Si je ne le fais pas, qui le fera ?",
+      "J'ai fait le bon choix. J'en suis presque sûr.",
+      "Est-ce que j'aurai encore une chance un jour ?",
+      "Ils ne savent pas ce que ça me coûte.",
+      "Je ne regrette rien. Enfin, presque.",
+      "C'est trop tard de toute façon.",
+      "Pourquoi est-ce que je suis le seul à devoir sacrifier quelque chose ?",
+      "Si je choisis ce que je veux, qu'est-ce que ça dit de moi ?"
+    ],
+    "comportementsTypiques": [
+      "accomplit son devoir mais avec une froideur croissante",
+      "cherche de petites échappatoires pour compenser",
+      "idéalise ce à quoi il a renoncé au point que c'en est irréel",
+      "exprime sa frustration de manière détournée sur des sujets sans rapport",
+      "réagit avec une jalousie retenue envers ceux qui ont choisi leur désir",
+      "s'investit davantage dans le devoir pour ne pas penser au désir",
+      "sabote parfois inconsciemment la situation qui l'oblige",
+      "reporte la décision jusqu'à ce qu'elle soit prise à sa place"
+    ],
+    "positionsDePouvoir": [
+      "Ceux envers qui il a des devoirs ont un pouvoir affectif réel — même involontaire.",
+      "La société ou le groupe légitiment le devoir, rendant le désir illégitime par comparaison.",
+      "Le personnage a en réalité souvent plus de liberté qu'il ne le croit — la cage est parfois intérieure.",
+      "Choisir son désir est aussi un acte de pouvoir sur soi-même — et peut être perçu comme un abandon par les autres."
+    ],
+    "variantes": [
+      {
+        "relation": "Parent / Vocation abandonnée",
+        "description": "Le personnage a renoncé à une vocation (art, voyage, carrière) pour élever ses enfants. Le désir ressurgit quand les enfants grandissent — mais le temps perdu ne se récupère pas."
+      },
+      {
+        "relation": "Enfant adulte / Parent dépendant",
+        "description": "Le personnage reste auprès d'un parent vieillissant ou malade alors que sa vie l'appelait ailleurs. Le devoir est réel — et le désir aussi. Ni l'un ni l'autre n'est mauvais."
+      },
+      {
+        "relation": "Personne engagée / Amour interdit",
+        "description": "Le devoir de fidélité ou d'engagement contre un désir amoureux non choisi. Le conflit porte sur ce qu'on est versus ce qu'on ressent."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Tiraillement doux", "description": "Le désir est présent mais gérable. Le personnage accomplit son devoir sans trop souffrir." },
+      { "niveau": 2, "label": "Tension régulière", "description": "Le désir revient souvent. Le personnage doit se rappeler pourquoi il choisit le devoir." },
+      { "niveau": 3, "label": "Souffrance active", "description": "Le sacrifice est douloureux et visible. Le personnage compense, fuit, s'irrite." },
+      { "niveau": 4, "label": "Crise de sens", "description": "Le personnage remet en question tout le système de valeurs qui lui a imposé ce choix." },
+      { "niveau": 5, "label": "Rupture", "description": "Le personnage choisit le désir ou s'effondre dans le devoir accompli sans jamais avoir vécu." }
+    ],
+    "escaladeTypique": [
+      "sacrifice initial consenti avec foi",
+      "accumulation de petites frustrations non dites",
+      "moment de tentation qui met le désir en face du personnage",
+      "crise intérieure — le doute sur le sens du sacrifice",
+      "choix définitif ou effondrement silencieux"
+    ],
+    "voiesDeResolution": [
+      "le personnage trouve un moyen d'honorer le devoir et le désir partiellement",
+      "il est libéré de son devoir par un événement extérieur",
+      "il choisit le désir et apprend à vivre avec la culpabilité",
+      "il accomplit son devoir jusqu'au bout et trouve une paix — non sans deuil",
+      "il comprend que le devoir était en partie auto-imposé et s'en libère"
+    ],
+    "blessuresUnderlyantes": [
+      "enfance où l'amour était conditionnel à la performance et au sacrifice",
+      "message reçu que ses propres désirs étaient égoïstes ou secondaires",
+      "expérience passée où avoir choisi le désir a causé une catastrophe",
+      "identité construite sur le fait d'être quelqu'un de fiable et de sacrifié",
+      "peur profonde de ce qu'il deviendrait s'il se permettait de vouloir"
+    ],
+    "contextesFavorables": [
+      "soignant ou aidant naturel dans une famille",
+      "personnage dont la vocation a été sacrifiée pour une obligation familiale",
+      "personnage en milieu de vie confronté à ce qu'il n'a pas accompli",
+      "personne prise entre deux amours ou deux engagements"
+    ],
+    "personnagesSouventConcernes": [
+      "l'aîné qui a tout porté pour la fratrie",
+      "l'artiste qui a renoncé pour une vie stable",
+      "le soignant épuisé qui n'a jamais appris à dire non",
+      "le personnage amoureux d'une personne qu'il ne peut pas avoir",
+      "celui qui a fait le bon choix et ne peut pas s'empêcher de s'en vouloir quand même"
+    ],
+    "erreursDEcriture": [
+      "rendre le désir clairement légitime et le devoir clairement oppressif — le conflit est plus fort si les deux sont valides",
+      "résoudre en accordant les deux facilement",
+      "oublier la culpabilité même quand le bon choix est fait",
+      "ne pas montrer le coût invisible du sacrifice sur le long terme",
+      "faire du choix du désir une libération simple — en réalité il s'accompagne toujours d'une perte"
+    ],
+    "notesEditoriales": [
+      "Ce conflit est universel mais ne doit jamais sembler générique — il faut le personnaliser dans ses détails concrets.",
+      "La force dramatique est dans ce que le personnage ne dit pas sur ce qu'il a renoncé à être.",
+      "Différencier : devoir contre désir (valeurs internes) / loyauté contre justice (valeurs externes) / amour contre survie (urgence existentielle).",
+      "Le personnage qui accomplit son devoir en silence tout en portant son désir est souvent plus touchant que celui qui explose."
+    ]
+  },
+  {
+    "id": "peur-contre-action",
+    "label": "Peur contre action",
+    "alias": [
+      "paralysie contre mouvement",
+      "instinct de fuite contre devoir d'agir",
+      "lâcheté contre courage",
+      "immobilisme contre risque",
+      "évitement contre engagement",
+      "sécurité contre nécessité",
+      "terreur contre décision",
+      "retrait contre confrontation",
+      "inaction contre urgence",
+      "protection contre responsabilité"
+    ],
+    "famille": "conflits internes",
+    "definitionCourte": "Le personnage sait ce qu'il faudrait faire mais la peur le retient. L'inaction devient une décision — et elle a des conséquences.",
+    "natureDuConflit": "Conflit entre l'instinct de protection (fuir, se protéger, éviter) et l'impératif d'action (agir, protéger, intervenir, décider). La tension est souvent entre sécurité et intégrité.",
+    "forcesEnPresence": [
+      "peur réelle ou anticipée d'un danger",
+      "conscience que l'inaction a un coût",
+      "honte de sa propre peur",
+      "expérience passée d'une action qui a mal tourné",
+      "besoin de se protéger",
+      "sens du devoir ou de la responsabilité envers autrui",
+      "peur du jugement si la lâcheté est visible"
+    ],
+    "declencheursFrequents": [
+      "urgence qui exige une décision immédiate",
+      "appel à l'aide d'une personne en danger",
+      "moment où l'inaction devient visible et condamnable",
+      "opportunité qui ne se représentera pas",
+      "souvenir d'une fois où l'action a coûté cher",
+      "confrontation à un danger ou un obstacle concret",
+      "défi direct à son courage par un tiers",
+      "témoignage d'une injustice où agir est risqué"
+    ],
+    "signauxAvantCoureurs": [
+      "hésitation visible avant les décisions ordinaires",
+      "rationalisation de l'inaction par des arguments pratiques",
+      "évitement progressif des situations à risque",
+      "délégation excessive pour ne pas avoir à décider",
+      "irritabilité envers ceux qui agissent sans hésiter",
+      "rêves ou cauchemars liés à l'action ou à l'échec",
+      "moments de courage avortés — le personnage commence puis s'arrête",
+      "sentiment de honte diffuse sans cause apparente"
+    ],
+    "silencesEtNonDits": [
+      "le personnage ne nomme pas sa peur, même intérieurement — il rationalise",
+      "la honte de l'inaction n'est pas dite",
+      "personne ne sait à quel point la peur est paralysante",
+      "le coût de l'inaction sur les autres n'est pas regardé en face",
+      "la conviction que l'action aurait été inutile est souvent une consolation, pas une vérité",
+      "le désir profond d'agir est niée pour se protéger de la déception"
+    ],
+    "penseesTypiques": [
+      "Si j'agis et que ça rate, c'est ma faute.",
+      "Quelqu'un d'autre peut le faire mieux que moi.",
+      "Ce n'est pas mon problème.",
+      "J'allais le faire — mais il était déjà trop tard.",
+      "Je ne suis pas courageux de nature.",
+      "Pourquoi est-ce que c'est toujours à moi qu'on demande ça ?",
+      "Je savais ce qu'il fallait faire. Et je ne l'ai pas fait.",
+      "Si j'avais été différent, j'aurais agi.",
+      "Je recommencerai — la prochaine fois, je le ferai."
+    ],
+    "comportementsTypiques": [
+      "reporte les décisions difficiles jusqu'à ce qu'elles se prennent seules",
+      "délègue ou transfère la responsabilité sans le dire",
+      "construit des rationalisations élaborées de son inaction",
+      "s'engage verbalement mais ne suit pas les actes",
+      "évite les situations qui pourraient forcer à agir",
+      "admire en secret ceux qui agissent sans hésiter",
+      "revient sur l'inaction passée avec une rumination douloureuse",
+      "saisit parfois un moment de courage soudain pour compenser"
+    ],
+    "positionsDePouvoir": [
+      "L'inaction laisse aux autres le pouvoir de décider — ce qui peut être voulu.",
+      "Celui qui agit prend le risque — et obtient le résultat, bon ou mauvais.",
+      "La paralysie est parfois une forme de pouvoir : ni l'un ni l'autre camp ne peut avancer sans lui.",
+      "La honte de la lâcheté est un levier que d'autres peuvent utiliser."
+    ],
+    "variantes": [
+      {
+        "relation": "Témoin d'une injustice",
+        "description": "Le personnage voit quelque chose d'injuste se passer. Il pourrait intervenir. Il ne le fait pas. La culpabilité suit — et parfois, la situation empire."
+      },
+      {
+        "relation": "Occasion manquée",
+        "description": "Ce n'est pas un danger physique mais une opportunité. L'inaction laisse passer quelque chose d'important — une relation, une carrière, une vérité à dire."
+      },
+      {
+        "relation": "Confrontation nécessaire",
+        "description": "Le personnage sait qu'il doit avoir une conversation difficile — dire la vérité, fixer une limite, demander quelque chose. La peur du conflit le paralyse."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Hésitation passagère", "description": "Le personnage hésite mais finit par agir. La peur est présente mais pas paralysante." },
+      { "niveau": 2, "label": "Report visible", "description": "Le personnage reporte sans raison claire. L'entourage commence à le remarquer." },
+      { "niveau": 3, "label": "Paralysie active", "description": "Le personnage ne peut pas agir malgré sa conscience de devoir le faire. La souffrance intérieure est réelle." },
+      { "niveau": 4, "label": "Inaction aux conséquences graves", "description": "Le fait de ne pas avoir agi a eu des conséquences directes. La culpabilité s'installe." },
+      { "niveau": 5, "label": "Effondrement de l'image de soi", "description": "Le personnage ne peut plus se voir comme quelqu'un de bien. La honte est totale." }
+    ],
+    "escaladeTypique": [
+      "situation qui appelle à l'action",
+      "hésitation initiale rationalisée",
+      "fenêtre d'action qui se ferme",
+      "inaction consommée et ses premières conséquences",
+      "confrontation intérieure ou extérieure à ce qui a été évité"
+    ],
+    "voiesDeResolution": [
+      "le personnage agit enfin — même tard, même imparfaitement",
+      "quelqu'un agit à sa place et lui montre que c'était possible",
+      "le personnage comprend l'origine de sa peur et peut la traverser",
+      "les conséquences de l'inaction sont telles qu'il n'a plus le choix",
+      "le personnage accepte sa lâcheté et décide d'en changer"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience passée où agir a causé une catastrophe",
+      "enfance dans un environnement imprévisible où l'action était punissable",
+      "figure protectrice qui a toujours décidé à sa place",
+      "échec public humiliant lié à une prise de risque",
+      "conviction profonde qu'il ne fait pas le poids face aux situations difficiles"
+    ],
+    "contextesFavorables": [
+      "personnage qui a le pouvoir d'empêcher quelque chose mais ne l'exerce pas",
+      "urgence morale dans un contexte de peur physique réelle",
+      "personnage habitué à être protégé confronté pour la première fois à une décision seul",
+      "situation où le courage est attendu de lui par tous sauf par lui-même"
+    ],
+    "personnagesSouventConcernes": [
+      "le témoin qui n'a pas parlé",
+      "le personnage qui a laissé partir quelqu'un sans dire ce qu'il ressentait",
+      "le soldat ou l'agent face à un ordre injuste",
+      "l'ami qui n'a pas intervenu quand il aurait dû",
+      "le personnage dont la paralysie est devenue une blessure identitaire"
+    ],
+    "erreursDEcriture": [
+      "rendre la peur inexplicable — elle doit avoir une source concrète ou une logique intérieure",
+      "résoudre par un coup de bravoure soudain sans préparation émotionnelle",
+      "oublier la culpabilité et la honte qui accompagnent l'inaction",
+      "confondre lâcheté et prudence — la prudence peut être sage",
+      "ne pas montrer les conséquences réelles de l'inaction sur les autres"
+    ],
+    "notesEditoriales": [
+      "Le courage n'est pas l'absence de peur — c'est agir malgré elle. Ce conflit explore l'espace entre les deux.",
+      "Différencier : peur contre action (paralysie face à une décision) / devoir contre désir (ce qu'on veut versus ce qu'on doit) / loyauté contre justice (fidélité versus éthique).",
+      "La lâcheté peut être un chemin vers la rédemption si le personnage la reconnaît pleinement.",
+      "Les petites lâchetés quotidiennes sont souvent plus révélatrices que les grandes."
+    ]
+  },
+  {
+    "id": "verite-contre-securite",
+    "label": "Vérité contre sécurité",
+    "alias": [
+      "honnêteté contre protection",
+      "vérité contre confort",
+      "franchise contre paix",
+      "aveu contre stabilité",
+      "transparence contre préservation",
+      "dire contre se taire",
+      "révélation contre prudence",
+      "sincérité contre survie",
+      "courage de dire contre peur des conséquences",
+      "vérité qui libère contre mensonge qui protège"
+    ],
+    "famille": "conflits internes",
+    "definitionCourte": "Le personnage sait une vérité qu'il lui faudrait dire — mais la dire risque de détruire quelque chose qu'il tient à préserver.",
+    "natureDuConflit": "Tension entre l'intégrité (dire ce qui est vrai) et la protection (de soi, d'autrui, d'une relation, d'un système). La vérité a un coût. Le silence aussi.",
+    "forcesEnPresence": [
+      "conviction que la vérité est due",
+      "peur des conséquences de la révélation",
+      "désir de préserver une relation ou une situation",
+      "honte ou culpabilité liée au secret",
+      "loyauté envers quelqu'un que la vérité pourrait blesser",
+      "conscience que le mensonge dure et s'alourdit",
+      "peur d'être jugé pour avoir su et tu"
+    ],
+    "declencheursFrequents": [
+      "question directe qui exige une réponse",
+      "moment où le mensonge ou le silence devient difficile à maintenir",
+      "tiers qui souffre à cause de la vérité non dite",
+      "découverte que l'autre a déjà une part de la vérité",
+      "prise de conscience que le silence complice le rend responsable",
+      "moment de vulnérabilité de l'autre qui invite à la franchise",
+      "opportunité de dire la vérité qui ne se reproduira peut-être pas",
+      "situation où le mensonge est sur le point d'être découvert"
+    ],
+    "signauxAvantCoureurs": [
+      "malaise croissant dans les conversations qui approchent du sujet",
+      "évitement de la personne à qui la vérité est due",
+      "fragments de la vérité lâchés accidentellement",
+      "rationalisation du silence par des arguments de protection",
+      "irritabilité ou distance inexplicable",
+      "rumination nocturne sur les conséquences de dire ou ne pas dire",
+      "sentiment d'être piégé dans une situation qu'on aurait pu éviter",
+      "gestes d'affection compensatoires envers celui à qui on ment"
+    ],
+    "silencesEtNonDits": [
+      "la vérité elle-même est rarement nommée intérieurement sans détour",
+      "le coût du mensonge pour le personnage lui-même n'est pas reconnu",
+      "la personne à qui la vérité est due ne sait pas ce qu'elle ignore",
+      "la peur réelle derrière le silence n'est jamais nommée",
+      "la possibilité que l'autre puisse supporter la vérité n'est pas envisagée",
+      "la question de savoir si le silence est vraiment protecteur ou protège surtout le personnage lui-même"
+    ],
+    "penseesTypiques": [
+      "Si je lui dis, ça va tout casser.",
+      "Est-ce que la vérité va vraiment l'aider ?",
+      "Je protège quelqu'un. Ce n'est pas du mensonge.",
+      "Si je le savais, j'aurais voulu qu'on me le dise.",
+      "Peut-être que je peux dire la vérité sans tout dire.",
+      "Je trouverai le bon moment. Il n'arrive jamais.",
+      "Ce que je ne dis pas me ronge autant que ce que j'ai dit.",
+      "Est-ce que je protège vraiment l'autre, ou juste moi-même ?",
+      "Si la vérité sort d'ailleurs, je n'aurai jamais pardonné de m'être tu."
+    ],
+    "comportementsTypiques": [
+      "reporte l'aveu en cherchant le moment idéal",
+      "dit une demi-vérité pour soulager sa conscience sans vraiment révéler",
+      "cherche une sortie latérale — quelqu'un d'autre pourrait dire à sa place",
+      "surveille les réactions de l'autre pour évaluer si la vérité est supportable",
+      "s'éloigne de la personne pour éviter la situation",
+      "compense sa dissimulation par une attention excessive à la personne",
+      "tente de régler la cause du problème sans révéler la cause réelle",
+      "finit par tout dire dans un moment d'épuisement ou de crise"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui sait une vérité a un pouvoir sur la situation — choisir de ne pas le dire est aussi un choix actif.",
+      "Celui qui ne sait pas est dans une position de vulnérabilité involontaire.",
+      "La vérité, une fois dite, retire le pouvoir du secret et redistribue les cartes.",
+      "Le silence peut être un acte de pouvoir — mais il crée aussi une dette envers soi-même."
+    ],
+    "variantes": [
+      {
+        "relation": "Vérité blessante sur soi",
+        "description": "Le personnage doit avouer quelque chose de honteux — une erreur, une trahison, une faiblesse. La vérité le déprotège lui-même."
+      },
+      {
+        "relation": "Vérité blessante sur un tiers",
+        "description": "Le personnage sait quelque chose de négatif sur quelqu'un que l'autre aime. Dire, c'est blesser. Se taire, c'est laisser l'autre dans l'illusion."
+      },
+      {
+        "relation": "Vérité qui détruit un système",
+        "description": "Dire la vérité met en danger une institution, une famille, un groupe. Le personnage doit peser sa loyauté envers la vérité contre sa loyauté envers le système."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Inconfort silencieux", "description": "Le personnage garde un secret mineur. La gêne est présente mais gérable." },
+      { "niveau": 2, "label": "Pesanteur du secret", "description": "Le secret pèse. Le personnage évite certaines conversations. La distance s'installe." },
+      { "niveau": 3, "label": "Crise de conscience", "description": "Le personnage sait qu'il doit parler. La situation le presse. La souffrance de se taire devient plus grande que la peur de dire." },
+      { "niveau": 4, "label": "Vérité sur le point d'éclater", "description": "D'autres savent ou vont savoir. Le personnage n'a plus l'initiative — il peut encore choisir comment dire avant que ce soit dit sans lui." },
+      { "niveau": 5, "label": "Révélation forcée ou aveu total", "description": "La vérité est dite — choisie ou arrachée. Les conséquences commencent." }
+    ],
+    "escaladeTypique": [
+      "secret tenu par peur ou par protection",
+      "situations qui approchent de la vérité sans l'atteindre",
+      "conscience que le silence a un coût croissant",
+      "moment de bascule où dire devient plus nécessaire que se taire",
+      "aveu et ses conséquences irréversibles"
+    ],
+    "voiesDeResolution": [
+      "le personnage dit la vérité et les conséquences sont moins catastrophiques qu'anticipé",
+      "la vérité est dite et tout change — à la fois libération et perte",
+      "le personnage trouve un moyen de corriger la situation sans révélation explicite",
+      "la vérité est découverte d'une autre façon — et le silence devient lui-même une blessure",
+      "le personnage choisit de se taire définitivement et apprend à vivre avec ce choix"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience passée où la vérité dite a causé une destruction",
+      "enfance dans un environnement où la transparence était dangereuse",
+      "figure d'autorité qui punissait l'aveu",
+      "vérité passée jamais dite qui a alourdi toute une vie",
+      "conviction que les autres ne peuvent pas supporter la réalité"
+    ],
+    "contextesFavorables": [
+      "famille avec un secret fondateur qui n'a jamais été nommé",
+      "personnage qui a été témoin de quelque chose de grave",
+      "relation intime construite sur une omission majeure",
+      "personnage à qui une vérité déplaisante sur lui-même a été cachée"
+    ],
+    "personnagesSouventConcernes": [
+      "le porteur d'un secret de famille",
+      "l'ami qui sait une vérité compromettante sur un partenaire",
+      "le témoin qui n'a pas parlé lors d'un procès ou d'une injustice",
+      "le personnage qui a menti par protection et ne sait plus comment revenir en arrière",
+      "celui qui a découvert quelque chose sur lui-même qu'il ne voulait pas savoir"
+    ],
+    "erreursDEcriture": [
+      "rendre la bonne réponse évidente — parfois se taire est la bonne décision",
+      "faire de l'aveu un moment de catharsis simple sans conséquences durables",
+      "oublier que la vérité peut blesser même dite avec soin",
+      "ne pas montrer ce que le silence coûte au personnage sur le long terme",
+      "réduire le conflit à une simple question de courage — c'est aussi une question de conséquences réelles"
+    ],
+    "notesEditoriales": [
+      "Ce conflit est plus puissant quand on ne sait pas si dire la vérité était la bonne décision.",
+      "La vérité partielle est souvent plus dramatique que le mensonge total — elle entretient l'ambiguïté.",
+      "Différencier : vérité contre sécurité (conséquences) / honte contre exposition (image de soi) / loyauté contre justice (systèmes).",
+      "Le moment de l'aveu n'est souvent pas le climax — c'est ce qui vient après qui l'est."
+    ]
+  },
+  {
+    "id": "loyaute-contre-justice",
+    "label": "Loyauté contre justice",
+    "alias": [
+      "fidélité contre éthique",
+      "appartenance contre intégrité",
+      "protection contre vérité",
+      "solidarité contre morale",
+      "silence de groupe contre dénonciation",
+      "loyauté aveugle contre conscience",
+      "complicité contre courage",
+      "solidarité contre justice",
+      "couverture contre honnêteté",
+      "devoir de clan contre devoir moral"
+    ],
+    "famille": "conflits internes",
+    "definitionCourte": "Le personnage est loyal envers quelqu'un qui a commis une injustice. Rester fidèle, c'est la couvrir. Dénoncer, c'est trahir.",
+    "natureDuConflit": "Conflit entre l'appartenance (famille, groupe, amitié) et l'éthique (ce qui est juste pour tous). Ce que le personnage doit à quelqu'un contre ce qu'il doit à quelqu'un d'autre ou à ses propres valeurs.",
+    "forcesEnPresence": [
+      "loyauté réelle et sincère envers la personne concernée",
+      "sens de la justice envers la victime ou le système",
+      "peur des représailles si on ne couvre pas",
+      "honte de l'appartenance si l'injustice est révélée",
+      "conviction que protéger c'est aimer",
+      "pression sociale du groupe à rester solidaire",
+      "dégoût intérieur de couvrir quelque chose de mauvais"
+    ],
+    "declencheursFrequents": [
+      "demande explicite de couvrir ou de témoigner en faveur de quelqu'un",
+      "victime dont le personnage connaît le visage",
+      "demande officielle (police, justice) de témoigner",
+      "confrontation par quelqu'un d'extérieur qui connaît la vérité",
+      "nouvelle injustice commise par la même personne",
+      "conséquence grave pour une victime si rien n'est fait",
+      "moment où la complicité silencieuse devient visible et culpabilisante",
+      "occasion de faire la lumière sans nommer directement"
+    ],
+    "signauxAvantCoureurs": [
+      "évitement de la personne impliquée dans l'injustice",
+      "irritabilité envers ceux qui posent des questions",
+      "distance progressive avec le groupe solidaire",
+      "gestes de sur-loyauté pour compenser l'ambivalence intérieure",
+      "allusions à la situation sans jamais la nommer clairement",
+      "rumination sur ce qui s'est passé et sur ce qu'on aurait dû faire",
+      "malaise physique dans les situations qui rappellent l'injustice",
+      "rapprochement discreet vers la victime ou vers des personnes neutres"
+    ],
+    "silencesEtNonDits": [
+      "personne ne nomme que le silence est une forme de complicité",
+      "le personnage ne dit pas à la personne concernée ce qu'il pense vraiment de l'acte",
+      "la victime ne sait pas que quelqu'un connaît la vérité",
+      "le coût personnel de la couverture n'est pas dit",
+      "la question de savoir si la loyauté vaut encore quelque chose dans ce contexte n'est pas posée",
+      "le désir de se désolidariser sans en payer le prix n'est jamais avoué"
+    ],
+    "penseesTypiques": [
+      "C'est quelqu'un que j'aime. Je ne peux pas le faire ça.",
+      "Si je parle, je le détruis. Et lui, il ne me le pardonnerait jamais.",
+      "Est-ce que je suis en train de couvrir quelque chose de vraiment grave ?",
+      "La victime mérite la vérité. Mais est-ce que c'est à moi de la donner ?",
+      "Je ne suis pas responsable de ce qu'il a fait.",
+      "Si je me tais, je deviens complice. Et je sais ce que ça veut dire.",
+      "Jusqu'où va ma loyauté ?",
+      "Est-ce que j'aurais voulu que quelqu'un me couvre si j'avais été à sa place ?",
+      "Je pourrais dire quelque chose sans tout dire."
+    ],
+    "comportementsTypiques": [
+      "se tait lors des interrogatoires ou des conversations où la vérité est demandée",
+      "fournit des informations incomplètes qui protègent sans mentir formellement",
+      "cherche à protéger la personne tout en la poussant discrètement à réparer",
+      "s'éloigne progressivement du groupe pour ne plus avoir à couvrir",
+      "cherche un moyen de signaler indirectement ce qui s'est passé",
+      "confronte en privé la personne impliquée sans en référer à l'extérieur",
+      "finit par parler après une accumulation de pressions ou une injustice supplémentaire",
+      "garde le secret pour toujours et vit avec le poids de ce choix"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui couvre a un pouvoir tacite sur celui qu'il protège — une dette invisible.",
+      "Celui qui est couvert a un pouvoir sur le témoin — sa protection peut être révoquée.",
+      "La victime est souvent la seule sans pouvoir dans ce triangle.",
+      "Le groupe exerce une pression collective difficile à résister sans en payer le prix social."
+    ],
+    "variantes": [
+      {
+        "relation": "Famille",
+        "description": "Un membre de la famille a fait quelque chose de grave. Protéger, c'est l'amour. Dénoncer, c'est trahir le sang. Le personnage est pris entre deux absolus."
+      },
+      {
+        "relation": "Groupe d'appartenance",
+        "description": "Gang, équipe, institution, cercle professionnel. La solidarité est la loi non écrite. Parler, c'est se mettre hors du groupe — et parfois en danger."
+      },
+      {
+        "relation": "Ami proche",
+        "description": "L'amitié est réelle, l'acte est grave. Le personnage doit décider si l'amitié peut survivre à la vérité — ou si elle peut survivre au secret."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Gêne silencieuse", "description": "Le personnage couvre quelque chose de mineur. La gêne est là mais supportable." },
+      { "niveau": 2, "label": "Malaise croissant", "description": "L'injustice commise pèse. Le personnage commence à éviter, à distancer, à compenser." },
+      { "niveau": 3, "label": "Conflit intérieur actif", "description": "Le personnage ne peut plus ignorer la tension. Il tourne en rond entre parler et se taire." },
+      { "niveau": 4, "label": "Complicité assumée ou rejetée", "description": "Il doit choisir. Soit il couvre explicitement, soit il se désolidarise avec tout ce que ça implique." },
+      { "niveau": 5, "label": "Rupture ou aveu", "description": "Le personnage parle — ou choisit de ne jamais parler et vit avec ce choix pour le reste de l'histoire." }
+    ],
+    "escaladeTypique": [
+      "injustice commise que le personnage connaît",
+      "pression croissante pour couvrir ou pour révéler",
+      "confrontation directe ou indirecte avec la victime",
+      "moment de vérité où le choix devient inévitable",
+      "parole ou silence définitif et ses conséquences"
+    ],
+    "voiesDeResolution": [
+      "la personne impliquée assume elle-même la responsabilité de son acte",
+      "le personnage trouve un moyen de révéler la vérité sans rupture totale",
+      "il rompt avec la loyauté et vit avec les conséquences de la trahison",
+      "la situation évolue de telle façon que le silence n'est plus possible",
+      "le personnage aide la personne impliquée à réparer sans la dénoncer"
+    ],
+    "blessuresUnderlyantes": [
+      "enfance dans un système où la solidarité du groupe primait sur tout",
+      "expérience passée où avoir parlé a causé une catastrophe",
+      "loyauté inconditionnelle liée à une dette ancienne envers la personne",
+      "peur de se retrouver seul si on quitte le groupe",
+      "conviction que dénoncer c'est abandonner — et l'abandon est inacceptable"
+    ],
+    "contextesFavorables": [
+      "institutions avec une culture du silence (police, armée, église, famille fermée)",
+      "personnage qui a tout perdu et ne tient à rien sauf à cette loyauté",
+      "situation où la victime est connue du personnage",
+      "conflit entre deux loyautés — protéger X et protéger Y — quand les deux sont incompatibles"
+    ],
+    "personnagesSouventConcernes": [
+      "le témoin silencieux dans une affaire de violence ou d'injustice",
+      "l'ami d'enfance qui connaît un secret compromettant",
+      "le membre du groupe qui a vu mais ne dira rien",
+      "le parent qui couvre un enfant qui a vraiment fait quelque chose de grave",
+      "celui qui a parlé une fois et le regrette — et ne le refera pas"
+    ],
+    "erreursDEcriture": [
+      "rendre la dénonciation clairement héroïque sans coût réel — les conséquences de parler sont souvent lourdes",
+      "rendre le silence clairement lâche — la loyauté peut être sincère et réelle",
+      "oublier la victime dans l'équation dramatique",
+      "résoudre par un coup de conscience soudain sans préparation",
+      "ne pas montrer que ce conflit peut rester sans résolution — parfois personne ne parle jamais"
+    ],
+    "notesEditoriales": [
+      "Ce conflit est l'un des plus moralement complexes — il met en scène deux formes de valeur qui s'excluent.",
+      "Les meilleures scènes autour de ce thème ne donnent pas la réponse — elles montrent le coût des deux options.",
+      "Différencier : loyauté contre justice (appartenance / éthique) / vérité contre sécurité (révélation / protection) / devoir contre désir (obligation / aspiration).",
+      "La figure du groupe qui exerce la pression est souvent plus menaçante que la figure individuelle."
+    ]
+  },
+  {
+    "id": "amour-contre-survie",
+    "label": "Amour contre survie",
+    "alias": [
+      "attachement contre instinct de vie",
+      "lien contre fuite",
+      "rester contre se sauver",
+      "amour contre intérêt vital",
+      "loyauté affective contre nécessité physique",
+      "sentiment contre raison de survie",
+      "sacrifice contre existence",
+      "désir de protéger contre besoin d'être sauvé",
+      "amour destructeur contre salut personnel",
+      "partir contre aimer"
+    ],
+    "famille": "conflits internes",
+    "definitionCourte": "Le personnage est attaché à quelqu'un ou quelque chose dont la présence met en danger sa vie, sa liberté, sa santé mentale ou son avenir.",
+    "natureDuConflit": "Conflit entre un attachement profond (amour, loyauté, lien familial) et l'impératif de survie (physique, psychologique, sociale). Rester par amour peut détruire. Partir pour survivre, c'est abandonner.",
+    "forcesEnPresence": [
+      "amour réel et profond pour la personne ou le lieu",
+      "instinct de survie ou signal clair de danger",
+      "culpabilité à l'idée de partir",
+      "honte de ne pas réussir à partir",
+      "peur de la solitude après la séparation",
+      "conviction que les choses peuvent changer",
+      "dépendance émotionnelle ou pratique"
+    ],
+    "declencheursFrequents": [
+      "événement grave qui met la survie en danger immédiat",
+      "opportunité de partir qui ne se représentera peut-être pas",
+      "tiers qui nomme le danger et encourage à partir",
+      "moment de clarté après une crise particulièrement violente ou douloureuse",
+      "rencontre avec quelqu'un qui a réussi à partir et vit mieux",
+      "signal que la situation va empirer plutôt que s'améliorer",
+      "moment de faiblesse de la personne aimée qui ranime l'espoir",
+      "conséquence grave pour un tiers (enfant, proche) de rester"
+    ],
+    "signauxAvantCoureurs": [
+      "pensées récurrentes de fuite vite réprimées",
+      "préparatifs discrets jamais suivis d'effet",
+      "conversations avec des proches qui tournent toujours autour du même sujet",
+      "hésitations croissantes à rentrer",
+      "fantasmes sur une vie après",
+      "épuisement profond sans cause explicite",
+      "distancement de ceux qui voient clairement la situation",
+      "justifications de plus en plus élaborées pour rester"
+    ],
+    "silencesEtNonDits": [
+      "le personnage ne dit pas qu'il a peur de ce qu'il aime",
+      "l'amour et la peur ne sont jamais nommés ensemble",
+      "les proches ne savent pas à quel point la situation est grave",
+      "la honte d'aimer quelque chose ou quelqu'un qui fait du mal n'est pas dite",
+      "l'espoir de changement est maintenu même quand les signes disent le contraire",
+      "la question de savoir si l'amour justifie de tout sacrifier reste sans réponse"
+    ],
+    "penseesTypiques": [
+      "Si je pars, qui s'en occupera ?",
+      "Les choses peuvent encore changer. Je le sais.",
+      "Je ne peux pas tout laisser derrière moi.",
+      "Comment je pourrais vivre avec moi-même si je pars maintenant ?",
+      "Partir, c'est lui dire qu'il ne vaut rien.",
+      "Si je reste encore un peu, peut-être que...",
+      "J'ai peur de ce que je deviendrais sans lui.",
+      "J'ai encore plus peur de ce que je suis en train de devenir en restant.",
+      "Est-ce que c'est encore de l'amour, ou juste de la peur de partir ?"
+    ],
+    "comportementsTypiques": [
+      "prépare un départ sans jamais le déclencher",
+      "cherche des signes que la situation peut s'améliorer",
+      "s'accroche aux bons moments pour justifier de rester",
+      "s'isole de ceux qui lui disent de partir pour ne pas avoir à les écouter",
+      "minimise la gravité de la situation auprès des tiers",
+      "part et revient plusieurs fois",
+      "met en place des protections partielles sans aller au bout",
+      "s'effondre quand il se retrouve enfin seul et en sécurité"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui est aimé a un pouvoir immense — l'amour rend vulnérable.",
+      "Celui qui veut partir a le pouvoir de choisir — mais il est souvent paralysé par ce qu'il laisse.",
+      "Les tiers qui voient clairement ont un pouvoir d'information — mais pas de décision.",
+      "La situation de survie peut créer des contraintes pratiques (argent, enfants, lieu) qui renforcent la paralysie."
+    ],
+    "variantes": [
+      {
+        "relation": "Relation violente ou toxique",
+        "description": "Le personnage aime quelqu'un qui lui fait du mal. L'amour est réel et le danger aussi. La honte de ne pas partir se mêle à la peur de ce qui arrivera si on part."
+      },
+      {
+        "relation": "Lieu ou communauté d'origine",
+        "description": "Le personnage est attaché à un lieu ou un groupe qui l'étouffe ou le met en danger. Partir, c'est trahir ses racines. Rester, c'est s'éteindre."
+      },
+      {
+        "relation": "Addiction ou comportement destructeur",
+        "description": "L'attachement est à quelque chose de non humain. L'amour pour ce qui détruit — substance, habitude, projet — contre la survie."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Tension sourde", "description": "Le personnage perçoit que quelque chose ne va pas mais continue. Le danger est diffus." },
+      { "niveau": 2, "label": "Tiraillement actif", "description": "Le personnage pense sérieusement à partir. Il ne le fait pas encore." },
+      { "niveau": 3, "label": "Crise de survie", "description": "Un événement grave force à considérer le départ comme une urgence." },
+      { "niveau": 4, "label": "Tentative de partir", "description": "Le personnage essaie. Il revient. Ou reste paralysé à la porte." },
+      { "niveau": 5, "label": "Rupture ou effondrement", "description": "Le personnage part définitivement — ou reste et se perd définitivement." }
+    ],
+    "escaladeTypique": [
+      "attachement fort et signal de danger ignoré",
+      "accumulation d'incidents qui ne peuvent plus être minimisés",
+      "tentative de partir avortée",
+      "crise qui rend le choix inévitable",
+      "départ ou effondrement définitif"
+    ],
+    "voiesDeResolution": [
+      "le personnage part et survit — avec le deuil de ce qu'il a laissé",
+      "la personne ou la situation aimée change réellement — résolution rare",
+      "un tiers intervient et facilite le départ",
+      "les conséquences pour un proche (enfant) rendent le départ inévitable",
+      "le personnage reste et perd quelque chose d'essentiel — il l'accepte"
+    ],
+    "blessuresUnderlyantes": [
+      "attachement anxieux forgé dans l'enfance",
+      "conviction que l'amour exige de tout supporter",
+      "expérience passée d'abandon qui rend partir inacceptable",
+      "identité construite sur la relation ou le lieu",
+      "peur profonde de ne rien valoir sans cet attachement"
+    ],
+    "contextesFavorables": [
+      "relation intime dans un contexte de violence ou d'emprise",
+      "personnage attaché à un lieu qui le détruit (quartier, pays, environnement toxique)",
+      "personnage dont l'identité entière repose sur un lien unique",
+      "situation où partir met en danger l'être aimé"
+    ],
+    "personnagesSouventConcernes": [
+      "la personne dans une relation violente qui n'arrive pas à partir",
+      "l'exilé qui souffre de rester loin mais ne peut plus rentrer",
+      "le parent qui reste dans une situation néfaste pour ne pas quitter ses enfants",
+      "le personnage qui aime quelqu'un qui le détruit sans le vouloir",
+      "celui dont l'identité entière est nouée à quelque chose d'autodestructeur"
+    ],
+    "erreursDEcriture": [
+      "rendre le départ évident et facile — la difficulté est le cœur du conflit",
+      "juger le personnage qui ne part pas sans comprendre les mécanismes de l'attachement",
+      "ne pas montrer pourquoi l'amour est réel — sans ça le conflit n'existe pas",
+      "résoudre par un coup de courage soudain sans préparation émotionnelle",
+      "oublier les conséquences du départ — physiques, sociales, affectives"
+    ],
+    "notesEditoriales": [
+      "Ce conflit nécessite que l'amour soit crédible — sinon c'est juste de la stupidité narrative.",
+      "La honte de ne pas partir est souvent plus paralysante que la peur de rester.",
+      "Différencier : amour contre survie (attachement / danger) / devoir contre désir (obligation / aspiration) / peur contre action (paralysie / décision).",
+      "La scène la plus puissante n'est souvent pas le départ mais le moment juste avant — quand le personnage est à la porte et ne sait pas encore ce qu'il va faire."
+    ]
+  },
+  {
+    "id": "vengeance-contre-morale",
+    "label": "Vengeance contre morale",
+    "alias": [
+      "justice personnelle contre loi",
+      "représailles contre pardon",
+      "colère contre éthique",
+      "désir de rétribution contre conscience",
+      "punition contre grâce",
+      "faire payer contre lâcher prise",
+      "haine justifiée contre valeurs",
+      "soif de justice contre peur de soi-même",
+      "revanche contre intégrité",
+      "œil pour œil contre refus de la violence"
+    ],
+    "famille": "conflits internes",
+    "definitionCourte": "Le personnage a subi une injustice grave et désire se venger. Mais accomplir cette vengeance l'obligerait à devenir quelqu'un qu'il ne veut pas être.",
+    "natureDuConflit": "Conflit entre une colère légitime et une éthique personnelle ou sociale. La vengeance offre une satisfaction fantasmée; la renoncer exige de survivre à l'injustice sans réparation.",
+    "forcesEnPresence": [
+      "colère légitime face à une injustice réelle",
+      "désir de réparation symbolique",
+      "conviction que la justice officielle ne suffira pas",
+      "valeurs morales qui interdisent la vengeance",
+      "peur de ce que la vengeance ferait de soi",
+      "entourage qui encourage ou décourage selon ses propres valeurs",
+      "blessure non cicatrisée qui alimente la soif de justice"
+    ],
+    "declencheursFrequents": [
+      "injustice impunie ou mal réparée par le système officiel",
+      "revoir la personne qui a causé la blessure",
+      "apprendre que la personne mène une vie normale après l'acte",
+      "nouvelle blessure infligée à quelqu'un de proche par la même personne",
+      "opportunité concrète de se venger",
+      "anniversaire ou souvenir qui ravive la blessure",
+      "sentiment que personne d'autre ne vengera la victime",
+      "sentiment d'impunité de l'autre"
+    ],
+    "signauxAvantCoureurs": [
+      "obsession croissante pour la personne responsable de la blessure",
+      "fantasmes de vengeance de plus en plus détaillés",
+      "collecte d'informations sur la personne sans but déclaré",
+      "isolement progressif de ceux qui prêcheraient le pardon",
+      "irritabilité explosive quand le sujet est abordé",
+      "sentiment d'énergie et de clarté dans l'idée de la vengeance",
+      "malaise croissant devant ses propres pensées",
+      "désengagement des autres pans de la vie au profit de cette obsession"
+    ],
+    "silencesEtNonDits": [
+      "le personnage ne dit pas à quel point il pense à la vengeance",
+      "la blessure initiale n'est souvent pas dite dans sa pleine ampleur",
+      "la peur de ce que la vengeance ferait de lui n'est pas avouée",
+      "le désir de pardon coexiste parfois avec la haine sans être reconnu",
+      "l'entourage ne sait pas à quel point le personnage est proche de passer à l'acte",
+      "la question de si la vengeance apporterait vraiment ce qu'elle promet n'est pas posée"
+    ],
+    "penseesTypiques": [
+      "Il ne paiera jamais assez pour ce qu'il a fait.",
+      "Si la justice ne fait rien, quelqu'un doit le faire.",
+      "Je veux qu'il comprenne ce que j'ai ressenti.",
+      "Si je le fais, je deviens comme lui. Mais est-ce que je m'en fiche ?",
+      "Je ne cherche pas la vengeance. Je cherche juste la justice.",
+      "Je n'aurai pas de paix tant qu'il continuera à vivre normalement.",
+      "Est-ce que je serais encore moi si je faisais ça ?",
+      "Tout ce que je veux, c'est qu'il souffre comme j'ai souffert.",
+      "Le pardon, c'est pour ceux qui n'ont pas vraiment été blessés."
+    ],
+    "comportementsTypiques": [
+      "se renseigne discrètement sur la vie et les habitudes de la personne",
+      "planifie des scénarios de vengeance sans les exécuter",
+      "s'éloigne de son entourage pour ne pas être détourné de son obsession",
+      "cherche des alliés ou du soutien dans son projet",
+      "oscille entre des phases de calme et des phases d'obsession intense",
+      "croise des occasions de vengeance et recule au dernier moment",
+      "cherche une réparation symbolique comme alternative",
+      "finit par renoncer ou passe à l'acte dans un moment de bascule"
+    ],
+    "positionsDePouvoir": [
+      "La victime a le pouvoir du droit moral — sa colère est légitime.",
+      "Le responsable de la blessure a souvent un pouvoir réel (social, institutionnel) qui rend la vengeance risquée.",
+      "L'entourage a un pouvoir d'influence — encourager ou décourager selon ses propres blessures.",
+      "Renoncer à la vengeance peut être perçu comme une forme de pouvoir sur soi-même — ou comme une capitulation."
+    ],
+    "variantes": [
+      {
+        "relation": "Victime / Responsable libre",
+        "description": "La personne responsable n'a jamais été punie. Le personnage est seul avec sa blessure et son désir de réparation. La tentation est forte, le risque réel."
+      },
+      {
+        "relation": "Vengeance par procuration",
+        "description": "Le personnage n'agit pas pour lui mais pour quelqu'un qui ne peut pas se défendre — un enfant, un mort, une personne plus faible. La motivation est plus noble mais le conflit moral reste entier."
+      },
+      {
+        "relation": "Vengeance ritualisée ou symbolique",
+        "description": "La vengeance envisagée n'est pas physique mais sociale, professionnelle ou symbolique. Le mal moral est moins évident — mais le conflit intérieur reste."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Désir de justice vague", "description": "Le personnage voudrait que la personne paie mais ne planifie rien." },
+      { "niveau": 2, "label": "Obsession naissante", "description": "Le personnage y pense régulièrement. Des scénarios se forment." },
+      { "niveau": 3, "label": "Plan concret", "description": "Le personnage a un plan. Il n'a pas encore décidé s'il va l'exécuter." },
+      { "niveau": 4, "label": "Moment de bascule", "description": "Le personnage est prêt à passer à l'acte. Une dernière hésitation subsiste." },
+      { "niveau": 5, "label": "Vengeance accomplie ou renoncée", "description": "Le choix est fait. Dans les deux cas, les conséquences sont durables." }
+    ],
+    "escaladeTypique": [
+      "blessure initiale grave et sentiment d'injustice",
+      "absence de réparation par les voies normales",
+      "obsession croissante et plan qui se précise",
+      "occasion concrète de vengeance",
+      "vengeance accomplie ou renoncement — et ses conséquences"
+    ],
+    "voiesDeResolution": [
+      "le personnage renonce à la vengeance et trouve une paix imparfaite",
+      "la vengeance est accomplie mais n'apporte pas la paix escomptée",
+      "une réparation symbolique ou légale soulage partiellement le besoin",
+      "le personnage trouve un autre moyen de retrouver son pouvoir",
+      "la blessure est reconnue par le responsable — le besoin de vengeance diminue"
+    ],
+    "blessuresUnderlyantes": [
+      "injustice grave subie sans réparation",
+      "sentiment d'impuissance face à quelqu'un de plus puissant",
+      "perte de quelque chose d'irremplaçable",
+      "honte de n'avoir pas pu se défendre sur le moment",
+      "conviction que si personne n'agit, la souffrance n'a aucun sens"
+    ],
+    "contextesFavorables": [
+      "personnage dont l'injustice est réelle et l'absence de réparation documentée",
+      "contexte où la justice officielle a failli",
+      "personnage dont l'identité entière a été détruite par l'acte",
+      "situation où la vengeance protégerait d'autres victimes futures"
+    ],
+    "personnagesSouventConcernes": [
+      "la victime directe d'un crime ou d'une trahison majeure",
+      "le parent dont un enfant a été blessé ou tué",
+      "le personnage dont la carrière ou la réputation a été détruite",
+      "le survivant qui porte la vengeance pour quelqu'un qui ne peut plus se défendre",
+      "le justicier convaincu que la fin justifie les moyens"
+    ],
+    "erreursDEcriture": [
+      "rendre la vengeance satisfaisante sans conséquences morales — elle laisse toujours une trace",
+      "rendre le renoncement noble sans montrer le deuil qu'il exige",
+      "oublier que le responsable a souvent sa propre version des faits",
+      "confondre justice et vengeance — la frontière est souvent floue et c'est là qu'est le conflit",
+      "ne pas montrer ce que l'obsession de vengeance coûte au personnage sur le reste de sa vie"
+    ],
+    "notesEditoriales": [
+      "La vengeance est plus intéressante si le responsable n'est pas un monstre — si on le comprend, le conflit moral devient réel.",
+      "La résolution la plus honnête n'est pas que la vengeance apaise — en général, elle ne le fait pas.",
+      "Différencier : vengeance contre morale (désir de faire payer) / loyauté contre justice (silence / dénonciation) / honte contre exposition (image de soi).",
+      "Le fantasme de vengeance détaillé est souvent plus révélateur que l'acte lui-même."
+    ]
+  },
+  {
+    "id": "honte-contre-exposition",
+    "label": "Honte contre exposition",
+    "alias": [
+      "secret contre visibilité",
+      "se cacher contre se montrer",
+      "honte contre reconnaissance",
+      "dissimulation contre authenticité",
+      "masque contre vérité de soi",
+      "honneur contre transparence",
+      "intégrité cachée contre intégrité exposée",
+      "protection de l'image contre sincérité",
+      "refus d'être vu contre besoin d'être connu",
+      "silence sur soi contre aveu de soi"
+    ],
+    "famille": "conflits internes",
+    "definitionCourte": "Le personnage a honte de quelque chose en lui — une partie de son identité, une chose qu'il a faite, une vérité qu'il porte — et lutte entre la dissimuler et la révéler.",
+    "natureDuConflit": "Conflit entre le besoin d'être vu tel qu'on est réellement (connexion, authenticité) et la peur de ce que cette révélation provoquerait (rejet, jugement, perte).",
+    "forcesEnPresence": [
+      "honte réelle et profonde",
+      "besoin d'être connu et accepté",
+      "peur du rejet ou du jugement",
+      "épuisement de maintenir le masque",
+      "désir de connexion authentique",
+      "loyauté envers l'image construite",
+      "peur de ce que l'exposition changerait dans sa vie"
+    ],
+    "declencheursFrequents": [
+      "rencontre avec quelqu'un en qui on voudrait avoir confiance",
+      "question directe qui approche du secret",
+      "moment d'intimité inattendu",
+      "quelqu'un d'autre qui s'expose courageusement",
+      "situation où le secret est sur le point d'être découvert de toute façon",
+      "épuisement d'avoir maintenu le masque trop longtemps",
+      "moment de vulnérabilité de l'autre qui invite à la réciprocité",
+      "événement qui force une vérité partielle"
+    ],
+    "signauxAvantCoureurs": [
+      "maladresses révélatrices vite rattrapées",
+      "hyper-contrôle de l'image présentée",
+      "distance défensive dans les relations intimes",
+      "sur-investissement dans le masque",
+      "irritabilité face aux questions trop personnelles",
+      "solitude profonde malgré une vie sociale active",
+      "moments de transparence involontaire suivis d'une fermeture immédiate",
+      "attirance envers les gens qui semblent ne pas juger"
+    ],
+    "silencesEtNonDits": [
+      "la chose dont on a honte n'est jamais nommée directement",
+      "personne ne sait ce que ça coûte de maintenir l'image",
+      "le désir d'être vu est souvent aussi fort que la peur — mais il n'est pas dit",
+      "la peur du rejet n'est pas distinguée d'un rejet réel qui n'a jamais eu lieu",
+      "l'épuisement du masque n'est jamais avoué",
+      "la question de si quelqu'un pourrait accepter la vérité n'est pas posée"
+    ],
+    "penseesTypiques": [
+      "S'il savait vraiment qui je suis, il partirait.",
+      "Je ne peux pas montrer ça. Pas ici. Pas à lui.",
+      "Je suis fatigué de me surveiller tout le temps.",
+      "Parfois j'ai envie que quelqu'un découvre par accident.",
+      "Est-ce que je mérite d'être connu pour ce que je suis vraiment ?",
+      "Personne ne m'aimerait si je disais la vérité.",
+      "Je porte ça depuis si longtemps que je ne sais plus si c'est encore vrai.",
+      "Il y a des gens qui vivent sans masque. Comment ils font ?",
+      "Je veux être vu. Et j'ai tellement peur d'être vu."
+    ],
+    "comportementsTypiques": [
+      "contrôle soigneusement ce qu'il révèle dans chaque relation",
+      "s'arrête juste avant l'intimité réelle",
+      "fuit les conversations qui approchent du sujet",
+      "cherche des personnes sûres sans jamais tout à fait se risquer",
+      "teste les gens par de petites révélations pour évaluer leur réaction",
+      "s'éloigne de ceux qui semblent trop proches de la vérité",
+      "s'expose parfois dans l'anonymat (ligne d'écoute, inconnu de passage)",
+      "finit par s'exposer dans un moment de crise ou d'épuisement"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui porte le secret a le contrôle de sa révélation — mais ce contrôle est épuisant.",
+      "Celui à qui le secret pourrait être révélé a un pouvoir d'acceptation ou de rejet.",
+      "La honte est souvent amplifiée par le secret — l'exposition peut la réduire.",
+      "Garder le secret protège à court terme mais isole à long terme."
+    ],
+    "variantes": [
+      {
+        "relation": "Honte d'identité",
+        "description": "Le personnage a honte de ce qu'il est (orientation, origine, blessure passée). La révélation est une prise de risque identitaire totale."
+      },
+      {
+        "relation": "Honte d'un acte passé",
+        "description": "Le personnage a fait quelque chose de grave qu'il n'a jamais avoué. La honte est liée à l'acte, pas à l'identité — mais les deux finissent par se confondre."
+      },
+      {
+        "relation": "Honte de la vulnérabilité",
+        "description": "Le personnage a honte de ses faiblesses (peur, dépendance, besoin des autres). Se montrer vulnérable lui semble inacceptable — même si c'est ce dont il a le plus besoin."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Pudeur naturelle", "description": "Le personnage garde certaines choses pour lui par discrétion. La honte est légère." },
+      { "niveau": 2, "label": "Masque actif", "description": "Le personnage construit une image différente de lui-même. L'énergie dépensée est notable." },
+      { "niveau": 3, "label": "Solitude structurelle", "description": "Le masque empêche toute vraie intimité. Le personnage est seul même entouré." },
+      { "niveau": 4, "label": "Crise d'identité", "description": "Le personnage ne sait plus qui il est vraiment. Le masque est devenu plus réel que le visage." },
+      { "niveau": 5, "label": "Effondrement ou exposition totale", "description": "La vérité sort — par choix ou par accident. Les conséquences redéfinissent tout." }
+    ],
+    "escaladeTypique": [
+      "honte initiale qui s'enkyste",
+      "construction d'un masque pour se protéger",
+      "isolement croissant derrière le masque",
+      "rencontre ou situation qui fragilise le masque",
+      "exposition totale ou effondrement silencieux"
+    ],
+    "voiesDeResolution": [
+      "le personnage s'expose et est accepté — la honte diminue",
+      "le personnage s'expose et est rejeté — mais survit et se reconstruit",
+      "quelqu'un d'autre s'expose courageusement et montre que c'est possible",
+      "le personnage comprend que la honte était disproportionnée",
+      "le masque tombe et le personnage choisit de ne pas le remettre"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience passée de rejet après une exposition",
+      "message reçu que certaines parties de soi étaient inacceptables",
+      "honte familiale ou sociale transmise",
+      "manque de figure d'acceptation inconditionnelle dans l'enfance",
+      "conviction que l'amour est toujours conditionnel"
+    ],
+    "contextesFavorables": [
+      "personnage dont l'identité contient quelque chose de stigmatisé socialement",
+      "personnage entouré de gens qui semblent parfaits et jugent",
+      "relation naissante qui exige une décision sur ce qu'on révèle",
+      "personnage dont le secret est sur le point d'être découvert de toute façon"
+    ],
+    "personnagesSouventConcernes": [
+      "le personnage qui porte une honte familiale",
+      "celui dont l'identité est non conforme dans son milieu",
+      "le personnage qui a fait quelque chose de grave qu'il n'a jamais avoué",
+      "la personne qui a tout pour être heureuse mais se sent vide et faux",
+      "celui qui performe la confiance et s'effondre dès qu'on ne le regarde plus"
+    ],
+    "erreursDEcriture": [
+      "rendre l'exposition toujours libératrice — elle peut aussi détruire",
+      "oublier que maintenir le masque a aussi ses bénéfices réels",
+      "ne pas montrer l'épuisement du masque — c'est là que le lecteur comprend vraiment",
+      "résoudre par une révélation cathartique sans conséquences durables",
+      "confondre honte et culpabilité — la honte porte sur ce qu'on est, la culpabilité sur ce qu'on a fait"
+    ],
+    "notesEditoriales": [
+      "La tension entre vouloir être vu et avoir peur d'être vu est une des plus universelles en fiction.",
+      "Le moment juste avant l'exposition — quand le personnage est au bord — est souvent plus fort que la révélation elle-même.",
+      "Différencier : honte contre exposition (identité) / vérité contre sécurité (information) / vengeance contre morale (action).",
+      "Ce conflit est lié à l'attachement — le personnage ne se risque que là où il y a quelque chose à perdre."
+    ]
+  },
+  {
+    "id": "besoin-de-fuir-contre-besoin-de-rester",
+    "label": "Besoin de fuir contre besoin de rester",
+    "alias": [
+      "fuite contre enracinement",
+      "départ contre appartenance",
+      "liberté contre racines",
+      "partir contre tenir",
+      "rupture contre continuité",
+      "errance contre stabilité",
+      "envol contre ancrage",
+      "désir d'ailleurs contre amour de l'ici",
+      "fuite en avant contre loyauté au lieu",
+      "refus de s'enraciner contre désir de chez soi"
+    ],
+    "famille": "conflits internes",
+    "definitionCourte": "Le personnage ressent simultanément le besoin de fuir ce qui l'étouffe et le besoin de rester là où il est ancré. Les deux sont réels et les deux lui coûtent quelque chose.",
+    "natureDuConflit": "Conflit entre l'instinct de liberté ou de survie (partir, recommencer, s'échapper) et l'attachement au lieu, aux personnes ou à l'identité construite (rester, appartenir, tenir).",
+    "forcesEnPresence": [
+      "désir de liberté ou de recommencement",
+      "sentiment d'étouffement dans la situation actuelle",
+      "attachement réel aux personnes ou au lieu",
+      "peur de l'inconnu ou de l'exil",
+      "loyauté envers ceux qu'on laisserait",
+      "désir de cohérence identitaire",
+      "peur de se retrouver nulle part"
+    ],
+    "declencheursFrequents": [
+      "opportunité de partir qui se présente",
+      "conflit grave dans le lieu ou groupe d'appartenance",
+      "sentiment d'étouffement devenu insupportable",
+      "retour dans un lieu quitté autrefois",
+      "rencontre avec quelqu'un qui a choisi l'un ou l'autre",
+      "mort ou départ de quelqu'un qui était la raison de rester",
+      "invitation ou convocation d'ailleurs",
+      "moment de réalisation que rien ne changera si on reste"
+    ],
+    "signauxAvantCoureurs": [
+      "fantasmes récurrents d'une autre vie",
+      "regards sur les départs des autres avec envie mêlée de culpabilité",
+      "irritabilité croissante dans le quotidien du lieu",
+      "préparatifs symboliques sans suite",
+      "conversations qui reviennent sans cesse autour du même dilemme",
+      "idéalisation d'un ailleurs jamais atteint",
+      "sentiment de ne jamais vraiment être là où on est",
+      "nostalgie d'un lieu qu'on n'a pas encore quitté"
+    ],
+    "silencesEtNonDits": [
+      "le personnage ne dit pas à ceux qui le retiendrait qu'il pense à partir",
+      "le besoin de fuir n'est souvent pas distingué d'un besoin de changer quelque chose dans la situation actuelle",
+      "l'attachement au lieu est souvent tue parce qu'il semble contradictoire avec le désir de liberté",
+      "ceux qui resteraient si le personnage partait ne savent pas ce qu'ils représentent",
+      "la peur de se retrouver nulle part n'est jamais avouée",
+      "la question de si la fuite règle quelque chose ou déplace seulement le problème n'est pas posée"
+    ],
+    "penseesTypiques": [
+      "Si je ne pars pas maintenant, je n'y arriverai jamais.",
+      "Comment je pourrais les laisser ?",
+      "Je suis en train de m'éteindre ici.",
+      "Peut-être que l'ailleurs n'est pas mieux. Mais je veux voir.",
+      "Je resterai encore un an. Et puis encore un an.",
+      "Partir, c'est abandonner tout ce que j'ai construit.",
+      "Est-ce que je fuis un problème ou est-ce que je vais vers quelque chose ?",
+      "Les gens qui restent ont l'air heureux. Mais ont-ils renoncé ?",
+      "Je n'appartiens nulle part. Et pourtant je ne veux pas partir."
+    ],
+    "comportementsTypiques": [
+      "reporte le départ à des dates qui reculent toujours",
+      "fait des allers-retours symboliques entre le là et l'ailleurs",
+      "investit dans le lieu en même temps qu'il planifie le départ",
+      "cherche des signes que rester est le bon choix",
+      "quitte et revient — plusieurs fois",
+      "s'engage dans des relations ou projets qui le retiennent contre sa volonté",
+      "parle de partir sans partir, jusqu'à ce que l'entourage ne le croit plus",
+      "part brusquement quand la tension devient insupportable"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui peut partir a un pouvoir que ceux qui ne peuvent pas n'ont pas.",
+      "Ceux qui retiendrait le personnage ont un pouvoir d'attachement — affectif, pratique, moral.",
+      "L'ailleurs a un pouvoir de projection — on lui attribue des qualités qu'il n'a peut-être pas.",
+      "Partir rompt un certain équilibre — le personnage n'a pas toujours conscience de ce qu'il représente pour les autres."
+    ],
+    "variantes": [
+      {
+        "relation": "Lieu familial étouffant",
+        "description": "Le personnage veut partir d'un lieu d'origine qui le définit mais l'étouffe. Partir, c'est trahir ses racines. Rester, c'est se perdre."
+      },
+      {
+        "relation": "Relation qui retient",
+        "description": "Ce n'est pas le lieu mais une personne qui retient. Partir, c'est abandonner quelqu'un. Rester, c'est renoncer à soi."
+      },
+      {
+        "relation": "Pattern de fuite répété",
+        "description": "Le personnage a déjà fui plusieurs fois. Il commence à reconnaître qu'il emporte ses problèmes avec lui. Le besoin de fuir est là — mais son efficacité est remise en cause."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Tiraillement doux", "description": "Le désir d'ailleurs est présent mais gérable. Le personnage reste ancré." },
+      { "niveau": 2, "label": "Tension active", "description": "Le personnage parle de partir sérieusement. L'entourage commence à y croire." },
+      { "niveau": 3, "label": "Crise d'ancrage", "description": "Le sentiment d'étouffement est intense. Le personnage est au bord." },
+      { "niveau": 4, "label": "Décision imminente", "description": "Quelque chose a changé. Le départ ou le refus de partir va définir ce qui suit." },
+      { "niveau": 5, "label": "Départ ou enracinement conscient", "description": "Le personnage choisit — et vit avec les conséquences de ce choix." }
+    ],
+    "escaladeTypique": [
+      "sentiment d'étouffement ou d'appel d'ailleurs",
+      "hésitation entre partir et rester",
+      "événement qui force la question",
+      "tentative de départ ou engagement à rester",
+      "choix définitif et reconstruction de l'identité autour de ce choix"
+    ],
+    "voiesDeResolution": [
+      "le personnage part et trouve ce qu'il cherchait — ou pas",
+      "le personnage reste et transforme le lieu ou la situation",
+      "le personnage crée une troisième voie — ni fuite totale ni enracinement complet",
+      "le départ est impossible pour des raisons extérieures — il doit trouver la liberté dans le lieu",
+      "le personnage comprend ce qu'il fuit vraiment — et ça change tout"
+    ],
+    "blessuresUnderlyantes": [
+      "enfance où le lieu ou la famille était source de danger ou d'étouffement",
+      "expérience passée où rester a eu des conséquences terribles",
+      "identité migrante ou déracinée — ne jamais avoir eu de chez-soi stable",
+      "conviction que l'attachement finit toujours par faire mal",
+      "peur de s'ennuyer ou de se perdre si on reste trop longtemps"
+    ],
+    "contextesFavorables": [
+      "personnage issu d'un milieu fermé ou d'une famille contraignante",
+      "exilé qui ne peut pas rentrer ou ne peut pas vraiment partir",
+      "personnage nomade qui commence à vouloir s'ancrer sans savoir comment",
+      "situation où partir aurait des conséquences réelles sur les personnes restantes"
+    ],
+    "personnagesSouventConcernes": [
+      "l'enfant d'une famille contraignante qui n'est jamais vraiment parti",
+      "l'exilé qui ne se sent chez lui nulle part",
+      "le personnage qui a tout quitté et se rend compte qu'il emporte ses problèmes",
+      "le nomade qui tombe amoureux de quelqu'un d'ancré",
+      "celui qui est resté par défaut et se demande ce qu'il aurait pu devenir"
+    ],
+    "erreursDEcriture": [
+      "rendre le départ toujours libérateur — il peut aussi être une perte",
+      "rendre rester toujours de la résignation — rester peut être un choix courageux",
+      "ne pas montrer ce qu'il y a à perdre dans les deux directions",
+      "résoudre par un coup de destin qui décide à la place du personnage",
+      "confondre besoin de fuir (peur ou étouffement) et désir d'ailleurs (aspiration positive)"
+    ],
+    "notesEditoriales": [
+      "Ce conflit est souvent moins dramatique dans ses formes visibles mais profond dans ses implications identitaires.",
+      "Le personnage qui ne sait pas s'il veut partir ou rester ne sait souvent pas vraiment qui il est.",
+      "Différencier : besoin de fuir contre besoin de rester (enracinement) / devoir contre désir (obligation) / amour contre survie (attachement dangereux).",
+      "La nostalgie d'un endroit qu'on n'a pas encore quitté est l'une des sensations les plus étranges à écrire — et les plus vraies."
+    ]
+  },
+  {
+    "id": "foi-contre-preuve",
+    "label": "Foi contre preuve",
+    "alias": [
+      "croyance contre évidence",
+      "conviction contre réalité",
+      "espoir contre fait",
+      "foi contre raison",
+      "illusion contre vérité",
+      "loyauté envers une idée contre la réalité",
+      "certitude intérieure contre doute extérieur",
+      "croire contre voir",
+      "idéal contre désillusion",
+      "vision contre constat"
+    ],
+    "famille": "conflits internes",
+    "definitionCourte": "Le personnage croit profondément en quelque chose — une personne, une idée, une valeur, un système — et les preuves contredisent cette foi. Il doit choisir entre garder sa conviction et regarder la réalité en face.",
+    "natureDuConflit": "Conflit entre la foi (ce qu'on veut croire, ce à quoi on s'est construit) et les preuves (ce que le réel montre). Les deux exigent quelque chose de fondamental.",
+    "forcesEnPresence": [
+      "conviction profonde forgée dans l'expérience ou la nécessité",
+      "preuves accumulées qui pointent dans l'autre direction",
+      "peur de ce que la perte de la foi implique",
+      "orgueil d'avoir eu raison jusque-là",
+      "besoin de sens et de cohérence",
+      "loyauté envers l'objet de la foi",
+      "honte possible d'avoir cru à quelque chose de faux"
+    ],
+    "declencheursFrequents": [
+      "preuve irréfutable que la foi était mal placée",
+      "répétition d'une déception par quelqu'un en qui on croit",
+      "témoignage de quelqu'un qui a traversé le même chemin",
+      "situation qui force à choisir entre agir selon la foi ou selon les faits",
+      "confrontation directe par quelqu'un qui voit clair",
+      "événement qui reproduit un schéma déjà vu mais ignoré",
+      "moment de calme où les preuves ne peuvent plus être ignorées",
+      "coût concret de maintenir la foi contre l'évidence"
+    ],
+    "signauxAvantCoureurs": [
+      "défense de plus en plus véhémente de la position face aux doutes",
+      "évitement des informations contradictoires",
+      "colère irrationnelle contre ceux qui pointent les preuves",
+      "doutes intérieurs réprimés avec effort",
+      "rationalisations de plus en plus élaborées",
+      "fatigue croissante de devoir maintenir la conviction",
+      "moments de doute suivis d'une sur-conviction compensatoire",
+      "distance progressive de ceux qui ne partagent pas la foi"
+    ],
+    "silencesEtNonDits": [
+      "le doute intérieur n'est jamais avoué",
+      "la peur de ce que perdre la foi implique n'est pas dite",
+      "les preuves ne sont jamais nommées clairement devant soi-même",
+      "le coût de la foi sur les autres n'est pas regardé en face",
+      "la question de si la foi a jamais été rationnellement fondée n'est pas posée",
+      "ce que le personnage ferait si sa foi était confirmée fausse reste sans réponse"
+    ],
+    "penseesTypiques": [
+      "Les preuves ne disent pas tout.",
+      "Je connais quelque chose que les faits ne peuvent pas voir.",
+      "Si j'abandonne cette conviction, je perds tout ce que j'ai construit.",
+      "Il y a forcément une explication.",
+      "Tout le monde dit que j'ai tort. Ça ne veut pas dire qu'ils ont raison.",
+      "Si je me suis trompé sur ça, sur quoi d'autre me suis-je trompé ?",
+      "Je suis prêt à changer d'avis. Mais pas encore.",
+      "Peut-être que je cherche des preuves parce que j'ai besoin de me convaincre.",
+      "Ma foi est tout ce qu'il me reste. Je ne peux pas la lâcher."
+    ],
+    "comportementsTypiques": [
+      "cherche des contre-preuves pour réfuter l'évidence",
+      "évite les personnes qui pourraient lui montrer la réalité",
+      "interprète chaque nouvelle information dans le sens de sa conviction",
+      "attaque la crédibilité de ceux qui présentent les preuves",
+      "fait de petites concessions sans remettre en cause le fond",
+      "s'isole dans un groupe qui partage la même foi",
+      "finit par voir la vérité lors d'un moment de faiblesse ou de crise",
+      "change progressivement d'avis sans jamais l'admettre explicitement"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui a la foi a une force psychologique réelle face à l'incertitude.",
+      "Ceux qui détiennent les preuves ont un pouvoir de déstabilisation.",
+      "Le groupe qui partage la foi exerce une pression sociale pour maintenir la conviction.",
+      "Perdre la foi peut être perçu comme une trahison par le groupe — ce qui en fait un coût social réel."
+    ],
+    "variantes": [
+      {
+        "relation": "Foi en une personne",
+        "description": "Le personnage croit en quelqu'un (mentor, partenaire, parent) malgré les preuves que cette personne n'est pas ce qu'il croyait. La désillusion est personnelle et dure."
+      },
+      {
+        "relation": "Foi en une idée ou une cause",
+        "description": "Le personnage s'est construit sur une conviction politique, religieuse ou idéologique. Les preuves la contredisent. Changer d'avis, c'est perdre son identité."
+      },
+      {
+        "relation": "Foi en soi",
+        "description": "Le personnage a cru en sa propre capacité, jugement ou valeur. Les preuves montrent qu'il avait tort sur lui-même. La désillusion est la plus intime."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Doute légèrement ressenti", "description": "La foi est solide mais quelque chose cloche. Le personnage le note et le met de côté." },
+      { "niveau": 2, "label": "Dissonance croissante", "description": "Les preuves s'accumulent. Le personnage dépense de l'énergie à les nier." },
+      { "niveau": 3, "label": "Crise de conviction", "description": "La foi vacille. Le personnage est en plein doute actif." },
+      { "niveau": 4, "label": "Point de non-retour", "description": "La preuve est là, incontournable. Choisir la foi ou les faits devient inévitable." },
+      { "niveau": 5, "label": "Désillusion ou réaffirmation", "description": "La foi est abandonnée — ou réaffirmée malgré tout dans un acte presque irrationnel." }
+    ],
+    "escaladeTypique": [
+      "foi solide et premières preuves ignorées",
+      "accumulation de dissonances rationalisées",
+      "crise qui force à regarder les preuves en face",
+      "choix entre la foi et la réalité",
+      "désillusion ou réaffirmation — et reconstruction identitaire dans les deux cas"
+    ],
+    "voiesDeResolution": [
+      "la foi est confirmée — les preuves étaient partielles ou fausses",
+      "la foi est abandonnée après une désillusion douloureuse",
+      "le personnage trouve une version nuancée de sa conviction qui intègre les preuves",
+      "la désillusion libère le personnage d'une conviction qui le limitait",
+      "la foi et les preuves coexistent dans une tension permanente — le personnage vit avec le doute"
+    ],
+    "blessuresUnderlyantes": [
+      "enfance dans un environnement imprévisible qui a rendu la certitude nécessaire",
+      "expérience fondatrice qui a créé la conviction initiale et l'a rendue sacrée",
+      "identité entière construite autour de la conviction",
+      "peur profonde du vide si la conviction disparaît",
+      "honte passée d'avoir cru à quelque chose de faux et refus de répéter ça"
+    ],
+    "contextesFavorables": [
+      "personnage dont la foi religieuse ou politique est mise à l'épreuve",
+      "personnage qui a cru en quelqu'un de corrompu",
+      "personnage dont la vie entière repose sur une conviction qui se révèle fausse",
+      "personnage confronté à des preuves scientifiques ou factuelles contre ses croyances"
+    ],
+    "personnagesSouventConcernes": [
+      "le croyant confronté à l'absence de réponse divine",
+      "l'idéaliste découvrant la corruption de sa cause",
+      "le disciple d'un maître qui se révèle indigne",
+      "le parent qui refuse de voir les problèmes de son enfant",
+      "le scientifique ou l'enquêteur dont la thèse est contredite par les faits"
+    ],
+    "erreursDEcriture": [
+      "rendre la désillusion immédiate — elle est presque toujours résistée d'abord",
+      "rendre la foi stupide — elle est souvent fondée sur quelque chose de réel ou de nécessaire",
+      "résoudre par la seule raison — la foi résiste à la logique parce qu'elle n'y est pas soumise",
+      "ne pas montrer ce que la foi donnait au personnage — sinon pourquoi y tenir ?",
+      "confondre foi contre preuve (conviction identitaire) et vérité contre sécurité (information à révéler)"
+    ],
+    "notesEditoriales": [
+      "La désillusion est l'un des arcs narratifs les plus puissants parce qu'il change l'identité du personnage.",
+      "Le moment de bascule n'est jamais la première preuve — c'est quand le personnage ne peut plus nier.",
+      "Différencier : foi contre preuve (conviction / réalité) / vengeance contre morale (action / éthique) / devoir contre désir (obligation / aspiration).",
+      "La foi réaffirmée malgré les preuves est aussi une fin valide — et parfois la plus humaine."
+    ]
+  },
+  {
+    "id": "liberte-contre-appartenance",
+    "label": "Liberté contre appartenance",
+    "alias": [
+      "autonomie contre communauté",
+      "individu contre groupe",
+      "solitude choisie contre lien",
+      "indépendance contre solidarité",
+      "errance contre chez-soi",
+      "refus du lien contre désir de famille",
+      "liberté contre amour",
+      "soi contre nous",
+      "isolement contre connexion",
+      "singularité contre appartenance"
+    ],
+    "famille": "conflits internes",
+    "definitionCourte": "Le personnage désire à la fois sa liberté totale et appartenir à quelque chose ou quelqu'un. Les deux exigences sont incompatibles dans leur forme absolue.",
+    "natureDuConflit": "Conflit entre le besoin d'autonomie, d'espace et de non-contrainte (liberté) et le besoin de connexion, de racines et d'appartenance (lien). Choisir l'un diminue l'autre.",
+    "forcesEnPresence": [
+      "désir profond de liberté et d'autonomie",
+      "besoin réel de connexion et d'appartenance",
+      "peur de l'engagement qui limite",
+      "peur de la solitude si on reste seul",
+      "expérience de trahison ou d'étouffement dans les liens passés",
+      "identité construite sur l'indépendance",
+      "attirance vers ceux qui incarnent l'enracinement"
+    ],
+    "declencheursFrequents": [
+      "relation sérieuse qui demande un engagement",
+      "groupe qui offre une vraie appartenance mais avec des contraintes",
+      "solitude qui devient douloureuse",
+      "moment où le personnage se rend compte de ce que l'isolement lui coûte",
+      "rencontre avec quelqu'un qui combine les deux — et montre que c'est possible",
+      "moment où la liberté ne procure plus la satisfaction promise",
+      "demande explicite d'engagement par quelqu'un d'important",
+      "prise de conscience que l'indépendance est aussi une prison"
+    ],
+    "signauxAvantCoureurs": [
+      "relations gardées à distance sans jamais aller plus loin",
+      "jalousie envers les liens des autres sans vouloir en avoir soi-même",
+      "récurrences de la même conversation — aller vers, puis reculer",
+      "investissement puis retrait répété dans les relations",
+      "nostalgie des moments de connexion après les avoir fuis",
+      "valorisation excessive de l'indépendance comme défense",
+      "attirance envers des personnes qui ne peuvent pas vraiment s'engager non plus",
+      "solitude ressentie même en groupe"
+    ],
+    "silencesEtNonDits": [
+      "le besoin de connexion n'est jamais avoué — il est perçu comme une faiblesse",
+      "la peur de l'engagement n'est pas distinguée de l'indépendance valorisée",
+      "ceux qui voudraient un lien ne savent pas que le personnage en a envie aussi",
+      "l'origine de la peur de l'attachement n'est jamais nommée",
+      "la solitude réelle est masquée par le discours sur la liberté",
+      "le personnage ne se demande pas si la liberté totale lui apporterait vraiment ce qu'il cherche"
+    ],
+    "penseesTypiques": [
+      "Je n'ai pas besoin de quelqu'un pour être heureux.",
+      "Dès que je m'engage, je perds quelque chose d'essentiel.",
+      "Je les regarde et je veux ce qu'ils ont. Et je sais que je ne peux pas.",
+      "La liberté vaut plus que n'importe quel lien.",
+      "Pourquoi est-ce que je me sens aussi seul si j'ai tout ce que je voulais ?",
+      "Je pourrais m'engager. Mais quelque chose se ferme dès que j'essaie.",
+      "Les liens finissent toujours par faire mal.",
+      "Est-ce que c'est vraiment de la liberté ou est-ce que j'ai juste peur ?",
+      "Je ne veux pas appartenir à quelqu'un. Et je veux tellement être à quelqu'un."
+    ],
+    "comportementsTypiques": [
+      "maintient ses relations à une distance calculée",
+      "part quand les choses deviennent sérieuses",
+      "cherche des liens sans engagement — temporaires, libres, non contraignants",
+      "revient vers les personnes qu'il a quittées une fois la distance rétablie",
+      "sabote les moments de connexion réelle",
+      "idéalise la liberté et dévalorise le lien",
+      "s'engage dans des moments de vulnérabilité puis repart",
+      "observe avec envie les liens des autres sans les revendiquer"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui ne s'attache pas a une forme de pouvoir — il peut partir à tout moment.",
+      "Celui qui s'attache est en position de vulnérabilité — il peut être quitté.",
+      "Le groupe ou la personne qui offre l'appartenance a un pouvoir d'attraction.",
+      "L'indépendance peut être une posture de pouvoir ou une prison déguisée en force."
+    ],
+    "variantes": [
+      {
+        "relation": "Relation amoureuse",
+        "description": "Le personnage est attiré par quelqu'un mais panique dès que la relation devient sérieuse. L'engagement est perçu comme une perte de soi."
+      },
+      {
+        "relation": "Groupe d'appartenance",
+        "description": "Un groupe offre communauté, identité, sécurité — mais au prix de règles, de conformité, de limites. Le personnage veut appartenir sans se plier."
+      },
+      {
+        "relation": "Famille",
+        "description": "Le personnage veut de la distance avec sa famille mais souffre de l'absence. Le lien est là mais il étouffe. La liberté donne de l'air mais creuse un vide."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Tension diffuse", "description": "Le personnage maintient ses habitudes d'indépendance sans trop souffrir." },
+      { "niveau": 2, "label": "Tiraillement visible", "description": "La solitude commence à peser. Le désir d'appartenance se manifeste malgré tout." },
+      { "niveau": 3, "label": "Conflit actif", "description": "Le personnage va vers un lien puis recule. Le schéma se répète et il commence à le voir." },
+      { "niveau": 4, "label": "Crise identitaire", "description": "Le personnage ne sait plus si son indépendance est une valeur ou une peur." },
+      { "niveau": 5, "label": "Choix ou effondrement", "description": "Le personnage choisit — s'engage vraiment ou accepte la solitude comme destin conscient." }
+    ],
+    "escaladeTypique": [
+      "indépendance valorisée et solitude non ressentie",
+      "moment de connexion qui montre ce qui manque",
+      "rapprochement puis retrait répétés",
+      "crise qui force à nommer le conflit",
+      "engagement conscient ou solitude acceptée"
+    ],
+    "voiesDeResolution": [
+      "le personnage trouve un lien qui respecte son besoin d'espace",
+      "il comprend l'origine de sa peur de l'attachement et peut l'affronter",
+      "quelqu'un reste malgré les tentatives de fuite — et prouve que le lien est possible",
+      "le personnage choisit l'appartenance et découvre qu'il n'y perd pas ce qu'il craignait",
+      "le personnage choisit la liberté en pleine conscience et trouve une paix avec la solitude"
+    ],
+    "blessuresUnderlyantes": [
+      "lien d'attachement précoce qui s'est révélé dangereux ou étouffant",
+      "trahison par quelqu'un de proche qui a rendu l'engagement risqué",
+      "enfance dans une famille qui confondait amour et contrôle",
+      "perte douloureuse d'un lien fort qui a laissé une conviction que les liens font toujours mal",
+      "modèle d'indépendance intégrée comme valeur absolue sans espace pour le lien"
+    ],
+    "contextesFavorables": [
+      "personnage dont l'enfance a été marquée par une famille fusionnelle ou au contraire absente",
+      "nomade ou voyageur confronté à la tentation de s'ancrer",
+      "personnage qui a fui une situation et se rend compte qu'il emporte sa peur partout",
+      "relation qui offre vraiment les deux — et oblige à décider si c'est suffisant"
+    ],
+    "personnagesSouventConcernes": [
+      "le personnage avec un attachement anxieux ou évitant",
+      "le voyageur qui ne s'installe jamais nulle part",
+      "le personnage brillant et indépendant qui ne comprend pas sa propre solitude",
+      "celui qui répète le même schéma sans le voir",
+      "le personnage dont l'identité entière repose sur ne dépendre de personne"
+    ],
+    "erreursDEcriture": [
+      "rendre l'engagement toujours la bonne réponse — l'indépendance peut être un choix valide",
+      "rendre la peur de l'attachement toujours pathologique — elle peut venir d'une sagesse réelle",
+      "résoudre par un amour qui guérit tout — le conflit est plus profond que ça",
+      "ne pas montrer ce que la liberté donne vraiment au personnage",
+      "confondre liberté contre appartenance (identité) / besoin de fuir contre besoin de rester (lieu) / amour contre survie (danger)"
+    ],
+    "notesEditoriales": [
+      "Ce conflit est universel mais doit être personnalisé dans ses détails pour ne pas sonner comme un archétype.",
+      "La scène la plus forte est souvent celle où le personnage est offert ce qu'il veut — et ne peut toujours pas le prendre.",
+      "Différencier : liberté contre appartenance (identité / lien) / besoin de fuir contre besoin de rester (espace / ancrage) / amour contre survie (attachement / danger).",
+      "Le personnage qui valorise sa liberté par dessus tout est souvent celui qui en a le plus besoin — et le plus peur."
+    ]
+  }
+]

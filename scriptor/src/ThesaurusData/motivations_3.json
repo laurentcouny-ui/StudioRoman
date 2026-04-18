@@ -1,0 +1,337 @@
+[
+  {
+    "id": "prouver-sa-valeur-a-quelqu-un-de-precis",
+    "label": "Prouver sa valeur à quelqu'un de précis",
+    "famille": "reconnaissance",
+    "definitionCourte": "Le personnage n'agit pas pour le monde entier — il agit pour une personne. Un parent, un mentor, un pair, quelqu'un qui a douté ou qui n'a jamais vu. Ce moteur est ciblé et donc particulièrement fort.",
+
+    "moteurProfond": "Ce que cette personne pense de moi compte plus que tout le reste. Si je prouve ma valeur à ses yeux, ça vaut plus que n'importe quelle réussite.",
+
+    "formesConscientes": [
+      "Je veux qu'il me voie enfin.",
+      "Elle a dit que je n'y arriverais pas. Je vais lui montrer.",
+      "Je veux que mon père soit fier de moi — juste une fois.",
+      "Quand j'aurai réussi, il saura qu'il avait tort."
+    ],
+
+    "formesInconscientes": [
+      "Ma valeur est conditionnelle à ce que cette personne en pense.",
+      "Si je prouve à elle, je me prouverai à moi.",
+      "Cette personne détient quelque chose que j'attends depuis longtemps."
+    ],
+
+    "signesComportementaux": [
+      "actions orientées vers ce que cette personne valorise — même si ce n'est pas ce qu'il voudrait pour lui-même",
+      "regard vers cette personne après chaque réussite",
+      "impossibilité à se réjouir si cette personne n'est pas là ou ne reconnaît pas",
+      "sensibilité extrême à l'opinion de cette personne — une remarque peut tout défaire",
+      "résistance à se construire en dehors du regard de cette personne"
+    ],
+
+    "enjeux": [
+      "si cette personne est capable de voir et de reconnaître",
+      "ce que le personnage fait si la reconnaissance n'arrive jamais",
+      "si la valeur du personnage dépend de cette reconnaissance pour être réelle"
+    ],
+
+    "risques": [
+      "organiser sa vie autour d'une personne qui ne changera peut-être pas",
+      "dépendance à la validation d'une personne qui a peut-être du pouvoir sur lui",
+      "réussir sans que ça compte — la personne meurt, part, ou reste indifférente",
+      "ne jamais trouver sa propre mesure de sa propre valeur"
+    ],
+
+    "masquesPossibles": [
+      "ambition générale qui cache une cible précise",
+      "compétitivité qui dissimule un besoin de reconnaissance particulier",
+      "indifférence affichée — 'je fais ça pour moi, pas pour lui'"
+    ],
+
+    "evolutionsPossibles": [
+      "reconnaissance accordée — et découverte que ça ne comble pas ce qu'on pensait",
+      "mort ou disparition de la personne avant la preuve",
+      "libération — se construire une mesure qui n'appartient qu'à soi",
+      "transfert — trouver une autre personne dont l'opinion compte"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "blessuresEmotionnelles", "cible": "manque-de-reconnaissance", "note": "la blessure à l'origine" },
+      { "famille": "dynamiquesRelationnelles", "cible": "mentor-protecteur-possessif", "note": "quand la figure visée est un mentor" },
+      { "famille": "traitsDeCaractere", "cible": "ambitieux", "note": "quand le moteur se cristallise en trait" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est plus précis et plus dramatique que 'prouver sa valeur' en général — parce qu'il a un visage.",
+      "La personne ciblée n'a pas besoin d'être présente pour être puissante — elle peut être morte depuis vingt ans.",
+      "La libération de ce moteur est toujours un moment fort narrativement : le personnage qui cesse d'attendre la reconnaissance de cette personne."
+    ]
+  },
+  {
+    "id": "sortir-de-l-invisibilite",
+    "label": "Sortir de l'invisibilité",
+    "famille": "reconnaissance",
+    "definitionCourte": "Le personnage agit pour être enfin vu — après des années à exister sans compter, à être ignoré, effacé ou systématiquement passé sous silence. Ce n'est pas de l'ambition : c'est un besoin de confirmation d'existence.",
+
+    "moteurProfond": "Je suis là. J'ai toujours été là. Je veux que quelqu'un le remarque.",
+
+    "formesConscientes": [
+      "On m'ignore depuis trop longtemps.",
+      "Je ne demande pas grand-chose — juste à exister aux yeux des autres.",
+      "Ma voix compte autant que n'importe qui.",
+      "Je refuse d'être effacé encore une fois."
+    ],
+
+    "formesInconscientes": [
+      "Si personne ne me voit, peut-être que je n'existe pas vraiment.",
+      "Être vu confirme que ce que j'ai vécu a compté.",
+      "L'invisibilité est une forme de mort."
+    ],
+
+    "signesComportementaux": [
+      "actes qui cherchent la visibilité — publics, marquants",
+      "irritabilité forte quand il est ignoré ou interrompu",
+      "réaction émotionnelle profonde quand quelqu'un remarque vraiment",
+      "récits sur lui-même — besoin de raconter, de laisser une trace",
+      "résistance à se taire ou à céder la place"
+    ],
+
+    "enjeux": [
+      "être vu sans trahir ce qu'on est",
+      "si la visibilité obtenue correspond à ce qu'on voulait montrer",
+      "ce que l'invisibilité a fait au personnage pendant toutes ces années"
+    ],
+
+    "risques": [
+      "visibilité obtenue pour de mauvaises raisons — être vu comme ce qu'on n'est pas",
+      "comportements extrêmes pour obtenir l'attention",
+      "épuisement de chercher à être vu sans jamais y arriver",
+      "être vu — et constater que ça ne comble pas ce qu'on espérait"
+    ],
+
+    "masquesPossibles": [
+      "discrétion affichée qui coexiste avec un besoin profond d'être remarqué",
+      "aide aux autres comme façon d'exister dans leur regard",
+      "radicalité — faire quelque chose d'extrême pour qu'il soit impossible de l'ignorer"
+    ],
+
+    "evolutionsPossibles": [
+      "moment d'être vu vraiment — et ce que ça change",
+      "découverte que la visibilité extérieure ne remplace pas la légitimité intérieure",
+      "construction d'un espace où l'on existe pleinement — petite communauté, création",
+      "acceptation — décider de ne plus dépendre du regard des autres pour exister"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "emotions", "cible": "invisibilite", "note": "l'état émotionnel de base" },
+      { "famille": "blessuresEmotionnelles", "cible": "manque-de-reconnaissance", "note": "la blessure ancienne" },
+      { "famille": "motivations", "cible": "laisser-une-trace", "note": "la forme durable de ce moteur" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est particulièrement présent dans les récits sur les minorités, les laissés-pour-compte, les silencés.",
+      "À distinguer de l'ambition — ce n'est pas le succès qui est cherché, c'est la confirmation d'existence.",
+      "La scène où quelqu'un voit vraiment ce personnage pour la première fois est toujours une scène forte."
+    ]
+  },
+  {
+    "id": "laisser-une-trace",
+    "label": "Laisser une trace",
+    "famille": "reconnaissance",
+    "definitionCourte": "Le personnage agit pour que quelque chose de lui subsiste après sa mort ou sa disparition. Une œuvre, un enfant, un souvenir, une transmission. Il agit contre l'oubli.",
+
+    "moteurProfond": "Si je disparais sans laisser de trace, c'est comme si je n'avais pas existé. Je veux que quelque chose reste.",
+
+    "formesConscientes": [
+      "Je veux que mon travail survive.",
+      "Je veux que mes enfants se souviennent.",
+      "Je veux que quelqu'un dise 'il a existé — et ça a compté'.",
+      "Je refuse de passer sans laisser de marque."
+    ],
+
+    "formesInconscientes": [
+      "La mort m'effraie moins que l'oubli.",
+      "Laisser une trace me rend moins mortel.",
+      "Être oublié serait la confirmation que ma vie n'avait pas de sens."
+    ],
+
+    "signesComportementaux": [
+      "création — écriture, construction, transmission",
+      "soin des archives, des photos, des récits",
+      "attention à ce qui reste de ce qu'il fait",
+      "enseignement, mentorat — passer quelque chose à quelqu'un",
+      "irritabilité face à ce qui risque de disparaître ou d'être effacé"
+    ],
+
+    "enjeux": [
+      "si ce qu'il laisse sera reçu et gardé",
+      "si la trace correspond à ce qu'il voulait vraiment laisser",
+      "si laisser une trace peut donner sens à une vie"
+    ],
+
+    "risques": [
+      "trace laissée qui sera reçue autrement qu'attendu",
+      "obsession de la trace qui empêche de vivre le présent",
+      "trace effacée malgré les efforts — accident, guerre, oubli",
+      "s'apercevoir que rien de ce qu'on a fait ne survivra vraiment"
+    ],
+
+    "masquesPossibles": [
+      "ambition créatrice qui cache une peur de la mort ou de l'insignifiance",
+      "générosité envers les descendants présentée comme amour désintéressé",
+      "transmission urgente sans reconnaître ce qui la motive"
+    ],
+
+    "evolutionsPossibles": [
+      "acceptation — ce qui reste n'est pas ce qu'on pensait, mais ça suffit",
+      "découverte que la trace la plus durable est dans ce qu'on a donné aux autres",
+      "deuil anticipé de sa propre disparition — et paix avec ça",
+      "la trace laissée par accident — quelque chose qu'on n'avait pas prévu"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "motivations", "cible": "transmettre-avant-de-disparaitre", "note": "la forme urgente de ce moteur" },
+      { "famille": "motivations", "cible": "proteger-ce-qu-on-a-bati", "note": "protection de la trace déjà faite" },
+      { "famille": "emotions", "cible": "aspiration", "note": "l'aspiration comme élan vers quelque chose qui durera" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est universel mais se manifeste très différemment selon les personnages — l'artiste, le parent, le soldat, le bâtisseur.",
+      "La question de ce qui constitue une 'trace' mérite d'être explorée : une grande œuvre ? Un enfant ? Un acte juste ?",
+      "Particulièrement fort dans les récits qui touchent à la mortalité, à l'héritage, à la transmission."
+    ]
+  },
+  {
+    "id": "meriter-la-place-qu-on-occupe",
+    "label": "Mériter la place qu'on occupe",
+    "famille": "reconnaissance",
+    "definitionCourte": "Le personnage agit pour prouver — à lui-même autant qu'aux autres — qu'il est légitime dans le rôle ou la position qu'il occupe. La peur sous-jacente : être découvert comme insuffisant.",
+
+    "moteurProfond": "Je n'aurais peut-être pas dû être là. Je dois me montrer à la hauteur — pour que personne ne le pense, et pour ne plus le penser moi-même.",
+
+    "formesConscientes": [
+      "Je dois faire mes preuves.",
+      "Je ne veux pas que les gens pensent que j'ai eu ça sans le mériter.",
+      "Je dois être à la hauteur de ce qui m'a été donné.",
+      "Je ne peux pas me permettre de décevoir."
+    ],
+
+    "formesInconscientes": [
+      "Je suis en sursis — un jour on va réaliser que je n'aurais pas dû être là.",
+      "Mon succès est peut-être de la chance, pas de la valeur.",
+      "Si je travaille assez, peut-être que je deviendrai quelqu'un qui mérite vraiment."
+    ],
+
+    "signesComportementaux": [
+      "travail excessif — toujours faire plus que ce qui est demandé",
+      "difficulté à déléguer — peur que ça révèle ses limites",
+      "minimisation de ses accomplissements",
+      "comparaison constante avec ceux qu'il perçoit comme plus légitimes",
+      "sur-justification de ses décisions"
+    ],
+
+    "enjeux": [
+      "si la légitimité peut être prouvée — ou si elle se ressent",
+      "ce que le personnage ferait s'il était 'découvert'",
+      "à quel moment travailler plus ne suffit plus à calmer la peur"
+    ],
+
+    "risques": [
+      "épuisement chronique à un standard impossible",
+      "incapacité à jouir de ce qu'on a obtenu",
+      "refus d'opportunités par peur de ne pas être à la hauteur",
+      "mépris pour ceux qui semblent moins rigoureux — alors que la rigidité vient de la peur"
+    ],
+
+    "masquesPossibles": [
+      "humilité professionnelle qui cache une angoisse de légitimité",
+      "travail acharné présenté comme passion",
+      "exigence envers les autres comme miroir de l'exigence envers soi"
+    ],
+
+    "evolutionsPossibles": [
+      "reconnaissance accordée par quelqu'un d'estimé — et difficulté à la recevoir",
+      "moment d'échec — et découverte qu'on survit",
+      "quelqu'un qui dit 'tu es à ta place' et qui est cru",
+      "acceptation — la légitimité ne vient pas de la preuve mais de la présence"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "emotions", "cible": "sentiment-imposteur", "note": "l'émotion directement liée à ce moteur" },
+      { "famille": "traitsDeCaractere", "cible": "perfectionnisme", "note": "quand ce moteur se cristallise en trait" },
+      { "famille": "blessuresEmotionnelles", "cible": "manque-de-reconnaissance", "note": "la blessure d'origine possible" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est très répandu — beaucoup de personnages qui 'réussissent' le portent sans le montrer.",
+      "Il est narrativement fort parce qu'il crée un écart entre l'image externe et l'état interne.",
+      "À distinguer de l'orgueil : ce n'est pas de la fierté — c'est de la peur."
+    ]
+  },
+  {
+    "id": "s-affirmer-contre-l-image-heritee",
+    "label": "S'affirmer contre l'image héritée",
+    "famille": "reconnaissance",
+    "definitionCourte": "Le personnage agit pour devenir quelqu'un d'autre que ce que sa famille, son milieu ou son passé a décidé pour lui. Il ne s'agit pas de fuir — il s'agit de se construire contre une définition qu'il n'a pas choisie.",
+
+    "moteurProfond": "Ce qu'on a dit que j'étais ne me définit pas. Je vais le prouver.",
+
+    "formesConscientes": [
+      "Je ne veux pas finir comme mon père.",
+      "On m'a dit que je ne ferais rien — je vais leur montrer.",
+      "Cette famille ne me définit pas.",
+      "Je choisis qui je suis."
+    ],
+
+    "formesInconscientes": [
+      "Même en m'y opposant, je reste défini par ce à quoi je résiste.",
+      "Je ne suis peut-être pas si différent de ce qu'ils ont dit.",
+      "Si je prouve assez, l'image héritée disparaîtra."
+    ],
+
+    "signesComportementaux": [
+      "choix systématiquement opposés à ceux de la famille ou du groupe d'origine",
+      "refus de certains codes, certaines façons de faire",
+      "sensibilité particulière quand on lui ressemble à ce qu'il veut fuir",
+      "besoin de marquer la différence explicitement",
+      "difficulté à reconnaître ce qui, en lui, vient de son origine"
+    ],
+
+    "enjeux": [
+      "si l'affirmation contre une image est une construction réelle ou une opposition réactive",
+      "ce que le personnage conserve malgré lui de son origine",
+      "si son entourage actuel voit qui il est ou qui il était"
+    ],
+
+    "risques": [
+      "se définir contre — rester dépendant de ce qu'on rejette",
+      "répéter ce qu'on fuit sous une autre forme",
+      "couper des liens qui avaient de la valeur dans le rejet de tout",
+      "construire une identité fragile — qui s'effondre quand l'opposition n'est plus nécessaire"
+    ],
+
+    "masquesPossibles": [
+      "indifférence à l'origine affichée — 'j'ai tourné la page'",
+      "fierté de la rupture — présentée comme force alors qu'elle reste réactive",
+      "reconstruction d'une origine imaginaire plus acceptable"
+    ],
+
+    "evolutionsPossibles": [
+      "réconciliation partielle — accepter ce qui vient de là sans en être prisonnier",
+      "découverte que l'opposition reproduit quelque chose",
+      "identité stabilisée — ni contre ni pour, mais propre",
+      "retour à l'origine — et capacité à la regarder autrement"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "dynamiquesRelationnelles", "cible": "relation-avec-ancetre-ou-passe-familial", "note": "le lien avec ce passé qu'on porte" },
+      { "famille": "blessuresEmotionnelles", "cible": "honte-familiale", "note": "quand l'image héritée inclut une honte" },
+      { "famille": "motivations", "cible": "devenir-la-personne-qu-on-aurait-du-etre", "note": "la version positive du même moteur" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est très présent dans les récits de mobilité sociale, d'émancipation, de rupture identitaire.",
+      "La nuance cruciale : s'affirmer contre n'est pas encore s'affirmer pour — la deuxième étape est plus difficile.",
+      "Le retour au lieu d'origine est souvent la scène qui teste si le personnage a vraiment changé."
+    ]
+  }
+]

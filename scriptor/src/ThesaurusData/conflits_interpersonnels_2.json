@@ -1,0 +1,704 @@
+[
+  {
+    "id": "humiliation",
+    "label": "Humiliation",
+    "alias": ["rabaissement public", "avilissement", "mise à l'humiliation", "honte infligée", "dégradation devant témoins", "ridiculisation", "exposition humiliante", "destruction symbolique", "acte humiliant", "brisure de la dignité"],
+    "famille": "conflits-interpersonnels",
+    "definitionCourte": "Acte ou situation qui abaisse publiquement ou privément quelqu'un, attaquant sa dignité d'une façon difficile à ignorer ou à effacer.",
+    "natureDuConflit": "Atteinte à la dignité — le personnage est réduit, exposé ou rabaissé devant lui-même ou devant autrui.",
+    "forcesEnPresence": [
+      "désir de dominer, de punir ou de reprendre du pouvoir de l'auteur",
+      "vulnérabilité exposée du personnage — une faiblesse connue ou devinée",
+      "public réel ou imaginé qui amplifie la honte",
+      "rapport de force déséquilibré qui empêche la riposte",
+      "mémoire longue de la honte qui grave l'événement durablement",
+      "complicité silencieuse ou active du groupe présent",
+      "absence de recours immédiat pour le personnage humilié"
+    ],
+    "declencheursFrequents": [
+      "exposition publique d'une erreur, d'une faiblesse ou d'un secret",
+      "moquerie ou dérision faite ouvertement devant témoins",
+      "sanction disproportionnée et visible appliquée devant le groupe",
+      "comparaison défavorable faite sans ménagement",
+      "trahison d'un secret intime par quelqu'un de confiance",
+      "correction ou réprimande faite en public plutôt qu'en privé",
+      "rire ou commentaire qui attire l'attention de tous sur la faiblesse",
+      "désignation ou surnom dégradant adopté par le groupe"
+    ],
+    "signauxAvantCoureurs": [
+      "rapport de force déjà défavorable entre les personnages",
+      "comportement condescendant qui s'installe sans être stoppé",
+      "moqueries légères non sanctionnées qui prennent de l'ampleur",
+      "vulnérabilité ou secret connu de l'autre — une prise potentielle",
+      "contexte où la performance ou le comportement du personnage est jugé publiquement",
+      "absence de soutien ou d'allié visible dans l'espace",
+      "tension accumulée qui cherche un exutoire",
+      "personnage qui ne réagit pas aux premières piques"
+    ],
+    "silencesEtNonDits": [
+      "la victime ne dit souvent rien sur le moment — figée, cherchant à survivre à l'instant",
+      "personne dans le groupe ne dit 'c'est trop loin' — la complicité silencieuse est une partie de la blessure",
+      "la honte post-humiliation reste longtemps muette — racontée à personne ou presque",
+      "le désir de vengeance n'est jamais avoué parce qu'il semble disproportionné",
+      "'j'aurais dû répondre' est la pensée qui revient le soir, seul",
+      "la vraie douleur — 'personne ne m'a défendu' — reste intérieure"
+    ],
+    "positionsDePouvoir": [
+      "celui qui humilie exerce un pouvoir direct sur la dignité et le regard que les autres portent sur le personnage",
+      "les témoins détiennent le pouvoir de valider, d'amplifier ou d'arrêter l'humiliation",
+      "la victime peut reprendre du pouvoir si elle refuse de se laisser définir par l'événement",
+      "le silence ou la riposte ratée aggrave souvent la position de la victime aux yeux du groupe"
+    ],
+    "penseesTypiques": [
+      "Tout le monde a vu. Ils vont s'en souvenir longtemps.",
+      "Je ne peux plus les regarder en face après ça.",
+      "Pourquoi personne n'a rien dit ? Pourquoi personne n'a bougé ?",
+      "Je vais faire comme si ça ne m'atteignait pas. Je vais tenir.",
+      "Un jour, ça sera différent. Un jour, ce sera mon tour.",
+      "Qu'est-ce que j'aurais dû dire ? Qu'est-ce que j'aurais dû faire ?",
+      "Il savait exactement où appuyer pour que ça fasse le plus mal.",
+      "Je ne peux pas rentrer là-bas. Je ne peux plus me montrer.",
+      "Ça ne se voit peut-être pas que j'ai envie de disparaître."
+    ],
+    "comportementsTypiques": [
+      "figement total ou fuite immédiate de l'espace humiliant",
+      "tentative de sauver la face par la contre-attaque, l'ironie ou la minimisation",
+      "repli total après l'événement — isolement, silence, évitement",
+      "rumination intense et durable qui rejoue la scène en boucle",
+      "évitement des lieux, des personnes et des contextes liés à l'humiliation",
+      "recherche d'une occasion de réparer ou de renverser l'image",
+      "comportement excessivement discret pour ne plus attirer l'attention",
+      "colère froide et contenue qui cherche une issue silencieuse"
+    ],
+    "variantes": [
+      {
+        "relation": "Supérieur hiérarchique",
+        "description": "L'humiliation venant d'une autorité est amplifiée par l'absence de recours apparent. Elle installe un rapport de crainte durable et peut contaminer tout un groupe qui en est témoin."
+      },
+      {
+        "relation": "Pair ou égal",
+        "description": "L'humiliation par un égal blesse l'identité autant que la relation. La question 'pourquoi moi ?' et 'pourquoi lui ?' s'installent simultanément. Elle peut restructurer tout un groupe autour d'une nouvelle hiérarchie."
+      },
+      {
+        "relation": "Public ou foule",
+        "description": "L'humiliation collective est la plus difficile à surmonter. Elle grave la honte dans un contexte social large et peut définir durablement comment les autres voient le personnage."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Pique blessante", "description": "Remarque qui fait mouche. Le personnage encaisse mais la blessure reste intérieure." },
+      { "niveau": 2, "label": "Gêne publique", "description": "Moment embarrassant devant témoins. Le personnage en garde un souvenir douloureux." },
+      { "niveau": 3, "label": "Humiliation franche", "description": "Rabaissement clair et observable. Le personnage doit gérer la honte et le regard des autres." },
+      { "niveau": 4, "label": "Humiliation profonde", "description": "Atteinte à la dignité devant un groupe. Effets durables sur la confiance et le rapport aux autres." },
+      { "niveau": 5, "label": "Destruction publique", "description": "La dignité est détruite en public. L'événement peut structurer la trajectoire entière du personnage." }
+    ],
+    "escaladeTypique": [
+      "rapport de force défavorable déjà établi",
+      "moquerie ou attaque initiale — test de la réaction",
+      "absence de défense ou de soutien qui valide la prise",
+      "humiliation consommée devant témoins",
+      "honte durable, colère froide ou désir de réparation"
+    ],
+    "voiesDeResolution": [
+      "reconnaissance par l'auteur, même tardive, qui rend une partie de la dignité",
+      "soutien d'un tiers qui valide la dignité du personnage et nomme l'excès",
+      "acte de reprise de pouvoir symbolique ou réel qui change le regard du groupe",
+      "temps et distance qui relativisent sans effacer entièrement la blessure",
+      "refus actif et visible de se laisser définir par l'événement"
+    ],
+    "blessuresUnderlyantes": [
+      "humiliations répétées dans l'enfance qui ont installé une honte permanente",
+      "sentiment précoce d'être exposé, ridicule ou différent",
+      "absence de figure protectrice lors d'épisodes honteux passés",
+      "identité construite sur la crainte du regard des autres",
+      "expérience d'une humiliation fondatrice jamais surmontée qui sert de référence"
+    ],
+    "contextesFavorables": [
+      "rapport de force déséquilibré déjà établi entre les personnages",
+      "présence d'un groupe ou d'un public qui amplifie la honte",
+      "vulnérabilité visible ou connue du personnage",
+      "contexte où la performance est jugée publiquement — scène, réunion, examen"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage en position subordonnée sans recours visible",
+      "personnage dont une faiblesse ou un secret est connu de l'auteur",
+      "personnage fier — la chute est plus violente et la honte plus vive",
+      "personnage déjà fragilisé ou isolé qui n'a pas d'allié pour l'aider",
+      "personnage dont l'estime de soi repose fortement sur le regard des autres"
+    ],
+    "erreursDEcriture": [
+      "Traiter l'humiliation comme un incident mineur — pour le personnage, c'est souvent une date qui structure la suite.",
+      "Oublier les témoins — leur silence ou leur rire fait partie intégrante de la blessure.",
+      "Confondre humiliation et insulte — l'humiliation implique une exposition et un regard collectif, pas seulement un mot blessant.",
+      "Résoudre par la vengeance sans montrer que la honte reste, même après.",
+      "Montrer une réaction immédiate trop forte — l'humiliation fige souvent avant de libérer les émotions."
+    ],
+    "notesEditoriales": [
+      "L'humiliation est l'une des blessures les plus mémorisées — elle crée des personnages motivés par le besoin de réparer leur image.",
+      "Sa force narrative est dans le regard des témoins autant que dans l'acte lui-même — ce sont eux qui gravent la honte.",
+      "Distinguer l'humiliation subie de l'humiliation infligée — les deux révèlent quelque chose d'essentiel sur le personnage.",
+      "L'auteur de l'humiliation est souvent plus intéressant quand il croit juste corriger ou plaisanter — la mauvaise foi assumée est plus faible narrativement."
+    ]
+  },
+  {
+    "id": "domination",
+    "label": "Domination",
+    "alias": ["relation dominante-dominée", "contrôle structurel", "ascendant imposé", "soumission induite", "rapport de force asymétrique", "pouvoir unilatéral", "domination psychologique", "autoritarisme relationnel", "mainmise sur l'autre", "dépendance entretenue"],
+    "famille": "conflits-interpersonnels",
+    "definitionCourte": "Relation dans laquelle l'un impose sa volonté à l'autre de façon structurelle — par la force, la peur, la culpabilité ou la dépendance.",
+    "natureDuConflit": "Déséquilibre de pouvoir durable où l'un soumet et l'autre subit, souvent sans que le mécanisme soit nommé ou reconnu.",
+    "forcesEnPresence": [
+      "besoin de contrôle du dominant — souvent lié à sa propre insécurité",
+      "peur ou dépendance du dominé qui le maintient en place",
+      "légitimité accordée ou imposée qui rend la domination acceptable en apparence",
+      "isolement progressif du dominé de tout réseau de soutien extérieur",
+      "normalisation du déséquilibre — la situation devient la norme",
+      "dépendance économique, affective ou logistique qui rend la sortie difficile",
+      "alternance de dureté et de tendresse qui maintient le dominé dans l'espoir"
+    ],
+    "declencheursFrequents": [
+      "vulnérabilité initiale du dominé — deuil, fragilité, transition",
+      "contexte de dépendance économique, affective ou sociale préexistant",
+      "manque de soutien extérieur qui laisse le champ libre",
+      "histoire personnelle du dominant liée au contrôle ou à la domination subie",
+      "crise qui donne au dominant une prise supplémentaire sur l'autre",
+      "besoin intense du dominé d'être guidé ou protégé à un moment précis",
+      "décision importante prise par le dominant à la place du dominé",
+      "reprise d'une décision ou d'une erreur du dominé comme levier de culpabilisation"
+    ],
+    "signauxAvantCoureurs": [
+      "décisions prises à la place de l'autre sans le consulter, sous prétexte d'aide",
+      "critiques régulières habillées en conseils bienveillants",
+      "réduction progressive de l'espace de décision du dominé",
+      "isolement progressif du dominé de ses relations extérieures",
+      "le dominé s'excuse de plus en plus souvent sans raison précise",
+      "résistances du dominé sanctionnées discrètement — bouderie, froideur, punition douce",
+      "abandon progressif des activités propres du dominé",
+      "reformulation des désirs du dominé pour les rendre conformes aux attentes"
+    ],
+    "silencesEtNonDits": [
+      "le dominé ne nomme pas la domination — il ne la voit souvent pas encore comme telle",
+      "le dominant ne reconnaît jamais exercer du contrôle — il 'aide', 'protège', 'organise'",
+      "ce que le dominé sacrifie n'est jamais comptabilisé ni reconnu",
+      "la question 'et si je partais ?' n'est pas formulée — ou formulée mais vite étouffée",
+      "'j'ai l'impression de ne plus décider' reste une impression, pas un constat nommé",
+      "la colère du dominé est tellement enfouie qu'il ne la reconnaît pas lui-même"
+    ],
+    "positionsDePouvoir": [
+      "asymétrie totale et structurelle souvent invisible de l'intérieur de la relation",
+      "le dominant détient les ressources matérielles, affectives ou informationnelles",
+      "le dominé peut reprendre du pouvoir par la prise de conscience ou une fuite préparée",
+      "un tiers extérieur qui nomme le déséquilibre peut modifier les positions en donnant un miroir"
+    ],
+    "penseesTypiques": [
+      "Je dois faire ce qu'il dit pour éviter les problèmes. C'est plus simple.",
+      "C'est pour mon bien, au fond. Il connaît mieux que moi ce qui est bien pour moi.",
+      "Tout ça, c'est de ma faute. Si je n'avais pas...",
+      "Je n'aurais pas survécu sans lui. Je lui dois trop.",
+      "Personne ne me croirait si je racontais. Ça semble si banal de l'extérieur.",
+      "Je ne sais plus ce que je voulais avant. Ce que je voulais à moi.",
+      "Si je résiste, ça empire toujours. Mieux vaut céder.",
+      "Il a peut-être raison. Il a souvent raison.",
+      "Pourquoi est-ce que je me sens si épuisé quand tout va bien selon lui ?"
+    ],
+    "comportementsTypiques": [
+      "vérification constante de ce que l'autre veut ou attend avant d'agir",
+      "évitement de tout sujet susceptible de provoquer une réaction négative",
+      "adaptation permanente de ses propres besoins et désirs aux attentes de l'autre",
+      "mensonges de survie par omission pour préserver un espace privé minimal",
+      "hypervigilance aux humeurs et signaux du dominant",
+      "minimisation des besoins propres auprès de l'entourage",
+      "justification répétée des comportements du dominant face aux proches qui s'inquiètent",
+      "reprise d'activité ou de contact extérieur fait en cachette"
+    ],
+    "variantes": [
+      {
+        "relation": "Couple",
+        "description": "La domination conjugale se construit progressivement, souvent après une phase de séduction intense. Le dominé minimise, justifie, s'adapte. La rupture est vécue comme un danger existentiel car l'identité y est liée."
+      },
+      {
+        "relation": "Hiérarchie professionnelle",
+        "description": "La domination professionnelle s'appuie sur le pouvoir institutionnel. Elle isole la victime qui craint de ne pas être crue ou de perdre son poste. La résistance a un coût réel et mesurable."
+      },
+      {
+        "relation": "Parent sur enfant adulte",
+        "description": "La domination parentale persistante utilise la culpabilité et le lien affectif. L'enfant adulte peut ne pas reconnaître longtemps qu'il est soumis, l'ayant vécu comme la norme depuis l'enfance."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Ascendant marqué", "description": "L'un a tendance à décider. L'autre accepte sans trop le questionner. Déséquilibre léger, peu perceptible." },
+      { "niveau": 2, "label": "Contrôle installé", "description": "Les décisions de l'un structurent la vie de l'autre. La résistance génère une tension notable." },
+      { "niveau": 3, "label": "Domination établie", "description": "Le dominé a progressivement réduit son espace propre. La dépendance est réelle et ressentie." },
+      { "niveau": 4, "label": "Emprise forte", "description": "Le dominé n'agit plus sans l'aval du dominant. La sortie semble impossible ou trop coûteuse." },
+      { "niveau": 5, "label": "Domination totale", "description": "Le dominé a perdu accès à ses propres besoins et perceptions. Toute résistance est écrasée." }
+    ],
+    "escaladeTypique": [
+      "dépendance ou vulnérabilité initiale du dominé",
+      "prise de contrôle progressive, douce, présentée comme de l'aide",
+      "normalisation du déséquilibre — la situation devient le quotidien",
+      "isolement du dominé de tout réseau de soutien",
+      "effondrement ou rupture — souvent déclenchée de l'extérieur"
+    ],
+    "voiesDeResolution": [
+      "un tiers extérieur qui nomme ce qu'il observe et ne renonce pas",
+      "une transgression du dominant trop évidente pour être niée ou rationalisée",
+      "le dominé retrouve un espace, une relation ou une activité extérieure indépendante",
+      "une rupture progressive et préparée, non impulsive, avec un plan de sortie",
+      "thérapie ou espace de parole qui permet de nommer ce qui n'avait pas de mots"
+    ],
+    "blessuresUnderlyantes": [
+      "modèle relationnel dominant-dominé appris dans l'enfance comme norme",
+      "sentiment de ne pas mériter mieux — estime de soi insuffisante",
+      "absence de modèle de relation équilibrée dans l'histoire personnelle",
+      "peur de la solitude qui justifie tous les sacrifices",
+      "honte de ne pas voir ou de ne pas partir qui se retourne contre soi"
+    ],
+    "contextesFavorables": [
+      "isolement social ou géographique qui coupe les recours",
+      "dépendance économique, affective ou logistique réelle",
+      "passé du dominé marqué par la soumission comme mode de survie",
+      "dominant avec forte capacité d'empathie tactique — il sait quand donner"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage ayant grandi dans un environnement contrôlant où la soumission était normale",
+      "personnage en période de grande vulnérabilité qui cherche une ancre",
+      "personnage dont l'estime de soi a été progressivement érodée dans la relation",
+      "personnage isolé de tout réseau de soutien extérieur",
+      "personnage qui confond amour et contrôle parce que c'est ce qu'il a connu"
+    ],
+    "erreursDEcriture": [
+      "Rendre le dominant purement monstrueux — la domination la plus efficace narrativement est celle qui a aussi du charme et de la cohérence.",
+      "Attendre trop longtemps avant que le personnage voie — mais aussi trop peu : la prise de conscience est lente et non linéaire.",
+      "Résoudre par la fuite seule — la sortie d'une domination laisse des traces et des réflexes qui continuent après.",
+      "Oublier la complicité du système autour — famille, collègues, institutions qui ne voient pas ou ne veulent pas voir.",
+      "Traiter la domination comme toujours consciente — elle peut être invisible même pour celui qui l'exerce."
+    ],
+    "notesEditoriales": [
+      "La domination la plus intéressante est celle que le dominé ne reconnaît pas encore — la scène de prise de conscience est souvent le nœud du récit.",
+      "Distinguer domination et autorité légitime — la frontière est un levier narratif puissant selon qui la trace.",
+      "Le dominant a souvent lui-même une histoire de domination subie — ce n'est pas une excuse, c'est une explication qui complexifie le personnage.",
+      "La sortie de domination n'est pas un acte héroïque unique — c'est une série de petits pas avec des retours en arrière."
+    ],
+    "dynamiqueAssociee": { "id": "relation-de-domination-installee", "label": "Relation de domination installée" }
+  },
+  {
+    "id": "manipulation",
+    "label": "Manipulation",
+    "alias": ["manipulateur relationnel", "influence détournée", "contournement de la liberté", "gaslighting", "culpabilisation stratégique", "séduction comme levier", "triangulation", "manipulation émotionnelle", "victimisation inversée", "contrôle par le mensonge"],
+    "famille": "conflits-interpersonnels",
+    "definitionCourte": "Stratégie par laquelle un personnage influence un autre en contournant sa liberté de choix, par le mensonge, la culpabilisation, la séduction ou le détournement de la réalité.",
+    "natureDuConflit": "Conflit caché — la cible ne perçoit pas le conflit parce que le manipulateur en contrôle la lecture de la réalité.",
+    "forcesEnPresence": [
+      "intelligence tactique du manipulateur — sa capacité à lire les besoins de l'autre",
+      "confiance ou besoin d'approbation de la cible qui la rend perméable",
+      "objectif dissimulé qui oriente tout sans être nommé",
+      "asymétrie d'information — le manipulateur sait ce que la cible ignore",
+      "capacité du manipulateur à identifier et exploiter les vulnérabilités spécifiques",
+      "lien affectif qui rend le doute difficile et douloureux",
+      "habileté à se présenter en victime ou en bienfaiteur selon le moment"
+    ],
+    "declencheursFrequents": [
+      "désir d'obtenir quelque chose sans l'affronter directement ou risquer un refus",
+      "peur du conflit ouvert — la manipulation évite la confrontation directe",
+      "habitude relationnelle construite sur le contrôle dès l'enfance",
+      "vulnérabilité perçue chez l'autre — une prise potentielle identifiée",
+      "enjeu suffisamment important pour justifier le détour et le risque",
+      "échec d'une demande directe précédente qui force à trouver un autre angle",
+      "conscience que l'autre refuserait s'il voyait la demande en face",
+      "opportunité créée par un moment de fragilité de la cible"
+    ],
+    "signauxAvantCoureurs": [
+      "flatteries inhabituellement intenses juste avant une demande ou une pression",
+      "réinterprétation systématique de la réalité toujours en sa faveur",
+      "culpabilisation déguisée en inquiétude sincère — 'je te dis ça pour toi'",
+      "isolement progressif de la cible de ses références et de ses soutiens",
+      "demandes habillées en évidences — 'tout le monde ferait ça'",
+      "victimisation déclenchée dès que la cible émet une résistance",
+      "usage de confidences faites en confiance comme leviers ultérieurs",
+      "alternance de chaleur et de froideur selon l'état d'obéissance de la cible"
+    ],
+    "silencesEtNonDits": [
+      "l'objectif réel n'est jamais dit — c'est la définition même de la manipulation",
+      "la cible ne nomme pas ce qu'elle ressent — elle ne l'identifie pas encore comme manipulation",
+      "la question 'est-ce que tu me manipules ?' n'est presque jamais posée directement par peur de l'offense",
+      "'pourquoi est-ce que je me sens coupable sans avoir fait quelque chose de mal ?' reste intérieur",
+      "la cible ne dit pas à l'extérieur ce qui se passe — elle défend le manipulateur",
+      "le manipulateur ne dit jamais 'je veux te contrôler' — même à lui-même parfois"
+    ],
+    "positionsDePouvoir": [
+      "le manipulateur détient le pouvoir mais le dissimule derrière une apparente réciprocité",
+      "la cible croit agir librement alors qu'elle est orientée vers un objectif choisi par l'autre",
+      "la révélation du mécanisme inverse brutalement les perceptions de pouvoir — la cible peut devenir furieuse",
+      "la honte d'avoir 'été manipulé' peut maintenir la cible silencieuse même après la découverte"
+    ],
+    "penseesTypiques": [
+      "Pourquoi est-ce que je me sens toujours coupable après chaque échange avec lui ?",
+      "C'est moi qui ai tort, j'imagine. Il a l'air tellement sûr de lui.",
+      "Il est tellement convaincu de sa version que peut-être que je me trompe.",
+      "Je ne sais plus exactement ce qui s'est vraiment passé.",
+      "Il fait tellement pour moi — je lui dois bien ça.",
+      "Tout le monde l'aime. Si j'avais un problème avec lui, ce serait forcément moi.",
+      "Je lui en veux, mais je ne saurais même pas dire pourquoi exactement.",
+      "La dernière fois que j'ai résisté, tout s'est retourné contre moi.",
+      "Je commence à me demander si c'est moi qui perçois mal les choses."
+    ],
+    "comportementsTypiques": [
+      "accepter des choses qui semblent fausses par épuisement ou pour éviter la dispute",
+      "s'excuser sans savoir vraiment pourquoi ni pour quoi",
+      "remettre en question sa propre perception et son propre souvenir des événements",
+      "couper les contacts avec les personnes qui contredisent le récit du manipulateur",
+      "justifier les comportements du manipulateur devant les proches qui s'inquiètent",
+      "taire son propre inconfort pour ne pas blesser ou provoquer une réaction",
+      "donner plus que demandé pour prévenir une prochaine manipulation",
+      "ressentir un soulagement disproportionné quand le manipulateur est content"
+    ],
+    "variantes": [
+      {
+        "relation": "Couple ou ami proche",
+        "description": "La manipulation intime utilise la connaissance des blessures de l'autre. Elle est d'autant plus efficace que la confiance est forte. La découverte remet en question chaque souvenir partagé."
+      },
+      {
+        "relation": "Environnement professionnel",
+        "description": "La manipulation professionnelle utilise les enjeux de carrière, la réputation et les alliances. Elle peut être collective. La cible hésite à nommer les faits par peur de paraître paranoïaque."
+      },
+      {
+        "relation": "Famille",
+        "description": "La manipulation familiale est la plus ancienne et souvent la moins consciente. Elle utilise le lien affectif, la loyauté et la culpabilité. La reconnaître implique de remettre en question des années de relation."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Influence légère", "description": "Orientation douce des choix de l'autre. Peut être inconsciente. La cible ne s'en rend pas compte." },
+      { "niveau": 2, "label": "Tactique régulière", "description": "Stratégie récurrente. La cible ressent un malaise diffus sans identifier la source." },
+      { "niveau": 3, "label": "Manipulation établie", "description": "Mécanisme installé. La cible doute de sa propre perception. Les décisions sont orientées." },
+      { "niveau": 4, "label": "Contrôle mental", "description": "La cible a largement perdu accès à sa propre lecture de la réalité. Elle défend le manipulateur." },
+      { "niveau": 5, "label": "Emprise totale", "description": "La cible est entièrement dépendante de la réalité fournie par le manipulateur. Rupture avec l'extérieur." }
+    ],
+    "escaladeTypique": [
+      "confiance accordée — la cible est ouverte",
+      "influence progressive et indétectable — test des limites",
+      "doute installé sur sa propre perception",
+      "isolement des contre-pouvoirs extérieurs",
+      "révélation brutale ou effondrement progressif"
+    ],
+    "voiesDeResolution": [
+      "un tiers extérieur qui nomme ce qu'il observe sans brusquer la cible",
+      "un fait concret qui ne peut pas être réinterprété — une preuve visible",
+      "la cible retrouve accès à ses propres perceptions dans un espace sûr",
+      "la confrontation directe qui force le manipulateur à sortir de son masque",
+      "distance physique ou temporelle qui permet de voir depuis un autre angle"
+    ],
+    "blessuresUnderlyantes": [
+      "peur du conflit direct apprise tôt — la manipulation évite l'affrontement",
+      "conviction que les besoins directs ne seront pas satisfaits — il faut contourner",
+      "modèle relationnel basé sur l'influence plutôt que la demande honnête",
+      "manque de confiance en sa propre valeur sans stratégie — 'seul, je ne vaut rien'",
+      "expérience passée où la vérité directe a mené à une perte ou à une punition"
+    ],
+    "contextesFavorables": [
+      "relation à fort investissement affectif de la cible qui ne veut pas tout perdre",
+      "isolement progressif de la cible de ses références extérieures",
+      "enjeux élevés pour le manipulateur — il a beaucoup à perdre",
+      "cible avec forte tendance à l'empathie ou à la culpabilité innée"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage empathique et peu enclin au conflit — il préfère céder",
+      "personnage avec blessure ancienne liée à la culpabilité facilement activée",
+      "personnage isolé ou en recherche d'appartenance et de reconnaissance",
+      "personnage ayant foi en la nature humaine et peu habitué à la méfiance",
+      "personnage dont la loyauté est forte et difficile à remettre en question"
+    ],
+    "erreursDEcriture": [
+      "Rendre le manipulateur caricaturalement machiavélique — la manipulation efficace est souvent douce, affectueuse, presque convaincante.",
+      "Faire comprendre au lecteur ce que la cible devrait voir trop tôt — laisser le lecteur dans l'ambiguïté un moment pour simuler l'expérience.",
+      "Oublier que le manipulateur peut lui-même se croire sincère — la manipulation inconsciente existe et est souvent plus intéressante.",
+      "Résoudre par une révélation qui suffit — la cible a souvent du mal à intégrer la vérité même quand elle est évidente.",
+      "Présenter la manipulation comme toujours froide et calculée — elle peut coexister avec une vraie affection et une vraie souffrance."
+    ],
+    "notesEditoriales": [
+      "La manipulation est plus intéressante quand le manipulateur a une part de sincérité — c'est ce qui rend la cible crédible et le lecteur dans l'ambiguïté.",
+      "Distinguer la manipulation défensive — peur du rejet — de la manipulation offensive — désir de pouvoir pur.",
+      "Le moment où la cible commence à voir est souvent plus fort narrativement que le moment où elle comprend tout.",
+      "La honte de la cible après la révélation est une partie de la blessure souvent négligée dans les récits."
+    ],
+    "dynamiqueAssociee": { "id": "relation-manipulatoire", "label": "Relation manipulatoire" }
+  },
+  {
+    "id": "emprise",
+    "label": "Emprise",
+    "alias": ["dissolution identitaire", "ascendant total", "influence toxique profonde", "sous emprise psychologique", "perte de soi dans l'autre", "conditionnement affectif", "relation d'emprise", "captivité psychologique", "identité effacée", "dépendance identitaire"],
+    "famille": "conflits-interpersonnels",
+    "definitionCourte": "État dans lequel un personnage a progressivement perdu accès à sa propre identité au profit d'un autre, sans en être conscient — il ne souffre pas de la relation, il la défend.",
+    "natureDuConflit": "Conflit intérieur masqué — le personnage sous emprise résiste sans le savoir à lui-même autant qu'à l'autre.",
+    "forcesEnPresence": [
+      "pouvoir psychologique de l'empriseur — sa capacité à redéfinir la réalité de l'autre",
+      "attachement profond et sincère du personnage sous emprise",
+      "isolation progressive du personnage de tous ses anciens repères",
+      "réécriture de la réalité partagée qui efface l'avant",
+      "dépendance émotionnelle installée qui rend la séparation terrifiante",
+      "gratitude entretenue — le personnage croit devoir tout à l'empriseur",
+      "identité antérieure progressivement dévalorisée comme 'ce que tu étais avant'"
+    ],
+    "declencheursFrequents": [
+      "période de fragilité intense — deuil, rupture, perte d'emploi, isolement",
+      "rencontre avec quelqu'un qui semble combler un manque profond avec précision",
+      "absence de soutien extérieur au moment clé de la relation",
+      "histoire personnelle qui a préparé à la soumission comme mode de survie",
+      "charisme ou intensité de l'empriseur — il semble unique et irremplaçable",
+      "révélation progressive d'une vision du monde qui semble plus vraie",
+      "rupture avec l'entourage présentée comme une libération plutôt qu'un isolement",
+      "phase de fusion initiale tellement intense qu'elle semble être de l'amour absolu"
+    ],
+    "signauxAvantCoureurs": [
+      "changement progressif des goûts, opinions ou valeurs du personnage sans décision consciente",
+      "rupture progressive avec les amis ou la famille présentée comme un choix personnel",
+      "justification répétée de comportements de l'empriseur face aux questions des proches",
+      "réduction de l'espace personnel sans que cela semble problématique",
+      "sentiment que la vie d'avant était vide, fausse ou insuffisante",
+      "adoption du vocabulaire et des références de l'empriseur comme propres",
+      "incapacité croissante à prendre des décisions sans validation de l'empriseur",
+      "résistances intérieures étouffées avant même d'être pleinement pensées"
+    ],
+    "silencesEtNonDits": [
+      "le personnage sous emprise ne dira pas 'j'ai peur de lui' — il ne le ressent pas comme ça",
+      "il ne dira pas non plus 'il me contrôle' — il dit 'il m'a changé, en mieux'",
+      "ce qui manque — son ancien soi — n'est jamais nommé parce qu'il n'est plus accessible",
+      "la question 'qui étais-je avant ?' n'est pas formulée consciemment tant que l'emprise dure",
+      "'je ne sais plus ce que je veux' est ressenti comme une évolution, pas comme une perte",
+      "la souffrance est niée même intérieurement — elle s'exprime par des symptômes, pas des mots"
+    ],
+    "positionsDePouvoir": [
+      "déséquilibre total souvent invisible de l'intérieur de la relation",
+      "l'empriseur détient la réalité partagée et l'identité du personnage",
+      "la sortie de l'emprise requiert souvent un appui extérieur — le personnage ne peut sortir seul",
+      "le personnage sous emprise détient paradoxalement le pouvoir de rompre — mais il ne le sait pas"
+    ],
+    "penseesTypiques": [
+      "Sans lui, je n'aurais rien. Je n'étais rien avant.",
+      "C'est pour mon bien, même si ça fait mal. Il sait mieux que moi.",
+      "Les autres ne comprennent pas notre relation. Ils sont jaloux.",
+      "Je suis différent avec lui — meilleur, plus moi que jamais.",
+      "Si je le perds, je perds tout ce que je suis devenu.",
+      "Ma famille s'inquiète. Ils ne comprennent pas qu'il m'a sauvé.",
+      "Les doutes que j'ai, c'est mes vieux réflexes. Pas la réalité.",
+      "Je lui ai tout confié. Je ne peux plus revenir en arrière.",
+      "Peut-être que c'est normal de ne plus savoir ce qu'on veut quand on aime fort."
+    ],
+    "comportementsTypiques": [
+      "couper les liens avec les personnes qui posent des questions ou expriment des inquiétudes",
+      "adopter les convictions de l'empriseur comme les siennes propres — sans le remarquer",
+      "minimiser ou nier activement tout comportement blessant de l'empriseur",
+      "s'effacer progressivement dans les contextes collectifs pour ne pas déplaire",
+      "organiser sa vie entière autour des besoins, humeurs et présences de l'empriseur",
+      "signaler aux proches que tout va bien avec une certitude qui inquiète",
+      "défendre l'empriseur avec plus de conviction que lui-même ne le fait",
+      "ressentir une anxiété intense lors des absences de l'empriseur"
+    ],
+    "variantes": [
+      {
+        "relation": "Relation amoureuse",
+        "description": "L'emprise amoureuse est souvent précédée d'une phase de fusion idéalisée. Le personnage a construit son identité autour de la relation. La sortie ressemble à une perte de soi, pas à une libération."
+      },
+      {
+        "relation": "Groupe ou secte",
+        "description": "L'emprise collective utilise l'appartenance et la menace de l'exclusion. Elle substitue l'identité personnelle par une identité de groupe. La sortie implique une rupture totale avec une communauté."
+      },
+      {
+        "relation": "Mentor ou figure d'autorité",
+        "description": "L'emprise par une figure admirable est difficile à reconnaître. Elle s'appuie sur la gratitude et le désir d'apprendre. Le personnage confond soumission et dévotion, contrôle et transmission."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Influence forte", "description": "L'autre a beaucoup de poids dans les décisions. Le personnage s'en aperçoit mais ne s'en inquiète pas." },
+      { "niveau": 2, "label": "Dépendance relationnelle", "description": "Le personnage organise sa vie autour de l'autre. Légère perte d'autonomie sans que ça semble alarmant." },
+      { "niveau": 3, "label": "Emprise installée", "description": "L'identité du personnage s'est partiellement effacée au profit des attentes et valeurs de l'autre." },
+      { "niveau": 4, "label": "Emprise profonde", "description": "Le personnage ne reconnaît plus ses propres besoins. Résistance inconsciente uniquement." },
+      { "niveau": 5, "label": "Dissolution identitaire", "description": "Le personnage n'a plus accès à qui il était. L'empriseur est devenu sa seule réalité." }
+    ],
+    "escaladeTypique": [
+      "rencontre intense et comblante — l'autre semble parfait pour ce qui manque",
+      "fusion progressive — l'identité propre se dilue dans la relation",
+      "réduction de l'espace personnel sans alarme",
+      "isolation des soutiens extérieurs présentée comme un choix",
+      "dissolution identitaire ou rupture provoquée de l'extérieur"
+    ],
+    "voiesDeResolution": [
+      "intervention d'un proche qui ne renonce pas malgré les rejets",
+      "événement extérieur qui rompt l'isolation — déménagement, maladie, crise",
+      "fragment de l'identité antérieure qui resurgit malgré tout dans un moment de calme",
+      "l'empriseur commet un excès que le personnage ne peut plus rationaliser",
+      "espace thérapeutique ou de parole qui reconstruit progressivement un regard propre"
+    ],
+    "blessuresUnderlyantes": [
+      "manque affectif profond non résolu comblé de manière absolue par la relation",
+      "identité fragile ou en construction au moment de la rencontre — sol instable",
+      "modèle relationnel appris basé sur la fusion ou la soumission comme norme",
+      "besoin intense d'être choisi, retenu et considéré comme unique",
+      "expérience d'abandon passée qui rend la rupture inimaginable"
+    ],
+    "contextesFavorables": [
+      "isolement préexistant du personnage avant la rencontre",
+      "période de vulnérabilité ou de transition identitaire forte",
+      "empriseur charismatique et intensément attentionné au début",
+      "absence de modèle de relation saine dans l'histoire personnelle"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage en manque affectif ancien jamais comblé",
+      "personnage dont l'identité est encore en construction ou récemment fragilisée",
+      "personnage ayant peu de liens extérieurs stables au moment de la rencontre",
+      "personnage ayant grandi dans un environnement contrôlant où la soumission était normale",
+      "personnage qui a vécu un abandon et pour qui perdre la relation signifie retourner au vide"
+    ],
+    "erreursDEcriture": [
+      "Montrer trop vite la prise de conscience — sous emprise, le personnage défend activement ce qui le détruit.",
+      "Rendre la sortie trop rapide ou trop consciente — se libérer d'une emprise est un processus long et non linéaire.",
+      "Confondre emprise et manipulation — la manipulation contourne l'identité, l'emprise l'efface progressivement.",
+      "Traiter l'empriseur comme une figure entièrement froide — il peut être sincèrement attaché à sa façon, ce qui complique tout.",
+      "Oublier la honte et la douleur après la libération — sortir d'une emprise, c'est aussi perdre quelque chose qu'on aimait."
+    ],
+    "notesEditoriales": [
+      "L'emprise est narrativement puissante parce qu'elle crée un personnage qui lutte contre lui-même autant que contre l'autre.",
+      "Distinguer emprise et domination : la domination est souvent visible de l'extérieur, l'emprise ne l'est pas pour la victime.",
+      "Le moment le plus fort à écrire n'est pas la sortie, mais l'instant où le personnage entrevoit pour la première fois qu'il est sous emprise.",
+      "Le personnage libéré de l'emprise ne revient pas à 'avant' — il construit quelque chose de nouveau, ce qui est un récit en soi."
+    ],
+    "dynamiqueAssociee": { "id": "relation-d-emprise", "label": "Relation d'emprise" }
+  },
+  {
+    "id": "mepris",
+    "label": "Mépris",
+    "alias": ["condescendance relationnelle", "dédain assumé", "arrogance sociale", "infériorisation de l'autre", "dévalorisation systématique", "regard de haut", "snobisme relationnel", "déshumanisation froide", "ignorance délibérée", "traitement par-dessus l'épaule"],
+    "famille": "conflits-interpersonnels",
+    "definitionCourte": "Attitude par laquelle un personnage signifie à l'autre — ou au monde — qu'il le considère comme inférieur, sans valeur ou indigne d'attention.",
+    "natureDuConflit": "Conflit de reconnaissance — l'un refuse d'accorder à l'autre la dignité d'être un égal.",
+    "forcesEnPresence": [
+      "sentiment de supériorité du personnage méprisant — réel ou construit comme défense",
+      "besoin de hiérarchie ou de domination symbolique pour se définir",
+      "peur déguisée en dédain — le méprisant protège quelque chose de fragile",
+      "blessure d'orgueil non résolue qui se retourne sur d'autres",
+      "dévalorisation de l'autre comme mécanisme de défense identitaire",
+      "culture ou environnement qui valide et encourage le mépris comme norme",
+      "besoin inconscient de se sentir supérieur pour compenser une insécurité"
+    ],
+    "declencheursFrequents": [
+      "différence de statut social, culturel ou intellectuel réelle ou perçue",
+      "comportement de l'autre qui contredit les valeurs ou codes du méprisant",
+      "situation où le méprisant se sent menacé ou dépassé",
+      "échec ou insécurité projetés sur quelqu'un de 'moins que soi'",
+      "appartenance à un groupe dévalorisé par le milieu du méprisant",
+      "rappel d'une partie de lui-même que le méprisant rejette",
+      "tentative de l'autre d'être traité en égal dans un espace où le méprisant se croyait seul",
+      "succès de l'autre dans un domaine qui menaçait d'être la propriété du méprisant"
+    ],
+    "signauxAvantCoureurs": [
+      "absence de regard lors des échanges — l'autre n'est pas digne d'attention directe",
+      "réponses monosyllabiques ou différées qui signalent l'indifférence",
+      "sourires en coin adressés aux témoins qui prennent l'autre à part",
+      "silence éloquent face aux propos de l'autre — plus blessant qu'une réfutation",
+      "diminutifs ou reformulations qui rabaissent subtilement sans attaquer ouvertement",
+      "ton légèrement trop patient, trop explicatif — comme s'il parlait à un enfant",
+      "oubli sélectif du nom ou du titre de l'autre",
+      "interruption systématique sous couvert d'aller plus vite"
+    ],
+    "silencesEtNonDits": [
+      "le méprisant ne dit jamais 'tu ne vaux rien' — il le montre autrement, par l'attitude",
+      "le méprisé ne dit pas toujours qu'il souffre — parfois il ne l'a pas encore nommé",
+      "la question 'pourquoi me traites-tu ainsi ?' reste souvent dans la gorge, non formulée",
+      "'je vois comment tu me regardes' n'est dit qu'en intérieur, jamais en face",
+      "la colère du méprisé reste souvent froide et silencieuse, pas explosive",
+      "le méprisant ne reconnaît jamais son mépris — il parle de 'franchise' ou de 'réalisme'"
+    ],
+    "positionsDePouvoir": [
+      "le méprisant s'arroge une position haute sans que ce soit toujours légitime ni justifié",
+      "le méprisé peut reprendre du pouvoir en refusant de valider la hiérarchie imposée",
+      "le mépris peut être retourné comme arme — l'indifférence face au méprisant est souvent plus forte que la réplique",
+      "un groupe qui reconnaît ouvertement la valeur du méprisé peut faire s'effondrer le pouvoir du méprisant"
+    ],
+    "penseesTypiques": [
+      "Pourquoi me parle-t-il comme si nous étions égaux ?",
+      "Il ne comprend pas dans quel monde il vit. Dans quel monde je vis.",
+      "Je n'ai pas de temps à perdre avec ça.",
+      "Ils font de leur mieux. (sous-entendu visible : ce n'est pas suffisant.)",
+      "Je ne vais quand même pas m'abaisser à répondre à ça.",
+      "Il croit vraiment que son avis compte ici.",
+      "Avec un peu plus de... Non. Ça ne changera rien.",
+      "Je suis entouré de gens qui ne voient pas ce que je vois.",
+      "C'est fatiguant d'être le seul à comprendre comment ça marche."
+    ],
+    "comportementsTypiques": [
+      "interrompre ou ignorer ce que l'autre dit — passer au suivant avant qu'il finisse",
+      "adresser les remarques aux tiers plutôt qu'au méprisé, comme s'il n'était pas là",
+      "déléguer à d'autres le contact ou les tâches liés au méprisé",
+      "traiter l'autre comme transparent dans les discussions importantes",
+      "donner une aide ou un conseil d'une façon qui rabaisse au lieu d'élever",
+      "ne pas saluer ou reconnaître la présence de l'autre dans les espaces communs",
+      "mentionner l'autre en passant, sans le nommer, comme une information secondaire",
+      "regarder ailleurs ou vérifier son téléphone quand l'autre parle"
+    ],
+    "variantes": [
+      {
+        "relation": "Classe sociale ou milieu",
+        "description": "Le mépris de classe utilise les codes implicites — le vocabulaire, les manières, les références. Il est souvent non dit mais omniprésent. Il peut être inconscient chez celui qui l'exerce."
+      },
+      {
+        "relation": "Collègue ou subordonné",
+        "description": "Le mépris professionnel s'exerce via la délégation méprisante, le silence en réunion ou le crédit jamais accordé. Il est difficile à prouver mais très visible à vivre au quotidien."
+      },
+      {
+        "relation": "Famille",
+        "description": "Le mépris familial est le plus durable et le plus difficile à nommer. Il peut traverser des générations. Il est souvent habillé en jugement 'pour ton bien' ou en 'franchise'."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Condescendance légère", "description": "Ton légèrement supérieur, imperceptible si on ne le connaît pas. Le personnage méprisé ressent un malaise sans savoir pourquoi." },
+      { "niveau": 2, "label": "Dédain palpable", "description": "Le regard ou le ton signifient clairement la hiérarchie. Visible pour un observateur extérieur." },
+      { "niveau": 3, "label": "Mépris affiché", "description": "Le méprisant ne cherche plus à cacher son attitude. Il l'assume devant témoins sans gêne." },
+      { "niveau": 4, "label": "Dévalorisation active", "description": "Le méprisant agit pour réduire l'autre — sabotage symbolique, exclusion, humiliation publique." },
+      { "niveau": 5, "label": "Négation de l'humanité", "description": "L'autre est traité comme s'il n'existait pas ou ne comptait pas. Forme la plus destructrice." }
+    ],
+    "escaladeTypique": [
+      "sentiment de supériorité installé et jamais remis en question",
+      "signaux non verbaux de dédain — regard, ton, gestes",
+      "mépris affiché ouvertement devant témoins",
+      "conflit ouvert ou rupture de la relation sous la pression"
+    ],
+    "voiesDeResolution": [
+      "confrontation directe et maîtrisée qui force l'autre à voir le personnage",
+      "accomplissement visible qui rend le mépris intenable et ridicule",
+      "rupture assumée et volontaire avec le contexte ou la relation du mépris",
+      "allié qui reconnaît publiquement la valeur du méprisé dans le même espace",
+      "changement de contexte qui efface la hiérarchie qui fondait le mépris"
+    ],
+    "blessuresUnderlyantes": [
+      "sentiment de supériorité construit pour compenser une insécurité profonde non résolue",
+      "honte personnelle projetée sur d'autres pour ne pas la porter soi-même",
+      "mépris subi dans l'enfance ou à une période clé qui est reproduit",
+      "identité construite sur la différenciation d'avec un groupe dévalorisé",
+      "peur d'être ordinaire — le mépris des autres prouve qu'on est exceptionnel"
+    ],
+    "contextesFavorables": [
+      "environnement hiérarchique rigide où le statut protège",
+      "forte différence de statut réelle ou perçue entre les personnages",
+      "culture ou milieu qui valorise certains profils au détriment d'autres",
+      "personnage méprisant en position de pouvoir stable sans remise en question"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage dont l'identité entière repose sur la supériorité perçue ou le statut",
+      "personnage ayant subi le mépris dans l'enfance et le reproduisant sans en être conscient",
+      "personnage dans un milieu qui valorise l'élitisme comme norme de fonctionnement",
+      "personnage dont la confiance en soi est fragile sous la surface et se protège par le dédain",
+      "personnage qui a réussi après avoir été méprisé et qui reproduit ce qu'il a subi"
+    ],
+    "erreursDEcriture": [
+      "Rendre le méprisant unidimensionnel — le mépris le plus intéressant cache une peur ou une blessure bien précise.",
+      "Confondre mépris et colère — le mépris est froid, distancié, il ne s'emballe pas, il condescend.",
+      "Oublier l'effet du mépris sur le personnage méprisé — il peut être plus dévastateur qu'une attaque directe car il nie l'existence.",
+      "Résoudre par une leçon que le méprisant reçoit — les personnages méprisants changent rarement facilement et rarement complètement.",
+      "Ne pas donner au méprisé une réponse — même intérieure, même non dite — qui le montre comme un sujet actif et non une victime passive."
+    ],
+    "notesEditoriales": [
+      "Le mépris est l'une des armes relationnelles les plus froides à écrire — il dit tout sans rien dire, c'est son efficacité et sa violence.",
+      "La réponse la plus puissante au mépris narrativement n'est pas la réplique cinglante mais l'indifférence maîtrisée qui prive le méprisant de son effet.",
+      "Distinguer le mépris choisi du mépris structurel — l'un est un acte intentionnel, l'autre est un système qui n'a besoin de personne pour fonctionner.",
+      "Le mépris est souvent plus intéressant du côté du méprisé — sa résistance intérieure, sa colère froide, sa décision de ne pas valider la hiérarchie."
+    ]
+  }
+]

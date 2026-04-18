@@ -1,0 +1,102 @@
+[
+  {
+    "id": "pudeur",
+    "label": "Pudeur",
+    "polarite": "ambigu",
+    "famille": "discrétion-retenue",
+    "definitionCourte": "Réserve instinctive ou cultivée qui pousse le personnage à protéger son intériorité, à ne pas s'exposer sans nécessité, et à respecter l'intimité des autres — vertu de discrétion qui peut devenir obstacle à la connexion.",
+    "manifestationsPositives": [
+      "ne force pas les autres à se confier",
+      "protège les secrets qu'on lui confie",
+      "dit les choses importantes en tête-à-tête plutôt qu'en public",
+      "respecte les limites — les siennes et celles des autres",
+      "n'exhibe pas ce qui lui appartient en propre"
+    ],
+    "manifestationsNegatives": [
+      "ne dit jamais ce qu'il ressent vraiment — même quand ce serait utile",
+      "laisse l'autre dans l'ignorance de ses besoins",
+      "bloque des connexions profondes par réticence à se livrer",
+      "peut être mal compris comme froid ou distant",
+      "souffre en silence plutôt que de demander de l'aide"
+    ],
+    "signesPhysiques": [
+      "regard qui s'écarte des situations trop intimes",
+      "corps légèrement tourné quand les émotions sont fortes",
+      "sourire bref qui coupe court aux épanchements",
+      "voix plus basse dans les conversations intimes",
+      "main qui se retire si le contact dure trop"
+    ],
+    "blessuresPossibles": [
+      "exposition non consentie dans l'enfance ou l'adolescence",
+      "honte d'avoir montré quelque chose qui a été utilisé contre soi",
+      "éducation qui valorisait la retenue au détriment de l'expression"
+    ],
+    "evolutionsPossibles": [
+      "peut trouver un équilibre si quelqu'un crée un espace sûr",
+      "peut devenir une armure si les blessures s'accumulent",
+      "peut être une force dans des contextes qui demandent la discrétion"
+    ],
+    "notesEditoriales": [
+      "La pudeur est un frein narratif puissant : elle empêche les aveux, les déclarations, les demandes d'aide.",
+      "Elle n'est pas de la froideur — mais peut être perçue comme telle par l'entourage.",
+      "Un personnage pudique qui s'expose malgré tout offre l'un des moments les plus forts."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_masquer", "cible": "tendresse" },
+      { "type": "peut_masquer", "cible": "desir" },
+      { "type": "souvent_associe_a", "cible": "retenue" },
+      { "type": "peut_evoluer_en", "cible": "isolement" },
+      { "type": "peut_evoluer_en", "cible": "intimite-retrouvee" }
+    ]
+  },
+  {
+    "id": "obstination",
+    "label": "Obstination",
+    "polarite": "ambigu",
+    "famille": "volonte-determination",
+    "definitionCourte": "Tendance à maintenir cap sur un objectif, une position ou une croyance au-delà de ce que la raison ou les circonstances justifient — force motrice ou rigidité selon ce à quoi elle s'applique.",
+    "manifestationsPositives": [
+      "tient bon quand tout le monde abandonne",
+      "revient après les échecs sans perdre le fil",
+      "ne se laisse pas décourager par les obstacles ordinaires",
+      "porte les projets longs que les autres lâchent",
+      "sa constance inspire ou rassure ceux qui l'entourent"
+    ],
+    "manifestationsNegatives": [
+      "refuse de changer de cap même face à l'évidence",
+      "interprète la résistance comme de l'injustice plutôt que comme un signal",
+      "continue après que l'objectif a perdu son sens",
+      "épuise son entourage par son refus de lâcher",
+      "peut confondre obstination et principe"
+    ],
+    "signesPhysiques": [
+      "mâchoire serrée lors des obstacles",
+      "regard fixe sur l'objectif, peu déviable",
+      "gestes répétés avec constance même si inefficaces",
+      "posture fermée aux arguments contraires",
+      "ton qui monte légèrement quand on remet en question sa direction"
+    ],
+    "blessuresPossibles": [
+      "avoir lâché quelque chose d'important et le regretté durablement",
+      "environnement instable qui a appris à ne faire confiance qu'à soi-même",
+      "mépris ancien pour ce qui capitule trop vite"
+    ],
+    "evolutionsPossibles": [
+      "peut devenir une force rare quand l'objectif est juste",
+      "peut se transformer en entêtement destructeur si non examiné",
+      "peut apprendre à distinguer persévérance saine et rigidité stérile"
+    ],
+    "notesEditoriales": [
+      "L'obstination est narrativement riche car elle entre en conflit avec la réalité — ou avec d'autres personnages.",
+      "Elle est plus intéressante quand son objet est discutable : le lecteur doit se demander si ça vaut le coût.",
+      "Distinguer de la détermination (qui s'adapte) et de l'entêtement (qui ne se questionne pas)."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "entêtement" },
+      { "type": "peut_evoluer_en", "cible": "reussite-par-persistence" },
+      { "type": "souvent_associe_a", "cible": "fierte" },
+      { "type": "peut_masquer", "cible": "peur-de-lacher" },
+      { "type": "peut_declencher", "cible": "conflit" }
+    ]
+  }
+]

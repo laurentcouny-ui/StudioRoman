@@ -1,0 +1,602 @@
+[
+  {
+    "id": "marche-matin-vide",
+    "label": "Marché au matin vide",
+    "type": "espace-public",
+    "dominanteSensorielle": "visuel-olfactif",
+    "ambiance": "L'espace public dans son état le plus honnête, avant la foule. Le marché n'est pas encore lui-même : il s'installe, se prépare, montre son envers. Quelque chose de provisoire et de légèrement irréel dans cette heure-là.",
+    "elements": [
+      "étals en cours d'installation, cartons empilés sur les tréteaux",
+      "palettes en bois que l'on traîne sur le bitume avec un bruit sec",
+      "lumière rasante du matin, encore latérale, qui allonge les ombres",
+      "vendeurs en polaire ou en tablier qui ne parlent pas encore beaucoup",
+      "camions aux hayon levés, chargement en cours",
+      "vapeur s'échappant d'un gobelet de café plastique",
+      "sol encore humide de la rosée ou du nettoyage nocturne",
+      "quelques premiers clients qui arrivent tôt par habitude"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'être en avance sur le monde",
+      "légère mélancolie de ce qui n'a pas encore commencé",
+      "solitude douce et volontaire",
+      "curiosité tranquille",
+      "impression fugace d'appartenir à un groupe discret de gens matinaux"
+    ],
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de légumes frais et de terre sur les racines",
+        "effluves de café dans l'air froid",
+        "senteur de carton mouillé et de bois humide",
+        "légère odeur de gasoil des camions encore chauds"
+      ],
+      "auditifs": [
+        "bruit métallique des tréteaux qu'on déplie et verrouille",
+        "voix basses des commerçants qui communiquent sans crier",
+        "roulement sourd des caddies sur le pavé",
+        "klaxon lointain sur une rue encore vide"
+      ],
+      "visuels": [
+        "couleurs saturées des fruits et légumes sous la lumière blanche des spots d'appoint",
+        "tissu des bâches qui claque doucement dans le vent du matin",
+        "silhouettes en mouvement sur un fond de ciel encore gris-bleu",
+        "chiffres griffonnés au marqueur sur des ardoises non encore accrochées"
+      ],
+      "tactiles": [
+        "air froid qui pique légèrement les narines et les mains",
+        "bitume encore légèrement humide sous les semelles",
+        "contact rêche du bois des palettes",
+        "chaleur du café à travers le gobelet plastique"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Commerçant habitué",
+        "description": "Voit les emplacements, les absences, les retards de livraison. Son regard est fonctionnel et économique. L'atmosphère lui est si familière qu'il n'y prête plus attention — il voit seulement ce qui ne va pas."
+      },
+      {
+        "profil": "Insomniaque ou errant",
+        "description": "Vit cette heure comme un espace de grâce. Il est là parce qu'il ne dormait pas, et trouve dans ce marché vide une forme d'accueil sans exigence. Il observe ceux qui travaillent avec une fascination discrète."
+      },
+      {
+        "profil": "Journaliste ou écrivain en quête",
+        "description": "Cherche le détail vrai. Remarque les gestes de routine, les visages avant le masque professionnel, les petits pactes tacites entre commerçants qui se connaissent depuis des années. Prend des notes mentales."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de début de journée qui installe un personnage solitaire mais pas désespéré",
+      "cadre pour un rendez-vous discret ou une rencontre non planifiée",
+      "contraste avec une scène précédente chaotique ou nocturne",
+      "lieu de transition entre deux états d'un personnage en transformation"
+    ],
+    "notesEditoriales": [
+      "La force de ce lieu est dans son caractère intermédiaire : il n'est pas encore ce qu'il sera. Il parle naturellement de ce qui est en train de devenir.",
+      "Éviter de le romantiser systématiquement : le marché du matin est aussi du travail dur, des corps fatigués, des journées qui commencent avant le soleil.",
+      "Très utile pour les scènes d'observation discrète : le personnage qui regarde sans être remarqué."
+    ]
+  },
+  {
+    "id": "prison-cellule",
+    "label": "Cellule de prison",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "tactile-sonore",
+    "ambiance": "L'espace réduit à sa fonction de contrainte. Chaque surface parle de limitation. Le temps y a une texture différente, plus épaisse, plus difficile à traverser. Le lieu est à la fois très concret — les murs sont là, mesurables — et presque abstrait dans ce qu'il fait au sens de l'existence.",
+    "elements": [
+      "murs peints d'un blanc cassé ou d'un gris pâle, usés à hauteur des épaules",
+      "lit en métal fixé au mur, matelas fin à rayures",
+      "lumière artificielle permanente sans possibilité de l'éteindre complètement",
+      "porte métallique avec judas et verrou lourd",
+      "sol en béton peint ou carrelage froid",
+      "petite fenêtre haute avec barreaux, vue limitée sur le ciel ou un mur",
+      "table et tabouret vissés au sol ou au mur",
+      "traces laissées par les occupants précédents : griffures, inscriptions, marques"
+    ],
+    "emotionsTypiques": [
+      "claustrophobie sourde même chez ceux qui ne s'en croyaient pas atteints",
+      "ennui d'une densité particulière, différent du vague à l'âme",
+      "vigilance permanente diffuse",
+      "sentiment de suspension hors du monde",
+      "désespoir qui s'installe par couches successives si la durée se prolonge"
+    ],
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de détergent fort mélangée à la transpiration et au renfermé",
+        "odeur métallique de la porte et des barreaux",
+        "effluves de nourriture collective qui arrivent aux heures de repas",
+        "odeur de papier usé et de plastique chauffé par la lumière artificielle"
+      ],
+      "auditifs": [
+        "bruit des verrous et des portes métalliques dans le couloir",
+        "voix lointaines jamais tout à fait identifiables",
+        "silence nocturne traversé de bruits inexpliqués",
+        "pas réguliers et prévisibles des rondes"
+      ],
+      "visuels": [
+        "espace si petit que l'œil fait le tour en quelques secondes",
+        "lumière sans ombre qui aplatit tout et fatigue",
+        "rectangle de ciel ou de mur par la fenêtre haute comme seule variation",
+        "surface du mur scrutée jusqu'à en connaître chaque irrégularité"
+      ],
+      "tactiles": [
+        "froid du sol sous les pieds nus le matin",
+        "rugosité du mur sous les doigts",
+        "matelas qui cède en des endroits précis déjà marqués par d'autres corps",
+        "air qui ne se renouvelle jamais vraiment"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Détenu de longue peine",
+        "description": "A domestiqué l'espace par la routine. Chaque objet a une place, chaque heure un usage. Ne perçoit plus la cellule comme un lieu mais comme une condition. Les variations minuscules — un rayon de soleil déplacé, une odeur différente — prennent une importance disproportionnée."
+      },
+      {
+        "profil": "Arrivant pour la première nuit",
+        "description": "Le choc du rétrécissement. Son regard fait le tour de l'espace avec incrédulité. Tout est trop petit, trop dur, trop définitif. Ses repères habituels — bruit familier, lumière choisie, liberté de mouvement — ont disparu en bloc."
+      },
+      {
+        "profil": "Gardien en début de poste",
+        "description": "Ne voit plus les cellules individuellement. Son regard est fonctionnel : sécurité, présence, conformité. Mais certains détails le rattrapent parfois — un dessin sur le mur, un livre posé de telle façon — et il lui faut un effort pour rester professionnel."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu de confrontation d'un personnage à lui-même, sans distraction possible",
+      "espace où le temps prend une autre valeur, utilisable pour des scènes de rétrospection",
+      "cadre pour des rencontres inattendues entre détenus aux histoires très différentes",
+      "lieu de transformation intérieure — effondrement ou durcissement selon le personnage"
+    ],
+    "notesEditoriales": [
+      "Éviter les deux écueils symétriques : la cellule héroïsée (lieu de résistance noble) ou réduite à sa misère spectaculaire. La réalité quotidienne en est plus banale et plus éprouvante.",
+      "Le temps est l'ennemi principal dans une cellule — à rendre sensible dans l'écriture sans le nommer directement.",
+      "Les inscriptions et traces laissées par les occupants précédents sont narrativement très riches : elles font entrer d'autres histoires dans l'espace."
+    ]
+  },
+  {
+    "id": "eglise-vide",
+    "label": "Église vide en dehors des offices",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "ambiance": "Le lieu de culte sans sa foule est un espace d'une autre nature : plus silencieux, plus lourd, plus personnel. Les symboles restent présents mais s'adressent à personne en particulier. Il y a dans cet espace quelque chose qui invite à l'introspection même chez les non-croyants.",
+    "elements": [
+      "rangées de bancs vides dans la pénombre latérale",
+      "lumière filtrée par les vitraux en taches colorées qui se déplacent lentement",
+      "bougies allumées seules dans le silence, cire qui coule",
+      "odeur persistante d'encens froid et de pierre humide",
+      "grande nef dont l'acoustique transforme le moindre son",
+      "statues et effigies aux regards figés tournés vers l'entrée",
+      "livre d'intentions ouvert à une page remplie d'écritures différentes",
+      "autel désert avec ses ornements immobiles"
+    ],
+    "emotionsTypiques": [
+      "sentiment de petitesse face à la hauteur de la nef",
+      "paix troublée d'une légère inquiétude",
+      "recueillement involontaire même pour les non-croyants",
+      "mélancolie tranquille",
+      "sentiment d'être attendu ou observé sans savoir par quoi"
+    ],
+    "detailsSensoriels": {
+      "olfactifs": [
+        "encens froid dont la fumée est ancienne dans les murs",
+        "odeur de pierre fraîche et légèrement humide",
+        "cire fondue et bougies soufflées",
+        "vieux bois des bancs chauffé par le peu de lumière"
+      ],
+      "auditifs": [
+        "silence que toute réverbération rend plus épais qu'ailleurs",
+        "bruit des pas qui résonnent trop fort et qu'on ralentit",
+        "cliquetis d'une chaîne ou d'un chandelier dans un courant d'air",
+        "voix extérieures lointaines et étouffées par l'épaisseur des murs"
+      ],
+      "visuels": [
+        "lumière colorée des vitraux qui change selon l'heure et le ciel",
+        "dorure de l'autel qui accroche la lumière des cierges",
+        "obscurité progressive vers le fond de l'église et les chapelles latérales",
+        "contraste entre le blanc de la chaux et le noir des ombres portées"
+      ],
+      "tactiles": [
+        "fraîcheur de la pierre même en plein été",
+        "bois poli et légèrement gras des bancs usés",
+        "eau bénite froide dans le bénitier à l'entrée",
+        "dureté du sol dallé sous les genoux si l'on s'agenouille"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Croyant en crise de foi",
+        "description": "Le lieu familier est devenu étrange. Il reconnaît tout mais ne ressent plus ce qu'il ressentait. Le silence l'accuse plutôt qu'il ne le console. Il attend quelque chose qui ne vient pas et ne sait pas si c'est sa faute."
+      },
+      {
+        "profil": "Non-croyant entré par hasard ou pour se réfugier",
+        "description": "Surpris par la dimension physique du lieu — la hauteur, le froid, le silence. Ressent quelque chose qu'il ne peut pas nommer et qu'il préférerait ne pas nommer. Regarde les objets de culte avec une curiosité mêlée d'une légère gêne."
+      },
+      {
+        "profil": "Enfant de chœur ou employé de paroisse",
+        "description": "Connaît chaque recoin, chaque meuble, chaque défaut du sol. Le lieu sacré lui est domestique. Mais à certaines heures — très tôt le matin, en hiver —, il ressent encore quelque chose d'inexplicable dans l'espace vide."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu de confession non sacramentelle — un personnage qui parle seul ou à un autre",
+      "espace pour une rencontre secrète ou un rendez-vous discret",
+      "cadre pour une scène de deuil, de rupture ou de décision grave",
+      "lieu de transition symbolique entre deux états d'un personnage"
+    ],
+    "notesEditoriales": [
+      "La force de l'église vide tient à son silence particulier : l'acoustique du lieu transforme physiquement les sons et donc les émotions.",
+      "Le lieu n'est pas neutre moralement — il porte une charge symbolique qui peut servir ou contrarier un personnage selon sa relation à la foi.",
+      "Éviter d'en faire systématiquement un espace de paix : l'église vide peut aussi être menaçante, oppressante ou simplement froide."
+    ]
+  },
+  {
+    "id": "usine-desaffectee",
+    "label": "Usine désaffectée",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-tactile",
+    "ambiance": "L'activité humaine figée dans son absence. L'usine désaffectée ne parle pas d'abandon — elle parle d'arrêt brutal, de continuité interrompue. Les machines sont là, les outils parfois, mais la vie qui leur donnait un sens a disparu. Il reste quelque chose de violent dans ce silence industriel.",
+    "elements": [
+      "machines à l'arrêt recouvertes de rouille et de poussière grise",
+      "hall immense sous une verrière dont certains panneaux sont brisés",
+      "sol en béton fissuré avec traces d'huile et de graisse ancienne",
+      "câbles électriques coupés qui pendent du plafond",
+      "vestiaires avec portes ouvertes et effets personnels oubliés",
+      "tableaux d'affichage avec consignes de sécurité encore lisibles",
+      "lumière qui tombe par les brisures de la toiture en colonnes poussiéreuses",
+      "végétation qui reprend possession par les fissures"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'une présence fantôme des anciens ouvriers",
+      "mélancolie de ce qui a existé et n'existe plus",
+      "légère angoisse liée à l'ambiguïté des ombres et des espaces",
+      "fascination pour le temps arrêté",
+      "impression d'avoir pénétré quelque chose d'interdit"
+    ],
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de rouille et de métal oxydé",
+        "huile de machine rance, présente dans les pores du béton",
+        "odeur de poussière sèche et de béton vieilli",
+        "effluves de mousse et d'humidité dans les coins non éclairés"
+      ],
+      "auditifs": [
+        "silence que les surfaces dures rendent minéral et froid",
+        "cliquetis métallique d'un panneau de toiture dans le vent",
+        "bruit de ses propres pas qui résonnent différemment selon le sol",
+        "piaillement de pigeons ou d'oiseaux nichés dans les hauteurs"
+      ],
+      "visuels": [
+        "colonnes de lumière poussiéreuse traversant l'obscurité comme des projecteurs",
+        "rouille couleur de sang séché sur les armatures métalliques",
+        "contraste entre le noir des machines et la lumière blanche du jour par les brèches",
+        "graffitis sur les murs qui coexistent avec les anciennes inscriptions industrielles"
+      ],
+      "tactiles": [
+        "poussière qui se dépose sur la main au moindre contact",
+        "froid qui monte du béton même en été",
+        "aspérités de la rouille sous les doigts",
+        "instabilité légère du sol par endroits, béton craquelé sous les semelles"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Ancien ouvrier qui revient",
+        "description": "Reconnaît chaque machine, chaque poste, chaque couloir. La mémoire musculaire de l'espace se réactive avant même la mémoire consciente. L'émotion est physique avant d'être intellectuelle : un nœud dans la gorge devant une machine qu'il réparait."
+      },
+      {
+        "profil": "Explorateur urbain ou photographe",
+        "description": "Voit le lieu esthétiquement. La rouille, la lumière, le silence — tout est composition. Mais cherche aussi le détail humain : l'objet oublié, l'inscription personnelle, la trace qui résiste à l'abstraction du décor."
+      },
+      {
+        "profil": "Personnage en fuite ou en rupture",
+        "description": "Voit d'abord le refuge. L'usine désaffectée offre l'espace et l'invisibilité. Mais le lieu finit par travailler sur lui : quelque chose dans l'arrêt brutal, dans les machines silencieuses, parle trop de ce qu'il fuit."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu de cachette ou de refuge pour un personnage traqué ou en rupture",
+      "espace pour une confrontation dans un cadre neutre et chargé",
+      "décor pour une scène de passé revenant au présent",
+      "lieu symbolique de mort économique ou sociale d'une communauté"
+    ],
+    "notesEditoriales": [
+      "L'usine désaffectée porte une dimension politique et historique qu'il est difficile d'ignorer — elle parle de travail, de classe, de déclin. À utiliser consciemment.",
+      "La lumière en colonnes à travers les brèches est une image forte mais usée — l'utiliser avec parcimonie et précision.",
+      "La coexistence des inscriptions industrielles officielles et des graffitis personnels crée une stratification temporelle très narrative."
+    ]
+  },
+  {
+    "id": "jardin-enfance",
+    "label": "Jardin d'enfance retrouvé",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "olfactif-visuel",
+    "ambiance": "Le même espace, mais vu depuis un autre corps. Le jardin de l'enfance retrouvé est à la fois familier et étranger : les distances ont rétréci, les arbres ont grandi, certaines choses ont disparu. Le lieu est réel, mais le personnage y superpose une image intérieure qui ne correspond plus tout à fait.",
+    "elements": [
+      "pelouse que la mémoire a idéalisée et que le présent recadre",
+      "arbre dont le tronc est plus gros qu'on s'en souvenait",
+      "cabane, balançoire ou massif qui n'est plus là ou qui a changé",
+      "odeur d'herbe fraîche ou de terre après la pluie identique au souvenir",
+      "frontières du jardin plus petites que dans la mémoire d'enfant",
+      "traces du temps sur ce qui était neuf : peinture écaillée, bois grisé",
+      "détail intact qui provoque un choc émotionnel inattendu",
+      "présence ou absence des gens qui habitaient ce lieu"
+    ],
+    "emotionsTypiques": [
+      "nostalgie qui mélange douceur et douleur dans des proportions inconstantes",
+      "déréalisation légère face à l'écart entre mémoire et présent",
+      "sentiment d'être devenu étranger à sa propre histoire",
+      "deuil de l'enfant qu'on était",
+      "émotion surprise face à ce qui est resté identique"
+    ],
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de la terre spécifique à ce jardin, reconnaissable immédiatement",
+        "parfum d'une plante ou d'une fleur associée à l'enfance dans ce lieu",
+        "odeur de l'herbe tondue ou de la végétation selon la saison",
+        "senteur de la pluie sur le béton d'une dalle ou d'un chemin familier"
+      ],
+      "auditifs": [
+        "sons de voisinage identiques ou disparus",
+        "bruit du vent dans les mêmes feuilles, version agrandie",
+        "voix d'enfants dans un jardin adjacent — écho déplacé",
+        "silence là où il y avait du bruit, ou bruit là où il y avait silence"
+      ],
+      "visuels": [
+        "perspective rétrécie par rapport à la mémoire d'enfant",
+        "couleurs délavées par le temps sur ce qui était vif",
+        "nouvelles plantes qui ont colonisé les espaces connus",
+        "angle de lumière identique à un souvenir précis et insupportablement proche"
+      ],
+      "tactiles": [
+        "rugosité du même arbre sous la même main, mais une main plus grande",
+        "herbe humide sous les chaussures comme autrefois pieds nus",
+        "froid d'une barrière métallique qui n'a pas changé",
+        "sol légèrement élastique d'une pelouse qu'on reconnaît sous les semelles"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Adulte revenu après une longue absence",
+        "description": "Cherche activement les coïncidences entre mémoire et réalité. Chaque correspondance est un soulagement, chaque écart une petite perte. L'émotion se concentre sur un détail anodin qui résume tout — un interrupteur, une tuile, une marche."
+      },
+      {
+        "profil": "Enfant actuel du lieu",
+        "description": "Vit dans le présent de ce jardin sans en connaître l'histoire. Regarde avec curiosité cet adulte qui s'arrête trop longtemps devant l'arbre ou touche le mur comme si c'était un être vivant."
+      },
+      {
+        "profil": "Personnage venu faire ses adieux (vente de la maison familiale, décès d'un parent)",
+        "description": "Le jardin est une charge dans ce contexte. Chaque détail est à la fois précieux et douloureux. Il faut tout regarder une dernière fois pour s'en souvenir, mais regarder est insupportable."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de confrontation entre le personnage et son passé",
+      "révélation d'une vérité sur l'enfance du personnage à travers un détail du lieu",
+      "moment de deuil symbolique d'une époque ou d'un lien",
+      "transition narrative entre deux périodes de la vie du personnage"
+    ],
+    "notesEditoriales": [
+      "Le jardin d'enfance retrouvé est un lieu commun de la littérature — l'utiliser exige une précision sensorielle très concrète pour éviter la généralité émotionnelle.",
+      "Le rétrécissement de l'espace est un détail concret qui porte à lui seul toute la charge temporelle — à exploiter physiquement, pas seulement métaphoriquement.",
+      "La vraie émotion n'est souvent pas dans le grand souvenir mais dans un détail inexplicablement intact : une poignée de porte, une plante oubliée."
+    ]
+  },
+  {
+    "id": "hotel-cheap-nuit",
+    "label": "Chambre d'hôtel bon marché la nuit",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "ambiance": "La chambre d'hôtel bas de gamme est un lieu de passage rendu permanent par la nuit. Elle n'est à personne et elle le dit à chaque détail. Mais elle est aussi le seul espace disponible, le seul endroit où être seul avec ce qu'on porte. La nuit l'aggrave, la rend plus vraie.",
+    "elements": [
+      "lit double ou deux lits simples avec couvre-lit synthétique à motifs",
+      "moquette ou sol PVC qui a vu des milliers de passages",
+      "téléviseur fixé au mur, parfois allumé pour couvrir le silence",
+      "applique murale à lumière jaune et froide simultanément",
+      "salle de bain carrelée blanc avec joint grisâtre",
+      "rideaux occultants qui ne ferment pas tout à fait",
+      "bruit de la route ou du couloir selon l'étage",
+      "objet personnel posé sur la table ou la moquette — seule chose qui appartient à quelqu'un"
+    ],
+    "emotionsTypiques": [
+      "solitude d'une qualité particulière, sans la possibilité de la romaniser",
+      "sentiment d'être entre deux états, deux endroits, deux vies",
+      "légère dépression de façade qui n'est pas une vraie tristesse",
+      "indifférence forcée face à l'inconfort",
+      "vulnérabilité d'être dans un lieu où personne ne vous connaît ni ne vous cherche"
+    ],
+    "detailsSensoriels": {
+      "olfactifs": [
+        "désinfectant industriel qui ne parvient pas à effacer l'odeur des occupants précédents",
+        "air conditionné froid et légèrement plastique",
+        "odeur de tabac froid dans les murs même en chambre non-fumeur",
+        "shampooing bon marché dans la salle de bain"
+      ],
+      "auditifs": [
+        "bruit de la route ou de la nationale selon l'heure et l'isolation",
+        "voix ou télévision dans la chambre voisine, trop proches, trop présentes",
+        "claquements de portes dans le couloir",
+        "ronronnement du climatiseur ou du chauffage selon la saison"
+      ],
+      "visuels": [
+        "lumière d'enseigne qui filtre à travers les rideaux et découpe le plafond",
+        "ombre familière de ses propres affaires sur une surface inconnue",
+        "miroir trop grand en face du lit qui donne une image de soi non préparée",
+        "détail déplacé ou abîmé que la lumière du soir révèle — fissure, tache, accroc"
+      ],
+      "tactiles": [
+        "drap aux fils synthétiques légèrement piquants",
+        "oreiller trop plat ou trop dur selon la position",
+        "moquette tiède et légèrement collante sous les pieds nus",
+        "différence de température entre le lit et l'air de la chambre la nuit"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Personne en rupture ou en fuite",
+        "description": "Vit cet espace comme un sas. Ce n'est pas un lieu pour se reposer — c'est un lieu pour ne pas être trouvé. La chambre est fonctionnelle, sans plus. Il éteint la lumière tôt pour que le silence devienne supportable."
+      },
+      {
+        "profil": "Commercial ou travailleur en déplacement régulier",
+        "description": "A domestiqué ce type de lieu à force de répétition. Il a ses rituels : ordre des affaires posées, émission de fond allumée, rappel de demain dans le téléphone. Mais certaines nuits, le lieu le rattrape."
+      },
+      {
+        "profil": "Personne qui traverse une rupture ou une perte",
+        "description": "La chambre d'hôtel amplifie tout. L'absence de l'autre y est plus concrète que n'importe où. Les objets neutres — le couvre-lit, le miroir, la télé — deviennent des témoins muets de ce qui vient de s'effondrer."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de nuit blanche où un personnage prend une décision ou l'évite",
+      "lieu de transition entre deux phases d'une histoire",
+      "cadre d'une rencontre ou d'un appel téléphonique crucial",
+      "espace pour une scène de confrontation intérieure sans distraction narrative"
+    ],
+    "notesEditoriales": [
+      "La chambre d'hôtel bas de gamme est un lieu de classe autant qu'un lieu de passage — elle dit quelque chose du personnage qui ne peut pas ou ne veut pas s'offrir mieux.",
+      "La télévision allumée sans être regardée est un détail très juste sur la solitude : elle remplace la présence humaine sans y parvenir.",
+      "Éviter la romantisation du sordide : la chambre bon marché n'est ni glamour ni tragique — elle est banale, et c'est ce qui la rend si juste."
+    ]
+  },
+  {
+    "id": "sous-sol-maison",
+    "label": "Sous-sol de maison",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "olfactif-tactile",
+    "ambiance": "L'espace de la maison qui n'a pas de façade. Le sous-sol n'est pas montré aux invités, il ne fait pas partie de la vie sociale. Il est ce que la maison garde pour elle. Il peut être fonctionnel, encombré, menaçant ou simplement oublié, mais il ne laisse jamais indifférent.",
+    "elements": [
+      "plafond bas avec tuyaux apparents et câbles fixés par des colliers",
+      "sol en béton brut ou carrelage froid et légèrement humide",
+      "lumière unique, ampoule nue ou néon qui clignote parfois",
+      "accumulation d'objets qui n'ont plus leur place en haut mais qu'on ne jette pas",
+      "odeur de terre, de renfermé, de vieux papier et d'humidité froide",
+      "chauffe-eau ou chaudière dans un coin, bruit de fond résiduel",
+      "étagères avec bocaux anciens, outils, cartons étiquetés à la main",
+      "escalier en bois ou en béton qui grince vers la lumière du dessus"
+    ],
+    "emotionsTypiques": [
+      "malaise diffus sans raison précise",
+      "curiosité légèrement coupable",
+      "sentiment d'accéder à quelque chose de privé ou d'interdit",
+      "anxiété d'enfant réactivée même chez les adultes",
+      "impression que le temps y est suspendu différemment"
+    ],
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de cave : terre froide, humidité, vieux bois",
+        "effluves de poussière sèche sur des objets longtemps immobiles",
+        "senteur de rouille et de métal ancien",
+        "odeur résiduelle de produits chimiques, peinture ou solvant stocké"
+      ],
+      "auditifs": [
+        "silence particulier des espaces enterrés, épais et sans réverbération lointaine",
+        "grondement sourd de la chaudière ou du chauffe-eau",
+        "bruit des pas en haut, amplifiés par le plancher",
+        "craquement de la structure de la maison, déformations thermiques"
+      ],
+      "visuels": [
+        "objets reconnaissables qui appartiennent à une autre époque de la maison",
+        "ombres portées dures sous la lumière froide et unique",
+        "cartons dont les étiquettes ont été effacées par le temps ou l'humidité",
+        "fenêtre si haute et si petite qu'elle ne laisse entrer qu'un trait de lumière"
+      ],
+      "tactiles": [
+        "froid humide qui s'insinue même en été",
+        "poussière qui se dépose sur les doigts au moindre contact",
+        "surface froide et légèrement grasse du béton",
+        "aspérité des murs en parpaing ou en pierre"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Enfant seul dans la maison",
+        "description": "Le sous-sol est le lieu de toutes les projections. Il n'est jamais vraiment allé au bout — il allume la lumière depuis le haut, regarde ce qu'il peut voir, redescend vite. C'est moins ce qu'il y a que ce qu'il imagine qu'il pourrait y avoir."
+      },
+      {
+        "profil": "Adulte qui vide la maison familiale après un décès",
+        "description": "Chaque objet ici est une décision à prendre : garder, donner, jeter. Le sous-sol de la maison familiale concentre tout ce que ses parents n'ont pas voulu voir en haut. Ce que les boîtes contiennent ne sera jamais tout à fait neutre."
+      },
+      {
+        "profil": "Personnage qui cache quelque chose ou quelqu'un",
+        "description": "Voit le sous-sol fonctionnellement : est-il assez isolé ? Y entend-on ce qui vient d'en haut ? Combien de temps avant qu'on remarque ? L'espace qu'il connaissait devient opérationnel, ce qui le transforme — et le transforme lui."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu de révélation ou de découverte d'un secret familial",
+      "espace de confrontation avec le passé matérialisé en objets",
+      "cadre pour une séquence de tension ou d'horreur contrôlée",
+      "lieu symbolique de ce qui est refoulé, caché, conservé sans être regardé"
+    ],
+    "notesEditoriales": [
+      "Le sous-sol est symboliquement chargé dans presque toutes les cultures — inconscient, refoulé, secret. À utiliser avec conscience pour ne pas tomber dans le symbole facile.",
+      "Sa force la plus honnête est dans le banal : des cartons de jouets, des meubles démodés, de vieilles factures. Ce n'est pas le monstrueux qui y est inquiétant, c'est l'ordinaire accumulé.",
+      "La lumière unique est un détail scénique très efficace : elle crée des ombres et délimite l'espace visible — ce qui reste dans l'ombre appartient au lecteur."
+    ]
+  },
+  {
+    "id": "pont-ville-nuit",
+    "label": "Pont en ville la nuit",
+    "type": "espace-transition",
+    "dominanteSensorielle": "visuel-sonore",
+    "ambiance": "Le pont est un seuil. Il relie deux rives, deux quartiers, deux états. La nuit, il appartient à ceux qui traversent sans destination évidente. L'eau en dessous, le ciel au-dessus, la ville tout autour mais sans murs — il crée un espace de liberté vertigineuse et d'isolement simultané.",
+    "elements": [
+      "garde-corps en métal, pierre ou béton selon le pont et la ville",
+      "reflets de la ville sur l'eau — lumières qui se déforment selon le courant",
+      "vent plus fort qu'en rue, traversant sans obstacle",
+      "bruits de la ville atténués et transformés par l'espace ouvert au-dessus de l'eau",
+      "lampadaires dont le halo jaune ne couvre pas l'espace entre eux",
+      "eau noire et mouvante en dessous, son bruissement perceptible par endroits",
+      "rares passants qui ne s'arrêtent pas ou qui s'arrêtent trop",
+      "circulation lointaine sur le pont lui-même ou sur les quais en dessous"
+    ],
+    "emotionsTypiques": [
+      "sentiment de suspension entre deux moments ou deux décisions",
+      "liberté légèrement vertigineuse liée à l'espace ouvert",
+      "solitude qui peut basculer vers la paix ou vers l'angoisse",
+      "impression d'être à la lisière de quelque chose",
+      "mélancolie que le mouvement de l'eau amplifie"
+    ],
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de fleuve ou de canal, entre fraîcheur et vase selon le cours d'eau",
+        "air plus frais et plus humide qu'en rue, chargé du souffle de l'eau",
+        "effluves de la ville — gaz d'échappement, nourriture, asphalte — mais dilués",
+        "odeur de métal rouillé ou de pierre mouillée du garde-corps"
+      ],
+      "auditifs": [
+        "clapotis de l'eau contre les piliers, constant et légèrement hypnotique",
+        "vent qui passe dans les ferrures ou entre les câbles avec un son filé",
+        "voiture qui traverse le pont — bruit plein puis vide à nouveau",
+        "ville en fond sonore, présente mais déréalisée par la distance"
+      ],
+      "visuels": [
+        "reflets fragmentés des lumières de la ville sur l'eau noire",
+        "ombre portée du garde-corps en bandes régulières sur le sol du pont",
+        "silhouette d'un autre passant au loin, reconnaissable à sa démarche",
+        "ciel de ville, jamais vraiment noir, orangé ou violet selon les nuages"
+      ],
+      "tactiles": [
+        "froid du métal ou de la pierre du garde-corps sous les mains",
+        "vent qui pénètre les vêtements différemment qu'en rue fermée",
+        "légère vibration du pont sous les pieds si un véhicule passe",
+        "humidité de l'air qui se dépose imperceptiblement sur la peau"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Personnage en crise ou au bord d'une décision grave",
+        "description": "Le pont concentre tout ce qu'il porte. L'eau en dessous n'est pas neutre. Il s'arrête, les mains sur le garde-corps, et regarde l'eau sans la voir vraiment. Ce qu'il fait ensuite — repartir, rester, appeler quelqu'un — est la scène."
+      },
+      {
+        "profil": "Promeneur nocturne habituel",
+        "description": "Connaît ce pont comme une étape dans son circuit. Il sait à quel lampadaire la vue est la meilleure, où l'odeur change, où le vent est le plus fort. Le lieu est familier mais jamais tout à fait domestiqué — la nuit le réinvente légèrement."
+      },
+      {
+        "profil": "Personnage qui attend ou surveille",
+        "description": "Le pont est un poste d'observation idéal. On voit les deux rives, on voit qui vient. Mais on est aussi visible, et cette visibilité est une tension. Il se tient légèrement en retrait du lampadaire."
+      }
+    ],
+    "usagesNarratifs": [
+      "lieu pour une scène de crise ou de décision dont l'issue reste ouverte",
+      "espace pour une rencontre fortuite ou un rendez-vous ambigu",
+      "lieu de transition symbolique entre deux états d'un personnage",
+      "cadre pour une scène de poursuite ou de filature"
+    ],
+    "notesEditoriales": [
+      "Le pont de nuit est un lieu narratif puissant mais usé — son potentiel symbolique (transition, liminalité, décision irréversible) est connu du lecteur. Le travailler avec précision sensorielle pour lui rendre sa concrétude.",
+      "L'eau en dessous ne doit pas toujours être menaçante : parfois elle est simplement là, vivante, indifférente, et c'est cette indifférence qui est la plus juste.",
+      "La coexistence de la solitude et de la visibilité — on est seul mais exposé — est la tension propre à ce lieu."
+    ]
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "adoration",
+    "label": "Adoration",
+    "famille": "amour-lien",
+    "definitionCourte": "Amour intense et presque inconditionnel — plus grand que la tendresse ordinaire, teinté de vénération, parfois de sacré. L'adoration place l'autre au-dessus.",
+
+    "signesPhysiques": [
+      "regard qui ne peut pas s'arracher — fixé avec une douceur intense",
+      "sourire qui monte seul à la mention du nom ou de la présence",
+      "mouvements doux et précautionneux en présence — comme pour ne pas briser",
+      "corps orienté vers l'autre, presque gravitationnel",
+      "voix qui change de qualité — plus douce, plus intérieure",
+      "geste protecteur instinctif",
+      "impression que le reste de la pièce recule"
+    ],
+
+    "sensationsInternes": [
+      "chaleur totale dans la poitrine — presque douloureuse tellement c'est fort",
+      "sentiment que cet être mérite plus qu'on ne peut donner",
+      "légère suspension du temps en sa présence",
+      "désir de protéger, de servir, de rester proche",
+      "impression que quelque chose de grand passe à travers ce lien"
+    ],
+
+    "pensees": [
+      "Il est tout.",
+      "Je ferais n'importe quoi pour elle.",
+      "Qu'est-ce qu'il y a de si parfait en lui ?",
+      "Je ne mérite peut-être pas ça.",
+      "Tant que je peux être là.",
+      "Rien ne compte autant que ce moment."
+    ],
+
+    "effetsVoixLangage": [
+      "parle de l'autre avec un soin dans les mots",
+      "formulations qui élèvent l'autre",
+      "silence respectueux quand l'autre parle",
+      "défense instinctive si l'autre est critiqué",
+      "peut paraître excessif aux yeux des tiers"
+    ],
+
+    "comportements": [
+      "préserve l'autre des difficultés quand c'est possible",
+      "mémorise les petits détails — préférences, habitudes, souvenirs",
+      "met les besoins de l'autre avant les siens naturellement",
+      "peut perdre de vue ses propres besoins si l'adoration est totale",
+      "garde une trace intérieure des moments importants ensemble"
+    ],
+
+    "masquesPossibles": [
+      "détachement de surface pour ne pas faire peur à l'autre",
+      "humour qui dilue l'intensité",
+      "service sans déclaration — montre sans dire"
+    ],
+
+    "evolutionsPossibles": [
+      "amour mature si l'adoration trouve un équilibre",
+      "souffrance si l'autre ne peut pas répondre à cette intensité",
+      "perte de soi si le personnage disparaît dans l'adoration",
+      "dévastation si l'autre révèle une faille grave"
+    ],
+
+    "contextesAggravants": [
+      "séparation ou menace sur l'objet de l'adoration",
+      "tiers qui rivalise ou menace",
+      "découverte d'une imperfection qui met à l'épreuve"
+    ],
+
+    "contextesAttenuants": [
+      "réciprocité — même partielle",
+      "présence physique de l'autre",
+      "moment de confiance totale partagée"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Tendresse profonde", "description": "Amour fort, doux. L'autre compte énormément." },
+      { "niveau": 2, "label": "Amour intense", "description": "L'autre est central. La présence a un effet fort." },
+      { "niveau": 3, "label": "Adoration", "description": "L'autre est placé très haut. Le personnage peut perdre de la distance." },
+      { "niveau": 4, "label": "Vénération", "description": "L'autre semble parfait. L'écart commence à poser des questions." },
+      { "niveau": 5, "label": "Dévotion totale", "description": "L'autre est tout. Le personnage existe en fonction de lui." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Parent envers son enfant",
+        "description": "L'adoration parentale est souvent la plus absolue — inconditionnelle, teintée de vulnérabilité et de responsabilité."
+      },
+      {
+        "profil": "Amour romantique",
+        "description": "L'adoration romantique peut être transformatrice ou aliénante. Elle dépend beaucoup de la réciprocité et de la santé de la relation."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'adoration est à la limite de la santé émotionnelle — à utiliser avec conscience de ce qu'elle dit sur le personnage.",
+      "Elle peut être touchante ou inquiétante selon le contexte — souvent les deux.",
+      "Un personnage adoré peut être oppressé par ce poids sans le montrer."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "possessivite" },
+      { "type": "peut_masquer", "cible": "besoin-d-etre-complete" },
+      { "type": "souvent_associe_a", "cible": "devotion" }
+    ]
+  },
+  {
+    "id": "affection",
+    "label": "Affection",
+    "famille": "amour-tendresse",
+    "definitionCourte": "Amour quotidien et stable — ni passionnel ni vénérant. L'affection est le lien qui reste quand la nouveauté est passée, quand l'autre est connu dans ses habitudes et ses failles.",
+
+    "signesPhysiques": [
+      "contacts physiques naturels — épaule, bras, main passée dans les cheveux",
+      "sourire familier — pas de surprise, juste le plaisir de l'autre",
+      "gestes d'attention pratique — un café préparé, un manteau rappelé",
+      "présence confortable — le silence n'est pas gêné",
+      "ton chaleureux et direct — pas de façade",
+      "écoute qui ne cherche pas à impressionner",
+      "taquineries douces — signe d'aisance"
+    ],
+
+    "sensationsInternes": [
+      "bien-être stable en présence de l'autre",
+      "sentiment que c'est bien comme c'est",
+      "chaleur qui n'a pas besoin de se justifier",
+      "confiance dans la permanence du lien",
+      "légèreté d'être avec quelqu'un qu'on n'a pas à gérer"
+    ],
+
+    "pensees": [
+      "C'est bien de le voir.",
+      "Elle est exactement comme d'habitude.",
+      "Je me sens bien là.",
+      "Pas besoin de faire des efforts avec lui.",
+      "Elle connaît mon côté ridicule et elle est encore là.",
+      "C'est ça, un ami."
+    ],
+
+    "effetsVoixLangage": [
+      "tutoiement naturel et sans cérémonie",
+      "surnoms ou formulations propres à la relation",
+      "références communes qui créent un langage privé",
+      "franchise — dit ce qu'il pense sans filtre excessif",
+      "rires partagés sur des choses connues"
+    ],
+
+    "comportements": [
+      "fait des petites choses sans les nommer — aide pratique, cadeaux discrets",
+      "présent dans les moments ordinaires autant que dans les importants",
+      "prend des nouvelles régulièrement sans attendre une crise",
+      "connaît les habitudes, les préférences, les peurs de l'autre",
+      "peut être honnête même quand c'est inconfortable"
+    ],
+
+    "masquesPossibles": [
+      "peut paraître moins fort que la passion — sous-estimé",
+      "désignée comme 'juste de l'amitié' alors qu'elle est profonde",
+      "rarement nommée — prise pour acquise"
+    ],
+
+    "evolutionsPossibles": [
+      "approfondissement si la relation traverse des épreuves",
+      "fragilisation si la communication se coupe",
+      "révélation de sa force lors d'une crise — l'affection tient quand la passion s'est épuisée",
+      "deuil si le lien se perd"
+    ],
+
+    "contextesAggravants": [
+      "distance géographique prolongée",
+      "changements de vie qui éloignent les rythmes",
+      "conflit non résolu qui empoisonne ce qui était simple"
+    ],
+
+    "contextesAttenuants": [
+      "routine partagée — les moments ordinaires ensemble",
+      "habitude de se retrouver même brièvement",
+      "confiance maintenue malgré le temps"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Sympathie", "description": "Appréciation sincère sans grande profondeur." },
+      { "niveau": 2, "label": "Affection légère", "description": "L'autre est apprécié, sa présence est agréable." },
+      { "niveau": 3, "label": "Affection vraie", "description": "Lien solide, chaleureux, stable. L'autre manque quand il n'est pas là." },
+      { "niveau": 4, "label": "Affection profonde", "description": "Lien intime et durable. Une des vraies attaches du personnage." },
+      { "niveau": 5, "label": "Amour d'habitude", "description": "Amour qui a traversé le temps. Aussi fort que la passion, plus stable." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage peu expressif",
+        "description": "L'affection se manifeste dans les actes, rarement dans les mots. Ce personnage ne dit jamais 'je t'aime' mais fait tous les gestes."
+      },
+      {
+        "profil": "Personnage verbal et émotionnel",
+        "description": "Nomme l'affection souvent, avec naturel. La relation est tissée de mots autant que de gestes."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'affection est souvent plus dramatiquement forte que la passion parce qu'elle est durable — sa perte est plus longue à traverser.",
+      "Elle est une des émotions les plus faciles à ne pas voir dans un récit — elle se manifeste dans les petits actes.",
+      "Narrativement, elle est puissante dans les relations de longue durée — amis d'enfance, couples installés, fratries reconciliées."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "amour" },
+      { "type": "souvent_associe_a", "cible": "confiance" },
+      { "type": "peut_masquer", "cible": "dependance-affective" }
+    ]
+  },
+  {
+    "id": "devotion",
+    "label": "Dévotion",
+    "famille": "amour-lien",
+    "definitionCourte": "Amour qui se met entièrement au service de l'autre — ou d'une cause. La dévotion ne calcule pas : elle donne sans compte, parfois jusqu'au sacrifice.",
+
+    "signesPhysiques": [
+      "disponibilité physique totale — interrompt ce qu'il fait pour l'autre",
+      "regard qui évalue constamment les besoins de l'autre",
+      "gestes de soin répétés et précis",
+      "fatigue portée sans se plaindre",
+      "effacement de ses propres préférences dans les espaces partagés",
+      "présence maintenue même quand elle n'est pas utile — juste être là",
+      "voix qui prend soin de ne pas déranger"
+    ],
+
+    "sensationsInternes": [
+      "satisfaction profonde dans le fait de servir ou d'être utile",
+      "inconfort si l'autre souffre et qu'il ne peut pas aider",
+      "plénitude dans les moments où l'autre va bien grâce à lui",
+      "légère inquiétude de fond si l'autre est hors de vue",
+      "sentiment que sa propre valeur passe par ce lien"
+    ],
+
+    "pensees": [
+      "Ce dont tu as besoin passe avant.",
+      "Je suis là pour ça.",
+      "Tant que tu vas bien.",
+      "Je n'ai pas besoin de grand-chose pour moi.",
+      "Je ferais n'importe quoi.",
+      "Ma place est ici."
+    ],
+
+    "effetsVoixLangage": [
+      "formulations centrées sur l'autre — 'et toi ?', 'qu'est-ce que tu veux ?'",
+      "minimise ses propres besoins dans la conversation",
+      "voix qui porte une attention constante à l'état de l'autre",
+      "désaccord rare et toujours formulé avec soin",
+      "peut parler longtemps de l'autre sans parler de lui-même"
+    ],
+
+    "comportements": [
+      "anticipe les besoins sans qu'on les exprime",
+      "sacrifie ses propres plans pour l'autre",
+      "reste même quand l'autre le repousse",
+      "peut ignorer ses propres limites physiques et émotionnelles",
+      "peut mal prendre un refus d'aide — son identité est dans le service"
+    ],
+
+    "masquesPossibles": [
+      "peut ressembler à de la codépendance — la limite est mince",
+      "nié comme 'c'est normal de s'occuper des gens qu'on aime'",
+      "invisible car non spectaculaire — juste une présence constante"
+    ],
+
+    "evolutionsPossibles": [
+      "épuisement si la dévotion n'est pas nourrie en retour",
+      "transformation si l'autre apprend à recevoir sans prendre",
+      "libération si le personnage apprend à se dédier à lui-même aussi",
+      "perte dévastatrice si l'objet de la dévotion disparaît"
+    ],
+
+    "contextesAggravants": [
+      "l'autre qui prend sans reconnaître",
+      "troisième personne qui remet en question le sacrifice",
+      "l'autre qui refuse l'aide — met le personnage en crise d'identité"
+    ],
+
+    "contextesAttenuants": [
+      "reconnaissance sincère de l'autre",
+      "réciprocité même partielle",
+      "espace pour que le personnage reçoive à son tour"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Soin attentif", "description": "Attentif aux besoins de l'autre, prend soin. En équilibre." },
+      { "niveau": 2, "label": "Dévouement", "description": "L'autre passe souvent en premier. Quelques sacrifices." },
+      { "niveau": 3, "label": "Dévotion", "description": "L'autre est central. Les sacrifices sont réels et choisis." },
+      { "niveau": 4, "label": "Sacrifice de soi", "description": "Le personnage disparaît derrière l'autre. Ses besoins ne comptent plus." },
+      { "niveau": 5, "label": "Abnégation totale", "description": "Le personnage existe pour l'autre. Santé, équilibre et identité menacés." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage religieux ou philosophique",
+        "description": "La dévotion peut être à une cause ou à un idéal autant qu'à une personne. Elle est vécue comme un acte de sens."
+      },
+      {
+        "profil": "Personnage qui aime sans être aimé en retour",
+        "description": "La dévotion non réciprocité est l'une des formes les plus douloureuses — et les plus durables — de l'amour."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La dévotion est à la frontière de l'amour sain et de la codépendance — c'est cet équilibre qui en fait un matériau dramatique riche.",
+      "Elle est souvent invisible dans les récits parce que non spectaculaire — mais sa présence ou son absence change tout.",
+      "Un personnage dévot qui apprend à prendre soin de lui-même est un arc de croissance puissant."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_masquer", "cible": "peur-d-etre-abandonne" },
+      { "type": "peut_evoluer_en", "cible": "epuisement" },
+      { "type": "souvent_associe_a", "cible": "sacrifice" }
+    ]
+  },
+  {
+    "id": "convoitise",
+    "label": "Convoitise",
+    "famille": "amour-lien",
+    "definitionCourte": "Désir qui veut posséder — non seulement être avec l'autre ou le voir heureux, mais l'avoir, exclusivement, entièrement. La convoitise est un désir qui ne sait pas s'arrêter à la frontière de l'autre.",
+
+    "signesPhysiques": [
+      "regard long et intense qui revient souvent",
+      "tension légère dans les mâchoires et les épaules",
+      "gestes qui cherchent à réduire la distance — sans toujours y aller",
+      "posture de vigilance quand d'autres s'approchent de l'objet désiré",
+      "sourire qui n'est pas tout à fait détendu",
+      "surveillance discrète des mouvements de l'autre",
+      "inconfort visible quand l'autre s'éloigne"
+    ],
+
+    "sensationsInternes": [
+      "faim — sensation physique dans l'estomac ou la poitrine",
+      "tension entre le désir et le refus de le montrer",
+      "jalousie latente même sans raison concrète",
+      "plaisir intense à la pensée de posséder ce qu'on désire",
+      "frustration si ce désir n'est pas satisfait"
+    ],
+
+    "pensees": [
+      "Je veux que ce soit à moi.",
+      "Pourquoi est-ce qu'il lui parle comme ça ?",
+      "Je ne partage pas.",
+      "Si j'avais ça, j'aurais tout.",
+      "Il est à moi.",
+      "Qu'est-ce qu'elle lui trouve ?"
+    ],
+
+    "effetsVoixLangage": [
+      "questions sur l'objet du désir — indirectes mais régulières",
+      "réactions vives à la mention d'une rivalité",
+      "minimisation du désir en public",
+      "possessivité lexicale — 'mon', 'ma', même prématurément",
+      "peut être charmeur et attentif — stratégie de séduction"
+    ],
+
+    "comportements": [
+      "marque son territoire — physique ou social",
+      "peut être possessif sous couvert d'attention",
+      "surveille les interactions de l'autre avec d'autres",
+      "peut faire des promesses ou des cadeaux pour créer de la dette",
+      "peut aller contre son propre intérêt pour avoir ce qu'il désire"
+    ],
+
+    "masquesPossibles": [
+      "amour généreux de surface — cache la dimension possessive",
+      "admiration affichée — dilue la jalousie dans l'enthousiasme",
+      "détachement performatif — 'je ne suis pas du genre jaloux'"
+    ],
+
+    "evolutionsPossibles": [
+      "maturité si le personnage apprend à aimer sans posséder",
+      "jalousie pathologique si non contenue",
+      "obsession si l'objet du désir résiste",
+      "libération si le désir est satisfait et révèle ses limites"
+    ],
+
+    "contextesAggravants": [
+      "rivalité concrète ou imaginée",
+      "manque d'accès à l'objet du désir",
+      "passé de perte ou de privation"
+    ],
+
+    "contextesAttenuants": [
+      "confiance établie dans la relation",
+      "satisfaction du désir — même partielle",
+      "conscience des propres mécanismes"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Désir fort", "description": "Attirance intense. Reste en dehors de la frontière de l'autre." },
+      { "niveau": 2, "label": "Attachement possessif", "description": "Préfère l'exclusivité. Légèrement jaloux." },
+      { "niveau": 3, "label": "Convoitise", "description": "Le désir de posséder est réel. Colore les comportements." },
+      { "niveau": 4, "label": "Possessivité", "description": "L'autre est perçu comme une propriété. Les limites s'effacent." },
+      { "niveau": 5, "label": "Obsession", "description": "Le désir est total et incontrôlable. Le personnage ne peut plus raisonner." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage conscient de sa convoitise",
+        "description": "La combat ou la gère. Sa lucidité crée une tension entre ce qu'il ressent et ce qu'il sait qu'il ne devrait pas faire."
+      },
+      {
+        "profil": "Personnage qui ne la reconnaît pas",
+        "description": "Pense sincèrement que c'est de l'amour. La possession lui semble naturelle — une preuve d'intensité du sentiment."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La convoitise est une des émotions les plus honnêtement dérangeantes — elle met à nu les aspects moins nobles du désir.",
+      "À ne pas systématiquement condamner narrativement : elle peut être compréhensible, voire touchante, selon le contexte.",
+      "Elle est souvent plus intéressante quand le personnage est conscient de ce qu'il fait que quand il ne l'est pas."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "jalousie" },
+      { "type": "peut_masquer", "cible": "peur-de-perdre" },
+      { "type": "souvent_associe_a", "cible": "possessivite" }
+    ]
+  }
+]

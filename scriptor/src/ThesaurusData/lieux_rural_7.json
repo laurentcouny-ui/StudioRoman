@@ -1,0 +1,652 @@
+[
+  {
+    "id": "silo-a-grain",
+    "label": "Silo à grain",
+    "type": "rural-travail",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "cylindres de béton ou de métal de vingt à trente mètres de haut",
+      "courroies transporteuses et vis sans fin visibles depuis l'extérieur",
+      "poussière de grain en suspension dans l'air ambiant",
+      "quai de déchargement des camions et remorques",
+      "balance de pesée imposante à l'entrée",
+      "numéro de silo peint en grands chiffres sur la paroi",
+      "boue et grain répandu sur les dalles de béton"
+    ],
+    "bruits": [
+      "moteurs des élévateurs et convoyeurs — bruit permanent",
+      "grain qui tombe en cascade dans les trémies",
+      "camions qui manœuvrent dans la cour",
+      "sifflement de la poussière dans les aérations"
+    ],
+    "odeurs": [
+      "grain — variable selon l'espèce, toujours fort",
+      "poussière de céréales — sèche et pénétrante",
+      "carburant des engins autour"
+    ],
+    "textures": [
+      "poussière de grain qui se dépose sur les vêtements",
+      "vibration du sol sous les moteurs",
+      "grain froid et fluide entre les doigts"
+    ],
+    "emotionsTypiques": [
+      "impression de machinerie industrielle dans un cadre rural",
+      "tension des périodes de récolte — tout le monde est pressé",
+      "sentiment d'anonymat dans le flux des camions"
+    ],
+    "usagesNarratifs": [
+      "espace de travail sous haute tension en période de moisson",
+      "lieu d'accident industriel rural — poussière explosive, noyade dans le grain",
+      "scène de négociation ou de conflit sur le prix du grain",
+      "espace peu connu du public — dépaysement garanti"
+    ],
+    "tensionsTypiques": [
+      "explosion de poussières de céréales — risque réel",
+      "noyade dans le grain — personne qui s'enfonce dans le silo",
+      "pression des délais — grain qui doit sortir avant la pluie"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur qui livre",
+        "description": "Il attend sa place dans la file, connaît les employés, discute prix et qualité. Le silo est un passage obligé, pas un lieu."
+      },
+      {
+        "profil": "Employé du silo",
+        "description": "Le bruit est constant, la poussière inévitable. Il travaille vite, sécurise les angles dangereux, surveille les niveaux. Ce lieu l'a durci."
+      },
+      {
+        "profil": "Étranger qui entre pour la première fois",
+        "description": "L'échelle verticale des silos l'écrase. La machinerie est incompréhensible. La poussière dans l'air l'inquiète. Il reste hors du chemin des engins."
+      }
+    ],
+    "notesEditoriales": [
+      "Le silo est souvent absent de la fiction rurale malgré son omniprésence dans les paysages agricoles. Sa présence ancre le récit dans l'agriculture industrielle.",
+      "Le danger réel du silo — poussière explosive, noyade dans le grain — est peu connu du grand public et donc narrativement frais."
+    ]
+  },
+  {
+    "id": "fromagerie-artisanale",
+    "label": "Fromagerie artisanale",
+    "type": "rural-travail",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "salle carrelée blanche et froide — hygiène imposée",
+      "cuves en inox à différents stades de coagulation",
+      "moules en plastique alignés sur des grilles",
+      "cave d'affinage aux étagères couvertes de fromages",
+      "toiles de jute ou de lin sous certains fromages",
+      "humidité visible sur les murs de la cave",
+      "thermomètre et hygromètre accrochés au mur"
+    ],
+    "bruits": [
+      "silence de la cave — moisissures et fermentation se font dans le silence",
+      "lait qui tombe dans la cuve",
+      "retournement régulier des fromages — geste doux et précis",
+      "minuterie qui sonne pour les étapes de fabrication"
+    ],
+    "odeurs": [
+      "lait frais dans la salle de fabrication — doux et chaud",
+      "fermentation forte dans la cave — odeur animale et complexe",
+      "moisissure blanche ou bleue — selon le type de fromage"
+    ],
+    "textures": [
+      "caillé — frais et fragile entre les mains",
+      "croûte du fromage affiné — selon le type, dure, veloutée, sèche",
+      "sol carrelé froid et légèrement humide"
+    ],
+    "emotionsTypiques": [
+      "patience — le fromage impose son temps, pas l'inverse",
+      "fierté de maîtriser une transformation invisible",
+      "légère répulsion puis fascination devant la fermentation"
+    ],
+    "usagesNarratifs": [
+      "révélation du savoir-faire comme identité — le fromager est son fromage",
+      "héritage et transmission d'un métier en voie de disparition",
+      "lieu de travail solitaire et répétitif propice à la pensée",
+      "scène de transmission d'une recette comme acte d'intimité"
+    ],
+    "tensionsTypiques": [
+      "lot raté — une mauvaise fermentation qui détruit des semaines de travail",
+      "contrôle sanitaire — peur de la mise aux normes",
+      "concurrence des grandes fromageries industrielles"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Fromager de métier",
+        "description": "Il évalue au toucher, à l'odeur, à la vue. La cave lui parle — il sait si une moisissure est bonne ou mauvaise avant de l'analyser. C'est une connaissance corporelle."
+      },
+      {
+        "profil": "Premier visiteur",
+        "description": "L'odeur de la cave lui coupe le souffle. Il ne sait pas si c'est bon signe. Le fromager lui explique avec une fierté tranquille que ça sent la vie."
+      },
+      {
+        "profil": "Enfant héritier potentiel",
+        "description": "Il aide depuis l'enfance — le retournement des fromages, les livrages. Il n'est pas encore sûr de vouloir reprendre. L'odeur de la cave lui rappelle son enfance."
+      }
+    ],
+    "notesEditoriales": [
+      "La fromagerie impose le temps long — certains fromages s'affinent des mois. Ce rythme contraste avec l'urgence narrative et peut être utilisé narrativement.",
+      "L'odeur d'une fromagerie est un détail sensoriel très particulier — difficile à ignorer et très mémorable. À ne pas esquiver."
+    ]
+  },
+  {
+    "id": "scierie-rurale",
+    "label": "Scierie rurale",
+    "type": "rural-travail",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "bâtiment ouvert sur un côté — grumes en attente à l'extérieur",
+      "grande scie circulaire au centre — lame de plusieurs mètres de diamètre",
+      "sciure accumulée par dizaines de centimètres sur le sol",
+      "bois débité empilé en stères pour séchage",
+      "chariot à roulement qui amène la grume sous la lame",
+      "protection acoustique minimale — bouchons d'oreilles accrochés à l'entrée",
+      "tableau de bord simple — vitesse de coupe, épaisseur des planches"
+    ],
+    "bruits": [
+      "hurlement de la scie en charge — bruit insupportable et permanent",
+      "bois qui s'ouvre sous la lame — craquement et sifflement",
+      "chute des planches sur le chariot",
+      "silence entre deux coupes — relatif après le bruit de la lame"
+    ],
+    "odeurs": [
+      "sciure fraîche — odeur de bois très forte, variable selon l'essence",
+      "résine de résineux si pin ou sapin",
+      "lubrifiant de la lame — huile légère"
+    ],
+    "textures": [
+      "sciure fine qui se dépose partout",
+      "planche fraîchement coupée — lisse et légèrement humide",
+      "grume rugueuse avec son écorce"
+    ],
+    "emotionsTypiques": [
+      "puissance industrielle dans un cadre artisanal",
+      "danger permanent que personne ne nomme mais que tout le monde ressent",
+      "satisfaction du travail précis — les planches sortent droites et régulières"
+    ],
+    "usagesNarratifs": [
+      "accident de travail — la lame est implacable",
+      "lieu de travail isolé propice à la confidence ou au crime",
+      "espace de transmission père-fils autour d'un métier physique",
+      "décor sonore qui rend toute conversation impossible"
+    ],
+    "tensionsTypiques": [
+      "lame qui s'emballe ou se bloque — risque d'accident grave",
+      "bois qui contient un nœud ferreux — outil détruit",
+      "commande urgente qui impose un travail trop rapide"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Scieur de métier",
+        "description": "Il règle la hauteur de la lame d'un geste habituel, évalue le bois avant de couper. Le bruit lui est devenu un fond neutre — il l'entend sans l'entendre."
+      },
+      {
+        "profil": "Apprenti",
+        "description": "La lame l'intimide physiquement. Il maintient ses distances. Les consignes de sécurité lui ont été dites une fois — mais le danger reste flou pour lui."
+      },
+      {
+        "profil": "Client qui vient chercher sa commande",
+        "description": "Il entre dans la sciure jusqu'aux chevilles, crie pour se faire entendre malgré le bruit. Il attend que la lame s'arrête pour parler."
+      }
+    ],
+    "notesEditoriales": [
+      "La scie circulaire en marche interdit toute conversation — ce détail sonore est narrativement exploitable.",
+      "La sciure est omniprésente — elle entre dans les vêtements, les cheveux, les narines. Un personnage qui sort d'une scierie le porte sur lui."
+    ]
+  },
+  {
+    "id": "rucher",
+    "label": "Rucher",
+    "type": "rural-travail",
+    "dominanteSensorielle": "sonore-tactile",
+    "elements": [
+      "rangée de ruches en bois peint — blanc, jaune, bleu",
+      "bourdonnement de plusieurs colonies simultanées",
+      "abeilles en vol entre les fleurs et l'entrée des ruches",
+      "enfumoir posé sur une ruche ouverte",
+      "cadres en cire extraits et tenus à la lumière",
+      "extracteur centrifuge dans un abri proche",
+      "pots de miel en attente d'étiquetage"
+    ],
+    "bruits": [
+      "bourdonnement dense et variable — plus intense si les abeilles sont agitées",
+      "crépitement de l'enfumoir",
+      "son différent selon la saison — plus fort en été, quasi silence en hiver",
+      "abeille qui heurte la combinaison — bruit d'impact"
+    ],
+    "odeurs": [
+      "cire — odeur douce et complexe",
+      "miel chaud si extraction en cours",
+      "propolis — résineuse et médicinale"
+    ],
+    "textures": [
+      "cadre de cire lourd et collant",
+      "miel sur les gants — chaud et visqueux",
+      "combinaison serrée autour du visage"
+    ],
+    "emotionsTypiques": [
+      "calme imposé — l'apiculteur doit l'être pour travailler",
+      "fascination pour l'organisation invisible de la colonie",
+      "respect mêlé de crainte — les abeilles décident"
+    ],
+    "usagesNarratifs": [
+      "métaphore de la communauté et du travail collectif",
+      "révélation de caractère — comment quelqu'un se comporte face aux abeilles",
+      "espace de conversation lente et concentrée",
+      "transmission d'un savoir et d'une passion"
+    ],
+    "tensionsTypiques": [
+      "essaimage imprévu — la colonie part",
+      "piqûre pour celui qui n'est pas équipé ou qui fait un geste brusque",
+      "mortalité des colonies — maladie, pesticides voisins"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Apiculteur expérimenté",
+        "description": "Il ouvre les ruches sans hâte, lit l'état des cadres, cherche la reine. Les abeilles autour de lui sont une information, pas une menace."
+      },
+      {
+        "profil": "Néophyte",
+        "description": "Le bourdonnement l'intimide avant même d'approcher. Il vérifie dix fois les joints de sa combinaison. Il reste à distance et regarde faire."
+      },
+      {
+        "profil": "Enfant du fils de l'apiculteur",
+        "description": "Il a grandi avec les ruches — elles ne lui font pas peur. Il s'approche sans combinaison, sans être piqué, à la stupéfaction des adultes."
+      }
+    ],
+    "notesEditoriales": [
+      "L'apiculture impose la lenteur et le calme — des états d'esprit qui contrastent avec les états émotionnels des personnages. Cette tension est narrativement utile.",
+      "La colonie d'abeilles comme métaphore sociale est éculée — à éviter ou à retourner."
+    ]
+  },
+  {
+    "id": "exploitation-maraichere",
+    "label": "Exploitation maraîchère",
+    "type": "rural-travail",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "serres plastiques en tunnel à perte de vue",
+      "planches de culture au sol entre les serres",
+      "système d'irrigation goutte-à-goutte dans toutes les rangées",
+      "caisses en plastique empilées et lavées pour la récolte",
+      "camionnette frigorifique pour les livraisons",
+      "bassines de lavage des légumes à l'eau froide",
+      "balance de précision sur une table de conditionnement"
+    ],
+    "bruits": [
+      "système d'irrigation qui cliquète",
+      "bruit de l'emballage — film plastique et ruban",
+      "camionnette qui démarre tôt le matin",
+      "radio dans la serre si travailleurs présents"
+    ],
+    "odeurs": [
+      "tomate — feuilles vertes et fruits, odeur de serre",
+      "terre humide sous l'irrigation",
+      "légumes frais — odeur propre et végétale"
+    ],
+    "textures": [
+      "sol de serre — chaud et humide sous les pieds",
+      "feuille de tomate velue et légèrement collante",
+      "courgette fraîche — peau lisse et ferme"
+    ],
+    "emotionsTypiques": [
+      "travail intense et répétitif sous la chaleur de la serre",
+      "satisfaction de la récolte abondante",
+      "angoisse de la météo, des prix du marché, des invendus"
+    ],
+    "usagesNarratifs": [
+      "travail agricole difficile comme fond de récit social",
+      "journaliers et saisonniers — conditions de travail réelles",
+      "opposition entre le producteur et les prix imposés par la grande distribution",
+      "attachement à la terre et à la production directe"
+    ],
+    "tensionsTypiques": [
+      "récolte surabondante qui ne trouve pas de marché",
+      "maladie des plants qui détruit une saison",
+      "travailleurs saisonniers — conditions de logement et de paiement"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Maraîcher propriétaire",
+        "description": "Il voit les plants, pas les légumes. Il calcule la croissance, les risques, les marchés. La beauté d'une serre pleine lui est invisible — il voit les problèmes à venir."
+      },
+      {
+        "profil": "Travailleur saisonnier",
+        "description": "Il plie le dos depuis l'aube. La chaleur de la serre en été est épuisante. Il compte les heures, pas les légumes. Le travail est beau pour celui qui ne le fait pas."
+      },
+      {
+        "profil": "Client au marché",
+        "description": "Il voit les légumes beaux et propres sur l'étal. L'envers de la serre — les journées de douze heures, la boue, la chaleur — lui est invisible."
+      }
+    ],
+    "notesEditoriales": [
+      "L'exploitation maraîchère moderne est très différente de l'image romantique du potager — elle est industrielle dans son organisation même si artisanale dans ses outils.",
+      "Les travailleurs saisonniers sont une réalité sociale souvent absente de la fiction rurale — ils y ont leur place."
+    ]
+  },
+  {
+    "id": "etang-pisciculture",
+    "label": "Étang de pisciculture",
+    "type": "rural-travail",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "grands étangs rectangulaires creusés et aménagés",
+      "filets de tri tendus entre des pieux",
+      "bassins de grossissement séparés par taille de poissons",
+      "alimenteur automatique qui tourne à intervalles réguliers",
+      "vanne de vidange accessible depuis la berge",
+      "truites ou carpes visibles sous la surface en masse",
+      "équipement de pêche et de tri — épuisettes, caisses"
+    ],
+    "bruits": [
+      "alimenteur qui tourne — bruit mécanique régulier",
+      "eau qui s'agite à l'alimentation — des centaines de poissons",
+      "pompe à oxygène qui bourdonne",
+      "silence entre les alimentations — eau immobile"
+    ],
+    "odeurs": [
+      "eau de poissons — forte et particulière",
+      "algues et phytoplancton",
+      "aliment pour poissons — granulés secs et fades"
+    ],
+    "textures": [
+      "épuisette lourde de poissons qui se débattent",
+      "poisson glissant entre les mains lors du tri",
+      "eau froide si on y plonge les bras"
+    ],
+    "emotionsTypiques": [
+      "travail au rythme biologique des animaux",
+      "anxiété lors des pics de mortalité",
+      "satisfaction de la vente — le stock devient chiffre"
+    ],
+    "usagesNarratifs": [
+      "espace de travail solitaire propice à la réflexion",
+      "crise silencieuse — mortalité massive, maladie",
+      "confrontation entre tradition aquacole et réglementations modernes",
+      "lieu de pêche et de détente apparent, travail réel en dessous"
+    ],
+    "tensionsTypiques": [
+      "manque d'oxygène en été — mortalité en masse en une nuit",
+      "braconnage nocturne dans les étangs",
+      "rentabilité insuffisante face aux coûts"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Pisciculteur",
+        "description": "Il lit l'eau — sa couleur, sa transparence, ses bulles. Il sait si ses poissons vont bien avant de les voir. Le stress est invisible mais permanent."
+      },
+      {
+        "profil": "Client qui vient acheter",
+        "description": "L'étang est pour lui une boutique à ciel ouvert. Il choisit sa truite. Il ne voit pas le travail derrière la surface."
+      },
+      {
+        "profil": "Enfant qui pêche pour la première fois",
+        "description": "Les poissons sont nombreux et visibles. La canne n'est presque pas nécessaire. La capture est rapide et décevante — trop facile pour être un vrai souvenir."
+      }
+    ],
+    "notesEditoriales": [
+      "La pisciculture combine le rythme lent de l'aquaculture et l'anxiété de l'élevage — l'animal peut mourir massivement en une nuit sans cause visible.",
+      "L'eau d'un étang de pisciculture a une odeur très reconnaissable — forte et animale. Détail sensoriel précis à ne pas édulcorer."
+    ]
+  },
+  {
+    "id": "distillerie-rurale",
+    "label": "Distillerie ou alambic rural",
+    "type": "rural-travail",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "alambic en cuivre — col de cygne, chaudière, serpentin",
+      "feu de bois ou gaz sous la chaudière",
+      "bacs de fermentation qui ont travaillé — prunes, poires, marc",
+      "filet d'eau-de-vie qui coule dans le premier récipient",
+      "thermomètre plongé dans le serpentin de refroidissement",
+      "bouteilles alignées en attente de remplissage",
+      "camion du bouilleur de cru garé dans la cour quelques jours par an"
+    ],
+    "bruits": [
+      "glouglou régulier de la distillation",
+      "feu qui crépite sous la chaudière",
+      "goutte à goutte du distillat dans le récipient",
+      "conversation des hommes qui attendent — la distillation est longue"
+    ],
+    "odeurs": [
+      "alcool — vapeurs de tête et de queue mêlées",
+      "fruit fermenté — prune, poire, raisin selon la région",
+      "bois qui brûle"
+    ],
+    "textures": [
+      "cuivre de l'alambic — chaud, lisse, légèrement gras",
+      "eau-de-vie sur le bout du doigt — brûle immédiatement",
+      "sol humide et collant autour de l'alambic"
+    ],
+    "emotionsTypiques": [
+      "patience et anticipation — la distillation est lente",
+      "fierté d'un savoir-faire transmis et précis",
+      "convivialité masculine autour de la chaudière"
+    ],
+    "usagesNarratifs": [
+      "rite annuel communautaire ou familial",
+      "savoir-faire qui s'éteint avec une génération",
+      "lieu de confidence autour d'un verre du premier jet",
+      "alambic illégal — clandestinité et risque"
+    ],
+    "tensionsTypiques": [
+      "premier jet impropre à la consommation si mal séparé",
+      "contrôle des droits d'accise",
+      "accident si pression mal gérée"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Bouilleur de cru ou propriétaire de l'alambic",
+        "description": "Il connaît les étapes à l'oreille et au nez — les têtes qui doivent être écartées, le cœur qu'il garde, les queues qui retournent à la chaudière. C'est une science du corps."
+      },
+      {
+        "profil": "Voisin ou ami invité",
+        "description": "Il est là pour la compagnie autant que pour le résultat. La distillation est une excuse à la discussion longue autour du feu."
+      },
+      {
+        "profil": "Jeune qui hérite de l'alambic",
+        "description": "La tradition lui est tombée dessus. Il a regardé faire des dizaines de fois mais ne l'a jamais fait seul. La première fois, tout peut rater."
+      }
+    ],
+    "notesEditoriales": [
+      "La distillation est un rite autant qu'un processus — elle concentre les usages sociaux autour de l'attente, du feu et du partage.",
+      "L'odeur des vapeurs d'alcool mêlées de fruit fermenté est extrêmement précise et mémorable. À ne pas réduire à 'ça sentait fort'."
+    ]
+  },
+  {
+    "id": "pepiniere-rurale",
+    "label": "Pépinière rurale",
+    "type": "rural-travail",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "rangées de jeunes arbres en conteneurs ou en pleine terre",
+      "serre de multiplication — boutures sous brumisateur",
+      "étiquettes dans chaque plant — nom latin, date de semis",
+      "tuyaux d'irrigation qui serpentent entre les rangs",
+      "sol enrichi, sombre et meuble",
+      "tas de compost et de terreau dans un angle",
+      "outillage de greffage accroché dans l'abri"
+    ],
+    "bruits": [
+      "brumisateur intermittent — sifflement doux",
+      "oiseau dans les arbres — les grands sujets abritent des nids",
+      "arrosage manuel — bruit d'eau sur feuilles",
+      "silence relatif — travail de précision sans machine"
+    ],
+    "odeurs": [
+      "terre enrichie — compost et humus",
+      "sève des tailles fraîches",
+      "fleurs selon la saison des espèces présentes"
+    ],
+    "textures": [
+      "jeune plant fragile entre les doigts",
+      "terre riche et grasse sous les semelles",
+      "feuilles délicates des semis récents"
+    ],
+    "emotionsTypiques": [
+      "travail sur le temps long — les arbres plantés aujourd'hui ne sont pas pour aujourd'hui",
+      "précision et attention que les plantes imposent",
+      "satisfaction de la multiplication — un plant devient cent"
+    ],
+    "usagesNarratifs": [
+      "métaphore de la patience et de l'avenir",
+      "transmission d'un savoir botanique et horticole",
+      "espace de calme propice à la réflexion",
+      "lieu de travail pour un personnage qui cherche à reconstruire"
+    ],
+    "tensionsTypiques": [
+      "gel tardif qui tue une saison de semis",
+      "maladie qui se propage d'un plant à l'autre",
+      "client qui commande ce qu'on n'a pas — et la saison de plantation qui passe"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Pépiniériste",
+        "description": "Il voit les défauts avant les qualités — le plant qui penche, la feuille qui jaunit. Son regard est diagnostic et planificateur."
+      },
+      {
+        "profil": "Client amateur",
+        "description": "Il cherche un arbre pour son jardin, ne sait pas quel. Les rangées l'impressionnent. Il finit par en choisir un en se fiant à son apparence, pas à ses besoins."
+      },
+      {
+        "profil": "Apprenti stagiaire",
+        "description": "Il apprend à distinguer les espèces, à greffer sans tuer, à lire les étiquettes. Chaque erreur abîme du vivant — c'est une responsabilité nouvelle."
+      }
+    ],
+    "notesEditoriales": [
+      "La pépinière est un lieu de l'avenir dans le présent — tout ce qui y pousse est destiné à partir. Ce départ des plants est narrativement exploitable.",
+      "Le travail de greffage est une compétence rare et précise — la décrire demande une recherche sur les gestes réels."
+    ]
+  },
+  {
+    "id": "cooperative-agricole",
+    "label": "Coopérative agricole",
+    "type": "rural-travail",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "grand hangar ouvert sur l'avant, chargements en cours",
+      "comptoir de caisse et d'accueil sommaire",
+      "rayonnages de produits agricoles — semences, engrais, produits phytosanitaires",
+      "petits matériels exposés — outils, clôtures, abreuvoirs",
+      "tracteurs ou remorques que les adhérents viennent récupérer",
+      "tableau des cours des céréales affiché sur un pan de mur",
+      "odeur caractéristique de magasin agricole"
+    ],
+    "bruits": [
+      "camion qui charge ou décharge",
+      "conversations de comptoir — les nouvelles du pays s'échangent là",
+      "téléphone — les commandes s'y passent encore par téléphone",
+      "radio au fond — souvent Radio Bleue"
+    ],
+    "odeurs": [
+      "engrais et produits phytosanitaires — chimique et fort",
+      "grain et semences",
+      "huile et caoutchouc des équipements"
+    ],
+    "textures": [
+      "sacs de semences lourds et rigides",
+      "catalogue papier épais et illustré",
+      "sol en béton brut, taches grasses"
+    ],
+    "emotionsTypiques": [
+      "espace de sociabilité masculine rurale — peu de femmes",
+      "tension autour des prix et des décisions collectives",
+      "sentiment d'appartenance à un réseau d'entraide"
+    ],
+    "usagesNarratifs": [
+      "lieu d'information — tout le monde sait ce qui se passe",
+      "confrontation entre agriculteurs sur les pratiques ou les prix",
+      "espace où un conflit familial déborde en public",
+      "révélateur des hiérarchies sociales rurales"
+    ],
+    "tensionsTypiques": [
+      "décision collective qui désavantage certains membres",
+      "difficultés financières de la coopérative",
+      "conflit entre anciens et nouveaux agriculteurs"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur adhérent de longue date",
+        "description": "Il connaît tous les employés par leur prénom. La coopérative est son fournisseur, son intermédiaire, son réseau social. Il y passe souvent sans vraiment acheter."
+      },
+      {
+        "profil": "Jeune agriculteur qui reprend",
+        "description": "Il ne connaît pas encore tous les codes. Il demande conseil, parfois mal reçu. Il évalue si la coopérative est un allié ou un obstacle."
+      },
+      {
+        "profil": "Étranger au milieu agricole",
+        "description": "Il est hors de son monde. Les produits, les sigles, les prix en unités étranges. Les conversations autour de lui sont en langage agricole. Il attend qu'on le voie."
+      }
+    ],
+    "notesEditoriales": [
+      "La coopérative est un espace social rural aussi important que le café — on y va autant pour se voir que pour acheter.",
+      "Le tableau des cours des céréales est un détail réaliste fort — les agriculteurs y lisent leur revenu de l'année."
+    ]
+  },
+  {
+    "id": "abattoir-rural",
+    "label": "Abattoir rural ou tuerie de village",
+    "type": "rural-travail",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "bâtiment bas et fermé, souvent à l'écart du bourg",
+      "couloir de contention pour les animaux avant l'entrée",
+      "sol en pente avec rigoles et drainage central",
+      "crochets métalliques en rangée sous le plafond",
+      "bac de récupération du sang",
+      "carreaux blancs à hauteur d'homme sur les murs",
+      "chambre froide accessible par une lourde porte isolée"
+    ],
+    "bruits": [
+      "animaux dans le couloir — cris de détresse selon l'espèce",
+      "silence bref au moment de l'abattage",
+      "bruit des chaînes de treuil",
+      "eau chaude pour le nettoyage — jets puissants"
+    ],
+    "odeurs": [
+      "sang — odeur ferrugineuse très forte",
+      "viscères — odeur animale intense",
+      "désinfectant après le nettoyage — chlore qui ne couvre pas tout"
+    ],
+    "textures": [
+      "sol glissant — sang et eau mêlés",
+      "carreaux froids et lisses",
+      "métal froid des crochets et des outils"
+    ],
+    "emotionsTypiques": [
+      "malaise ou neutralité professionnelle selon l'habitude",
+      "rapport brutal à la mort animale comme fait ordinaire",
+      "respect paradoxal de l'ouvrier pour l'animal"
+    ],
+    "usagesNarratifs": [
+      "scène de révélation du rapport humain à la mort",
+      "espace qui contraste avec l'idéalisation de la campagne",
+      "lieu de travail difficile et peu visible",
+      "confrontation entre végétarien et éleveur"
+    ],
+    "tensionsTypiques": [
+      "animal qui résiste ou s'échappe",
+      "erreur de procédure — mort non instantanée",
+      "fermeture par les normes sanitaires — fin d'un mode de vie"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Boucher ou abatteur de métier",
+        "description": "Il fait son travail avec précision et rapidité. La mort de l'animal est un acte technique, pas une émotion. Il mange de la viande avec appétit."
+      },
+      {
+        "profil": "Éleveur qui amène ses bêtes",
+        "description": "Le lien avec l'animal est réel mais ne l'empêche pas de le vendre. La distance professionnelle est apprise, pas naturelle. Certains n'entrent pas dans le bâtiment."
+      },
+      {
+        "profil": "Premier visiteur",
+        "description": "L'odeur stoppe tout avant même de voir. S'il entre malgré tout, la réalité de la viande lui devient irréfutable. Ce qu'il voit ne s'efface pas."
+      }
+    ],
+    "notesEditoriales": [
+      "L'abattoir est l'un des lieux les plus tabous de la fiction contemporaine — son évocation réaliste demande une précision qui évite à la fois l'angélisme et le voyeurisme.",
+      "Le silence qui suit l'abattage est un détail sonore très précis — à utiliser."
+    ]
+  }
+]

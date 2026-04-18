@@ -1,0 +1,652 @@
+[
+  {
+    "id": "cour-de-ferme",
+    "label": "Cour de ferme",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "espace irrégulier entre la maison et les bâtiments agricoles",
+      "sol en béton fissurée ou en terre battue compacte",
+      "fumier tassé dans un coin avec sa palette de drainage",
+      "tracteur garé là en permanence, moteur tiède",
+      "chien à la chaîne ou en liberté, qui évalue chaque arrivant",
+      "chat qui traverse sans se presser",
+      "outils appuyés contre les murs — fourches, pelles, seaux"
+    ],
+    "bruits": [
+      "animaux invisibles depuis les bâtiments — vaches, cochons",
+      "tracteur qui démarre ou s'arrête",
+      "chaîne du chien qui racle le béton",
+      "voix depuis la maison ou les granges"
+    ],
+    "odeurs": [
+      "fumier — forte et permanente, variable selon le vent",
+      "diesel et huile de moteur",
+      "paille et grains selon la saison"
+    ],
+    "textures": [
+      "béton fissurée et inégale sous les semelles",
+      "boue et fumier dans les zones de passage animal",
+      "métal froid des outils"
+    ],
+    "emotionsTypiques": [
+      "impression d'entrer dans un espace privé sans invitation",
+      "activité constante — jamais vraiment vide ni silencieux",
+      "territoire défini par le travail, pas par l'apparence"
+    ],
+    "usagesNarratifs": [
+      "espace de première confrontation entre un extérieur et le monde agricole",
+      "lieu de conflit familial sur fond de travail quotidien",
+      "centre d'une exploitation qui peut aller bien ou très mal",
+      "point de départ ou d'arrivée d'une action liée à la campagne"
+    ],
+    "tensionsTypiques": [
+      "chien imprévisible pour les étrangers",
+      "espace de travail dangereux — machines, animaux",
+      "hiérarchie invisible mais stricte de qui y entre librement"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur qui y vit",
+        "description": "La cour est le centre de son monde. Il la traverse vingt fois par jour sans la regarder. Son désordre est un ordre qu'il est seul à comprendre."
+      },
+      {
+        "profil": "Visiteur urbain",
+        "description": "L'odeur arrive avant le visuel. Il hésite sur le seuil, cherche où poser les pieds. Le chien l'évalue. Il se sent de trop dans un lieu qui n'a pas été pensé pour lui."
+      },
+      {
+        "profil": "Enfant de la ferme",
+        "description": "La cour est son terrain de jeu et de travail. Il sait où ne pas aller, comment s'approcher du chien, où se cacher. C'est son monde plus que celui de ses parents."
+      }
+    ],
+    "notesEditoriales": [
+      "La cour de ferme dit immédiatement si l'exploitation prospère ou décline — l'état du matériel, l'entretien des bâtiments, la quantité de choses abandonnées.",
+      "L'entrée dans une cour de ferme est un acte social chargé : on s'annonce, le chien prévient, on attend qu'on vous autorise à avancer."
+    ]
+  },
+  {
+    "id": "jardin-potager-rural",
+    "label": "Jardin potager",
+    "type": "rural-lieu-de-vie",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "rangs de légumes alignés avec leurs piquets et ficelles",
+      "tuteurs de bambou pour tomates et haricots",
+      "serre en plastique transparent, condensation à l'intérieur",
+      "arrosoir rouillé posé sur le bord d'un rang",
+      "mauvaises herbes dans les interstices malgré la vigilance",
+      "sol meuble et sombre — terreau travaillé",
+      "filets de protection contre les oiseaux"
+    ],
+    "bruits": [
+      "silence horticole — on entend ses propres gestes",
+      "oiseaux attirés par les vers retournés",
+      "bruit de l'arrosage — gouttes sur les feuilles",
+      "bourdons qui travaillent les fleurs voisines"
+    ],
+    "odeurs": [
+      "tomate — feuilles vertes, odeur âcre et végétale",
+      "terre retournée — humus frais",
+      "herbes aromatiques si présentes — basilic, thym"
+    ],
+    "textures": [
+      "sol meuble qui cède sous les doigts",
+      "feuilles de tomate — velues et légèrement collantes",
+      "courgette — peau fraîche et légèrement rêche"
+    ],
+    "emotionsTypiques": [
+      "satisfaction du travail patient et visible",
+      "frustration des mauvaises herbes qui reviennent toujours",
+      "lenteur apaisante du geste horticole"
+    ],
+    "usagesNarratifs": [
+      "espace de confidence — on parle en travaillant, sans se regarder",
+      "révélateur du caractère — l'ordre ou le désordre du potager dit quelque chose",
+      "lieu de transmission entre générations",
+      "microcosme de contrôle dans une vie qui peut sembler incontrôlable"
+    ],
+    "tensionsTypiques": [
+      "sécheresse ou gel qui détruit le travail de mois",
+      "conflit sur qui fait quoi dans le jardin partagé",
+      "jardin comme dernier lien avec quelqu'un de mort"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Jardinier passionné",
+        "description": "Il voit l'état de chaque plant, les signes de maladie, les avancées. Le jardin est une conversation permanente avec le temps et la nature."
+      },
+      {
+        "profil": "Héritier qui doit s'en occuper",
+        "description": "Il ne sait pas trop quoi faire. Les rangs de son père ou de sa mère lui imposent une continuité qu'il n'a pas choisie. Arracher une mauvaise herbe est aussi arracher quelque chose d'autre."
+      },
+      {
+        "profil": "Enfant",
+        "description": "C'est là qu'on lui a donné son premier carré. Il y a planté des radis — les plus faciles. Il vient les vérifier tous les jours, trop souvent."
+      }
+    ],
+    "notesEditoriales": [
+      "Le potager impose la lenteur — les légumes poussent à leur rythme. Narrativement, c'est un espace où le temps long contraste avec l'urgence du récit.",
+      "L'état d'un jardin dit l'état d'un personnage : le jardin de quelqu'un qui va mal est en friche ou surcontrôlé."
+    ]
+  },
+  {
+    "id": "cuisine-paysanne",
+    "label": "Cuisine paysanne",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "olfactif-thermique",
+    "elements": [
+      "grande table centrale en bois épais, rayée d'années de repas",
+      "cuisinière à bois ou ancienne cuisinière à gaz — toujours allumée en hiver",
+      "vaisselle sur l'égouttoir jamais entièrement rangée",
+      "calendrier des postes sur le mur, plusieurs années de retard",
+      "naphe plastifiée sur la table — fleurs ou carreaux",
+      "bouquet d'herbes séchées pendu au plafond",
+      "fenêtre donnant sur la cour — elle voit tout ce qui y passe"
+    ],
+    "bruits": [
+      "crépitement du feu dans la cuisinière",
+      "radio allumée en permanence — France Bleu ou variété",
+      "vaisselle qui claque dans l'évier",
+      "chaise qui racle le carrelage"
+    ],
+    "odeurs": [
+      "soupe en permanence — légumes, os, herbes",
+      "bois qui brûle",
+      "café trop longtemps sur le feu"
+    ],
+    "textures": [
+      "table rugueuse et chaude sous les paumes",
+      "carrelage froid et inégal sous les pieds",
+      "bols lourds et épais"
+    ],
+    "emotionsTypiques": [
+      "chaleur familiale — lieu de rassemblement obligatoire",
+      "sentiment d'être dans le centre de la maison",
+      "légère oppression si l'atmosphère familiale est lourde"
+    ],
+    "usagesNarratifs": [
+      "scène de repas comme révélateur des tensions familiales",
+      "lieu de confidence à mi-voix pendant que quelqu'un cuisine",
+      "centre de décision — tout se discute à cette table",
+      "espace de transmission orale — histoires, recettes, secrets"
+    ],
+    "tensionsTypiques": [
+      "silence à table qui dit ce qu'on ne dit pas",
+      "discussion qui dégénère autour du repas",
+      "visiteur qui rompt la routine de la table"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Enfant de la maison",
+        "description": "La cuisine est le centre du monde. La chaleur, les odeurs, la voix de la grand-mère. Tout s'y passe, tout s'y décide. C'est le lieu le plus sûr qu'il connaisse."
+      },
+      {
+        "profil": "Conjoint arrivé de la ville",
+        "description": "La table est trop grande, la radio trop forte, la soupe trop présente. Il s'adapte ou résiste. La cuisine est le territoire de l'autre."
+      },
+      {
+        "profil": "Visiteur",
+        "description": "On lui propose immédiatement quelque chose — café, soupe, gâteau. Refuser est mal perçu. La cuisine impose sa propre hospitalité."
+      }
+    ],
+    "notesEditoriales": [
+      "La cuisine paysanne est le contraire de la cuisine design — elle est fonctionnelle, accumulée, chargée de temps. Éviter la description nostalgique béate.",
+      "La radio toujours allumée est un détail réaliste fort : elle crée un fond sonore permanent qui dit que l'isolation est compensée par le lien médiatique."
+    ]
+  },
+  {
+    "id": "grenier-de-ferme",
+    "label": "Grenier de ferme",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "plancher de bois épais aux lattes disjointes",
+      "lucarne unique qui donne une lumière oblique",
+      "grain stocké dans des bacs ou des sacs depuis des générations",
+      "trapeau ou échelle pour monter depuis la grange en dessous",
+      "foin en vrac dans un angle — pour l'hiver ou pour les animaux",
+      "vieilles choses remontées là et oubliées",
+      "toile de jute ou de bâche sur les stocks protégés"
+    ],
+    "bruits": [
+      "plancher qui craque et résonne à chaque pas",
+      "souris ou rats dans les recoins",
+      "vent dans la toiture — différent depuis dedans",
+      "pigeons dans les avant-toits"
+    ],
+    "odeurs": [
+      "grain — odeur sèche et poussiéreuse",
+      "foin — chaud et sucré si récent",
+      "bois ancien et poussière"
+    ],
+    "textures": [
+      "plancher élastique sous les pieds — les lattes bougent",
+      "grain entre les doigts — froid et fluide",
+      "poutres rugueuses et épaisses"
+    ],
+    "emotionsTypiques": [
+      "sentiment de richesse accumulée et stockée",
+      "légère inquiétude des espaces mal éclairés",
+      "impression de lever le couvercle de quelque chose"
+    ],
+    "usagesNarratifs": [
+      "cache — personne ne monte sans raison",
+      "lieu de découverte de quelque chose d'oublié",
+      "espace de jeu pour les enfants qui bravent l'interdit",
+      "scène d'attente ou de surveillance depuis la lucarne"
+    ],
+    "tensionsTypiques": [
+      "plancher qui peut céder sous le poids",
+      "trappe difficile à fermer depuis l'intérieur",
+      "feu de grain — catastrophique et difficile à éteindre"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur",
+        "description": "Il monte vérifier les stocks, mesure la hauteur du grain, vérifie les signes de rongeurs. C'est une réserve de valeur qu'il surveille."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Il grimpe l'échelle à quatre pattes. Le grenier est un territoire interdit qui lui appartient dès qu'il y est seul. Il saute dans le grain, se cache dans le foin."
+      },
+      {
+        "profil": "Personnage qui cherche quelque chose",
+        "description": "Les caisses et les sacs s'accumulent sans ordre logique. Ce qu'il cherche pourrait être n'importe où, ou ne plus être là du tout."
+      }
+    ],
+    "notesEditoriales": [
+      "Le grenier de ferme est distinct du grenier de maison bourgeoise : moins de mémoire familiale, plus de stock vivrier. Les deux ont une fonction narrative de conservation.",
+      "La lucarne est un motif narratif précis : un personnage qui regarde à travers est entre deux mondes — dedans, mais regardant dehors."
+    ]
+  },
+  {
+    "id": "cellier",
+    "label": "Cellier ou cave paysanne",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "olfactif-thermique",
+    "elements": [
+      "pièce fraîche et sombre attenante à la cuisine ou en sous-sol",
+      "étagères en bois chargées de pots, de conserves, de bocaux",
+      "amphores ou bonbonnes de vin faites maison",
+      "pommes de terre en vrac sur le sol ou dans des caisses",
+      "jambons ou saucissons pendus si région charcutière",
+      "fromages couverts d'un torchon sur une claie",
+      "pots de confiture alignés — étiquetés à la main"
+    ],
+    "bruits": [
+      "silence presque absolu — aucune vibration",
+      "goutte d'eau si humidité excessive",
+      "bouchon de fermentation du vin qui fait des bulles"
+    ],
+    "odeurs": [
+      "pomme de terre — odeur de terre et d'amidon",
+      "vinaigre des conserves",
+      "vin en fermentation — alcool fruité",
+      "fromage selon la saison et le stade d'affinage"
+    ],
+    "textures": [
+      "fraîcheur constante même en été",
+      "humidité légère dans l'air",
+      "bocaux froids et lisses dans les mains"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'abondance préservée et contrôlée",
+      "satisfaction de l'autonomie alimentaire",
+      "légère inquiétude de ce qui peut manquer ou tourner"
+    ],
+    "usagesNarratifs": [
+      "révélateur de l'économie de la famille — ce qu'il y a ou manque",
+      "espace d'inventaire après une mort — hériter d'une cave",
+      "cache naturel dans une maison",
+      "espace de conversation à voix basse, à l'écart"
+    ],
+    "tensionsTypiques": [
+      "conserves avariées — odeur qui dit que quelque chose a raté",
+      "dispute sur qui a le droit d'y prendre",
+      "réserves qui s'épuisent avant la prochaine récolte"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Maîtresse de maison",
+        "description": "Elle connaît chaque bocal par position. La cave est sa comptabilité silencieuse — elle sait ce qui rentre et ce qui sort, ce qu'il reste pour l'hiver."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Le cellier est frais, sombre, interdit. Les conserves sont des mystères. La confiture de sa grand-mère est là, sur l'étagère du haut. Il ne peut pas l'atteindre."
+      },
+      {
+        "profil": "Héritier qui vide la maison",
+        "description": "La cave dit la vie de quelqu'un — ses habitudes, ses économies, ses saisons. Vider les bocaux d'une morte est un geste qui ne ressemble à rien d'autre."
+      }
+    ],
+    "notesEditoriales": [
+      "Le cellier est l'antichambre de l'hiver — il prépare ce qu'on ne pourra pas avoir. Son abondance ou sa maigreur dit l'état de la maison.",
+      "Les bocaux étiquetés à la main sont un détail narratif puissant : l'écriture d'un mort sur une étiquette de confiture."
+    ]
+  },
+  {
+    "id": "abreuvoir-rural",
+    "label": "Abreuvoir de village",
+    "type": "rural-lieu-public",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "bassin de pierre large et peu profond au centre du bourg",
+      "eau courante depuis une fontaine ou une arrivée en pipe",
+      "algues vertes sur les parois immergées",
+      "débordement qui ruisselle sur les pavés alentour",
+      "pierre usée et polie au bord — des siècles de frottement",
+      "mousse verte entre les joints de pierre",
+      "espace ouvert autour — les attelages devaient s'y approcher"
+    ],
+    "bruits": [
+      "eau qui coule en permanence dans le bassin",
+      "pigeons qui boivent en s'inclinant",
+      "voix d'enfants qui y jouent en été",
+      "débordement qui fait un bruit constant sur les pavés"
+    ],
+    "odeurs": [
+      "eau fraîche et légèrement calcaire",
+      "algues — odeur aquatique",
+      "pavés mouillés — odeur de pierre et d'eau froide"
+    ],
+    "textures": [
+      "pierre froide et lisse sous les mains",
+      "eau froide même en été",
+      "algues glissantes sur les parois"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'un autre temps — plus rien ne s'y abreuve vraiment",
+      "nostalgie d'une fonction disparue",
+      "permanence rassurante d'un point fixe dans le bourg"
+    ],
+    "usagesNarratifs": [
+      "point de repère géographique et temporel du village",
+      "lieu de rencontre neutre pour les personnages",
+      "symbole d'un monde agricole révolu",
+      "espace de jeu pour les enfants — l'eau appelle"
+    ],
+    "tensionsTypiques": [
+      "projet de suppression pour agrandir le parking",
+      "eau qui tarirait en sécheresse",
+      "point de rassemblement dans une situation d'urgence"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Vieux habitant",
+        "description": "Il se souvient quand les chevaux s'y abreuvaient. L'abreuvoir est un témoin de ce qui a disparu. Il le regarde chaque matin sans y penser."
+      },
+      {
+        "profil": "Enfant",
+        "description": "L'eau qui déborde fait des ruisseaux sur les pavés. Il y lance des bateaux en écorce. Le bassin est à sa hauteur — enfin quelque chose à sa mesure."
+      },
+      {
+        "profil": "Visiteur",
+        "description": "Il s'arrête, remarque la date gravée dans la pierre, lit le nom du donateur. Pour lui, l'abreuvoir est un objet patrimonial. Pour le village, c'est le bruit de l'eau."
+      }
+    ],
+    "notesEditoriales": [
+      "L'abreuvoir est un marqueur de centralité villageoise — il se trouve au cœur du bourg. Sa présence dit quelque chose de l'organisation spatiale du village.",
+      "Son eau qui coule en permanence est un son de fond structurant : on ne l'entend plus quand on y vit, on l'entend à nouveau quand on revient après un long voyage."
+    ]
+  },
+  {
+    "id": "puits-rural",
+    "label": "Puits de jardin ou de cour",
+    "type": "rural-lieu-de-vie",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "margelle de pierre circulaire, souvent plus haute que les genoux",
+      "treuil en bois ou en métal avec sa chaîne ou sa corde",
+      "seau en zinc accroché au bout de la chaîne",
+      "toit de tuile ou de zinc au-dessus",
+      "mousse et lichens sur les pierres nord de la margelle",
+      "eau noire visible très loin en bas — si on se penche",
+      "fraîcheur qui monte depuis le fond même en été"
+    ],
+    "bruits": [
+      "chaîne qui claque en descendant le seau",
+      "seau qui heurte la paroi pendant la descente",
+      "eau qui éclabousse quand le seau touche le fond",
+      "treuil qui grince en remontant"
+    ],
+    "odeurs": [
+      "fraîcheur minérale — l'eau froide du fond monte",
+      "pierre humide et mousseuse",
+      "eau légèrement ferrugineuse selon le terrain"
+    ],
+    "textures": [
+      "margelle froide sous les mains",
+      "corde ou chaîne rêche et mouillée",
+      "seau froid et lourd une fois plein"
+    ],
+    "emotionsTypiques": [
+      "rapport primitif à l'eau — on tire ce qu'on va boire",
+      "fascination du fond sombre et inaccessible",
+      "légère inquiétude du vide vertical"
+    ],
+    "usagesNarratifs": [
+      "lieu où l'on jette ou tombe quelque chose qu'on ne veut plus",
+      "charge symbolique forte du puits comme accès aux profondeurs",
+      "moment de récupération de l'eau comme geste quotidien révolu",
+      "espace de confidence — la voix résonne différemment près du puits"
+    ],
+    "tensionsTypiques": [
+      "puits sec en été — la corde descend sans trouver l'eau",
+      "objet ou animal tombé au fond",
+      "eau contaminée — invisible à l'œil"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Propriétaire de la maison",
+        "description": "Il ne s'en sert plus vraiment — il y a l'eau courante. Mais il le garde, le fait nettoyer régulièrement. C'est là depuis cent cinquante ans."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Il se penche trop, cherche à voir le fond, jette des pierres pour entendre le bruit de l'impact. Les adultes le rappellent à distance."
+      },
+      {
+        "profil": "Personnage en situation primitive",
+        "description": "Plus d'eau courante — une panne, une catastrophe. Le puits redevient essentiel. Il tire maladroitement, mouille ses vêtements, perd le seau. L'eau est précieuse."
+      }
+    ],
+    "notesEditoriales": [
+      "Le puits est l'un des symboles les plus chargés de la littérature — ne pas l'utiliser naïvement. Sa profondeur est métaphorique autant que réelle.",
+      "L'eau du puits est froide même en été — ce contraste thermique est un détail physique mémorable pour un personnage qui y plonge les mains."
+    ]
+  },
+  {
+    "id": "remise-rurale",
+    "label": "Remise et atelier rural",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "espace en bois ou en parpaing attenant à la maison",
+      "outils accrochés au mur selon un ordre logique invisible",
+      "étau vissé sur un établi de bois épais",
+      "bidon d'huile et de carburant dans un angle",
+      "vieille voiture ou moto en cours de réparation",
+      "ampoule nue au plafond — lumière dure et insuffisante",
+      "sol en terre ou en béton couvert de taches d'huile"
+    ],
+    "bruits": [
+      "radio de chantier — France Info ou match de foot",
+      "bruit métallique des outils sur le métal",
+      "perceuse ou meuleuse par intermittence",
+      "silence de concentration entre les opérations"
+    ],
+    "odeurs": [
+      "huile de moteur et graisse — forte et caractéristique",
+      "bois coupé si travail du bois",
+      "solvant ou white-spirit selon le travail en cours"
+    ],
+    "textures": [
+      "établi épais et solide sous les paumes",
+      "outils froids et lourds",
+      "sol gras et légèrement collant"
+    ],
+    "emotionsTypiques": [
+      "concentration du travail manuel — le corps pense à la place du cerveau",
+      "territoire personnel presque sacré pour celui qui y travaille",
+      "sentiment d'autosuffisance et de compétence"
+    ],
+    "usagesNarratifs": [
+      "espace de confidence entre père et fils pendant une réparation",
+      "lieu de construction d'un projet secret",
+      "retraite masculine ou féminine hors du monde de la maison",
+      "révélateur du caractère — ordre ou chaos de la remise"
+    ],
+    "tensionsTypiques": [
+      "accident de travail — outil qui dérape, pièce qui cède",
+      "intrusion non souhaitée dans ce territoire",
+      "projet de réparation qui révèle une panne plus grave que prévue"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Propriétaire qui y travaille",
+        "description": "Il sait où est chaque outil dans l'obscurité. L'odeur d'huile lui est neutre. La remise est son espace de compétence absolue — ici, il maîtrise."
+      },
+      {
+        "profil": "Conjoint qui n'y entre jamais",
+        "description": "Il y a une porte fermée entre la maison et cet espace. Ce qui s'y passe est inconnu. L'odeur qui en sort est étrangère."
+      },
+      {
+        "profil": "Enfant initié",
+        "description": "On lui a donné un outil à tenir. C'est un geste d'inclusion dans le monde de l'adulte. Il ne comprend pas encore, mais il tient l'outil correctement."
+      }
+    ],
+    "notesEditoriales": [
+      "La remise est un espace de compétence et de territorialité — y entrer sans permission est une transgression non dite mais réelle.",
+      "Le désordre apparent de la remise est souvent un ordre intérieur — une chose hors de sa place se remarque immédiatement par son propriétaire."
+    ]
+  },
+  {
+    "id": "poulailler",
+    "label": "Poulailler",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "olfactif-sonore",
+    "elements": [
+      "petite construction basse en bois ou en parpaing",
+      "grillage qui court autour du parcours extérieur",
+      "perchoirs intérieurs en bois à différentes hauteurs",
+      "pondoirs remplis de paille dans les angles sombres",
+      "auge à grain et abreuvoir en plastique",
+      "sol couvert de fientes séchées et de paille",
+      "trappe de sortie vers le parcours extérieur"
+    ],
+    "bruits": [
+      "gloussements permanents et querelles de basse-cour",
+      "cri du coq — à l'aube et à d'autres moments imprévisibles",
+      "battements d'ailes lors des disputes",
+      "son d'alarme si prédateur perçu"
+    ],
+    "odeurs": [
+      "fientes — forte et caractéristique, impossible à ignorer",
+      "paille humide et grain fermenté",
+      "plumes — odeur animale chaude"
+    ],
+    "textures": [
+      "plumes des poules — douces puis résistantes si elles se débattent",
+      "sol collant de fientes et de paille",
+      "œufs frais — chauds et lisses depuis le pondoir"
+    ],
+    "emotionsTypiques": [
+      "activité animale constante qui étourdit les non-initiés",
+      "satisfaction de trouver un œuf dans le pondoir",
+      "inconfort de l'odeur pour ceux qui n'y sont pas habitués"
+    ],
+    "usagesNarratifs": [
+      "tâche quotidienne révélatrice du rapport au monde rural",
+      "abattage d'une poule — acte concret de la mort d'un animal familier",
+      "prédateur entré la nuit — découverte du massacre au matin",
+      "geste enfantin de ramassage des œufs"
+    ],
+    "tensionsTypiques": [
+      "renard ou fouine qui trouve l'accès — carnage nocturne",
+      "poule malade qui contaminerait les autres",
+      "décision d'abattre une poule que l'enfant aimait"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Éleveur habitué",
+        "description": "Il entre sans hésiter, saisit les poules si nécessaire, vérifie les pondoirs rapidement. L'odeur et le bruit sont un fond neutre de sa vie quotidienne."
+      },
+      {
+        "profil": "Visiteur urbain",
+        "description": "L'odeur l'arrête à l'entrée. Les poules qui courent vers lui le font reculer. Il ne sait pas où mettre les pieds. Il reste près de la porte."
+      },
+      {
+        "profil": "Enfant qui a grandi avec",
+        "description": "Il a un nom pour chaque poule. Il sait laquelle est méchante, laquelle pond régulièrement. L'abattage d'une de ses préférées est sa première leçon sur la mort."
+      }
+    ],
+    "notesEditoriales": [
+      "Le poulailler est l'un des espaces agricoles les plus concrets pour représenter la vie animale et la relation à la mort ordinaire.",
+      "L'œuf ramassé chaud dans le pondoir est une sensation physique précise et mémorable — à ne pas négliger."
+    ]
+  },
+  {
+    "id": "bois-de-chauffage",
+    "label": "Bois de chauffage et bûcher",
+    "type": "rural-lieu-de-vie",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "stères de bois alignées avec soin ou empilées en désordre",
+      "hache plantée dans un rondin au centre de l'espace",
+      "copeaux et éclats de bois sur le sol",
+      "rondin de fendage — épais, stable, marqué par des milliers de coups",
+      "odeur de sève selon l'essence — chêne, charme, bouleau",
+      "abri de bois souvent construit au-dessus des stères",
+      "scie circulaire ou à main si bois non encore débité"
+    ],
+    "bruits": [
+      "coup de hache — claquement sec si bois sec, sourd si vert",
+      "bûche qui tombe après la fente",
+      "silence entre les coups — évaluation, positionnement",
+      "craquement du bois sec qu'on empile"
+    ],
+    "odeurs": [
+      "bois frais coupé — sève et cellulose",
+      "bois sec — odeur neutre et sèche",
+      "copeaux — odeur douce selon l'essence"
+    ],
+    "textures": [
+      "bûche lourde et rugueuse dans les bras",
+      "copeaux fins et secs sur les mains",
+      "hanche du manche de hache — lisse et usé par les paumes"
+    ],
+    "emotionsTypiques": [
+      "satisfaction physique du travail qui produit quelque chose de visible",
+      "rythme méditatif de la répétition — corps occupé, esprit libre",
+      "urgence si les réserves sont faibles avant l'hiver"
+    ],
+    "usagesNarratifs": [
+      "scène de confidence pendant le travail — on parle sans se regarder",
+      "activité physique qui accompagne une tension ou une décision",
+      "révélateur du rapport au corps et au travail manuel",
+      "métaphore de préparation à ce qui vient — l'hiver, l'épreuve"
+    ],
+    "tensionsTypiques": [
+      "réserves insuffisantes — bois vert qui ne chauffera pas",
+      "blessure au cours du fendage",
+      "bois volé dans le bûcher d'un voisin"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant qui se chauffe au bois",
+        "description": "Le bûcher est une comptabilité de survie — il évalue les stères restantes, calcule les semaines. Faire son bois est une obligation, pas un choix."
+      },
+      {
+        "profil": "Personnage qui fend du bois pour la première fois",
+        "description": "Le premier coup manque. Le deuxième enfonce la hache sans fendre. Il apprend que le bois a un fil, qu'il faut viser les fissures. C'est une leçon physique."
+      },
+      {
+        "profil": "Personnage qui fend du bois sous tension",
+        "description": "La hache dit ce que les mots ne disent pas. Le rythme s'accélère. Les coups sont plus forts que nécessaire. Le bois finit par céder. Le corps se calme."
+      }
+    ],
+    "notesEditoriales": [
+      "Fendre du bois est l'une des activités physiques les plus utilisées pour représenter la tension émotionnelle — le geste extrêmement répandu dans la littérature rurale mérite d'être dosé.",
+      "La stère de bois bien alignée dit quelque chose du caractère de son propriétaire : le rapport à l'ordre, à la prévoyance, à l'esthétique du travail."
+    ]
+  }
+]

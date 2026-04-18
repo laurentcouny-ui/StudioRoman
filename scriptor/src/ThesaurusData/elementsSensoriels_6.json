@@ -1,0 +1,532 @@
+[
+  {
+    "id": "texture-beton-rugueux",
+    "label": "Béton rugueux sous les mains",
+    "categorie": "tactile",
+    "definitionCourte": "Sensation de surface dure, granuleuse et légèrement abrasive du béton brut au contact des paumes ou des doigts — texture qui griffe sans couper, qui ancre dans le réel.",
+    "qualite": "Abrasif, froid au premier contact, légèrement poreux — une texture qui résiste et qui marque la peau sans la blesser.",
+    "associationsNarratives": [
+      "mur d'un parking souterrain ou d'une cave",
+      "sol d'un escalier d'immeuble social",
+      "personnage qui s'appuie contre un mur pour ne pas tomber",
+      "scène de violence ou de contrainte physique",
+      "espace urbain dégradé ou abandonné",
+      "cellule, salle d'interrogatoire ou espace d'enfermement",
+      "construction inachevée, chantier"
+    ],
+    "emotionsAssociees": [
+      "sentiment d'emprisonnement ou de contrainte",
+      "ancrage brutal dans la réalité",
+      "résistance ou refus de céder",
+      "vulnérabilité physique",
+      "solitude dans un espace hostile",
+      "fatigue qui cherche un appui"
+    ],
+    "memoires": [
+      "cours de récréation d'école, chutes et genoux écorchés",
+      "espaces de jeux d'enfance dans des environnements urbains durs",
+      "expériences d'enfermement ou de confinement",
+      "travaux manuels ou situation de survie"
+    ],
+    "usagesTypiques": [
+      "ancrer physiquement un personnage dans un espace hostile",
+      "signifier la contrainte ou l'enfermement par le corps",
+      "créer un contraste avec des espaces doux ou protégés",
+      "marquer un moment de chute ou d'effondrement physique",
+      "signaler la pauvreté ou la dureté d'un environnement",
+      "ancrer une scène d'action ou de violence dans le concret"
+    ],
+    "contraires": [
+      "texture-tissu-doux-velours",
+      "texture-bois-poli-lisse",
+      "texture-sable-fin-plage"
+    ],
+    "combinaisons": [
+      "béton rugueux + sang sur les paumes : violence, chute, réalité brutale",
+      "béton rugueux + froid de la nuit : espace hostile, personnage à découvert",
+      "béton rugueux + silence : enfermement, attente sous contrainte"
+    ],
+    "notesEditoriales": [
+      "La rugosité du béton ancre dans un registre de dureté sociale ou physique — l'utiliser pour les scènes de contrainte ou de monde réel hostile.",
+      "Contraster avec des textures douces dans la même scène pour amplifier le sentiment d'inconfort.",
+      "Peut signifier aussi la résistance active : le personnage qui s'y adosse pour tenir debout."
+    ]
+  },
+  {
+    "id": "texture-eau-chaude-bain",
+    "label": "Eau chaude du bain",
+    "categorie": "tactile",
+    "definitionCourte": "Sensation d'immersion progressive dans une eau chaude qui enveloppe le corps, relâche les muscles et crée une bulle de retrait du monde — un refuge thermique et sensoriel.",
+    "qualite": "Enveloppante, lourde et légère à la fois, légèrement brûlante aux premiers centimètres — une chaleur qui monte jusqu'aux épaules et coupe le bruit du dehors.",
+    "associationsNarratives": [
+      "refuge après une épreuve ou une journée épuisante",
+      "bain pris pour se sentir propre après quelque chose de honteux",
+      "moment de solitude choisie dans un appartement partagé",
+      "tentative de réconfort personnel après une rupture ou un deuil",
+      "scène de crise : l'eau qui refroidit pendant que le personnage ne bouge plus",
+      "intimité partagée dans un contexte amoureux",
+      "dernier acte avant une décision importante"
+    ],
+    "emotionsAssociees": [
+      "réconfort cherché",
+      "honte ou culpabilité que l'on tente de laver",
+      "solitude choisie ou subie",
+      "épuisement profond",
+      "légèreté temporaire",
+      "tristesse douce dans la chaleur"
+    ],
+    "memoires": [
+      "bains d'enfance donnés par un parent",
+      "convalescences après une maladie",
+      "premières nuits seul dans un appartement",
+      "période de dépression ou de repli sur soi"
+    ],
+    "usagesTypiques": [
+      "créer un espace de monologue intérieur ou de réflexion pour le personnage",
+      "signifier le besoin de purification ou de retrait après un événement traumatique",
+      "marquer le passage du temps par le refroidissement de l'eau",
+      "offrir un moment de pause dans un récit tendu",
+      "signifier la solitude de quelqu'un qui ne peut se confier à personne",
+      "introduire une vulnérabilité physique totale du personnage"
+    ],
+    "contraires": [
+      "douche-froide-reveil-brutal",
+      "froid-humide-pluie-dehors",
+      "eau-glacee-urgence"
+    ],
+    "combinaisons": [
+      "eau chaude du bain + eau qui refroidit : temps qui passe, incapacité à bouger, état second",
+      "eau chaude du bain + pleurs : relâchement total, la chaleur autorise la douleur",
+      "eau chaude du bain + musique ou silence : couleur émotionnelle de la scène selon le choix"
+    ],
+    "notesEditoriales": [
+      "Le bain est l'un des rares espaces où un personnage est totalement nu et seul — à utiliser pour les scènes de vérité intérieure.",
+      "Le refroidissement de l'eau est un indicateur puissant du temps psychologique : à exploiter.",
+      "Éviter l'association systématique avec la détresse suicidaire — le bain est aussi un espace de réconfort ordinaire."
+    ]
+  },
+  {
+    "id": "gout-café-froid",
+    "label": "Café froid oublié",
+    "categorie": "gustatif",
+    "definitionCourte": "Goût amer et plat d'un café préparé puis oublié — tasse posée, refroidie, découverte trop tard, qui dit l'absorption du personnage dans autre chose.",
+    "qualite": "Amer, légèrement acide, sans la chaleur qui rendrait l'amertume acceptable — un goût de gâché, de raté sans gravité.",
+    "associationsNarratives": [
+      "personnage absorbé par une tâche, un problème ou une conversation",
+      "matin difficile où le temps s'est écoulé sans qu'on s'en rende compte",
+      "bureau encombré de travail urgent",
+      "veille d'un malade ou insomnie prolongée",
+      "deuil ou période de négligence de soi",
+      "découverte de la tasse comme signe d'une distraction importante",
+      "quotidien surchargé ou dissocié"
+    ],
+    "emotionsAssociees": [
+      "fatigue chronique",
+      "dissociation légère",
+      "sentiment de temps perdu",
+      "négligence de soi",
+      "absorption dans une préoccupation dominante",
+      "résignation douce"
+    ],
+    "memoires": [
+      "périodes de travail intense ou de surcharge",
+      "matins de crise familiale ou professionnelle",
+      "convalescence ou dépression légère",
+      "années de jeunes parents épuisés"
+    ],
+    "usagesTypiques": [
+      "signifier l'épuisement ou la dissociation sans le décrire longuement",
+      "créer un détail ordinaire qui dit beaucoup sur l'état du personnage",
+      "marquer le passage du temps de manière concrète et discrète",
+      "introduire une note d'humour doux ou de tendresse dans une scène lourde",
+      "signaler la négligence de soi dans une période de crise",
+      "ancrer une scène de quotidien perturbé"
+    ],
+    "contraires": [
+      "premier-cafe-chaud-matin",
+      "cafe-bu-a-la-hate-debout",
+      "tasse-vide-propre-rituel-accompli"
+    ],
+    "combinaisons": [
+      "café froid + bureau en désordre : absorption totale dans un problème, désorganisation",
+      "café froid + enfant qui attend : négligence involontaire, priorités inversées par la crise",
+      "café froid + sourire las : acceptation de l'imperfection, humour de survie"
+    ],
+    "notesEditoriales": [
+      "Détail domestique d'une grande efficacité narrative car universellement reconnaissable.",
+      "La boire quand même ou la jeter dit quelque chose sur le personnage : noter ce choix.",
+      "Peut signifier aussi la capacité d'absorption positive — quelqu'un de tellement passionné qu'il oublie son café."
+    ]
+  },
+  {
+    "id": "gout-medicament-amer",
+    "label": "Goût amer d'un médicament",
+    "categorie": "gustatif",
+    "definitionCourte": "Amertume chimique et persistante laissée par un comprimé ou un sirop — goût qui s'incruste à l'arrière de la gorge et résiste à l'eau, à la salive, à tout ce qu'on avale ensuite.",
+    "qualite": "Âcre, chimique, tenace — une amertume qui n'a rien de naturel et qui rappelle son origine artificielle à chaque déglutition.",
+    "associationsNarratives": [
+      "maladie chronique ou traitement de longue durée",
+      "convalescence après un accident ou une opération",
+      "dépendance médicamenteuse ou abus de substances",
+      "prise de médicament refusée puis acceptée par résignation",
+      "personnage qui soigne quelqu'un d'autre et doit surveiller sa prise",
+      "enfant malade qui grimace",
+      "vieillissement et accumulation de traitements quotidiens"
+    ],
+    "emotionsAssociees": [
+      "résignation",
+      "sentiment de dépendance au corps ou au système médical",
+      "vulnérabilité physique acceptée ou subie",
+      "légère nausée",
+      "routine dure comme signe de la maladie qui dure",
+      "espoir que ça va finir par fonctionner"
+    ],
+    "memoires": [
+      "maladies d'enfance et médicaments administrés par les parents",
+      "traitements après une blessure ou une opération",
+      "soins d'un proche malade",
+      "période de dépression ou d'anxiété traitée"
+    ],
+    "usagesTypiques": [
+      "signifier la maladie ou la fragilité physique par une sensation concrète",
+      "marquer le rapport du personnage à son corps (résignation, révolte, acceptation)",
+      "créer un moment de solitude autour d'un acte corporel très intime",
+      "introduire la routine contrainte d'un personnage malade ou dépendant",
+      "ancrer une scène de soin ou de veille médicale",
+      "contraster avec le goût des bonnes choses pour signifier la privation"
+    ],
+    "contraires": [
+      "gout-doux-miel-guerison",
+      "gout-nourriture-appétit-retrouve",
+      "gout-neutre-eau-fraiche"
+    ],
+    "combinaisons": [
+      "goût de médicament + verre d'eau avalé vite : rituel solitaire, corps entretenu sans plaisir",
+      "goût de médicament + regard dans le miroir : confrontation à sa propre fragilité",
+      "goût de médicament + matin calme : la maladie intégrée au quotidien, ni dramatisée ni oubliée"
+    ],
+    "notesEditoriales": [
+      "L'amertume chimique est distincte de toute autre amertume — à préciser pour la rendre reconnaissable.",
+      "Ce goût ancre le personnage dans une réalité corporelle souvent invisible aux autres personnages.",
+      "Peut être utilisé pour marquer le début d'une scène sans qu'elle soit liée à la maladie — juste le goût, la grimace, et le reste de la journée qui commence."
+    ]
+  },
+  {
+    "id": "son-telephone-vide-message",
+    "label": "Silence après avoir laissé un message",
+    "categorie": "auditif",
+    "definitionCourte": "Silence électronique qui suit le signal sonore d'une messagerie — moment suspendu où l'on doit parler dans le vide, sans retour, sans savoir si ce sera entendu ou quand.",
+    "qualite": "Abrupt, artificiel, légèrement sourd — un silence qui attend et qui juge, différent du silence naturel.",
+    "associationsNarratives": [
+      "tentative de contact après une dispute ou une rupture",
+      "appel urgent à quelqu'un qui ne répond pas",
+      "message laissé à quelqu'un dont on ne sait pas s'il est encore en vie",
+      "demande de pardon ou de réconciliation dans un message vocal",
+      "personnage qui raccroche sans rien dire",
+      "communication impossible avec un proche qui s'est éloigné",
+      "formalité administrative ou annonce professionnelle redoutée"
+    ],
+    "emotionsAssociees": [
+      "sentiment d'abandon ou d'indifférence de l'autre",
+      "honte d'avoir parlé dans le vide",
+      "anxiété de l'attente sans certitude de réponse",
+      "solitude moderne",
+      "regret après avoir raccroché",
+      "impuissance face à l'absence"
+    ],
+    "memoires": [
+      "appels restés sans réponse dans des moments de crise",
+      "messages laissés à des gens qui n'ont jamais rappelé",
+      "communications manquées avec des personnes disparues",
+      "tentatives de réconciliation qui ont échoué"
+    ],
+    "usagesTypiques": [
+      "signifier l'impossibilité de communication réelle entre deux personnages",
+      "créer un moment de solitude aiguë autour d'un acte ordinaire",
+      "marquer le refus ou l'indisponibilité de l'autre sans le montrer",
+      "introduire un message vocal comme élément narratif (entendu plus tard)",
+      "ancrer une scène d'urgence non relayée",
+      "installer la frustration ou l'angoisse d'une attente sans fin"
+    ],
+    "contraires": [
+      "décroché-immediat-voix-présente",
+      "message-répondu-immediatement",
+      "silence-choisi-sans-appel"
+    ],
+    "combinaisons": [
+      "silence après le message + nuit tardive : urgence non entendue, solitude maximale",
+      "silence après le message + hésitation avant de parler : le personnage ne sait pas quoi dire dans le vide",
+      "silence après le message + ton volontairement neutre : effort de contrôle, douleur camouflée"
+    ],
+    "notesEditoriales": [
+      "Ce silence est différent de l'absence de réponse — le personnage a agi, la boîte vocale a enregistré, mais rien ne revient.",
+      "Très efficace pour les ruptures, deuils ou relations en crise : l'unilatéralité de la communication dit l'asymétrie du lien.",
+      "Le contenu du message laissé est souvent plus révélateur que n'importe quel dialogue direct."
+    ]
+  },
+  {
+    "id": "son-clé-serrure",
+    "label": "Clé dans une serrure",
+    "categorie": "auditif",
+    "definitionCourte": "Son métallique d'une clé qui entre dans une serrure, tourne et déplace le pêne — son familier et précis dont la signification dépend entièrement de qui tourne et dans quel sens.",
+    "qualite": "Net, métallique, bref — un son qui claque avec une finalité sans appel, qu'il ferme ou qu'il ouvre.",
+    "associationsNarratives": [
+      "retour attendu ou redouté d'un personnage",
+      "enfermement ou libération physique",
+      "découverte qu'une pièce a été verrouillée ou rouverte",
+      "intrusion dans un espace privé",
+      "moment où quelqu'un est laissé enfermé dehors ou dedans",
+      "scène de thriller : la serrure qui résiste ou qui cède",
+      "rituel de départ ou d'arrivée dans un lieu chargé"
+    ],
+    "emotionsAssociees": [
+      "soulagement ou saisissement selon l'attente",
+      "peur de l'intrusion",
+      "sentiment de contrôle ou de perte de contrôle",
+      "anticipation du retour de l'autre",
+      "sentiment de protection ou d'enfermement",
+      "anxiété de qui est de l'autre côté"
+    ],
+    "memoires": [
+      "rentrees tardives d'adolescent, parents qui attendaient",
+      "première clé de son propre appartement",
+      "enfermement, même involontaire",
+      "retour dans une maison vide ou habitée"
+    ],
+    "usagesTypiques": [
+      "annoncer une arrivée ou un retour avant que le personnage soit visible",
+      "signaler un enfermement ou une libération par un son",
+      "créer un moment de tension pure dans l'anticipation de qui entre",
+      "marquer la possession ou la privation d'accès à un espace",
+      "installer un suspense autour d'une intrusion possible",
+      "signifier la fin d'une scène par la fermeture d'un espace"
+    ],
+    "contraires": [
+      "porte-restée-ouverte-sans-clé",
+      "porte-enfoncée-sans-bruit-préalable",
+      "fenêtre-entrebaillée-passage-silencieux"
+    ],
+    "combinaisons": [
+      "clé dans la serrure + silence total de la maison : retour dans un espace qui a changé",
+      "clé dans la serrure + voix de l'autre côté : présence confirmée, tension de l'ouverture",
+      "clé dans la serrure + nuit + fatigue : retour ordinaire chargé d'une journée extraordinaire"
+    ],
+    "notesEditoriales": [
+      "Ce son est l'un des plus codés en littérature et au cinéma — l'utiliser avec conscience de sa charge convenue.",
+      "Sa force tient à la bivalence : fermer et ouvrir produisent le même son, seul le contexte dit le sens.",
+      "Peut fonctionner comme signe de possession, de contrôle, de liberté ou d'emprisonnement selon qui tient la clé."
+    ]
+  },
+  {
+    "id": "lumiere-fenêtre-voisin",
+    "label": "Fenêtre allumée chez le voisin",
+    "categorie": "visuel",
+    "definitionCourte": "Rectangle de lumière jaune ou blanche aperçu depuis sa propre fenêtre ou la rue — présence lumineuse d'une vie voisine, inconnue ou connue, qui continue dans la nuit.",
+    "qualite": "Chaude, stable, légèrement floue à travers le verre ou les rideaux — une lumière qui dit la vie sans montrer les détails.",
+    "associationsNarratives": [
+      "insomnie et observation du monde depuis sa fenêtre",
+      "solitude nocturne tempérée par la conscience que d'autres vivent",
+      "surveillance ou curiosité malsaine envers un voisin",
+      "réconfort involontaire d'une présence humaine dans la nuit",
+      "attente du retour de quelqu'un — la fenêtre éteinte ou allumée comme signe",
+      "personnage isolé qui observe une vie qu'il n'a pas",
+      "enquête ou mystery : la fenêtre comme indice"
+    ],
+    "emotionsAssociees": [
+      "solitude atténuée par la présence lointaine",
+      "curiosité teintée d'envie",
+      "réconfort à distance",
+      "sentiment d'être exclu d'une vie qui continue",
+      "mélancolie nocturne",
+      "légère obsession ou fascination"
+    ],
+    "memoires": [
+      "nuits d'insomnie d'enfance ou d'adolescence",
+      "période de solitude ou d'isolement vécu",
+      "observation de la vie du quartier depuis chez soi",
+      "attente nocturne d'un retour qui tarde"
+    ],
+    "usagesTypiques": [
+      "signifier la solitude d'un personnage sans le dire explicitement",
+      "créer un lien silencieux entre deux espaces qui ne communiquent pas",
+      "installer l'atmosphère d'une nuit urbaine habitée",
+      "introduire un mystère autour d'un voisin ou d'un espace adjacent",
+      "marquer le contraste entre le froid de la nuit et la chaleur de la vie des autres",
+      "ancrer le personnage dans une posture d'observateur"
+    ],
+    "contraires": [
+      "immeuble-toutes-lumieres-éteintes",
+      "campagne-nuit-sans-voisin",
+      "fenêtre-éclairée-dans-sa-propre-maison"
+    ],
+    "combinaisons": [
+      "fenêtre allumée + pluie sur les vitres : solitude douce, mélancolie urbaine",
+      "fenêtre allumée + silhouette visible : fascination, mystère, intrusion voyeuriste",
+      "fenêtre allumée + personnage qui ne s'endort pas : parallèle entre deux insomnies"
+    ],
+    "notesEditoriales": [
+      "Cette image est un classique de la littérature urbaine — l'utiliser avec une variation par rapport à l'attendu.",
+      "La lumière allumée chez l'autre dit parfois plus sur le personnage qui regarde que sur ce qui se passe derrière.",
+      "Peut fonctionner en miroir : dans une autre scène, c'est le personnage dont la fenêtre est vue de l'extérieur."
+    ]
+  },
+  {
+    "id": "lumiere-torche-nuit",
+    "label": "Faisceau de torche dans l'obscurité",
+    "categorie": "visuel",
+    "definitionCourte": "Cône de lumière artificielle projeté dans le noir — lumière mobile, directive et limitée qui révèle par fragments tout en laissant le reste dans l'ombre.",
+    "qualite": "Crue, blanche ou légèrement jaunâtre, avec des bords nets — une lumière qui découpe l'obscurité sans l'abolir, qui isole ce qu'elle montre.",
+    "associationsNarratives": [
+      "panne de courant dans un espace familier devenu hostile",
+      "exploration nocturne d'un lieu inconnu ou interdit",
+      "scène de recherche dans un bâtiment ou un espace extérieur",
+      "fuite dans l'obscurité avec comme seul guide une torche",
+      "enfant qui se lève la nuit avec une lampe de poche",
+      "scène de thriller ou d'horreur : la lumière qui révèle l'innommable",
+      "camping ou survie en milieu naturel"
+    ],
+    "emotionsAssociees": [
+      "peur de ce que la lumière va trouver",
+      "concentration totale sur le fragment éclairé",
+      "sentiment de vulnérabilité dans le reste de l'obscurité",
+      "curiosité tendue",
+      "solitude dans le noir",
+      "soulagement de la lumière même insuffisante"
+    ],
+    "memoires": [
+      "pannes d'électricité d'enfance",
+      "nuits de camping ou de randonnée",
+      "jeux nocturnes d'enfance avec des lampes de poche",
+      "moments de peur liés à l'obscurité"
+    ],
+    "usagesTypiques": [
+      "créer une progression dramatique fragmentée — on ne voit que ce que la torche montre",
+      "installer une tension de thriller avec une économie de moyens",
+      "signifier l'ignorance du personnage sur ce qui l'entoure",
+      "rythmer une exploration ou une découverte par les mouvements du faisceau",
+      "créer un contraste fort entre le visible et l'invisible",
+      "ancrer une scène de nuit en extérieur ou dans un espace clos obscur"
+    ],
+    "contraires": [
+      "lumiere-ambiante-totale-espace-éclairé",
+      "obscurité-acceptée-sans-recherche",
+      "lumière-du-jour-clarté-totale"
+    ],
+    "combinaisons": [
+      "faisceau de torche + respiration haletante : peur et urgence, corps et lumière synchronisés",
+      "faisceau de torche + main qui tremble : la lumière aussi tremble, incertitude physique",
+      "faisceau de torche + bruit non identifié : tension maximale, le son hors du champ visuel"
+    ],
+    "notesEditoriales": [
+      "La torche est un outil narratif de focalisation — ce qu'elle éclaire est ce que le lecteur voit : choisir avec soin.",
+      "Attention au cliché du film d'horreur : la torche peut aussi éclairer des scènes d'enfance, de tendresse ou de découverte.",
+      "La pile faible ou la torche qui s'éteint sont des ressorts dramatiques puissants — mais très attendus."
+    ]
+  },
+  {
+    "id": "odeur-medicament-hopital-patient",
+    "label": "Odeur de patient hospitalisé longtemps",
+    "categorie": "olfactif",
+    "definitionCourte": "Mélange subtil de désinfectant, de peau médicamentée, de tissu de lit d'hôpital et d'une note organique propre aux corps long-temps soignés — odeur intime et bouleversante pour ceux qui ont connu.",
+    "qualite": "Douce et légèrement âcre à la fois, familière dans sa tristesse — une odeur qui colle aux souvenirs d'hôpital et de veille.",
+    "associationsNarratives": [
+      "visite à un proche en longue hospitalisation",
+      "accompagnement d'un mourant",
+      "enfant hospitalisé gardé jour et nuit",
+      "retour dans une chambre d'hôpital connue",
+      "soignant dont l'odorat s'est habitué mais pas le cœur",
+      "convalescence longue dans un service de réhabilitation",
+      "vieil immeuble ou maison qui conserve cette odeur après le départ du malade"
+    ],
+    "emotionsAssociees": [
+      "chagrin anticipatoire",
+      "tendresse mêlée d'impuissance",
+      "épuisement du proche aidant",
+      "sentiment de temps suspendu",
+      "amour qui s'exprime par la présence physique uniquement",
+      "peur sourde qui ne se dit pas"
+    ],
+    "memoires": [
+      "hospitalisations de proches dans l'enfance ou l'âge adulte",
+      "accompagnement de fin de vie",
+      "propres hospitalisations",
+      "odeur mémorisée d'un être aimé malade"
+    ],
+    "usagesTypiques": [
+      "déclencher une mémoire involontaire chez un personnage sans explication narrative",
+      "signifier la présence prolongée de la maladie dans une relation",
+      "ancrer une scène de soin ou de veille dans la réalité corporelle",
+      "créer un malaise discret lors d'un contact avec quelqu'un qui sort de l'hôpital",
+      "installer l'atmosphère d'un service hospitalier sans description longue",
+      "signifier le deuil anticipé ou le deuil passé par l'odorat"
+    ],
+    "contraires": [
+      "odeur-proprete-exterieur-air-frais",
+      "odeur-vie-quotidienne-cuisine-maison",
+      "odeur-parfum-sante-retrouvee"
+    ],
+    "combinaisons": [
+      "odeur de patient + main tenue en silence : présence totale dans l'impuissance",
+      "odeur de patient + couloir d'hôpital + nuit : solitude du proche aidant, temps suspendu",
+      "odeur de patient + sourire de l'hospitalisé : contraste douloureux entre la souffrance et la grâce"
+    ],
+    "notesEditoriales": [
+      "Cette odeur est presque impossible à décrire précisément — son pouvoir vient de la reconnaissance, pas de l'explication.",
+      "À utiliser avec discrétion : une seule mention bien placée suffit pour déclencher la mémoire du lecteur qui a connu.",
+      "Peut fonctionner comme déclencheur de mémoire post-traumatique dans des scènes sans rapport avec l'hôpital."
+    ]
+  },
+  {
+    "id": "chaleur-fièvre-enfant",
+    "label": "Chaleur d'un enfant fiévreux",
+    "categorie": "thermique",
+    "definitionCourte": "Chaleur anormalement intense dégagée par un petit corps en fièvre — peau brûlante, légèrement moite, front bouillant contre la main de l'adulte qui vérifie.",
+    "qualite": "Intense, sèche puis humide selon le stade de la fièvre, légèrement électrique — une chaleur qui inquiète parce qu'elle dépasse la chaleur normale d'un corps sain.",
+    "associationsNarratives": [
+      "nuit de garde auprès d'un enfant malade",
+      "parent seul qui doit gérer la fièvre sans aide",
+      "voyage ou situation où les soins sont difficiles d'accès",
+      "moment de panique douce chez un parent inexpérimenté",
+      "souvenir d'avoir été cet enfant malade",
+      "lien physique fort entre parent et enfant dans la vulnérabilité",
+      "longue nuit à surveiller une température qui monte ou descend"
+    ],
+    "emotionsAssociees": [
+      "anxiété parentale",
+      "tendresse protectrice amplifiée",
+      "impuissance face au corps de l'enfant",
+      "veille épuisée mais impossibilité de partir",
+      "soulagement si la fièvre tombe",
+      "amour physique, incarné dans la main posée sur le front"
+    ],
+    "memoires": [
+      "propres maladies d'enfance, main fraîche sur le front",
+      "nuits de garde auprès d'enfants ou de petits frères et sœurs",
+      "fièvres qui ont fait peur avant de passer",
+      "geste du thermomètre et du verre d'eau"
+    ],
+    "usagesTypiques": [
+      "créer un lien physique intense entre un adulte et un enfant dans la vulnérabilité",
+      "signifier la responsabilité parentale dans son expression la plus concrète",
+      "installer une nuit de veille comme cadre d'un monologue intérieur",
+      "contraster avec la froideur émotionnelle d'un personnage : la fièvre de l'enfant le force à être présent",
+      "ancrer une scène de peur douce, sans drame réel mais avec une tension réelle",
+      "signifier le temps d'une nuit entière condensé dans une main posée sur un front"
+    ],
+    "contraires": [
+      "froid-peau-enfant-sain-qui-joue",
+      "chaleur-normale-corps-endormi",
+      "fraîcheur-front-après-fièvre-tombée"
+    ],
+    "combinaisons": [
+      "chaleur de la fièvre + nuit longue + parent seul : épuisement, amour et responsabilité mêlés",
+      "chaleur de la fièvre + sourire endormi de l'enfant : vulnérabilité et grâce simultanées",
+      "chaleur de la fièvre + fenêtre froide dehors : enfermement protecteur, monde extérieur suspendu"
+    ],
+    "notesEditoriales": [
+      "La main sur le front est un geste universel — l'évoquer suffit à activer la mémoire sensorielle de presque tout lecteur.",
+      "La fièvre de l'enfant est l'une des rares situations où un personnage endurci ne peut pas maintenir sa distance.",
+      "Attention à ne pas dramatiser excessivement : une fièvre ordinaire bien écrite est souvent plus poignante qu'une fièvre grave."
+    ]
+  }
+]

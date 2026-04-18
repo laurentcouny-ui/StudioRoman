@@ -1,0 +1,326 @@
+[
+  {
+    "id": "allegresse",
+    "label": "Allégresse",
+    "famille": "joie-enthousiasme",
+    "definitionCourte": "Joie exubérante et presque physique qui déborde — le personnage ne peut pas la contenir. L'allégresse est la joie qui veut sortir du corps.",
+
+    "signesPhysiques": [
+      "sourire qui prend tout le visage — yeux plissés, joues hautes",
+      "mouvements amples et irrépressibles — sauter, tourner, agiter les mains",
+      "voix qui monte d'un cran ou deux",
+      "rires qui partent facilement et durent",
+      "corps qui se redresse — posture ouverte, expansive",
+      "contact physique spontané — touche les autres, prend par les épaules",
+      "énergie difficile à canaliser — bouge même en parlant"
+    ],
+
+    "sensationsInternes": [
+      "chaleur dans la poitrine qui rayonne vers l'extérieur",
+      "légèreté physique — impression de peser moins",
+      "énergie qui monte et cherche une sortie",
+      "cœur qui bat un peu plus vite, agréablement",
+      "impression que tout est possible et que rien ne coûte"
+    ],
+
+    "pensees": [
+      "C'est incroyable !",
+      "Je n'arrive pas à y croire.",
+      "Il faut le dire à quelqu'un.",
+      "Je suis tellement heureux.",
+      "Pourquoi est-ce que tout n'est pas toujours comme ça ?",
+      "Je voudrais que ça dure."
+    ],
+
+    "effetsVoixLangage": [
+      "ton plus haut, plus rapide",
+      "phrases exclamatives et courtes",
+      "rires intégrés dans la conversation",
+      "répétitions enthousiasmes — 'c'est super, vraiment, c'est super'",
+      "tendance à interrompre pour ajouter quelque chose"
+    ],
+
+    "comportements": [
+      "partage la nouvelle ou la joie à la première personne disponible",
+      "fait des choses spontanées — chante, danse, court",
+      "est plus généreux que d'habitude — offre, aide, embrasse",
+      "a du mal à rester en place",
+      "peut faire des choses imprudentes — la prudence baisse avec la joie"
+    ],
+
+    "masquesPossibles": [
+      "retenue culturelle — sourire contenu, joie muette mais brillante dans les yeux",
+      "discrétion par peur du mauvais sort",
+      "maîtrise par pudeur devant des personnes en deuil ou en difficulté"
+    ],
+
+    "evolutionsPossibles": [
+      "épuisement après l'allégresse — le corps revient à la normale",
+      "partage qui amplifie — la joie partagée grandit",
+      "blessure si la joie est reçue froidement par l'entourage",
+      "nostalgie ultérieure de ce moment"
+    ],
+
+    "contextesAggravants": [
+      "entourage qui ne partage pas la joie",
+      "nouvelle ou bonne fortune cachée par la prudence sociale",
+      "fatigue qui bride l'expression"
+    ],
+
+    "contextesAttenuants": [
+      "présence de personnes qui partagent la joie — amplifie",
+      "espace de liberté physique — dehors, espace ouvert",
+      "musique ou mouvement qui libèrent l'énergie"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Bonne humeur", "description": "Le personnage est souriant, disponible. Rien d'exubérant." },
+      { "niveau": 2, "label": "Contentement vif", "description": "Sourire franc, légèreté visible. Le bien-être est perceptible." },
+      { "niveau": 3, "label": "Allégresse", "description": "Joie physique et contagieuse. Le personnage a du mal à la contenir." },
+      { "niveau": 4, "label": "Euphorie légère", "description": "La joie domine tout. Les inhibitions baissent, l'énergie déborde." },
+      { "niveau": 5, "label": "Exultation", "description": "Joie totale. Le personnage n'est plus vraiment rationnel dans son bonheur." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage introverti",
+        "description": "L'allégresse est plus intérieure — sourire large mais corps contenu. La joie est tout aussi intense mais moins visible de l'extérieur. Elle peut surprendre l'entourage qui ne la voyait pas venir."
+      },
+      {
+        "profil": "Personnage extraverti",
+        "description": "L'allégresse est explosive et communicative. Il a besoin d'un public pour la vivre pleinement — la partager la double."
+      },
+      {
+        "profil": "Personnage habituellement grave",
+        "description": "L'allégresse chez ce personnage est d'autant plus frappante qu'elle est rare. Elle révèle quelque chose de lui qu'on ne voit pas souvent."
+      }
+    ],
+
+    "notesEditoriales": [
+      "L'allégresse est l'une des émotions les plus difficiles à écrire sans tomber dans l'excès ou la naïveté.",
+      "Sa puissance narrative tient souvent dans le contraste — un personnage habituellement fermé qui laisse éclater une joie franche.",
+      "Éviter les marqueurs trop convenus — le saut, les larmes de joie — et chercher des gestes spécifiques au personnage."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "celebration" },
+      { "type": "peut_evoluer_en", "cible": "nostalgie" },
+      { "type": "souvent_associe_a", "cible": "rire" },
+      { "type": "peut_masquer", "cible": "soulagement" }
+    ]
+  },
+  {
+    "id": "felicite",
+    "label": "Félicité",
+    "famille": "joie-satisfaction",
+    "definitionCourte": "Bonheur calme et profond, sans agitation ni besoin de s'exprimer. La félicité est une joie qui a trouvé la paix — pleine, suffisante, sans attente.",
+
+    "signesPhysiques": [
+      "sourire doux, pas nécessairement grand — une paix sur le visage",
+      "mouvements lents et précis — rien n'est urgent",
+      "regard présent et doux, pas dans le vague",
+      "corps détendu sans être avachi — posture ouverte et légère",
+      "respiration profonde, visible dans les épaules",
+      "gestes attentifs et pleins — chaque action est habitée",
+      "présence entière dans ce qu'il fait"
+    ],
+
+    "sensationsInternes": [
+      "chaleur douce et stable dans tout le corps",
+      "absence de tension — aucune attente, aucune résistance",
+      "sentiment que le présent est suffisant",
+      "légèreté qui n'est pas euphorie — une sérénité active",
+      "impression d'être à sa place, exactement"
+    ],
+
+    "pensees": [
+      "C'est bien.",
+      "Je n'ai besoin de rien d'autre.",
+      "Je suis exactement où je dois être.",
+      "Ça suffit. Vraiment.",
+      "Je me sens entier.",
+      "Je voudrais que les gens que j'aime soient là pour voir ça."
+    ],
+
+    "effetsVoixLangage": [
+      "voix calme et pleine — pas excitée, mais vivante",
+      "phrases complètes, sans précipitation",
+      "tendance à parler des choses concrètes et simples",
+      "écoute attentive — pas besoin de monopoliser",
+      "mots choisis simplement — la félicité n'a pas besoin d'emphase"
+    ],
+
+    "comportements": [
+      "fait les choses lentement et avec soin",
+      "remarque les détails — une lumière, un son, une odeur",
+      "est pleinement disponible pour les autres",
+      "n'a pas besoin de valider ou de partager sa joie — elle est autosuffisante",
+      "peut paraître peu expressif à qui ne le connaît pas"
+    ],
+
+    "masquesPossibles": [
+      "pas de masque évident — la félicité est rarement cachée",
+      "parfois confondue avec l'indifférence par ceux qui attendent une joie plus bruyante",
+      "discrétion par pudeur ou superstition"
+    ],
+
+    "evolutionsPossibles": [
+      "permanence douce si les conditions sont maintenues",
+      "disruption si quelque chose de grave survient",
+      "nostalgie ultérieure de cet état",
+      "partage qui crée un lien silencieux avec l'autre"
+    ],
+
+    "contextesAggravants": [
+      "agitation extérieure qui contraste avec la paix intérieure",
+      "sentiment que ça ne durera pas",
+      "présence d'une douleur ancienne qui resurgit"
+    ],
+
+    "contextesAttenuants": [
+      "nature — lumière, espace, silence",
+      "accomplissement d'une tâche simple et bien faite",
+      "contact avec quelqu'un d'aimé sans besoin de rien se dire"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Bien-être calme", "description": "Le personnage va bien. Simplement." },
+      { "niveau": 2, "label": "Contentement profond", "description": "Satisfaction qui vient du fond — quelque chose est en place." },
+      { "niveau": 3, "label": "Félicité", "description": "Bonheur complet et tranquille. Présence totale dans le moment." },
+      { "niveau": 4, "label": "Plénitude", "description": "Sentiment d'être entier, sans manque." },
+      { "niveau": 5, "label": "Béatitude", "description": "État rare, presque hors du temps. Le monde extérieur recule." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage contemplatif",
+        "description": "La félicité est son état de référence dans les moments de bonheur. Il la reconnaît, la nomme, la savoure consciemment."
+      },
+      {
+        "profil": "Personnage actif et tendu",
+        "description": "La félicité lui est étrange — il n'y est pas habitué. Peut la confondre avec de l'ennui ou de la passivité. Elle lui fait peur si elle dure."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La félicité est difficile à écrire parce qu'elle est statique — il ne se passe rien. L'enjeu est de la rendre vivante par le détail sensoriel et la conscience du personnage.",
+      "Elle est souvent plus puissante en contraste — après une épreuve longue, un moment de félicité simple peut être dévastateur.",
+      "Ne pas confondre avec l'indifférence : la félicité est pleinement présente, l'indifférence est absente."
+    ],
+
+    "relationsNarratives": [
+      { "type": "souvent_associe_a", "cible": "plenitude" },
+      { "type": "peut_masquer", "cible": "fragilite-cachee" },
+      { "type": "peut_evoluer_en", "cible": "nostalgie" }
+    ]
+  },
+  {
+    "id": "jubilation",
+    "label": "Jubilation",
+    "famille": "joie-enthousiasme",
+    "definitionCourte": "Joie intense et triomphante, souvent liée à une victoire ou une revanche. La jubilation a une dimension fière — on exulte d'avoir réussi, d'avoir eu raison, d'avoir gagné.",
+
+    "signesPhysiques": [
+      "sourire large, parfois triomphant — les dents visibles",
+      "poing levé ou geste de victoire spontané",
+      "corps qui se tend vers le haut — redressement, posture d'expansion",
+      "rires qui partent brusquement",
+      "regard vif et brillant",
+      "mouvements brusques d'énergie — tape dans ses mains, frappe le bureau",
+      "incapacité à rester immobile"
+    ],
+
+    "sensationsInternes": [
+      "pointe aiguë de plaisir dans la poitrine — presque douloureux tellement c'est fort",
+      "adrénaline qui monte — chaleur dans les membres",
+      "cerveau qui s'emballe — pensées rapides et désordonnées",
+      "sentiment d'invulnérabilité momentané",
+      "besoin immédiat d'exprimer, de partager, de crier"
+    ],
+
+    "pensees": [
+      "Oui !",
+      "J'avais raison.",
+      "On a réussi.",
+      "Ils avaient tort.",
+      "Personne ne peut m'enlever ça.",
+      "J'aimerais que X soit là pour voir ça."
+    ],
+
+    "effetsVoixLangage": [
+      "voix forte, presque cri",
+      "phrases incomplètes — la joie va plus vite que les mots",
+      "répétitions, exclamations",
+      "tendance à dramatiser positivement — tout est génial",
+      "irruption du passé récent dans les formulations — 'tu te rends compte que...'"
+    ],
+
+    "comportements": [
+      "célèbre avec ceux qui sont là — ou cherche quelqu'un à qui dire",
+      "peut être maladroit dans sa joie — blesse involontairement ceux qui n'ont pas gagné",
+      "veut raconter l'histoire — le récit de la victoire",
+      "peut être généreux dans ce moment",
+      "peut aussi être grandiose — amplification de la réussite"
+    ],
+
+    "masquesPossibles": [
+      "retenue devant ceux qui ont perdu",
+      "jubilation cachée pour ne pas paraître arrogant",
+      "déplacement de la joie vers quelque chose de moins visible"
+    ],
+
+    "evolutionsPossibles": [
+      "retombée rapide — l'adrénaline ne dure pas",
+      "fierté durable qui remplace la jubilation",
+      "regard rétrospectif plus nuancé une fois l'excitation passée",
+      "gêne ultérieure si la jubilation était excessive"
+    ],
+
+    "contextesAggravants": [
+      "présence de ceux qui ont perdu ou qui n'y croyaient pas",
+      "victoire très inattendue — amplifie l'intensité"
+    ],
+
+    "contextesAttenuants": [
+      "victoire attendue — moins d'intensité",
+      "contexte qui impose la retenue",
+      "conscience des conséquences pour les autres"
+    ],
+
+    "intensites": [
+      { "niveau": 1, "label": "Satisfaction vive", "description": "Sourire, légèreté, plaisir d'avoir réussi." },
+      { "niveau": 2, "label": "Fierté joyeuse", "description": "Partage la réussite, s'en réjouit avec les proches." },
+      { "niveau": 3, "label": "Jubilation", "description": "Joie triomphante et bruyante. Le personnage l'exprime pleinement." },
+      { "niveau": 4, "label": "Exultation", "description": "La joie dépasse — envahit tout le comportement." },
+      { "niveau": 5, "label": "Triomphe total", "description": "Moment de victoire absolue. Peut frôler l'arrogance ou l'excès." }
+    ],
+
+    "variantesPerception": [
+      {
+        "profil": "Personnage compétiteur",
+        "description": "La jubilation est attendue, méritée, savoureuse. Ce personnage a tout misé sur le résultat — la joie est proportionnelle à l'investissement."
+      },
+      {
+        "profil": "Personnage habituellement humble",
+        "description": "La jubilation surprend tout le monde, y compris lui. Ce moment de triomphe rare est d'autant plus fort qu'il est inhabituel."
+      },
+      {
+        "profil": "Personnage solitaire",
+        "description": "La jubilation sans destinataire est étrange — il triomphe seul, pour lui-même. Il peut appeler quelqu'un juste pour dire que ça a marché."
+      }
+    ],
+
+    "notesEditoriales": [
+      "La jubilation a une dimension légèrement excessive qui en fait une émotion narrativement intéressante — mais qui peut rendre le personnage momentanément antipathique.",
+      "Elle révèle souvent quelque chose d'important : pourquoi cette victoire compte-t-elle autant ? Qu'est-ce qui était en jeu ?",
+      "À distinguer de l'allégresse (plus diffuse et légère) et du soulagement (tourné vers la fin d'une menace)."
+    ],
+
+    "relationsNarratives": [
+      { "type": "peut_declencher", "cible": "celebration" },
+      { "type": "peut_masquer", "cible": "soulagement" },
+      { "type": "peut_evoluer_en", "cible": "fierte" },
+      { "type": "souvent_associe_a", "cible": "victoire" }
+    ]
+  }
+]

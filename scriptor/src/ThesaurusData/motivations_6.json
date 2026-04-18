@@ -1,0 +1,337 @@
+[
+  {
+    "id": "devenir-la-personne-qu-on-aurait-du-etre",
+    "label": "Devenir la personne qu'on aurait dû être",
+    "famille": "identité et transmission",
+    "definitionCourte": "Le personnage agit pour rattraper ou réaliser une version de lui-même qui n'a pas pu se développer — empêchée par la peur, les circonstances, les autres ou lui-même. Un moteur tourné vers ce qui n'a pas encore eu lieu.",
+
+    "moteurProfond": "Il y a une version de moi qui existe quelque part — que j'ai trahie, retardée ou laissée de côté. Je veux encore y arriver.",
+
+    "formesConscientes": [
+      "Il n'est pas trop tard.",
+      "Je n'ai pas encore fait ce que je devais faire.",
+      "Je veux être quelqu'un dont je suis fier.",
+      "Ce que je suis devenu n'est pas ce que je voulais être."
+    ],
+
+    "formesInconscientes": [
+      "Cette personne que je n'ai pas été me juge encore.",
+      "Si je réussis à devenir ça, ma vie aura eu un sens.",
+      "Peut-être qu'il n'est vraiment pas trop tard."
+    ],
+
+    "signesComportementaux": [
+      "changement de vie tardif — rupture avec ce qui était établi",
+      "apprentissage ou pratique qu'on avait abandonnée",
+      "comparaison entre ce qu'on est et ce qu'on voulait être",
+      "résistance à l'idée que c'est trop tard",
+      "énergie particulière autour de ce projet — plus de vie là que dans le reste"
+    ],
+
+    "enjeux": [
+      "si cette transformation est encore possible",
+      "ce que le chemin vers cette version coûte à ce qu'il est déjà",
+      "si la personne qu'il voulait être était vraiment ce qu'il voulait — ou ce qu'on voulait pour lui"
+    ],
+
+    "risques": [
+      "abandonner ce qu'il a construit pour quelque chose qu'il n'atteindra peut-être pas",
+      "découvrir que la version idéale était une illusion",
+      "blesser ceux qui s'étaient habitués à la version existante",
+      "arriver trop tard — et le savoir"
+    ],
+
+    "masquesPossibles": [
+      "crise du milieu de vie présentée comme développement personnel",
+      "projet créatif ou professionnel qui masque une quête identitaire",
+      "rupture soudaine présentée comme libération sans nommer ce qu'elle cherche"
+    ],
+
+    "evolutionsPossibles": [
+      "transformation réelle — même partielle",
+      "réconciliation avec la version actuelle — qui vaut aussi",
+      "découverte que le chemin compte plus que la destination",
+      "deuil de la personne qu'on n'a pas été — et paix avec ça"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "motivations", "cible": "s-affirmer-contre-l-image-heritee", "note": "quand ce moteur naît d'une identité héritée à dépasser" },
+      { "famille": "emotions", "cible": "aspiration", "note": "l'aspiration comme état émotionnel moteur" },
+      { "famille": "motivations", "cible": "rompre-avec-ce-qu-on-etait", "note": "la dimension rupture du même moteur" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est particulièrement fort dans les récits de milieu ou de fin de vie — quand le temps commence à compter.",
+      "La question 'est-il trop tard ?' est la question centrale — et la réponse n'est jamais simple.",
+      "À utiliser pour les personnages en transition, en rupture ou en quête d'une seconde chance."
+    ]
+  },
+  {
+    "id": "rompre-avec-ce-qu-on-etait",
+    "label": "Rompre avec ce qu'on était",
+    "famille": "identité et transmission",
+    "definitionCourte": "Le personnage agit pour effacer, dépasser ou transformer une version ancienne de lui-même. La rupture est active, voulue, parfois violente — il veut que le passé ne dicte plus le présent.",
+
+    "moteurProfond": "Ce que j'étais ne peut plus continuer. Je dois devenir quelqu'un d'autre — pas pour quelqu'un, mais pour moi.",
+
+    "formesConscientes": [
+      "Je ne veux plus être cette personne.",
+      "Ce que j'ai été est fini.",
+      "Je dois couper avec ça pour avancer.",
+      "Je ne me reconnais plus dans ce que j'étais."
+    ],
+
+    "formesInconscientes": [
+      "Si je romps assez radicalement, ce que j'ai fait disparaîtra.",
+      "La rupture me protège de ce que je pourrais refaire.",
+      "Je ne sais pas encore qui je serai — mais je sais qui je ne serai plus."
+    ],
+
+    "signesComportementaux": [
+      "changements symboliques — nom, lieu, apparence, entourage",
+      "distance prise avec ceux qui connaissaient l'ancienne version",
+      "refus de parler du passé ou de le reconnaître",
+      "rigueur nouvelle dans des domaines liés à ce qu'on veut changer",
+      "sensibilité forte quand quelqu'un ramène l'ancienne version"
+    ],
+
+    "enjeux": [
+      "si la rupture est possible — ou si ce qu'on était continue à agir malgré soi",
+      "ce qu'on perd en rompant — liens, identité, mémoire",
+      "si la rupture est une transformation ou une fuite"
+    ],
+
+    "risques": [
+      "nier une partie de soi qui continue à exister malgré tout",
+      "répéter l'ancien schéma sous une nouvelle forme",
+      "isolement — les gens de l'avant ne savent plus comment s'approcher",
+      "rupture qui coûte plus qu'elle n'apporte si elle est trop totale"
+    ],
+
+    "masquesPossibles": [
+      "nouveau départ présenté comme opportunité pratique",
+      "conversion idéologique ou religieuse comme cadre de la rupture personnelle",
+      "déménagement ou changement de vie présenté comme choix rationnel"
+    ],
+
+    "evolutionsPossibles": [
+      "intégration — ni nier ni être défini par le passé",
+      "rechute — le passé revient malgré la rupture",
+      "découverte que ce qu'on voulait quitter était aussi ce qui avait de la valeur",
+      "rencontre qui connaît les deux versions — et oblige à les réconcilier"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "motivations", "cible": "devenir-la-personne-qu-on-aurait-du-etre", "note": "la version constructive du même mouvement" },
+      { "famille": "motivations", "cible": "s-affirmer-contre-l-image-heritee", "note": "quand la rupture porte sur une identité héritée" },
+      { "famille": "dynamiquesRelationnelles", "cible": "retour-apres-longue-absence", "note": "quand la rupture est aussi un départ physique" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur explore la frontière entre transformation réelle et fuite.",
+      "Le retour — physique ou métaphorique — est souvent la scène-test : est-ce que la rupture a tenu ?",
+      "À distinguer du désir d'être quelqu'un d'autre : ici c'est une rupture active, pas un rêve."
+    ]
+  },
+  {
+    "id": "transmettre-avant-de-disparaitre",
+    "label": "Transmettre avant de disparaître",
+    "famille": "identité et transmission",
+    "definitionCourte": "Le personnage agit avec urgence pour passer quelque chose à quelqu'un — une compétence, une histoire, un secret, une vérité — parce qu'il sait ou pressent qu'il n'aura plus longtemps pour le faire.",
+
+    "moteurProfond": "Ce que je sais, ce que j'ai vécu, ce que je suis — tout ça doit aller quelque part avant que je parte. Si je ne le transmets pas, ça disparaît avec moi.",
+
+    "formesConscientes": [
+      "Il faut que quelqu'un sache.",
+      "Si je ne le dis pas maintenant, il sera trop tard.",
+      "Je dois trouver quelqu'un à qui confier ça.",
+      "Je n'ai plus beaucoup de temps."
+    ],
+
+    "formesInconscientes": [
+      "Transmettre me rend un peu moins mortel.",
+      "La transmission est la preuve que j'ai compté.",
+      "Je choisis mon successeur comme on choisit comment on sera souvenu."
+    ],
+
+    "signesComportementaux": [
+      "urgence dans le rapport au temps — tout a un délai",
+      "attention nouvelle à ceux qui pourraient recevoir",
+      "récits, écrits, gestes — tout ce qui peut garder une trace",
+      "sélection du destinataire — pas n'importe qui",
+      "impatience si la transmission n'est pas reçue comme espérée"
+    ],
+
+    "enjeux": [
+      "trouver le bon destinataire — quelqu'un qui peut recevoir et garder",
+      "si ce qu'on transmet sera compris et gardé",
+      "la qualité de la transmission — pas juste l'information mais la signification"
+    ],
+
+    "risques": [
+      "destinataire mal choisi — qui ne peut pas ou ne veut pas recevoir",
+      "transmission forcée — qui surcharge celui qui reçoit",
+      "ce qui est transmis change en passant — le sens se perd ou se déforme",
+      "urgence qui écrase la relation plutôt que de l'approfondir"
+    ],
+
+    "masquesPossibles": [
+      "pédagogie ou mentorat qui masque l'urgence personnelle",
+      "legs pratique — argent, biens — qui substitue à la transmission réelle",
+      "récit de vie présenté comme mémoire collective plutôt que personnelle"
+    ],
+
+    "evolutionsPossibles": [
+      "transmission réussie — quelqu'un reçoit et porte",
+      "refus du destinataire — et deuil de ce que ça représente",
+      "découverte que la transmission la plus importante était autre chose",
+      "la disparition avant la transmission — et ce qui reste malgré tout"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "motivations", "cible": "laisser-une-trace", "note": "la forme durable — transmettre avant de disparaître est la forme urgente" },
+      { "famille": "motivations", "cible": "proteger-ce-qu-on-a-bati", "note": "quand ce qu'on transmet est ce qu'on a construit" },
+      { "famille": "dynamiquesRelationnelles", "cible": "maitre-artisan-apprenti", "note": "la dynamique relationnelle qui structure souvent cette transmission" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur introduit le temps comme personnage — la mort ou la disparition comme contrainte dramatique.",
+      "La question du destinataire est souvent le cœur de l'histoire : qui peut recevoir ce que ce personnage a à donner ?",
+      "À utiliser dans les récits qui touchent à la fin — vieillesse, maladie, guerre, départ."
+    ]
+  },
+  {
+    "id": "sauver-quelqu-un-comme-on-n-a-pas-pu",
+    "label": "Sauver quelqu'un comme on n'a pas pu",
+    "famille": "identité et transmission",
+    "definitionCourte": "Le personnage agit pour sauver quelqu'un — en partie parce que ce quelqu'un lui rappelle une personne qu'il n'a pas pu sauver autrefois. Le présent est hanté par un passé non résolu.",
+
+    "moteurProfond": "Je n'ai pas pu le sauver. Mais je peux peut-être sauver celui-là. Et si j'y arrive, quelque chose dans le passé sera différent.",
+
+    "formesConscientes": [
+      "Il est dans la même situation. Je peux faire quelque chose.",
+      "Je sais ce que c'est. Je ne vais pas le laisser seul.",
+      "Cette fois, je serai là.",
+      "Il ne faut pas que ça finisse de la même façon."
+    ],
+
+    "formesInconscientes": [
+      "En sauvant cet autre, je répare ce que je n'ai pas pu faire.",
+      "Si j'y arrive, je pourrai me pardonner.",
+      "Ce que je fais pour lui, je le fais aussi pour la personne perdue."
+    ],
+
+    "signesComportementaux": [
+      "engagement excessif dans le sauvetage de quelqu'un qui lui ressemble au passé",
+      "identification forte — peut projeter la situation passée sur la présente",
+      "urgence que les autres ne comprennent pas toujours",
+      "résistance si quelqu'un dit 'ce n'est pas pareil'",
+      "deuil difficile si le sauvetage présent échoue aussi"
+    ],
+
+    "enjeux": [
+      "si la situation présente ressemble vraiment à la passée — ou si le personnage projette",
+      "ce qu'il fait à la personne qu'il veut sauver en la chargeant de cette signification",
+      "si sauver quelqu'un d'autre peut vraiment réparer le passé"
+    ],
+
+    "risques": [
+      "imposer sa lecture de la situation à quelqu'un qui n'en a pas besoin",
+      "deuxième échec — qui écrase le premier",
+      "la personne qui refuse d'être sauvée",
+      "substitution — traiter la personne présente comme la personne perdue"
+    ],
+
+    "masquesPossibles": [
+      "aide présentée comme désintéressée",
+      "urgence présentée comme compétence — 'j'ai déjà vu ça'",
+      "attachement particulier rationalisé en affinité ou en professionnalisme"
+    ],
+
+    "evolutionsPossibles": [
+      "sauvetage réussi — et moment de mesurer ce que ça a vraiment réparé",
+      "prise de conscience de la projection — et séparation des deux situations",
+      "échec — et différence avec le premier cette fois : tenir malgré tout",
+      "rencontre entre les deux — dire à voix haute ce que le sauvetage représentait"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "emotions", "cible": "culpabilite-du-survivant", "note": "l'émotion fondatrice de ce moteur" },
+      { "famille": "motivations", "cible": "reparer-une-faute-passee", "note": "quand ne pas avoir sauvé est la faute" },
+      { "famille": "motivations", "cible": "vivre-pour-quelqu-un-qui-ne-peut-plus", "note": "la forme plus directement dédiée à l'absent" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est parmi les plus complexes parce qu'il superpose deux temporalités et deux personnes.",
+      "La révélation de la substitution — le personnage réalise qu'il traite la personne présente comme le fantôme du passé — est une scène forte.",
+      "À utiliser avec soin : la projection peut être blessante pour celui qui est 'sauvé'."
+    ]
+  },
+  {
+    "id": "appartenir-a-quelque-chose-de-plus-grand",
+    "label": "Appartenir à quelque chose de plus grand que soi",
+    "famille": "identité et transmission",
+    "definitionCourte": "Le personnage agit pour faire partie d'une cause, d'une communauté ou d'un mouvement qui dépasse sa propre vie. Il cherche un sens que l'individuel ne peut pas lui donner.",
+
+    "moteurProfond": "Ma vie seule ne suffit pas. Je veux que mon existence soit rattachée à quelque chose qui compte au-delà de moi.",
+
+    "formesConscientes": [
+      "Ce combat est plus grand que moi — et c'est exactement pourquoi ça vaut.",
+      "Je veux faire partie de quelque chose.",
+      "Seul, mon existence ne pèse pas assez.",
+      "Je veux que ce que je fais compte pour plus que moi."
+    ],
+
+    "formesInconscientes": [
+      "Appartenir à quelque chose de grand m'évite de regarder ce que je suis seul.",
+      "Si la cause est juste, mes sacrifices et mes erreurs personnels comptent moins.",
+      "L'identité collective me protège d'une identité personnelle que je ne sais pas tenir."
+    ],
+
+    "signesComportementaux": [
+      "engagement fort dans une cause, un groupe, une institution",
+      "sacrifice personnel au nom du collectif",
+      "identité largement définie par l'appartenance",
+      "difficulté à accepter les contradictions internes du groupe",
+      "résistance à quitter même si le groupe déçoit"
+    ],
+
+    "enjeux": [
+      "si ce à quoi il appartient mérite vraiment ce qu'il lui donne",
+      "ce qu'il est en dehors de cette appartenance",
+      "si la cause peut se passer de lui — et comment il le vit"
+    ],
+
+    "risques": [
+      "perdre soi dans le collectif — n'exister que par l'appartenance",
+      "défendre l'institution contre l'évidence parce que la remettre en cause serait se remettre en cause",
+      "désillusion — et vide qui suit",
+      "être utilisé par ce à quoi il appartient"
+    ],
+
+    "masquesPossibles": [
+      "idéalisme affiché qui masque un besoin d'appartenance",
+      "engagement collectif qui compense une vie personnelle vide ou douloureuse",
+      "foi ou conviction affichée sans l'interrogation intérieure qui la nourrirait"
+    ],
+
+    "evolutionsPossibles": [
+      "désillusion — le groupe ou la cause se révèle imparfait",
+      "individuation — trouver un sens qui appartient à soi",
+      "engagement renouvelé — lucide cette fois",
+      "transmission — ce à quoi il appartient lui survit"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "dynamiquesRelationnelles", "cible": "groupe-de-soutien-informel", "note": "communauté plus intime que la cause" },
+      { "famille": "motivations", "cible": "laisser-une-trace", "note": "quand l'appartenance est aussi une façon de durer" },
+      { "famille": "blessuresEmotionnelles", "cible": "rejet-du-groupe", "note": "la blessure possible à l'origine de ce besoin d'appartenance" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur touche à la question du sens — l'une des questions les plus fondamentales narrativement.",
+      "La désillusion est le retournement classique : découvrir que ce à quoi on appartient est imparfait.",
+      "À distinguer de la conformité (pression sociale) : ici le choix est sincère, l'engagement réel."
+    ]
+  }
+]

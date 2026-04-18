@@ -1,0 +1,482 @@
+[
+  {
+    "id": "solitude",
+    "label": "Solitude",
+    "alias": [
+      "solitude",
+      "isolement",
+      "sentiment d'être seul",
+      "solitude intérieure",
+      "solitude dans la foule",
+      "manque de lien",
+      "vide relationnel",
+      "solitude choisie",
+      "solitude subie",
+      "manque de présence"
+    ],
+    "famille": "solitude-rejet",
+    "definitionCourte": "Sentiment de manque de lien ou de présence significative, qui peut exister seul ou entouré, et qui creuse un espace douloureux entre le personnage et les autres.",
+    "signesPhysiques": [
+      "regard qui traîne sur les autres sans chercher à les rejoindre",
+      "posture repliée, bras croisés ou mains liées",
+      "démarche lente sans destination précise",
+      "sourire rare et tardif",
+      "contact physique peu spontané",
+      "mouvement vers la sortie ou le bord de la pièce",
+      "regard qui s'attarde sur les groupes sans y entrer"
+    ],
+    "sensationsInternes": [
+      "creux dans la poitrine difficile à nommer",
+      "silence intérieur qui n'est pas reposant",
+      "impression d'être transparent pour les autres",
+      "envie de contact mêlée d'incapacité à le chercher",
+      "temps qui s'étire dans les moments seuls",
+      "légère douleur à l'observation du lien des autres",
+      "sentiment de ne pas appartenir tout à fait"
+    ],
+    "pensees": [
+      "Personne ne sait que je suis là.",
+      "Je pourrais partir et ça ne changerait rien.",
+      "Je ne sais pas à qui parler de ça.",
+      "Tout le monde a l'air de savoir comment faire.",
+      "Je suis entouré mais je n'ai personne.",
+      "Ce n'est pas eux qui ont tort — c'est moi qui n'arrive pas.",
+      "J'aimerais être quelqu'un à qui on pense.",
+      "Rentrer chez moi ne changera rien."
+    ],
+    "effetsVoixLangage": [
+      "réponses courtes qui ne relancent pas",
+      "incapacité à raconter spontanément",
+      "ton légèrement plat dans les échanges superficiels",
+      "bavardage de surface sans rien de vrai dedans",
+      "silence lors des pauses où l'autre attend une participation"
+    ],
+    "comportements": [
+      "reste en marge des groupes",
+      "observe sans participer",
+      "s'occupe les mains pour avoir l'air à sa place",
+      "part plus tôt que prévu",
+      "évite les espaces vides où la solitude serait trop nue",
+      "s'immerge dans une activité solo — lecture, écran, travail",
+      "relit de vieux messages ou regarde de vieilles photos"
+    ],
+    "masquesPossibles": [
+      "sociabilité de façade très efficace",
+      "humour qui fait rire sans laisser entrer",
+      "autonomie revendiquée comme un choix",
+      "discrétion présentée comme de la réserve"
+    ],
+    "evolutionsPossibles": [
+      "mélancolie si la solitude s'installe",
+      "dépression si elle se prolonge",
+      "lien profond si un interlocuteur perce la façade",
+      "acceptation si la solitude devient choisie et habitée"
+    ],
+    "contextesAggravants": [
+      "entourage nombreux mais superficiel",
+      "période de fête ou de réunion qui rend la solitude plus visible",
+      "perte récente d'un lien important",
+      "sentiment de ne pas mériter d'être compris"
+    ],
+    "contextesAttenuants": [
+      "présence d'une seule personne qui compte vraiment",
+      "activité solitaire choisie et aimée",
+      "espace et calme dans lequel la solitude est reposante",
+      "contact simple et spontané avec quelqu'un"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère solitude", "description": "Le personnage est seul momentanément. Légère mélancolie sans douleur." },
+      { "niveau": 2, "label": "Solitude sensible", "description": "Le manque de lien est perçu. Le personnage cherche sans trop savoir comment." },
+      { "niveau": 3, "label": "Solitude marquée", "description": "La solitude teinte les journées. Le personnage fonctionne mais à vide." },
+      { "niveau": 4, "label": "Isolement", "description": "La solitude est douloureuse. La connexion avec les autres semble hors d'atteinte." },
+      { "niveau": 5, "label": "Solitude absolue", "description": "Le personnage ne croit plus qu'une connexion réelle soit possible. Le vide est total." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage introverti",
+        "description": "La solitude est largement voulue — mais pas toujours. La frontière entre solitude choisie et solitude subie est parfois floue même pour lui."
+      },
+      {
+        "profil": "Personnage extraverti",
+        "description": "La solitude est insupportable. Sans les autres, il ne sait pas très bien qui il est. Il cherche du contact même quand ça ne répond pas à son besoin réel."
+      },
+      {
+        "profil": "Personnage après une perte de lien",
+        "description": "La solitude est l'empreinte de ce qui n'est plus là. Elle a la forme précise de quelqu'un. C'est plus douloureux que la solitude originelle."
+      }
+    ],
+    "notesEditoriales": [
+      "La solitude dans la foule est plus forte narrativement que la solitude physique.",
+      "Elle est plus touchante quand le personnage ne sait pas la nommer.",
+      "Éviter de la traiter comme un problème à résoudre : parfois la solitude est une condition, pas une crise.",
+      "Le moment où quelqu'un perce la solitude d'un personnage est un point de basculement très efficace."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "melancolie" },
+      { "type": "peut_evoluer_en", "cible": "depression" },
+      { "type": "peut_evoluer_en", "cible": "lien-profond" },
+      { "type": "souvent_associe_a", "cible": "sentiment-d-invisibilite" },
+      { "type": "peut_masquer", "cible": "peur-du-rejet" },
+      { "type": "peut_suivre", "cible": "abandon" }
+    ]
+  },
+  {
+    "id": "abandon",
+    "label": "Abandon",
+    "alias": [
+      "abandon",
+      "sentiment d'être laissé",
+      "peur de l'abandon",
+      "expérience d'abandon",
+      "désertion",
+      "être quitté",
+      "trahison par le départ",
+      "solitude imposée",
+      "être laissé seul",
+      "abandon affectif"
+    ],
+    "famille": "solitude-rejet",
+    "definitionCourte": "Expérience ou sentiment d'avoir été laissé par quelqu'un qui comptait — physiquement, émotionnellement ou affectivement — et qui laisse une blessure durable dans la façon de faire confiance.",
+    "signesPhysiques": [
+      "regard qui cherche encore la personne partie",
+      "posture effondrée ou au contraire trop rigide",
+      "yeux rouges ou gonflés",
+      "mains qui se serrent sur rien",
+      "immobilité dans un espace vide",
+      "déglutitions fréquentes",
+      "souffle court ou très contrôlé"
+    ],
+    "sensationsInternes": [
+      "vide là où quelqu'un était",
+      "douleur dans la poitrine qui ne ressemble pas à autre chose",
+      "impression que quelque chose a été retiré sans autorisation",
+      "froid intérieur difficile à réchauffer",
+      "sentiment de ne pas valoir suffisamment pour qu'on reste",
+      "oscillation entre la colère et la tristesse",
+      "conviction que ça se reproduira"
+    ],
+    "pensees": [
+      "Il est parti.",
+      "Je savais que ça arriverait.",
+      "Je ne valais pas la peine qu'il reste.",
+      "Pourquoi je n'ai pas vu venir ?",
+      "Je ne me permettrai plus jamais ça.",
+      "Comment est-ce que je continue maintenant ?",
+      "Ça fait trop mal pour que ça arrive encore.",
+      "Peut-être que c'est moi le problème."
+    ],
+    "effetsVoixLangage": [
+      "voix éteinte ou brisée",
+      "phrases inachevées qui portent le nom de l'autre",
+      "monosyllabes",
+      "silence long avant de répondre à quoi que ce soit",
+      "déni verbal qui contredit l'état physique"
+    ],
+    "comportements": [
+      "reste dans l'espace commun comme si l'autre allait revenir",
+      "garde les affaires de l'autre en place",
+      "consulte son téléphone en boucle",
+      "s'isole pour ne pas montrer l'état",
+      "rejette les proches qui veulent aider",
+      "rejoue mentalement les moments avant le départ",
+      "dort du mauvais côté du lit"
+    ],
+    "masquesPossibles": [
+      "indépendance affichée : « ça m'est égal »",
+      "colère froide qui cache la peine",
+      "suractivité pour ne pas s'arrêter",
+      "humour noir sur sa propre situation"
+    ],
+    "evolutionsPossibles": [
+      "deuil si l'abandon est définitif",
+      "colère si la peine devient insupportable",
+      "méfiance durable dans les relations suivantes",
+      "guérison progressive avec un lien sûr"
+    ],
+    "contextesAggravants": [
+      "abandon sans explication",
+      "abandon répété dans le passé",
+      "sentiment d'avoir été remplacé",
+      "abandon dans un moment de vulnérabilité"
+    ],
+    "contextesAttenuants": [
+      "présence d'un autre lien stable",
+      "explication honnête du départ",
+      "temps et espace pour traiter",
+      "lien maintenu sous une forme différente"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère déception", "description": "L'autre est parti mais ça pouvait se prévoir. La tristesse est réelle mais courte." },
+      { "niveau": 2, "label": "Sentiment d'abandon sensible", "description": "Le départ fait mal. Le vide est réel. Le personnage doit s'y adapter." },
+      { "niveau": 3, "label": "Abandon marqué", "description": "Le personnage est réellement touché. La vie ordinaire est plus difficile." },
+      { "niveau": 4, "label": "Blessure d'abandon", "description": "Le départ réactive quelque chose de plus profond. La douleur est disproportionnée mais réelle." },
+      { "niveau": 5, "label": "Abandon dévastateur", "description": "Le personnage ne voit pas comment continuer sans cette présence. La blessure est fondatrice." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage avec blessure d'abandon ancienne",
+        "description": "La moindre distance de l'autre réactive la blessure originelle. La réaction est disproportionnée par rapport à l'événement présent — mais cohérente avec ce qu'il a vécu."
+      },
+      {
+        "profil": "Personnage qui n'a jamais été abandonné",
+        "description": "La première expérience d'abandon est brutale précisément parce qu'elle est nouvelle. Il ne sait pas comment traverser ça."
+      },
+      {
+        "profil": "Personnage qui s'y attendait",
+        "description": "Le sentiment d'abandon était anticipé. La confirmation est presque un soulagement étrange — mais la douleur est quand même là."
+      }
+    ],
+    "notesEditoriales": [
+      "La blessure d'abandon est l'une des plus durables et des plus narrativement productives.",
+      "Elle informe les comportements relationnels bien longtemps après l'événement déclencheur.",
+      "Un personnage qui a peur de l'abandon sabote parfois ses relations avant qu'elles ne se terminent — tension narratif très riche.",
+      "Ne pas la confondre avec la solitude : l'abandon a un visage précis."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "deuil" },
+      { "type": "peut_evoluer_en", "cible": "colere" },
+      { "type": "peut_evoluer_en", "cible": "mefiance" },
+      { "type": "souvent_associe_a", "cible": "solitude" },
+      { "type": "peut_declencher", "cible": "attachement-anxieux" },
+      { "type": "peut_suivre", "cible": "rupture" }
+    ]
+  },
+  {
+    "id": "rejet",
+    "label": "Rejet",
+    "alias": [
+      "rejet",
+      "exclusion",
+      "refus",
+      "mise à l'écart",
+      "être rejeté",
+      "non-acceptation",
+      "renvoi",
+      "rejet social",
+      "rejet affectif",
+      "ne pas être voulu"
+    ],
+    "famille": "solitude-rejet",
+    "definitionCourte": "Expérience d'être explicitement ou implicitement non voulu, non accepté ou exclu d'un groupe, d'une relation ou d'un espace, qui touche directement la valeur que le personnage se reconnaît.",
+    "signesPhysiques": [
+      "rougeur subite",
+      "regard qui tombe vers le sol",
+      "corps qui se rétracte et s'efface",
+      "sourire figé qui ne sait pas quoi faire",
+      "gestes interrompus à mi-chemin",
+      "mains qui s'accrochent à un objet ou se joignent",
+      "pas qui s'arrêtent avant d'avoir décidé de s'arrêter"
+    ],
+    "sensationsInternes": [
+      "brûlure au visage",
+      "contraction dans la poitrine",
+      "envie de disparaître physiquement",
+      "sensation d'être vu en tant que manque",
+      "chaleur dans les oreilles",
+      "impression de vide autour de soi",
+      "nœud dans le ventre"
+    ],
+    "pensees": [
+      "Il ne veut pas de moi.",
+      "Je m'y attendais.",
+      "Je n'aurais pas dû essayer.",
+      "C'est moi le problème.",
+      "Tout le monde a vu.",
+      "Je ne recommencerai pas.",
+      "Je me suis trompé sur ce que j'étais pour eux.",
+      "Est-ce que j'aurais pu faire autrement ?"
+    ],
+    "effetsVoixLangage": [
+      "voix plus petite, moins assurée",
+      "réponses très courtes",
+      "tentative de légèreté qui sonne faux",
+      "départ précipité de la conversation",
+      "formulations qui minimisent le rejet pour en réduire l'impact"
+    ],
+    "comportements": [
+      "se retire rapidement",
+      "évite les espaces où le rejet pourrait se répéter",
+      "ne se présente plus volontairement",
+      "cherche une validation compensatoire ailleurs",
+      "rationalise le rejet",
+      "change de comportement pour devenir acceptable",
+      "s'isole plutôt que de risquer un nouveau rejet"
+    ],
+    "masquesPossibles": [
+      "indifférence froide",
+      "rire qui dédramatise",
+      "agressivité préventive",
+      "autonomie revendiquée"
+    ],
+    "evolutionsPossibles": [
+      "honte si le rejet est public",
+      "colère si le rejet paraît injuste",
+      "résignation si la répétition s'installe",
+      "confiance retrouvée si un autre groupe accepte"
+    ],
+    "contextesAggravants": [
+      "rejet public ou observable",
+      "rejet par un groupe auquel on voulait appartenir",
+      "rejet répété",
+      "rejet par quelqu'un d'admiré ou d'aimé"
+    ],
+    "contextesAttenuants": [
+      "explication honnête du refus",
+      "présence d'un autre lien qui valide",
+      "rejet vécu comme une incompatibilité plutôt qu'un jugement de valeur"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Léger rejet", "description": "L'autre n'est pas intéressé. Le personnage le note et passe." },
+      { "niveau": 2, "label": "Rejet sensible", "description": "Ça pique. Le personnage y revient. Il se demande pourquoi." },
+      { "niveau": 3, "label": "Rejet marqué", "description": "La blessure est réelle. Elle touche à la valeur perçue du personnage." },
+      { "niveau": 4, "label": "Exclusion", "description": "Le rejet est institutionnel ou collectif. Le personnage est dehors sans recours." },
+      { "niveau": 5, "label": "Rejet fondamental", "description": "Le personnage est rejeté pour ce qu'il est, pas pour ce qu'il fait. La blessure est existentielle." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage avec faible estime de lui-même",
+        "description": "Le rejet confirme ce qu'il savait déjà. Il ne s'en étonne pas. Il est malheureux — mais d'une façon presque familière."
+      },
+      {
+        "profil": "Personnage habituellement accepté",
+        "description": "Le rejet est déroutant. Il n'a pas de grille pour l'interpréter. Il cherche une erreur factuelle plutôt que de toucher au sentiment d'insuffisance."
+      },
+      {
+        "profil": "Personnage marginal ou différent",
+        "description": "Le rejet est récurrent. Il s'est forgé des défenses. Il sait qu'il ne sera pas accepté partout — et certaines de ses défenses sont plus solides que ses espoirs."
+      }
+    ],
+    "notesEditoriales": [
+      "Le rejet est l'une des douleurs sociales les plus universellement reconnues — facile à transmettre au lecteur.",
+      "Il gagne en force quand l'enjeu pour le personnage était réel.",
+      "La scène d'après le rejet est souvent plus intéressante que la scène du rejet.",
+      "Distinguer le rejet actif (refus explicite) du rejet passif (exclusion silencieuse) — leurs effets narratifs diffèrent."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "honte" },
+      { "type": "peut_evoluer_en", "cible": "colere" },
+      { "type": "peut_evoluer_en", "cible": "solitude" },
+      { "type": "souvent_associe_a", "cible": "blessure-d-estime" },
+      { "type": "peut_declencher", "cible": "evitement-social" },
+      { "type": "peut_suivre", "cible": "tentative-de-lien" }
+    ]
+  },
+  {
+    "id": "isolement",
+    "label": "Isolement",
+    "alias": [
+      "isolement",
+      "coupure du monde",
+      "retrait total",
+      "isolation",
+      "repli sur soi",
+      "déconnexion",
+      "solitude choisie par protection",
+      "exclusion progressive",
+      "coupure volontaire",
+      "enfermement affectif"
+    ],
+    "famille": "solitude-rejet",
+    "definitionCourte": "État de séparation progressive ou totale du monde extérieur, qu'il soit choisi comme protection ou subi comme conséquence, qui finit par modifier la relation du personnage à lui-même.",
+    "signesPhysiques": [
+      "corps tourné vers l'intérieur de la pièce, pas vers les autres",
+      "contact physique quasi inexistant",
+      "regard qui ne cherche pas le contact",
+      "vêtements ou espace physique qui créent une barrière",
+      "réponses au minimum",
+      "absence d'initiative de mouvement vers l'autre",
+      "posture statique prolongée"
+    ],
+    "sensationsInternes": [
+      "calme étrange qui n'est pas de la paix",
+      "engoudrissement des émotions",
+      "frontière nette entre soi et le monde extérieur",
+      "légèreté d'être sans attente envers les autres",
+      "vide qui peut sembler confortable au début",
+      "perte progressive du désir de contact",
+      "difficulté croissante à imaginer ce que serait d'être avec les autres"
+    ],
+    "pensees": [
+      "Je suis mieux seul.",
+      "Ça fait moins mal.",
+      "Je n'ai pas besoin des autres.",
+      "Si je ne m'investis pas, je ne peux pas être blessé.",
+      "Le monde continue sans moi — c'est bien.",
+      "Je ne sais plus comment faire autrement.",
+      "Ça fait longtemps que personne ne m'a demandé comment j'allais.",
+      "Je pourrais disparaître et ça prendrait du temps avant que quelqu'un s'en aperçoive."
+    ],
+    "effetsVoixLangage": [
+      "minimum vital dans les échanges",
+      "réponses factuelles, sans fond",
+      "fin de conversation provoquée doucement",
+      "absence de récit personnel",
+      "voix qui a perdu sa modulation habituelle"
+    ],
+    "comportements": [
+      "décline les invitations systématiquement",
+      "répond de moins en moins aux messages",
+      "aménage son espace pour ne pas avoir à interagir",
+      "fait ses achats, ses démarches à des heures creuses",
+      "n'initie aucun contact",
+      "perd le réflexe de partager les choses qui lui arrivent"
+    ],
+    "masquesPossibles": [
+      "autonomie revendiquée haut et fort",
+      "vie très remplie en apparence",
+      "présence sur les réseaux sociaux qui masque l'absence réelle"
+    ],
+    "evolutionsPossibles": [
+      "dépression si l'isolement se prolonge",
+      "paix si l'isolement est vraiment choisi et habité",
+      "retour progressif si quelqu'un fait le premier pas",
+      "crise si quelque chose force la confrontation avec l'extérieur"
+    ],
+    "contextesAggravants": [
+      "blessures relationnelles répétées",
+      "environnement physique qui facilite le repli",
+      "mode de vie qui ne force pas les interactions",
+      "conviction que les autres ne peuvent pas comprendre"
+    ],
+    "contextesAttenuants": [
+      "quelqu'un qui insiste sans menacer",
+      "événement qui force une sortie",
+      "activité partagée sans pression relationnelle"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère mise à distance", "description": "Le personnage réduit ses interactions sans les supprimer." },
+      { "niveau": 2, "label": "Retrait sensible", "description": "Les relations se font plus rares. Les proches commencent à s'interroger." },
+      { "niveau": 3, "label": "Isolement marqué", "description": "La coupure est volontaire et stable. Le personnage s'y est organisé." },
+      { "niveau": 4, "label": "Isolation profonde", "description": "Le personnage vit sans contacts réels. Il ne les manque plus, ou presque." },
+      { "niveau": 5, "label": "Enfermement total", "description": "L'isolement est devenu le seul mode connu. Revenir est presque impensable." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage blessé",
+        "description": "L'isolement est une armure. Il ne va pas bien — mais il va moins mal qu'avant quand les autres le blessaient. Il a choisi la douleur sourde contre la douleur vive."
+      },
+      {
+        "profil": "Personnage autosuffisant",
+        "description": "L'isolement n'est pas une souffrance — c'est une préférence. Il est bien seul. Le problème n'est pas l'isolement mais ce que les autres en pensent."
+      },
+      {
+        "profil": "Personnage qui ne s'en rend pas compte",
+        "description": "L'isolement s'est installé progressivement. Il n'a pas senti la frontière. Il pense encore avoir des relations — jusqu'à ce que quelque chose lui montre le vide."
+      }
+    ],
+    "notesEditoriales": [
+      "L'isolement progressif est l'un des arcs narratifs les plus réalistes et les moins dramatiques — sa force est dans la lenteur.",
+      "Un personnage isolé qui renoue est une transformation narrative forte.",
+      "Ne pas le traiter comme une pathologie uniquement : l'isolement peut être une solution imparfaite mais cohérente.",
+      "L'isolement révèle ce qu'un personnage pense vraiment mériter comme vie."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "depression" },
+      { "type": "peut_evoluer_en", "cible": "reconnexion" },
+      { "type": "souvent_associe_a", "cible": "solitude" },
+      { "type": "peut_masquer", "cible": "blessure-relationnelle" },
+      { "type": "peut_suivre", "cible": "rejet-repete" },
+      { "type": "peut_declencher", "cible": "retour-difficile" }
+    ]
+  }
+]

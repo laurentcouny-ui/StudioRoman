@@ -1,0 +1,335 @@
+[
+  {
+    "id": "decouvrir-ce-qui-s-est-vraiment-passe",
+    "label": "Découvrir ce qui s'est vraiment passé",
+    "famille": "vérité et justice",
+    "definitionCourte": "Le personnage agit pour reconstituer une vérité qui lui a été cachée, volée ou déformée. Il veut savoir — même si ce qu'il trouvera pourrait tout changer.",
+
+    "moteurProfond": "Je vis avec une version incomplète ou fausse de ce qui s'est passé. Tant que je ne sais pas, je ne peux pas avancer — ou comprendre qui je suis vraiment.",
+
+    "formesConscientes": [
+      "On m'a menti. Je veux savoir la vérité.",
+      "Il y a quelque chose que je ne comprends pas et j'ai besoin de comprendre.",
+      "Cette version ne tient pas. Quelque chose manque.",
+      "Je ne peux pas faire la paix avec ça si je ne sais pas vraiment."
+    ],
+
+    "formesInconscientes": [
+      "La vérité me donnera le contrôle sur une histoire qui m'a été retirée.",
+      "Peut-être que si je sais, je pourrai m'absoudre — ou accuser correctement.",
+      "Je cherche une version qui rende le monde logique à nouveau."
+    ],
+
+    "signesComportementaux": [
+      "investigation active — recherche de témoins, d'archives, de preuves",
+      "retour sur le passé — lieux, objets, personnes",
+      "questions posées là où d'autres n'en poseraient pas",
+      "attention aux contradictions dans les récits des autres",
+      "résistance à clore la question tant qu'elle reste ouverte"
+    ],
+
+    "enjeux": [
+      "si la vérité est encore accessible — ou si elle a disparu avec les témoins",
+      "ce que la vérité fera à ceux qu'il aime si elle est révélée",
+      "si le personnage est prêt à ce qu'il pourrait trouver"
+    ],
+
+    "risques": [
+      "vérité qui détruit quelque chose qu'on aurait préféré garder intact",
+      "reconstitution partielle — plus dangereuse que le vide initial",
+      "obsession qui prend toute la place au détriment du présent",
+      "vérité qui ne résout rien — le mystère comblé laisse un autre vide"
+    ],
+
+    "masquesPossibles": [
+      "curiosité intellectuelle affichée — 'je veux juste comprendre'",
+      "enquête professionnelle ou pratique qui masque la dimension personnelle",
+      "aide à un tiers pour accéder à une vérité qui concerne soi"
+    ],
+
+    "evolutionsPossibles": [
+      "vérité trouvée — et transformation de la compréhension de toute sa vie",
+      "vérité impossible à trouver — et apprentissage de vivre avec l'incertitude",
+      "vérité partielle — qui ouvre plus de questions qu'elle n'en ferme",
+      "refus de la vérité trouvée — trop difficile à intégrer"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "dynamiquesRelationnelles", "cible": "relation-avec-ancetre-ou-passe-familial", "note": "quand la vérité cherchée concerne un passé familial" },
+      { "famille": "motivations", "cible": "comprendre-pourquoi", "note": "la forme plus intérieure de ce moteur" },
+      { "famille": "blessuresEmotionnelles", "cible": "secret-de-famille", "note": "le secret comme obstacle à la vérité" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est le moteur classique de l'enquête, du thriller, du roman familial.",
+      "Sa force est dans l'asymétrie : quelqu'un sait ce que le personnage cherche.",
+      "La vraie question narrative n'est pas 'quelle est la vérité ?' mais 'qu'est-ce que le personnage en fait quand il la trouve ?'"
+    ]
+  },
+  {
+    "id": "comprendre-pourquoi",
+    "label": "Comprendre pourquoi",
+    "famille": "vérité et justice",
+    "definitionCourte": "Le personnage agit pour comprendre la logique intérieure de quelqu'un qui l'a blessé, trahi ou dépassé. Non pour excuser, mais pour que l'acte ait un sens — parce que l'incompréhensible est insupportable.",
+
+    "moteurProfond": "Ce que cette personne a fait n'a pas de sens pour moi. Si je comprends pourquoi, peut-être que ça deviendra supportable.",
+
+    "formesConscientes": [
+      "Je veux comprendre, pas lui pardonner.",
+      "Comment quelqu'un peut faire ça ?",
+      "Il doit y avoir une raison.",
+      "Je ne peux pas clore ça sans comprendre."
+    ],
+
+    "formesInconscientes": [
+      "Si je comprends, je reprends une forme de contrôle sur ce qui m'est arrivé.",
+      "Peut-être que comprendre effacera la douleur.",
+      "Si je comprends assez, je saurai si c'était ma faute."
+    ],
+
+    "signesComportementaux": [
+      "approche de la personne concernée — directement ou indirectement",
+      "reconstitution de son histoire, de ses motivations possibles",
+      "conversations qui cherchent à saisir l'autre de l'intérieur",
+      "résistance à clore le dossier tant que c'est incompréhensible",
+      "fascination parfois mêlée de répulsion pour la personne"
+    ],
+
+    "enjeux": [
+      "si comprendre est possible — ou si certains actes restent opaques",
+      "si comprendre mène à quelque chose — pardon, colère, paix",
+      "ce que le personnage fera de cette compréhension"
+    ],
+
+    "risques": [
+      "comprendre sans pouvoir faire la paix — pire que ne pas savoir",
+      "empathie qui dérive vers la justification",
+      "obsession de comprendre qui prolonge la douleur",
+      "rencontre avec quelqu'un qui n'a pas de réponse — ou qui ment"
+    ],
+
+    "masquesPossibles": [
+      "curiosité intellectuelle qui masque une blessure personnelle",
+      "analyse distante — prendre de la distance émotionnelle via la compréhension",
+      "travail créatif ou professionnel sur le sujet comme substitut à l'approche directe"
+    ],
+
+    "evolutionsPossibles": [
+      "compréhension atteinte — et ce qu'elle change (ou ne change pas)",
+      "acceptation que certaines choses ne s'expliquent pas",
+      "empathie inattendue — comprendre humanise",
+      "découverte que la vraie question était autre chose"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "motivations", "cible": "decouvrir-ce-qui-s-est-vraiment-passe", "note": "la forme factuelle du même besoin" },
+      { "famille": "blessuresEmotionnelles", "cible": "trahison-confiance", "note": "souvent la blessure à comprendre" },
+      { "famille": "emotions", "cible": "desenchantement", "note": "état émotionnel souvent associé au début de ce moteur" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est plus intérieur que la quête de vérité factuelle — il s'agit de sens, pas d'information.",
+      "La différence entre comprendre et excuser est une ligne narrative à ne pas effacer.",
+      "Particulièrement fort dans les récits de réconciliation, de confrontation avec un bourreau ou de deuil."
+    ]
+  },
+  {
+    "id": "retablir-la-verite-pour-un-tiers",
+    "label": "Rétablir la vérité pour un tiers",
+    "famille": "vérité et justice",
+    "definitionCourte": "Le personnage agit pour réparer la réputation, l'honneur ou la mémoire de quelqu'un d'autre — mort ou vivant — qui a été injustement accusé, effacé ou déformé. Ce n'est pas son histoire mais il la fait sienne.",
+
+    "moteurProfond": "La vérité sur cette personne a été volée. Quelqu'un doit la rendre. C'est moi.",
+
+    "formesConscientes": [
+      "Il ne pouvait pas se défendre. Je dois le faire pour lui.",
+      "L'histoire officielle est fausse. Je vais le prouver.",
+      "Elle ne peut plus parler. Mais moi, je peux.",
+      "Cette injustice dure depuis trop longtemps."
+    ],
+
+    "formesInconscientes": [
+      "En rétablissant sa vérité, je répare quelque chose dans ma propre histoire.",
+      "Si j'avais agi plus tôt, cette distorsion n'aurait peut-être pas eu lieu.",
+      "Cette personne représente quelque chose qui me tient."
+    ],
+
+    "signesComportementaux": [
+      "collecte de preuves, de témoignages, d'archives",
+      "confrontation avec ceux qui ont construit le mensonge",
+      "transmission — rendre la vérité publique ou à des personnes précises",
+      "attachement particulier à cette figure et à sa réputation",
+      "résistance aux arguments qui minimisent l'injustice"
+    ],
+
+    "enjeux": [
+      "si la vérité peut être rétablie ou si le mensonge a trop ancré",
+      "ce que le personnage risque en défendant cette vérité",
+      "si la personne concernée — ou ses proches — voulait cet acte"
+    ],
+
+    "risques": [
+      "rétablir une vérité qui blesse d'autres innocents",
+      "découvrir que la vérité est plus complexe — la figure n'était pas tout à fait ce qu'il croyait",
+      "opposition de ceux qui ont intérêt à maintenir le mensonge",
+      "sacrifice personnel excessif pour une cause qui ne concerne pas directement"
+    ],
+
+    "masquesPossibles": [
+      "engagement dans une cause présenté comme impersonnel",
+      "rigueur professionnelle ou intellectuelle qui masque un attachement personnel",
+      "justice abstraite qui cache une dette ou un lien particulier"
+    ],
+
+    "evolutionsPossibles": [
+      "réhabilitation — la vérité reconnue",
+      "découverte que la personne défendue était elle-même imparfaite — et révision de l'engagement",
+      "échec — et deuil de cette vérité non entendue",
+      "transmission — passer le flambeau à quelqu'un d'autre"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "motivations", "cible": "vivre-pour-quelqu-un-qui-ne-peut-plus", "note": "quand la figure est morte et qu'on agit en son nom" },
+      { "famille": "dynamiquesRelationnelles", "cible": "lien-avec-mort-recent", "note": "le lien qui motive cet acte" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur crée des personnages qui agissent pour d'autres — et qui risquent d'oublier leurs propres intérêts.",
+      "La découverte que la figure défendue était imparfaite est souvent le tournant dramatique le plus fort.",
+      "À utiliser dans les récits sur la mémoire, l'histoire, la réhabilitation."
+    ]
+  },
+  {
+    "id": "obtenir-reparation",
+    "label": "Obtenir réparation",
+    "famille": "vérité et justice",
+    "definitionCourte": "Le personnage agit pour que l'injustice qu'il a subie soit reconnue et compensée — non pour se venger, mais pour que le tort soit officiellement nommé et que quelque chose le compense.",
+
+    "moteurProfond": "Ce qui s'est passé était injuste. Je veux que ça soit reconnu. Pas seulement que ça ne se répète pas — que ce qui a eu lieu soit nommé comme ce qu'il était.",
+
+    "formesConscientes": [
+      "Je veux des excuses.",
+      "Je veux que ce soit reconnu officiellement.",
+      "Ce n'est pas une question d'argent — c'est une question de justice.",
+      "Quelqu'un doit être tenu pour responsable."
+    ],
+
+    "formesInconscientes": [
+      "Si la réparation est accordée, j'aurai la preuve que ce qui m'est arrivé comptait.",
+      "La réparation me rend ma dignité.",
+      "Sans reconnaissance, je n'arrive pas à aller de l'avant."
+    ],
+
+    "signesComportementaux": [
+      "démarches formelles ou informelles pour obtenir reconnaissance",
+      "résistance à 'tourner la page' tant que ce n'est pas réparé",
+      "attention aux reconnaissances partielles — refus si ça ne suffit pas",
+      "coalition avec d'autres qui ont subi la même injustice",
+      "récit de l'injustice gardé vivant — témoignages, archives"
+    ],
+
+    "enjeux": [
+      "si la réparation est possible — certaines institutions ou personnes ne reconnaissent jamais",
+      "ce que la réparation changerait vraiment dans la vie du personnage",
+      "à quel moment accepter une réparation imparfaite"
+    ],
+
+    "risques": [
+      "vie organisée autour de l'obtention d'une réparation qui ne vient pas",
+      "réparation accordée qui ne suffit pas — et déception",
+      "opposition de ceux qui refusent de reconnaître",
+      "coût personnel élevé de la poursuite de la réparation"
+    ],
+
+    "masquesPossibles": [
+      "combat juridique ou politique qui masque un besoin émotionnel de reconnaissance",
+      "pragmatisme — 'je veux juste ce qui est dû' — qui cache une blessure profonde",
+      "solidarité avec d'autres victimes qui dilue la dimension personnelle"
+    ],
+
+    "evolutionsPossibles": [
+      "réparation accordée — et processus de reconstruction qui commence vraiment",
+      "réparation refusée — et choix entre lâcher prise et escalade",
+      "découverte que la réparation extérieure ne suffit pas sans réparation intérieure",
+      "transmission — la lutte continue après lui"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "emotions", "cible": "rancœur", "note": "état émotionnel qui persiste tant que la réparation n'est pas obtenue" },
+      { "famille": "motivations", "cible": "punir-ce-que-les-institutions-n-ont-pas-puni", "note": "quand la réparation officielle échoue et que le personnage prend les choses en main" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur explore la différence entre justice et vengeance — la réparation est une forme de justice qui n'implique pas nécessairement de punir.",
+      "L'enjeu de la reconnaissance est souvent plus important que la compensation matérielle.",
+      "Fort dans les récits sur les injustices collectives, les accidents, les abus institutionnels."
+    ]
+  },
+  {
+    "id": "punir-ce-que-les-institutions-n-ont-pas-puni",
+    "label": "Punir ce que les institutions n'ont pas puni",
+    "famille": "vérité et justice",
+    "definitionCourte": "Le personnage agit parce que les structures officielles ont failli — la justice n'a pas rendu son verdict, les responsables n'ont pas été tenus pour tels. Il se substitue à l'institution défaillante.",
+
+    "moteurProfond": "Le système a laissé passer ça. Si personne ne fait rien, ce n'est pas juste. Je vais faire ce que le système n'a pas fait.",
+
+    "formesConscientes": [
+      "Il n'a pas eu ce qu'il méritait. La justice a échoué.",
+      "Si ce n'est pas moi, personne.",
+      "Les règles ne fonctionnent pas pour tout le monde.",
+      "Je ne peux pas laisser ça sans conséquences."
+    ],
+
+    "formesInconscientes": [
+      "En punissant, je répare quelque chose en moi autant qu'en lui.",
+      "Je me donne du pouvoir sur une situation où j'ai été impuissant.",
+      "La justice que je rends est plus vraie que celle des institutions."
+    ],
+
+    "signesComportementaux": [
+      "action hors des cadres officiels — hors-la-loi ou à la limite",
+      "certitude morale — convaincu d'avoir raison",
+      "résistance aux arguments qui défendent l'institution ou les procédures",
+      "risque personnel accepté pour accomplir la punition",
+      "difficulté à s'arrêter si le moteur n'est pas interrogé"
+    ],
+
+    "enjeux": [
+      "si sa justice est vraiment plus juste que celle de l'institution",
+      "ce qu'il devient en prenant la place du juge",
+      "les conséquences pour lui et pour d'autres si il agit hors-cadre"
+    ],
+
+    "risques": [
+      "se tromper de cible — la certitude morale peut être aveugle",
+      "créer une injustice supplémentaire en voulant réparer",
+      "devenir ce qu'il punissait",
+      "perte irréparable — liberté, liens, vie — pour une justice personnelle"
+    ],
+
+    "masquesPossibles": [
+      "protection des victimes présentée comme altruiste",
+      "pragmatisme — 'je fais juste ce qui est nécessaire'",
+      "code moral personnel présenté comme universel"
+    ],
+
+    "evolutionsPossibles": [
+      "acte accompli — et conséquences sur lui-même",
+      "remise en question — doute sur sa propre légitimité",
+      "découverte qu'il s'est trompé — et charge que ça représente",
+      "récit qui se demande si l'acte était justifié — sans répondre clairement"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "conflits", "cible": "dilemme-ethique", "note": "le conflit moral que ce moteur génère" },
+      { "famille": "motivations", "cible": "obtenir-reparation", "note": "la version institutionnelle — avant de prendre les choses en main" },
+      { "famille": "traitsDeCaractere", "cible": "justicier", "note": "quand ce moteur devient un trait constitutif" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est le moteur classique du justicier — héros ou anti-héros selon le cadre narratif.",
+      "Sa force dramatique vient de l'ambiguïté morale : il a peut-être raison sur le fond mais tort sur la méthode.",
+      "La question de la légitimité de sa justice est plus intéressante narrativement que la question de sa culpabilité."
+    ]
+  }
+]

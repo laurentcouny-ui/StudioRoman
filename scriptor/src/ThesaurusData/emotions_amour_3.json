@@ -1,0 +1,456 @@
+[
+  {
+    "id": "compassion",
+    "label": "Compassion",
+    "alias": [
+      "compassion",
+      "pitié bienveillante",
+      "empathie profonde",
+      "douleur de voir souffrir",
+      "cœur touché par l'autre",
+      "souffrance partagée",
+      "solidarité émotionnelle",
+      "attendrissement devant la peine",
+      "sentiment de vouloir soulager",
+      "ouverture au malheur de l'autre"
+    ],
+    "famille": "amour-tendresse",
+    "definitionCourte": "Émotion née de la perception de la souffrance d'autrui, qui pousse le personnage à être touché, à vouloir soulager, et parfois à agir — sans confusion entre sa propre douleur et celle de l'autre.",
+    "signesPhysiques": [
+      "regard doux et soutenu vers la personne qui souffre",
+      "légère inclinaison du corps vers l'avant",
+      "main qui se tend ou qui s'arrête à mi-chemin",
+      "expression du visage qui s'adoucit",
+      "ralentissement des gestes",
+      "voix plus basse et plus douce",
+      "pauses plus longues dans la parole"
+    ],
+    "sensationsInternes": [
+      "serrement doux dans la poitrine à la vue de la souffrance",
+      "désir concret de faire quelque chose — pas seulement de ressentir",
+      "impression de partager quelque chose avec l'autre sans se fondre en lui",
+      "chaleur mêlée d'une légère tristesse",
+      "sentiment d'être pleinement présent à ce que l'autre vit",
+      "légèreté paradoxale — être touché sans être submergé"
+    ],
+    "pensees": [
+      "Ça doit être si difficile pour lui.",
+      "Je voudrais pouvoir faire quelque chose.",
+      "Je ne sais pas comment il tient.",
+      "Si j'étais à sa place...",
+      "Il mérite mieux que ça.",
+      "Il a besoin de quelqu'un qui soit vraiment là.",
+      "Je ne peux pas rester sans rien faire.",
+      "Sa douleur est réelle — il faut que ça compte."
+    ],
+    "effetsVoixLangage": [
+      "voix plus lente et plus douce",
+      "questions ouvertes plutôt qu'affirmations",
+      "moins de mots — plus de présence",
+      "évitement des conseils non demandés",
+      "formulations qui valident plutôt que qui minimisent"
+    ],
+    "comportements": [
+      "se rapproche physiquement",
+      "offre de l'aide concrète — pas seulement de l'empathie",
+      "reste présent même sans savoir quoi dire",
+      "ne cherche pas à réparer mais à accompagner",
+      "porte quelque chose pour l'autre si possible",
+      "peut mettre de côté ses propres besoins pour l'instant"
+    ],
+    "masquesPossibles": [
+      "distance protectrice quand la compassion est épuisante",
+      "efficacité froide pour canaliser l'émotion",
+      "humour léger pour détendre sans nier la douleur"
+    ],
+    "evolutionsPossibles": [
+      "fatigue de compassion si elle est trop longtemps non réciprocée",
+      "amour si la proximité crée un lien profond",
+      "culpabilité si le personnage ne peut pas aider autant qu'il le voudrait",
+      "sagesse si la compassion est traversée avec discernement"
+    ],
+    "contextesAggravants": [
+      "souffrance injuste ou évitable",
+      "enfant ou personne vulnérable qui souffre",
+      "impuissance à soulager malgré la compassion",
+      "similitude avec sa propre expérience passée"
+    ],
+    "contextesAttenuants": [
+      "possibilité d'agir concrètement",
+      "présence d'autres personnes qui partagent le soin",
+      "validation que ce qui est fait compte"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère sympathie", "description": "Le personnage est désolé pour l'autre. Ça ne l'arrête pas vraiment." },
+      { "niveau": 2, "label": "Compassion sensible", "description": "Il est touché. Il pense à l'autre et voudrait faire quelque chose." },
+      { "niveau": 3, "label": "Compassion active", "description": "Il agit. La souffrance de l'autre l'engage concrètement." },
+      { "niveau": 4, "label": "Compassion profonde", "description": "Il porte quelque chose avec l'autre. Leur lien s'en trouve transformé." },
+      { "niveau": 5, "label": "Compassion totale", "description": "Il se dévoue. La souffrance de l'autre est devenue une part de sa propre vie." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui a souffert de la même façon",
+        "description": "La compassion est précise et fondée. Il sait exactement ce que l'autre ressent. Cela peut être un don — ou une projection dangereuse."
+      },
+      {
+        "profil": "Personnage froid ou contrôlé",
+        "description": "La compassion le prend de court. Il ne sait pas quoi en faire. Elle ressort par des actes plutôt que des mots."
+      },
+      {
+        "profil": "Soignant ou aidant professionnel",
+        "description": "Il a appris à gérer la compassion — à la ressentir sans se perdre dedans. Mais parfois elle perce les défenses professionnelles."
+      }
+    ],
+    "notesEditoriales": [
+      "Distinguer de la pitié (qui garde une distance) : la compassion se met au niveau de l'autre.",
+      "Distinguer de l'empathie (ressentir ce que l'autre ressent) : la compassion y ajoute le désir d'agir.",
+      "Elle crée des liens narratifs puissants — mais peut devenir oppressante si elle n'est pas partagée."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "amour" },
+      { "type": "peut_evoluer_en", "cible": "epuisement-moral" },
+      { "type": "souvent_associe_a", "cible": "tendresse" },
+      { "type": "peut_masquer", "cible": "propre-souffrance" },
+      { "type": "peut_declencher", "cible": "sacrifice-de-soi" }
+    ]
+  },
+  {
+    "id": "bienveillance",
+    "label": "Bienveillance",
+    "alias": [
+      "bienveillance",
+      "douceur envers l'autre",
+      "disposition favorable",
+      "amour sans attente",
+      "générosité de cœur",
+      "chaleur envers l'autre",
+      "vouloir le bien de l'autre",
+      "bonté active",
+      "attitude aimante",
+      "inclination positive"
+    ],
+    "famille": "amour-tendresse",
+    "definitionCourte": "Disposition affective stable qui pousse le personnage à vouloir le bien de l'autre, à l'accueillir tel qu'il est, et à agir en sa faveur — sans calcul, sans attente de retour.",
+    "signesPhysiques": [
+      "visage ouvert et détendu",
+      "regard doux qui accueille",
+      "sourire d'accueil simple et sincère",
+      "gestes lents et non menaçants",
+      "posture ouverte, tournée vers l'autre",
+      "voix douce, modulée",
+      "présence physique stable et rassurante"
+    ],
+    "sensationsInternes": [
+      "chaleur stable et large dans la poitrine",
+      "absence d'hostilité ou de méfiance",
+      "sentiment d'être relié aux autres de façon douce",
+      "légèreté de ne pas juger",
+      "désir que l'autre soit bien — sans en faire son affaire",
+      "paix intérieure qui permet d'être disponible"
+    ],
+    "pensees": [
+      "Il fait de son mieux.",
+      "Je lui veux du bien.",
+      "Ce n'est pas à moi de juger.",
+      "Qu'est-ce qui l'aiderait vraiment ?",
+      "Il mérite d'être traité avec soin.",
+      "Je peux lui laisser de l'espace.",
+      "Son chemin est le sien."
+    ],
+    "effetsVoixLangage": [
+      "ton chaleureux sans être envahissant",
+      "écoute réelle avant de parler",
+      "mots qui encouragent sans flatter",
+      "absence de jugement dans les formulations",
+      "disponibilité dans le rythme de la conversation"
+    ],
+    "comportements": [
+      "fait des gestes concrets sans en faire un événement",
+      "soutient sans envahir",
+      "n'impose pas ses solutions",
+      "laisse l'autre décider",
+      "reste disponible même quand ce n'est pas spectaculaire",
+      "traite également ceux qu'il apprécie et ceux qu'il connaît moins"
+    ],
+    "masquesPossibles": [
+      "bienveillance de façade qui cache du contrôle",
+      "douceur comme évitement du conflit",
+      "gentillesse compulsive qui efface le personnage lui-même"
+    ],
+    "evolutionsPossibles": [
+      "amour si la bienveillance se concentre sur une personne",
+      "épuisement si elle n'est jamais réciprocée",
+      "sagesse si elle s'étend sans s'épuiser",
+      "naïveté si elle ignore les intentions négatives de l'autre"
+    ],
+    "contextesAggravants": [
+      "manque de réciprocité répété",
+      "bienveillance mal interprétée comme de la faiblesse",
+      "situations où être bienveillant coûte quelque chose de concret"
+    ],
+    "contextesAttenuants": [
+      "entourage qui pratique aussi la bienveillance",
+      "conscience que ses actes font une différence",
+      "foi dans la valeur de ce qu'on fait, même sans résultat visible"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Politesse chaleureuse", "description": "Le personnage est aimable. Ça ne lui coûte rien." },
+      { "niveau": 2, "label": "Bienveillance sensible", "description": "Il s'intéresse vraiment à l'autre. Il veut que ça aille bien pour lui." },
+      { "niveau": 3, "label": "Bienveillance active", "description": "Il agit en faveur de l'autre sans qu'on lui demande." },
+      { "niveau": 4, "label": "Bienveillance profonde", "description": "Il donne quelque chose de réel — temps, présence, effort — parce que l'autre compte." },
+      { "niveau": 5, "label": "Amour inconditionnel", "description": "Il veut le bien de l'autre même quand l'autre ne le mérite pas ou ne le reconnaît pas." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage au naturel bienveillant",
+        "description": "La bienveillance est sa façon d'être par défaut. Il ne la remarque pas. Elle peut parfois le rendre vulnérable à ceux qui l'exploitent."
+      },
+      {
+        "profil": "Personnage qui a appris à être bienveillant",
+        "description": "La bienveillance est un choix conscient — souvent acquis après des années de dureté ou de méfiance. Elle lui demande encore un effort, ce qui la rend précieuse."
+      },
+      {
+        "profil": "Personnage en position d'autorité",
+        "description": "La bienveillance dans le pouvoir est rare et remarquée. Elle peut être mal comprise — prise pour de la faiblesse ou de la manipulation — ce qui l'isole parfois."
+      }
+    ],
+    "notesEditoriales": [
+      "La bienveillance est difficile à dramatiser car elle évite les conflits — son intérêt est dans le contraste qu'elle crée.",
+      "Elle est plus forte quand elle est active et concrète, pas seulement une attitude.",
+      "Un personnage bienveillant dans un contexte dur ou violent crée une tension narrative puissante."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "compassion" },
+      { "type": "peut_evoluer_en", "cible": "amour" },
+      { "type": "souvent_associe_a", "cible": "tendresse" },
+      { "type": "peut_masquer", "cible": "faiblesse-percue" },
+      { "type": "peut_declencher", "cible": "confiance" }
+    ]
+  },
+  {
+    "id": "ferveur",
+    "label": "Ferveur",
+    "alias": [
+      "ferveur",
+      "ardeur",
+      "passion contenue",
+      "enthousiasme profond",
+      "dévotion ardente",
+      "brûlure intérieure",
+      "intensité émotionnelle positive",
+      "élan du cœur",
+      "passion pour une cause ou une personne",
+      "amour intense et actif"
+    ],
+    "famille": "amour-tendresse",
+    "definitionCourte": "Émotion intense et durable dans laquelle le personnage brûle pour quelque chose — une personne, une cause, un idéal — avec une ardeur qui le consume et le propulse à la fois.",
+    "signesPhysiques": [
+      "regard brillant, vivant",
+      "gestes plus larges et plus rapides",
+      "voix qui monte légèrement, portée par l'élan",
+      "corps qui se penche vers ce qui l'enflamme",
+      "sourire vif et involontaire",
+      "mains qui s'animent en parlant",
+      "difficulté à rester immobile"
+    ],
+    "sensationsInternes": [
+      "chaleur intense dans la poitrine, presque brûlante",
+      "énergie qui cherche une sortie",
+      "impression que quelque chose d'important est en jeu",
+      "légère ivresse mêlée de clarté",
+      "désir très fort d'agir, de donner, de prouver",
+      "sentiment que rien n'est impossible dans cet état"
+    ],
+    "pensees": [
+      "Ça compte vraiment.",
+      "Je ferais n'importe quoi pour ça.",
+      "Je ne peux pas m'en détacher.",
+      "Il faut que j'y consacre tout ce que j'ai.",
+      "Je n'ai jamais rien voulu aussi fort.",
+      "Même si ça coûte quelque chose, ça vaut la peine.",
+      "Je pourrais en parler sans jamais m'arrêter.",
+      "Quand je suis là-dedans, tout le reste s'efface."
+    ],
+    "effetsVoixLangage": [
+      "débit plus rapide quand le sujet est abordé",
+      "métaphores intenses et spontanées",
+      "difficultés à résumer — tout est important",
+      "conviction qui passe dans les formulations",
+      "incapacité à en parler avec détachement"
+    ],
+    "comportements": [
+      "agit avec une énergie disproportionnée",
+      "sacrifie d'autres priorités pour ce qui l'enflamme",
+      "cherche à convaincre les autres",
+      "supporte mal l'indifférence ou le scepticisme",
+      "revient toujours sur le sujet",
+      "est capable de tenir longtemps grâce à cet élan"
+    ],
+    "masquesPossibles": [
+      "calme apparent qui cache l'ardeur",
+      "retenue sociale qui ne laisse voir que la surface",
+      "cynisme défensif qui protège ce qui compte vraiment"
+    ],
+    "evolutionsPossibles": [
+      "épuisement si la ferveur n'est pas nourrie",
+      "fanatisme si elle n'est pas tempérée par la raison",
+      "amour profond si elle se concentre sur une personne",
+      "déception si l'objet de la ferveur s'avère indigne"
+    ],
+    "contextesAggravants": [
+      "opposition ou résistance à ce qui enflamme",
+      "menace sur ce à quoi il tient",
+      "rencontre avec quelqu'un qui partage la même ferveur"
+    ],
+    "contextesAttenuants": [
+      "espace et liberté pour exprimer la ferveur",
+      "résultat concret qui nourrit l'élan",
+      "présence d'un témoin qui comprend"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Intérêt soutenu", "description": "Le sujet lui tient à cœur. Il y consacre du temps." },
+      { "niveau": 2, "label": "Ardeur sensible", "description": "L'élan est là. Il parle du sujet avec chaleur et conviction." },
+      { "niveau": 3, "label": "Ferveur franche", "description": "Il brûle pour ça. Ses décisions en sont influencées." },
+      { "niveau": 4, "label": "Passion totale", "description": "Tout le reste s'organise autour de cet élan. Il y sacrifie de l'énergie." },
+      { "niveau": 5, "label": "Dévotion", "description": "Il est entier dans cet élan. Rien d'autre ne compte autant." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui découvre la ferveur tard",
+        "description": "Elle lui arrive comme une révélation après des années de tiédeur. Elle est d'autant plus intense qu'il ne l'espérait plus."
+      },
+      {
+        "profil": "Personnage habitué à la ferveur",
+        "description": "Elle est son mode naturel. Il la reconnaît et sait l'entretenir. Mais il sait aussi à quel point elle peut l'exposer."
+      },
+      {
+        "profil": "Personnage très contrôlé",
+        "description": "La ferveur le déstabilise — elle déborde de ses cadres habituels. Il peut la nier ou la canaliser avec un effort visible."
+      }
+    ],
+    "notesEditoriales": [
+      "La ferveur est l'émotion du personnage en feu — elle crée du mouvement, de l'élan, du conflit.",
+      "Elle est dramatiquement riche quand son objet est remis en question.",
+      "Distinguer de l'obsession (répétitive et fermée) : la ferveur est ouverte et généreuse."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "amour" },
+      { "type": "peut_evoluer_en", "cible": "epuisement-moral" },
+      { "type": "peut_evoluer_en", "cible": "desillusion" },
+      { "type": "souvent_associe_a", "cible": "enthousiasme" },
+      { "type": "peut_declencher", "cible": "engagement" }
+    ]
+  },
+  {
+    "id": "reverence",
+    "label": "Révérence",
+    "alias": [
+      "révérence",
+      "vénération",
+      "respect profond",
+      "admiration sacrée",
+      "sentiment du sacré",
+      "déférence intérieure",
+      "humilité devant la grandeur",
+      "amour mêlé d'effroi",
+      "respect qui touche à l'amour",
+      "sentiment de quelque chose de précieux et de grand"
+    ],
+    "famille": "amour-tendresse",
+    "definitionCourte": "Émotion complexe qui mêle admiration, respect profond et légère crainte devant quelque chose ou quelqu'un perçu comme grand, pur ou sacré — une forme d'amour qui se tient à distance par respect.",
+    "signesPhysiques": [
+      "corps qui s'incline légèrement ou qui se retient de s'approcher",
+      "voix qui baisse d'un ton",
+      "gestes plus mesurés, presque cérémoniels",
+      "regard indirect ou incliné légèrement vers le bas",
+      "silence avant de parler",
+      "mouvements plus lents et plus conscients",
+      "espace physique maintenu par choix"
+    ],
+    "sensationsInternes": [
+      "chaleur mêlée d'une légère constriction dans la gorge",
+      "sentiment d'être devant quelque chose qui le dépasse",
+      "désir de préserver ce qui est devant lui",
+      "légère retenue — ne pas trop prendre, ne pas abîmer",
+      "impression que certains mots seraient des profanations",
+      "mélange d'amour et d'humilité"
+    ],
+    "pensees": [
+      "Il ne faut pas gâcher ça.",
+      "Je ne mérite pas d'être là.",
+      "Ça demande à être traité avec soin.",
+      "Il y a quelque chose ici que je ne peux pas tout à fait nommer.",
+      "Je voudrais honorer ça plutôt que simplement le consommer.",
+      "Sa grandeur me mesure.",
+      "Je dois être digne de ce que je reçois ici."
+    ],
+    "effetsVoixLangage": [
+      "voix plus basse et plus lente",
+      "mots plus soigneusement choisis",
+      "réticence à parler à la légère",
+      "formulations indirectes pour ne pas réduire",
+      "silence possible, jugé plus juste que les mots"
+    ],
+    "comportements": [
+      "adopte un comportement plus formel ou plus soigné",
+      "évite de traiter légèrement ce qui est révéré",
+      "protège le sujet contre les atteintes des autres",
+      "apprend, étudie, mémorise ce qui lui importe",
+      "fait des gestes concrets d'honneur — fleurs, rituels, soins"
+    ],
+    "masquesPossibles": [
+      "indifférence affichée pour ne pas paraître naïf",
+      "ironie distante qui protège un attachement profond",
+      "détachement intellectuel qui cache l'émotion"
+    ],
+    "evolutionsPossibles": [
+      "amour profond si la révérence se rapproche",
+      "déception si ce qui est révéré s'avère ordinaire",
+      "transformation en dévotion si elle se stabilise",
+      "idolâtrie si elle perd tout sens critique"
+    ],
+    "contextesAggravants": [
+      "contact direct avec ce qui est révéré",
+      "menace sur ce qui est révéré",
+      "désacralisation par d'autres"
+    ],
+    "contextesAttenuants": [
+      "rituel ou geste qui permet d'honorer sans posséder",
+      "partage avec quelqu'un qui révère la même chose",
+      "acte créatif autour de l'objet de révérence"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Respect sincère", "description": "Le personnage traite avec soin. Ce n'est pas de l'amour mais presque." },
+      { "niveau": 2, "label": "Admiration profonde", "description": "La grandeur le touche. Il cherche à en apprendre plus, à être plus près." },
+      { "niveau": 3, "label": "Révérence sensible", "description": "Il adapte son comportement. Quelque chose de sacré est en jeu." },
+      { "niveau": 4, "label": "Vénération", "description": "Il organise sa vie autour de ce respect. Il protège activement ce qu'il révère." },
+      { "niveau": 5, "label": "Dévotion", "description": "La révérence est totale et transformante. Il s'efface devant ce qui est grand." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Croyant ou spirituel",
+        "description": "La révérence est une pratique connue. Il sait comment se tenir devant le sacré. Elle structure sa façon de voir le monde."
+      },
+      {
+        "profil": "Athée ou rationnel",
+        "description": "La révérence arrive sans cadre habituel. Elle le surprend devant une œuvre d'art, une personne, un lieu. Il ne sait pas très bien quoi en faire."
+      },
+      {
+        "profil": "Artiste",
+        "description": "La révérence devant les maîtres est sa boussole. Elle le guide et l'intimide. Elle peut devenir paralysante ou libératrice selon comment il la traite."
+      }
+    ],
+    "notesEditoriales": [
+      "La révérence crée une relation asymétrique entre personnage et objet — c'est son intérêt narratif.",
+      "Elle peut être une ressource ou une limite selon comment le personnage la gère.",
+      "Distinguer de l'idolâtrie (qui ne voit plus les défauts) : la révérence peut coexister avec la lucidité."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "amour" },
+      { "type": "peut_evoluer_en", "cible": "desillusion" },
+      { "type": "souvent_associe_a", "cible": "emerveillement" },
+      { "type": "peut_masquer", "cible": "desir" },
+      { "type": "peut_declencher", "cible": "devotion" }
+    ]
+  }
+]

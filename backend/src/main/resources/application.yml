@@ -1,0 +1,87 @@
+# Identité de l'application
+spring:
+  application:
+    name: scriptor-ia-backend
+  # Fichier local optionnel (gitignore) : identifiants OAuth Google « Desktop » côté serveur
+  config:
+    import: optional:file:./oauth-local.properties
+  # Un seul handler statique (SpaWebConfig) : évite les conflits avec le fallback SPA
+  web:
+    resources:
+      add-mappings: false
+  mvc:
+    async:
+      # Doit dépasser scriptor.ollama.request-timeout-seconds (génération Ollama CPU peut dépasser 3 min).
+      request-timeout: 360s
+  # Configuration du pool de threads asynchrones (Workers)
+  task:
+    execution:
+      pool:
+        core-size: 4           # Nombre de threads maintenus en permanence
+        max-size: 50           # Taille maximale du pool lors des pics de charge
+        queue-capacity: 1000   # Nombre de tâches acceptées en file d'attente
+
+  # Configuration SQLite (variables pour Docker / prod : SCR_SQLITE_PATH, etc.)
+  datasource:
+    # Durcissement SQLite contre les accès concurrents :
+    # - busy_timeout : attend avant SQLITE_BUSY (au lieu d'échouer immédiatement)
+    # - journal_mode WAL : meilleure coexistence lectures/écritures
+    # - synchronous NORMAL : compromis perf/sécurité recommandé avec WAL
+    url: jdbc:sqlite:${SCR_SQLITE_PATH:../config/data/scriptor.db}?busy_timeout=10000&journal_mode=WAL&synchronous=NORMAL
+    driver-class-name: org.sqlite.JDBC
+  jpa:
+    # Hibernate 6 : le dialecte SQLite est dans hibernate-community-dialects
+    database-platform: org.hibernate.community.dialect.SQLiteDialect
+    hibernate:
+      ddl-auto: update # Crée ou met à jour les tables automatiquement
+
+# Configuration du serveur web embarqué
+server:
+  port: 8080
+  tomcat:
+    threads:
+      max: 200                 # Nombre max de requêtes HTTP simultanées (défaut: 200)
+      min-spare: 10            # Nombre de threads prêts à dégainer (défaut: 10)
+
+# Variables d'environnement personnalisées pour Scriptor IA
+# Chemins relatifs au dossier backend/ (mvn spring-boot:run) — config/ à la racine du monorepo
+scriptor:
+  # Activer le service du frontend embarqué (désactiver en test : voir src/test/resources/application.yml)
+  spa:
+    enabled: true
+  config:
+    dir: ${SCR_CONFIG_DIR:../config}
+  data:
+    dir: ${SCR_DATA_DIR:../config/data}
+  # OAuth Google type « Application ordinateur » : secret jamais dans le bundle Vite — surcharge via
+  # oauth-local.properties ou variables SCR_GOOGLE_DESKTOP_CLIENT_ID / SCR_GOOGLE_DESKTOP_CLIENT_SECRET
+  oauth:
+    google:
+      client-id: ${SCR_GOOGLE_DESKTOP_CLIENT_ID:}
+      client-secret: ${SCR_GOOGLE_DESKTOP_CLIENT_SECRET:}
+  # Timeouts client HTTP Java -> Ollama (voir OllamaLocalProvider)
+  ollama:
+    request-timeout-seconds: ${SCR_OLLAMA_REQUEST_TIMEOUT_SECONDS:300}
+    connect-timeout-seconds: ${SCR_OLLAMA_CONNECT_TIMEOUT_SECONDS:15}
+  # Provider Ollama local — modèle léger par défaut (~2 Go, 4 Go RAM mini)
+  # pour éviter le crash du runner observé avec mistral 7B. Surcharge possible via
+  # la variable d'environnement SCR_OLLAMA_MODEL.
+  providers:
+    ollama:
+      # Préférer 127.0.0.1 : sur Windows, "localhost" peut résoudre en IPv6 (::1) alors qu'Ollama
+      # écoute souvent uniquement sur IPv4 (127.0.0.1), ce qui donne un faux "service éteint".
+      url: ${SCR_OLLAMA_URL:http://127.0.0.1:11434}
+      model: ${SCR_OLLAMA_MODEL:qwen2.5:3b}
+
+logging:
+  level:
+    com.scriptor.api: INFO
+    # Trace fine des appels HTTP Ollama : utile pour diagnostiquer « ne répond pas » alors que
+    # `curl http://127.0.0.1:11434/api/tags` fonctionne. Repasser à INFO une fois stabilisé.
+    com.scriptor.api.llm.providers.OllamaLocalProvider: DEBUG
+  file:
+    name: ./logs/scriptor-ia.log
+  logback:
+    rollingpolicy:
+      max-file-size: 10MB
+      max-history: 7

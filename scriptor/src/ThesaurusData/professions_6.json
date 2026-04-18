@@ -1,0 +1,472 @@
+[
+  {
+    "id": "pompier",
+    "label": "Pompier",
+    "domaine": "sécurité et secours",
+    "definitionCourte": "Professionnel formé à intervenir dans les situations d'urgence — incendie, accident, détresse médicale — en exposant son corps pour protéger ceux des autres.",
+    "perceptionDuMonde": [
+      "évalue instinctivement les risques d'un lieu avant même d'y entrer",
+      "pense en termes de protocole — chaque geste a une séquence, une raison",
+      "développe une familiarité avec la mort et le chaos qui peut paraître froide de l'extérieur",
+      "entretient un rapport au corps — le sien et celui des autres — radicalement différent de la moyenne"
+    ],
+    "signesDistinctifs": [
+      "maintien physique irréprochable — le corps est un outil de travail entretenu",
+      "regard qui balaye rapidement les sorties et les dangers dans tout espace inconnu",
+      "calme apparent dans les situations d'urgence — acquis, pas inné",
+      "cicatrices, brûlures légères ou marques physiques comme archives du métier"
+    ],
+    "langageSpecifique": [
+      "vocabulaire opérationnel — premier engin, dévidoir, binôme, lance",
+      "communication radio courte et précise — pas de phrases inutiles",
+      "nommer les victimes par leur état — conscient, inconscient, blessé grave",
+      "termes du feu — propagation, point d'éclosion, retour de flamme"
+    ],
+    "tensionsTypiques": [
+      "victime qu'on n'a pas pu sauver — et la question de si on aurait pu",
+      "intervention où la vie d'un collègue est en jeu",
+      "cumul d'images difficiles sans espace pour en parler",
+      "famille qui ne comprend pas pourquoi il revient différent après certaines gardes"
+    ],
+    "blessuresProfessionnelles": [
+      "syndrome de stress post-traumatique non reconnu par une culture du 'tenir'",
+      "perte d'un collègue sur intervention — deuil collectif mais souvent silencieux",
+      "difficultés à retrouver la normalité du quotidien après l'adrénaline du danger",
+      "sentiment d'impuissance devant une catastrophe qui dépasse les moyens"
+    ],
+    "usagesNarratifs": [
+      "personnage dont la solidité extérieure cache une fragilité profonde",
+      "figure de l'héroïsme ordinaire — sans cape ni superpouvoirs",
+      "révélateur du prix humain des métiers à risque",
+      "espace narratif pour la camaraderie, la loyauté et leurs limites"
+    ],
+    "notesEditoriales": [
+      "Éviter le cliché du héros invulnérable — le pompier a peur, souffre, doute.",
+      "La caserne est une microsociété avec ses codes, ses hiérarchies et ses rituels — à explorer.",
+      "Le retour chez soi après une nuit difficile est souvent le moment le plus riche à écrire."
+    ]
+  },
+  {
+    "id": "cuisinier-professionnel",
+    "label": "Cuisinier de restaurant",
+    "domaine": "restauration et artisanat alimentaire",
+    "definitionCourte": "Artisan du feu et des saveurs qui travaille dans un espace exigu, bruyant et chaud, sous pression permanente, pour produire quelque chose d'éphémère.",
+    "perceptionDuMonde": [
+      "pense en termes de goût, de texture, de température avant de voir les formes",
+      "lit les saisons par ce qu'elles offrent au marché",
+      "vit une relation intense au temps — chaque plat a sa fenêtre de perfection",
+      "développe une tolérance à la douleur physique — brûlures, coupures, chaleur — comme condition normale"
+    ],
+    "signesDistinctifs": [
+      "mains marquées par les brûlures cicatrisées et les cicatrices de couteau",
+      "rapidité des gestes dans les espaces restreints — économie du mouvement",
+      "capacité à tenir debout et concentré douze heures d'affilée",
+      "tablier ou veste blanche comme seconde peau — même taché, portée avec une forme de fierté"
+    ],
+    "langageSpecifique": [
+      "appels courts en cuisine — chaud devant, à moi, coup de feu",
+      "vocabulaire de la brigade — chef de partie, commis, passe, service",
+      "nommer les techniques — monter en neige, dégraisser, lier, tomber",
+      "parler des ingrédients avec une précision qui exclut les approximations"
+    ],
+    "tensionsTypiques": [
+      "service qui déraille — retard, plainte, incident technique",
+      "client qui renvoie un plat préparé avec soin",
+      "hiérarchie de cuisine — souvent dure, parfois cruelle",
+      "passion qui s'use face aux conditions de travail"
+    ],
+    "blessuresProfessionnelles": [
+      "corps abîmé par des années de service debout dans la chaleur",
+      "sacrifice de la vie personnelle sur l'autel des services — week-ends, fêtes, nuits",
+      "désillusion face à un milieu qui valorise la performance au détriment des êtres",
+      "reconnaissance rare et fugace — un plat applaudi disparaît en vingt minutes"
+    ],
+    "usagesNarratifs": [
+      "personnage dont la créativité s'exprime dans un cadre de contraintes extrêmes",
+      "figure de la passion destructrice et du sacrifice consenti",
+      "révélateur du rapport à la perfection et à l'éphémère",
+      "espace narratif pour les dynamiques de groupe sous pression — la brigade comme microcosme"
+    ],
+    "notesEditoriales": [
+      "La cuisine est un lieu de tension dramatique naturelle — à exploiter sans le réduire à un décor glamour.",
+      "Le rapport entre le cuisinier et ses mains est presque charnel — les mains sont le personnage.",
+      "Le service du soir comme métaphore de toute situation qui déraille malgré la préparation."
+    ]
+  },
+  {
+    "id": "journaliste",
+    "label": "Journaliste",
+    "domaine": "presse et médias",
+    "definitionCourte": "Professionnel qui enquête, vérifie et raconte les événements du monde, souvent avec des moyens insuffisants et dans des délais impossibles.",
+    "perceptionDuMonde": [
+      "questionne instinctivement tout ce qu'on lui présente comme établi",
+      "pense en angles — comment raconter ça, pour qui, avec quel effet",
+      "développe une capacité à entrer rapidement en contact avec des inconnus",
+      "entretient un rapport permanent au doute — la certitude est toujours à vérifier"
+    ],
+    "signesDistinctifs": [
+      "carnet ou téléphone sorti dès qu'une information apparaît",
+      "écoute active exacerbée — il note, mémorise, classe",
+      "capacité à rester neutre en surface même face à des révélations bouleversantes",
+      "réseau de contacts entretenu avec soin — les sources sont un capital"
+    ],
+    "langageSpecifique": [
+      "vocabulaire de la rédaction — angle, papier, bouclage, une, chapeau",
+      "distinction journalistique — off, on the record, embargo",
+      "questions courtes et ouvertes — habitude de l'interview",
+      "parler de l'information comme d'une matière à travailler et à vérifier"
+    ],
+    "tensionsTypiques": [
+      "source qui se rétracte à la dernière minute",
+      "rédacteur en chef qui refuse l'article pour des raisons non éditoriales",
+      "pression économique qui raccourcit le temps de vérification",
+      "menaces ou intimidations liées à une enquête sensible"
+    ],
+    "blessuresProfessionnelles": [
+      "burnout lié à l'exposition prolongée aux violences et aux injustices du monde",
+      "article bloqué pour des raisons de pression économique ou politique",
+      "perte d'une source — licenciée, poursuivie, ou brisée par les révélations",
+      "doute éthique sur une décision de publication — le droit de savoir contre la protection des personnes"
+    ],
+    "usagesNarratifs": [
+      "personnage-enquêteur naturel pour tout récit qui dévoile une vérité cachée",
+      "figure du témoin professionnel — il voit et doit décider quoi faire de ce qu'il a vu",
+      "révélateur des tensions entre information, pouvoir et éthique",
+      "porteur d'une quête de vérité avec ses compromis réels"
+    ],
+    "notesEditoriales": [
+      "Le journaliste n'est pas un détective — il a des contraintes légales et institutionnelles fortes.",
+      "La relation source-journaliste est une des plus délicates à écrire — confiance et exploitation mêlées.",
+      "Distinguer le journaliste d'investigation, le reporter de terrain et le chroniqueur — trois postures différentes."
+    ]
+  },
+  {
+    "id": "avocat",
+    "label": "Avocat",
+    "domaine": "droit et juridique",
+    "definitionCourte": "Professionnel du droit qui défend les intérêts de ses clients devant la justice, en naviguant entre la vérité, la loi et la stratégie.",
+    "perceptionDuMonde": [
+      "pense en termes de qualification juridique — tout événement peut être traduit en droit",
+      "cherche instinctivement les failles et les angles de défense dans tout récit",
+      "développe une capacité à croire sincèrement en la défense de quelqu'un tout en doutant",
+      "entretient un rapport professionnel à la vérité — ce qui est prouvable n'est pas toujours ce qui est vrai"
+    ],
+    "signesDistinctifs": [
+      "robe noire et col blanc en audience — signe identitaire fort",
+      "capacité à parler avec autorité même dans l'incertitude",
+      "dossiers, notes, codes annotés — l'écrit comme armure",
+      "voix travaillée pour plaider — portée, rythme, silence calculé"
+    ],
+    "langageSpecifique": [
+      "formules d'audience — Maître, plaît-il à la Cour, sous réserve",
+      "distinction entre faits, preuves et arguments — pas interchangeables",
+      "vocabulaire procédural — conclusions, plaidoirie, incident d'audience",
+      "parler des clients par leur dossier ou leur affaire devant les tiers"
+    ],
+    "tensionsTypiques": [
+      "client qui ment à son propre défenseur",
+      "affaire gagnée qui laisse un goût amer — la loi contre la morale",
+      "conflit éthique entre ce qu'il sait et ce qu'il peut dire",
+      "pression du résultat dans un contexte de justice imparfaite"
+    ],
+    "blessuresProfessionnelles": [
+      "affaire perdue où l'innocent a été condamné — cicatrice qui ne part pas",
+      "clientèle impossible à défendre mais obligation déontologique de le faire",
+      "cynisme installé face à une justice lente et souvent inégale",
+      "sacrifice de la vie privée sur les délais des audiences et des dossiers"
+    ],
+    "usagesNarratifs": [
+      "personnage pivot dans tout récit judiciaire ou policier",
+      "figure de la tension entre loi et justice — puissant pour les récits éthiques",
+      "révélateur de la vérité par la stratégie autant que par l'honnêteté",
+      "espace narratif pour les dilemmes moraux dans un cadre institutionnel"
+    ],
+    "notesEditoriales": [
+      "Distinguer l'avocat de la défense et celui de la partie civile — pas la même posture.",
+      "La plaidoirie est un moment narratif fort — performance et sincérité mêlées.",
+      "L'avocat qui doute de son client est plus riche que celui qui croit aveuglément en lui."
+    ]
+  },
+  {
+    "id": "sage-femme",
+    "label": "Sage-femme",
+    "domaine": "santé",
+    "definitionCourte": "Professionnel de santé qui accompagne la grossesse, l'accouchement et le post-partum, présent aux moments les plus intenses de la vie humaine.",
+    "perceptionDuMonde": [
+      "voit le corps féminin comme un espace de puissance et de vulnérabilité mêlées",
+      "pense en signes vitaux, en dilatation, en rythme cardiaque — mais reste attenif à la personne entière",
+      "développe une présence calme sous pression — l'urgence obstétricale ne prévient pas",
+      "entretient un rapport particulier à la naissance — chaque accouchement est unique et jamais banal"
+    ],
+    "signesDistinctifs": [
+      "mains expertes dans la palpation et l'auscultation",
+      "voix qui rassure instinctivement — même quand la situation est tendue",
+      "capacité à rester présent et fonctionnel dans des situations émotionnellement extrêmes",
+      "rapport au corps d'une intimité professionnelle que peu d'autres métiers partagent"
+    ],
+    "langageSpecifique": [
+      "termes obstétricaux — effacement, présentation, CTG, ocytocine",
+      "communication douce mais directe avec la parturiente",
+      "coordination avec l'équipe médicale — obstétricien, anesthésiste, néonatologue",
+      "vocabulaire du post-partum — blues, allaitement, loches, involution"
+    ],
+    "tensionsTypiques": [
+      "accouchement qui tourne à l'urgence vitale",
+      "mort périnatale — deuil difficile pour toute l'équipe",
+      "conflit entre souhait de la patiente et protocole médical",
+      "surcharge de travail qui fragilise la qualité de la présence"
+    ],
+    "blessuresProfessionnelles": [
+      "mort d'un bébé ou d'une mère — sans droit au deuil institutionnel",
+      "burn-out lié à l'intensité émotionnelle des accompagnements",
+      "sentiment d'être entre deux mondes — trop médical pour être sage, trop humain pour être clinique",
+      "responsabilité juridique lourde dans un métier de décisions à risque"
+    ],
+    "usagesNarratifs": [
+      "personnage présent aux commencements — naissance, mort périnatale, choix déterminants",
+      "figure de la connaissance intime du corps et de la vie",
+      "révélateur du rapport d'une femme à son corps, à la maternité et à elle-même",
+      "espace narratif pour les tensions entre médecine et humanité"
+    ],
+    "notesEditoriales": [
+      "La sage-femme est un personnage rarement central en fiction — c'est une lacune à combler.",
+      "L'accouchement comme moment narratif est sous-utilisé — il concentre la vie et la mort en quelques heures.",
+      "Son rapport au silence et à la présence silencieuse est narrativement fort."
+    ]
+  },
+  {
+    "id": "veterinaire",
+    "label": "Vétérinaire",
+    "domaine": "santé",
+    "definitionCourte": "Professionnel de santé qui soigne les animaux, face à des patients qui ne peuvent ni décrire leur douleur ni consentir aux soins — et face aux humains qui les aiment.",
+    "perceptionDuMonde": [
+      "lit le corps animal par ses signes non verbaux — posture, respiration, réaction au toucher",
+      "développe une capacité à prendre des décisions médicales rapides avec peu d'information directe",
+      "entretient un rapport particulier à la mort — euthanasie comme acte de soin, pas d'échec",
+      "voit les propriétaires comme des partenaires de soin autant que comme des clients"
+    ],
+    "signesDistinctifs": [
+      "blouse souvent tachée — les animaux ne coopèrent pas toujours",
+      "mains qui saisissent et immobilisent avec une douceur ferme",
+      "voix calme avec les animaux agités — la panique est contagieuse",
+      "stéthoscope et thermomètre comme prolongements naturels"
+    ],
+    "langageSpecifique": [
+      "nommer les espèces et les races avec précision — pas 'le chien', mais 'le labrador mâle de 8 ans'",
+      "communication avec le propriétaire — traduire le médical en humain",
+      "vocabulaire vétérinaire — anamnèse, examen clinique, bilan hématologique",
+      "termes de l'euthanasie — accompagnement, passage, décision médicale"
+    ],
+    "tensionsTypiques": [
+      "propriétaire qui refuse les soins nécessaires pour des raisons financières",
+      "euthanasie demandée pour raison de convenance — pas médicale",
+      "animal maltraité dont il doit soigner les blessures sans pouvoir toujours agir",
+      "animal sauvage ou exotique hors de son champ de compétence"
+    ],
+    "blessuresProfessionnelles": [
+      "charge émotionnelle de l'euthanasie répétée — acte nécessaire mais pesant",
+      "endettement de la formation vétérinaire difficile à amortir en clinique de ville",
+      "burn-out par accumulation de cas difficiles sans soupape",
+      "être aimé pour les animaux mais ignoré en tant que praticien par rapport au médecin"
+    ],
+    "usagesNarratifs": [
+      "personnage révélateur du rapport d'un autre à l'amour, à la mort et aux dépendances",
+      "figure de la décision médicale sans le consentement du patient",
+      "espace narratif pour les questions sur la vie animale et sa valeur",
+      "personnage secondaire efficace dans les récits ruraux ou familiaux"
+    ],
+    "notesEditoriales": [
+      "L'euthanasie animale est narrativement puissante — elle oblige à penser la mort comme soin.",
+      "Le rapport entre vétérinaire, animal et propriétaire est un triangle émotionnel fort.",
+      "En milieu rural, le vétérinaire est une figure de confiance communautaire — autre dimension possible."
+    ]
+  },
+  {
+    "id": "bibliothecaire",
+    "label": "Bibliothécaire",
+    "domaine": "culture et patrimoine",
+    "definitionCourte": "Professionnel de la mémoire et du savoir, gardien des livres mais surtout des lecteurs — de leurs curiosités, de leurs fuites et de leurs recherches.",
+    "perceptionDuMonde": [
+      "pense en termes de classement et de connexion — tout savoir est lié à d'autres savoirs",
+      "voit les lecteurs par ce qu'ils cherchent avant de voir ce qu'ils sont",
+      "développe un sens aigu de la discrétion — il sait des choses qu'on ne lui confie pas explicitement",
+      "entretient un rapport au silence comme espace de pensée, pas d'absence"
+    ],
+    "signesDistinctifs": [
+      "déplacement silencieux entre les rayonnages — habitude acquise",
+      "capacité à retrouver un livre sans vérifier la cote — mémoire spatiale des collections",
+      "regard qui repère d'emblée le désordre dans un rayon",
+      "stylo ou crayon derrière l'oreille, parfois encore"
+    ],
+    "langageSpecifique": [
+      "vocabulaire de la classification — Dewey, cote, indice, catalogue",
+      "parler des collections — fonds, acquisitions, pilon, désherbage",
+      "recommandations précises adaptées au lecteur — pas des généralités",
+      "termes du monde du livre — bibliographie, parution, fonds anciens, prêt interbibliothèques"
+    ],
+    "tensionsTypiques": [
+      "budget de fonctionnement réduit qui impose des choix douloureux",
+      "usager difficile ou intrusif dans l'espace de lecture",
+      "numérique qui transforme le métier sans toujours l'enrichir",
+      "fermeture ou déménagement de la bibliothèque — perte d'un espace de communauté"
+    ],
+    "blessuresProfessionnelles": [
+      "métier méconnu et sous-estimé — réduit à 'ranger des livres'",
+      "voir des collections dispersées ou détruites lors de fermetures",
+      "rapport ambigu à la censure — gardien du libre accès au savoir dans un monde qui restreint",
+      "solitude dans un métier qui se pratique souvent dans le calme sans recognition"
+    ],
+    "usagesNarratifs": [
+      "personnage-guide dans tout récit de découverte intellectuelle ou d'enquête documentaire",
+      "figure du savoir caché et des connexions inattendues entre les savoirs",
+      "révélateur des lectures secrètes d'un personnage — ce qu'on emprunte dit ce qu'on cherche",
+      "gardien d'archives qui peuvent tout faire basculer"
+    ],
+    "notesEditoriales": [
+      "Le bibliothécaire voit passer tous les âges, toutes les questions — c'est un observateur rare.",
+      "La bibliothèque comme lieu narratif est sous-exploitée en fiction française — c'est un espace riche.",
+      "Un livre emprunté ou refusé peut être l'objet déclencheur d'une scène entière."
+    ]
+  },
+  {
+    "id": "architecte",
+    "label": "Architecte",
+    "domaine": "construction et urbanisme",
+    "definitionCourte": "Professionnel qui conçoit les espaces dans lesquels les gens vivent, travaillent et se rencontrent — entre idéal formel et contraintes de réalité.",
+    "perceptionDuMonde": [
+      "voit les bâtiments comme des intentions habitées — chaque espace dit quelque chose sur ceux qui l'ont voulu",
+      "pense en lumière, en volumes, en flux de circulation avant en détails",
+      "développe une irritation possible face aux constructions mal pensées — l'espace mal conçu agresse",
+      "entretient un rapport à la permanence — ses œuvres durent après lui"
+    ],
+    "signesDistinctifs": [
+      "regard qui remonte les façades en entrant dans un lieu",
+      "esquisse rapide — noter une idée spatiale avant qu'elle s'échappe",
+      "tenue souvent soignée mais pratique — il doit pouvoir passer du chantier au client",
+      "maquettes, plans et croquis dans son espace de travail"
+    ],
+    "langageSpecifique": [
+      "vocabulaire formel — épure, module, élévation, coupe, façade",
+      "distinguer structure et enveloppe, intérieur et extérieur, programme et usage",
+      "parler du client comme d'un commanditaire dont il faut interpréter le désir",
+      "termes du chantier — maître d'ouvrage, maître d'œuvre, appel d'offres, réception"
+    ],
+    "tensionsTypiques": [
+      "compromis imposés par le budget ou le règlement qui dénaturent le projet",
+      "client qui veut quelque chose de beau sans en comprendre le coût",
+      "chantier qui dérive — délais, malfaçons, imprévus techniques",
+      "conflit entre vision architecturale et usage réel des habitants"
+    ],
+    "blessuresProfessionnelles": [
+      "voir un projet phare démoli ou défiguré par des modifications",
+      "reconnaissance tardive — les bâtiments durent plus que les réputations",
+      "formation longue et débouchés difficiles pour la majorité",
+      "responsabilité lourde — une erreur structurelle peut tuer"
+    ],
+    "usagesNarratifs": [
+      "personnage dont la vision du monde s'exprime dans les espaces qu'il crée",
+      "figure de la tension entre idéal et compromis — entre art et économie",
+      "révélateur de la relation entre espace construit et vie humaine",
+      "espace narratif pour les questions d'héritage, de transmission et de vanité créatrice"
+    ],
+    "notesEditoriales": [
+      "L'architecte voit ce que les autres ignorent dans un espace — à utiliser pour des observations décalées.",
+      "Le chantier est un lieu narratif fort — désordre, transformation, danger, transformation visible.",
+      "Son rapport à la permanence de l'œuvre est une tension entre orgueil et humilité."
+    ]
+  },
+  {
+    "id": "musicien-professionnel",
+    "label": "Musicien professionnel",
+    "domaine": "arts et spectacle",
+    "definitionCourte": "Artiste dont le corps entier est un instrument — des années de discipline pour quelques heures de présence sur scène, souvent dans la précarité.",
+    "perceptionDuMonde": [
+      "entend le monde différemment — rythmes, harmoniques, silences ont une signification physique",
+      "vit dans une temporalité double — le temps du travail solitaire et le temps de la scène",
+      "développe une relation au corps instrumentale — la posture, la respiration, la tension musculaire sont des outils",
+      "entretient un rapport ambigu à la reconnaissance — le public comme oxygène et comme dépendance"
+    ],
+    "signesDistinctifs": [
+      "callosités sur les doigts ou les lèvres selon l'instrument",
+      "gestes qui reproduisent inconsciemment des passages difficiles à maîtriser",
+      "oreille qui se tourne vers les sources sonores dans un espace",
+      "rapport à l'heure et à l'agenda rythmé par les répétitions et les concerts"
+    ],
+    "langageSpecifique": [
+      "vocabulaire musical — tempo, nuance, phrasé, attaque, résonance",
+      "parler des partitions comme de textes à interpréter, pas à reproduire",
+      "termes du métier — cachet, contrat, plateau, son de retour, balance",
+      "nommer les autres musiciens par leur instrument — 'le violoncelle', 'la clarinette'"
+    ],
+    "tensionsTypiques": [
+      "trac qui ne disparaît pas malgré les années",
+      "précarité économique d'un métier que la passion fait accepter trop longtemps",
+      "blessure physique qui menace la carrière — tendinite, trouble auditif",
+      "conflit entre vision artistique et contraintes commerciales"
+    ],
+    "blessuresProfessionnelles": [
+      "pression du talent attendu depuis l'enfance — le prodige devenu adulte banal",
+      "abandon d'une voie classique pour une carrière que l'entourage ne comprend pas",
+      "dépendance au public comme validation — sans scène, sentiment d'inexistence",
+      "corps usé par les heures de pratique et les conditions de tournée"
+    ],
+    "usagesNarratifs": [
+      "personnage dont l'expression émotionnelle passe par l'instrument autant que par les mots",
+      "figure de la vocation qui coûte tout — amour, santé, stabilité",
+      "révélateur du rapport d'un personnage à la beauté et à l'éphémère",
+      "espace narratif pour les tensions entre art, commerce et survie"
+    ],
+    "notesEditoriales": [
+      "L'instrument choisi est un détail caractérisant fort — ce n'est pas le même personnage selon qu'il joue piano, trompette ou violon.",
+      "La répétition comme activité est narrativement riche — solitude, frustration, percée soudaine.",
+      "Distinguer le musicien classique, le jazzman et le musicien de variété — trois mondes différents."
+    ]
+  },
+  {
+    "id": "traducteur",
+    "label": "Traducteur",
+    "domaine": "langue et communication",
+    "definitionCourte": "Artisan du sens qui fait passer des textes d'une langue à une autre sans les trahir — travail invisible dont la réussite est de ne pas se voir.",
+    "perceptionDuMonde": [
+      "vit dans deux langues en permanence — pense dans l'une et s'exprime dans l'autre selon le contexte",
+      "entend les mots comme des choix, jamais comme des évidences",
+      "développe une sensibilité aux nuances culturelles imperceptibles pour les monolingues",
+      "entretient un rapport particulier à l'auteur traduit — dialogue sans interlocuteur"
+    ],
+    "signesDistinctifs": [
+      "hésitation avant certains mots — cherche celui qui convient, pas celui qui vient",
+      "dictionnaires et textes ouverts en permanence — papier ou numérique",
+      "travail souvent solitaire, à des heures décalées, dans le silence",
+      "bibliothèque dans plusieurs langues — les livres ne sont pas rangés par langue mais par territoire"
+    ],
+    "langageSpecifique": [
+      "parler de 'trouver' plutôt que de 'traduire' — le mot juste se cherche",
+      "distinguer traduction littérale et traduction littéraire — deux actes différents",
+      "vocabulaire du métier — note du traducteur, texte source, texte cible, intraduisible",
+      "nommer les langues par leurs nuances — pas 'l'espagnol' mais 'l'espagnol péninsulaire des années 40'"
+    ],
+    "tensionsTypiques": [
+      "terme intraduisible que l'auteur tient absolument à garder",
+      "auteur encore vivant qui contrôle la traduction avec méfiance",
+      "délai impossible pour un texte long et dense",
+      "traduction instrumentalisée pour faire dire à un texte ce qu'il ne dit pas"
+    ],
+    "blessuresProfessionnelles": [
+      "invisibilité totale — la bonne traduction disparaît derrière le texte",
+      "rémunération très insuffisante au regard du temps et de l'expertise requis",
+      "sentiment de trahir malgré les efforts — traduttore, traditore",
+      "texte traduit critiqué sans que personne ait lu l'original pour comparer"
+    ],
+    "usagesNarratifs": [
+      "personnage dont la double appartenance linguistique révèle une identité fracturée",
+      "figure de l'intermédiaire — entre deux mondes, entre deux sens",
+      "révélateur des malentendus culturels et de leur coût humain",
+      "espace narratif pour les questions d'identité, de fidélité et de trahison"
+    ],
+    "notesEditoriales": [
+      "Le traducteur est un personnage-fantôme — présent dans chaque phrase qu'il a rendue et invisible.",
+      "Sa relation au texte source est souvent plus intime que celle du lecteur ordinaire.",
+      "La question de l'intraduisible est une porte d'entrée vers les gouffres entre les cultures."
+    ]
+  }
+]

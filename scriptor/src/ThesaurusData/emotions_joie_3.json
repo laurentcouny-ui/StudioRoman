@@ -1,0 +1,345 @@
+[
+  {
+    "id": "contentement",
+    "label": "Contentement",
+    "alias": [
+      "contentement",
+      "satisfaction tranquille",
+      "bien-être discret",
+      "plénitude douce",
+      "paix intérieure légère",
+      "sentiment d'être à sa place",
+      "satisfaction sans excès",
+      "bonheur ordinaire",
+      "quiétude heureuse",
+      "satisfaction profonde"
+    ],
+    "famille": "joie-enthousiasme",
+    "definitionCourte": "État de satisfaction calme et durable dans lequel le personnage n'aspire à rien de plus que ce qu'il a. Le contentement n'est pas l'enthousiasme — c'est une joie qui se tait et qui suffit.",
+    "signesPhysiques": [
+      "légère détente dans tout le corps",
+      "sourire doux, pas forcé",
+      "respiration lente et profonde",
+      "gestes mesurés et sûrs",
+      "regard posé, présent sans anxiété",
+      "épaules basses, sans tension",
+      "posture ouverte et détendue"
+    ],
+    "sensationsInternes": [
+      "chaleur stable dans la poitrine, sans urgence",
+      "sensation d'avoir sa place dans le monde",
+      "absence de manque — ni désir ni insatisfaction",
+      "légèreté sans effervescence",
+      "impression que le moment suffit exactement",
+      "paix qui n'a pas besoin d'être expliquée"
+    ],
+    "pensees": [
+      "C'est bien comme ça.",
+      "Je n'ai besoin de rien de plus.",
+      "Je suis bien là.",
+      "Ça me suffit — vraiment.",
+      "Je ne voudrais pas être ailleurs.",
+      "Il n'y a rien à corriger.",
+      "Je me souviendrai de ce moment.",
+      "C'est ça, être heureux — sans bruit."
+    ],
+    "effetsVoixLangage": [
+      "ton posé et chaleureux",
+      "paroles rares mais pleines",
+      "humour doux qui n'a pas besoin d'impressionner",
+      "silences confortables",
+      "expressions simples sur des choses simples"
+    ],
+    "comportements": [
+      "reste plus longtemps dans un lieu agréable",
+      "remarque les détails plaisant autour de lui",
+      "partage spontanément sa satisfaction avec ceux qu'il aime",
+      "n'est pas distrait par autre chose",
+      "mange lentement, dort bien, s'accorde du temps",
+      "est plus disponible aux autres"
+    ],
+    "masquesPossibles": [
+      "discrétion — le contentement ne se clame pas",
+      "humilité qui minimise ce qui est bien",
+      "pudeur face aux autres dont la vie est difficile"
+    ],
+    "evolutionsPossibles": [
+      "gratitude si la conscience de la chance s'approfondit",
+      "joie plus active si quelque chose vient s'y ajouter",
+      "résignation si le contentement cache une ambition étouffée",
+      "complacency si le contentement devient paresse"
+    ],
+    "contextesAggravants": [
+      "remise en question extérieure de ce qui lui suffit",
+      "comparaison avec des désirs plus grands",
+      "sentiment que le contentement est insuffisant ou peu ambitieux"
+    ],
+    "contextesAttenuants": [
+      "présence de personnes qui partagent cet état",
+      "environnement familier et doux",
+      "absence d'urgence et de pression extérieure"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère satisfaction", "description": "Rien ne va mal. Le personnage est neutre-positif." },
+      { "niveau": 2, "label": "Contentement sensible", "description": "Il est bien. Ça se sent dans sa façon d'être présent." },
+      { "niveau": 3, "label": "Contentement plein", "description": "Il n'aspire à rien d'autre. La vie lui convient." },
+      { "niveau": 4, "label": "Plénitude discrète", "description": "Une paix profonde. Il le sait et le chérit en silence." },
+      { "niveau": 5, "label": "Bonheur suffisant", "description": "La conscience aiguë que ce moment est ce qu'il y a de mieux — sans besoin de plus." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage après une période difficile",
+        "description": "Le contentement est précieux parce qu'il sait ce que c'est de ne pas l'avoir. Il le reconnaît avec une conscience que les autres n'ont pas."
+      },
+      {
+        "profil": "Personnage ambitieux",
+        "description": "Le contentement le met mal à l'aise — il ressemble à de la capitulation. Il peut le vivre comme une tentation dangereuse ou comme un repos mérité."
+      },
+      {
+        "profil": "Personnage âgé",
+        "description": "Le contentement est la forme la plus mûre du bonheur. Il l'a cherché longtemps avant de comprendre qu'il était déjà là, dans les petites choses."
+      }
+    ],
+    "notesEditoriales": [
+      "Le contentement est difficile à dramatiser — c'est son intérêt narratif : il crée un contraste avant la rupture.",
+      "Il est plus fort quand il est conscient : un personnage qui sait qu'il est bien est plus touchant que celui qui ne le remarque pas.",
+      "Distinguer de la résignation (qui accepte sans vouloir) et de la sérénité (plus philosophique)."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "gratitude" },
+      { "type": "peut_evoluer_en", "cible": "joie" },
+      { "type": "peut_masquer", "cible": "ambition-refoulee" },
+      { "type": "souvent_associe_a", "cible": "paix" },
+      { "type": "peut_suivre", "cible": "soulagement" }
+    ]
+  },
+  {
+    "id": "emerveillement",
+    "label": "Émerveillement",
+    "alias": [
+      "émerveillement",
+      "éblouissement",
+      "stupéfaction admirative",
+      "ravissement",
+      "enchantement",
+      "sentiment du sublime",
+      "frappe de beauté",
+      "ébahissement positif",
+      "plénitude devant quelque chose de grand",
+      "joie devant l'extraordinaire"
+    ],
+    "famille": "joie-enthousiasme",
+    "definitionCourte": "Émotion soudaine et intense provoquée par la beauté, la grandeur ou l'étrangeté de quelque chose — qui dépasse le personnage et lui rappelle qu'il y a plus grand que lui, ce qui est à la fois humiliant et magnifique.",
+    "signesPhysiques": [
+      "bouche légèrement ouverte",
+      "regard immobile sur la source de l'émerveillement",
+      "corps immobile, presque figé",
+      "respiration qui se retient puis s'ouvre",
+      "yeux qui s'écarquillent légèrement",
+      "posture qui se redresse légèrement",
+      "sourire qui vient sans décision"
+    ],
+    "sensationsInternes": [
+      "expansion soudaine dans la poitrine",
+      "chaleur et picotements mêlés",
+      "impression d'être petit et comblé en même temps",
+      "sentiment que quelque chose d'important vient de se passer",
+      "légèreté subtile, comme si quelque chose se posait",
+      "désir de ne pas bouger pour ne pas briser le moment"
+    ],
+    "pensees": [
+      "Comment est-ce possible ?",
+      "Je n'avais pas vu ça avant.",
+      "Il faut que je m'en souvienne exactement.",
+      "C'est trop grand pour moi.",
+      "Je voudrais que quelqu'un d'autre voie ça aussi.",
+      "Je ne savais pas que ça pouvait exister.",
+      "Quelque chose vient de changer dans ma façon de voir.",
+      "C'est beau d'une façon que je ne sais pas encore nommer."
+    ],
+    "effetsVoixLangage": [
+      "silence d'abord, puis mots insuffisants",
+      "exclamations courtes avant les vraies phrases",
+      "répétition des mots qui tentent de saisir",
+      "voix plus douce et plus lente à l'évocation",
+      "difficultés à formuler sans perdre quelque chose"
+    ],
+    "comportements": [
+      "s'arrête net",
+      "pointe ou appelle les autres pour qu'ils voient",
+      "prend des photos ou dessine pour retenir",
+      "revient plusieurs fois vers la source",
+      "parle de l'expérience encore longtemps après",
+      "cherche à recréer des conditions similaires"
+    ],
+    "masquesPossibles": [
+      "détachement cynique qui ne veut pas montrer d'enthousiasme",
+      "intellectualisation immédiate pour éviter d'être touché",
+      "ironie légère pour ne pas paraître naïf"
+    ],
+    "evolutionsPossibles": [
+      "gratitude si l'émerveillement se stabilise",
+      "nostalgie si le moment ne dure pas",
+      "inspiration créatrice si l'émerveillement est canalisé",
+      "sentiment d'inadéquation si la beauté paraît inatteignable"
+    ],
+    "contextesAggravants": [
+      "beauté inattendue dans un contexte difficile",
+      "première fois — ce qui ne se retrouve plus jamais exactement pareil",
+      "solitude devant ce qu'on voudrait partager"
+    ],
+    "contextesAttenuants": [
+      "présence d'un proche qui partage l'émerveillement",
+      "retour dans un lieu déjà vécu comme merveilleux",
+      "fatigue ou stress qui rend plus réceptif à la beauté simple"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère admiration", "description": "Quelque chose est beau. Le personnage le remarque et passe." },
+      { "niveau": 2, "label": "Émerveillement doux", "description": "Il s'attarde. La beauté le touche vraiment." },
+      { "niveau": 3, "label": "Émerveillement franc", "description": "Il est arrêté. Rien d'autre n'existe pendant quelques instants." },
+      { "niveau": 4, "label": "Éblouissement", "description": "Il est dépassé par ce qu'il voit ou ressent. Une émotion forte sans nom précis." },
+      { "niveau": 5, "label": "Expérience du sublime", "description": "Quelque chose d'irréversible vient de se passer. Il ne verra plus les choses exactement pareil." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Enfant",
+        "description": "L'émerveillement est son état par défaut face à l'inconnu. Il est total et sans filtre. Il peut surprendre les adultes par ce qui le touche."
+      },
+      {
+        "profil": "Adulte qui a perdu la capacité de s'émerveiller",
+        "description": "Quand l'émerveillement revient, il le prend de court. Il ne s'y attendait plus. Le retour de cette émotion peut être bouleversant."
+      },
+      {
+        "profil": "Artiste ou créatif",
+        "description": "Il cherche activement l'émerveillement — c'est son carburant. Il le reconnaît quand il arrive et essaie de le capturer avant qu'il ne s'évapore."
+      }
+    ],
+    "notesEditoriales": [
+      "L'émerveillement est une des émotions les plus difficiles à écrire sans tomber dans le lyrisme excessif.",
+      "Sa force est dans l'arrêt, l'immobilité — montrer que le personnage n'arrive plus à continuer comme avant.",
+      "Il est plus puissant quand il arrive là où on ne l'attendait pas."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_evoluer_en", "cible": "gratitude" },
+      { "type": "peut_evoluer_en", "cible": "nostalgie" },
+      { "type": "peut_declencher", "cible": "creativite" },
+      { "type": "souvent_associe_a", "cible": "silence-plein" },
+      { "type": "peut_suivre", "cible": "surprise" }
+    ]
+  },
+  {
+    "id": "gratitude",
+    "label": "Gratitude",
+    "alias": [
+      "gratitude",
+      "reconnaissance",
+      "redevabilité",
+      "sentiment de dette heureuse",
+      "conscience de sa chance",
+      "émerveillement envers ce qu'on a",
+      "soulagement reconnaissant",
+      "joie d'avoir reçu",
+      "amour pour ce qui est",
+      "tendresse pour ce qui a été donné"
+    ],
+    "famille": "joie-enthousiasme",
+    "definitionCourte": "Émotion qui naît de la conscience d'avoir reçu quelque chose — aide, amour, chance, beauté — et qui oriente l'attention vers ce qui est là plutôt que vers ce qui manque.",
+    "signesPhysiques": [
+      "chaleur visible dans l'expression du visage",
+      "regard direct et doux vers la personne ou la situation concernée",
+      "respiration qui s'ouvre légèrement",
+      "geste vers l'autre — main posée, contact possible",
+      "sourire qui monte jusqu'aux yeux",
+      "posture qui s'incline légèrement vers l'avant",
+      "pause dans le rythme habituel"
+    ],
+    "sensationsInternes": [
+      "chaleur dans la poitrine, différente de la joie ordinaire — plus posée",
+      "sensation de plénitude douce",
+      "conscience aiguë de ce qui est là",
+      "légère émotion possible — pas de tristesse mais de l'intensité",
+      "impression d'être lié à quelque chose ou quelqu'un de façon réelle",
+      "désir de donner en retour, sans calcul"
+    ],
+    "pensees": [
+      "Je n'aurais pas dû avoir ça — et je l'ai eu.",
+      "Je ne lui ai pas dit à quel point.",
+      "Quelqu'un a fait quelque chose pour moi.",
+      "Je réalise seulement maintenant ce que c'était.",
+      "J'aurais pu ne pas avoir ça.",
+      "Je voudrais que ça continue.",
+      "Je veux être à la hauteur de ce que j'ai reçu.",
+      "Il y a quelque chose à honorer ici."
+    ],
+    "effetsVoixLangage": [
+      "ton plus doux et plus lent",
+      "difficulté à exprimer exactement ce qu'on ressent",
+      "mots simples choisis avec soin",
+      "silence possible avant ou après l'expression",
+      "formulations directes sans détour"
+    ],
+    "comportements": [
+      "exprime sa gratitude — par des mots, des gestes, des actes",
+      "remarque et nomme ce qui va bien",
+      "cherche à rendre — non par obligation mais par désir",
+      "prend soin de ce qui lui a été donné",
+      "partage ce qu'il a avec les autres",
+      "devient plus généreux dans les périodes où il ressent de la gratitude"
+    ],
+    "masquesPossibles": [
+      "humilité excessive qui nie ce qui est ressenti",
+      "ironie pour ne pas paraître sentimental",
+      "réduction en remerciements formels qui vident l'émotion"
+    ],
+    "evolutionsPossibles": [
+      "contentement durable si la gratitude devient un état de fond",
+      "générosité active si elle se transforme en action",
+      "culpabilité si elle se mêle au sentiment de ne pas mériter",
+      "dette oppressante si elle n'est pas librement ressentie"
+    ],
+    "contextesAggravants": [
+      "conscience soudaine d'avoir failli perdre ce pour quoi on est reconnaissant",
+      "comparaison avec quelqu'un qui n'a pas eu la même chance",
+      "date anniversaire ou moment symbolique lié au don reçu"
+    ],
+    "contextesAttenuants": [
+      "expression directe de la gratitude envers quelqu'un",
+      "acte concret qui honore ce qui a été reçu",
+      "partage avec quelqu'un qui comprend"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère reconnaissance", "description": "Quelqu'un a fait quelque chose de bien. Le personnage le note." },
+      { "niveau": 2, "label": "Gratitude sensible", "description": "L'aide reçue compte vraiment. Le personnage en est touché." },
+      { "niveau": 3, "label": "Gratitude profonde", "description": "Ce qui a été reçu a changé quelque chose d'important. La reconnaissance est forte." },
+      { "niveau": 4, "label": "Reconnaissance bouleversante", "description": "Le personnage est ému. Ce qu'il a reçu dépasse ce qu'il pensait possible." },
+      { "niveau": 5, "label": "Gratitude totale", "description": "La conscience de ce qui a été donné est si forte qu'elle transforme le regard sur tout." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui peine à recevoir",
+        "description": "La gratitude lui coûte quelque chose — elle implique d'admettre qu'il n'était pas seul. Il l'exprime mal ou à contretemps, mais elle est là."
+      },
+      {
+        "profil": "Personnage ayant traversé une épreuve",
+        "description": "La gratitude est plus précise — il sait ce que ça vaut de tenir grâce à quelqu'un. Il l'exprime rarement mais l'éprouve profondément."
+      },
+      {
+        "profil": "Personnage contemplatif",
+        "description": "La gratitude est une pratique quotidienne, pas une réaction ponctuelle. Il la ressent envers les gens, mais aussi envers la vie, les instants, les détails."
+      }
+    ],
+    "notesEditoriales": [
+      "La gratitude est plus forte quand elle arrive à contretemps — après une longue absence ou avant une séparation.",
+      "Elle est narrativement puissante quand elle ne peut pas être dite directement.",
+      "À distinguer de la redevabilité (obligation) : la gratitude est librement ressentie."
+    ],
+    "relationsNarratives": [
+      { "type": "peut_suivre", "cible": "soulagement" },
+      { "type": "peut_evoluer_en", "cible": "contentement" },
+      { "type": "peut_evoluer_en", "cible": "amour" },
+      { "type": "souvent_associe_a", "cible": "tendresse" },
+      { "type": "peut_masquer", "cible": "vulnerability" },
+      { "type": "peut_declencher", "cible": "generosite" }
+    ]
+  }
+]

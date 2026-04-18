@@ -1,0 +1,606 @@
+[
+  {
+    "id": "sacrifice-du-nombre",
+    "label": "Sacrifice du nombre",
+    "alias": [
+      "sacrifier un pour sauver tous",
+      "le bien du plus grand nombre",
+      "calcul moral",
+      "utilitarisme contre humanité",
+      "dilemme du tramway",
+      "sacrifier l'innocent",
+      "math de la survie",
+      "décision impossible",
+      "choisir qui vit",
+      "triage moral"
+    ],
+    "famille": "conflits moraux",
+    "definitionCourte": "Le personnage doit décider de sacrifier une personne (ou un petit groupe) pour en sauver un plus grand nombre. La logique dit oui. La conscience dit non.",
+    "natureDuConflit": "Conflit entre le calcul rationnel (la majorité prime) et l'éthique de la personne (aucune vie ne peut être instrumentalisée). Les deux positions sont défendables — aucune n'est sans coût.",
+    "forcesEnPresence": [
+      "logique utilitariste — sauver le plus grand nombre",
+      "refus moral d'instrumentaliser une vie humaine",
+      "pression du temps ou de l'urgence",
+      "attachement personnel à la victime désignée",
+      "responsabilité envers le groupe à sauver",
+      "peur de l'inaction et de ses conséquences",
+      "conscience que décider c'est aussi se définir"
+    ],
+    "declencheursFrequents": [
+      "situation d'urgence avec un choix binaire apparent",
+      "position de commandement ou d'autorité qui exige la décision",
+      "ressources limitées qui ne permettent pas de sauver tout le monde",
+      "information qui force à agir dans un délai très court",
+      "présence d'un tiers qui attend la décision",
+      "échec d'une solution alternative",
+      "découverte que l'inaction est aussi un choix actif",
+      "contexte de guerre, de crise médicale, de catastrophe"
+    ],
+    "signauxAvantCoureurs": [
+      "hésitation prolongée face à une décision normalement simple",
+      "tentatives de trouver une troisième voie qui n'existe peut-être pas",
+      "délégation impossible de la décision à quelqu'un d'autre",
+      "regard sur la victime désignée qui personnalise le calcul",
+      "rationalisation froide qui masque une détresse intérieure",
+      "silence soudain alors que tout le monde attend",
+      "calcul et recalcul obsessionnel des options",
+      "corps qui refuse ce que la raison accepte"
+    ],
+    "silencesEtNonDits": [
+      "personne ne dit que le calcul est peut-être faux",
+      "la question de qui a le droit de décider n'est jamais posée",
+      "le personnage ne dit pas qu'il ne sait pas si c'est la bonne décision",
+      "la victime désignée n'a pas voix au chapitre",
+      "les conséquences à long terme du choix sur celui qui décide ne sont pas dites",
+      "le fait que l'urgence peut être fabriquée ou exagérée n'est pas questionné"
+    ],
+    "penseesTypiques": [
+      "Si je ne fais rien, ils meurent tous. Si j'agis, lui seul meurt.",
+      "Est-ce que j'ai le droit de décider ça ?",
+      "Je peux calculer le bon choix. Je n'arrive pas à l'accepter.",
+      "Si c'était moi qu'on sacrifiait, est-ce que j'accepterais ?",
+      "Quelqu'un doit prendre cette décision. Pourquoi est-ce moi ?",
+      "Le bon choix et le choix juste ne sont pas la même chose.",
+      "Je vais devoir vivre avec ça après.",
+      "Est-ce que sauver le plus grand nombre fait de moi quelqu'un de bien ?",
+      "Je ne suis pas Dieu. Je ne devrais pas avoir à choisir."
+    ],
+    "comportementsTypiques": [
+      "cherche frénétiquement une troisième option pour ne pas avoir à choisir",
+      "se fige au moment de la décision",
+      "délègue la décision à une règle ou un protocole pour se décharger",
+      "agit vite pour ne pas avoir le temps de sentir ce qu'il fait",
+      "évite le regard de la victime désignée",
+      "documente ou justifie sa décision auprès de témoins",
+      "s'effondre après coup une fois la crise passée",
+      "rejette ou nie la responsabilité du choix sur les circonstances"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui décide a un pouvoir absolu sur la vie et la mort — et en est souvent écrasé.",
+      "La victime désignée est en position d'impuissance totale.",
+      "Ceux qui seront sauvés ont un pouvoir d'attente qui pèse sur le décideur.",
+      "Celui qui refuse de décider transfert la responsabilité à l'inaction — qui a aussi des conséquences."
+    ],
+    "variantes": [
+      {
+        "relation": "Décision militaire ou politique",
+        "description": "Le sacrifice est stratégique et dépersonnalisé. La distance rend le calcul plus froid — mais le poids revient toujours après."
+      },
+      {
+        "relation": "Décision médicale",
+        "description": "Triage en situation de pénurie. Le médecin choisit qui reçoit le traitement. La logique clinique entre en conflit avec la valeur égale de chaque vie."
+      },
+      {
+        "relation": "Sacrifice consenti ou non",
+        "description": "La victime accepte-t-elle d'être sacrifiée ? Si oui, le dilemme change de nature. Si non, il devient encore plus aigu."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Dilemme théorique", "description": "La situation est réelle mais pas immédiate. Le personnage a le temps de réfléchir." },
+      { "niveau": 2, "label": "Urgence croissante", "description": "Le délai se resserre. La pression monte. La troisième voie s'éloigne." },
+      { "niveau": 3, "label": "Décision imminente", "description": "Il n'y a plus de temps. Le personnage doit agir dans les secondes qui suivent." },
+      { "niveau": 4, "label": "Sacrifice accompli", "description": "La décision est prise. Les conséquences immédiates sont là." },
+      { "niveau": 5, "label": "Poids durable", "description": "La crise est passée. Le personnage vit avec ce qu'il a fait — ou ce qu'il n'a pas fait." }
+    ],
+    "escaladeTypique": [
+      "situation d'urgence qui révèle le dilemme",
+      "recherche frénétique d'une troisième option",
+      "réduction au choix binaire",
+      "moment de décision — agir ou ne pas agir",
+      "conséquences immédiates et poids à long terme"
+    ],
+    "voiesDeResolution": [
+      "le personnage agit et assume la responsabilité du choix",
+      "une troisième voie apparaît in extremis — mais pas toujours",
+      "le personnage refuse de choisir et vit avec les conséquences de l'inaction",
+      "quelqu'un d'autre prend la décision — soulagant et aliénant à la fois",
+      "la situation se révèle moins binaire qu'elle ne semblait"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience passée où une décision similaire a causé une perte",
+      "position d'autorité imposée sans y être préparé",
+      "conviction que les décisions impossibles font partie du rôle — et refus de le croire",
+      "honte d'avoir un jour sacrifié quelqu'un inconsciemment dans une situation plus ordinaire",
+      "peur profonde de se révéler froid ou calculateur face à une vie humaine"
+    ],
+    "contextesFavorables": [
+      "médecin en situation de triage ou de pénurie de ressources",
+      "personnage militaire ou politique en position de commandement",
+      "parent devant choisir entre deux enfants dans une situation d'urgence",
+      "personnage dans un groupe de survie aux ressources limitées"
+    ],
+    "personnagesSouventConcernes": [
+      "le commandant qui a envoyé des soldats à la mort",
+      "le médecin qui a décidé qui recevait le dernier traitement",
+      "le parent contraint de choisir entre ses enfants",
+      "le leader de groupe en situation de survie extrême",
+      "le personnage ordinaire propulsé dans une décision extraordinaire"
+    ],
+    "erreursDEcriture": [
+      "rendre la décision évidente — si une option est clairement meilleure, il n'y a pas de dilemme",
+      "oublier le poids à long terme — la décision prise dans l'urgence se porte toute une vie",
+      "ne pas personnaliser la victime — elle doit exister comme personne, pas comme chiffre",
+      "résoudre par une troisième voie trop facile — parfois elle n'existe vraiment pas",
+      "confondre sacrifice du nombre (calcul moral) et loyauté contre justice (appartenance)"
+    ],
+    "notesEditoriales": [
+      "Ce conflit est plus puissant si le personnage a un lien avec la victime désignée.",
+      "La décision prise dans l'urgence révèle le personnage — mais ce qu'il en fait après le définit.",
+      "Différencier : sacrifice du nombre (calcul rationnel) / fin justifie les moyens (méthode) / dilemme éthique (valeurs en tension).",
+      "Le silence après la décision est souvent plus révélateur que la décision elle-même."
+    ]
+  },
+  {
+    "id": "pardon-impardonnable",
+    "label": "Pardonner l'impardonnable",
+    "alias": [
+      "pardon impossible",
+      "grâce contre justice",
+      "réconciliation contre mémoire",
+      "dépasser l'imperdonnable",
+      "absolution forcée",
+      "pardon comme survie",
+      "oublier sans trahir",
+      "faire la paix avec l'inacceptable",
+      "vivre avec ce qui n'a pas de réparation",
+      "pardonner pour soi"
+    ],
+    "famille": "conflits moraux",
+    "definitionCourte": "Le personnage est confronté à la possibilité de pardonner quelque chose de grave — une trahison, une violence, une perte causée par autrui. Pardonner semble une trahison de la victime. Ne pas pardonner emprisonne.",
+    "natureDuConflit": "Conflit entre la justice (ne pas absoudre ce qui ne mérite pas d'être absous) et la libération personnelle (continuer à vivre sans être consumé par la haine ou la douleur). Le pardon n'est pas pour l'autre — mais peut-il être pour soi sans trahir ?",
+    "forcesEnPresence": [
+      "douleur réelle et légitime liée à l'acte",
+      "désir de libération du poids de la rancœur",
+      "sentiment que pardonner c'est absoudre",
+      "loyauté envers la victime si elle n'est pas soi",
+      "pression sociale ou religieuse à pardonner",
+      "refus que le responsable s'en tire sans conséquence",
+      "épuisement de porter la haine"
+    ],
+    "declencheursFrequents": [
+      "confrontation directe avec le responsable de la blessure",
+      "demande explicite de pardon",
+      "mort imminente — du responsable ou du personnage lui-même",
+      "prise de conscience que la haine détruit le personnage plus que le responsable",
+      "pression d'un proche à pardonner pour aller de l'avant",
+      "révélation d'un contexte qui nuance sans excuser",
+      "naissance d'un enfant ou d'une relation nouvelle qui exige de lâcher le passé",
+      "injonction religieuse ou spirituelle au pardon"
+    ],
+    "signauxAvantCoureurs": [
+      "pensées récurrentes sur la blessure malgré le temps passé",
+      "moments d'empathie involontaire envers le responsable vite réprimés",
+      "fatigue croissante du poids de la rancœur",
+      "conversations où le sujet revient toujours",
+      "tentatives de comprendre sans vouloir excuser",
+      "distancement de ceux qui prêchent le pardon",
+      "recherche d'exemples de personnes ayant pardonné quelque chose de similaire",
+      "rêves liés à la blessure qui ne s'apaisent pas"
+    ],
+    "silencesEtNonDits": [
+      "le désir de pardonner n'est jamais avoué — il semblerait une trahison",
+      "la différence entre pardonner et excuser n'est pas dite",
+      "le coût de ne pas pardonner sur le personnage lui-même n'est pas reconnu",
+      "la question de si le responsable mérite le pardon n'est jamais séparée de si le personnage a besoin de pardonner",
+      "la peur que pardonner efface ce qui s'est passé n'est pas nommée",
+      "la différence entre pardon intérieur et réconciliation n'est jamais formulée"
+    ],
+    "penseesTypiques": [
+      "Pardonner c'est dire que ce qu'il a fait était acceptable.",
+      "Il ne mérite pas mon pardon.",
+      "Je ne peux pas oublier. Pardonner, c'est oublier ?",
+      "Est-ce que je me trahis moi-même en pardonnant ?",
+      "Je suis épuisé de porter ça.",
+      "Comment peut-on pardonner quelque chose d'aussi grave ?",
+      "Pardonner pour moi, pas pour lui — est-ce que ça change quelque chose ?",
+      "Si je pardonne, est-ce que ça signifie que ça n'a pas eu d'importance ?",
+      "Je ne veux pas pardonner. Et en même temps je veux être libre."
+    ],
+    "comportementsTypiques": [
+      "résiste aux invitations à pardonner avec une colère disproportionnée",
+      "fait une distinction rhétorique entre comprendre et excuser sans avancer",
+      "cherche des preuves que le responsable n'a pas changé pour justifier le refus",
+      "s'approche du pardon puis recule quand ça devient réel",
+      "confond réconciliation et pardon — refuse l'un parce qu'il ne peut pas faire l'autre",
+      "teste le responsable avant de décider si le pardon est possible",
+      "pardonne partiellement — sur certains actes, pas d'autres",
+      "pardonne intérieurement sans jamais le dire à l'autre"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui pardonne a un pouvoir symbolique immense — il peut libérer ou retenir.",
+      "Le responsable est dans une position de demande — vulnérable s'il se repent, invulnérable s'il s'en fiche.",
+      "La société peut exiger le pardon (pression à 'avancer') ou le refus (justice d'abord).",
+      "Le personnage qui pardonne sans que l'autre le sache garde le pouvoir pour lui-même."
+    ],
+    "variantes": [
+      {
+        "relation": "Pardon à un mort",
+        "description": "Le responsable est décédé. Il ne peut pas réparer. Le pardon ne peut pas être reçu. Il doit être fait pour soi uniquement — ce qui le rend plus pur et plus difficile."
+      },
+      {
+        "relation": "Pardon à quelqu'un qui n'a pas demandé pardon",
+        "description": "Le responsable ne reconnaît pas l'acte ou s'en fiche. Le personnage doit décider si son pardon nécessite la réception de l'autre — ou s'il peut exister seul."
+      },
+      {
+        "relation": "Pardon au nom d'une victime",
+        "description": "Le personnage n'est pas lui-même la victime directe. Il pardonne au nom de quelqu'un d'autre — ce qui pose la question de s'il en a le droit."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Pardon envisagé à distance", "description": "Le personnage considère l'idée du pardon sans urgence. La blessure est là mais gérable." },
+      { "niveau": 2, "label": "Désir de pardonner qui se heurte à la douleur", "description": "Le personnage voudrait pardonner mais la blessure revient dès qu'il essaie." },
+      { "niveau": 3, "label": "Confrontation directe avec l'acte à pardonner", "description": "Une situation force le personnage à regarder la blessure en face. Le choix devient réel." },
+      { "niveau": 4, "label": "Décision de pardonner ou de ne pas pardonner", "description": "Le personnage choisit. Les deux choix ont un coût." },
+      { "niveau": 5, "label": "Pardon accompli ou refusé définitivement", "description": "La décision est prise et ses conséquences se déploient. La paix n'est pas garantie dans les deux cas." }
+    ],
+    "escaladeTypique": [
+      "blessure initiale portée sans résolution",
+      "confrontation avec la possibilité de pardonner",
+      "résistance et douleur de la tentative",
+      "moment de clarté ou de crise qui force le choix",
+      "pardon partiel, total ou refusé — et vie avec ce choix"
+    ],
+    "voiesDeResolution": [
+      "le pardon intérieur est accordé sans réconciliation nécessaire",
+      "la compréhension du contexte de l'acte permet un pardon partiel",
+      "le personnage choisit de ne pas pardonner et trouve une paix différente",
+      "le responsable accomplit une réparation qui rend le pardon possible",
+      "la mort du responsable force un pardon posthume ou un deuil sans pardon"
+    ],
+    "blessuresUnderlyantes": [
+      "blessure grave jamais réparée ni reconnue",
+      "message reçu que pardonner c'est se soumettre",
+      "identité construite autour du refus du pardon comme forme de résistance",
+      "peur que le pardon efface le souvenir de la victime ou de la blessure",
+      "conviction que la guérison exige la justice — et que la justice n'est pas venue"
+    ],
+    "contextesFavorables": [
+      "personnage en fin de vie confronté à une rancœur qu'il portera jusqu'au bout",
+      "retrouvailles forcées avec quelqu'un à qui une blessure ancienne n'a jamais été pardonnée",
+      "personnage dont l'entourage l'encourage au pardon alors qu'il n'est pas prêt",
+      "situation où ne pas pardonner a des conséquences concrètes sur sa vie actuelle"
+    ],
+    "personnagesSouventConcernes": [
+      "la victime d'une violence grave confrontée à la possibilité de la réconciliation",
+      "l'enfant adulte face à un parent abusif repentant",
+      "le survivant d'une perte causée par quelqu'un de connu",
+      "le personnage religieux en conflit entre sa foi (pardonner) et sa douleur",
+      "celui qui a décidé de ne pas pardonner et doit vivre avec ce choix"
+    ],
+    "erreursDEcriture": [
+      "présenter le pardon comme la seule issue saine — ne pas pardonner peut être un choix valide et lucide",
+      "confondre pardonner et réconcilier — on peut pardonner sans reprendre contact",
+      "rendre le pardon facile ou cathartique — il est souvent incomplet et douloureux",
+      "oublier la colère légitime — le pardon n'efface pas le fait que l'acte était grave",
+      "ne pas distinguer pardon intérieur (pour soi) et absolution donnée à l'autre"
+    ],
+    "notesEditoriales": [
+      "Le pardon le plus puissant narrativement est celui qui n'est pas reçu par l'autre — il révèle que le personnage agit pour lui-même.",
+      "Distinguer : pardonner (relâcher la rancœur) / excuser (minimiser l'acte) / oublier (effacer) / réconcilier (reprendre un lien).",
+      "La scène la plus forte n'est souvent pas l'acte de pardonner mais ce qui vient juste avant.",
+      "Différencier : pardon impardonnable (libération intérieure) / vengeance contre morale (désir de faire payer) / ressentiment (rancœur gelée)."
+    ]
+  },
+  {
+    "id": "complicite-passive",
+    "label": "Complicité passive",
+    "alias": [
+      "silence complice",
+      "témoin qui ne parle pas",
+      "inaction face à l'injustice",
+      "regarder sans intervenir",
+      "ne rien faire c'est choisir",
+      "témoin passif",
+      "refus de voir",
+      "normalisation de l'inacceptable",
+      "ne pas s'impliquer",
+      "laisser faire"
+    ],
+    "famille": "conflits moraux",
+    "definitionCourte": "Le personnage sait qu'une injustice se produit — ou s'est produite — et ne fait rien. Son inaction le rend complice. Il le sait. Il continue quand même.",
+    "natureDuConflit": "Conflit entre la conscience morale (agir serait juste) et la protection de soi (agir coûte quelque chose de réel). Le personnage n'est pas mauvais — mais son inaction a des conséquences.",
+    "forcesEnPresence": [
+      "conscience que l'injustice est réelle",
+      "peur des conséquences personnelles si on agit",
+      "pression du groupe à ne pas se désolidariser",
+      "rationalisation que quelqu'un d'autre agira",
+      "attachement à l'équilibre actuel que l'action perturbera",
+      "doute sur si son intervention changerait quoi que ce soit",
+      "honte latente de l'inaction"
+    ],
+    "declencheursFrequents": [
+      "injustice visible commise devant lui",
+      "demande d'aide d'une victime directe",
+      "question d'un tiers sur ce qu'il a vu ou sait",
+      "conséquence grave pour la victime qui aurait pu être évitée",
+      "nouvelle injustice par le même responsable",
+      "moment où le silence devient lui-même un acte visible",
+      "confrontation par quelqu'un qui sait qu'il savait",
+      "moment de réalisation que le temps passe et que la fenêtre se ferme"
+    ],
+    "signauxAvantCoureurs": [
+      "malaise physique lors des situations qui rappellent l'injustice",
+      "évitement de la victime pour ne pas être confronté à sa propre inaction",
+      "rationalisation excessive de la non-intervention",
+      "irritabilité envers ceux qui font preuve de courage moral",
+      "petits gestes compensatoires envers la victime sans aller au fond",
+      "rumination sur ce qu'il aurait pu faire",
+      "distancement progressif des témoins ou des sujets liés",
+      "moment de presque-action suivi d'un retrait"
+    ],
+    "silencesEtNonDits": [
+      "le personnage ne dit jamais qu'il savait et n'a rien fait",
+      "la peur réelle derrière l'inaction n'est pas nommée",
+      "la victime ne sait pas toujours qu'un témoin existait",
+      "le fait que l'inaction est un choix actif n'est pas reconnu",
+      "la question de la responsabilité morale du témoin n'est jamais posée directement",
+      "la honte de l'inaction cohabite avec la justification sans être distinguée"
+    ],
+    "penseesTypiques": [
+      "Ce n'est pas mon problème.",
+      "Quelqu'un d'autre va forcément intervenir.",
+      "Si j'interviens, ça va empirer les choses.",
+      "Je ne peux pas me mettre en danger pour ça.",
+      "Je ne savais pas exactement ce qui se passait.",
+      "J'aurais dû dire quelque chose. Je n'ai pas su comment.",
+      "Il n'y avait rien que je puisse faire de toute façon.",
+      "Je me suis dit que c'était leurs affaires.",
+      "Je n'ai rien fait. Et je le sais."
+    ],
+    "comportementsTypiques": [
+      "détourne le regard dans les situations qui exigeraient une intervention",
+      "construit des narratives qui minimisent sa responsabilité",
+      "se confie à un tiers sans jamais agir concrètement",
+      "fait des gestes symboliques qui soulagent sa conscience sans changer la situation",
+      "fuit les contextes qui le forceraient à confronter son inaction",
+      "devient défensif ou agressif si quelqu'un nomme son silence",
+      "attend que la situation se règle d'elle-même",
+      "finit par parler trop tard, quand l'action n'a plus de sens"
+    ],
+    "positionsDePouvoir": [
+      "Le témoin a un pouvoir réel — son témoignage peut changer quelque chose.",
+      "La victime dépend souvent de ceux qui savent — le silence du témoin renforce l'impuissance.",
+      "Le responsable bénéficie directement du silence des témoins.",
+      "Le groupe valide l'inaction en la normalisant — chacun attend que l'autre agisse."
+    ],
+    "variantes": [
+      {
+        "relation": "Témoin d'une violence dans un groupe",
+        "description": "La violence se passe devant plusieurs personnes. Chacun attend que l'autre intervienne. L'effet de dilution de responsabilité protège tout le monde — et personne."
+      },
+      {
+        "relation": "Témoin silencieux sur le long terme",
+        "description": "Le personnage n'a pas été témoin d'un seul acte mais d'une situation durable (harcèlement, maltraitance). Son inaction répétée s'est sédimentée en complicité."
+      },
+      {
+        "relation": "Inaction institutionnelle",
+        "description": "Le personnage fait partie d'une institution qui couvre une injustice systémique. Sa complicité n'est pas individuelle mais collective — et donc plus difficile à nommer."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Inaction ponctuelle", "description": "Le personnage n'a pas agi dans une situation isolée. Il s'en veut légèrement." },
+      { "niveau": 2, "label": "Inaction répétée", "description": "Le silence s'est installé. Le personnage a normalisé son inaction." },
+      { "niveau": 3, "label": "Confrontation à la complicité", "description": "Quelqu'un nomme son silence ou les conséquences deviennent visibles." },
+      { "niveau": 4, "label": "Point de non-retour", "description": "Agir maintenant ne répare pas tout — mais ne pas agir aggrave définitivement." },
+      { "niveau": 5, "label": "Révélation ou enfouissement", "description": "Le personnage parle — trop tard peut-être — ou enterre le secret pour toujours." }
+    ],
+    "escaladeTypique": [
+      "première inaction justifiée par les circonstances",
+      "silence qui se répète et s'installe",
+      "confrontation extérieure ou intérieure à la complicité",
+      "moment où il est encore possible d'agir — ou plus",
+      "parole ou silence définitif"
+    ],
+    "voiesDeResolution": [
+      "le personnage témoigne malgré le coût personnel",
+      "il aide la victime indirectement sans s'exposer complètement",
+      "la situation se règle sans lui — et il vit avec ce que ça dit de lui",
+      "il est confronté par la victime et doit assumer",
+      "il porte son silence toute sa vie sans résolution"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience passée où avoir parlé a causé des représailles",
+      "message reçu que se mêler des affaires des autres est dangereux",
+      "sentiment d'impuissance profond face aux injustices systémiques",
+      "peur d'être ciblé à son tour si on défend la victime",
+      "habitude de la survie par le silence dans un environnement hostile"
+    ],
+    "contextesFavorables": [
+      "personnage intégré dans un groupe où l'injustice est normalisée",
+      "institution avec une culture du silence (école, armée, entreprise)",
+      "personnage dans une position précaire qui ne peut pas se permettre de parler",
+      "témoin dont le témoignage serait décisif mais qui se tait"
+    ],
+    "personnagesSouventConcernes": [
+      "le collègue qui a vu le harcèlement et ne l'a pas signalé",
+      "le voisin qui entendait sans jamais appeler",
+      "l'élève qui n'a pas défendu celui qu'on molestait",
+      "le subordonné qui a couvert les agissements de son supérieur",
+      "celui qui a tout vu et vivra avec ça"
+    ],
+    "erreursDEcriture": [
+      "juger le personnage sans montrer les forces réelles qui l'ont retenu",
+      "rendre la parole facile et sans conséquence — parfois parler coûte vraiment",
+      "confondre complicité passive (inaction) et loyauté contre justice (choix actif de couvrir)",
+      "ne pas montrer la différence entre ne pas avoir su et avoir su sans agir",
+      "résoudre par une prise de conscience soudaine — la normalisation de l'inaction résiste"
+    ],
+    "notesEditoriales": [
+      "La complicité passive est plus difficile à écrire que la complicité active — les frontières sont floues et le personnage peut être sincèrement convaincu de son innocence.",
+      "L'effet de dilution (chacun attendait que l'autre le fasse) est un mécanisme psychologique réel et à exploiter.",
+      "Différencier : complicité passive (inaction) / loyauté contre justice (choix de couvrir activement) / peur contre action (paralysie face à une décision).",
+      "Les conséquences sur la victime doivent être visibles — sinon la complicité reste abstraite."
+    ]
+  },
+  {
+    "id": "double-standard",
+    "label": "Double standard moral",
+    "alias": [
+      "deux poids deux mesures",
+      "règles pour les autres pas pour soi",
+      "hypocrisie de principe",
+      "exigence asymétrique",
+      "morale à géométrie variable",
+      "juge sévère des autres clément de soi",
+      "inégalité de traitement moral",
+      "exception personnelle à la règle",
+      "morale conditionnelle",
+      "justice sélective"
+    ],
+    "famille": "conflits moraux",
+    "definitionCourte": "Le personnage applique des normes morales strictes aux autres tout en s'accordant des exceptions pour lui-même — ou inversement. Le conflit naît quand cette asymétrie est révélée.",
+    "natureDuConflit": "Conflit entre les valeurs affichées (ce que le personnage dit croire) et les valeurs vécues (ce qu'il fait réellement). La dissonance peut être consciente ou non — ce qui change la nature du conflit.",
+    "forcesEnPresence": [
+      "valeurs morales sincèrement tenues mais appliquées de manière asymétrique",
+      "besoin de cohérence identitaire malgré les contradictions",
+      "contexte qui justifie l'exception à ses propres yeux",
+      "aveuglement sur ses propres comportements",
+      "peur d'être vu comme hypocrite si la contradiction est nommée",
+      "sentiment que les circonstances de sa propre situation sont différentes",
+      "ressentiment envers ceux qui appliquent la règle universellement"
+    ],
+    "declencheursFrequents": [
+      "quelqu'un nomme la contradiction en public",
+      "situation qui expose l'asymétrie de manière évidente",
+      "victime du double standard qui confronte le personnage",
+      "miroir inattendu — voir quelqu'un d'autre faire la même chose",
+      "moment où l'exception réclamée pour soi est refusée à quelqu'un d'autre",
+      "retournement de situation où le personnage se retrouve dans la position de l'autre",
+      "demande d'expliquer sa conduite à quelqu'un qu'il respecte",
+      "prise de conscience soudaine de la contradiction"
+    ],
+    "signauxAvantCoureurs": [
+      "défense véhémente d'un principe que le personnage viole lui-même",
+      "irritabilité disproportionnée envers ceux qui font ce qu'il fait",
+      "rationalisations élaborées de ses propres exceptions",
+      "malaise discret quand la contradiction approche d'être nommée",
+      "évitement de certaines conversations ou comparaisons",
+      "jugement des autres sur des critères qu'il ne s'applique pas",
+      "utilisation du contexte comme explication permanente de ses propres écarts",
+      "besoin d'avoir toujours raison sur les questions morales"
+    ],
+    "silencesEtNonDits": [
+      "le personnage ne reconnaît pas sa propre contradiction même intérieurement",
+      "la peur d'être jugé hypocrite n'est jamais avouée",
+      "les victimes du double standard ne disent pas toujours ce qu'elles voient",
+      "la question de pourquoi sa situation serait différente n'est jamais posée honnêtement",
+      "le fait que l'exception est souvent un privilège non reconnu reste sans nom",
+      "la douleur d'être tenu à ses propres standards n'est pas dite"
+    ],
+    "penseesTypiques": [
+      "Ma situation est différente — il y a des circonstances atténuantes.",
+      "Ce n'est pas pareil. Eux l'ont fait par égoïsme. Moi c'était nécessaire.",
+      "Je ne suis pas hypocrite. Je suis nuancé.",
+      "Pourquoi est-ce qu'on me demande plus qu'aux autres ?",
+      "Je tiens à ces principes. Mais cette fois-ci, c'était vraiment une exception.",
+      "Il y a des règles et il y a la réalité.",
+      "Je m'applique les mêmes règles qu'aux autres. Presque.",
+      "Ils n'auraient pas dû faire ça. Moi j'avais une bonne raison.",
+      "Si j'avais été dans sa situation, j'aurais fait la même chose. Mais lui, c'est différent."
+    ],
+    "comportementsTypiques": [
+      "juge sévèrement les comportements des autres qu'il pratique lui-même",
+      "développe des arguments élaborés pour justifier ses propres exceptions",
+      "ne tolère pas qu'on lui applique les mêmes critères qu'il applique aux autres",
+      "change de sujet ou devient défensif quand la contradiction est approchée",
+      "reconnaît la règle en général tout en niant son application à son propre cas",
+      "cherche des alliés qui valideront son exception",
+      "finit par admettre la contradiction sous pression mais sans vraiment changer",
+      "change de standard au lieu de changer de comportement"
+    ],
+    "positionsDePouvoir": [
+      "Celui qui fixe les règles a souvent le pouvoir d'en être exempté.",
+      "Celui qui nomme la contradiction a le pouvoir de déstabiliser — temporairement.",
+      "La victime du double standard est souvent sans pouvoir de recours.",
+      "L'asymétrie morale peut être institutionnelle — et donc encore plus difficile à contester."
+    ],
+    "variantes": [
+      {
+        "relation": "Double standard inconscient",
+        "description": "Le personnage ne réalise pas qu'il applique des règles différentes. La révélation est sincèrement déstabilisante — et donc plus intéressante."
+      },
+      {
+        "relation": "Double standard cynique",
+        "description": "Le personnage sait pertinemment qu'il applique deux poids deux mesures et le justifie par le pouvoir ou la nécessité. La duplicité est consciente."
+      },
+      {
+        "relation": "Double standard de groupe",
+        "description": "C'est l'appartenance au groupe qui crée l'asymétrie — les règles pour nous et les règles pour eux. Le personnage ne le voit pas car c'est normal dans son environnement."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère asymétrie", "description": "La contradiction est mineure et rarement visible. Le personnage n'en est pas conscient." },
+      { "niveau": 2, "label": "Contradiction notable", "description": "L'asymétrie est visible par les observateurs. Le personnage la nie quand c'est pointé." },
+      { "niveau": 3, "label": "Confrontation directe", "description": "La contradiction est nommée publiquement ou par quelqu'un de proche. Le personnage doit répondre." },
+      { "niveau": 4, "label": "Crise de cohérence", "description": "Le personnage ne peut plus ignorer la contradiction. Sa crédibilité morale est en jeu." },
+      { "niveau": 5, "label": "Effondrement de l'image morale", "description": "L'hypocrisie est pleinement exposée. Le personnage doit reconstruire son image ou son identité morale." }
+    ],
+    "escaladeTypique": [
+      "contradiction silencieuse installée sans confrontation",
+      "situations qui la révèlent progressivement",
+      "quelqu'un nomme l'asymétrie directement",
+      "défense et justification qui exposent encore plus la contradiction",
+      "confrontation à soi-même ou effondrement de l'image"
+    ],
+    "voiesDeResolution": [
+      "le personnage reconnaît honnêtement la contradiction et change son comportement",
+      "il choisit d'assumer le double standard et abandonne l'image morale cohérente",
+      "il retourne le conflit sur l'accusateur pour éviter l'introspection",
+      "la situation évolue de façon à mettre le personnage dans la position de la victime",
+      "il change son standard plutôt que son comportement — ce qui perpétue l'hypocrisie"
+    ],
+    "blessuresUnderlyantes": [
+      "besoin intense de cohérence identitaire qui rend la contradiction insupportable à reconnaître",
+      "privilège non examiné qui rend l'asymétrie invisible de l'intérieur",
+      "expérience d'injustice subie qui justifie rétrospectivement les propres exceptions",
+      "peur profonde d'être un imposteur moral",
+      "modèle parental ou communautaire où l'asymétrie était la norme"
+    ],
+    "contextesFavorables": [
+      "personnage en position d'autorité morale (parent, religieux, juge, militant)",
+      "personnage dont l'identité repose sur ses valeurs affichées",
+      "situation qui révèle l'écart entre discours et pratique",
+      "groupe qui valorise la cohérence morale et stigmatise l'hypocrisie"
+    ],
+    "personnagesSouventConcernes": [
+      "le moralisateur qui juge les autres sévèrement",
+      "le militant dont les comportements privés contredisent les positions publiques",
+      "le parent qui exige de ses enfants ce qu'il ne fait pas lui-même",
+      "le leader religieux ou politique pris en flagrant délit de contradiction",
+      "n'importe qui confronté à l'écart entre qui il veut être et ce qu'il fait"
+    ],
+    "erreursDEcriture": [
+      "rendre le personnage entièrement hypocrite sans sincérité dans ses valeurs affichées — la contradiction est plus riche si les valeurs sont vraiment tenues",
+      "résoudre par une simple prise de conscience — le double standard est souvent plus profond qu'une erreur corrigible",
+      "ne pas montrer les victimes réelles de l'asymétrie",
+      "réduire à un défaut de caractère personnel sans voir la dimension sociale ou systémique",
+      "confondre double standard (asymétrie morale) et complicité passive (inaction face à l'injustice)"
+    ],
+    "notesEditoriales": [
+      "Le double standard inconscient est souvent plus intéressant que le cynisme délibéré — il permet une vraie révélation.",
+      "Ce conflit touche à l'identité morale du personnage — ce qu'il croit être versus ce qu'il est.",
+      "Les personnages les plus rigides moralement sont souvent les plus exposés à ce conflit.",
+      "Différencier : double standard (asymétrie dans l'application des règles) / fin justifie les moyens (exception pour un objectif) / mensonge par nécessité (dissimulation consciente)."
+    ]
+  }
+]

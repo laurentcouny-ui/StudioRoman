@@ -1,0 +1,413 @@
+[
+  {
+    "id": "jouet-enfant-abandonne",
+    "label": "Jouet d'enfant abandonné",
+    "definitionCourte": "Jouet laissé dans un lieu sans enfant — posé, oublié ou délaissé. Sa présence dans un espace vide ou adulte crée immédiatement une absence.",
+    "chargeSymbolique": "haute",
+    "categorie": "objet-enfance",
+    "associationsNarratives": [
+      "maison quittée après un deuil ou une séparation familiale",
+      "appartement où un enfant a cessé de vivre — décès, enlèvement, placement",
+      "scène de catastrophe ou d'évacuation d'urgence",
+      "chambre d'enfant conservée intacte des années après son départ",
+      "lieu de crime ou d'enquête judiciaire",
+      "déménagement et objets qu'on ne peut se résoudre à jeter",
+      "maison familiale vendue à la mort des parents"
+    ],
+    "emotionsAssociees": [
+      "deuil d'enfant ou de parentalité",
+      "mélancolie de l'enfance perdue",
+      "culpabilité parentale",
+      "nostalgie déchirante",
+      "choc silencieux face à une absence"
+    ],
+    "usagesTypiques": [
+      "signaler une perte sans la nommer dans un dialogue",
+      "introduire une enquête ou un mystère par un objet hors-contexte",
+      "matérialiser l'absence d'un enfant dans un espace adulte",
+      "créer un choc visuel discret qui dit tout de la situation d'un personnage",
+      "ancrer une scène de fouille ou de reconstitution dans la réalité du corps disparu",
+      "ouvrir un roman sur l'image d'un monde dont quelque chose manque"
+    ],
+    "variantesNarratives": [
+      "jouet posé volontairement — l'enfant l'a laissé derrière lui lors d'un départ, ce qui dit quelque chose sur la nature de ce départ",
+      "jouet retrouvé par un personnage qui n'attendait pas l'émotion — la surprise intensifie la réaction",
+      "jouet conservé délibérément par un adulte en deuil — ce n'est plus un objet d'enfant, c'est une relique"
+    ],
+    "notesEditoriales": [
+      "Sa force est dans sa discrétion : un ours en peluche coincé sous un radiateur dit plus qu'une page de description de deuil.",
+      "Le type de jouet importe — un dessin à la craie sur le sol n'a pas la même charge qu'une poupée sans tête.",
+      "À ne pas sur-expliquer : laisser l'objet exister sans commentaire du narrateur ou du personnage est souvent plus puissant."
+    ]
+  },
+  {
+    "id": "medicaments-non-pris",
+    "label": "Médicaments non pris",
+    "definitionCourte": "Boîte de médicaments prescrite mais intacte, ou blister intact depuis des semaines malgré l'ordonnance. L'objet dit ce que le personnage ne dit pas de son état ou de ses intentions.",
+    "chargeSymbolique": "haute",
+    "categorie": "objet-medical",
+    "associationsNarratives": [
+      "dépression ou trouble psychiatrique non traité",
+      "personnage qui a décidé d'arrêter sans en parler",
+      "refus du diagnostic ou de la maladie",
+      "situation suicidaire — médicaments gardés pour une autre raison",
+      "personne âgée qui ne comprend plus son traitement",
+      "aidant qui découvre que le proche ne prenait pas ses médicaments",
+      "secret médical dans une relation de couple ou familiale"
+    ],
+    "emotionsAssociees": [
+      "inquiétude de qui découvre",
+      "résignation ou rébellion silencieuse du personnage",
+      "honte liée à la maladie psychiatrique",
+      "déni",
+      "désespoir masqué"
+    ],
+    "usagesTypiques": [
+      "révéler l'état psychologique d'un personnage sans dialogue clinique",
+      "créer une tension narrative autour d'un secret médical",
+      "signaler un tournant dans l'état d'un personnage sans le nommer",
+      "introduire une scène de crise en amont par cet indice",
+      "donner à un personnage secondaire une épaisseur sans scène dédiée",
+      "ancrer la question de l'agentivité — le personnage choisit-il, ou ne peut-il pas ?"
+    ],
+    "variantesNarratives": [
+      "médicaments non pris parce que le personnage va mieux et pense ne plus en avoir besoin — ce qui peut être vrai ou dangereusement faux",
+      "médicaments non pris par oubli ou désorganisation — dit quelque chose d'autre sur l'état du personnage",
+      "médicaments gardés et comptés — la sinistre comptabilité de quelqu'un qui a un plan"
+    ],
+    "notesEditoriales": [
+      "Objet qui demande à être trouvé par quelqu'un d'autre pour fonctionner narrativement — le personnage qui le cache ne peut pas le commenter lui-même.",
+      "La prescription encore dans la boîte a une charge différente d'un blister entamé puis abandonné — l'un dit le déni, l'autre dit l'abandon.",
+      "À manier avec soin dans les récits abordant le suicide — l'objet peut être très puissant ou irresponsable selon le traitement."
+    ]
+  },
+  {
+    "id": "testament-trouve",
+    "label": "Testament trouvé par hasard",
+    "definitionCourte": "Document légal découvert par accident dans les affaires d'un proche, avant ou après sa mort, révélant des volontés que personne ne soupçonnait.",
+    "chargeSymbolique": "haute",
+    "categorie": "objet-juridique",
+    "associationsNarratives": [
+      "fouille des affaires d'un parent après son décès",
+      "découverte dans un tiroir ou un coffre non destiné à être ouvert",
+      "révélation d'une famille inconnue ou d'un enfant caché",
+      "legs surprenant — quelqu'un de méconnu favorisé, un proche écarté",
+      "testament qui révèle des rancœurs longtemps tues",
+      "conflit familial déclenché par le contenu",
+      "personnage qui trouve son propre testament rédigé par quelqu'un d'autre"
+    ],
+    "emotionsAssociees": [
+      "trahison ou sentiment d'injustice",
+      "stupéfaction",
+      "chagrin mêlé de colère",
+      "révélation d'une vérité longtemps cachée",
+      "culpabilité de celui qui lit ce qui n'était pas pour lui"
+    ],
+    "usagesTypiques": [
+      "déclencher un conflit familial latent par un révélateur extérieur",
+      "introduire un secret de famille sans flashback",
+      "créer un tournant narratif à partir d'un objet trouvé",
+      "questionner la mémoire qu'on avait d'un personnage décédé",
+      "ouvrir une enquête sur un passé qu'on croyait connaître",
+      "créer un dilemme moral — lire ou ne pas lire, révéler ou taire"
+    ],
+    "variantesNarratives": [
+      "testament trouvé avant le décès — le personnage vivant sait maintenant ce qu'il ne devait pas savoir",
+      "testament falsifié ou incomplet — le doute s'installe sur ce qui est vrai",
+      "testament écrit à la main, non légal, mais moralement impératif pour le personnage"
+    ],
+    "notesEditoriales": [
+      "Sa puissance narrative tient à ce qu'il révèle une intention — pas seulement un fait, mais ce qu'une personne voulait ou ne voulait pas.",
+      "Le moment de lecture est souvent plus dramatique que le contenu lui-même — à ralentir et à habiter.",
+      "Peut fonctionner comme MacGuffin ou comme révélateur de caractère selon la façon dont chaque personnage réagit à son contenu."
+    ]
+  },
+  {
+    "id": "bible-annotee",
+    "label": "Bible ou livre de prières annoté",
+    "definitionCourte": "Livre religieux couvert de marques personnelles — passages soulignés, notes dans les marges, dates, noms, parfois des lettres glissées entre les pages.",
+    "chargeSymbolique": "haute",
+    "categorie": "objet-spirituel",
+    "associationsNarratives": [
+      "héritage d'un ancêtre croyant",
+      "conversion ou crise de foi",
+      "prière répétée pendant une période d'épreuve",
+      "relation complexe à la religion familiale",
+      "objet transmis de génération en génération",
+      "découverte des pensées intimes d'un proche à travers ses annotations",
+      "personnage non croyant qui reçoit cet objet en héritage"
+    ],
+    "emotionsAssociees": [
+      "héritage spirituel pesant ou réconfortant",
+      "ambivalence religieuse",
+      "connexion à un ancêtre",
+      "question de transmission et de rupture",
+      "intimité avec une personne qui ne peut plus parler"
+    ],
+    "usagesTypiques": [
+      "révéler la vie intérieure d'un personnage à travers ses annotations",
+      "créer un lien entre le présent du personnage et un passé familial",
+      "introduire la question de la foi sans dialogue didactique",
+      "signaler ce qu'une personne cherchait dans les textes sacrés",
+      "ancrer un héritage — un personnage reçoit non seulement le livre mais la vie de celui qui l'a marqué",
+      "créer une tension entre la foi affichée et les doutes annotés en marge"
+    ],
+    "variantesNarratives": [
+      "annotations qui révèlent une pensée hétérodoxe ou dissidente dans une famille très croyante",
+      "noms et dates annotés — naissances, morts, mariages — qui transforment le livre en registre familial",
+      "passages violemment barrés — quelque chose a été rejeté, et on ne sait pas pourquoi"
+    ],
+    "notesEditoriales": [
+      "L'objet fonctionne mieux quand il appartient à une personne très précise — pas 'une Bible de famille' mais la Bible de cette grand-mère précise.",
+      "Les annotations dans les marges sont plus parlantes que les passages soulignés seuls : elles disent ce que le personnage pensait, pas seulement ce qu'il lisait.",
+      "Peut être transposé à d'autres livres sacrés ou à un livre profane fondateur — un roman de chevet très annoté a une charge similaire."
+    ]
+  },
+  {
+    "id": "chaussure-depareillée",
+    "label": "Chaussure dépareillée",
+    "definitionCourte": "Une seule chaussure sans sa paire, trouvée dans un lieu inadapté — bord de route, couloir, lisière de forêt. Elle dit un départ précipité, une séparation brutale, quelque chose d'inachevé.",
+    "chargeSymbolique": "haute",
+    "categorie": "objet-vestiaire",
+    "associationsNarratives": [
+      "scène d'accident de voiture ou de noyade",
+      "fugue ou départ précipité",
+      "scène de crime — victime qui a résisté ou couru",
+      "catastrophe naturelle ou évacuation d'urgence",
+      "enfant séparé de ses parents",
+      "paysage post-conflit ou post-catastrophe",
+      "SDF et précarité extrême"
+    ],
+    "emotionsAssociees": [
+      "inquiétude et mauvais pressentiment",
+      "sentiment d'incomplétude et d'urgence",
+      "deuil anticipé",
+      "mystère et question sans réponse",
+      "brutalité du monde dans un détail"
+    ],
+    "usagesTypiques": [
+      "signaler un événement violent ou précipité sans le décrire",
+      "introduire un mystère par un détail concret",
+      "ancrer la violence dans un objet banal pour en amplifier l'impact",
+      "ouvrir une enquête ou une scène de recherche",
+      "créer un malaise dans une scène apparemment calme",
+      "matérialiser l'absence d'un corps dans un lieu"
+    ],
+    "variantesNarratives": [
+      "chaussure d'enfant — charge émotionnelle maximale par la vulnérabilité impliquée",
+      "chaussure de femme à talon dans un lieu de nature — le contraste dit l'urgence",
+      "deux chaussures de personnes différentes trouvées ensemble — ce qui dit une rencontre ou une séparation violente"
+    ],
+    "notesEditoriales": [
+      "L'objet fonctionne par l'incomplétude : une paire trouvée ensemble est moins troublante. C'est l'absence de la seconde qui génère l'inquiétude.",
+      "Très efficace en ouverture de scène d'enquête — il pose la question sans la formuler.",
+      "À ne pas confondre avec l'usage symbolique classique (la pantoufle de Cendrillon) qui a une charge opposée — ici c'est la perte, pas l'attente."
+    ]
+  },
+  {
+    "id": "dessin-enfant-mur",
+    "label": "Dessin d'enfant sur un mur",
+    "definitionCourte": "Dessin tracé directement sur un mur — crayon, feutre ou craie — par un enfant, dans un lieu qui en garde la trace.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "objet-trace",
+    "associationsNarratives": [
+      "maison familiale que l'on revend ou vide",
+      "appartement d'un locataire disparu",
+      "chambre d'enfant conservée ou abandonnée",
+      "lieu de vie sous occupation ou siège",
+      "cave ou abri dans un contexte de crise",
+      "maison dont l'enfant ne reviendra pas",
+      "chantier qui découvre des traces d'une vie ancienne"
+    ],
+    "emotionsAssociees": [
+      "tendresse mélancolique",
+      "présence d'une vie passée",
+      "deuil d'enfance ou de parentalité",
+      "impermanence de ce qu'on croyait durable",
+      "culpabilité ou nostalgie"
+    ],
+    "usagesTypiques": [
+      "signaler qu'un enfant a vécu là sans l'écrire explicitement",
+      "créer un contraste entre la trace joyeuse et la situation présente du lieu",
+      "ancrer le temps dans une maison — il s'est passé des choses ici",
+      "introduire un personnage absent par ce qu'il a laissé",
+      "créer un moment d'arrêt dans une scène de déménagement ou de fouille",
+      "marquer la différence entre le lieu comme espace et le lieu comme histoire"
+    ],
+    "variantesNarratives": [
+      "dessin de famille — maison, soleil, personnages alignés — qui dit quelque chose sur la façon dont l'enfant voyait le monde",
+      "dessin effacé à moitié, visible seulement sous certains angles de lumière",
+      "dessin accompagné d'une inscription maladroite — prénom, date, message — qui devient une voix"
+    ],
+    "notesEditoriales": [
+      "La qualité du dessin importe : un dessin de très jeune enfant (formes imprécises) dit autre chose qu'un dessin d'enfant plus âgé (perspective maladroite mais lisible).",
+      "Sa position dans la maison est signifiante : dans une chambre, c'est intime ; dans un couloir, c'est revendicatif ; dans une cave, c'est bouleversant.",
+      "L'objet est d'autant plus fort qu'il est inattendu — il ne faut pas l'annoncer."
+    ]
+  },
+  {
+    "id": "agenda-annee-passee",
+    "label": "Agenda d'une année passée",
+    "definitionCourte": "Agenda ou carnet de rendez-vous d'une année écoulée, conservé après sa date d'utilité, portant la trace de ce qu'une vie organisait, prévoyait ou espérait.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "objet-document",
+    "associationsNarratives": [
+      "affaires d'un proche décédé à trier",
+      "tiroir d'une vieille maison",
+      "découverte des activités et relations d'un disparu",
+      "année marquée par un événement — le personnage retrouve son agenda d'avant",
+      "agenda annoté de rendez-vous médicaux ou judiciaires",
+      "agenda vide sur de longues périodes — ce que ça dit d'une vie",
+      "dernier agenda d'un proche avant une maladie ou une mort"
+    ],
+    "emotionsAssociees": [
+      "nostalgie de soi-même",
+      "chagrin pour un proche",
+      "curiosité sur une vie qu'on ne connaissait pas entièrement",
+      "sentiment d'une vie interrompue",
+      "mélancolie du temps qui passe"
+    ],
+    "usagesTypiques": [
+      "révéler la vie quotidienne d'un personnage absent sans flashback",
+      "introduire un indice narratif dans une enquête",
+      "créer un contraste entre ce qui était prévu et ce qui est arrivé",
+      "donner à voir les relations d'un personnage par ses rendez-vous",
+      "ancrer une scène de tri d'affaires dans quelque chose de concret",
+      "montrer ce qu'une personne planifiait — et ce qu'elle n'a jamais pu faire"
+    ],
+    "variantesNarratives": [
+      "agenda presque vide — une vie dont les contacts se sont raréfiés, une solitude qui se lit date après date",
+      "agenda d'une personne très occupée soudainement vide — la maladie ou la rupture visible dans les pages",
+      "agenda où certains rendez-vous sont barrés après coup — une réécriture du passé par le personnage lui-même"
+    ],
+    "notesEditoriales": [
+      "L'agenda dit le temps vécu, pas le temps raconté — il est plus honnête que les journaux intimes parce qu'il n'est pas fait pour être lu.",
+      "Les pages vides sont souvent plus parlantes que les pages remplies : ce qu'on n'a pas fait dit autant que ce qu'on a fait.",
+      "À distinguer du journal intime : l'agenda organise, ne réfléchit pas. Ce sont des faits, pas des pensées."
+    ]
+  },
+  {
+    "id": "argent-cache",
+    "label": "Argent caché dans un livre",
+    "definitionCourte": "Billet ou liasse dissimulés entre les pages d'un livre, révélant une transaction secrète, une réserve d'urgence ou un secret gardé de la vie commune.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "objet-secret",
+    "associationsNarratives": [
+      "réserve secrète d'une personne qui prépare une fuite",
+      "économies cachées d'un parent ou d'un proche",
+      "argent de poche dissimulé dans l'enfance",
+      "transaction illégale ou compromettante",
+      "argent caché d'une relation de contrôle — l'un des deux dissimule",
+      "découverte des affaires d'un défunt qui gardait des secrets",
+      "trésor familial dont on ignorait l'existence"
+    ],
+    "emotionsAssociees": [
+      "trahison ou sentiment de trahison",
+      "curiosité et malaise",
+      "sensation d'avoir été tenu à l'écart",
+      "soulagement si la réserve était destinée à protéger",
+      "culpabilité de celui qui avait caché"
+    ],
+    "usagesTypiques": [
+      "révéler un secret sans dialogue",
+      "introduire un questionnement sur la vraie vie d'un personnage",
+      "créer un dilemme moral pour celui qui trouve — prendre ou laisser, révéler ou taire",
+      "signaler une relation de contrôle ou de violence économique",
+      "ancrer une enquête dans le quotidien d'un foyer",
+      "montrer la différence entre ce qu'un personnage affichait et ce qu'il préparait vraiment"
+    ],
+    "variantesNarratives": [
+      "argent trouvé dans un livre que le personnage n'est pas censé avoir lu — la découverte révèle deux secrets à la fois",
+      "argent qui accompagne un mot ou un objet — la cache devient message",
+      "argent trouvé par un enfant qui ne comprend pas ce que c'est mais qui sent que c'est important"
+    ],
+    "notesEditoriales": [
+      "Le choix du livre où l'argent est caché peut être significatif — ou délibérément anodin. Les deux options ont des effets différents.",
+      "L'objet fonctionne mieux si la somme est soit dérisoire (ce que ça dit d'un secret tenu pour rien), soit importante (ce que ça dit d'un secret de longue date).",
+      "La cache dit quelque chose sur le cacheur : certains choisissent des livres qu'ils lisent, d'autres des livres qu'ils savent que personne ne touchera."
+    ]
+  },
+  {
+    "id": "couverture-usee",
+    "label": "Couverture usée jusqu'à la trame",
+    "definitionCourte": "Couverture ou plaid dont le tissu est devenu presque transparent à force d'usage, gardée malgré son état parce qu'elle a une valeur qui n'est pas celle du tissu.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "objet-intime",
+    "associationsNarratives": [
+      "objet de réconfort de l'enfance impossible à jeter",
+      "couverture d'un lit de malade sur une longue durée",
+      "héritage affectif d'un proche disparu",
+      "objet de survie en situation précaire",
+      "transition de vie — quitter la maison familiale en emportant cet objet",
+      "personnage qui n'a plus rien mais garde ça",
+      "maison de grand-mère ou maison de famille sur le point d'être vidée"
+    ],
+    "emotionsAssociees": [
+      "attachement affectif profond",
+      "réconfort et sécurité incarnés",
+      "mélancolie de ce qui s'use",
+      "résistance à lâcher prise",
+      "tendresse pour sa propre vulnérabilité"
+    ],
+    "usagesTypiques": [
+      "signaler l'attachement d'un personnage à son passé par un détail concret",
+      "créer une scène intime sans décor élaboré",
+      "révéler la pauvreté ou la précarité d'un personnage sans le dire explicitement",
+      "montrer ce qu'un personnage emporte quand il part — ce qui dit ce qui compte vraiment",
+      "ancrer une scène de convalescence ou de solitude dans la texture",
+      "créer un objet de transition entre deux états du personnage"
+    ],
+    "variantesNarratives": [
+      "couverture d'un enfant adulte qui ne peut toujours pas s'en séparer — dit quelque chose sur une blessure non résolue",
+      "couverture d'un proche décédé — à la fois réconfortante et insupportable",
+      "couverture que le personnage finit par jeter — moment de deuil ou de libération"
+    ],
+    "notesEditoriales": [
+      "L'usure physique est le point central : un objet neuf n'a pas cette charge. C'est l'histoire inscrite dans le tissu qui compte.",
+      "Peut sembler sentimental si mal utilisé — à ancrer dans des détails concrets : la couleur d'origine qu'on devine encore, le coin effiloché que le personnage tient toujours.",
+      "Objet à fort pouvoir d'identification : beaucoup de lecteurs en ont un équivalent, ce qui crée une empathie immédiate."
+    ]
+  },
+  {
+    "id": "enregistrement-voix",
+    "label": "Enregistrement d'une voix disparue",
+    "definitionCourte": "Enregistrement audio — message vocal, cassette, vidéo — d'une personne morte ou disparue, retrouvé par accident ou conservé précieusement.",
+    "chargeSymbolique": "haute",
+    "categorie": "objet-memoire",
+    "associationsNarratives": [
+      "téléphone d'un proche décédé dont on n'a pas eu le cœur à effacer les messages",
+      "cassette retrouvée dans les affaires d'un parent",
+      "vidéo de famille vue des années après le décès d'un membre",
+      "message vocal gardé après une rupture ou une séparation",
+      "enregistrement d'un témoignage ou d'une confession",
+      "voix d'un enfant qui a grandi ou disparu",
+      "enquête sur un disparu dont la voix est le seul document restant"
+    ],
+    "emotionsAssociees": [
+      "choc de la présence d'une voix absente",
+      "deuil rouverts",
+      "désir impossible",
+      "sensation de présence fantomatique",
+      "douleur du souvenir rendu soudainement concret",
+      "amour qui refuse de se résigner"
+    ],
+    "usagesTypiques": [
+      "créer un moment de choc sensoriel — la voix comme irruption du passé dans le présent",
+      "révéler ce qu'un personnage n'a jamais dit de son vivant",
+      "matérialiser le deuil non fait d'un personnage",
+      "introduire un secret ou une vérité cachée par la voix elle-même",
+      "créer une scène sans dialogue en faisant parler l'absent",
+      "ancrer la différence entre savoir qu'une personne est morte et l'entendre encore"
+    ],
+    "variantesNarratives": [
+      "enregistrement découvert par accident — le personnage n'avait pas prévu de l'entendre et n'est pas préparé",
+      "enregistrement écouté rituellement par le personnage — ce qui dit son état de deuil",
+      "enregistrement que le personnage ne peut pas se résoudre à écouter — ce qu'il craint d'y trouver"
+    ],
+    "notesEditoriales": [
+      "La voix est le déclencheur sensoriel le plus puissant après l'olfaction pour la mémoire involontaire — elle court-circuite le filtre rationnel.",
+      "L'objet fonctionne encore mieux si la voix dit quelque chose d'ordinaire — pas un message d'adieu, mais un 'j'arrive dans dix minutes' qui dit la vie quotidienne interrompue.",
+      "La technologie importe pour l'ancrage temporel : un message sur répondeur dit les années 1990, un message WhatsApp dit aujourd'hui — les deux ont des charges émotionnelles légèrement différentes."
+    ]
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "proteger-un-proche-vulnerable",
+    "label": "Protéger un proche vulnérable",
+    "famille": "protection",
+    "definitionCourte": "Le personnage agit pour mettre à l'abri quelqu'un qu'il juge incapable de se défendre seul — enfant, personne malade, figure fragilisée. Ce moteur est l'un des plus puissants narrativement parce qu'il légitime presque tout.",
+
+    "moteurProfond": "L'autre est en danger et le personnage est la seule chose entre lui et ce danger. Agir n'est pas un choix — c'est une nécessité.",
+
+    "formesConscientes": [
+      "Je dois le protéger — personne d'autre ne le fera.",
+      "Tant que je suis là, il ne lui arrivera rien.",
+      "C'est ma responsabilité.",
+      "Il ne peut pas se défendre seul."
+    ],
+
+    "formesInconscientes": [
+      "Si je le protège, j'existe — j'ai une raison d'être.",
+      "Ma valeur est conditionnelle à cette protection.",
+      "Je répare quelque chose en protégeant celui-ci.",
+      "Perdre cet autre serait perdre la raison de tenir."
+    ],
+
+    "signesComportementaux": [
+      "surveillance constante — physique ou à distance",
+      "sacrifice de ses propres intérêts sans en faire mention",
+      "réaction disproportionnée à toute menace réelle ou perçue",
+      "position physique toujours entre l'autre et le danger",
+      "décisions prises sans consulter le proche — pour lui éviter la charge"
+    ],
+
+    "enjeux": [
+      "la vie ou l'intégrité du proche",
+      "l'identité du personnage comme protecteur — ce rôle le définit",
+      "le prix à payer pour la protection — ce que le personnage sacrifie"
+    ],
+
+    "risques": [
+      "confondre protection et contrôle — étouffer l'autre",
+      "ne pas voir que le proche n'a pas demandé à être protégé",
+      "s'effondrer si la protection échoue malgré tout",
+      "manquer la menace réelle en étant focalisé sur la mauvaise"
+    ],
+
+    "masquesPossibles": [
+      "altruisme affiché qui cache un besoin personnel d'être indispensable",
+      "sang-froid apparent qui masque une peur viscérale de perdre l'autre",
+      "autorité exercée au nom de la protection"
+    ],
+
+    "evolutionsPossibles": [
+      "lâcher prise — comprendre que l'autre n'a pas besoin d'être protégé de tout",
+      "échec de la protection — et ce que le personnage devient après",
+      "le proche qui refuse la protection — crise de l'identité du protecteur",
+      "transformation du moteur : de protection en transmission"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "dynamiquesRelationnelles", "cible": "aidant-proche-epuise", "note": "quand la protection devient charge et use le protecteur" },
+      { "famille": "dynamiquesRelationnelles", "cible": "protection-qui-derive-en-controle", "note": "quand la protection dépasse son objet" },
+      { "famille": "blessuresEmotionnelles", "cible": "perte-d-un-proche", "note": "souvent à l'origine de ce moteur — protéger parce qu'on a déjà perdu" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est parmi les plus efficaces parce qu'il rend le personnage sympathique même quand ses actes sont discutables.",
+      "Le piège est la facilité : un protecteur est trop souvent héroïsé sans que ses zones d'ombre soient explorées.",
+      "La question narrative centrale : à quel moment la protection devient-elle un problème pour celui qu'on protège ?"
+    ]
+  },
+  {
+    "id": "proteger-un-secret",
+    "label": "Protéger un secret",
+    "famille": "protection",
+    "definitionCourte": "Le personnage agit pour empêcher qu'une vérité soit révélée — parce que cette vérité changerait tout. Le secret peut concerner lui-même, un proche, ou une situation qu'il a laissé se produire.",
+
+    "moteurProfond": "La vérité est une menace. Tant qu'elle reste cachée, l'équilibre tient. Le personnage organise sa vie autour de ce qu'il faut taire.",
+
+    "formesConscientes": [
+      "Si ça sort, tout s'effondre.",
+      "Je protège les autres autant que moi-même.",
+      "Certaines vérités font plus de mal que de bien.",
+      "J'aurais dû parler avant — maintenant c'est trop tard."
+    ],
+
+    "formesInconscientes": [
+      "Le secret me donne du pouvoir sur la situation.",
+      "Garder le secret me punit autant que ça protège les autres.",
+      "Je ne suis pas sûr de mériter d'être connu tel que je suis."
+    ],
+
+    "signesComportementaux": [
+      "évitement des sujets proches du secret",
+      "vigilance permanente dans les conversations — surveiller ce qu'on dit",
+      "réaction disproportionnée à certaines questions anodines",
+      "mensonge par omission systématique",
+      "distance maintenue avec ceux qui pourraient deviner"
+    ],
+
+    "enjeux": [
+      "l'image de soi ou d'un proche",
+      "une relation qui ne survivrait peut-être pas à la révélation",
+      "la question de savoir si le secret méritait d'être gardé"
+    ],
+
+    "risques": [
+      "le secret révélé malgré tout — et de la pire façon",
+      "épuisement de la vigilance — tenir un secret use",
+      "isolement progressif — on ne peut pas être vraiment proche de quelqu'un qu'on trompe",
+      "le secret qui grandit — ce qu'on cache entraîne d'autres mensonges"
+    ],
+
+    "masquesPossibles": [
+      "discrétion présentée comme une valeur personnelle",
+      "humour sur le sujet pour désamorcer",
+      "sur-transparence sur d'autres aspects de sa vie pour compenser"
+    ],
+
+    "evolutionsPossibles": [
+      "révélation choisie — le personnage décide de dire",
+      "révélation forcée — et gestion des conséquences",
+      "le secret devient inutile — les circonstances ont changé",
+      "transmission du secret à quelqu'un de confiance — partager le poids"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "blessuresEmotionnelles", "cible": "secret-de-famille", "note": "quand le secret est hérité plutôt que choisi" },
+      { "famille": "dynamiquesRelationnelles", "cible": "temoin-privilegie", "note": "quelqu'un qui sait — et porte ce savoir" },
+      { "famille": "emotions", "cible": "honte", "note": "souvent à la racine du besoin de cacher" }
+    ],
+
+    "notesEditoriales": [
+      "Le secret est l'un des moteurs narratifs les plus classiques — sa force est dans ce qu'il fait au personnage, pas dans le secret lui-même.",
+      "La révélation n'est pas nécessairement la résolution : parfois le secret révélé ne change pas grand-chose — et c'est le pire.",
+      "À distinguer du mensonge actif : protéger un secret est souvent plus passif — taire plutôt que fabriquer."
+    ]
+  },
+  {
+    "id": "proteger-son-image-publique",
+    "label": "Protéger son image publique",
+    "famille": "protection",
+    "definitionCourte": "Le personnage agit pour préserver ce que les autres croient de lui. Pas nécessairement par vanité — parfois parce que son image est la seule chose qui lui reste, ou parce que tout dépend de ce que les autres croient.",
+
+    "moteurProfond": "L'image est une armure. Tant que les autres croient la version présentée, le personnage contrôle comment il est traité.",
+
+    "formesConscientes": [
+      "Ce que les gens pensent de moi a des conséquences réelles.",
+      "Je ne peux pas me permettre qu'on sache.",
+      "Ma réputation est tout ce que j'ai construit.",
+      "L'image que je donne protège aussi ceux qui dépendent de moi."
+    ],
+
+    "formesInconscientes": [
+      "Si on voit qui je suis vraiment, je serai rejeté.",
+      "L'image me protège de moi-même autant que des autres.",
+      "Je ne sais pas qui je serais sans ce que les autres croient de moi."
+    ],
+
+    "signesComportementaux": [
+      "contrôle soigné de ce qui est montré en public vs en privé",
+      "réaction forte à toute remise en question publique",
+      "relations choisies en partie pour leur valeur d'image",
+      "cohérence performée — ne jamais se contredire en public",
+      "gestion active des récits — qui dit quoi, à qui"
+    ],
+
+    "enjeux": [
+      "l'accès au pouvoir, aux ressources ou aux relations qui dépend de cette image",
+      "la question de savoir si l'image et la personne réelle peuvent coexister",
+      "ce que le personnage serait si l'image tombait"
+    ],
+
+    "risques": [
+      "épuisement de la performance — tenir une image use",
+      "isolement — on ne peut pas être vraiment connu derrière une image",
+      "écart qui grandit entre l'image et la réalité jusqu'au point de rupture",
+      "quelqu'un qui voit à travers — et décide de s'en servir"
+    ],
+
+    "masquesPossibles": [
+      "transparence affichée qui est elle-même une image soigneusement construite",
+      "humilité de façade pour sembler accessible",
+      "franchise sélective — vrai sur les petites choses, opaque sur les grandes"
+    ],
+
+    "evolutionsPossibles": [
+      "moment de révélation — l'image se fissure et quelqu'un reste malgré tout",
+      "abandon de l'image — épuisement ou décision",
+      "image qui se retourne contre lui — ce qu'il a construit devient une prison",
+      "réconciliation entre image et identité réelle"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "traitsDeCaractere", "cible": "orgueil", "note": "quand la protection d'image vient d'un orgueil constitutif" },
+      { "famille": "emotions", "cible": "honte", "note": "la honte est souvent ce que l'image sert à cacher" },
+      { "famille": "emotions", "cible": "sentiment-imposteur", "note": "quand l'image surpasse ce que le personnage croit être en réalité" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est distinct de l'orgueil — un personnage humble peut protéger son image pour des raisons pratiques, pas par fierté.",
+      "L'image publique est narrativement utile parce qu'elle crée un écart exploitable entre ce qu'on voit et ce qui est.",
+      "La question-clé : à quel moment l'image coûte-t-elle plus qu'elle ne rapporte ?"
+    ]
+  },
+  {
+    "id": "proteger-ce-qu-on-a-bati",
+    "label": "Protéger ce qu'on a bâti",
+    "famille": "protection",
+    "definitionCourte": "Le personnage agit pour préserver une œuvre, une institution, une entreprise ou un héritage qu'il a construit — ou qu'on lui a confié. Ce qu'il protège a une valeur qui dépasse sa propre vie.",
+
+    "moteurProfond": "Ce qui a été bâti représente quelque chose de plus grand que soi — une preuve de sa valeur, un prolongement de soi, ou une promesse faite à quelqu'un. Le laisser tomber serait une trahison.",
+
+    "formesConscientes": [
+      "J'ai mis des années à construire ça.",
+      "Ce n'est pas juste pour moi — c'est pour ceux qui viennent après.",
+      "Quelqu'un m'a confié ça. Je ne peux pas le laisser mourir.",
+      "Trop de gens dépendent de ce que j'ai construit."
+    ],
+
+    "formesInconscientes": [
+      "Ce que j'ai bâti prouve que j'ai existé.",
+      "Laisser tomber, c'est admettre que tout ça ne valait rien.",
+      "Je suis tellement identifié à ça que si ça tombe, je tombe avec."
+    ],
+
+    "signesComportementaux": [
+      "difficulté à déléguer — personne ne le ferait aussi bien",
+      "sacrifice personnel disproportionné pour maintenir ce qui est bâti",
+      "résistance au changement même nécessaire",
+      "incapacité à lâcher même quand les circonstances l'exigent",
+      "tout ramener à l'impact sur ce qu'il protège"
+    ],
+
+    "enjeux": [
+      "la survie de ce qui a été construit",
+      "la question de savoir si ce qui est bâti mérite le sacrifice qu'il exige",
+      "la transmission — à qui, dans quel état"
+    ],
+
+    "risques": [
+      "s'identifier tellement à ce qu'il protège qu'il ne peut plus en voir les failles",
+      "protéger une forme morte — maintenir l'enveloppe après que le sens a disparu",
+      "passer à côté de sa propre vie pour protéger ce qu'il a bâti",
+      "résistance à une transformation nécessaire qui détruit quand même"
+    ],
+
+    "masquesPossibles": [
+      "altruisme institutionnel — 'je fais ça pour les autres, pas pour moi'",
+      "sens du devoir qui cache une peur de lâcher",
+      "pragmatisme qui masque un attachement émotionnel profond"
+    ],
+
+    "evolutionsPossibles": [
+      "transmission réussie — lâcher prise en ayant trouvé quelqu'un à qui confier",
+      "effondrement de ce qui était protégé — et survie malgré tout",
+      "transformation — accepter que ce qui doit changer change",
+      "découverte que ce qui était protégé n'en valait pas le prix"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "dynamiquesRelationnelles", "cible": "mentorat-inverse", "note": "quand celui à qui on transmet dépasse ce qu'on a bâti" },
+      { "famille": "motivations", "cible": "transmettre-avant-de-disparaitre", "note": "quand la protection de l'œuvre se transforme en urgence de transmission" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est fort dans les récits de fin — un personnage qui finit et dont l'enjeu est ce qu'il laisse.",
+      "La tension entre préserver et transformer est le cœur dramatique : parfois sauver quelque chose demande de le changer.",
+      "À utiliser pour les personnages fondateurs, les héritiers, les gardiens — tout personnage dont l'identité est liée à ce qu'il a bâti ou reçu."
+    ]
+  },
+  {
+    "id": "s-eloigner-pour-proteger",
+    "label": "S'éloigner pour ne pas nuire",
+    "famille": "protection",
+    "definitionCourte": "Le personnage prend de la distance — physique ou émotionnelle — parce qu'il croit que sa présence est une menace pour ceux qu'il aime. Un moteur paradoxal : l'acte de protection prend la forme de l'abandon.",
+
+    "moteurProfond": "Je suis dangereux pour eux. La meilleure chose que je puisse faire est de ne pas être là.",
+
+    "formesConscientes": [
+      "Si je reste, je finis par leur faire du mal.",
+      "Ils seront mieux sans moi.",
+      "Je n'ai pas le droit de les exposer à ce que je suis.",
+      "Ma présence est un risque que je ne veux pas leur faire courir."
+    ],
+
+    "formesInconscientes": [
+      "Je ne mérite pas d'être là.",
+      "M'éloigner m'évite d'avoir à faire face à ce que je pourrais faire.",
+      "Si je pars, ce n'est pas eux qui me quittent."
+    ],
+
+    "signesComportementaux": [
+      "refus de liens profonds même désirés",
+      "mise à distance répétée juste quand le lien pourrait se consolider",
+      "partir avant d'être demandé à rester",
+      "justifier l'éloignement par des raisons pratiques ou des arguments de protection",
+      "regard en arrière — l'éloignement est douloureux, pas indifférent"
+    ],
+
+    "enjeux": [
+      "la question de si la menace perçue est réelle ou construite",
+      "ce que le personnage perd en partant",
+      "si ceux qu'il protège veulent vraiment être protégés de lui"
+    ],
+
+    "risques": [
+      "s'éloigner de quelqu'un qui avait besoin de sa présence",
+      "auto-punition déguisée en sacrifice",
+      "blessure causée à l'autre par l'abandon — le contraire de ce qui était voulu",
+      "isolement qui renforce ce qui rendait le personnage 'dangereux'"
+    ],
+
+    "masquesPossibles": [
+      "sacrifice présenté comme généreux alors qu'il évite une confrontation",
+      "indifférence feinte — 'je ne tiens pas à eux de toute façon'",
+      "nomadisme ou agitation perpétuelle comme forme de fuite structurée"
+    ],
+
+    "evolutionsPossibles": [
+      "confrontation — quelqu'un refuse l'éloignement et lui tient tête",
+      "réalisation que la menace était surestimée",
+      "retour — et découverte que les liens ont tenu malgré l'absence",
+      "dommage irréparable causé précisément par l'absence"
+    ],
+
+    "renvoiVersAutresFamilles": [
+      { "famille": "blessuresEmotionnelles", "cible": "culpabilite", "note": "la culpabilité est souvent ce qui génère ce moteur" },
+      { "famille": "emotions", "cible": "honte", "note": "honte de ce qu'on est, pas de ce qu'on a fait" },
+      { "famille": "dynamiquesRelationnelles", "cible": "parent-absent", "note": "quand ce moteur se joue dans un lien parental" }
+    ],
+
+    "notesEditoriales": [
+      "Ce moteur est l'un des plus efficaces pour créer de la sympathie autour d'un personnage qui blesse — parce qu'il blesse en voulant protéger.",
+      "Le piège est de laisser ce moteur non questionné — la protection qui ressemble à de l'abandon mérite d'être démonté narrativement.",
+      "La confrontation avec ceux qu'il a voulu protéger est la scène la plus forte possible avec ce moteur."
+    ]
+  }
+]

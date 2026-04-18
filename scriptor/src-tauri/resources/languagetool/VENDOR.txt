@@ -1,0 +1,9 @@
+Contenu attendu pour un installateur autonome (plug-and-play) :
+
+  jre/bin/java(.exe)     — JRE Eclipse Temurin extrait ici (sans installation système)
+  languagetool-server.jar — serveur HTTP LanguageTool
+
+Génération : depuis le dossier « scriptor », npm run vendor:languagetool-bundled
+(Les fichiers lourds sont listés dans .gitignore ; seul ce fichier reste versionné.)
+
+Licences : OpenJDK/Temurin (GPLv2+CE) ; LanguageTool (LGPL). Conservez les notices fournies par les archives officielles si vous redistribuez.

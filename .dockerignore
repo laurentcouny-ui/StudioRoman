@@ -1,0 +1,8 @@
+**/node_modules
+**/target
+.git
+.gitignore
+**/.env
+**/.env.*
+frontend
+**/*.md

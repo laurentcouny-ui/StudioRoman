@@ -1,0 +1,786 @@
+[
+  {
+    "id": "charitable",
+    "label": "Charitable",
+    "polarite": "positif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage charitable est animé par une compassion active pour la souffrance d'autrui. Ce n'est pas de la pitié — c'est une réponse à la détresse qui part d'une reconnaissance profonde de la commune humanité. La charité de ce personnage n'est pas un spectacle : elle s'exerce souvent en silence, avec une constance que les autres remarquent sans toujours le nommer.",
+    "signesPhysiques": [
+      "regard qui repère immédiatement la détresse dans un groupe",
+      "mouvement naturel vers la personne en difficulté avant même d'avoir décidé d'aider",
+      "posture qui se met au niveau de l'autre — s'agenouille, s'assoit, se baisse",
+      "mains qui se tendent sans hésitation",
+      "contact physique doux et approprié dans les moments de détresse",
+      "expression faciale qui absorbe la peine de l'autre sans la minimiser",
+      "gestes lents et non-invasifs dans l'aide apportée",
+      "regard posé sur l'autre sans jugement visible",
+      "sourire doux qui n'enjolive pas mais accueille",
+      "corps qui reste orienté vers l'autre même quand la situation est inconfortable",
+      "légère tension dans les épaules face à une souffrance qu'il ne peut pas soulager"
+    ],
+    "sensationsInternes": [
+      "chaleur profonde et sans mélange dans le fait d'aider",
+      "douleur réelle face à la souffrance des autres, pas de distance émotionnelle",
+      "inconfort face à sa propre impuissance dans les situations trop grandes",
+      "satisfaction humble quand quelqu'un va mieux",
+      "sentiment d'avoir fait quelque chose de juste, sans besoin que ça soit reconnu",
+      "légère tristesse après les situations où il n'a pas pu faire plus",
+      "fatigue émotionnelle dans les contextes de détresse prolongée",
+      "sentiment de connexion profonde dans l'acte de soulager"
+    ],
+    "pensees": [
+      "Il souffre. C'est la seule chose qui compte maintenant.",
+      "Je ne peux pas tout résoudre. Mais je peux faire ça.",
+      "Ce n'est pas à moi de juger comment il en est arrivé là.",
+      "Si j'étais à sa place, je voudrais que quelqu'un fasse pareil.",
+      "La honte qu'il ressent n'appartient pas à l'aide que je lui donne.",
+      "Personne ne devrait souffrir seul si quelqu'un peut être là.",
+      "Ce que je fais ne changera peut-être pas grand-chose. Mais ça compte quand même.",
+      "Je ne le connais pas. Ça n'a pas d'importance."
+    ],
+    "effetsVoixLangage": [
+      "ton doux et non condescendant dans l'aide offerte",
+      "phrases courtes qui ne submergent pas dans les moments de détresse",
+      "questions qui ouvrent plutôt que celles qui ferment",
+      "aucune morale dans le ton, même implicitement",
+      "validation des émotions de l'autre avant toute proposition",
+      "formulations qui laissent le choix à l'autre",
+      "silence confortable s'il est plus utile que les mots"
+    ],
+    "comportements": [
+      "aide sans que l'autre ait besoin de demander",
+      "ne met pas l'autre en position de redevance visible",
+      "adapte son aide à ce dont l'autre a besoin, pas à ce qu'il pense être bon pour lui",
+      "revient vérifier après que la situation aiguë est passée",
+      "ne parle pas de ses actes charitables dans les conversations ordinaires",
+      "peut donner au-delà de ses moyens dans les moments de grande nécessité",
+      "traite les personnes qui reçoivent avec la même dignité que celles qui donnent",
+      "peut intercéder pour des personnes qui n'ont pas voix au chapitre",
+      "ne fait pas de distinction selon l'origine ou le mérite apparent",
+      "peut s'épuiser si personne ne lui signale sa propre limite",
+      "refuse de laisser quelqu'un dans la honte de sa propre vulnérabilité"
+    ],
+    "masquesPossibles": [
+      "la charité peut masquer un besoin d'être nécessaire ou d'exister dans le regard des autres",
+      "aider peut être une façon d'éviter de s'occuper de ses propres blessures",
+      "la générosité peut cacher une difficulté à recevoir",
+      "la bonté affichée peut parfois dissimuler un désir de contrôle bienveillant"
+    ],
+    "manifestationsPositives": [
+      "change concrètement des vies par des actes discrets",
+      "crée une culture de générosité dans les groupes qu'il traverse",
+      "rappelle aux autres leur propre capacité à donner",
+      "est une ressource inestimable dans les crises collectives",
+      "protège les plus vulnérables sans les infantiliser"
+    ],
+    "manifestationsNegatives": [
+      "peut s'oublier jusqu'à l'épuisement",
+      "peut être instrumentalisé par ceux qui profitent de sa générosité",
+      "peut entretenir des dépendances en aidant sans permettre l'autonomie",
+      "peut souffrir profondément des situations où il ne peut rien faire",
+      "peut créer un déséquilibre dans les relations si les autres ne peuvent pas rendre"
+    ],
+    "blessuresPossibles": [
+      "expérience de détresse dans laquelle personne n'est venu",
+      "figure parentale absente ou défaillante qui a créé un besoin de combler le manque des autres",
+      "témoin impuissant d'une souffrance qu'il n'a pas pu empêcher"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à intégrer ses propres besoins dans son champ d'attention",
+      "peut être brisé par une situation trop grande où toute aide est vaine",
+      "peut devenir un modèle qui inspire une chaîne de générosité",
+      "peut trouver dans une relation réciproque ce qu'il a toujours donné sans recevoir"
+    ],
+    "notesEditoriales": [
+      "La charité bien écrite n'est pas de la bonté sans tension — elle coûte quelque chose à ce personnage et ce coût est son intérêt dramatique.",
+      "Éviter le saint sans ombre : le personnage charitable a des limites, des jours sans ressource, des moments d'impuissance qui le définissent autant que ses actes.",
+      "La charité est plus puissante quand elle est montrée dans des actes précis et discrets que dans des déclarations de principes."
+    ]
+  },
+  {
+    "id": "amer",
+    "label": "Amer",
+    "polarite": "negatif",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "L'amertume est une déception qui a durci. Le personnage amer portait autrefois une attente sur la vie, les autres ou lui-même — et cette attente a été déçue assez profondément et assez longtemps pour devenir une conviction. Il ne souffre plus d'une blessure précise : il souffre d'une vision du monde qui est devenue la seule qu'il peut habiter.",
+    "signesPhysiques": [
+      "expression du visage qui retombe naturellement dans une moue descendante",
+      "soupir fréquent, pas dramatique — habituel",
+      "regard qui ne remonte pas vers l'enthousiasme des autres",
+      "lèvres légèrement pincées dans les conversations qui l'énervent",
+      "haussement d'épaules comme réponse réflexe à ce qu'il juge illusoire",
+      "posture légèrement voûtée dans les environnements sociaux",
+      "regard en coin, légèrement de côté, évaluatif et peu amical",
+      "tension habituée dans le bas du visage",
+      "mouvements lents, sans entrain, sauf dans ce qui lui reste de passion",
+      "crispation perceptible face aux discours d'espoir ou de réussite",
+      "regard qui s'éteint légèrement quand quelqu'un est heureux"
+    ],
+    "sensationsInternes": [
+      "poids permanent et familier dans la poitrine",
+      "irritation réflexe face à ce qui fonctionne pour les autres",
+      "sentiment d'avoir été floué d'une vie meilleure",
+      "légère nausée face à l'enthousiasme qu'il trouve naïf",
+      "absence presque totale d'impatience positive",
+      "fatigue de fond que rien ne dissipe vraiment",
+      "nostalgie douloureuse d'une version de lui-même qui croyait encore",
+      "solitude qui vient de ce que sa vision du monde isole"
+    ],
+    "pensees": [
+      "Je savais que ça finirait comme ça.",
+      "Ils vont comprendre. Tôt ou tard.",
+      "J'ai essayé. Ce n'est pas ma faute si ça n'a pas marché.",
+      "Ce n'est pas du pessimisme. C'est de l'expérience.",
+      "Ils ont ce que j'aurais dû avoir.",
+      "Ça ne dure jamais. Pourquoi s'enthousiasmer ?",
+      "Je ne suis pas jaloux. Je suis lucide.",
+      "Il y a longtemps que j'ai arrêté d'attendre."
+    ],
+    "effetsVoixLangage": [
+      "commentaires déflationnistes sur les projets et les espoirs des autres",
+      "ironie sans humour, qui coupe plutôt qu'elle ne rit",
+      "tendance à finir les phrases des autres avec les conclusions pessimistes",
+      "récits de ses propres échecs qui servent d'avertissements généraux",
+      "ton monocorde qui s'anime brièvement dans la critique",
+      "peut dire des vérités blessantes sans s'en rendre compte ou sans vouloir les adoucir",
+      "formulations passives qui excluent toute possibilité de changement"
+    ],
+    "comportements": [
+      "décourage les enthousiasmes sans vraiment le vouloir",
+      "se rappelle toujours pourquoi les choses ont échoué",
+      "compare sa situation à ce qu'elle aurait pu être",
+      "peut saborder inconsciemment les situations qui s'améliorent",
+      "garde rancune longtemps sans toujours identifier clairement la cible",
+      "refuse de célébrer ce qui va bien par peur de le perdre",
+      "peut être loyal de façon négative — toujours là pour constater que quelque chose ne va pas",
+      "peut avoir des éclairs de chaleur surprenants qui révèlent ce qu'il était",
+      "évite les environnements trop joyeux ou trop optimistes",
+      "peut aider tout en disant que ça ne servira à rien",
+      "ressasse les occasions manquées comme si les rejouer pouvait changer quelque chose"
+    ],
+    "masquesPossibles": [
+      "l'humour cynique peut rendre l'amertume plus supportable socialement",
+      "le réalisme affiché peut masquer la douleur de la déception",
+      "la distance ironique peut protéger d'une vulnérabilité encore vivante",
+      "la générosité ponctuelle peut masquer la vocation à décourager"
+    ],
+    "manifestationsPositives": [
+      "peut avoir une lucidité réelle sur les situations que d'autres idéalisent",
+      "peut protéger les siens des faux espoirs trop coûteux",
+      "ne se laisse pas berner par les illusions confortables",
+      "peut être d'une solidarité sincère dans les moments d'échec des autres",
+      "sa franchise, même blessante, peut parfois être la seule qui compte"
+    ],
+    "manifestationsNegatives": [
+      "empoisonne les dynamiques de groupe par le découragement systématique",
+      "peut rendre les personnes proches plus sombres qu'elles ne l'étaient",
+      "saborde parfois ses propres chances par conviction que ça ne marchera pas",
+      "peut susciter de la colère ou de la tristesse chez ceux qui veulent croire",
+      "la rancœur peut se déplacer vers des personnes qui ne méritent pas d'en porter le poids"
+    ],
+    "blessuresPossibles": [
+      "idéalisme intense et longtemps entretenu qui s'est effondré brutalement",
+      "injustice subie dont il n'a jamais reçu de réparation ou de reconnaissance",
+      "trahison ou perte au moment où tout semblait possible"
+    ],
+    "evolutionsPossibles": [
+      "peut rencontrer quelqu'un ou quelque chose qui rouvre une brèche sans la forcer",
+      "peut s'endurcir jusqu'à l'isolement total si rien ne vient",
+      "peut avoir un moment de reconnaissance de sa propre amertume — et le choix de ce faire ensuite",
+      "peut retrouver une forme réduite mais réelle d'espoir si la blessure est nommée"
+    ],
+    "notesEditoriales": [
+      "L'amertume bien écrite porte toujours une trace de ce que le personnage aimait avant de décevoir — c'est cette trace qui l'empêche d'être simplement antipathique.",
+      "Éviter le personnage amer qui n'a jamais raison : parfois l'amer est lucide, et c'est ça qui est douloureux.",
+      "Le moment le plus dramatique pour ce personnage est celui où quelque chose arrive qui mériterait qu'il change d'avis — et où on voit s'il le peut."
+    ]
+  },
+  {
+    "id": "excentrique",
+    "label": "Excentrique",
+    "polarite": "ambigu",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Le personnage excentrique ne pense pas comme les autres et ne s'en cache pas particulièrement. Ce n'est pas une performance de l'originalité : c'est une façon authentique d'habiter le monde qui diverge suffisamment de la norme pour étonner, déranger ou fasciner. L'excentricité vraie ne cherche pas à choquer — elle n'a tout simplement pas intégré la nécessité de ne pas le faire.",
+    "signesPhysiques": [
+      "tenue vestimentaire qui ne suit aucune logique de groupe",
+      "gestes souvent inhabituels dans leur amplitude ou leur direction",
+      "regard qui s'arrête sur des choses que les autres ne regardent pas",
+      "éclats de rire ou de surprise à des moments décalés",
+      "posture qui ne respecte pas les codes implicites de l'espace social",
+      "expressions faciales qui devancent le raisonnement, visibles et non filtrées",
+      "manière de se déplacer légèrement différente — trop lente, trop rapide, trop ailleurs",
+      "objets portés ou utilisés qui surprennent dans leur contexte",
+      "regard souvent légèrement tourné vers le haut, comme intérieur",
+      "absence des gestes sociaux de mise en conformité (se redresser, ajuster)",
+      "concentration visible et totale sur ce qui l'intéresse, indifférence aux autres stimuli"
+    ],
+    "sensationsInternes": [
+      "curiosité constante et non sélective",
+      "légère surprise récurrente face aux conventions qu'il n'a pas intégrées",
+      "plaisir pur dans les connections que personne d'autre ne fait",
+      "malaise parfois diffus dans les environnements très normés",
+      "sentiment de richesse intérieure que les conformités lui semblent appauvrir",
+      "incompréhension sincère face au besoin de se conformer",
+      "légère solitude liée à la difficulté de partager sa façon de voir",
+      "vibration d'intérêt quand quelque chose d'inhabituel surgit"
+    ],
+    "pensees": [
+      "Pourquoi personne ne remarque ça ? C'est fascinant.",
+      "Ce n'est pas bizarre. C'est juste différent de ce qu'ils ont l'habitude de voir.",
+      "Je ne vois pas en quoi me conformer m'aiderait à penser mieux.",
+      "Il y a une logique là-dedans que je vois et qu'ils ne voient pas encore.",
+      "Les règles implicites sont les plus arbitraires.",
+      "Je ne cherche pas à être original. Je suis simplement moi.",
+      "Ils ont l'air gêné. Je ne vois pas pourquoi.",
+      "Ce que je fais a du sens pour moi. Ça devrait suffire."
+    ],
+    "effetsVoixLangage": [
+      "associations d'idées inattendues mais souvent pertinentes après coup",
+      "peut changer de sujet de façon abrupte en suivant une logique interne non partagée",
+      "formulations inhabituelles pour des concepts ordinaires",
+      "peut s'interrompre lui-même pour poursuivre une pensée latérale",
+      "peut parler longuement de quelque chose d'obscur et passer sous silence l'essentiel",
+      "ton qui oscille entre l'enthousiasme total et l'absence d'affect selon ce qui l'intéresse",
+      "peut ne pas terminer ses phrases si la conclusion lui semble évidente"
+    ],
+    "comportements": [
+      "fait les choses dans un ordre qui lui appartient, pas celui attendu",
+      "collectionne ou s'intéresse à des objets ou sujets qui surprennent",
+      "oublie les conventions sociales sans malveillance",
+      "peut s'absorber dans quelque chose au milieu d'un environnement social",
+      "répond à côté parfois parce qu'il a entendu autre chose dans la question",
+      "peut produire des solutions brillantes à des problèmes parce qu'il ne voit pas les contraintes invisibles",
+      "crée un espace autour de lui qui n'est pas tout à fait comme les autres",
+      "peut être d'une fidélité totale à ses propres règles internes",
+      "peut sembler inattentif et révéler qu'il a tout enregistré",
+      "attire parfois un entourage qui cherche une permission de penser autrement",
+      "peut se heurter aux institutions ou aux environnements très normés"
+    ],
+    "masquesPossibles": [
+      "l'excentricité peut parfois être cultivée pour protéger une timidité ou une vulnérabilité",
+      "le personnage peut utiliser l'originalité pour éviter les jugements ordinaires",
+      "ce qui semble excentricité peut masquer une difficulté à s'intégrer non choisie",
+      "l'absorption dans ses propres univers peut être une façon d'éviter l'intimité"
+    ],
+    "manifestationsPositives": [
+      "peut voir des solutions que les esprits conformes ne verront jamais",
+      "permet à son entourage de s'interroger sur ses propres conventions",
+      "peut créer des choses originales parce qu'il ne sait pas ce qui est 'impossible'",
+      "apporte une fraîcheur de regard dans les situations figées",
+      "peut être d'une loyauté singulière envers les personnes qui l'acceptent tel quel"
+    ],
+    "manifestationsNegatives": [
+      "peut froisser sans comprendre pourquoi",
+      "peut être exclu des environnements qui exigent de la conformité",
+      "peut souffrir d'une solitude liée à la difficulté à être vraiment compris",
+      "peut négliger des besoins pratiques au profit de ses préoccupations propres",
+      "peut être perçu comme dédaigneux quand il est simplement absent"
+    ],
+    "blessuresPossibles": [
+      "enfance où la différence n'était pas protégée et a été source d'exclusion",
+      "environnement qui a rendu la norme douloureuse avant qu'il ait pu en évaluer la valeur",
+      "expérience de rejet liée à une façon de penser ou d'être qu'il ne pouvait pas changer"
+    ],
+    "evolutionsPossibles": [
+      "peut trouver une communauté qui partage sa façon de voir et s'épanouir enfin",
+      "peut apprendre à naviguer dans les conventions sans s'y soumettre",
+      "peut créer quelque chose qui fait sens pour lui et pour le monde",
+      "peut s'isoler davantage si les frictions avec la norme deviennent trop coûteuses"
+    ],
+    "notesEditoriales": [
+      "L'excentricité authentique n'est pas performée — si le personnage 'fait l'excentrique', c'est un autre trait (le théâtral, par exemple).",
+      "L'excentrique le plus intéressant est celui dont la logique interne, une fois révélée, est cohérente et même admirable.",
+      "Éviter l'excentrique-génie dont l'originalité est toujours récompensée : l'excentricité coûte souvent très concrètement."
+    ]
+  },
+  {
+    "id": "conformiste-apparent",
+    "label": "Conformiste apparent",
+    "polarite": "ambigu",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage conformiste apparent présente une surface parfaitement adaptée aux attentes sociales, professionnelles ou familiales — tout en portant un intérieur que cette surface dissimule soigneusement. Ce n'est pas de la fausseté : c'est souvent une stratégie de survie apprise, qui peut devenir si naturelle qu'il finit lui-même par ne plus savoir exactement où se trouve la frontière.",
+    "signesPhysiques": [
+      "apparence impeccablement appropriée au contexte",
+      "regard qui mesure son comportement à celui des autres avant d'agir",
+      "sourire adapté à la situation, jamais excessif ni insuffisant",
+      "posture qui s'ajuste au groupe sans y penser",
+      "absence de gestes qui détonneraient",
+      "regard qui reprend sa neutralité sociale très vite après une émotion visible",
+      "participation aux rituels collectifs avec une fluidité parfaite",
+      "légère tension dans les moments où l'intérieur se heurte à la façade",
+      "regard légèrement plus présent et vif quand il est seul ou dans un espace de confiance",
+      "sourire qui se détend imperceptiblement hors du contexte social",
+      "geste discret de réajustement visible seulement si on sait le chercher"
+    ],
+    "sensationsInternes": [
+      "effort constant, souvent automatisé, de surveillance de soi",
+      "légère soulagement dans les espaces où la façade n'est pas nécessaire",
+      "inconfort diffus quand sa vraie nature risque d'être vue",
+      "plaisir secret dans les moments de transgression mineure non détectée",
+      "fatigue particulière après une longue performance de conformité",
+      "sentiment d'être double sans toujours le trouver confortable",
+      "légère inquiétude permanente d'être percé à jour",
+      "sentiment de solitude dans les situations sociales réussies"
+    ],
+    "pensees": [
+      "Je joue le jeu. Ce n'est pas la même chose que d'y croire.",
+      "Ils voient ce qu'ils veulent voir. C'est plus simple pour tout le monde.",
+      "Je ne mens pas. Je présente une version sélectionnée.",
+      "Si je montre ce que je suis vraiment, ça ne finira pas bien.",
+      "Je pourrais être différent ici. Mais ce n'est pas le bon moment.",
+      "Personne ne sait. Et c'est très bien.",
+      "J'ai appris très tôt que certaines choses ne se montrent pas.",
+      "Je suis tout ça et autre chose en même temps."
+    ],
+    "effetsVoixLangage": [
+      "discours parfaitement approprié aux attentes du groupe",
+      "peut adopter le registre lexical de son interlocuteur avec fluidité",
+      "évite les sujets qui pourraient révéler l'écart entre la façade et l'intérieur",
+      "peut avoir une voix et un ton différents selon le contexte",
+      "formulations prudentes qui ne s'engagent pas trop personnellement",
+      "peut surprendre par une franchise soudaine dans les espaces de confiance",
+      "économie dans ce qui touche à son intérieur, générosité dans le reste"
+    ],
+    "comportements": [
+      "adopte les codes du groupe très rapidement et avec précision",
+      "évite les situations où sa vraie personnalité pourrait émerger",
+      "peut avoir des espaces et des relations secrètes qui ne se croisent pas",
+      "maintient la façade même dans les situations de crise",
+      "peut se montrer très différent selon les contextes — jusqu'à sembler être plusieurs personnes",
+      "teste prudemment les espaces de confiance avant de s'y révéler",
+      "peut avoir des passions, des convictions ou des désirs cachés inconnus de son entourage",
+      "surveille sa propre façade avec une vigilance qui peut l'épuiser",
+      "peut être d'une loyauté totale envers les rares personnes qui le connaissent vraiment",
+      "peut renoncer à une occasion importante plutôt que de se révéler dans le mauvais contexte",
+      "peut briser la façade brusquement dans une situation de crise extrême"
+    ],
+    "masquesPossibles": [
+      "la conformité est en elle-même un masque — la question est ce qu'elle protège",
+      "la convivialité sociale peut couvrir une profonde méfiance envers les groupes",
+      "l'accord apparent peut masquer un désaccord profond tenu en réserve",
+      "la normalité peut protéger une vie intérieure, une orientation ou des convictions que l'environnement ne tolèrerait pas"
+    ],
+    "manifestationsPositives": [
+      "peut naviguer dans des environnements très différents avec une efficacité remarquable",
+      "ne crée pas de friction inutile dans les environnements contraignants",
+      "peut protéger les personnes vulnérables en maintenant une façade stable",
+      "possède une capacité d'adaptation que les personnages plus authentiques n'ont pas",
+      "peut accéder à des espaces et des informations fermés aux personnages plus visibles"
+    ],
+    "manifestationsNegatives": [
+      "peut souffrir d'une profonde solitude liée au sentiment de ne pas être vraiment connu",
+      "peut perdre le fil de qui il est à force de jouer des rôles",
+      "peut prendre des décisions en fonction de la façade plutôt que de ses besoins réels",
+      "peut provoquer une crise d'identité si la façade s'effondre",
+      "peut priver ses proches d'une vraie intimité"
+    ],
+    "blessuresPossibles": [
+      "enfance dans un environnement qui punissait certaines formes d'être ou de penser",
+      "expérience de rejet lié à une révélation d'une partie de soi",
+      "appartenance à une minorité (culturelle, sexuelle, idéologique) dans un environnement hostile"
+    ],
+    "evolutionsPossibles": [
+      "peut progressivement s'autoriser à être vu dans des espaces choisis",
+      "peut vivre une crise où la façade ne peut plus tenir et tout révéler",
+      "peut trouver une communauté qui accepte ce qu'il a toujours caché",
+      "peut rester dans la double vie si le coût de l'authenticité est trop élevé"
+    ],
+    "notesEditoriales": [
+      "Le conformiste apparent est un personnage profondément politique au sens large — il révèle les coûts de ce que la société n'accepte pas.",
+      "Sa tension dramatique principale est entre la sécurité de la façade et l'épuisement de la maintenir — un arc qui peut durer des années dans un récit.",
+      "Éviter de le définir uniquement par ce qu'il cache : ce qu'il montre a aussi une cohérence et une valeur qui méritent d'être traitées."
+    ]
+  },
+  {
+    "id": "leader-naturel",
+    "label": "Leader naturel",
+    "polarite": "ambigu",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage leader naturel attire et oriente les autres non pas parce qu'il cherche à diriger, mais parce qu'il incarne quelque chose que les autres reconnaissent et vers quoi ils gravitent. Ce n'est pas de l'autorité imposée : c'est une qualité de présence qui fait que, dans un groupe, les regards se tournent vers lui. Ce don peut être un service autant qu'un fardeau.",
+    "signesPhysiques": [
+      "regard qui embrasse le groupe avant de parler",
+      "posture naturellement stable et ancrée",
+      "débit régulier et assuré qui ralentit dans les moments importants",
+      "gestes ouverts qui incluent plutôt qu'ils n'excluent",
+      "position dans l'espace qui n'est pas nécessairement centrale mais qui est écoutée",
+      "regard direct et patient dans les conflits",
+      "écoute visible et non feinte — le corps s'oriente vraiment",
+      "légère tension dans les épaules quand le groupe dérive",
+      "présence calme dans le chaos qui contraste avec les agitations des autres",
+      "regard qui revient sur chaque membre du groupe pour s'assurer qu'il est intégré",
+      "sourire qui arrive à point pour relâcher une tension collective"
+    ],
+    "sensationsInternes": [
+      "conscience du groupe et de ses dynamiques comme un sens supplémentaire",
+      "légère inquiétude quand quelqu'un est laissé de côté",
+      "sentiment de responsabilité qui n'a pas été demandé et qui pèse parfois",
+      "énergie particulière dans les situations de crise",
+      "satisfaction sobre quand le groupe fonctionne",
+      "inconfort face à l'inaction quand il voit clairement ce qu'il faudrait faire",
+      "fatigue dans les environnements où il porte l'essentiel",
+      "légère solitude liée au fait de ne pas pouvoir se fondre dans le groupe"
+    ],
+    "pensees": [
+      "Quelqu'un doit décider. Autant que ce soit moi, si j'ai une idée.",
+      "Ils attendent. Je dois clarifier avant que la situation se dégrade.",
+      "Je ne cherche pas à diriger. Je cherche à ce que ça avance.",
+      "Cette tension entre eux va bloquer tout le groupe si je n'interviens pas.",
+      "Je suis fatigué de porter ça. Mais qui d'autre le ferait ?",
+      "Leur confiance m'oblige. Je ne peux pas l'esquiver.",
+      "Je vois ce qui se passe. Je ne suis pas sûr qu'ils le voient.",
+      "Ce n'est pas une question d'ego. C'est une question d'efficacité."
+    ],
+    "effetsVoixLangage": [
+      "formulations qui incluent le groupe : 'nous', 'ensemble', 'ce qu'on peut faire'",
+      "capacité à nommer le problème avant que tout le monde l'ait identifié",
+      "ton calme même dans les situations qui appellent l'urgence",
+      "questions ouvertes qui convoquent les ressources du groupe",
+      "peu de discours inutile — ce qu'il dit compte",
+      "peut réorienter une discussion sans paraître imposer",
+      "sait quand se taire pour laisser émerger quelque chose"
+    ],
+    "comportements": [
+      "prend les décisions difficiles quand personne ne veut les prendre",
+      "gère les conflits internes sans prendre parti ouvertement",
+      "protège les membres les plus vulnérables du groupe",
+      "délègue avec confiance et sans micromanagement",
+      "peut reconnaître ses propres erreurs devant le groupe",
+      "porte les tensions du groupe même quand ce n'est pas son rôle officiel",
+      "est souvent sollicité même en dehors des structures formelles",
+      "peut se mettre en retrait pour permettre à d'autres de s'affirmer",
+      "dit des choses difficiles avec la mesure qui les rend entendables",
+      "peut sacrifier sa popularité personnelle pour ce qu'il juge juste pour le groupe",
+      "est souvent celui vers qui les autres reviennent dans les crises"
+    ],
+    "masquesPossibles": [
+      "le leadership peut masquer un besoin de contrôle ou de sécurité",
+      "la confiance apparente peut cacher un doute profond que le personnage ne peut pas montrer",
+      "le service du groupe peut être une façon d'éviter de s'occuper de lui-même",
+      "l'autorité peut masquer une peur de ne pas être à la hauteur"
+    ],
+    "manifestationsPositives": [
+      "fait fonctionner des groupes qui sans lui resteraient bloqués",
+      "protège et élève les membres les plus vulnérables",
+      "prend des risques pour défendre ce qui lui semble juste",
+      "inspire confiance par la cohérence entre ses actes et ses paroles",
+      "crée des espaces où les autres peuvent s'affirmer"
+    ],
+    "manifestationsNegatives": [
+      "peut prendre la place d'autres qui auraient besoin de la prendre",
+      "peut décider à la place des autres avec les meilleures intentions",
+      "sa confiance peut se transformer en certitude qui exclut les contradictions",
+      "peut s'épuiser à porter le groupe sans jamais se plaindre",
+      "peut provoquer de la dépendance ou de la rébellion dans son entourage"
+    ],
+    "blessuresPossibles": [
+      "rôle de protecteur ou de médiateur endossé très tôt dans une famille dysfonctionnelle",
+      "expérience où il a failli et dont il porte la responsabilité",
+      "figure d'autorité défaillante dont il a décidé inconsciemment de prendre le relais"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à laisser les autres diriger et trouver le soulagement dans le recul",
+      "peut être confronté à une situation où son leadership est insuffisant",
+      "peut découvrir que ce qu'il cherche dans le groupe, il ne l'a jamais cherché pour lui-même",
+      "peut devenir un mentor qui transmet ce qu'il sait plutôt que de le porter seul"
+    ],
+    "notesEditoriales": [
+      "Le leader naturel est souvent un personnage secondaire idéalisé — mais son arc propre est dans ce qu'il lui en coûte et dans ce qu'il n'a jamais eu le droit de ne pas être.",
+      "Distinguer le leadership naturel (qui répond à un besoin) du leadership désiré (qui sert l'ego) : les deux produisent des comportements similaires mais des ressorts dramatiques très différents.",
+      "Le moment le plus révélateur est celui où ce personnage choisit de ne pas diriger — et ce que ça provoque."
+    ]
+  },
+  {
+    "id": "suiveur",
+    "label": "Suiveur",
+    "polarite": "negatif",
+    "famille": "rapport-aux-autres",
+    "definitionCourte": "Le personnage suiveur ne prend pas d'initiative — il s'aligne. Ce n'est pas toujours de la paresse ou de la faiblesse : c'est parfois une peur profonde de se tromper, de se retrouver seul avec une décision, ou d'être jugé pour avoir pris la mauvaise direction. Le suiveur a souvent des opinions. Il choisit de ne pas les défendre.",
+    "signesPhysiques": [
+      "regard qui vérifie les autres avant de réagir",
+      "position dans le groupe légèrement en retrait du centre",
+      "gestes qui imitent ceux de la personne dominante",
+      "acquiescement fréquent avant d'avoir formé une opinion complète",
+      "corps qui s'oriente vers la personne qui parle le plus fort",
+      "sourire d'approbation quasi-automatique",
+      "silence ou retrait face aux désaccords",
+      "légère tension quand on lui demande de choisir",
+      "regard qui cherche la validation de la figure de référence",
+      "position physique derrière ou à côté, jamais devant",
+      "détente visible quand quelqu'un d'autre prend la décision"
+    ],
+    "sensationsInternes": [
+      "soulagement quand la décision est prise par quelqu'un d'autre",
+      "légère anxiété dans les situations qui exigent une initiative",
+      "inconfort quand son opinion diverge et qu'il doit choisir entre la taire et la dire",
+      "sentiment de sécurité dans le groupe ou dans l'ombre d'une figure forte",
+      "légère honte parfois de ne pas s'être exprimé",
+      "peur sourde d'être jugé si la décision qu'il prendrait était mauvaise",
+      "confort dans la conformité qui peut ressembler à de la paix",
+      "douleur de la complicité quand il suit dans quelque chose qu'il désapprouve"
+    ],
+    "pensees": [
+      "Ce n'est pas mon rôle de décider.",
+      "Si je me trompe, je n'aurais jamais dû parler.",
+      "Ils ont plus d'expérience que moi. Je vais les suivre.",
+      "Je pense que c'est une mauvaise idée. Mais peut-être que je me trompe.",
+      "Ce n'est pas le moment de créer du désaccord.",
+      "Si tout le monde pense ça, c'est probablement juste.",
+      "Je ne veux pas être celui qui fait foirer quelque chose.",
+      "J'aurais pu dire quelque chose. Maintenant c'est trop tard."
+    ],
+    "effetsVoixLangage": [
+      "acquiescements fréquents pendant que l'autre parle",
+      "formulations conditionnelles : 'je pense, mais peut-être que je me trompe'",
+      "tendance à reformuler l'opinion de la figure dominante comme si c'était la sienne",
+      "voix qui baisse légèrement quand il ose un désaccord",
+      "questions qui cherchent la validation plutôt que la réponse",
+      "peu d'initiatives de sujet dans les conversations de groupe",
+      "peut exprimer un avis fort en privé et se rétracter en groupe"
+    ],
+    "comportements": [
+      "attend que quelqu'un d'autre propose avant de s'aligner",
+      "change d'avis rapidement si la personne de référence change le sien",
+      "peut suivre dans des situations moralement problématiques par peur d'être exclu",
+      "cherche une figure de référence dans chaque nouveau groupe",
+      "peut devenir loyalement servile envers quelqu'un qui lui donne une direction",
+      "évite les positions de décision même quand elles lui sont proposées",
+      "peut agir de façon compétente dans un cadre défini, pas dans l'improvisation",
+      "peut être fiable dans l'exécution, pas dans la conception",
+      "peut porter la culpabilité de décisions mauvaises auxquelles il a participé sans les avoir voulues",
+      "peut se retrouver impliqué dans des dynamiques de groupe qu'il n'aurait jamais initiées",
+      "peut exploser si quelqu'un le confronte trop longtemps à sa propre passivité"
+    ],
+    "masquesPossibles": [
+      "la prudence présentée comme vertu : 'je préfère bien faire que faire vite'",
+      "la modestie qui justifie le retrait : 'je ne suis pas le mieux placé pour décider'",
+      "la solidarité de groupe qui masque l'absence d'opinion propre",
+      "l'efficacité dans l'exécution qui compense l'absence d'initiative"
+    ],
+    "manifestationsPositives": [
+      "peut être un soutien fiable et loyal dans les équipes bien dirigées",
+      "ne crée pas de conflits de pouvoir inutiles",
+      "peut porter les décisions des autres avec une implication sincère",
+      "peut être d'une loyauté totale envers une figure de confiance",
+      "peut évoluer vers plus d'assurance si quelqu'un lui donne l'espace de le faire"
+    ],
+    "manifestationsNegatives": [
+      "peut devenir complice de comportements qu'il désapprouve",
+      "peut permettre des dynamiques destructives en ne s'y opposant pas",
+      "peut ressentir une frustration profonde de ne jamais avoir osé",
+      "peut être utilisé par des figures dominantes peu scrupuleuses",
+      "peut priver le groupe de perspectives qui auraient été précieuses"
+    ],
+    "blessuresPossibles": [
+      "figure parentale ou scolaire qui a puni les prises d'initiative incorrectes",
+      "expérience d'une décision personnelle catastrophique dont il garde une honte tenace",
+      "environnement de groupe dans lequel l'originalité était sanctionnée"
+    ],
+    "evolutionsPossibles": [
+      "peut être confronté à une situation où son silence cause un dommage direct et choisir autrement",
+      "peut trouver un domaine ou un groupe dans lequel son initiative est valorisée",
+      "peut rester suiveur toute sa vie si rien ne vient remettre en question le modèle",
+      "peut devenir un leader tardif, d'autant plus solide qu'il a vu ce que le leadership peut coûter"
+    ],
+    "notesEditoriales": [
+      "Le suiveur n'est intéressant que si on lui donne une vie intérieure : il pense, il voit, il désapprouve parfois — et choisit quand même de ne pas parler.",
+      "Le moment dramatique central est celui où il peut encore changer quelque chose et ne le fait pas — ou au contraire où il ose enfin.",
+      "Éviter d'en faire un simple faire-valoir : le suiveur porte souvent une lucidité sur le leader qu'il suit que personne d'autre ne partage."
+    ]
+  },
+  {
+    "id": "artistique",
+    "label": "Artistique",
+    "polarite": "ambigu",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Le personnage artistique perçoit le monde à travers le filtre de la forme et du sens. Ce n'est pas simplement qu'il crée — c'est qu'il vit en artiste : il cherche dans le réel les couleurs, les rythmes, les contrastes, les tensions qui lui donnent à la fois de la douleur et du matériau. L'artistique ne peut pas s'empêcher de transformer ce qu'il vit en quelque chose.",
+    "signesPhysiques": [
+      "regard qui s'arrête sur des détails que les autres traversent",
+      "gestes qui semblent parfois exprimer quelque chose au-delà de leur utilité",
+      "tendance à s'immo biliser face à ce qui le frappe esthétiquement",
+      "expressions faciales qui reflètent les textures émotionnelles des environnements",
+      "mains souvent en mouvement — dessin, écriture, manipulation d'objets",
+      "regard intérieur fréquent pendant les conversations",
+      "posture qui change selon l'atmosphère du lieu",
+      "sens de la mise en espace de son propre corps dans un contexte",
+      "tenue souvent choisie comme expression plutôt que comme conformité",
+      "sourire face à quelque chose de beau que les autres n'ont pas remarqué",
+      "légère tension dans les espaces où rien ne l'intéresse esthétiquement"
+    ],
+    "sensationsInternes": [
+      "vibration particulière face à ce qui l'émeut esthétiquement",
+      "douleur transformée en matière plutôt qu'en paralysie",
+      "impression que tout peut devenir signifiant si on le regarde assez longtemps",
+      "inconfort dans les environnements sans texture ni beauté",
+      "urgence de capter ce qui passe avant que ça disparaisse",
+      "sentiment d'être plus vivant dans l'acte de créer ou de percevoir",
+      "solitude parfois de ne pas partager entièrement ce qu'il perçoit",
+      "plaisir sensoriel dans les matières, les sons, les lumières"
+    ],
+    "pensees": [
+      "Il y a quelque chose là-dedans. Je dois le garder.",
+      "Ce moment est trop beau ou trop douloureux pour passer sans laisser de trace.",
+      "Je ne peux pas expliquer ce que je ressens. Mais je peux peut-être le montrer.",
+      "Tout est matériau si on sait regarder.",
+      "Il ne comprend pas pourquoi je m'arrête ici. Je ne sais pas comment lui expliquer.",
+      "J'ai besoin de faire quelque chose avec ça.",
+      "La forme dit ce que les mots ne diront pas.",
+      "Le beau et le difficile ne sont pas opposés. Souvent ils se confondent."
+    ],
+    "effetsVoixLangage": [
+      "langage métaphorique et sensoriel même dans les conversations ordinaires",
+      "peut nommer une atmosphère ou une émotion avec une précision que les autres ne trouvent pas",
+      "digressions esthétiques dans les récits factuels",
+      "peut s'interrompre pour trouver le mot juste quand un approximatif ne suffit pas",
+      "résistance aux formulations creuses ou convenues",
+      "références à des œuvres ou des formes qui font partie de sa façon de penser",
+      "peut parler très peu si rien de vrai ne peut être dit"
+    ],
+    "comportements": [
+      "transforme ses expériences en œuvres ou en réflexions",
+      "remarque les détails esthétiques dans les lieux ordinaires",
+      "peut sacrifier le confort pratique à une exigence de forme ou de sens",
+      "peut sembler absent quand il est en train de percevoir ou de composer",
+      "crée même quand la situation ne l'exige pas",
+      "peut s'identifier fortement à son œuvre au point que la critique l'atteint profondément",
+      "vit souvent dans un rapport tendu entre ce qu'il voit et ce qu'il peut en faire",
+      "peut négliger des aspects pratiques de la vie au profit de la création",
+      "est souvent plus à l'aise dans l'expression que dans la communication directe",
+      "peut trouver dans l'art une façon de traverser ce qu'il ne peut pas traverser autrement",
+      "peut être d'une générosité totale dans les espaces partagés autour de la création"
+    ],
+    "masquesPossibles": [
+      "l'art peut masquer une difficulté à vivre directement les émotions sans les transformer",
+      "la sensibilité esthétique peut protéger d'une confrontation directe au réel",
+      "la création peut être une façon d'exister sans avoir à interagir",
+      "le statut d'artiste peut être utilisé pour se soustraire aux responsabilités ordinaires"
+    ],
+    "manifestationsPositives": [
+      "peut nommer ce que les autres ressentent et ne savent pas exprimer",
+      "crée de la beauté dans les espaces qu'il habite",
+      "peut transformer la douleur en quelque chose qui aide les autres",
+      "sa sensibilité le rend souvent attentif à des vérités que d'autres ratent",
+      "peut être un témoin exceptionnel de son époque ou de son entourage"
+    ],
+    "manifestationsNegatives": [
+      "peut être débordé par la perception au détriment de la fonction",
+      "peut être blessé plus profondément que d'autres par des critiques ou des rejets",
+      "peut instrumentaliser son entourage comme matériau sans en être conscient",
+      "peut négliger des besoins pratiques et des relations au nom de la création",
+      "peut souffrir profondément dans les environnements sans espace pour la création"
+    ],
+    "blessuresPossibles": [
+      "expérience de beauté ou de forme qui a été la première réponse à une douleur précoce",
+      "entourage qui dévalorisait la sensibilité ou la création",
+      "moment de créativité brisée ou humiliée qui a laissé une cicatrice profonde"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à habiter la vie directement autant qu'à la transformer",
+      "peut trouver dans une relation ce que l'art seul ne peut pas donner",
+      "peut devenir un créateur majeur si la douleur et la forme trouvent leur équilibre",
+      "peut s'épuiser si la création exige plus que ce que la vie lui permet de donner"
+    ],
+    "notesEditoriales": [
+      "Le personnage artistique est souvent romantisé — mais le coût de la sensibilité extrême mérite d'être traité aussi honnêtement que le don.",
+      "Éviter le génie souffrant comme seul modèle : l'artistique peut être heureux, fonctionnel, ancré — et toujours profondément artiste.",
+      "La création est le comportement le plus révélateur de ce personnage : ce qu'il fait et pourquoi en dit plus que tout ce qu'il pourrait dire d'autre."
+    ]
+  },
+  {
+    "id": "analytique",
+    "label": "Analytique",
+    "polarite": "ambigu",
+    "famille": "rapport-au-monde",
+    "definitionCourte": "Le personnage analytique décompose systématiquement ce qu'il observe, ressent ou rencontre. Ce n'est pas une distance froide : c'est souvent sa façon d'aimer et de comprendre le monde. L'analyse est son langage maternel, celui dans lequel il se sent le plus lui-même — et parfois celui qui l'isole le plus des personnes qui fonctionnent autrement.",
+    "signesPhysiques": [
+      "silence de réflexion avant chaque réponse non triviale",
+      "regard qui se déporte légèrement de côté pendant qu'il traite",
+      "gestes réduits quand il pense — le corps s'économise",
+      "front légèrement plissé dans la concentration",
+      "stylo ou objet en main comme outil de pensée",
+      "regard qui revient une fois la conclusion trouvée, plus direct",
+      "posture qui s'immobilise dans la réflexion intensive",
+      "léger balancement ou mouvement répétitif de la main dans les problèmes complexes",
+      "expression qui change peu pendant la réflexion mais nettement quand une hypothèse se confirme",
+      "contact visuel intermittent — présent, puis absent le temps de traiter, puis revenu",
+      "corps qui se redresse légèrement à l'arrivée d'une conclusion"
+    ],
+    "sensationsInternes": [
+      "satisfaction profonde dans la compréhension d'une structure ou d'un mécanisme",
+      "légère irritation face à ce qui est mal raisonné ou incohérent",
+      "plaisir particulier dans les problèmes complexes qui résistent",
+      "inconfort dans les situations qui échappent à toute logique apparente",
+      "légère excitation quand une hypothèse se confirme",
+      "frustration douce quand il ne peut pas expliquer ce qu'il comprend intuitivement",
+      "calme dans l'analyse qui peut contraster avec une anxiété sociale ordinaire",
+      "malaise dans les situations émotionnelles qui ne sont pas 'résolvables'"
+    ],
+    "pensees": [
+      "Quelle est la structure sous-jacente ?",
+      "Il y a quelque chose qui ne tient pas dans ce raisonnement.",
+      "Si on décompose le problème, on voit que...",
+      "L'émotion est là. Je la note. Maintenant qu'est-ce qu'on fait ?",
+      "Ce n'est pas irrationnel. C'est une rationalité que je n'ai pas encore identifiée.",
+      "Je comprends la conclusion. Je veux comprendre la logique qui y mène.",
+      "Il y a un biais ici. Dans mon raisonnement ou dans le sien.",
+      "Ce n'est pas parce que je n'exprime pas que je ne ressens pas."
+    ],
+    "effetsVoixLangage": [
+      "formulations précises et peu ornementées",
+      "tendance à clarifier les termes avant de répondre",
+      "peut reformuler la question de l'interlocuteur pour s'assurer de la comprendre",
+      "discours structuré avec une progression logique visible",
+      "peut sembler froid dans les échanges parce que l'émotion passe par le raisonnement",
+      "questions de clarification nombreuses avant de s'engager",
+      "peut s'arrêter au milieu d'une phrase si une incohérence lui saute aux yeux"
+    ],
+    "comportements": [
+      "décompose les situations en éléments avant de réagir",
+      "prend des notes mentales ou réelles dans les situations complexes",
+      "teste ses hypothèses avant de les livrer",
+      "peut sembler hésitant parce qu'il vérifie avant d'affirmer",
+      "résout les conflits par la logique, ce qui peut rater la dimension émotionnelle",
+      "relit et révise avant de soumettre ou de décider",
+      "peut rester sur un problème longtemps après que les autres sont passés à autre chose",
+      "peut sembler indécis quand les données manquent",
+      "est à l'aise dans les données et les systèmes, moins dans l'ambiguïté émotionnelle",
+      "peut analyser ses propres émotions de façon si froide qu'il ne les ressent plus vraiment",
+      "peut apporter des solutions exactes à des problèmes mal posés"
+    ],
+    "masquesPossibles": [
+      "l'analyse peut masquer une difficulté à rester dans l'émotion sans y mettre de la structure",
+      "le raisonnement peut être une façon d'éviter la vulnérabilité",
+      "la clarté intellectuelle peut compenser une confusion intérieure non résolue",
+      "l'analyse peut masquer une peur d'agir — tant qu'on n'a pas tout compris, on ne risque rien"
+    ],
+    "manifestationsPositives": [
+      "peut identifier les problèmes réels que les autres n'ont pas encore nommés",
+      "prend des décisions fondées plutôt qu'impulsives",
+      "peut aider les autres à y voir plus clair dans des situations confuses",
+      "ne se laisse pas emporter par l'enthousiasme ou la panique",
+      "peut être une ressource précieuse dans les prises de décision complexes"
+    ],
+    "manifestationsNegatives": [
+      "peut paraître froid ou indifférent dans des situations qui exigent une présence émotionnelle",
+      "peut analyser là où il faudrait simplement être",
+      "peut prendre des décisions logiquement cohérentes mais émotionnellement catastrophiques",
+      "peut passer trop de temps à analyser et pas assez à agir",
+      "peut décourager les personnes qui fonctionnent différemment en leur semblant inaccessible"
+    ],
+    "blessuresPossibles": [
+      "enfance dans un environnement émotionnellement chaotique où comprendre était le seul moyen de se protéger",
+      "expérience où l'émotion non contrôlée a eu des conséquences graves",
+      "figure parentale qui valorisait exclusivement l'intelligence et sanctionnait la sensibilité"
+    ],
+    "evolutionsPossibles": [
+      "peut apprendre à habiter ses émotions sans les analyser immédiatement",
+      "peut trouver dans une relation qui valorise l'émotionnel ce que le raisonnement seul n'a pas donné",
+      "peut devenir un penseur exceptionnel si l'analyse s'articule à une expérience humaine plus riche",
+      "peut s'épuiser dans les environnements qui ne valorisent pas sa façon d'être"
+    ],
+    "notesEditoriales": [
+      "L'analytique est souvent réduit au personnage 'rationnel' qui contraste avec le personnage 'émotionnel' — mais sa propre vie émotionnelle est tout aussi riche, simplement organisée différemment.",
+      "Le moment le plus révélateur est celui où l'analyse atteint sa limite — une situation qui résiste à toute décomposition et qui exige simplement d'être vécue.",
+      "Distinguer l'analytique de l'intellectuel : l'analytique décompose, l'intellectuel réfléchit — les deux peuvent se croiser mais ne sont pas identiques."
+    ]
+  }
+]

@@ -1,0 +1,759 @@
+[
+  {
+    "id": "dilemme-ethique",
+    "label": "Dilemme éthique",
+    "alias": [
+      "dilemme éthique",
+      "dilemme ethique",
+      "dilemme moral",
+      "conflit de valeurs",
+      "choix moral impossible",
+      "cas de conscience",
+      "conflit éthique",
+      "conflit ethique",
+      "impasse morale",
+      "situation sans bonne réponse morale"
+    ],
+    "famille": "conflits-moraux",
+    "sousCategorie": "conflit-de-valeurs",
+    "definitionCourte": "Situation où deux valeurs morales légitimes s'affrontent — faire le bien selon un principe exige de violer un autre principe tout aussi valable.",
+    "forcesEnPresence": [
+      "valeur A et valeur B également défendables et sincèrement tenues",
+      "impossibilité d'agir en accord avec les deux simultanément",
+      "pression du temps ou des circonstances qui interdit la réflexion longue",
+      "regard des personnes concernées qui attendent une décision",
+      "conviction intérieure que la bonne réponse existe — et qu'on ne la trouve pas",
+      "responsabilité de décider pour d'autres qui n'ont pas demandé à l'être"
+    ],
+    "declencheursFrequents": [
+      "sauver une vie au détriment d'une autre",
+      "dire une vérité qui blesse ou mentir pour protéger",
+      "respecter la loi ou protéger quelqu'un qu'on aime",
+      "trahir un groupe pour sauver un individu",
+      "tenir une promesse ou en rompre une pour en tenir une autre",
+      "agir maintenant avec des conséquences incertaines ou attendre avec des conséquences certaines",
+      "respecter un droit ou prévenir un tort"
+    ],
+    "signauxAvantCoureurs": [
+      "silence ou tension inhabituels avant une décision",
+      "questions philosophiques inhabituelles dans la conversation",
+      "recherche de précédents — comment les autres ont fait face",
+      "irritabilité quand l'entourage propose une réponse simple",
+      "relecture de situations passées similaires",
+      "besoin de parler sans savoir quoi dire exactement",
+      "hésitation prolongée là où le personnage décide habituellement vite"
+    ],
+    "silencesEtNonDits": [
+      "ce que le personnage aurait vraiment voulu faire si personne ne regardait",
+      "la conviction secrète que la bonne réponse existe — et qu'il ne l'a pas trouvée",
+      "la honte de ne pas savoir quand on se croyait quelqu'un de bien",
+      "ce que le choix dit de lui — et ce qu'il ne veut pas que ça dise",
+      "la colère contre ceux qui l'ont placé dans cette position",
+      "l'après : qui il est devenu depuis ce choix"
+    ],
+    "penseesTypiques": [
+      "Il n'y a pas de bonne réponse ici.",
+      "Quelle que soit ma décision, je viole quelque chose.",
+      "Comment est-ce qu'on fait le bien quand les deux options font du mal ?",
+      "Si j'étais vraiment quelqu'un de bien, je saurais.",
+      "Je refuse qu'on me présente ça comme simple.",
+      "Ce que je vais faire va me définir.",
+      "Il y a des gens qui ne s'en remettent pas.",
+      "Je n'aurais jamais voulu être dans cette position.",
+      "Est-ce que je peux vivre avec ça après ?"
+    ],
+    "penseesTypiques": [
+      "Il n'y a pas de bonne réponse ici.",
+      "Quelle que soit ma décision, je viole quelque chose.",
+      "Comment est-ce qu'on fait le bien quand les deux options font du mal ?",
+      "Si j'étais vraiment quelqu'un de bien, je saurais.",
+      "Je refuse qu'on me présente ça comme simple.",
+      "Ce que je vais faire va me définir.",
+      "Il y a des gens qui ne s'en remettent pas de ce genre de choix.",
+      "Je n'aurais jamais voulu être dans cette position.",
+      "Est-ce que je peux vivre avec ça après ?"
+    ],
+    "comportementsTypiques": [
+      "cherche des précédents ou des avis sans trouver de réponse satisfaisante",
+      "reporte la décision jusqu'à ce que les circonstances la forcent",
+      "teste discrètement les réactions de l'entourage sans révéler l'enjeu",
+      "se confie à quelqu'un de confiance en termes hypothétiques",
+      "prend une décision puis revient dessus plusieurs fois",
+      "devient irritable avec ceux qui simplifient la situation",
+      "cherche une règle extérieure — loi, religion, tradition — pour lui déléguer le choix",
+      "se met à lire ou à se documenter sur des cas similaires",
+      "s'isole pour réfléchir hors des pressions extérieures"
+    ],
+    "positionsDePouvoir": [
+      "le personnage détient une forme de pouvoir de décision — et en souffre",
+      "ceux qui seront affectés par la décision exercent une pression, parfois sans le savoir",
+      "l'entourage peut simplifier le dilemme sans comprendre pourquoi c'est impossible",
+      "après la décision, le pouvoir se redistribue selon qui a été favorisé"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Inconfort moral", "description": "Le personnage est gêné par quelque chose sans pouvoir le formuler clairement. Il agit mais reste troublé." },
+      { "niveau": 2, "label": "Hésitation éthique", "description": "Il voit les deux côtés du problème. Choisir lui demande un effort conscient et laisse une trace." },
+      { "niveau": 3, "label": "Dilemme actif", "description": "Aucune option ne semble juste. Le personnage cherche une sortie et n'en trouve pas. La souffrance est réelle." },
+      { "niveau": 4, "label": "Conflit moral aigu", "description": "Quelle que soit sa décision, il viole quelque chose d'essentiel en lui. Il le sait avant d'agir." },
+      { "niveau": 5, "label": "Rupture morale", "description": "Le choix contraint le personnage à devenir quelqu'un qu'il ne voulait pas être. Il ne s'en remet pas entièrement." }
+    ],
+    "variantes": [
+      {
+        "profil": "Dilemme du soignant",
+        "description": "Prolonger une vie souffrante ou laisser partir. Aucune réponse n'est juste — mais ne pas répondre est aussi un choix. La compétence technique ne résout pas la question morale."
+      },
+      {
+        "profil": "Dilemme du témoin",
+        "description": "Parler et briser quelque chose. Se taire et cautionner. Le dilemme pèse d'autant plus que le personnage n'est pas directement impliqué — il n'a rien à gagner et tout à perdre."
+      },
+      {
+        "profil": "Dilemme du protecteur",
+        "description": "Mentir pour protéger quelqu'un qu'on aime ou dire la vérité en le sachant exposé. La loyauté contre la vérité. Le personnage doit choisir entre deux formes d'amour."
+      }
+    ],
+    "escaladeTypique": [
+      "découverte de la situation qui pose le dilemme",
+      "première tentative de trouver une réponse claire",
+      "prise de conscience qu'il n'y en a pas",
+      "pression croissante qui rend l'attente impossible",
+      "décision prise — suivie de ses conséquences et de l'interrogation sur ce qu'elles révèlent"
+    ],
+    "voiesDeResolution": [
+      "acceptation qu'une décision imparfaite vaut mieux que l'inaction",
+      "clarification de la valeur la plus fondamentale pour le personnage",
+      "compréhension que vivre avec le choix fait partie du choix lui-même",
+      "rencontre avec quelqu'un qui a traversé un dilemme similaire",
+      "action fondée non sur la certitude d'avoir raison mais sur la conscience d'avoir essayé"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience passée où le mauvais choix a eu des conséquences durables",
+      "éducation morale rigide qui ne laissait pas de place aux zones grises",
+      "figure d'autorité jadis admirée qui avait mal géré un dilemme similaire",
+      "conviction que les bonnes personnes savent toujours quoi faire",
+      "expérience d'avoir été jugé pour un choix difficile fait de bonne foi"
+    ],
+    "contextesFavorables": [
+      "position de responsabilité — médecin, juge, parent, chef",
+      "guerre, crise ou situation d'exception qui suspend les règles ordinaires",
+      "conflit de loyauté entre deux personnes également chères",
+      "contexte où les conséquences sont irréversibles",
+      "situation où chaque option a une victime"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage en position d'autorité ou de responsabilité",
+      "personnage avec un code moral fort et peu de zone grise",
+      "personnage déjà marqué par un choix difficile passé",
+      "personnage tiraillé entre des loyautés incompatibles",
+      "personnage dont la fonction exige des décisions impossibles"
+    ],
+    "erreursDEcriture": [
+      "Offrir une solution claire où les deux valeurs sont préservées — le dilemme doit avoir un coût réel.",
+      "Faire du personnage un saint ou un monstre selon son choix — le dilemme est précisément l'absence de réponse parfaite.",
+      "Oublier les conséquences à long terme : le dilemme éthique marque, même quand on croit l'avoir résolu.",
+      "Réduire à un problème intellectuel — c'est avant tout une épreuve émotionnelle et identitaire.",
+      "Ne pas montrer ce que le personnage perd en choisissant — même le bon choix a un coût."
+    ],
+    "notesEditoriales": [
+      "Le dilemme éthique le plus fort est celui où le lecteur lui-même ne sait pas ce qu'il aurait fait.",
+      "Sa puissance vient de l'égalité réelle des deux options — si l'une est clairement meilleure, c'est un choix difficile, pas un dilemme.",
+      "Distinguer le dilemme éthique pur (valeur contre valeur) du simple choix difficile (option moins bonne contre meilleure).",
+      "L'après du dilemme est souvent plus riche narrativement que le dilemme lui-même."
+    ]
+  },
+  {
+    "id": "mensonge-par-necessite",
+    "label": "Mensonge par nécessité",
+    "alias": [
+      "mensonge par nécessité",
+      "mensonge par necessite",
+      "mensonge protecteur",
+      "mensonge bienveillant",
+      "mensonge blanc",
+      "mensonge par amour",
+      "vérité tue",
+      "verite tue",
+      "omission volontaire",
+      "demi-vérité"
+    ],
+    "famille": "conflits-moraux",
+    "sousCategorie": "transgression-justifiee",
+    "definitionCourte": "Le personnage ment pour protéger quelqu'un ou éviter un mal plus grand — en sachant que le mensonge a un coût moral qu'il assumera seul.",
+    "forcesEnPresence": [
+      "valeur de vérité contre besoin de protection",
+      "confiance d'autrui contre connaissance d'une vérité dangereuse",
+      "court terme protégé contre long terme compromis",
+      "loyauté envers celui qu'on protège contre loyauté envers la vérité",
+      "paternalisme involontaire — décider ce que l'autre peut entendre",
+      "solitude du mensonge contre soulagement de partager"
+    ],
+    "declencheursFrequents": [
+      "vérité qui blesserait inutilement quelqu'un de vulnérable",
+      "danger réel que la vérité révélerait",
+      "promesse faite à un tiers incompatible avec la transparence",
+      "contexte où la vérité serait utilisée contre quelqu'un d'innocent",
+      "moment où l'autre n'est pas en état d'entendre ce qui est vrai",
+      "question directe posée au pire moment",
+      "secret confié qui engage à se taire"
+    ],
+    "signauxAvantCoureurs": [
+      "réponses légèrement trop rapides ou trop construites",
+      "regard qui ne croise pas le sien au moment de la question",
+      "sujet évité par un changement de conversation habile",
+      "sur-explication là où une réponse simple suffirait",
+      "légère crispation physique quand le sujet est abordé",
+      "cohérence trop parfaite — les vrais souvenirs ont des lacunes",
+      "besoin de vérifier que l'autre a bien cru ce qu'on a dit"
+    ],
+    "silencesEtNonDits": [
+      "le moment où le personnage a décidé que l'autre ne pouvait pas porter la vérité",
+      "le droit qu'il s'est accordé de protéger sans demander l'avis de celui qu'il protège",
+      "la question qu'il n'ose pas se poser : est-ce vraiment pour l'autre, ou pour lui-même ?",
+      "le poids de savoir seul ce que l'autre ignore",
+      "la peur de ce qui arrivera quand le mensonge sera découvert",
+      "ce que la relation deviendrait si l'autre savait tout"
+    ],
+    "penseesTypiques": [
+      "Il n'est pas prêt à entendre ça.",
+      "Ça ne changerait rien — ça ne ferait que lui faire du mal.",
+      "Je protège quelqu'un. Ce n'est pas pareil.",
+      "Si les rôles étaient inversés, je voudrais qu'on me protège.",
+      "Jusqu'où est-ce que je peux aller avec ça ?",
+      "Ce n'est pas vraiment mentir — c'est choisir ce que je dis.",
+      "Et si ça sort un jour ?",
+      "Est-ce que je fais ça pour lui ou pour moi ?",
+      "Je ne peux pas dire la vérité maintenant. Peut-être plus tard."
+    ],
+    "comportementsTypiques": [
+      "maintient le mensonge avec une cohérence méticuleuse",
+      "évite les sujets qui pourraient le forcer à en dire plus",
+      "surveille les réactions de l'autre pour ajuster ce qu'il dit",
+      "crée des distractions au bon moment",
+      "donne des vérités partielles qui orientent sans tromper complètement",
+      "justifie mentalement le mensonge après chaque échange",
+      "cherche quelqu'un à qui confier la vérité sans trahir",
+      "prépare une version de la vérité pour le moment où il faudra parler",
+      "traite l'autre avec une attention légèrement excessive — comme pour compenser"
+    ],
+    "positionsDePouvoir": [
+      "le menteur s'arroge un pouvoir : décider ce que l'autre a le droit de savoir",
+      "l'autre est rendu passif — il vit dans une réalité partiellement construite",
+      "le rapport de pouvoir peut s'inverser brutalement si le mensonge est découvert",
+      "le menteur est le seul à porter le poids entier de la situation"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Omission bénigne", "description": "Le personnage ne dit pas tout, pas exactement. Ce n'est pas un mensonge franc — une nuance, un détail tu." },
+      { "niveau": 2, "label": "Mensonge blanc", "description": "Il ment clairement pour une bonne raison. Il s'en justifie facilement mais ça laisse une légère trace." },
+      { "niveau": 3, "label": "Mensonge protecteur lourd", "description": "Le mensonge est conséquent. Il devra être maintenu, entretenu, peut-être étendu." },
+      { "niveau": 4, "label": "Tromperie durable", "description": "Maintenir le mensonge exige des efforts continus. Il change la relation sans que l'autre le sache." },
+      { "niveau": 5, "label": "Architecture du mensonge", "description": "Une série de mensonges s'est construite. Le personnage ne sait plus comment revenir en arrière sans tout détruire." }
+    ],
+    "variantes": [
+      {
+        "profil": "Mensonge de compassion",
+        "description": "On ment pour épargner une souffrance inutile. La question : qui décide de ce qui est inutile ? Le personnage s'arroge le droit de filtrer la réalité de l'autre."
+      },
+      {
+        "profil": "Mensonge de survie",
+        "description": "La vérité mettrait en danger — physique, social, vital. Mentir est une nécessité immédiate, non un choix moral serein. Le contexte extérieur impose la tromperie."
+      },
+      {
+        "profil": "Mensonge qui dure trop longtemps",
+        "description": "Ce qui était une protection ponctuelle est devenu une prison. Le personnage ne sait plus quand ni comment sortir. La vérité est devenue plus difficile à dire que le mensonge à maintenir."
+      }
+    ],
+    "escaladeTypique": [
+      "première omission ou déformation jugée nécessaire",
+      "maintien du mensonge face aux questions",
+      "extension — d'autres mensonges nécessaires pour protéger le premier",
+      "distance croissante dans la relation malgré les apparences",
+      "découverte ou aveu — et redistribution de tout ce qui était construit dessus"
+    ],
+    "voiesDeResolution": [
+      "aveu volontaire avant la découverte — le plus difficile et le plus honorable",
+      "découverte par l'autre suivie d'une explication honnête sur les motifs",
+      "moment où continuer à mentir coûte plus que dire la vérité",
+      "l'autre exprime un besoin de vérité que le personnage ne peut plus ignorer",
+      "tiers qui force la vérité à sortir indépendamment de la volonté du menteur"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience passée où la vérité a causé un tort immense",
+      "rôle de protecteur appris trop tôt dans l'enfance",
+      "conviction que les autres sont fragiles et ne peuvent pas tout entendre",
+      "culpabilité ancienne liée à une vérité dite au mauvais moment",
+      "relation dans laquelle la vérité n'a jamais été safe à dire"
+    ],
+    "contextesFavorables": [
+      "relation avec quelqu'un de vulnérable — malade, fragile, en crise",
+      "contexte de danger où la vérité exposerait",
+      "secret confié par un tiers qu'il faut protéger",
+      "situation où la vérité arriverait trop tard pour servir à quelque chose",
+      "relation d'autorité où le personnage se sent responsable de l'autre"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage en position de protection — parent, soignant, protecteur",
+      "personnage portant un secret qui touche plusieurs personnes",
+      "personnage dont l'affection se manifeste par la protection plutôt que la transparence",
+      "personnage ayant appris que la vérité fait du mal",
+      "personnage dans un contexte de danger où l'information est une arme"
+    ],
+    "erreursDEcriture": [
+      "Justifier trop vite le mensonge — le lecteur doit sentir le coût moral, même si le motif est bon.",
+      "Ne pas montrer comment le mensonge change la relation en dehors des moments de tension.",
+      "Résoudre la révélation du mensonge trop facilement — la trahison de confiance laisse des traces durables.",
+      "Oublier que le menteur souffre aussi — le poids de savoir seul est réel.",
+      "Confondre mensonge par nécessité et simple lâcheté — la distinction est dans l'intention, mais l'intention ne suffit pas toujours."
+    ],
+    "notesEditoriales": [
+      "Le mensonge par nécessité est l'un des plus riches narrativement parce qu'il met en tension l'amour et le respect.",
+      "Sa force est dans la question : protéger quelqu'un en lui mentant, est-ce l'aimer ou le nier ?",
+      "Distinguer le mensonge qui protège vraiment de celui qui protège surtout celui qui ment.",
+      "La découverte du mensonge bienveillant est souvent plus douloureuse que celle d'un mensonge égoïste — parce qu'elle remet en cause non l'amour mais la confiance."
+    ]
+  },
+  {
+    "id": "obeissance-contre-conscience",
+    "label": "Obéissance contre conscience",
+    "alias": [
+      "obéissance contre conscience",
+      "obeissance contre conscience",
+      "devoir contre morale",
+      "ordre injuste",
+      "obéir ou résister",
+      "obeir ou resister",
+      "conflit avec l'autorité",
+      "loyauté contre éthique",
+      "loyaute contre ethique",
+      "résistance intérieure"
+    ],
+    "famille": "conflits-moraux",
+    "sousCategorie": "autorite-et-liberte-morale",
+    "definitionCourte": "Le personnage est sommé d'obéir à une autorité — institution, loi, hiérarchie — dont les ordres heurtent sa conscience morale profonde.",
+    "forcesEnPresence": [
+      "autorité légitime ou au moins réelle contre conviction morale personnelle",
+      "coût de l'obéissance contre coût de la désobéissance",
+      "solidarité avec le groupe contre intégrité individuelle",
+      "peur des conséquences contre besoin de cohérence avec soi-même",
+      "loyauté à une institution contre loyauté à ses valeurs",
+      "regard des pairs qui obéissent contre voix intérieure qui résiste"
+    ],
+    "declencheursFrequents": [
+      "ordre donné par une autorité légitime mais clairement injuste",
+      "loi ou règle qui entre en contradiction avec ce que le personnage sait être juste",
+      "pression du groupe pour se taire, participer, cautionner",
+      "moment où obéir cautionne un tort dont il sera complice",
+      "demande d'agir contre quelqu'un de vulnérable ou d'innocent",
+      "ordre qui répète ce que le personnage a déjà exécuté en doutant",
+      "témoin d'une injustice commise par ceux à qui il obéit"
+    ],
+    "signauxAvantCoureurs": [
+      "questions qui testent les limites de l'ordre reçu",
+      "consultation d'un tiers de confiance avant d'agir",
+      "tension visible lors de l'exécution de tâches routinières liées à la hiérarchie",
+      "commentaires sur d'autres cas similaires — sondage des réactions",
+      "retard dans l'exécution des ordres sans raison avouée",
+      "comportement différent selon que le supérieur est présent ou absent",
+      "prise de distance physique ou verbale des symboles de l'autorité"
+    ],
+    "silencesEtNonDits": [
+      "la question : est-ce vraiment ma conscience ou juste mon confort ?",
+      "le regard des autres qui obéissent sans se poser la question",
+      "la peur que sa désobéissance ne change rien — et ne serve qu'à se sentir pur",
+      "ce que sa famille, ses proches, perdront s'il refuse",
+      "l'admiration inavouée pour ceux qui ont désobéi avant lui",
+      "ce que l'institution lui a donné et qu'il risque de perdre"
+    ],
+    "penseesTypiques": [
+      "Ce n'est pas à moi de décider si c'est juste.",
+      "Si je refuse, quelqu'un d'autre le fera à ma place.",
+      "Est-ce que je me bats pour mes principes ou juste pour ne pas me salir les mains ?",
+      "Tout le monde autour de moi obéit. Pourquoi est-ce que je serais différent ?",
+      "Il doit y avoir une raison que je ne comprends pas.",
+      "Si je désobéis, je perds tout ce que j'ai construit.",
+      "Jusqu'où est-ce que je peux aller avant que ça devienne inacceptable ?",
+      "Je peux exécuter l'ordre et désapprouver en même temps.",
+      "Non. Pas ça."
+    ],
+    "comportementsTypiques": [
+      "exécute l'ordre avec une lenteur qui marque sa réticence",
+      "cherche une interprétation de l'ordre qui en atténue le caractère injuste",
+      "consulte les règles ou la jurisprudence pour trouver une échappatoire légale",
+      "se confie à un collègue en termes prudemment hypothétiques",
+      "contourne l'ordre sans le briser frontalement",
+      "prépare une version de la désobéissance qui minimise les conséquences",
+      "confronte l'autorité en privé avant de décider",
+      "prend une décision alors qu'il est seul — sans témoin"
+    ],
+    "positionsDePouvoir": [
+      "l'autorité a un pouvoir formel réel — les conséquences de la désobéissance sont concrètes",
+      "le personnage a un pouvoir moral que l'autorité ne peut pas lui prendre",
+      "les témoins choisissent leur camp — et souvent le plus commode",
+      "la désobéissance d'un seul peut modifier le comportement du groupe ou rester isolée"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Inconfort suivi d'obéissance", "description": "Le personnage n'est pas à l'aise mais obéit. Il classe ça dans la case 'pas parfait, mais c'est comme ça'." },
+      { "niveau": 2, "label": "Résistance passive", "description": "Il obéit mais marque sa désapprobation — retard, mauvaise volonté discrète, commentaire voilé." },
+      { "niveau": 3, "label": "Désobéissance silencieuse", "description": "Il contourne l'ordre sans le briser frontalement. Se ménage une sortie morale tout en évitant l'affrontement." },
+      { "niveau": 4, "label": "Confrontation ouverte", "description": "Il refuse explicitement. Les conséquences sont réelles et il le sait avant d'agir." },
+      { "niveau": 5, "label": "Rupture totale", "description": "Il tourne le dos à l'autorité, à l'institution, au groupe. Il perd quelque chose d'important pour tenir sa ligne." }
+    ],
+    "variantes": [
+      {
+        "profil": "Militaire ou fonctionnaire",
+        "description": "L'ordre vient d'une chaîne hiérarchique formelle. Désobéir a un coût institutionnel immédiat — carrière, statut, appartenance. La pression est structurelle, pas seulement morale."
+      },
+      {
+        "profil": "Membre d'un groupe ou d'une communauté",
+        "description": "La pression n'est pas hiérarchique mais sociale. Désobéir c'est se mettre hors du groupe. Le coût est l'exclusion, pas la sanction formelle."
+      },
+      {
+        "profil": "Enfant ou adolescent",
+        "description": "L'autorité des parents ou de l'école. Les enjeux semblent mineurs de l'extérieur mais sont fondateurs de l'identité morale — c'est souvent là que le personnage apprend qui il est."
+      }
+    ],
+    "escaladeTypique": [
+      "ordre reçu qui heurte la conscience",
+      "rationalisation — trouver une raison de ne pas résister",
+      "répétition de l'ordre ou aggravation de la situation",
+      "moment critique — obéir maintenant, c'est franchir une ligne",
+      "choix : obéissance, désobéissance ou fuite"
+    ],
+    "voiesDeResolution": [
+      "désobéissance assumée et acceptation des conséquences",
+      "démission ou retrait de l'institution",
+      "changement de l'ordre ou de l'autorité par l'intérieur",
+      "alliance avec d'autres qui partagent le même doute",
+      "compréhension que l'obéissance choisie est différente de l'obéissance subie"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience d'avoir obéi à tort et d'en avoir souffert durablement",
+      "figure d'autorité injuste dont la rigidité a laissé des cicatrices",
+      "sentiment d'avoir toujours été pris pour acquis par les institutions",
+      "révolte ancienne étouffée qui ressurgit",
+      "punition passée pour avoir dit la vérité ou résisté"
+    ],
+    "contextesFavorables": [
+      "institution militaire, policière, médicale ou judiciaire",
+      "contexte de crise où les règles ordinaires sont suspendues",
+      "ordre venant d'une figure autrefois admirée",
+      "groupe soudé où la déviance est coûteuse",
+      "situation où d'autres subissent les conséquences de l'obéissance"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage en position subordonnée dans une hiérarchie",
+      "personnage dont l'intégrité morale est un trait central de l'identité",
+      "personnage ayant déjà payé le prix d'une obéissance aveugle",
+      "personnage nouveau dans une institution — pas encore formaté",
+      "personnage arrivé à un point de non-retour dans sa désillusion institutionnelle"
+    ],
+    "erreursDEcriture": [
+      "Rendre la désobéissance héroïque et sans coût — elle en a presque toujours un.",
+      "Rendre l'obéissance lâche sans nuance — parfois obéir est la décision la plus complexe.",
+      "Ne pas montrer l'après : ce que le personnage a choisi l'a changé, quelle que soit sa décision.",
+      "Oublier les complices — ceux qui obéissent autour de lui et ce que leur regard fait au personnage.",
+      "Résoudre par une révélation morale — la vraie résolution passe par un acte, pas par une prise de conscience."
+    ],
+    "notesEditoriales": [
+      "Ce conflit est d'autant plus puissant quand l'autorité est légitime — pas un tyran évident, mais une institution réelle avec ses propres logiques.",
+      "Sa force narrative vient de ce qu'il révèle sur le personnage : qui est-il quand personne ne regarde et que désobéir coûte vraiment quelque chose ?",
+      "Distinguer la désobéissance par conviction de la désobéissance par confort — les deux existent, les deux sont valides.",
+      "Les personnages qui obéissent en souffrant en silence sont souvent plus intéressants que ceux qui résistent ouvertement."
+    ]
+  },
+  {
+    "id": "fin-justifie-moyens",
+    "label": "La fin justifie les moyens",
+    "alias": [
+      "la fin justifie les moyens",
+      "fin justifie les moyens",
+      "pragmatisme moral",
+      "machiavélisme",
+      "machiavellisme",
+      "faire le mal pour le bien",
+      "transgression au nom du bien",
+      "acte répréhensible pour bonne cause",
+      "nécessité qui fait loi",
+      "necessite qui fait loi"
+    ],
+    "famille": "conflits-moraux",
+    "sousCategorie": "pragmatisme-moral",
+    "definitionCourte": "Le personnage commet un acte moralement répréhensible au service d'un objectif qu'il juge supérieur — et doit vivre avec ce qu'il a fait.",
+    "forcesEnPresence": [
+      "objectif jugé noble ou nécessaire contre moyen jugé répréhensible",
+      "pragmatisme contre intégrité morale",
+      "résultat attendu contre certitude de l'acte commis",
+      "conviction que personne d'autre ne fera ce qui doit être fait",
+      "urgence ou nécessité qui suspend le jugement moral ordinaire",
+      "loyauté envers le but contre loyauté envers les personnes utilisées comme moyen"
+    ],
+    "declencheursFrequents": [
+      "situation d'urgence qui semble ne laisser pas d'autre option",
+      "certitude que la fin est assez importante pour justifier l'exception",
+      "personne innocente en danger qui exige une action rapide",
+      "conviction que les règles ordinaires sont faites pour des situations ordinaires",
+      "expérience passée où respecter les règles a coûté quelque chose d'irréparable",
+      "tiers qui souffrira si le personnage ne transgresse pas"
+    ],
+    "signauxAvantCoureurs": [
+      "rationalisation intensive d'une décision avant de l'expliquer aux autres",
+      "sélection des interlocuteurs — ne parler qu'à ceux qui comprendront",
+      "refus de détailler les méthodes, focus obsessionnel sur l'objectif",
+      "irritabilité face aux objections morales",
+      "reformulation répétée des faits pour en minimiser le caractère répréhensible",
+      "évitement des personnes qui pourraient lui poser des questions gênantes",
+      "conviction croissante qu'il est le seul à voir clairement"
+    ],
+    "silencesEtNonDits": [
+      "la question qu'il refoule : est-ce que la fin était vraiment si noble ?",
+      "ce qu'il a ressenti en faisant ce qu'il a fait — et ce qu'il ressent encore",
+      "le moment précis où il a décidé que ça valait le coup",
+      "ce qu'il penserait de lui-même s'il voyait quelqu'un d'autre faire la même chose",
+      "les victimes de ses moyens — leur réalité qu'il a dû effacer pour agir",
+      "le doute : et si une autre voie avait existé et qu'il ne l'a pas cherchée ?"
+    ],
+    "penseesTypiques": [
+      "Parfois il faut se salir les mains pour que les autres restent propres.",
+      "Personne d'autre ne ferait ce qui doit être fait.",
+      "Dans dix ans, ils comprendront.",
+      "Ce que j'ai fait est impardonnable. Mais c'était nécessaire.",
+      "Si ça marche, tout ça avait un sens.",
+      "Je ne me reconnais pas dans ce que j'ai fait.",
+      "Est-ce que la fin était vraiment ce que je pensais qu'elle était ?",
+      "J'aurais pu m'arrêter. Je ne me suis pas arrêté.",
+      "Ils n'auraient pas compris si je leur avais demandé."
+    ],
+    "comportementsTypiques": [
+      "agit seul ou avec un cercle très restreint pour éviter les objections",
+      "contrôle rigoureusement le récit autour de ses actes",
+      "se montre particulièrement attentif aux personnes qui pourraient en pâtir — comme pour compenser",
+      "évite de parler des méthodes, parle uniquement des résultats",
+      "développe une logique interne hermétique pour justifier chaque étape",
+      "accepte les honneurs liés au résultat tout en taisant les moyens",
+      "surveille sa propre dérive — puis s'y soumet à nouveau",
+      "cherche quelqu'un à qui confesser sans risquer d'être jugé"
+    ],
+    "positionsDePouvoir": [
+      "le personnage s'est accordé le droit de décider pour les autres — c'est là que le pouvoir devient dangereux",
+      "les victimes de ses moyens ont peu de voix dans sa justification",
+      "ceux qui bénéficient de sa fin sont complices passifs, souvent sans le savoir",
+      "le pouvoir de décider seul de ce qui est nécessaire peut devenir une addiction"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Compromis mineur", "description": "Le personnage fait quelque chose de légèrement malhonnête pour un résultat légitime. Il s'en justifie facilement." },
+      { "niveau": 2, "label": "Transgression consciente", "description": "Il franchit une limite qu'il connaissait. Il se dit que les circonstances l'y obligeaient." },
+      { "niveau": 3, "label": "Acte difficile à assumer", "description": "Ce qu'il a fait lui pèse. L'objectif ne suffit plus toujours à le justifier dans ses moments de doute." },
+      { "niveau": 4, "label": "Dérive progressive", "description": "Ce qui était une exception est devenu une méthode. Il a normalisé ce qui le choquait au départ." },
+      { "niveau": 5, "label": "Corruption complète", "description": "La fin a fini par ne plus justifier rien — ou le personnage ne sait plus lui-même où est la fin." }
+    ],
+    "variantes": [
+      {
+        "profil": "Le protecteur",
+        "description": "Il blesse quelqu'un pour en sauver un autre. Son code moral reste, mais une ligne a été franchie. Il vit avec ça comme avec une dette."
+      },
+      {
+        "profil": "L'idéologue",
+        "description": "Il est convaincu que sa cause est tellement juste que tout lui est permis pour l'avancer. Plus la cause est grande, plus les exceptions s'élargissent."
+      },
+      {
+        "profil": "Le désespéré",
+        "description": "Il n'y avait pas d'autre option — du moins, c'est ce qu'il se dit. La question narrative : y en avait-il vraiment une, et l'a-t-il vraiment cherchée ?"
+      }
+    ],
+    "escaladeTypique": [
+      "objectif clairement défini et sincèrement tenu",
+      "obstacle qui rend les moyens ordinaires insuffisants",
+      "première transgression justifiée par l'urgence",
+      "répétition — la transgression devient méthode",
+      "confrontation avec les conséquences sur les victimes des moyens"
+    ],
+    "voiesDeResolution": [
+      "confrontation avec une victime de ses moyens qui lui donne un visage",
+      "échec de la fin — ce qui la rend rétrospectivement injustifiable",
+      "rencontre avec quelqu'un qui a trouvé un autre chemin pour le même objectif",
+      "moment où la dérive est trop évidente pour être niée",
+      "choix de s'arrêter avant une prochaine transgression — sans certitude d'y arriver"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience où faire les choses dans les règles a coûté quelque chose d'irréparable",
+      "modèle dans l'enfance — quelqu'un qui agissait ainsi et était admiré",
+      "conviction que le monde est fondamentalement injuste et que les règles protègent les forts",
+      "échec passé lié à une hésitation morale au mauvais moment",
+      "solitude de ceux qui doivent décider sans pouvoir partager le poids"
+    ],
+    "contextesFavorables": [
+      "guerre, crise ou situation d'exception",
+      "position de responsabilité isolée du regard extérieur",
+      "idéal ou cause dans lequel l'investissement émotionnel est total",
+      "contexte où les règles ordinaires semblent ne pas s'appliquer",
+      "urgence réelle qui comprime le temps de réflexion"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage en position de pouvoir ou de responsabilité solitaire",
+      "personnage dont l'idéal est plus grand que lui-même",
+      "personnage ayant payé le prix d'une hésitation passée",
+      "personnage convaincu d'être le seul à voir clairement",
+      "personnage dont la loyauté à une cause dépasse celle à des individus"
+    ],
+    "erreursDEcriture": [
+      "Ne pas montrer le coût intérieur — même le personnage le plus pragmatique porte ce qu'il a fait.",
+      "Rendre la fin clairement justifiée pour absoudre le personnage — le lecteur doit sentir l'ambiguïté.",
+      "Oublier les victimes des moyens — elles ont une réalité narrative, pas seulement morale.",
+      "Faire de la dérive une surprise — elle est presque toujours progressive et visible par petites étapes.",
+      "Ne pas distinguer le personnage qui transgresse une fois de celui qui en a fait une méthode — les deux arcs sont très différents."
+    ],
+    "notesEditoriales": [
+      "Ce conflit est au cœur de nombreux antihéros — ce qui le rend efficace quand il est bien dosé.",
+      "Sa puissance narrative vient du fait que le lecteur peut comprendre le personnage tout en voyant ce qu'il ne voit pas.",
+      "Distinguer la transgression unique (arc de culpabilité) de la normalisation (arc de corruption).",
+      "La question morale centrale — la fin justifie-t-elle vraiment les moyens — doit rester ouverte pour que le conflit garde sa force."
+    ]
+  },
+  {
+    "id": "secret-de-conscience",
+    "label": "Secret de conscience",
+    "alias": [
+      "secret de conscience",
+      "vérité tue",
+      "verite tue",
+      "silence coupable",
+      "omission grave",
+      "savoir et se taire",
+      "témoin silencieux",
+      "temoin silencieux",
+      "secret lourd",
+      "porter un secret"
+    ],
+    "famille": "conflits-moraux",
+    "sousCategorie": "verite-tue",
+    "definitionCourte": "Le personnage sait quelque chose d'important qu'il ne révèle pas — une vérité qui changerait tout pour les autres, mais qu'il tait par peur, par loyauté ou par conviction.",
+    "forcesEnPresence": [
+      "connaissance d'une vérité lourde contre obligation ou désir de la taire",
+      "loyauté envers celui qui lui a confié le secret contre loyauté envers ceux qui en ont besoin",
+      "protection à court terme contre conséquences à long terme",
+      "fardeau de savoir seul contre danger de partager",
+      "respect de la promesse contre respect de la vérité",
+      "peur des conséquences du silence contre peur des conséquences de la parole"
+    ],
+    "declencheursFrequents": [
+      "témoin d'un acte grave qu'il n'a pas dénoncé",
+      "dépositaire d'un secret de famille qui touche à l'identité de quelqu'un",
+      "connaissance d'une trahison qui détruirait quelqu'un si elle était sue",
+      "vérité qui remettrait en cause quelque chose de fondamental pour le groupe",
+      "question directe qui force à mentir ou à parler",
+      "situation où le silence laisse quelqu'un souffrir sans raison",
+      "personne innocente qui subit les conséquences d'un secret qu'il pourrait révéler"
+    ],
+    "signauxAvantCoureurs": [
+      "silences inhabituels lors de certains sujets",
+      "réactions légèrement décalées quand on aborde ce qui touche au secret",
+      "proximité excessive avec le détenteur du secret — ou au contraire, évitement total",
+      "besoin inhabituel de parler à quelqu'un sans pouvoir dire de quoi",
+      "tension physique lors de conversations qui approchent le sujet",
+      "questions de l'autre qui touchent trop près",
+      "tentatives maladroites d'orienter la conversation ailleurs"
+    ],
+    "silencesEtNonDits": [
+      "la question qu'il se pose la nuit : est-ce que mon silence fait de moi un complice ?",
+      "le désir contradictoire que quelqu'un d'autre découvre la vérité — pour qu'il n'ait pas à la dire",
+      "la culpabilité envers ceux qui vivent dans l'ignorance qu'il a maintenue",
+      "ce qu'il ressentirait si le secret était révélé contre sa volonté",
+      "la frontière floue entre protéger et trahir",
+      "le soulagement imaginé si tout pouvait enfin être dit"
+    ],
+    "penseesTypiques": [
+      "Ce n'est pas à moi de dire ça.",
+      "Ça ferait plus de mal que de bien.",
+      "J'ai promis. Je ne peux pas revenir sur ça.",
+      "Eux, ils ne savent pas. Moi, je sais. C'est ma croix.",
+      "Si ça sort, tout s'effondre.",
+      "Est-ce que me taire, c'est mentir ?",
+      "Jusqu'à quand est-ce que je peux tenir ça ?",
+      "Il y a quelqu'un qui souffre à cause de mon silence.",
+      "La vérité sortirait un jour de toute façon."
+    ],
+    "comportementsTypiques": [
+      "esquive les conversations qui approchent le sujet",
+      "devient inhabituellement attentionné envers ceux que le secret concerne",
+      "surveille les signes que la vérité pourrait sortir d'une autre source",
+      "maintient une distance avec certaines personnes pour éviter les questions",
+      "confie des fragments à des tiers de confiance sans jamais tout dire",
+      "cherche des formulations qui ne mentent pas tout en ne disant pas la vérité",
+      "s'investit dans d'autres activités pour ne pas penser",
+      "se montre plus irritable quand la conversation approche la zone dangereuse"
+    ],
+    "positionsDePouvoir": [
+      "celui qui sait a un pouvoir sur ceux qui ignorent — même s'il ne l'exerce pas",
+      "celui dont le secret est gardé est rendu dépendant, qu'il le sache ou non",
+      "la vérité, quand elle sort, redistribue tout le pouvoir",
+      "le personnage est prisonnier de ce qu'il sait — le secret le détient autant qu'il le détient"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Discrétion ordinaire", "description": "Il sait quelque chose qu'il garde pour lui. Ce n'est pas un poids particulier — juste une information qu'il n'a pas à partager." },
+      { "niveau": 2, "label": "Tension discrète", "description": "Le secret revient. Il cherche des occasions de le laisser transparaître sans le dire." },
+      { "niveau": 3, "label": "Charge croissante", "description": "Garder le secret demande un effort actif. Il filtre ses mots, ses réactions, sa présence." },
+      { "niveau": 4, "label": "Secret qui isole", "description": "Savoir ce qu'il sait l'empêche d'être vraiment présent dans ses relations. Il vit avec une distance intérieure permanente." },
+      { "niveau": 5, "label": "Secret insupportable", "description": "Il ne peut plus porter ça seul. La pression devient physique, les erreurs s'accumulent, quelque chose va craquer." }
+    ],
+    "variantes": [
+      {
+        "profil": "Secret professionnel",
+        "description": "Il sait quelque chose au titre de sa fonction — médecin, avocat, confesseur. La loi ou la déontologie lui interdit de parler. Sa conscience lui dit l'inverse."
+      },
+      {
+        "profil": "Secret de loyauté",
+        "description": "Il a promis de ne pas parler. Tenir sa parole ou dire la vérité — les deux lui semblent obligatoires et incompatibles."
+      },
+      {
+        "profil": "Secret de protection",
+        "description": "Si la vérité sort, quelqu'un souffre — peut-être quelqu'un d'innocent. Son silence est une forme de protection active qui a aussi un coût."
+      }
+    ],
+    "escaladeTypique": [
+      "acquisition du secret — témoin, confidence, découverte",
+      "première décision de se taire",
+      "répétition de la situation — devoir se taire encore",
+      "conséquences du silence qui deviennent visibles",
+      "moment critique — continuer à se taire ou parler avant qu'il soit trop tard"
+    ],
+    "voiesDeResolution": [
+      "révélation volontaire avant que les circonstances la forcent",
+      "mort ou disparition de celui dont le secret est gardé — qui libère le personnage",
+      "découverte du secret par un autre, qui retire la décision des mains du personnage",
+      "conséquence du silence trop grave pour être ignorée",
+      "permission donnée par celui dont le secret est gardé"
+    ],
+    "blessuresUnderlyantes": [
+      "expérience passée où une révélation a tout détruit",
+      "rôle de confident ou de gardien de secrets dans l'enfance — trop tôt, trop lourd",
+      "conviction que dire la vérité, c'est trahir",
+      "punition passée pour avoir dit quelque chose qu'on aurait dû taire",
+      "loyauté absolue apprise tôt envers une figure qui en a abusé"
+    ],
+    "contextesFavorables": [
+      "famille avec des secrets structurants non dits depuis des générations",
+      "profession où la confidentialité est une règle absolue",
+      "relation avec une personne dont la survie ou l'équilibre dépend de l'ignorance",
+      "contexte où la vérité sortirait au pire moment possible",
+      "personnage seul à savoir ce que tout le monde cherche à savoir"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage ayant un rôle de confident naturel",
+      "personnage dont la loyauté est un trait central",
+      "personnage en position professionnelle de confidentialité",
+      "personnage ayant grandi dans une famille à secrets",
+      "personnage qui pense que protéger les autres, c'est les épargner de la vérité"
+    ],
+    "erreursDEcriture": [
+      "Révéler le secret trop tard sans avoir construit la tension qu'il génère.",
+      "Ne pas montrer comment le secret change la relation de l'intérieur — le lecteur doit le sentir avant que ça éclate.",
+      "Confondre avec le simple mensonge — garder un secret n'est pas mentir, mais ça peut y ressembler de l'extérieur.",
+      "Oublier ce que le secret coûte au personnage qui le porte — la solitude de savoir est réelle.",
+      "Révéler le secret sans conséquences — sa libération doit changer quelque chose de réel."
+    ],
+    "notesEditoriales": [
+      "Le secret de conscience crée une tension asymétrique entre le lecteur (qui sait) et les personnages (qui ignorent) — levier narratif puissant.",
+      "Sa force est proportionnelle à l'importance de ce qui serait changé si le secret sortait.",
+      "Distinguer le secret qui protège vraiment de celui qui protège surtout celui qui se tait.",
+      "Le moment où le personnage décide de parler — ou est forcé de parler — est souvent l'un des plus forts de l'arc."
+    ]
+  }
+]

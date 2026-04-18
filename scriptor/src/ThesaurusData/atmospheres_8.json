@@ -1,0 +1,166 @@
+[
+  {
+    "id": "quai-de-gare-nuit",
+    "label": "Quai de gare la nuit",
+    "type": "lieu-public",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "lumière jaune des lampadaires sur le béton gris",
+      "rails qui disparaissent dans l'obscurité",
+      "annonce sonore déformée, presque incompréhensible",
+      "bancs métalliques froids aux bords arrondis",
+      "poignées de valises qui raclent le sol",
+      "odeur de moteur diesel et de béton mouillé",
+      "quelques silhouettes isolées, chacune dans sa bulle",
+      "faisceau des phares qui apparaît au loin avant le bruit"
+    ],
+    "emotionsTypiques": [
+      "solitude dans la foule",
+      "attente tendue",
+      "sentiment de passage et d'arrachement",
+      "liberté mêlée de mélancolie"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui part",
+        "description": "Le quai est un lieu de rupture. Il regarde le faisceau approcher avec un mélange d'excitation et de chagrin. Le train va emporter quelque chose qu'il ne retrouvera peut-être pas."
+      },
+      {
+        "profil": "Personnage qui attend",
+        "description": "Chaque train qui n'est pas le bon rallonge l'attente. Le quai devient oppressant — il n'est pas chez lui ici. Il appartient encore à un autre lieu qui n'est pas encore là."
+      },
+      {
+        "profil": "Employé ou habituel des lieux",
+        "description": "Il ne voit plus le lieu — il voit les flux, les retards, les visages qui passent. Le quai est fonctionnel, presque invisible. Sa neutralité professionnelle contraste avec les émotions autour de lui."
+      }
+    ],
+    "notesEditoriales": [
+      "Le quai de nuit condense la thématique du départ mieux que n'importe quel autre lieu.",
+      "Son efficacité tient aux contrastes : chaleur humaine contre froid minéral, lumière faible contre obscurité totale.",
+      "À utiliser pour les adieux, les départs involontaires, les fuites ou les retours impossibles."
+    ]
+  },
+  {
+    "id": "cuisine-de-restaurant",
+    "label": "Cuisine de restaurant en service",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "chaleur dense et humide de la vapeur",
+      "bruit des casseroles et des couteaux sur les planches",
+      "appels brefs et codés entre cuisiniers",
+      "odeur de beurre chaud, de fond de veau et d'herbes",
+      "lumière froide des néons sur les plans de travail en inox",
+      "sol glissant de projections et d'eau",
+      "tickets de commande qui s'accumulent sur le fil",
+      "passages rapides entre les postes, sans jamais se toucher"
+    ],
+    "emotionsTypiques": [
+      "tension concentrée",
+      "adrénaline du service",
+      "fierté du travail accompli",
+      "solidarité muette et efficace"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Chef de cuisine",
+        "description": "Il voit tout simultanément — les retards, les erreurs, les goulots d'étranglement. La cuisine est une partition dont il dirige l'exécution. Le stress est réel mais structurant."
+      },
+      {
+        "profil": "Commis en première semaine",
+        "description": "Le bruit est assourdissant, les codes incompréhensibles, les gestes trop rapides. Il fait les petites tâches en essayant de ne gêner personne et de ne rien brûler."
+      },
+      {
+        "profil": "Personnage étranger à ce monde",
+        "description": "La cuisine lui semble un chaos organisé incompréhensible — efficace mais intimidant. Il y entre à contrecœur, conscient de déranger un ordre qu'il ne maîtrise pas."
+      }
+    ],
+    "notesEditoriales": [
+      "La cuisine en service est un microcosme de hiérarchie, de pression et de coopération — riche pour les récits de milieu professionnel.",
+      "Son intérêt tient à l'intensité sensorielle : tout parle au même moment.",
+      "À utiliser pour les scènes de révélation ou de confrontation en arrière-plan de l'urgence."
+    ]
+  },
+  {
+    "id": "grenier-encombre",
+    "label": "Grenier encombré",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "lumière tamisée d'une ampoule nue ou d'un vasistas poussiéreux",
+      "odeur de vieux bois, de naphtaline et de papier jauni",
+      "cartons empilés sans ordre apparent",
+      "meubles recouverts de housses grises",
+      "objets anciens dont on a oublié l'usage",
+      "silence épais, séparé du reste de la maison",
+      "craquements du parquet sous le poids",
+      "filets de poussière dans les rais de lumière"
+    ],
+    "emotionsTypiques": [
+      "mélancolie des choses oubliées",
+      "curiosité archéologique",
+      "sentiment du temps suspendu",
+      "malaise léger de ce qui est caché"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Enfant",
+        "description": "Le grenier est un territoire d'exploration et de mystère. Chaque objet est une histoire possible. La poussière et l'obscurité sont des obstacles excitants, pas repoussants."
+      },
+      {
+        "profil": "Adulte qui hérite d'une maison",
+        "description": "Chaque carton est une décision. Garder, jeter, donner — et l'obligation de décider ce qui survit à quelqu'un. La nostalgie et la culpabilité s'y mêlent."
+      },
+      {
+        "profil": "Personnage qui cherche quelque chose",
+        "description": "Le grenier est un obstacle — trop d'objets, trop de désordre. L'urgence contraste avec la lenteur imposée par le lieu. Ce qu'il cherche pourrait n'y être plus."
+      }
+    ],
+    "notesEditoriales": [
+      "Le grenier est le lieu du passé par excellence — à utiliser pour les découvertes, les secrets, les héritages.",
+      "Son efficacité tient à l'accumulation : trop d'objets pour qu'on puisse tous les voir.",
+      "Il ralentit naturellement le rythme narratif — à exploiter pour les scènes de réflexion ou de révélation."
+    ]
+  },
+  {
+    "id": "bord-de-mer-hiver",
+    "label": "Bord de mer en hiver",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "sonore-tactile",
+    "elements": [
+      "vent froid qui pousse les vêtements contre le corps",
+      "bruit constant des vagues sans spectateurs",
+      "plage vide de ses parasols et des estivants",
+      "sable mouillé qui colle aux semelles",
+      "odeur d'iode et de sel plus forte que l'été",
+      "lumière blanche et rasante qui efface les ombres",
+      "volets fermés des maisons de vacances",
+      "horizon gris qui se confond avec le ciel"
+    ],
+    "emotionsTypiques": [
+      "solitude lucide",
+      "sentiment de vérité hors saison",
+      "mélancolie libre",
+      "clarté intérieure difficile à trouver ailleurs"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage en crise",
+        "description": "Le vide du lieu dit ce qu'il ressent. Rien ne l'oblige à être autre chose que ce qu'il est. Il peut rester là longtemps sans que rien l'en chasse."
+      },
+      {
+        "profil": "Habitant local",
+        "description": "Ce bord de mer est le sien — enfin. Le vide de l'hiver lui rend le lieu. Il ne le partage plus avec les étrangers et il peut l'habiter normalement."
+      },
+      {
+        "profil": "Personnage nostalgique",
+        "description": "Le lieu désert lui renvoie les images de ce qu'il était en été — les gens, les rires, ce qui est parti. La beauté de l'hiver est exactement aussi douloureuse qu'elle est belle."
+      }
+    ],
+    "notesEditoriales": [
+      "Le bord de mer en hiver est l'un des lieux les plus chargés émotionnellement parce qu'il inverse l'image attendue.",
+      "La solitude y est choisie ou subie — selon le personnage, le même lieu est libérateur ou oppressant.",
+      "Efficace pour les scènes de décision, de deuil, de retour ou de renoncement."
+    ]
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "alliance-tordue",
+    "label": "Alliance tordue",
+    "definitionCourte": "Alliance dont l'anneau a été tordu ou abîmé, portant la trace physique d'un choc, d'une tension ou d'une violence. L'objet dit ce que les mots ne disent pas.",
+    "chargeSymbolique": "haute",
+    "categorie": "bijou",
+    "associationsNarratives": [
+      "rupture conjugale après des années de mariage",
+      "violence domestique ancienne ou récente",
+      "accident grave où l'anneau a été écrasé avec la main",
+      "mariage subi ou forcé dont le personnage ne s'est jamais libéré",
+      "deuil d'un conjoint mort dans des circonstances violentes",
+      "personnage qui a failli retirer l'alliance et ne l'a pas fait",
+      "trahison conjugale découverte et jamais avouée",
+      "personnage qui porte encore l'alliance d'un ex par incapacité à clore"
+    ],
+    "emotionsAssociees": [
+      "douleur ancienne mal cicatrisée",
+      "ambivalence entre attachement et rejet",
+      "honte ou humiliation dissimulée",
+      "deuil suspendu, ni terminé ni commencé"
+    ],
+    "usagesTypiques": [
+      "objet trouvé par un personnage tiers qui ouvre une question sans la résoudre",
+      "détail visible sur la main d'un personnage qui en dit plus que ses mots",
+      "symbole d'un lien abîmé mais pas rompu — ni vraiment vivant ni vraiment mort",
+      "déclencheur d'un souvenir ou d'un aveu lors d'une scène d'intimité",
+      "objet que le personnage cache, tourne entre ses doigts, ou ne parvient pas à jeter",
+      "révélateur silencieux d'une vie intérieure que le personnage ne verbalise pas"
+    ],
+    "variantesNarratives": [
+      "L'alliance tordue portée quand même : le personnage assume la trace visible, signe d'une fierté blessée ou d'une résistance.",
+      "L'alliance rangée dans un tiroir mais pas jetée : le lien est suspendu, ni assumé ni refusé.",
+      "L'alliance d'un autre : trouvée, héritée, ou volée — elle appartient à une histoire que le personnage ne connaît pas encore."
+    ],
+    "notesEditoriales": [
+      "L'objet fonctionne mieux quand il n'est pas expliqué immédiatement — laisser le lecteur faire le travail.",
+      "Sa force est proportionnelle à sa discrétion dans la scène : un regard posé dessus vaut plus qu'un paragraphe de description.",
+      "Éviter d'en faire un symbole trop explicite : la torsion doit rester un détail, pas une métaphore annoncée.",
+      "Peut servir à montrer ce qu'un personnage n'arrive pas à dire sur lui-même — plus efficace que le dialogue direct."
+    ]
+  },
+  {
+    "id": "lettre-non-envoyee",
+    "label": "Lettre non envoyée",
+    "definitionCourte": "Lettre écrite mais jamais postée, gardée secrètement depuis des jours, des années, ou toute une vie. Elle contient ce qui n'a jamais pu être dit.",
+    "chargeSymbolique": "haute",
+    "categorie": "document",
+    "associationsNarratives": [
+      "aveu d'amour jamais transmis à la bonne personne au bon moment",
+      "lettre d'adieu conservée comme trace d'une crise surmontée",
+      "confession d'une faute grave que le personnage ne peut pas assumer en face à face",
+      "lettre à un parent mort avant que la réconciliation soit possible",
+      "rupture que le personnage a écrite mais pas osé envoyer",
+      "demande de pardon qui n'a jamais trouvé son chemin",
+      "lettre à un enfant que le personnage a abandonné ou perdu",
+      "menace ou accusation que le personnage a gardée par peur des conséquences"
+    ],
+    "emotionsAssociees": [
+      "regret profond et durable",
+      "lâcheté retournée en honte silencieuse",
+      "amour inachevé, suspendu entre deux temps",
+      "soulagement d'avoir écrit mêlé à la culpabilité de n'avoir pas envoyé"
+    ],
+    "usagesTypiques": [
+      "découverte par un personnage tiers qui la lit sans autorisation — déclencheur narratif puissant",
+      "révélation progressive de son contenu au fil du récit, jamais livrée d'un coup",
+      "objet que le personnage relit régulièrement comme un rituel secret",
+      "lettre transmise post-mortem, trop tard ou au mauvais moment",
+      "symbole de tout ce qu'un personnage porte sans pouvoir le déposer",
+      "déclencheur d'une confrontation entre deux personnages qui ignoraient l'existence de l'autre"
+    ],
+    "variantesNarratives": [
+      "La lettre dont on ne connaît jamais le contenu exact : ce qu'on imagine est plus puissant que ce qui est écrit.",
+      "La lettre envoyée trop tard, qui arrive après la mort du destinataire ou la fin de la relation.",
+      "La lettre réponse à une lettre non envoyée : deux silences qui se répondent sans jamais se toucher."
+    ],
+    "notesEditoriales": [
+      "Ne pas reproduire intégralement le texte de la lettre dans le récit — la résumer, en citer deux lignes, ou ne rien montrer du tout.",
+      "La lettre non envoyée dit autant sur le destinataire que sur l'expéditeur : pourquoi cette personne-là et pas une autre ?",
+      "Cliché si utilisée uniquement comme révélation d'un secret : elle est plus forte comme révélateur d'un état intérieur.",
+      "Attention à l'ellipse temporelle : une lettre gardée vingt ans raconte une histoire différente d'une lettre gardée trois jours."
+    ]
+  },
+  {
+    "id": "photo-dechirée",
+    "label": "Photo déchirée",
+    "definitionCourte": "Photographie dont une partie a été arrachée, supprimant un visage, un corps ou un moment. Ce qui manque est parfois plus présent que ce qui reste.",
+    "chargeSymbolique": "haute",
+    "categorie": "document",
+    "associationsNarratives": [
+      "rupture violente où l'un des deux a effacé l'autre de sa mémoire",
+      "personnage dont l'identité passée a été effacée ou cachée",
+      "secret de famille autour d'un membre dont on ne parle plus",
+      "jalousie ou trahison qui a conduit à la destruction de traces",
+      "photo reconstituée, recollée, comme tentative de réconciliation avec le passé",
+      "enquête sur une identité inconnue — qui était sur cette photo ?",
+      "deuil d'une relation au sens large, pas seulement amoureuse"
+    ],
+    "emotionsAssociees": [
+      "colère ancienne figée dans un geste de destruction",
+      "nostalgie d'une époque ou d'une personne dont il reste peu",
+      "mystère autour de ce qui a été effacé volontairement",
+      "culpabilité du personnage qui a déchiré et garde quand même les morceaux"
+    ],
+    "usagesTypiques": [
+      "déclencheur d'une enquête sur une identité ou une relation cachée",
+      "preuve d'une violence passée sans qu'aucune violence ne soit décrite",
+      "objet transmis entre générations qui pose une question sans réponse",
+      "révélateur d'une obsession — le personnage garde ce qu'il a voulu détruire",
+      "symbole d'un deuil impossible : on n'efface pas ce qu'on déchire",
+      "élément de décor dans une chambre, un portefeuille, une boîte — sa position raconte quelque chose"
+    ],
+    "variantesNarratives": [
+      "La photo déchirée recollée avec soin : le personnage a regretté son geste, mais la cicatrice reste visible.",
+      "La photo dont il ne manque qu'un visage : on connaît le contexte mais pas l'identité effacée.",
+      "La photo que le personnage porte sur lui malgré la déchirure : il ne peut pas s'en séparer même mutilée."
+    ],
+    "notesEditoriales": [
+      "La déchirure est une action passée figée dans l'objet : elle dit une intensité émotionnelle sans avoir besoin de la raconter.",
+      "Éviter de trop expliquer qui a déchiré et pourquoi — le mystère est une force narrative.",
+      "Peut être utilisée en miroir : deux personnages qui possèdent chacun un morceau de la même photo.",
+      "Cliché si la déchirure est trop immédiatement métaphorique — à ancrer dans un détail concret pour lui redonner de la texture."
+    ]
+  },
+  {
+    "id": "cle-inconnue",
+    "label": "Clé sans serrure connue",
+    "definitionCourte": "Clé dont on ignore à quelle porte, à quelle boîte ou à quel passé elle appartient. Elle ouvre une question plutôt qu'un espace.",
+    "chargeSymbolique": "haute",
+    "categorie": "instrument",
+    "associationsNarratives": [
+      "héritage d'un proche décédé dont les secrets n'ont pas été percés",
+      "personnage qui a perdu la mémoire et retrouve un objet sans contexte",
+      "accès à un lieu interdit, une pièce close, une vérité enfouie",
+      "enquête sur une vie passée dont on ne connaît pas tous les chapitres",
+      "objet transmis délibérément sans explication, comme un legs symbolique",
+      "clé d'un coffre, d'un journal, d'une cave — dont le propriétaire est mort avec le secret",
+      "trouvaille dans un vêtement, une poche, un sac — sans aucun contexte"
+    ],
+    "emotionsAssociees": [
+      "curiosité mêlée d'inquiétude",
+      "sentiment d'être à la lisière d'un secret",
+      "frustration de tenir quelque chose sans pouvoir l'utiliser",
+      "attirance pour l'inconnu combinée à la peur de ce qu'on pourrait trouver"
+    ],
+    "usagesTypiques": [
+      "macguffin narratif qui structure une enquête ou une quête",
+      "objet de transmission entre deux générations — le passé confie quelque chose au présent",
+      "révélateur de la psychologie du personnage selon qu'il cherche la serrure ou range la clé",
+      "déclencheur d'une exploration physique — maison, grenier, coffre — et intérieure",
+      "symbole de ce qui reste fermé en soi : ce qu'on n'a pas encore eu le courage d'ouvrir",
+      "objet qui attire les projections : chaque personnage imagine une serrure différente"
+    ],
+    "variantesNarratives": [
+      "La clé dont la serrure est trouvée mais ouvre sur quelque chose d'inattendu — pas ce que le personnage cherchait.",
+      "La clé délibérément conservée sans chercher la serrure : certains personnages préfèrent ne pas savoir.",
+      "Plusieurs clés identiques distribuées à des personnages différents — qui a accès à quoi ?"
+    ],
+    "notesEditoriales": [
+      "La clé sans serrure connue fonctionne comme une promesse narrative : elle crée une attente. Ne pas la résoudre trop vite.",
+      "Sa puissance vient de ce qu'elle rend l'abstrait concret : un secret, ça se tient, ça a du poids, ça prend de la place dans une poche.",
+      "Éviter l'usage purement fonctionnel — la clé doit porter une charge émotionnelle au-delà de son rôle de déclencheur de plot.",
+      "Peut ne jamais trouver sa serrure : certains secrets doivent rester ouverts pour que le récit garde de l'air."
+    ]
+  },
+  {
+    "id": "journal-intime-vide",
+    "label": "Journal intime vierge",
+    "definitionCourte": "Journal acheté ou offert, jamais écrit, dont les pages blanches disent quelque chose sur celui qui ne peut pas — ou n'ose pas — se raconter.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "document",
+    "associationsNarratives": [
+      "cadeau offert avec une intention bienveillante que le destinataire n'a pas su honorer",
+      "personnage qui voulait changer, se mettre à écrire, et n'a jamais commencé",
+      "objet d'une promesse à soi-même non tenue",
+      "personnage qui protège sa vie intérieure en refusant de la mettre en mots",
+      "héritage d'un proche qui n'a jamais écrit non plus — silence transmis",
+      "journal commencé puis abandonné dès la première page : la date seule, et rien"
+    ],
+    "emotionsAssociees": [
+      "procrastination mêlée de honte légère",
+      "désir de changement non accompli",
+      "sentiment d'indignité — comme si sa propre vie ne méritait pas d'être écrite",
+      "nostalgie d'une version de soi-même qu'on n'a pas su devenir"
+    ],
+    "usagesTypiques": [
+      "révélateur d'un blocage intérieur profond sans qu'aucune explication soit nécessaire",
+      "contraste avec un autre personnage dont le journal est plein, usé, débordant",
+      "déclencheur : le personnage commence enfin à écrire — première entrée comme acte de transformation",
+      "objet qu'on ouvre sans jamais écrire : le personnage lit le vide, tourne les pages",
+      "cadeau mal reçu qui dit quelque chose sur la relation entre celui qui offre et celui qui reçoit",
+      "symbole d'une vie intérieure qui cherche une forme et ne la trouve pas"
+    ],
+    "variantesNarratives": [
+      "Le journal vierge avec une seule ligne : une date, un mot, et le silence qui suit.",
+      "Le journal offert à quelqu'un qui n'écrit pas comme invitation implicite à changer — acceptée ou refusée.",
+      "Le journal vierge d'un mort : on ne saura jamais ce qu'il aurait voulu dire."
+    ],
+    "notesEditoriales": [
+      "Le vide est actif dans cet objet : les pages blanches sont une présence, pas une absence.",
+      "Éviter de le transformer en symbole trop explicite d'une vie non vécue — il peut être plus ambigu que ça.",
+      "Puissant en contraste : placé près d'un journal plein, il dit tout sur deux façons d'habiter sa propre existence.",
+      "Peut servir de point de départ narratif : la première entrée que le personnage finit par écrire marque un avant et un après."
+    ]
+  },
+  {
+    "id": "montre-arretee",
+    "label": "Montre arrêtée",
+    "definitionCourte": "Montre dont les aiguilles sont immobiles, figées à une heure précise. Elle ne mesure plus le temps — elle conserve un instant.",
+    "chargeSymbolique": "haute",
+    "categorie": "bijou",
+    "associationsNarratives": [
+      "mort d'un proche dont on garde l'objet sans le remettre en marche",
+      "traumatisme d'un événement survenu à une heure précise — accident, annonce, séparation",
+      "personnage qui refuse inconsciemment d'avancer, figé dans un moment passé",
+      "objet hérité d'une génération à l'autre, jamais réparé par respect ou superstition",
+      "montre arrêtée volontairement comme acte rituel de deuil",
+      "enquête sur un mort : l'heure indiquée correspond à quelque chose",
+      "symbole d'une vie suspendue, ni vraiment dans le passé ni dans le présent"
+    ],
+    "emotionsAssociees": [
+      "deuil non résolu, figé dans la répétition",
+      "nostalgie d'un moment précis qu'on ne peut pas quitter",
+      "résistance douce mais tenace au changement",
+      "mélancolie d'un temps qui s'est arrêté pour soi pendant que le monde continuait"
+    ],
+    "usagesTypiques": [
+      "indice dans une enquête — l'heure arrêtée correspond au moment d'un événement clé",
+      "révélateur du rapport d'un personnage au temps et au deuil",
+      "objet transmis comme un talisman, chargé d'une signification que le destinataire découvre progressivement",
+      "moment narratif : le personnage finit par remettre la montre à l'heure — acte de guérison ou de trahison du souvenir",
+      "élément de décor sur un manteau de cheminée, un poignet, une table de nuit — sa position dit quelque chose",
+      "contraste entre un personnage qui porte le temps mort et un autre qui vit dans l'instant"
+    ],
+    "variantesNarratives": [
+      "La montre remontée mais pas réglée à l'heure : elle tourne à nouveau mais à partir d'un mauvais point de départ.",
+      "La montre dont personne ne connaît plus l'heure figée exacte — le sens s'est perdu mais l'objet reste.",
+      "Deux montres arrêtées à la même heure chez deux personnages qui ne se connaissent pas encore."
+    ],
+    "notesEditoriales": [
+      "L'heure arrêtée est une information narrative : choisissez-la avec soin si elle doit signifier quelque chose.",
+      "Éviter le cliché de Miss Havisham — si la montre arrêtée renvoie à un traumatisme, le traiter avec nuance.",
+      "La montre peut fonctionner en décor sans jamais être expliquée : le lecteur construit lui-même le sens.",
+      "Puissante quand le personnage ne remarque pas lui-même que la montre est arrêtée — c'est un autre qui le voit."
+    ]
+  },
+  {
+    "id": "cicatrice-visible",
+    "label": "Cicatrice visible",
+    "definitionCourte": "Marque permanente sur le corps d'un personnage, trace d'une blessure passée que la peau a refermée mais pas effacée. Elle est à la fois archive et présence.",
+    "chargeSymbolique": "haute",
+    "categorie": "marque-corporelle",
+    "associationsNarratives": [
+      "accident ou violence physique dont le personnage porte la trace quotidienne",
+      "opération chirurgicale liée à une maladie grave ou à un événement fondateur",
+      "violence domestique passée que le personnage cache ou assume selon les contextes",
+      "blessure de guerre, de combat, ou d'une vie dans des environnements dangereux",
+      "automutilation ancienne, cicatrisée mais visible pour ceux qui regardent",
+      "marque d'un rite, d'une appartenance, d'un passé communautaire",
+      "accident d'enfance porteur d'un souvenir affectif fort"
+    ],
+    "emotionsAssociees": [
+      "fierté discrète ou honte selon l'histoire et le contexte social",
+      "vulnérabilité face au regard des autres sur son propre corps",
+      "rapport ambivalent au passé : la cicatrice est une guérison autant qu'une trace",
+      "intimité : montrer la cicatrice est un acte de confiance"
+    ],
+    "usagesTypiques": [
+      "révélateur d'un passé sans qu'une scène de flashback soit nécessaire",
+      "déclencheur d'une question d'un autre personnage — et du choix du personnage de répondre ou non",
+      "élément d'intimité dans une scène : on voit la cicatrice dans un moment de vulnérabilité",
+      "indice dans une enquête — la cicatrice correspond à une blessure répertoriée quelque part",
+      "signe de reconnaissance entre deux personnages qui ont traversé la même épreuve",
+      "symbole du rapport du personnage à sa propre histoire : assume-t-il sa cicatrice ou la dissimule-t-il ?"
+    ],
+    "variantesNarratives": [
+      "La cicatrice assumée, visible, jamais couverte — le personnage a intégré cette partie de son histoire.",
+      "La cicatrice cachée systématiquement — manches longues, maquillage, postures — signe d'une honte ou d'une prudence.",
+      "La cicatrice que le personnage ne voit plus lui-même mais que les autres remarquent."
+    ],
+    "notesEditoriales": [
+      "Ne pas utiliser la cicatrice uniquement comme marqueur de danger ou de combativité — elle peut raconter des histoires bien plus diverses.",
+      "Le moment où un personnage montre sa cicatrice à quelqu'un est toujours un moment d'intimité — à traiter avec soin.",
+      "Éviter la cicatrice purement décorative : elle doit avoir une histoire, même si cette histoire n'est pas racontée explicitement.",
+      "La réaction des autres personnages face à la cicatrice en dit autant sur eux que sur le personnage qui la porte."
+    ]
+  },
+  {
+    "id": "objet-disparu",
+    "label": "Objet d'un disparu",
+    "definitionCourte": "Objet ordinaire appartenant à quelqu'un qui n'est plus là — mort, disparu, parti sans laisser d'adresse. Sa banalité même le rend insupportable à garder et impossible à jeter.",
+    "chargeSymbolique": "haute",
+    "categorie": "objet-memorial",
+    "associationsNarratives": [
+      "deuil récent ou ancien d'un proche dont on n'a pas pu ou voulu vider les affaires",
+      "disparition inexpliquée d'un être aimé — pas de corps, pas de certitude",
+      "rupture avec quelqu'un dont il reste des objets dans l'espace de vie",
+      "enfant perdu — jouet, vêtement, dessin — gardé comme relique",
+      "objet retrouvé longtemps après dans un grenier ou un carton",
+      "legs d'un inconnu : héritage d'une personne qu'on ne connaissait pas bien",
+      "personnage qui donne les affaires du disparu et ne peut pas se séparer d'un seul objet"
+    ],
+    "emotionsAssociees": [
+      "deuil à la fois doux et lacérant",
+      "culpabilité de continuer à vivre avec les objets de quelqu'un qui n'est plus",
+      "illusion de présence que l'objet entretient",
+      "ambivalence entre garder pour se souvenir et se débarrasser pour avancer"
+    ],
+    "usagesTypiques": [
+      "ancrer la présence d'un personnage absent sans qu'il apparaisse jamais dans le récit",
+      "déclencheur d'un souvenir précis lié à l'odeur, à la texture, au poids de l'objet",
+      "révélateur du stade de deuil du personnage : garde-t-il tout ? A-t-il tout donné sauf une chose ?",
+      "objet transmis à un personnage qui ne sait pas quoi en faire — charge émotionnelle transférée",
+      "élément de décor dans un intérieur qui dit la présence fantôme de quelqu'un",
+      "déclencheur d'une enquête : l'objet dit quelque chose sur la vie du disparu qu'on ne savait pas"
+    ],
+    "variantesNarratives": [
+      "L'objet le plus banal — une tasse, une vieille clé USB — qui devient insupportablement chargé parce qu'il était quotidien.",
+      "L'objet que le personnage utilise encore, comme si le disparu allait revenir le réclamer.",
+      "L'objet donné à quelqu'un d'autre, qui réapparaît plus tard entre les mains d'un inconnu."
+    ],
+    "notesEditoriales": [
+      "Plus l'objet est banal, plus il est puissant : éviter les objets trop symboliques d'emblée.",
+      "La charge vient de l'histoire entre le personnage et le disparu, pas de l'objet lui-même — le construire par touches.",
+      "Attention à ne pas sentimentaliser : l'objet peut aussi être encombrant, agaçant, source de culpabilité complexe.",
+      "Peut fonctionner en miroir : deux personnages en deuil du même disparu qui gardent chacun un objet différent."
+    ]
+  },
+  {
+    "id": "carnet-numeros",
+    "label": "Carnet plein de numéros",
+    "definitionCourte": "Carnet ou agenda dont les pages sont couvertes de numéros de téléphone, de noms, d'adresses — une cartographie d'une vie sociale souvent déroutante pour celui qui le découvre.",
+    "chargeSymbolique": "moyenne",
+    "categorie": "document",
+    "associationsNarratives": [
+      "héritage d'un proche dont on découvre une vie sociale ou professionnelle insoupçonnée",
+      "carnet d'un personnage menant une double vie — les numéros disent ce que les mots cachent",
+      "enquête sur une disparition ou un meurtre — chaque numéro est une piste",
+      "vieux carnet d'adresses d'un personnage âgé, plein de noms de gens morts",
+      "carnet d'un fixeur, d'un intermédiaire, d'un informateur — relations cultivées dans l'ombre",
+      "personnage qui a besoin d'appeler quelqu'un en urgence et ne trouve que des inconnus"
+    ],
+    "emotionsAssociees": [
+      "sentiment d'être étranger à une vie qu'on croyait connaître",
+      "curiosité mêlée d'une légère violation de l'intimité",
+      "vertige devant l'étendue des connexions humaines d'une seule vie",
+      "nostalgie si les noms dans le carnet sont ceux de personnes disparues"
+    ],
+    "usagesTypiques": [
+      "outil narratif d'enquête : chaque numéro est un personnage potentiel à rencontrer",
+      "révélateur d'une identité cachée ou d'une vie parallèle",
+      "déclencheur de rencontres inattendues — appeler un numéro au hasard",
+      "objet qui donne une échelle à une vie : ce carnet dit combien de gens ce personnage a connus",
+      "élément de tension : quelqu'un cherche ce carnet, quelqu'un voudrait qu'il disparaisse",
+      "objet anachronique dans un monde de smartphones — dit quelque chose sur son propriétaire"
+    ],
+    "variantesNarratives": [
+      "Le carnet dont certains numéros sont barrés — qui sont ces gens dont on a voulu effacer la trace ?",
+      "Le carnet dont tous les numéros ont disparu : les pages arrachées, les noms effacés — quelqu'un est passé avant.",
+      "Le carnet transmis délibérément avec l'instruction implicite ou explicite d'appeler certaines personnes."
+    ],
+    "notesEditoriales": [
+      "L'intérêt du carnet est dans les détails : noms avec ou sans prénom, numéros avec ou sans indicatif, annotations en marge.",
+      "Peut servir de structure narrative : le personnage appelle les numéros un par un, et chaque appel ouvre un nouveau chapitre.",
+      "Attention à ne pas en faire un simple outil de plot — le carnet doit aussi dire quelque chose sur son propriétaire.",
+      "L'objet physique lui-même compte : carnet usé, couverture abîmée, écriture qui change selon les années."
+    ]
+  },
+  {
+    "id": "boite-fermee-cle",
+    "label": "Boîte fermée à clé",
+    "definitionCourte": "Boîte, cassette ou coffret dont on ne connaît pas le contenu, fermée par une serrure dont la clé est absente, perdue ou délibérément cachée. Elle matérialise un secret.",
+    "chargeSymbolique": "haute",
+    "categorie": "contenant",
+    "associationsNarratives": [
+      "héritage d'un proche qui gardait des secrets et ne les a jamais livrés de son vivant",
+      "preuve d'un crime ou d'une faute que quelqu'un a voulu protéger ou cacher",
+      "objet transmis d'une génération à l'autre sans que personne n'ait jamais eu la clé",
+      "coffret d'une personne morte dont le contenu conditionne une succession, un aveu, une révélation",
+      "objet trouvé dans un lieu abandonné — cave, grenier, maison vide",
+      "trésor personnel d'un enfant, gardé avec une gravité qui intrigue les adultes",
+      "boîte que le propriétaire ouvrait en secret et dont personne ne connaît les rituels"
+    ],
+    "emotionsAssociees": [
+      "tension entre le désir de savoir et le respect de l'intimité d'autrui",
+      "fascination pour ce qui est interdit ou inaccessible",
+      "angoisse douce de ce qu'on pourrait trouver à l'intérieur",
+      "sentiment de tenir quelque chose d'important sans pouvoir l'atteindre"
+    ],
+    "usagesTypiques": [
+      "macguffin narratif qui structure une quête physique et psychologique",
+      "symbole de ce qu'on garde fermé en soi — la boîte comme métaphore de l'inconscient ou du refoulé",
+      "révélateur de la psychologie du personnage : force-t-il la serrure ou attend-il d'avoir la clé ?",
+      "déclencheur d'une tension entre deux personnages qui veulent chacun l'ouvrir pour des raisons différentes",
+      "objet de scène finale : ce qu'on trouve à l'intérieur résout ou complexifie tout ce qui précède",
+      "contenu révélé mais décevant — la boîte était vide ou renfermait quelque chose d'insignifiant"
+    ],
+    "variantesNarratives": [
+      "La boîte ouverte de force : la violation dit quelque chose sur le personnage qui ne peut pas attendre.",
+      "La boîte dont on trouve la clé mais qu'on n'ouvre pas — certains préfèrent garder le mystère intact.",
+      "La boîte vide : ce qu'on imaginait à l'intérieur était plus précieux que ce qui s'y trouvait vraiment."
+    ],
+    "notesEditoriales": [
+      "Le contenu de la boîte ne devrait jamais être décevant par accident — si on choisit de décevoir, c'est un acte narratif délibéré.",
+      "Éviter de l'utiliser uniquement comme révélateur d'un secret : la boîte dit aussi quelque chose sur celui qui la ferme.",
+      "Sa force vient de la tension entre l'extérieur visible et l'intérieur inconnu — ne pas la résoudre trop vite.",
+      "Peut fonctionner en écho avec la clé sans serrure connue : les deux objets qui cherchent à se rejoindre dans le récit."
+    ]
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "rupture",
+    "label": "Rupture amoureuse",
+    "alias": ["rupture", "séparation", "separation", "rupture amoureuse", "fin d'une relation", "quitter quelqu'un", "être quitté", "se séparer", "fin d'histoire", "sortir d'une relation"],
+    "famille": "conflits-amoureux",
+    "definitionCourte": "Fin d'une relation amoureuse — qu'elle soit brutale ou progressive, choisie ou subie — qui oblige chaque personnage à se reconstruire hors d'une identité commune.",
+    "natureDuConflit": "Perte d'une identité partagée autant que d'une personne — le personnage doit réapprendre qui il est sans l'autre.",
+    "forcesEnPresence": [
+      "amour résiduel qui complique et ralentit la séparation",
+      "blessure de celui qui est quitté sans l'avoir choisi",
+      "culpabilité de celui qui quitte malgré l'amour encore présent",
+      "histoire commune impossible à effacer — lieux, gens, habitudes",
+      "vie pratique entremêlée à démêler en même temps que le deuil",
+      "peur de l'un ou des deux de se retrouver seul",
+      "espoir résiduel que ça pourrait encore changer"
+    ],
+    "declencheursFrequents": [
+      "trahison ou infidélité découverte",
+      "incompatibilité devenue insurmontable après tentatives",
+      "amour qui s'est progressivement éteint sans événement précis",
+      "vie parallèle rendue impossible à tenir",
+      "ultimatum posé et non respecté",
+      "réalisation que la relation ne peut pas donner ce dont on a besoin",
+      "rencontre d'une autre personne qui révèle le manque",
+      "crise de vie qui révèle l'écart entre les deux"
+    ],
+    "signauxAvantCoureurs": [
+      "distance affective qui s'installe sans explication donnée",
+      "disputes plus fréquentes sur des sujets de fond",
+      "intimité physique qui se raréfie progressivement",
+      "projets communs qui ne se font plus ou s'évitent",
+      "l'autre commence à être décrit aux proches différemment",
+      "l'un cesse de défendre l'autre dans les conversations extérieures",
+      "moments de silence entre eux qui ne sont plus confortables",
+      "futur imaginé à deux qui prend de moins en moins de place"
+    ],
+    "silencesEtNonDits": [
+      "la vraie raison n'est pas toujours celle donnée",
+      "'je t'aime encore mais je ne peux plus' reste souvent dans la gorge",
+      "ce qui aurait pu sauver la relation n'est dit qu'après — trop tard",
+      "la peur de rester seul n'est jamais avouée par celui qui part",
+      "la décision est souvent prise longtemps avant d'être dite",
+      "ce que la relation a réellement été — pas ce qu'on croyait — ne se dit pas"
+    ],
+    "penseesTypiques": [
+      "Est-ce que j'ai fait tout ce que je pouvais ?",
+      "Comment quelque chose d'aussi réel peut finir comme ça ?",
+      "Je vais devoir tout réapprendre sans lui.",
+      "Il faut que je parte — mais je ne sais pas si j'en suis capable.",
+      "Peut-être que si je change, il restera.",
+      "Je ne me souviens plus de qui j'étais avant lui.",
+      "On a construit quelque chose ensemble. Ça ne disparaît pas parce qu'on se sépare.",
+      "Est-ce que je pleure la personne ou ce qu'on aurait pu être ?",
+      "Je savais que ça allait arriver. Depuis longtemps."
+    ],
+    "comportementsTypiques": [
+      "alternance entre froideur et tentatives de rapprochement",
+      "récupération des affaires comme rituel de clôture symbolique",
+      "recherche compulsive de l'erreur dans les souvenirs",
+      "contact maintenu sous prétexte de 'rester amis'",
+      "effacement ou surexposition sur les réseaux sociaux",
+      "reconstruction d'un récit qui justifie la rupture pour la supporter",
+      "investissement dans le travail ou les amis pour éviter le vide",
+      "tentation de revenir en arrière au premier signe de faiblesse de l'autre"
+    ],
+    "positionsDePouvoir": [
+      "celui qui quitte détient le pouvoir de la décision",
+      "celui qui est quitté peut reprendre du pouvoir en refusant de négocier",
+      "le rapport de force s'inverse souvent avec le temps — et parfois se réequilibre",
+      "les enfants communs redistribuent le pouvoir de façon durable"
+    ],
+    "variantes": [
+      {
+        "relation": "Rupture après longue relation",
+        "description": "L'histoire commune est longue, les repères communs nombreux. La reconstruction est plus complexe. Le deuil porte autant sur l'avenir imaginé que sur le passé réel."
+      },
+      {
+        "relation": "Rupture où l'un ne l'a pas vu venir",
+        "description": "L'un était prêt, l'autre pas. Le choc est total pour celui qui est quitté. Il doit reconstruire sa vision de la relation autant que son avenir."
+      },
+      {
+        "relation": "Rupture mutuelle",
+        "description": "Les deux savent que c'est fini mais aucun ne veut l'admettre. La relation se délite lentement. La douleur est diffuse plutôt que brutale."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Distance installée", "description": "La relation se refroidit. Les deux le sentent sans encore le nommer." },
+      { "niveau": 2, "label": "Crise ouverte", "description": "Le désaccord de fond est posé. La rupture est possible mais pas certaine." },
+      { "niveau": 3, "label": "Décision prise", "description": "L'un ou les deux ont décidé. L'annonce reste à faire. L'écart entre savoir et dire est épuisant." },
+      { "niveau": 4, "label": "Rupture consommée", "description": "La séparation est dite. Le deuil commence pour les deux, à des rythmes différents." },
+      { "niveau": 5, "label": "Rupture destructrice", "description": "La fin de la relation laisse l'un ou les deux dans un état d'effondrement. La reconstruction sera longue." }
+    ],
+    "escaladeTypique": [
+      "distance ou tension accumulée",
+      "crise ou confrontation qui met les mots sur le fond",
+      "décision prise en secret avant d'être dite",
+      "annonce et séparation physique",
+      "deuil et reconstruction de l'identité propre"
+    ],
+    "voiesDeResolution": [
+      "distance réelle — géographique et de contact — le temps qu'il faut",
+      "deuil accepté de ce que la relation était vraiment, pas de ce qu'on espérait",
+      "reconstruction d'une identité propre hors du couple",
+      "rencontre ou projet qui ouvre vers autre chose sans nier le passé",
+      "acceptation que la relation a eu de la valeur même si elle se termine"
+    ],
+    "blessuresUnderlyantes": [
+      "peur de l'abandon réactivée par la perte",
+      "sentiment d'échec ou d'insuffisance lié à la fin",
+      "blessures de ruptures passées non cicatrisées",
+      "identité trop construite autour de la relation qui s'effondre avec elle",
+      "deuil d'un avenir imaginé qui ne se fera pas"
+    ],
+    "contextesFavorables": [
+      "relation longue avec forte imbrication des vies",
+      "rupture non choisie par l'un des deux",
+      "contexte de vie commun difficile à démêler — logement, enfants, finances",
+      "personnage dont l'estime de soi est liée à la relation"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage dont l'identité était fusionnée avec la relation",
+      "personnage qui n'a pas vu venir la décision de l'autre",
+      "personnage qui quitte par nécessité mais reste attaché",
+      "personnage avec histoire d'abandon non résolue",
+      "personnage qui aime encore mais sait que ça ne peut pas continuer"
+    ],
+    "erreursDEcriture": [
+      "Traiter la rupture comme un événement unique — c'est souvent un processus long avec des allers-retours.",
+      "Oublier l'ambivalence — même celui qui quitte peut douter, même celui qui est quitté peut être soulagé.",
+      "Résoudre trop vite par une nouvelle relation — le deuil a besoin de temps pour être honnête.",
+      "Confondre rupture et fin de l'amour — on peut rompre en aimant encore.",
+      "Oublier les détails pratiques — ils ancrent le deuil dans le réel et le rendent concret."
+    ],
+    "notesEditoriales": [
+      "La rupture est l'un des conflits les plus universels — sa force narrative est dans les détails concrets qui disent ce que les mots ne peuvent pas.",
+      "La scène de rupture elle-même est souvent moins intéressante que ce qui la précède et ce qui la suit.",
+      "Distinguer la rupture choisie de la rupture subie — les deux créent des deuils très différents.",
+      "Le moment narratif le plus fort : quand le personnage réalise qu'il est en deuil d'une relation qu'il n'a peut-être jamais vraiment eue."
+    ]
+  },
+  {
+    "id": "infidelite",
+    "label": "Infidélité",
+    "alias": ["infidélité", "infidelite", "tromperie", "adultère", "adultere", "trahison amoureuse", "être trompé", "tromper son partenaire", "double vie amoureuse", "liaison secrète"],
+    "famille": "conflits-amoureux",
+    "definitionCourte": "Rupture de la fidélité dans un couple, qui trahit un accord implicite ou explicite et remet en question la réalité de tout ce qui précédait.",
+    "natureDuConflit": "Trahison intime — l'infidélité ne blesse pas seulement par l'acte mais par ce qu'il révèle sur la relation et le regard que l'autre portait.",
+    "forcesEnPresence": [
+      "désir ou manque non exprimé dans la relation",
+      "lâcheté ou impossibilité d'une confrontation directe avec le problème",
+      "confiance totale du trompé qui rend la trahison plus dévastatrice",
+      "double vie maintenue dans le secret au prix d'une tension permanente",
+      "culpabilité et désir coexistant chez le trompeur sans résolution",
+      "attachement réel aux deux personnes simultanément",
+      "peur du trompeur de perdre l'un ou l'autre s'il dit la vérité"
+    ],
+    "declencheursFrequents": [
+      "distance affective installée dans le couple sans être nommée",
+      "rencontre avec quelqu'un qui comble un manque réel",
+      "opportunité et moment de fragilité simultanés",
+      "besoin de se sentir encore désiré ou vivant",
+      "relation qui s'est transformée sans que rien ait été dit ni choisi",
+      "sentiment d'étouffement dans la relation principale",
+      "période de vulnérabilité où la vigilance cède",
+      "conviction que la relation ne peut pas donner ce dont on a besoin"
+    ],
+    "signauxAvantCoureurs": [
+      "changements comportementaux inexpliqués — humeur, horaires, attitude",
+      "téléphone ou agenda protégés avec une insistance nouvelle",
+      "absence justifiée de façon trop précise ou trop construite",
+      "distance affective soudaine ou au contraire attention excessive et coupable",
+      "nom ou présence d'un tiers qui revient trop souvent dans les récits",
+      "légère culpabilité visible dans les interactions ordinaires",
+      "irritabilité disproportionnée aux questions normales",
+      "changement dans les habitudes physiques ou vestimentaires"
+    ],
+    "silencesEtNonDits": [
+      "ce qui manquait dans la relation n'avait pas été dit avant l'infidélité",
+      "'je t'aime encore' et 'j'ai trompé' coexistent sans se résoudre",
+      "la question 'depuis combien de temps ?' est souvent obsessionnelle pour le trompé",
+      "ce que le trompeur cherchait vraiment n'est jamais entièrement dit",
+      "l'autre personne impliquée a aussi une réalité que personne ne nomme",
+      "le trompeur peut aimer sincèrement les deux — et ne peut pas le dire"
+    ],
+    "penseesTypiques": [
+      "Est-ce que tout ce qu'on a vécu était faux ?",
+      "Depuis combien de temps il me mentait en me regardant ?",
+      "Je ne me fais plus confiance — j'aurais dû voir.",
+      "Je l'aime encore et je le déteste en même temps.",
+      "Si je pardonne, est-ce que j'accepte qu'on me traite comme ça ?",
+      "Il avait une vie entière que je ne connaissais pas.",
+      "Qu'est-ce que l'autre a que je n'ai pas ?",
+      "Je repasse chaque souvenir pour trouver les mensonges. Je n'arrive plus à m'arrêter.",
+      "Est-ce que la relation valait la peine d'être sauvée — ou est-ce que c'était déjà fini avant ?"
+    ],
+    "comportementsTypiques": [
+      "repasser chaque souvenir pour y chercher les mensonges cachés",
+      "alterner entre besoin de tout savoir et incapacité à entendre les détails",
+      "punir par la froideur ou l'explosion de colère selon les moments",
+      "chercher des informations sur l'autre personne — réseaux, témoins",
+      "tester la solidité du couple après la révélation",
+      "surveillance accrue qui devient impossible à masquer",
+      "oscillation entre pardon et rupture sans pouvoir se fixer",
+      "isolement progressif hors du couple pendant le processus"
+    ],
+    "positionsDePouvoir": [
+      "le trompé détient le pouvoir moral après la révélation",
+      "le trompeur est en position de devoir mériter à nouveau — si le couple choisit de rester",
+      "l'autre personne impliquée détient parfois des informations qui redistribuent les cartes",
+      "le trompé détient le pouvoir de pardonner ou de partir — deux positions très différentes"
+    ],
+    "variantes": [
+      {
+        "relation": "Infidélité unique et avouée",
+        "description": "Acte isolé confessé spontanément. Le trompeur choisit la vérité. Le couple doit décider si la relation peut survivre à cette honnêteté tardive. La reconstruction est possible mais exigeante."
+      },
+      {
+        "relation": "Double vie longue",
+        "description": "L'infidélité durait depuis longtemps. La découverte remet en question des années entières. Le trompé doit reconstruire sa lecture de toute la période. La confiance en son propre jugement est brisée."
+      },
+      {
+        "relation": "Infidélité émotionnelle",
+        "description": "Aucune relation physique mais une intimité émotionnelle exclusive avec un tiers. Difficile à nommer, difficile à prouver. Souvent niée par le trompeur. Aussi dévastatrice pour le trompé."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Accroc isolé", "description": "Écart unique, sans suite. Le trompeur ne sait pas encore s'il va avouer ou effacer." },
+      { "niveau": 2, "label": "Relation parallèle courte", "description": "Relation brève mais investie. La culpabilité est réelle. Le couple commence à changer sans savoir pourquoi." },
+      { "niveau": 3, "label": "Double vie installée", "description": "Deux relations coexistent. Le trompeur jongle. Le trompé perçoit une distance sans pouvoir la nommer." },
+      { "niveau": 4, "label": "Découverte et confrontation", "description": "La vérité éclate. Tout est remis en question. L'issue est incertaine." },
+      { "niveau": 5, "label": "Destruction du couple", "description": "L'infidélité emporte tout — confiance, histoire, avenir. La rupture est inévitable ou la reconstruction impossible sans aide." }
+    ],
+    "escaladeTypique": [
+      "manque ou opportunité non anticipée",
+      "acte ou relation parallèle",
+      "double vie maintenue dans la tension",
+      "soupçon ou découverte",
+      "confrontation et décision — rester ou partir"
+    ],
+    "voiesDeResolution": [
+      "vérité complète dite sans conditions ni minimisation",
+      "compréhension — sans excuse — de ce qui a mené là",
+      "décision claire du trompeur sur ce qu'il choisit",
+      "temps et travail réel si le couple choisit de reconstruire",
+      "rupture assumée si la reconstruction est impossible"
+    ],
+    "blessuresUnderlyantes": [
+      "peur de demander directement ce qu'on voulait dans la relation",
+      "sentiment de ne plus être vu ou désiré sans l'avoir dit",
+      "lâcheté face à une rupture nécessaire qui aurait pu être honnête",
+      "blessure d'abandon réactivée chez le trompé",
+      "besoin du trompeur de se sentir vivant, désiré, libre — non dit"
+    ],
+    "contextesFavorables": [
+      "couple en crise non dite depuis un moment",
+      "personnage avec fort besoin de désir ou de validation extérieure",
+      "relation longue où la routine a étouffé l'intimité",
+      "présence d'une opportunité et d'une fragilité simultanées"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage incapable de rompre directement — l'infidélité comme sortie de secours",
+      "personnage en manque affectif non dit dans la relation",
+      "personnage dont l'estime de soi dépend du désir de l'autre",
+      "personnage trompé avec blessure ancienne d'abandon ou de trahison",
+      "personnage qui aime sincèrement les deux et ne peut pas choisir"
+    ],
+    "erreursDEcriture": [
+      "Réduire le trompeur à un personnage sans morale — l'infidélité la plus intéressante naît d'une faiblesse humaine, pas d'un défaut de caractère.",
+      "Résoudre trop vite par le pardon ou la rupture — les deux prennent du temps et sont rarement linéaires.",
+      "Oublier l'autre personne impliquée — elle a aussi une réalité dans l'histoire.",
+      "Confondre infidélité et rupture — on peut tromper sans vouloir partir, et partir sans avoir trompé.",
+      "Oublier la honte du trompeur — même le trompeur peut souffrir de ce qu'il est devenu."
+    ],
+    "notesEditoriales": [
+      "L'infidélité est l'un des conflits les plus chargés émotionnellement — sa force est dans la remise en question de tout ce qui précède.",
+      "La scène de découverte est souvent moins intéressante que ce qui suit — comment les personnages vivent avec la vérité.",
+      "Distinguer l'infidélité symptôme (signe d'une crise plus profonde) de l'infidélité acte isolé — les deux histoires sont différentes.",
+      "Le personnage le plus complexe n'est souvent pas le trompé ni le trompeur — c'est l'autre personne, dont personne ne raconte l'histoire."
+    ]
+  },
+  {
+    "id": "amour-non-reciproque",
+    "label": "Amour non réciproque",
+    "alias": ["amour non réciproque", "amour non reciproque", "amour non partagé", "amour à sens unique", "amour impossible", "aimer sans être aimé", "amour platonique non partagé", "sentiments non partagés", "aimer quelqu'un qui ne t'aime pas", "amour sans retour"],
+    "famille": "conflits-amoureux",
+    "definitionCourte": "Situation dans laquelle un personnage aime quelqu'un qui ne partage pas ses sentiments — ou pas de la même façon — et doit vivre avec cet écart sans pouvoir le combler.",
+    "natureDuConflit": "Conflit intérieur — le personnage se bat entre son désir et la réalité de ce que l'autre peut ou veut donner.",
+    "forcesEnPresence": [
+      "désir intense d'un côté sans réciprocité réelle",
+      "attachement ou affection moindre de l'autre côté",
+      "espoir qui résiste aux signaux négatifs pourtant clairs",
+      "amitié ou lien existant qui complique le deuil",
+      "peur de tout perdre en avouant",
+      "ambiguïté possible du comportement de l'autre — consciente ou non",
+      "deuil impossible à faire tant que le lien est maintenu"
+    ],
+    "declencheursFrequents": [
+      "aveu qui ne reçoit pas la réponse espérée",
+      "nouvelle relation de l'autre qui rend l'écart brutal et visible",
+      "moment d'ambiguïté qui relance l'espoir à tort",
+      "proximité prolongée qui intensifie le sentiment",
+      "rejet clair après une tentative",
+      "confession d'un ami qui révèle que l'autre sait et ne dit rien",
+      "moment de vulnérabilité de l'autre mal interprété",
+      "réalisation soudaine que l'espoir est vain"
+    ],
+    "signauxAvantCoureurs": [
+      "attention disproportionnée accordée à l'autre",
+      "interprétation de chaque geste comme un signal potentiel",
+      "arrangement de sa vie autour de la présence de l'autre",
+      "minimisation systématique des signaux négatifs",
+      "douleur sourde lors des absences de l'autre",
+      "jalousie face aux relations de l'autre",
+      "pensées récurrentes difficiles à éteindre",
+      "désinvestissement des autres relations par comparaison"
+    ],
+    "silencesEtNonDits": [
+      "les sentiments restent souvent non dits pour ne pas risquer le lien existant",
+      "l'autre peut sentir quelque chose sans vouloir le nommer",
+      "'je t'aime autrement' est souvent le pire des aveux à recevoir",
+      "le deuil du sentiment n'est jamais annoncé ni partagé",
+      "l'entourage voit souvent la réalité que le personnage refuse de voir",
+      "la question 'est-ce que tu sais ?' reste muette des deux côtés"
+    ],
+    "penseesTypiques": [
+      "Peut-être qu'avec le temps il changera d'avis.",
+      "Comment peut-il ne pas voir ce que je ressens ?",
+      "Je préfère le garder comme ami que de tout perdre.",
+      "Chaque fois qu'il me sourit, j'y crois à nouveau.",
+      "Je dois arrêter. Mais je ne sais pas comment.",
+      "Je construis ma journée autour de lui sans m'en rendre compte.",
+      "S'il était heureux avec quelqu'un d'autre, est-ce que je survivrais à le voir ?",
+      "Est-ce que j'aime vraiment la personne — ou l'idée que je me suis faite d'elle ?",
+      "Je ne sais plus si j'attends quelque chose ou si j'attends juste par habitude."
+    ],
+    "comportementsTypiques": [
+      "disponibilité permanente pour l'autre sous couvert d'amitié",
+      "interprétation de chaque signe d'attention comme un encouragement",
+      "évitement des situations où l'autre parle de quelqu'un d'autre",
+      "tentatives de se rendre indispensable pour créer un lien unique",
+      "repli après chaque déception, suivi d'un retour inévitable",
+      "organisation de sa propre vie autour des disponibilités de l'autre",
+      "déni actif des signaux de non-réciprocité",
+      "investissement émotionnel unilatéral qui pèse sur le lien"
+    ],
+    "positionsDePouvoir": [
+      "l'aimé détient le pouvoir de donner ou refuser sans effort particulier",
+      "celui qui aime est structurellement en position de demandeur",
+      "l'aveu peut redistribuer les positions — ou tout fermer définitivement",
+      "le silence maintient une ambiguïté qui protège mais empêche de vivre"
+    ],
+    "variantes": [
+      {
+        "relation": "Amis depuis longtemps",
+        "description": "Les sentiments se sont développés sur un lien fort. Le risque de tout perdre est réel. Le personnage choisit souvent de se taire pour garder l'amitié — et souffre doublement."
+      },
+      {
+        "relation": "Relation ambiguë entretenue",
+        "description": "L'autre envoie des signaux contradictoires. Le personnage oscille entre espoir et désespoir. L'ambiguïté est parfois consciente de la part de l'autre, parfois non."
+      },
+      {
+        "relation": "Amour à distance ou impossible",
+        "description": "La non-réciprocité est structurelle — l'autre est inaccessible pour des raisons extérieures. Le sentiment peut durer longtemps sans jamais être confronté à la réalité."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Attirance non dite", "description": "Sentiment présent mais contenu. Le personnage doute lui-même de son intensité." },
+      { "niveau": 2, "label": "Sentiments reconnus", "description": "Le personnage sait ce qu'il ressent. Il choisit de ne pas agir." },
+      { "niveau": 3, "label": "Tension active", "description": "Le sentiment occupe une place centrale. Il oriente les comportements au quotidien." },
+      { "niveau": 4, "label": "Aveu ou rejet", "description": "Les cartes sont sur la table. La douleur est réelle et immédiate." },
+      { "niveau": 5, "label": "Deuil impossible", "description": "Le personnage ne parvient pas à se dégager du sentiment malgré la clarté du rejet." }
+    ],
+    "escaladeTypique": [
+      "sentiment qui se développe progressivement sur un lien existant",
+      "espoir nourri par des ambiguïtés réelles ou interprétées",
+      "tension qui devient insupportable à porter seul",
+      "aveu ou confrontation qui lève l'ambiguïté",
+      "deuil ou enfermement dans l'attente"
+    ],
+    "voiesDeResolution": [
+      "aveu clair qui ferme l'ambiguïté dans un sens ou dans l'autre",
+      "distance choisie pour permettre le deuil réel",
+      "rencontre avec quelqu'un qui répond vraiment",
+      "acceptation que le lien existant a de la valeur tel qu'il est",
+      "compréhension de ce que ce schéma dit sur soi-même"
+    ],
+    "blessuresUnderlyantes": [
+      "pattern de désirer ce qui est inaccessible comme protection",
+      "peur d'un amour réciproque plus inconfortable à recevoir qu'à désirer",
+      "estime de soi liée à la conquête plutôt qu'à la relation stable",
+      "blessure ancienne qui rend le rejet particulièrement douloureux",
+      "conviction inconsciente de ne pas mériter d'être aimé en retour"
+    ],
+    "contextesFavorables": [
+      "lien fort préexistant qui rend l'aveu risqué",
+      "personnage pour qui l'espoir est plus supportable que la vérité",
+      "ambiguïté réelle ou construite dans le comportement de l'autre",
+      "contexte de proximité prolongée sans possibilité d'y mettre fin"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage qui préfère le désir à la réalité d'une relation",
+      "personnage dont l'estime de soi dépend d'être choisi par quelqu'un de précis",
+      "personnage en amitié forte avec quelqu'un qui ne peut pas lui donner plus",
+      "personnage qui a du mal à faire le deuil de ce qui aurait pu être",
+      "personnage dont l'amour non réciproque occupe la place d'une relation réelle"
+    ],
+    "erreursDEcriture": [
+      "Résoudre par la réciprocité finale — l'amour non réciproque est plus honnête quand il reste tel.",
+      "Rendre l'autre cruel — souvent il ne mesure pas l'écart ou ne sait pas comment le gérer.",
+      "Confondre avec la simple timidité — l'amour non réciproque implique un vrai écart de sentiment, pas un problème de communication.",
+      "Oublier ce que ce sentiment dit sur le personnage — pourquoi aime-t-il quelqu'un qui ne peut pas lui donner ce dont il a besoin ?"
+    ],
+    "notesEditoriales": [
+      "L'amour non réciproque est l'un des conflits les plus intérieurs — sa force est dans la vie intérieure du personnage plus que dans les scènes.",
+      "La scène la plus forte n'est pas l'aveu — c'est le moment où le personnage choisit de continuer à espérer malgré tout.",
+      "Distinguer l'amour non réciproque choisi de celui qui est subi — certains personnages préfèrent inconsciemment aimer sans retour.",
+      "Le personnage le plus intéressant n'est pas toujours celui qui souffre — c'est parfois celui qui reçoit l'amour sans pouvoir le rendre."
+    ],
+    "dynamiqueAssociee": { "id": "amour-asymetrique", "label": "Amour asymétrique" }
+  },
+  {
+    "id": "distance-affective",
+    "label": "Distance affective dans le couple",
+    "alias": ["distance affective", "couple qui s'éloigne", "froideur dans le couple", "couple distant", "manque d'intimité", "couple qui ne se parle plus", "vide dans le couple", "solitude à deux", "couple qui s'est perdu", "intimité disparue"],
+    "famille": "conflits-amoureux",
+    "definitionCourte": "Éloignement progressif entre deux partenaires qui partagent encore une vie commune mais ont perdu l'intimité, la complicité ou le désir qui fondaient leur relation.",
+    "natureDuConflit": "Conflit de présence — les deux sont là mais plus vraiment ensemble. L'absence sans départ.",
+    "forcesEnPresence": [
+      "vie commune maintenue par habitude, peur ou obligation",
+      "amour passé dont il reste des traces qui compliquent la rupture",
+      "peur de l'inconnu hors de la relation",
+      "incapacité de l'un ou des deux à nommer ce qui manque",
+      "fatigue ou événements extérieurs qui ont érodé l'intimité progressivement",
+      "enfants ou vie partagée qui maintiennent une forme de lien fonctionnel",
+      "espoir que ça reviendra naturellement sans rien faire"
+    ],
+    "declencheursFrequents": [
+      "période de stress intense — deuil, maladie, crise professionnelle",
+      "naissance d'un enfant qui réorganise tout et écarte les partenaires",
+      "communication qui s'est progressivement appauvrie sans qu'on s'en rende compte",
+      "désaccord profond jamais résolu qui a créé une distance permanente",
+      "trahison ou blessure ancienne non cicatrisée qui pèse",
+      "moment où l'un a cessé de se battre pour la relation sans le dire",
+      "vie extérieure qui a pris plus de place que le couple",
+      "transition de vie qui a changé l'un mais pas l'autre"
+    ],
+    "signauxAvantCoureurs": [
+      "conversations qui restent en surface — météo, logistique, enfants",
+      "gestes d'affection qui disparaissent progressivement sans décision",
+      "soirées côte à côte mais chacun dans son écran ou ses pensées",
+      "irritabilité pour des détails qui ne valent pas la dispute",
+      "plans faits séparément sans que ça choque ni l'un ni l'autre",
+      "confidences faites à des amis plutôt qu'au partenaire",
+      "regard posé sur l'autre sans vraiment le voir",
+      "absence de projets communs dans les conversations d'avenir"
+    ],
+    "silencesEtNonDits": [
+      "'tu me manques alors qu'on est ensemble' ne se dit pas",
+      "personne ne nomme le vide pour ne pas le rendre réel",
+      "la question 'est-ce qu'on s'aime encore ?' reste dans la tête de l'un ou des deux",
+      "'j'ai besoin de toi' devient impossible à dire sans paraître faible",
+      "ce qui manque exactement n'est jamais identifié clairement",
+      "la peur que nommer le vide le rende irréparable"
+    ],
+    "penseesTypiques": [
+      "On vit ensemble mais on ne se voit plus vraiment.",
+      "Quand est-ce que c'est devenu si difficile de lui parler ?",
+      "Est-ce que c'est normal après tout ce temps — ou est-ce qu'on a raté quelque chose ?",
+      "Je ne sais plus si je l'aime ou si j'ai juste peur de partir.",
+      "Si je dis quelque chose, ça va devenir une conversation qu'on ne pourra pas défaire.",
+      "Je me souviens de comment on était. Je ne sais pas où ça a disparu.",
+      "On s'occupe de tout. On ne s'occupe pas de nous.",
+      "Il est là mais je me sens plus seul qu'avant.",
+      "Est-ce qu'il ressent la même chose — ou est-ce que c'est moi ?"
+    ],
+    "comportementsTypiques": [
+      "occupation permanente pour éviter le face-à-face qui révélerait le vide",
+      "irritabilité reportée sur des détails pratiques sans rapport",
+      "affection maintenue par habitude sans chaleur réelle",
+      "confidences faites à l'extérieur plutôt qu'au partenaire",
+      "projets personnels qui prennent plus de place que les projets communs",
+      "évitement des conversations profondes sous prétexte de fatigue",
+      "présence physique sans présence émotionnelle",
+      "attente silencieuse que l'autre prenne l'initiative de nommer"
+    ],
+    "positionsDePouvoir": [
+      "position souvent symétrique — les deux ont leur part de responsabilité",
+      "celui qui ose nommer la distance prend le risque de tout ouvrir",
+      "celui qui part en premier libère et blesse simultanément",
+      "celui qui propose de travailler la relation prend un risque de rejet"
+    ],
+    "variantes": [
+      {
+        "relation": "Couple avec enfants",
+        "description": "La relation parentale maintient le couple fonctionnel. La vie intime a disparu mais la vie commune continue. Les enfants peuvent être à la fois la colle et l'alibi de la distance."
+      },
+      {
+        "relation": "Couple de longue date",
+        "description": "L'intimité a été érodée par les années, pas par un événement précis. Personne n'est vraiment coupable. La distance est devenue le fond sonore de la relation."
+      },
+      {
+        "relation": "Couple après une crise",
+        "description": "Un événement traumatique — deuil, maladie, trahison — a créé la distance. Chacun a géré seul. Ils se sont éloignés au moment où ils auraient dû se rapprocher."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Période creuse", "description": "Passage difficile, intimité en veille. Chacun sent le manque sans s'en inquiéter vraiment." },
+      { "niveau": 2, "label": "Routine installée", "description": "La vie commune fonctionne mais l'intimité a disparu du quotidien." },
+      { "niveau": 3, "label": "Distance réelle", "description": "Les deux vivent côte à côte sans vraiment se retrouver. Le vide est perceptible." },
+      { "niveau": 4, "label": "Vies parallèles", "description": "Chacun a reconstruit une vie intérieure sans l'autre. La relation n'est plus qu'une enveloppe." },
+      { "niveau": 5, "label": "Relation vidée", "description": "Il ne reste plus rien de l'intimité. La relation se maintient par inertie ou obligation." }
+    ],
+    "escaladeTypique": [
+      "événement ou période difficile non partagé ni traversé ensemble",
+      "communication qui s'appauvrit progressivement",
+      "routines qui remplacent la connexion sans qu'on le choisisse",
+      "vies qui se réorganisent séparément sans décision consciente",
+      "crise, rupture ou résignation durable"
+    ],
+    "voiesDeResolution": [
+      "l'un ose nommer ce qui manque sans accuser l'autre",
+      "événement extérieur qui force une vraie présence à deux",
+      "décision commune de travailler la relation avec un soutien",
+      "rupture choisie et honnête plutôt que distance prolongée indéfiniment",
+      "geste concret plutôt que grande conversation — l'intimité se reconstruit dans les actes"
+    ],
+    "blessuresUnderlyantes": [
+      "blessure passée dans la relation jamais vraiment cicatrisée",
+      "peur de la vulnérabilité qui empêche de demander",
+      "épuisement accumulé qui a éteint l'élan progressivement",
+      "modèle relationnel appris où l'intimité n'était pas normale ni possible",
+      "conviction que l'intimité reviendra toute seule si on attend assez"
+    ],
+    "contextesFavorables": [
+      "couple traversant une période de stress intense prolongé",
+      "relation longue sans investissement dans l'intimité",
+      "partenaires dont les modes de communication sont incompatibles",
+      "relation après un traumatisme partagé non travaillé ensemble"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage qui a peur de la vulnérabilité et préfère le silence",
+      "personnage dont l'intimité a été blessée dans cette relation",
+      "couple après un deuil ou une crise majeure qui a changé l'un des deux",
+      "personnage qui maintient la relation par peur du vide plutôt que par amour",
+      "personnage qui attend que l'autre prenne l'initiative indéfiniment"
+    ],
+    "erreursDEcriture": [
+      "Rendre la distance dramatique trop tôt — elle est souvent silencieuse, progressive, sans scène.",
+      "Désigner un coupable — la distance affective est rarement l'œuvre d'un seul.",
+      "Résoudre par une grande conversation — l'intimité perdue se reconstruit dans des gestes, pas dans des mots.",
+      "Confondre avec l'absence d'amour — on peut aimer encore et être distant.",
+      "Oublier que la distance peut être confortable pour l'un — ce qui la rend asymétrique et plus complexe."
+    ],
+    "notesEditoriales": [
+      "La distance affective est l'un des conflits les plus difficiles à écrire parce qu'il n'y a pas d'événement, pas de coupable, pas de scène — juste un vide.",
+      "Sa force narrative est dans les petits détails qui montrent l'absence — ce qu'on ne se dit plus, ce qu'on ne fait plus.",
+      "Distinguer la distance choisie comme protection de la distance subie — les deux existent dans le couple.",
+      "Le moment le plus révélateur : quand l'un réalise que l'autre a l'air bien — et que ça fait mal."
+    ],
+    "dynamiqueAssociee": { "id": "distance-affective-installee", "label": "Distance affective installée dans le couple" }
+  },
+  {
+    "id": "desir-interdit",
+    "label": "Désir interdit",
+    "alias": ["désir interdit", "desir interdit", "amour interdit", "attirance interdite", "amour défendu", "relation impossible", "attirance coupable", "désir illégitime", "amour hors-limites", "tentation amoureuse"],
+    "famille": "conflits-amoureux",
+    "definitionCourte": "Attirance ou amour pour quelqu'un dont la relation est rendue impossible ou illégitime par un obstacle moral, social, familial ou situationnel.",
+    "natureDuConflit": "Conflit entre le désir et l'interdit — intérieur autant qu'extérieur. Le personnage se bat contre lui-même autant que contre les circonstances.",
+    "forcesEnPresence": [
+      "désir ou amour réel et intense qui résiste au raisonnement",
+      "interdit moral, social ou situationnel clairement perçu",
+      "culpabilité qui coexiste avec le désir sans l'éteindre",
+      "tiers qui serait blessé si le désir était suivi",
+      "peur des conséquences sur la vie construite",
+      "pouvoir de l'interdit lui-même à intensifier le désir",
+      "ambiguïté possible de l'autre qui complique la résistance"
+    ],
+    "declencheursFrequents": [
+      "proximité prolongée avec une personne inaccessible",
+      "moment de vulnérabilité partagé qui crée une intimité",
+      "attirance ignorée qui devient impossible à contenir",
+      "occasion qui se présente et teste la résistance",
+      "révélation d'un sentiment partagé qui rompt l'équilibre",
+      "fragilité dans la relation principale qui rend l'autre plus attirant",
+      "moment seul avec l'autre qui révèle ce qu'on ne voulait pas voir",
+      "geste ou parole de l'autre qui franchit une ligne sans la nommer"
+    ],
+    "signauxAvantCoureurs": [
+      "attention disproportionnée accordée à l'autre",
+      "pensées récurrentes difficiles à contrôler",
+      "évitement de l'autre pour se protéger — qui révèle l'intensité",
+      "comportements ambigus non assumés",
+      "culpabilité avant même l'acte — pour le désir seul",
+      "justifications pour maintenir la proximité malgré la décision d'éviter",
+      "comparaisons involontaires entre l'autre et le partenaire",
+      "rêves ou pensées intrusives qu'on ne partage avec personne"
+    ],
+    "silencesEtNonDits": [
+      "le désir lui-même n'est souvent pas nommé à voix haute",
+      "'je ne peux pas' et 'je veux' coexistent sans résolution possible",
+      "ce que les deux ressentent peut être su sans jamais être dit",
+      "les tiers blessés ne savent rien — et c'est une blessure supplémentaire",
+      "la honte du désir reste muette même quand tout le reste est partagé",
+      "la question 'qu'est-ce que ça dit sur moi ?' ne se pose pas à voix haute"
+    ],
+    "penseesTypiques": [
+      "Je ne devrais pas ressentir ça.",
+      "Si personne ne le sait, est-ce que ça existe vraiment ?",
+      "Je fais tout pour ne pas y penser et je n'y pense qu'à ça.",
+      "Est-ce que c'est le désir ou est-ce que je suis vraiment amoureux ?",
+      "Je vais briser quelque chose si je continue.",
+      "Il sait. Il ne peut pas ne pas savoir.",
+      "Qu'est-ce que ça dit de moi que je ressente ça pour lui ?",
+      "Le fait que ce soit interdit, est-ce que c'est ce qui me rend ça si fort ?",
+      "Je pourrais m'en sortir si on ne se voyait plus. Mais je ne le veux pas vraiment."
+    ],
+    "comportementsTypiques": [
+      "évitement stratégique pour ne pas succomber — qui révèle l'intensité",
+      "rapprochement involontaire malgré la décision d'éviter",
+      "rationalisation de chaque geste ambigu pour le rendre innocent",
+      "conflit ouvert avec soi-même sans résolution durable",
+      "transfert de l'énergie vers autre chose — travail, sport, engagement",
+      "surcompensation dans la relation principale pour effacer la culpabilité",
+      "recherche de confirmations que l'autre ressent la même chose",
+      "alternance entre distance protectrice et rapprochement inexpliqué"
+    ],
+    "positionsDePouvoir": [
+      "les deux sont souvent en position équivalente face à l'interdit",
+      "celui qui nomme prend le risque et le pouvoir — et libère ou détruit",
+      "l'interdit lui-même détient un pouvoir sur les deux",
+      "les tiers non conscients détiennent sans le savoir le pouvoir de tout faire s'effondrer"
+    ],
+    "variantes": [
+      {
+        "relation": "Attirance entre collègues ou hiérarchie",
+        "description": "L'interdit est professionnel et situationnel. Le rapport de hiérarchie complique le consentement. La relation existe dans un contexte où tout le monde est susceptible de le voir."
+      },
+      {
+        "relation": "Attirance quand l'un ou les deux sont engagés",
+        "description": "Le désir existe en dehors d'une relation déjà là. La culpabilité est immédiate. La question de ce que ça dit sur la relation en cours est inévitable."
+      },
+      {
+        "relation": "Attirance avec interdit moral ou culturel",
+        "description": "L'obstacle est intérieur autant qu'extérieur. Le personnage se bat contre ses propres valeurs ou contre celles de son milieu. La résolution implique souvent un choix identitaire."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Attirance remarquée", "description": "Le personnage note l'attirance et la met de côté. Pas de comportement changé." },
+      { "niveau": 2, "label": "Tension active", "description": "L'attirance oriente les comportements sans être avouée. Évitements et rapprochements contradictoires." },
+      { "niveau": 3, "label": "Désir reconnu", "description": "Le personnage reconnaît intérieurement ce qu'il ressent. La lutte contre lui-même est consciente." },
+      { "niveau": 4, "label": "Aveu ou acte", "description": "Le désir est exprimé ou agi. Les conséquences commencent." },
+      { "niveau": 5, "label": "Rupture de l'interdit", "description": "Le personnage a fait le choix — ou a été emporté. Tout ce que l'interdit protégeait est maintenant en jeu." }
+    ],
+    "escaladeTypique": [
+      "attirance remarquée et mise de côté",
+      "lutte intérieure croissante",
+      "ambiguïté dans la relation qui alimente le désir",
+      "aveu ou acte ou rupture du contact",
+      "conséquences sur toutes les relations concernées"
+    ],
+    "voiesDeResolution": [
+      "distance choisie et maintenue malgré le désir",
+      "choix clair et assumé avec ses conséquences sur la relation principale",
+      "transformation du désir en autre chose — amitié, départ, engagement renouvelé",
+      "honnêteté envers la relation existante sur ce qui manque",
+      "compréhension de ce que ce désir dit sur les besoins non satisfaits"
+    ],
+    "blessuresUnderlyantes": [
+      "manque dans la relation existante qui rend l'autre plus attirant",
+      "pattern de désirer ce qui est inaccessible comme protection",
+      "besoin de transgression lié à une vie trop contrainte",
+      "amour non résolu qui refait surface sous une autre forme",
+      "conviction que le désir interdit est plus réel que ce qu'on a"
+    ],
+    "contextesFavorables": [
+      "proximité prolongée dans un contexte fermé",
+      "période de fragilité de la relation principale",
+      "personnage dont les besoins ne sont pas comblés sans l'avoir dit",
+      "situation où l'interdit est clair mais la résistance difficile"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage dont les besoins dans sa relation principale ne sont pas comblés",
+      "personnage avec fort sens moral qui souffre du désir lui-même",
+      "personnage en situation professionnelle ou sociale de proximité contrainte",
+      "personnage avec pattern de désirer l'inaccessible",
+      "personnage engagé qui se découvre capable de désirer quelqu'un d'autre"
+    ],
+    "erreursDEcriture": [
+      "Rendre l'interdit purement excitant — il est aussi épuisant, culpabilisant, et souvent triste.",
+      "Résoudre par la transgression romantisée — l'acte a des conséquences réelles sur des personnes réelles.",
+      "Oublier les tiers — le désir interdit implique presque toujours quelqu'un qui ne sait rien et qui sera blessé.",
+      "Confondre désir interdit et amour — l'interdit peut amplifier un désir qui ne survivrait pas à la liberté.",
+      "Oublier que la résistance elle-même peut être un choix identitaire fort et narrativement puissant."
+    ],
+    "notesEditoriales": [
+      "Le désir interdit est l'un des conflits les plus chargés dramatiquement parce qu'il met en tension le désir, la morale et les autres simultanément.",
+      "Sa force est dans la lutte intérieure — pas dans la transgression elle-même.",
+      "Distinguer l'interdit extérieur (situation, rôle) de l'interdit intérieur (valeurs, culpabilité) — les deux créent des dynamiques très différentes.",
+      "Le moment le plus fort : quand le personnage choisit de ne pas — et vit avec ce choix."
+    ],
+    "dynamiqueAssociee": { "id": "attraction-interdite-non-dite", "label": "Attraction interdite ou non dite" }
+  }
+]

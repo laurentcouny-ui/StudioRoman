@@ -1,0 +1,590 @@
+[
+  {
+    "id": "comparaison-fratrie",
+    "label": "Comparaison défavorable dans la fratrie",
+    "famille": "honte",
+    "definitionCourte": "Le personnage a grandi dans l'ombre d'un frère ou d'une sœur systématiquement présenté comme meilleur, plus brillant ou plus digne d'amour. La blessure ne porte pas seulement sur l'injustice subie, mais sur l'intériorisation progressive d'une infériorité fondamentale. Ce qui a été dit par comparaison a fini par être cru comme une vérité sur soi-même.",
+    "originesPossibles": [
+      "un parent qui citait régulièrement les résultats scolaires du frère ou de la sœur comme modèle",
+      "des compliments publics adressés systématiquement au même enfant, jamais à l'autre",
+      "une fratrie où l'un était perçu comme le 'talent' et l'autre comme le 'problème'",
+      "un parent qui disait ouvertement préférer le comportement d'un autre enfant",
+      "une rivalité entretenue volontairement par les parents pour 'stimuler' les enfants",
+      "un grand-parent ou un proche qui renforçait la hiérarchie entre les enfants",
+      "des héritages, responsabilités ou privilèges distribués de manière inégale et commentée"
+    ],
+    "croyancesNegativesInduites": [
+      "Je suis la version ratée de la famille.",
+      "Quelqu'un fera toujours mieux que moi, et on le remarquera toujours.",
+      "Je dois me battre pour mériter une attention qui vient naturellement aux autres.",
+      "Mes succès ne comptent que relatifs à ceux de quelqu'un d'autre.",
+      "Je ne serai jamais suffisant en moi-même — il faut que je surpasse quelqu'un.",
+      "L'amour des autres est une ressource limitée, et je n'en ai pas eu ma part.",
+      "Ce que j'accomplis seul, sans comparaison favorable, n'a pas de valeur réelle."
+    ],
+    "peursCentrees": [
+      "la peur d'être toujours deuxième, quoi qu'il fasse",
+      "la peur que ses réussites soient immédiatement relativisées par celles d'un rival",
+      "la peur que les gens qu'il aime le compèrent secrètement à quelqu'un de mieux",
+      "la peur d'être oublié ou effacé quand quelqu'un de plus brillant est dans la pièce",
+      "la peur que sa propre valeur ne soit jamais perçue pour ce qu'elle est, mais toujours mesurée"
+    ],
+    "comportementsDefensifs": [
+      "sabote ses propres réussites pour ne pas risquer d'être comparé et de perdre",
+      "cherche des domaines où le frère ou la sœur n'excelle pas, pour s'y réfugier",
+      "devient excessivement compétitif dans tous les contextes, même amicaux",
+      "minimise ses accomplissements avant que les autres puissent les relativiser",
+      "évite les situations de comparaison directe, refuse concours et évaluations",
+      "jalousie intense envers quiconque semble naturellement admiré",
+      "rompt les relations dès qu'il perçoit être mis en compétition implicite avec quelqu'un"
+    ],
+    "conflitsInternesTypiques": [
+      "aime sincèrement son frère ou sa sœur mais ressent une jalousie qu'il juge honteux",
+      "veut être reconnu pour lui-même mais cherche constamment à se comparer pour savoir s'il 'compte'",
+      "désire l'admiration des autres mais craint que cette admiration ne soit jamais inconditionnelle",
+      "ressent de la colère contre ses parents mais se sent coupable de leur en vouloir",
+      "oscille entre s'identifier à 'l'enfant raté' et refuser violemment ce rôle"
+    ],
+    "manifestationsPhysiques": [
+      "légère crispation du visage quand on mentionne le frère ou la sœur en question",
+      "posture qui se referme en présence de personnes perçues comme plus compétentes",
+      "tension dans la mâchoire lors des situations de comparaison ou d'évaluation",
+      "souffle court et discours accéléré quand il doit présenter ses propres réussites",
+      "regard qui cherche instinctivement la validation sur les visages autour de lui",
+      "fatigue chronique liée à l'effort constant de se prouver"
+    ],
+    "declencheurs": [
+      "entendre quelqu'un vanter les mérites d'une tierce personne en sa présence",
+      "recevoir un compliment suivi d'un 'mais' ou d'une réserve",
+      "voir un frère, une sœur ou un rival obtenir une reconnaissance qu'il convoitait",
+      "être présenté à quelqu'un et ne pas savoir comment se définir sans se comparer",
+      "des réunions de famille où les accomplissements de chacun sont évoqués",
+      "être ignoré dans une conversation où d'autres sont sollicités"
+    ],
+    "cheminsVersResolution": [
+      "être reconnu pour quelque chose que son frère ou sa sœur ne peut pas faire, et vivre ce moment sans le relativiser",
+      "un proche qui refuse explicitement de le comparer à qui que ce soit et qui tient cette position dans le temps",
+      "confronter l'un de ses parents — non pour obtenir des excuses, mais pour nommer ce qui s'est passé",
+      "découvrir que le frère ou la sœur idéalisé portait lui aussi une blessure symétrique",
+      "construire une réussite dont il est fier indépendamment de tout regard extérieur"
+    ],
+    "impactRelationnel": [
+      "attire des partenaires ou amis qui le valorisent excessivement, puis se retourne contre eux dès la première critique",
+      "peut développer une relation d'idolâtrie ou de rivalité obsessionnelle avec une personne perçue comme 'meilleure'",
+      "difficulté à se réjouir sincèrement du succès d'un proche sans ressentir une piqûre de jalousie",
+      "a tendance à évaluer inconsciemment toute relation en termes de hiérarchie : qui est 'au-dessus', qui est 'en dessous'",
+      "cherche des groupes où il peut être le meilleur, fuit ceux où il risque d'être dans l'ombre",
+      "amour-propre très sensible aux comparaisons formulées même à la légère"
+    ],
+    "notesEditoriales": [
+      "Cette blessure fonctionne particulièrement bien quand le personnage n'est pas conscient qu'il se compare encore — il croit avoir 'tourné la page' alors que chaque succès des autres lui est une épine.",
+      "Éviter de faire du frère ou de la sœur un simple antagoniste : la blessure est plus riche si l'autre n'était pas malveillant, juste préféré — et en souffrait peut-être aussi.",
+      "Le paradoxe de cette blessure : le personnage peut devenir extrêmement compétent à force de vouloir prouver sa valeur, tout en étant incapable de jouir de ses succès.",
+      "À distinguer de la jalousie simple : ici, la blessure touche à l'identité fondamentale — 'qui je suis' — pas seulement à 'ce que j'ai'."
+    ]
+  },
+  {
+    "id": "divorce-parents-violent",
+    "label": "Divorce conflictuel des parents",
+    "famille": "abandon",
+    "definitionCourte": "Le personnage a traversé l'enfance ou l'adolescence au milieu d'une séparation parentale marquée par les conflits ouverts, les manipulations ou la violence verbale et émotionnelle. Il n'a pas seulement perdu la cellule familiale : il a été contraint de survivre à l'intérieur d'une guerre qu'il n'avait pas choisie. La blessure porte sur l'impossibilité d'être un enfant dans un espace que les adultes ont transformé en champ de bataille.",
+    "originesPossibles": [
+      "parents qui se disputaient violemment en sa présence sans chercher à l'en protéger",
+      "utilisé comme messager ou espion entre deux parents qui ne se parlaient plus",
+      "forcé à prendre parti, à choisir entre deux adultes qu'il aimait",
+      "témoin de scènes de dénigrement d'un parent par l'autre, répétées sur des années",
+      "ballotté entre deux foyers aux règles contradictoires et aux atmosphères hostiles",
+      "parent qui pleurait, s'effondrait ou confiait ses souffrances à l'enfant",
+      "séparation soudaine qui a mis fin à une vie stable sans explication suffisante"
+    ],
+    "croyancesNegativesInduites": [
+      "Les couples finissent toujours par se déchirer.",
+      "L'amour est une promesse qui se retourne en guerre.",
+      "Je suis une monnaie d'échange, pas une personne.",
+      "Si je choisis quelqu'un, je trahis forcément quelqu'un d'autre.",
+      "Je dois surveiller les signaux avant-coureurs pour ne jamais être pris au dépourvu.",
+      "Ma présence aggrave les conflits — mieux vaut rester invisible.",
+      "Les adultes sont des enfants qui font semblant d'être responsables."
+    ],
+    "peursCentrees": [
+      "la peur que toute relation durable finisse en conflit destructeur",
+      "la peur d'être utilisé ou instrumentalisé par ceux qu'il aime",
+      "la peur de se trouver au centre d'un conflit entre deux personnes qui lui sont chères",
+      "la peur de l'engagement, perçu comme le début d'une souffrance programmée",
+      "la peur de reproduire le schéma de ses parents malgré lui"
+    ],
+    "comportementsDefensifs": [
+      "évite les conflits à tout prix, parfois au détriment de ses propres besoins",
+      "prend instinctivement le rôle de médiateur dans les tensions de groupe",
+      "fuit les relations longues dès que les premiers désaccords apparaissent",
+      "surveille en permanence le 'niveau de tension' dans une pièce, prêt à intervenir ou à disparaître",
+      "ne se positionne jamais clairement dans les désaccords entre proches",
+      "peut basculer dans une hypervigilance relationnelle, cherchant les signes de dégradation",
+      "garde des 'sorties de secours' émotionnelles dans toutes ses relations importantes"
+    ],
+    "conflitsInternesTypiques": [
+      "désire une famille stable mais sabote ses propres relations par peur de la répétition",
+      "aime ses deux parents mais porte une colère diffuse contre les deux — et se sent coupable",
+      "veut être en paix mais est tellement entraîné aux conflits qu'il les perçoit partout",
+      "a appris à se taire pour survivre mais souffre de l'invisibilité que ce silence lui impose",
+      "oscille entre idéaliser 'la vraie famille' et mépriser l'institution familiale"
+    ],
+    "manifestationsPhysiques": [
+      "tension immédiate dans les épaules dès qu'une conversation monte en intensité",
+      "posture repliée, comme prête à encaisser, dans les situations de conflit",
+      "maux d'estomac récurrents avant les réunions familiales ou toute rencontre potentiellement tendue",
+      "regard qui balaye instinctivement la pièce pour évaluer 'où en est' chaque personne",
+      "voix qui baisse ou se neutralise en présence de tension pour ne pas enflammer",
+      "incapacité physique à manger quand l'ambiance est lourde"
+    ],
+    "declencheurs": [
+      "une dispute entre partenaires en sa présence, même légère",
+      "être sollicité pour prendre position dans un conflit entre deux personnes proches",
+      "les réunions de famille où les anciens désaccords remontent à la surface",
+      "voir un enfant au milieu d'une dispute d'adultes",
+      "des questions sur ses parents ou son enfance posées de manière anodine",
+      "des anniversaires, fêtes ou rituels familiaux qui lui rappellent ce qui s'est brisé"
+    ],
+    "cheminsVersResolution": [
+      "construire un espace de vie — un foyer, un couple, une amitié profonde — où le conflit peut exister sans tout détruire",
+      "nommer à voix haute, devant un témoin de confiance, ce qu'il a vécu sans minimiser",
+      "comprendre que les choix de ses parents n'étaient pas de sa faute et n'avaient pas besoin de son arbitrage",
+      "apprendre à tolérer le désaccord sans l'interpréter comme un prélude à l'effondrement",
+      "réconcilier une image complexe et humaine de chaque parent, ni bourreau ni victime absolue"
+    ],
+    "impactRelationnel": [
+      "peut devenir un partenaire sur-attentif, qui surveille chaque tension et anticipe chaque conflit au point d'être épuisant",
+      "fuit parfois précisément les personnes stables, inconsciemment peu familières avec cette stabilité",
+      "tendance à prendre sur lui tous les torts dans une dispute pour la faire cesser plus vite",
+      "peut se retrouver à jouer les arbitres dans les conflits de ses amis, au détriment de ses propres émotions",
+      "difficulté à exprimer une colère directe : préfère disparaître plutôt qu'affronter",
+      "peut choisir des partenaires qui reproduisent le chaos connu, sans en avoir conscience"
+    ],
+    "notesEditoriales": [
+      "Cette blessure est particulièrement fertile pour les personnages qui 'gèrent tout' en surface tout en portant une anxiété silencieuse de fond : ils ont appris très tôt que leur survie dépendait du calme qu'ils pouvaient maintenir.",
+      "Résister à la tentation de réduire le personnage à 'enfant de divorcés' : ce qui blesse ici, c'est la violence, la durée, et l'instrumentalisation — pas la séparation en elle-même.",
+      "Le personnage peut aimer profondément ses parents tout en leur en voulant : cette ambivalence est un moteur narratif puissant, à ne pas résoudre trop vite.",
+      "Attention aux clichés : pas tous les enfants de divorces conflictuels deviennent des adultes brisés. Certains développent une résilience inhabituelle, une intelligence émotionnelle précieuse — la blessure peut coexister avec la force."
+    ]
+  },
+  {
+    "id": "maladie-grave-enfance",
+    "label": "Maladie grave dans l'enfance",
+    "famille": "perte",
+    "definitionCourte": "Le personnage a traversé une maladie sérieuse durant ses années de formation, le séparant du monde ordinaire de l'enfance — école, jeux, insouciance, corps intact. La blessure n'est pas seulement physique : elle porte sur la rupture avec une vie normale, le sentiment d'être différent des autres, et parfois la culpabilité diffuse de s'en être sorti quand d'autres ne l'ont pas pu.",
+    "originesPossibles": [
+      "cancer ou maladie chronique grave diagnostiquée entre 5 et 15 ans",
+      "hospitalisation longue qui a coupé l'enfant de son environnement habituel pendant des mois",
+      "maladie invisible ou difficile à nommer, qui rendait l'incompréhension des pairs encore plus douloureuse",
+      "séquelles durables — physiques, motrices ou cognitives — qui ont marqué l'entrée dans l'âge adulte",
+      "rechute après une rémission, détruisant la confiance reconstruite",
+      "entourage qui surprotégeait au point d'empêcher le développement de l'autonomie",
+      "entourage qui minimisait ou niait la gravité, laissant l'enfant seul face à sa peur"
+    ],
+    "croyancesNegativesInduites": [
+      "Mon corps est une menace potentielle, pas un allié.",
+      "Je peux tout perdre du jour au lendemain, sans prévenir.",
+      "Je ne mérite pas de m'attacher à l'avenir — il est trop incertain.",
+      "Les autres ne comprennent pas vraiment ce que c'est de vivre dans un corps qui peut trahir.",
+      "Je suis fondamentalement fragile, même quand j'ai l'air fort.",
+      "La vie normale est quelque chose que j'observe de l'extérieur.",
+      "Être en bonne santé est un état provisoire, pas un état naturel."
+    ],
+    "peursCentrees": [
+      "la peur d'une rechute ou d'un nouveau diagnostic, même en bonne santé apparente",
+      "la peur que son corps le trahisse au moment où il a le plus besoin de lui",
+      "la peur de devenir un fardeau pour ceux qu'il aime, comme il l'a été dans l'enfance",
+      "la peur de ne jamais être vraiment 'comme les autres'",
+      "la peur de la mort, plus concrète et moins abstraite que pour la plupart"
+    ],
+    "comportementsDefensifs": [
+      "surveille son corps avec une attention anxieuse, interprète chaque symptôme",
+      "peut à l'inverse négliger sa santé pour prouver qu'il n'est 'plus malade', qu'il est fort",
+      "anticipe systématiquement le pire dans tout projet à long terme",
+      "préfère ne pas s'investir dans des projets qui nécessitent une santé durable",
+      "minimise sa vulnérabilité devant les autres, refuse qu'on le plaigne",
+      "construit une persona de résilience, parfois au détriment d'une véritable guérison émotionnelle",
+      "développe une relation complexe au temps : urgence de vivre ou, à l'inverse, paralysie"
+    ],
+    "conflitsInternesTypiques": [
+      "veut croire en l'avenir mais ne parvient pas à projeter sa vie au-delà d'un horizon proche",
+      "ressent de la gratitude d'être vivant mais aussi de la colère d'avoir raté quelque chose d'irremplaçable",
+      "désire l'indépendance mais craint de se retrouver seul si son corps flanche à nouveau",
+      "est fier de sa résilience mais souffre qu'elle masque ce qu'il a vraiment traversé",
+      "oscille entre une philosophie de carpe diem sincère et une angoisse existentielle sous-jacente"
+    ],
+    "manifestationsPhysiques": [
+      "hyper-conscience de ses sensations corporelles, capable de les décrire avec une précision inhabituelle",
+      "réaction physique forte à toute douleur ou symptôme nouveau, même bénin",
+      "cicatrices ou traces physiques qui constituent une mémoire inscrite dans le corps",
+      "rapport parfois dissocié au corps — qui peut sembler étranger, objectivé, ou au contraire précieusement surveillé",
+      "fatigue émotionnelle lors des visites médicales de routine, même sans raison objective",
+      "posture parfois protectrice autour de la zone qui a été atteinte"
+    ],
+    "declencheurs": [
+      "une visite chez le médecin, même de routine",
+      "voir quelqu'un de malade ou hospitalisé",
+      "une douleur physique même passagère qui réveille la peur",
+      "des anniversaires de diagnostics, d'hospitalisations, de chirurgies",
+      "des enfants qui jouent librement, insouciants — rappel de ce qu'il n'a pas eu",
+      "des conversations sur la vieillesse, la mort, le corps qui décline"
+    ],
+    "cheminsVersResolution": [
+      "construire une relation au corps fondée sur la confiance et non sur la surveillance — souvent par le mouvement, le sport ou une pratique corporelle positive",
+      "raconter son histoire à quelqu'un qui n'en connaissait pas les détails, sans euphémiser",
+      "faire le deuil de l'enfance qu'il n'a pas eu, plutôt que de prétendre qu'il a 'bien tourné' malgré tout",
+      "rencontrer d'autres personnes ayant traversé une expérience similaire, pour ne plus être seul avec ce vécu",
+      "découvrir ce que la maladie lui a donné — une sensibilité, une profondeur — sans avoir à minimiser ce qu'elle lui a coûté"
+    ],
+    "impactRelationnel": [
+      "peut attirer des soignants, des protecteurs — ou se méfier d'eux, les associant à une période d'impuissance",
+      "difficulté à accepter l'aide sans y lire de la pitié",
+      "peut surinvestir ses relations comme si chaque moment était potentiellement le dernier",
+      "parfois mal à l'aise face aux plaintes des autres pour des 'petites' souffrances",
+      "tend à fuir les personnes hypochondriaques ou anxieuses, qui réactivent sa propre peur",
+      "peut avoir développé une maturité émotionnelle précoce, créant un décalage avec ses pairs"
+    ],
+    "notesEditoriales": [
+      "Cette blessure est subtile car le personnage peut sembler 'guéri' en surface tout en portant une relation au corps et au temps profondément altérée. L'intérêt narratif est dans ce décalage entre apparence et vécu intérieur.",
+      "Attention à ne pas en faire un personnage systématiquement courageux et inspirant — la blessure peut générer aussi de l'amertume, de la colère, ou du repli.",
+      "La culpabilité du survivant (quand d'autres enfants rencontrés en soin sont décédés) est un fil narratif puissant et souvent sous-exploité.",
+      "Le rapport au corps mérite d'être écrit avec soin : ni amnésie du passé, ni obsession permanente — trouver le juste rythme entre les deux."
+    ]
+  },
+  {
+    "id": "perte-statut-social",
+    "label": "Perte brutale de statut social",
+    "famille": "honte",
+    "definitionCourte": "Le personnage a connu une chute soudaine et visible de sa position sociale — ruine financière, scandale, faillite, condamnation publique — qui a détruit non seulement son mode de vie mais son image de lui-même et le regard des autres. La blessure est double : la perte matérielle et la perte d'identité, souvent vécues simultanément et sans préparation.",
+    "originesPossibles": [
+      "faillite d'une entreprise familiale qui a emporté tout le patrimoine",
+      "scandale public — judiciaire, moral ou médiatique — qui a ruiné la réputation",
+      "perte soudaine d'un emploi de prestige et incapacité à retrouver l'équivalent",
+      "révélation d'une fraude ou d'un mensonge qui a provoqué une disgrâce sociale",
+      "divorce ruineux associé à un déclassement brutal",
+      "condamnation pénale ou civile qui a effacé une vie bâtie sur des décennies",
+      "perte du statut par association avec quelqu'un qui s'est effondré publiquement"
+    ],
+    "croyancesNegativesInduites": [
+      "Ma valeur dépend de ce que j'ai et de ce que les autres voient de moi.",
+      "Les gens qui ont compté dans ma vie ne m'aimaient pas — ils aimaient ma position.",
+      "Je ne suis plus la personne que j'étais — et cette personne était la seule que j'aimais.",
+      "Le monde n'a aucune mémoire de ce que j'ai construit, seulement de là où je suis tombé.",
+      "Il ne sert à rien de bâtir quoi que ce soit — tout peut disparaître du jour au lendemain.",
+      "Je suis désormais objet de pitié ou de mépris, même chez ceux qui ne le montrent pas.",
+      "Mon passé est une trahison : il prouve que je n'étais pas qui je croyais être."
+    ],
+    "peursCentrees": [
+      "la peur d'être reconnu par quelqu'un du passé qui se souvient de ce qu'il était",
+      "la peur que les nouvelles relations ne se construisent que sur ce qu'il est devenu, pas sur ce qu'il peut être",
+      "la peur de rebâtir quelque chose que la vie peut détruire à nouveau",
+      "la peur du mépris déguisé en compassion",
+      "la peur d'avoir à expliquer, justifier, raconter — ou à mentir pour éviter de le faire"
+    ],
+    "comportementsDefensifs": [
+      "cache son passé ou l'histoire de sa chute, même aux proches",
+      "peut reconstruire une façade de statut — dépenses excessives, posture hautaine — pour masquer l'effondrement intérieur",
+      "évite les milieux où il pourrait croiser des personnes de son ancien cercle",
+      "peut basculer dans une amertume contre 'ceux qui ont réussi', qu'il juge avec une sévérité disproportionnée",
+      "teste les nouvelles relations pour voir si elles résistent à la révélation de sa situation réelle",
+      "oscille entre une humilité forcée et des bouffées d'arrogance nostalgique",
+      "surinvestit des symboles de statut accessibles — apparence, vocabulaire, posture — comme substituts"
+    ],
+    "conflitsInternesTypiques": [
+      "se définissait par sa position sociale et ne sait plus qui il est sans elle",
+      "veut tourner la page mais ne peut s'empêcher de revenir mentalement à 'avant'",
+      "ressent de la honte mais aussi de la colère contre ceux qui lui ont fait subir cette chute ou l'ont abandonnée",
+      "désire être aimé pour lui-même mais ne sait pas ce que 'lui-même' signifie sans son ancienne identité",
+      "peut mépriser les valeurs sociales qu'il a perdues tout en continuant à les désirer secrètement"
+    ],
+    "manifestationsPhysiques": [
+      "gestes qui trahissent d'anciens réflexes de classe — façon de tenir un verre, de s'asseoir, de parler",
+      "regard qui jauge instinctivement le statut des personnes qu'il rencontre",
+      "tension dans la voix quand on l'interroge sur son passé ou sa situation actuelle",
+      "soin excessif de l'apparence, dernier espace de contrôle sur l'image",
+      "fatigue diffuse liée à l'effort constant de maîtriser ce que l'on montre",
+      "recul physique quand on entre dans des espaces qui lui rappellent son ancienne vie"
+    ],
+    "declencheurs": [
+      "croiser quelqu'un de son ancien cercle social",
+      "entrer dans un lieu — restaurant, hôtel, club — qu'il fréquentait autrefois",
+      "entendre son nom associé à l'histoire de sa chute",
+      "voir des personnes de son ancienne génération toujours en place, toujours reconnues",
+      "devoir remplir un formulaire qui demande sa profession ou ses revenus",
+      "une réussite de ses enfants ou proches qui lui rappelle ce qu'il aurait voulu leur offrir"
+    ],
+    "cheminsVersResolution": [
+      "construire une identité qui ne dépende plus d'une position — et en éprouver la solidité dans les faits",
+      "nommer la chute sans honte devant quelqu'un qui ne le juge pas, et constater que la relation survit",
+      "trouver un domaine — même modeste — où il crée de la valeur par ce qu'il fait, pas par ce qu'il représente",
+      "faire le deuil de la personne qu'il était sans la condamner entièrement",
+      "accepter que certaines des relations perdues ne valaient pas ce qu'il croyait — et en souffrir, puis avancer"
+    ],
+    "impactRelationnel": [
+      "méfiance profonde envers les nouvelles relations, suspectées d'être intéressées ou condescendantes",
+      "tendance à se lier à des personnes marginalisées, comme lui — par solidarité ou par confort",
+      "peut idéaliser des relations antérieures à la chute, les magnifiant dans le souvenir",
+      "difficulté à recevoir de l'aide sans y lire une forme de condescendance ou de pitié",
+      "peut développer une loyauté intense pour les rares personnes qui sont restées après la chute",
+      "en couple, peut créer un déséquilibre en faisant porter à l'autre le poids de sa reconstruction identitaire"
+    ],
+    "notesEditoriales": [
+      "La richesse de cette blessure tient dans l'ambiguïté morale : le personnage peut avoir contribué à sa propre chute, ce qui ajoute une couche de culpabilité à la honte sociale.",
+      "Distinguer la perte de statut subie injustement de celle qui découle d'une faute réelle — les deux existent et génèrent des dynamiques très différentes.",
+      "Le personnage qui a perdu son statut est souvent le meilleur observateur de la superficialité des rapports sociaux qu'il fréquentait — ce regard lucide et amer peut être un atout narratif.",
+      "Éviter le cliché de la rédemption par la pauvreté assumée : la blessure est plus vraie quand le personnage garde une ambivalence durable envers ce qu'il a perdu."
+    ]
+  },
+  {
+    "id": "echec-amoureux-fondateur",
+    "label": "Rupture amoureuse fondatrice",
+    "famille": "perte",
+    "definitionCourte": "Le personnage a vécu une relation amoureuse dont la fin a opéré comme une fracture identitaire : il n'est plus le même après. Ce n'est pas seulement la perte de l'autre qui marque, mais la perte de la version de soi-même qui existait dans cette relation, et parfois de la croyance en l'amour lui-même.",
+    "originesPossibles": [
+      "première relation amoureuse intense, vécue à l'adolescence, qui s'est terminée brutalement",
+      "rupture après plusieurs années de vie commune, sans explication suffisante",
+      "abandon par quelqu'un qu'il aimait profondément, pour quelqu'un d'autre",
+      "relation qui s'est terminée par une trahison découverte tardivement",
+      "amour non partagé, longtemps espéré, définitivement refusé",
+      "relation perdue à cause d'une circonstance extérieure — mort, distance, guerre — non d'une décision",
+      "rupture imposée par les familles, la société ou les circonstances malgré un amour réel"
+    ],
+    "croyancesNegativesInduites": [
+      "Je ne suis pas quelqu'un qu'on choisit pour toujours.",
+      "L'amour que je donne finit toujours par ne pas suffire.",
+      "Ce que j'ai vécu était la seule vraie relation possible pour moi.",
+      "M'ouvrir pleinement à quelqu'un me rend vulnérable à une blessure que je ne survivrai pas deux fois.",
+      "Le bonheur en amour n'est jamais stable — il précède toujours une perte.",
+      "Je suis trop difficile, trop entier, trop quelque chose — c'est pour ça qu'on me quitte.",
+      "Personne ne me connaîtra jamais aussi bien qu'eux — et peut-être que c'est pour ça que ça n'a pas marché."
+    ],
+    "peursCentrees": [
+      "la peur de s'ouvrir à nouveau et de revivre la même douleur",
+      "la peur que toute nouvelle relation ne soit qu'un pâle substitut",
+      "la peur de comparer malgré lui chaque nouveau partenaire à l'ancien",
+      "la peur que les autres perçoivent qu'il n'est pas entièrement disponible",
+      "la peur de ne jamais ressentir avec la même intensité ce qu'il a ressenti alors"
+    ],
+    "comportementsDefensifs": [
+      "entretient le souvenir de la relation perdue à un niveau idéalisé, inaccessible à quiconque",
+      "sabote les nouvelles relations dès qu'elles deviennent sérieuses",
+      "multiplie les relations superficielles pour ne jamais risquer la profondeur",
+      "garde des objets, messages, lieux associés à l'ancien amour comme des reliques",
+      "parle peu de cette relation mais elle informe toutes ses décisions affectives",
+      "peut tester les nouveaux partenaires de manière inconsciente pour voir s'ils 'feront la même chose'",
+      "évite les lieux, les chansons, les saisons associés à cette période"
+    ],
+    "conflitsInternesTypiques": [
+      "désire un amour profond mais tout ce qui ressemble à cet amour lui fait peur",
+      "sait qu'il idéalise le passé mais ne parvient pas à cesser de le faire",
+      "ressent de la culpabilité vis-à-vis des nouveaux partenaires qui méritent mieux que des restes",
+      "oscille entre le désir de tourner la page et le sentiment que le faire serait une trahison",
+      "se demande si ce qu'il ressent est vraiment de l'amour ou une nostalgie habillée en désir"
+    ],
+    "manifestationsPhysiques": [
+      "réaction physique involontaire à certaines chansons, odeurs ou images associées à cette relation",
+      "sourire fugace et douloureux quand quelque chose rappelle l'autre",
+      "résistance physique à certains gestes d'intimité reproduisant ceux vécus avec l'autre",
+      "légère contracture dans la gorge ou la poitrine quand on parle de cet amour passé",
+      "regard qui s'absente brièvement dans certaines conversations intimes",
+      "difficulté à dormir ou à lâcher prise lors des anniversaires ou des saisons liées à cette relation"
+    ],
+    "declencheurs": [
+      "une chanson, un parfum, un lieu partagé avec l'ancien amour",
+      "voir l'ancien partenaire — en personne ou sur les réseaux — dans une vie qui continue sans lui",
+      "entendre parler d'un couple qui se sépare après une longue histoire",
+      "une nouvelle relation qui atteint le niveau d'intimité de l'ancienne",
+      "une date anniversaire — première rencontre, rupture — même passée depuis des années",
+      "quelqu'un qui ressemble à l'ancien amour, même fugacement"
+    ],
+    "cheminsVersResolution": [
+      "comprendre que l'idéalisation de l'ancien amour protège d'une douleur pas encore pleinement traversée — et traverser cette douleur",
+      "trouver dans une nouvelle relation un sentiment que l'ancienne ne lui a jamais donné — et le reconnaître",
+      "écrire, parler ou mettre en forme ce qui reste de non-dit autour de cette rupture",
+      "accepter que cette relation ait été réelle et belle sans qu'elle ait besoin d'être la seule possible",
+      "retrouver, avec le temps et dans une autre relation, le sentiment d'être pleinement connu par quelqu'un"
+    ],
+    "impactRelationnel": [
+      "partenaires suivants qui sentent qu'ils sont en compétition avec un fantôme",
+      "tendance à recréer inconsciemment la dynamique de l'ancienne relation — même ce qui était douloureux",
+      "intimité émotionnelle plafonnée : peut aller jusqu'à un certain point, puis se referme",
+      "peut être extraordinairement attentionné dans les nouvelles relations — par culpabilité ou par désir de 'mieux faire'",
+      "amis proches qui connaissent par cœur l'histoire de cette relation et ne savent plus comment en parler",
+      "difficulté à croire les déclarations d'amour ou de fidélité des nouveaux partenaires"
+    ],
+    "notesEditoriales": [
+      "La puissance narrative de cette blessure est dans la tension entre ce qui a été réel et ce que le personnage en a fait dans sa mémoire. L'idéalisation est souvent le signe d'une douleur non résolue, pas d'un amour supérieur.",
+      "Éviter le cliché de l'amour de jeunesse parfait : les relations fondatrices sont souvent fondatrices précisément parce qu'elles étaient chaotiques, pas parce qu'elles étaient idéales.",
+      "Cette blessure peut coexister avec une vie affective apparemment fonctionnelle. Le personnage peut être en couple, heureux en surface, tout en portant ce souvenir comme un poids silencieux.",
+      "Le personnage qui a perdu un amour par circonstance (mort, séparation forcée) porte une blessure différente de celui qui a été quitté — la première est souvent plus paralysante car sans colère possible."
+    ]
+  },
+  {
+    "id": "abus-confiance-figure-autorite",
+    "label": "Abus d'une figure d'autorité",
+    "famille": "trahison",
+    "definitionCourte": "Le personnage a été trahi, exploité ou abusé par quelqu'un qui occupait une position d'autorité légitime — enseignant, entraîneur, mentor, thérapeute, prêtre. La blessure touche à la structure même de la confiance : c'est précisément parce que l'autorité était reconnue et accordée que la trahison a pu avoir lieu. Ce qui était censé protéger ou former a blessé.",
+    "originesPossibles": [
+      "enseignant qui a utilisé son pouvoir pour humilier, manipuler ou abuser émotionnellement",
+      "entraîneur sportif qui a soumis le jeune athlète à des conditions de contrôle et de pression abusives",
+      "mentor professionnel qui a volé des idées ou exploité le travail du protégé sans reconnaissance",
+      "thérapeute qui a franchi des limites éthiques et émotionnellement ou sexuellement",
+      "figure religieuse qui a utilisé l'autorité morale pour contrôler, culpabiliser ou abuser",
+      "directeur ou supérieur hiérarchique qui a exercé une emprise progressive sur un jeune subordonné",
+      "figure parentale de substitution — beau-parent, tuteur — qui a trahi la confiance accordée"
+    ],
+    "croyancesNegativesInduites": [
+      "Les gens qui prétendent vouloir m'aider ont toujours quelque chose à y gagner.",
+      "Si quelqu'un s'intéresse à moi, c'est que j'ai quelque chose qu'il veut prendre.",
+      "L'autorité est un masque qui cache la domination.",
+      "Je ne sais pas reconnaître les personnes de confiance — mon jugement est défaillant.",
+      "Accepter de l'aide, c'est se mettre en position d'être exploité.",
+      "Je n'aurais pas dû laisser entrer cette personne dans ma vie — la faute est aussi la mienne.",
+      "Les institutions qui sont censées protéger sont les premières à blesser."
+    ],
+    "peursCentrees": [
+      "la peur de se retrouver dans une relation de dépendance — même saine — envers quelqu'un de plus puissant",
+      "la peur de ne pas voir venir une manipulation jusqu'à ce qu'il soit trop tard",
+      "la peur d'être à nouveau dans une situation où son consentement n'est pas réellement libre",
+      "la peur que personne ne le croie s'il parle de ce qui s'est passé",
+      "la peur de répéter le schéma en accordant mal sa confiance à nouveau"
+    ],
+    "comportementsDefensifs": [
+      "refuse toute relation de mentorat ou de guidance, même bienveillante",
+      "remet en question les motifs de quiconque lui offre de l'aide ou un intérêt soutenu",
+      "peut devenir lui-même une figure d'autorité rigide pour ne jamais être en position de faiblesse",
+      "teste les figures d'autorité par des comportements de provocation ou de résistance",
+      "garde une distance émotionnelle dans toute relation hiérarchique, même horizontale",
+      "peut dénoncer publiquement les abus d'autorité avec une intensité qui dépasse la situation présente",
+      "évite les structures institutionnelles, les groupes organisés, les cadres avec des règles imposées"
+    ],
+    "conflitsInternesTypiques": [
+      "a besoin de guidance et d'apprentissage mais ne peut pas se permettre de faire confiance à qui pourrait le guider",
+      "ressent de la colère contre la figure d'autorité mais aussi de la honte de ne pas avoir résisté ou fui plus tôt",
+      "veut témoigner de ce qui s'est passé mais craint de ne pas être cru ou d'être jugé",
+      "oscille entre idéaliser encore la figure d'autorité (c'était le seul qui croyait en moi) et la diaboliser",
+      "cherche l'autonomie absolue comme protection mais en souffre car il a aussi besoin des autres"
+    ],
+    "manifestationsPhysiques": [
+      "raideur physique ou inconfort dans les situations où il se retrouve 'en dessous' dans une hiérarchie",
+      "méfiance des contacts physiques non sollicités, surtout de la part de personnes en position d'autorité",
+      "vigilance dans les espaces institutionnels — bureaux, salles de cours, gymnases",
+      "voix qui change de registre — plus plate, plus précautionneuse — en présence d'une figure de pouvoir",
+      "réaction physique de retrait ou de raideur face à quelqu'un qui ressemble à la figure d'autorité",
+      "difficultés de concentration ou d'apprentissage dans des cadres trop structurés"
+    ],
+    "declencheurs": [
+      "rencontrer quelqu'un qui occupe le même rôle que la figure d'autorité — enseignant, entraîneur, thérapeute",
+      "se retrouver dans un espace institutionnel qui rappelle le contexte de l'abus",
+      "voir ou entendre parler d'un abus similaire dans les médias",
+      "une situation où il doit faire confiance à quelqu'un de plus puissant que lui",
+      "être félicité ou pris en charge de manière qui ressemble — même vaguement — aux gestes de la figure d'autorité",
+      "entendre quelqu'un défendre la figure d'autorité ou minimiser ce qu'elle a fait"
+    ],
+    "cheminsVersResolution": [
+      "trouver une figure de mentorat ou d'autorité qui respecte les limites de manière cohérente et durable — et laisser la confiance se reconstruire très lentement",
+      "nommer l'abus — à un thérapeute, un proche, ou dans l'espace public — et voir que la parole tient",
+      "comprendre que sa vulnérabilité d'alors n'était pas une faiblesse coupable mais une confiance normale qui a été exploitée",
+      "rencontrer d'autres personnes ayant vécu des expériences similaires, pour sortir de l'isolement de la honte",
+      "exercer lui-même une forme d'autorité — pédagogique, professionnelle — de manière éthique, et en tirer une fierté réelle"
+    ],
+    "impactRelationnel": [
+      "méfiance généralisée envers toute personne qui lui veut 'du bien' sans raison apparente",
+      "peut repousser des mentors, des professeurs ou des figures positives qui auraient pu l'aider",
+      "en position de supérieur hiérarchique, peut soit reproduire une forme de contrôle, soit être paralysé par la peur de blesser",
+      "difficulté à travailler dans des structures organisées : conflits réguliers avec l'autorité",
+      "peut chercher des relations horizontales, égalitaires, mais y recréer parfois des dynamiques de pouvoir similaires",
+      "relation ambivalente avec l'institution qui aurait dû protéger et ne l'a pas fait"
+    ],
+    "notesEditoriales": [
+      "Cette blessure est particulièrement délicate à écrire car elle implique souvent une part de séduction et de confiance accordée librement, ce qui génère chez le personnage une honte disproportionnée. C'est précisément dans cette honte que se loge le moteur narratif.",
+      "La figure d'autorité abusant de son pouvoir est plus intéressante quand elle n'est pas uniquement un monstre : souvent, elle avait des qualités réelles, ce qui rend la trahison encore plus difficile à nommer.",
+      "Résister à la tentation de résoudre trop vite : la méfiance envers l'autorité n'est pas un défaut irrationnel, c'est une réponse adaptée à une expérience réelle. La résolution passe par l'expérience d'une autorité digne de confiance, pas par un raisonnement.",
+      "Ne pas confondre avec la trahison d'une confiance ordinaire : ici, la dimension institutionnelle et la disparité de pouvoir sont au cœur de la blessure."
+    ]
+  },
+  {
+    "id": "enfant-non-desire",
+    "label": "Sentiment de ne pas avoir été désiré",
+    "famille": "abandon",
+    "definitionCourte": "Le personnage a grandi avec le sentiment — nourri par des mots, des attitudes ou des silences — qu'il n'avait pas été voulu, attendu ou accueilli à sa naissance. La blessure n'est pas nécessairement liée à un rejet explicite : elle peut se construire dans des sous-entendus, des maladresses répétées ou une froideur inexpliquée. Elle touche à la question fondamentale : ma venue au monde avait-elle de la valeur ?",
+    "originesPossibles": [
+      "enfant né d'une grossesse non désirée, et qui l'a appris ou l'a ressenti",
+      "enfant né à une période difficile de la vie des parents — crise, deuil, séparation — et associé à cette période",
+      "adoption dans laquelle le récit des origines a été douloureux ou mal transmis",
+      "parent qui avait désiré un enfant d'un autre sexe et ne s'en est jamais vraiment caché",
+      "enfant dont la naissance a coïncidé avec un malheur familial, inconsciemment tenu responsable",
+      "enfant d'une liaison ou d'un accident, dont la présence était un rappel de quelque chose que les parents voulaient oublier",
+      "commentaires d'adultes, même anodins en apparence, sur le fait qu'il avait 'tout changé' ou 'tout compliqué'"
+    ],
+    "croyancesNegativesInduites": [
+      "Je suis une erreur — ma présence dans le monde est accidentelle.",
+      "Je dois me justifier d'exister, prouver que ma place est méritée.",
+      "L'amour des autres est conditionnel à mon utilité ou à ma discrétion.",
+      "Je suis naturellement de trop — dans une relation, dans une pièce, dans une vie.",
+      "Personne ne m'aurait choisi si on lui en avait laissé la possibilité.",
+      "Mon besoin d'amour est excessif et finira par faire fuir les gens.",
+      "Il y a quelque chose en moi — à la racine — qui pose problème."
+    ],
+    "peursCentrees": [
+      "la peur d'être de trop, de trop prendre de place, d'encombrer",
+      "la peur que les gens restent par obligation, par pitié, pas par véritable désir de sa présence",
+      "la peur d'être abandonné dès que ce sera possible ou pratique",
+      "la peur de demander quelque chose et de voir la vraie réponse — celle qui confirme qu'il n'était pas attendu",
+      "la peur d'un vide identitaire au fond : qui suis-je si même mes parents ne m'ont pas voulu ?"
+    ],
+    "comportementsDefensifs": [
+      "se fait discret pour ne pas gêner, prend le minimum, refuse de s'imposer",
+      "anticipe le rejet en partant le premier, avant que l'autre puisse le quitter",
+      "cherche à être indispensable pour mériter une place que les autres semblent occuper naturellement",
+      "peut se sur-adapter à chaque contexte, effaçant ses propres besoins pour ne pas déplaire",
+      "alterne entre une retenue excessive et des demandes d'amour intenses qui font peur aux autres",
+      "accepte des relations clairement insuffisantes plutôt que de risquer la solitude",
+      "développe une sensibilité extrême aux signaux d'indifférence ou d'impatience chez les autres"
+    ],
+    "conflitsInternesTypiques": [
+      "désire profondément être aimé et choisi, mais croit que ce désir lui-même est excessif et repoussant",
+      "veut prendre sa place mais sent qu'il n'y a pas droit, que c'est présomptueux",
+      "peut aimer avec intensité des personnes qui le négligent, les confondant avec quelque chose de familier",
+      "ressent de la colère contre ses parents mais n'ose pas la nommer car elle lui semble injuste ou ingrate",
+      "oscille entre se convaincre que tout va bien et des effondrements soudains face à la moindre preuve de non-désir"
+    ],
+    "manifestationsPhysiques": [
+      "posture qui cherche à réduire l'espace occupé — épaules rentrées, voix basse",
+      "inconfort physique quand il est au centre de l'attention, surtout si cette attention est chaleureuse",
+      "réaction de surprise visible quand quelqu'un exprime un plaisir sincère de le voir",
+      "tension dans le visage quand il doit exprimer un besoin ou une demande",
+      "regard qui cherche la confirmation que sa présence est bien tolérée, bienvenue",
+      "difficulté à recevoir des cadeaux ou des marques d'affection sans les minimiser"
+    ],
+    "declencheurs": [
+      "une situation où il sent qu'il 'prend trop de place' ou ralentit le groupe",
+      "un partenaire ou ami qui semble préférer passer du temps seul ou avec d'autres",
+      "entendre quelqu'un dire que son enfant a 'changé sa vie' positivement — contraste douloureux",
+      "des questions sur ses origines, son enfance, la réaction de ses parents à sa naissance",
+      "une fête ou une célébration où il ne sait pas s'il est vraiment attendu ou simplement toléré",
+      "une séparation — même temporaire — avec quelqu'un d'important, vécue comme un abandon potentiel"
+    ],
+    "cheminsVersResolution": [
+      "être choisi explicitement par quelqu'un — dans une amitié, un amour, un travail — et apprendre à le croire sans le démonter",
+      "obtenir, d'un parent ou d'un proche, une forme de réponse ou de reconnaissance sur ce qui s'est passé — même imparfaite",
+      "comprendre que le désir de ses parents à sa naissance n'est pas une mesure de sa valeur intrinsèque",
+      "construire une communauté, même petite, où sa présence est activement voulue",
+      "apprendre à exprimer un besoin et constater que cela ne fait pas fuir les autres — à plusieurs reprises, jusqu'à ce que l'expérience s'intègre"
+    ],
+    "impactRelationnel": [
+      "peut aimer des personnes ambivalentes ou distantes, inconsciemment habituées à ce type de relation",
+      "grande difficulté à croire qu'une relation durable et choisie est possible pour lui",
+      "peut être perçu comme excessivement attentionné ou serviable, sans que les autres comprennent pourquoi",
+      "tendance à céder dans les conflits pour ne pas risquer d'être quitté, même quand il a raison",
+      "amitié ou amour intense avec les rares personnes qui l'ont choisi clairement — parfois à un degré écrasant pour elles",
+      "difficulté à dire non, à poser des limites, à occuper la place qui lui revient dans une relation"
+    ],
+    "notesEditoriales": [
+      "Cette blessure est parmi les plus profondes car elle touche à l'origine même du sentiment d'exister légitimement. Elle est souvent invisible car le personnage la compense par une discrétion ou une serviabilité qui le rendent précieux aux autres — mais pour de mauvaises raisons.",
+      "Ne pas confondre avec la blessure d'abandon (qui survient après avoir été aimé puis perdu) : ici, le personnage ne sait pas ce que c'est que d'avoir été inconditionnellement voulu.",
+      "Le moment narratif le plus fort n'est souvent pas la révélation de la blessure mais le moment où quelqu'un choisit réellement ce personnage — et où le personnage ne sait pas quoi faire de cette information.",
+      "Attention à ne pas réduire le personnage à sa blessure : certaines des qualités les plus profondes (écoute, discrétion, empathie) peuvent venir de cette même source. La blessure et le don coexistent."
+    ]
+  }
+]

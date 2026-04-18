@@ -1,0 +1,569 @@
+[
+  {
+    "id": "enfant-bouc-emissaire",
+    "label": "Enfant bouc émissaire",
+    "alias": ["bouc émissaire", "bouc emissaire", "enfant bouc émissaire", "enfant rejeté", "mouton noir", "brebis galeuse", "enfant exclu de la famille", "enfant désigné", "enfant problème", "enfant différent de la famille"],
+    "famille": "conflits-familiaux",
+    "definitionCourte": "Dynamique familiale dans laquelle un enfant — souvent le plus sensible ou le plus différent — concentre les tensions du groupe et devient le réceptacle de ce que la famille ne veut pas regarder en elle-même.",
+    "natureDuConflit": "Conflit de place et d'identité — le personnage est défini par la famille comme le problème, ce qui le prive d'une image juste de lui-même.",
+    "forcesEnPresence": [
+      "dysfonction familiale cherchant un exutoire",
+      "différence réelle ou construite de l'enfant désigné",
+      "besoin du groupe de maintenir une cohésion par l'exclusion d'un membre",
+      "rôles figés impossible à quitter une fois installés",
+      "silence des autres membres qui valident la désignation sans la nommer",
+      "famille qui a besoin de croire qu'elle fonctionnerait mieux sans cet enfant",
+      "parent qui projette sur l'enfant ce qu'il ne peut pas regarder en lui-même"
+    ],
+    "declencheursFrequents": [
+      "échec scolaire ou comportemental qui confirme l'étiquette",
+      "enfant qui exprime ce que les autres répriment — colère, tristesse, vérité",
+      "différence visible — tempérament, orientation, choix de vie",
+      "crise familiale dont l'enfant devient le symbole ou le bouc émissaire",
+      "comparaison défavorable répétée avec un autre enfant présenté comme modèle",
+      "moment où l'enfant refuse de porter le rôle qu'on lui a assigné",
+      "adolescence qui révèle une identité trop éloignée de ce que la famille attendait",
+      "événement externe qui expose les tensions familiales et cherche un coupable"
+    ],
+    "signauxAvantCoureurs": [
+      "critiques disproportionnées pour des fautes mineures",
+      "réussites ignorées, échecs amplifiés et racontés",
+      "surnoms ou étiquettes qui figent l'identité",
+      "autres enfants épargnés pour les mêmes comportements",
+      "parents qui parlent de cet enfant différemment aux tiers",
+      "regard parental différent — moins de chaleur, plus de surveillance",
+      "épuisement parental imputé à cet enfant plutôt qu'à d'autres causes",
+      "fratrie qui apprend à s'en distancer pour se protéger"
+    ],
+    "silencesEtNonDits": [
+      "personne dans la famille ne dit 'on lui fait porter ce qui nous appartient'",
+      "l'enfant ne peut pas nommer ce qu'il vit sans être accusé de victimisation",
+      "les autres enfants savent mais se taisent pour ne pas prendre la place",
+      "'tu es différent et c'est un problème' ne sera jamais dit clairement",
+      "l'amour des parents pour cet enfant — souvent réel — n'est jamais dit",
+      "ce que la famille projetterait sur quelqu'un d'autre si cet enfant partait"
+    ],
+    "penseesTypiques": [
+      "Quoi que je fasse, c'est toujours moi qui ai tort.",
+      "Ils s'aiment tous entre eux. Pas moi.",
+      "Peut-être qu'ils ont raison — peut-être que je suis le problème.",
+      "Je dois sortir de cette famille pour exister.",
+      "Si je change assez, peut-être qu'ils m'aimeront comme les autres.",
+      "Ils fonctionnent mieux quand je ne suis pas là. J'ai compris.",
+      "Pourquoi moi ? Qu'est-ce que j'ai fait que les autres n'ont pas fait ?",
+      "Il y a quelque chose en moi que je ne comprends pas et qui les dérange.",
+      "Je me demande qui je serais si j'avais grandi dans une autre famille."
+    ],
+    "comportementsTypiques": [
+      "rébellion visible qui confirme l'étiquette et que la famille instrumentalise",
+      "surperformance pour tenter d'être enfin reconnu sur un autre registre",
+      "fuite — géographique, professionnelle, relationnelle — pour trouver de l'air",
+      "intériorisation du rôle jusqu'à y croire soi-même",
+      "alliance avec l'extérieur pour compenser l'exclusion intérieure",
+      "comportements autodestructeurs qui expriment ce qui ne peut pas se dire",
+      "retrait complet pour ne plus être la cible ni le problème",
+      "reproduction du rôle dans d'autres groupes sans en comprendre la mécanique"
+    ],
+    "positionsDePouvoir": [
+      "position structurellement basse, définie par le groupe sans consentement",
+      "l'enfant peut reprendre du pouvoir par la distance ou la prise de conscience",
+      "la famille perd son équilibre si le bouc émissaire refuse son rôle — tension redistribuée",
+      "à l'âge adulte, la lucidité acquise peut devenir une ressource narrative puissante"
+    ],
+    "variantes": [
+      {
+        "relation": "Famille avec parent dominant",
+        "description": "Le parent dominant désigne l'enfant et les autres suivent par peur ou loyauté. L'enfant est seul contre le groupe. La sortie passe par l'éloignement physique et psychologique — et la construction d'un monde hors de la famille."
+      },
+      {
+        "relation": "Famille en crise non dite",
+        "description": "Le conflit conjugal ou la dysfonction familiale est réel mais jamais nommé. L'enfant le plus sensible l'absorbe et l'exprime à travers ses comportements. Il devient le symptôme d'un problème qui le dépasse entièrement."
+      },
+      {
+        "relation": "Adulte qui comprend rétrospectivement",
+        "description": "Le personnage adulte réalise a posteriori qu'il a été le bouc émissaire. La prise de conscience est libératrice mais douloureuse — elle oblige à revisiter toute son histoire et à deuiller la famille qu'il croyait avoir."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Préférence défavorable", "description": "Légère inégalité de traitement, remarques répétées. L'enfant le ressent sans pouvoir le nommer." },
+      { "niveau": 2, "label": "Étiquette installée", "description": "Le rôle est fixé dans la famille. L'enfant est défini par ses difficultés, jamais par ses qualités." },
+      { "niveau": 3, "label": "Exclusion systématique", "description": "L'enfant est traité différemment de façon évidente. Les autres membres valident sans le dire explicitement." },
+      { "niveau": 4, "label": "Rejet actif", "description": "Les tensions familiales lui sont imputées ouvertement. Il est tenu à l'écart des moments positifs." },
+      { "niveau": 5, "label": "Exclusion totale", "description": "L'enfant est coupé de la famille — symboliquement ou réellement. Son existence est présentée comme le problème." }
+    ],
+    "escaladeTypique": [
+      "différence ou sensibilité de l'enfant remarquée et mal gérée",
+      "désignation progressive comme source du problème familial",
+      "rôle figé et accepté par le groupe comme naturel",
+      "rébellion ou effacement de l'enfant en réponse",
+      "rupture, fuite ou prise de conscience adulte"
+    ],
+    "voiesDeResolution": [
+      "distance physique et psychologique de la famille — préalable souvent indispensable",
+      "tiers extérieur qui reflète une image juste non déformée par le rôle familial",
+      "compréhension du mécanisme sans avoir besoin que la famille le reconnaisse",
+      "construction d'une famille choisie qui offre ce que la famille d'origine refusait",
+      "thérapie qui aide à distinguer ce qui appartient à soi de ce qui a été projeté"
+    ],
+    "blessuresUnderlyantes": [
+      "dysfonction familiale plus large dont l'enfant est le symptôme pas la cause",
+      "différence non acceptée dans un groupe qui valorise la conformité",
+      "parent lui-même ayant été bouc émissaire et reproduisant le schéma sans le voir",
+      "crise familiale non résolue projetée sur l'enfant le plus vulnérable ou le plus expressif",
+      "besoin du groupe de maintenir une image externe positive au prix d'un de ses membres"
+    ],
+    "contextesFavorables": [
+      "famille avec fort besoin de maintenir une image externe positive",
+      "enfant particulièrement sensible ou différent des normes familiales",
+      "crise familiale non dite cherchant un exutoire",
+      "fratrie avec fort écart de traitement",
+      "famille traversée par des tensions non résolues depuis plusieurs générations"
+    ],
+    "personnagesSouventConcernes": [
+      "enfant le plus sensible ou le plus expressif de la fratrie",
+      "enfant différent par le tempérament, l'orientation ou les choix de vie",
+      "enfant qui arrive au mauvais moment dans l'histoire familiale",
+      "adulte en thérapie qui reconstruit son histoire d'enfance",
+      "enfant dont la différence exprime ce que la famille refoule"
+    ],
+    "erreursDEcriture": [
+      "Rendre les parents entièrement conscients et malveillants — le bouc émissaire est souvent désigné sans que personne ne le formule ni ne le choisisse clairement.",
+      "Confondre avec le simple enfant difficile — l'enfant bouc émissaire n'est pas nécessairement le plus difficile, il est le plus désigné.",
+      "Résoudre par la confrontation familiale — les familles qui ont besoin d'un bouc émissaire ne reconnaissent que rarement le mécanisme.",
+      "Oublier la fratrie — les autres enfants sont souvent piégés eux aussi, entre culpabilité et soulagement de ne pas être à cette place.",
+      "Oublier que l'enfant s'est adapté — sa rébellion ou son effacement sont des stratégies de survie, pas des caractères."
+    ],
+    "notesEditoriales": [
+      "Le bouc émissaire adulte est l'un des personnages les plus riches à écrire — il porte une blessure profonde mais a souvent développé une lucidité et une sensibilité exceptionnelles.",
+      "La scène la plus forte n'est pas la confrontation avec la famille — c'est le moment où le personnage réalise qu'il n'était pas le problème.",
+      "Distinguer le bouc émissaire qui s'est rebellé de celui qui a intégré le rôle — les deux ont des trajectoires très différentes.",
+      "Le personnage le plus révélateur dans ce conflit est souvent la fratrie silencieuse — qui savait et n'a rien dit."
+    ],
+    "dynamiqueAssociee": { "id": "bouc-emissaire-familial", "label": "Bouc émissaire familial" }
+  },
+  {
+    "id": "conflit-generationnel",
+    "label": "Conflit générationnel",
+    "alias": ["conflit générationnel", "conflit generationnel", "conflit de valeurs entre générations", "désaccord parent enfant", "fossé générationnel", "conflit de générations", "incompréhension générationnelle", "valeurs incompatibles", "désaccord de fond", "parent qui ne comprend pas"],
+    "famille": "conflits-familiaux",
+    "definitionCourte": "Opposition entre un parent et un enfant adulte — ou entre générations dans une famille — sur des valeurs, des choix de vie ou une vision du monde qui ne se rejoignent pas.",
+    "natureDuConflit": "Conflit d'identité autant que de valeurs — chaque génération a construit qui elle est en partie contre ou grâce à l'autre.",
+    "forcesEnPresence": [
+      "époque et contexte différents qui ont forgé des valeurs incompatibles",
+      "amour réel qui rend le désaccord douloureux plutôt que simple",
+      "besoin du parent d'être validé dans ses choix passés",
+      "besoin de l'enfant d'exister hors du modèle parental",
+      "incompréhension mutuelle des contraintes de l'époque de l'autre",
+      "sacrifice parental qui n'a pas été choisi par l'enfant mais qui pèse",
+      "liberté de l'enfant qui est parfois vécue comme un affront au sacrifice"
+    ],
+    "declencheursFrequents": [
+      "choix de vie de l'enfant qui contredit les valeurs parentales",
+      "réussite ou échec perçu différemment par chaque génération",
+      "événement politique ou social qui divise par les valeurs",
+      "mariage, partenaire ou mode de vie non approuvé",
+      "décision professionnelle jugée incompréhensible ou irresponsable",
+      "révélation d'une identité ou d'un choix que le parent ne peut intégrer",
+      "retour à la maison familiale qui remet en scène les anciens schémas",
+      "naissance d'un enfant qui force à se confronter sur les valeurs éducatives"
+    ],
+    "signauxAvantCoureurs": [
+      "commentaires récurrents sur les choix de l'enfant habillés en inquiétude",
+      "comparaisons avec ce que le parent aurait fait ou ce que la génération faisait",
+      "sujets évités progressivement pour ne pas rouvrir le débat",
+      "incompréhension croissante lors des échanges sur l'actualité",
+      "fatigue des deux côtés à devoir se justifier à chaque réunion",
+      "ironie ou remarques à double sens sur les choix de vie de l'enfant",
+      "conversations qui restent en surface pour préserver la relation",
+      "tiers — frère, sœur, partenaire — utilisé comme tampon ou comme allié"
+    ],
+    "silencesEtNonDits": [
+      "'je suis fier de toi même si je ne comprends pas tes choix' ne se dit pas",
+      "'tu as raté ta vie' ne se dit pas non plus — mais ça se pense",
+      "la peur réciproque de perdre le lien n'est jamais avouée",
+      "ce que chaque génération a sacrifié pour l'autre reste invisible à l'autre",
+      "l'amour qui persiste malgré le désaccord profond ne se dit pas assez",
+      "'je voulais juste que tu sois heureux, pas heureux comme moi' ne sera peut-être jamais dit"
+    ],
+    "penseesTypiques": [
+      "Il ne comprendra jamais pourquoi j'ai fait ce choix.",
+      "Tout ce que j'ai construit pour elle, et elle choisit ça.",
+      "Je ne lui demande pas d'approuver — juste de respecter.",
+      "À son âge, j'avais déjà une famille et un travail stable.",
+      "Je l'aime, mais je ne peux pas lui parler de ce qui compte vraiment pour moi.",
+      "Chaque visite, je redoute le moment où on va tomber sur ce sujet.",
+      "Il défend des valeurs d'une époque révolue comme si elles étaient universelles.",
+      "Elle croit qu'elle est libre. Je sais ce que ça coûte cette liberté-là.",
+      "On aura peut-être ce qu'il faut se dire quand il sera trop tard pour le dire."
+    ],
+    "comportementsTypiques": [
+      "évitement des sujets clivants lors des repas de famille",
+      "double langage — une version pour les parents, une pour soi et ses proches",
+      "défense disproportionnée de ses choix face au parent",
+      "comparaisons silencieuses qui alimentent la rancœur des deux côtés",
+      "rapprochement lors des crises malgré le désaccord de fond",
+      "recherche d'alliés dans la famille pour ne pas être seul face au désaccord",
+      "politesse de façade qui masque une vraie distance affective",
+      "explosion lors d'un événement qui rouvre le sujet tabou"
+    ],
+    "positionsDePouvoir": [
+      "le parent détient l'autorité morale, l'histoire et le sacrifice",
+      "l'enfant détient sa propre vie, ses choix et son temps",
+      "la vieillesse du parent peut inverser la dépendance sans résoudre le désaccord",
+      "l'enfant dont les choix réussissent acquiert une légitimité que le parent ne peut plus nier"
+    ],
+    "variantes": [
+      {
+        "relation": "Valeurs politiques ou sociales opposées",
+        "description": "Le désaccord touche à la vision du monde. Il est ravivé par l'actualité à chaque événement. Chaque camp pense que l'autre est dans l'erreur morale. La table de Noël devient un champ de mines."
+      },
+      {
+        "relation": "Choix professionnels",
+        "description": "L'enfant choisit une voie que le parent ne comprend pas ou juge instable. Le parent a sacrifié pour offrir la sécurité — l'enfant la refuse. Le désaccord porte sur ce que signifie 'réussir'."
+      },
+      {
+        "relation": "Identité ou orientation",
+        "description": "L'enfant révèle une partie de lui-même que le parent ne peut pas intégrer dans son système de valeurs. Le conflit n'est pas seulement entre eux — il est dans la tête du parent, entre l'amour et la croyance."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Incompréhension légère", "description": "Désaccords ponctuels, vite mis de côté. Le lien prime sur le fond." },
+      { "niveau": 2, "label": "Friction régulière", "description": "Certains sujets sont évités. La tension monte lors des réunions. Le non-dit s'installe." },
+      { "niveau": 3, "label": "Désaccord profond", "description": "Les positions sont claires et incompatibles. Les deux maintiennent la relation malgré tout." },
+      { "niveau": 4, "label": "Distance affective", "description": "Le désaccord a créé une vraie distance. Les échanges sont polis mais vides de profondeur." },
+      { "niveau": 5, "label": "Rupture de valeurs", "description": "Le désaccord est devenu une rupture. Le lien ne tient plus qu'à l'obligation ou à l'habitude." }
+    ],
+    "escaladeTypique": [
+      "choix ou révélation de l'enfant qui touche à une valeur centrale du parent",
+      "réaction de désapprobation du parent — exprimée ou retenue",
+      "défense ou retrait de l'enfant",
+      "désaccord qui s'installe durablement et restructure la relation",
+      "accommodation mutuelle douloureuse ou rupture"
+    ],
+    "voiesDeResolution": [
+      "acceptation que la compréhension totale n'est pas nécessaire à l'amour",
+      "événement qui déplace la priorité du désaccord vers le lien — maladie, naissance",
+      "vieillissement qui relativise les enjeux pour au moins l'un des deux",
+      "tiers qui traduit pour les deux sans prendre parti",
+      "conversation directe où l'un dit 'je n'ai pas besoin de ta validation, mais j'ai besoin de toi'"
+    ],
+    "blessuresUnderlyantes": [
+      "parent qui a lui-même sacrifié pour une norme et ne supporte pas que l'enfant s'en affranchisse",
+      "enfant qui a construit son identité en réaction contre le modèle parental",
+      "amour réel mais langue émotionnelle incompatible depuis l'enfance",
+      "époque historique qui a forgé des certitudes incompatibles dans chaque génération",
+      "parent dont la valeur propre est liée à ses valeurs — la critique de celles-ci est une attaque personnelle"
+    ],
+    "contextesFavorables": [
+      "famille avec forte culture ou tradition identitaire",
+      "enfant qui s'éloigne fortement du modèle parental",
+      "époque de changement social rapide qui creuse les écarts",
+      "parent dont l'identité est liée à ses valeurs plus qu'à la relation elle-même",
+      "moment de vie — mariage, naissance, choix de carrière — qui force la confrontation"
+    ],
+    "personnagesSouventConcernes": [
+      "enfant de première génération qui change de milieu social",
+      "enfant dont les choix contredisent le sacrifice parental",
+      "parent dont les valeurs sont liées à une époque révolue",
+      "famille traversée par un changement culturel ou migratoire fort",
+      "enfant qui aime son parent mais ne peut plus faire semblant d'être d'accord"
+    ],
+    "erreursDEcriture": [
+      "Donner tort à l'une des générations — le conflit est plus intéressant quand les deux ont leurs raisons.",
+      "Confondre avec le simple désaccord — le conflit générationnel touche à l'identité, pas seulement aux opinions.",
+      "Résoudre par la capitulation de l'un — la résolution la plus juste est souvent l'acceptation du désaccord.",
+      "Oublier l'amour qui persiste malgré tout — c'est lui qui rend le conflit douloureux.",
+      "Faire du parent le seul rétrograde — l'enfant peut aussi avoir des certitudes non questionnées."
+    ],
+    "notesEditoriales": [
+      "Le conflit générationnel est souvent plus triste que violent — il porte le deuil d'une compréhension mutuelle qui n'aura peut-être jamais lieu.",
+      "Sa force narrative est dans ce qu'il dit sur chaque époque autant que sur chaque personnage.",
+      "Le moment le plus émouvant n'est pas la dispute — c'est la conversation ordinaire où les deux évitent le sujet qui compte.",
+      "Le plus grand désaccord n'est souvent pas sur les valeurs elles-mêmes — c'est sur ce que signifie 'bien vivre'."
+    ],
+    "dynamiqueAssociee": { "id": "tension-generationnelle", "label": "Tension générationnelle" }
+  },
+  {
+    "id": "parent-absent",
+    "label": "Parent absent",
+    "alias": ["parent absent", "abandon parental", "père absent", "mère absente", "parent qui part", "désertion parentale", "enfant abandonné", "parent qui n'était pas là", "manque du père", "manque de la mère"],
+    "famille": "conflits-familiaux",
+    "definitionCourte": "Blessure créée par l'absence d'un parent — physique ou émotionnelle — qui laisse un vide dans l'identité de l'enfant et structure durablement sa façon d'aimer et de faire confiance.",
+    "natureDuConflit": "Conflit avec une absence — le personnage se bat contre quelqu'un qui n'est pas là, ou qui est là sans être présent.",
+    "forcesEnPresence": [
+      "besoin fondamental de présence parentale non satisfait",
+      "idéalisation ou diabolisation du parent absent selon les phases de vie",
+      "colère et désir de lien qui coexistent sans résolution possible",
+      "identité construite autour d'un manque comme fond permanent",
+      "loyauté au parent absent qui complique les autres liens",
+      "honte non dite d'avoir été abandonné",
+      "question fondamentale non résolue : 'qu'est-ce que j'avais de si mauvais ?'"
+    ],
+    "declencheursFrequents": [
+      "événement de vie qui rappelle l'absence — mariage, naissance, réussite",
+      "retour inattendu du parent absent après des années",
+      "question d'un enfant sur le grand-parent manquant",
+      "ressemblance physique ou comportementale avec le parent absent",
+      "mort du parent sans réconciliation possible",
+      "relation amoureuse qui reproduit la dynamique d'absence",
+      "rencontre avec quelqu'un qui a eu le parent que le personnage n'a pas eu",
+      "moment de succès qui déclenche le désir de partager avec quelqu'un qui n'est pas là"
+    ],
+    "signauxAvantCoureurs": [
+      "idéalisation excessive du parent absent dans les récits familiaux",
+      "colère disproportionnée lors d'abandons perçus dans d'autres relations",
+      "évitement des sujets liés à l'enfance",
+      "recherche compulsive de figures parentales de remplacement",
+      "difficulté à demander ou accepter de l'aide sans attendre le refus",
+      "hypervigilance aux signes d'abandon dans toutes les relations",
+      "distance émotionnelle préventive qui protège mais isole",
+      "réactions disproportionnées aux petites absences ou aux retards"
+    ],
+    "silencesEtNonDits": [
+      "'pourquoi tu es parti ?' ne sera peut-être jamais posé",
+      "'tu m'as manqué' est souvent impossible à dire même adulte",
+      "la honte d'avoir été abandonné n'est jamais avouée",
+      "l'amour pour le parent absent — malgré tout — reste souvent muet",
+      "l'attente secrète que le parent revienne et s'explique enfin",
+      "ce que le personnage aurait voulu partager avec un parent qui n'était pas là"
+    ],
+    "penseesTypiques": [
+      "Qu'est-ce que j'avais de si mauvais pour qu'il parte ?",
+      "Je n'ai pas besoin de lui. Je ne l'ai jamais eu.",
+      "Si je réussis assez, peut-être qu'il regrettera.",
+      "Je ne veux pas lui ressembler — et j'ai peur de lui ressembler.",
+      "Je lui ai pardonné. Non. Je ne sais pas.",
+      "Il manque quelque chose à ma vie que je ne saurais pas nommer si on me le demandait.",
+      "Quand je vois quelqu'un avec son père, je ne ressens rien. Ou je ressens trop.",
+      "Je me suis dit que ça n'avait pas d'importance. Je mentais.",
+      "Et si c'était moi qui l'avais repoussé sans le savoir ?"
+    ],
+    "comportementsTypiques": [
+      "autonomie excessive pour ne jamais avoir besoin de personne",
+      "choix de partenaires qui reproduisent la dynamique d'absence",
+      "difficulté à croire que quelqu'un peut rester sans raison de partir",
+      "sabotage de relations proches avant qu'elles puissent décevoir",
+      "surcompensation comme parent pour ne pas reproduire l'absence",
+      "distance émotionnelle préventive qui protège mais empêche la vraie proximité",
+      "colère déplacée sur des proches qui n'y sont pour rien",
+      "moments de vulnérabilité soudaine et inexpliquée pour ceux qui ne savent pas"
+    ],
+    "positionsDePouvoir": [
+      "le parent absent détient un pouvoir émotionnel énorme sans même être là",
+      "l'enfant adulte peut reprendre du pouvoir en faisant le deuil plutôt qu'en attendant",
+      "le retour du parent renverse temporairement les positions — qui a besoin de qui ?",
+      "le personnage détient le pouvoir de décider si le retour est accepté ou refusé"
+    ],
+    "variantes": [
+      {
+        "relation": "Parent parti sans explication",
+        "description": "L'absence est brutale et non expliquée. L'enfant a construit des histoires pour combler le vide. La vérité, quand elle vient, est rarement à la hauteur de ce que l'imagination avait construit."
+      },
+      {
+        "relation": "Parent présent physiquement mais absent émotionnellement",
+        "description": "La blessure est plus difficile à nommer — le parent est là, mais pas vraiment. L'enfant a du mal à légitimer sa douleur. Il n'a pas le droit d'être blessé par quelqu'un qui n'est pas parti."
+      },
+      {
+        "relation": "Retour du parent absent",
+        "description": "Le parent revient après des années. L'enfant adulte doit décider quoi faire de cette présence tardive. Entre colère, désir de lien et méfiance, aucune réaction n'est simple — ni la fermeture ni l'ouverture."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Absence partielle", "description": "Parent présent mais peu disponible. L'enfant manque de présence sans être abandonné." },
+      { "niveau": 2, "label": "Absence régulière", "description": "Parent souvent absent pour des raisons externes. L'enfant gère mais le manque s'accumule." },
+      { "niveau": 3, "label": "Départ vécu", "description": "Parent parti à un âge mémorable. La blessure est datée et précise." },
+      { "niveau": 4, "label": "Abandon sans retour", "description": "Le parent est parti et n'est pas revenu. L'enfant a grandi avec ce vide comme fond de décor." },
+      { "niveau": 5, "label": "Rejet explicite", "description": "Le parent a non seulement été absent mais a signifié son désintérêt. La blessure touche à la valeur propre." }
+    ],
+    "escaladeTypique": [
+      "absence installée dans l'enfance comme fond permanent",
+      "adaptation et construction d'une image du parent absent",
+      "déclencheur adulte qui rouvre la blessure de façon inattendue",
+      "confrontation possible avec le parent ou avec soi-même",
+      "deuil ou transmission non consciente de la blessure"
+    ],
+    "voiesDeResolution": [
+      "deuil de la relation qu'on aurait voulu avoir, pas de celle qu'on a",
+      "confrontation choisie — pas pour changer l'autre mais pour se libérer",
+      "compréhension du contexte du parent sans excuser l'absence",
+      "construction délibérée de liens qui tiennent malgré la peur",
+      "thérapie qui aide à séparer la blessure ancienne des relations présentes"
+    ],
+    "blessuresUnderlyantes": [
+      "sentiment fondamental de ne pas valoir qu'on reste pour soi",
+      "question 'qu'est-ce que j'avais de si mauvais ?' jamais résolue",
+      "identité construite autour d'un manque plutôt que d'une présence",
+      "modèle d'attachement insécure installé très tôt et difficile à modifier",
+      "honte intégrée d'avoir été abandonné — comme si c'était mérité"
+    ],
+    "contextesFavorables": [
+      "enfance avec fort manque de figure parentale",
+      "contexte de séparation, maladie, mort ou abandon réel",
+      "famille où l'absence émotionnelle était la norme",
+      "personnage dont les relations adultes reproduisent le schéma",
+      "moment de vie où le manque resurgit avec une force inattendue"
+    ],
+    "personnagesSouventConcernes": [
+      "personnage hyperautonome qui cache un besoin profond sous l'indépendance",
+      "personnage qui sabote ses relations proches sans comprendre pourquoi",
+      "personnage confronté au retour du parent absent et à la décision d'ouvrir ou de fermer",
+      "parent qui lutte pour ne pas reproduire ce qu'il a vécu",
+      "personnage qui réalise qu'il choisit toujours des gens qui partent"
+    ],
+    "erreursDEcriture": [
+      "Résoudre par la réconciliation avec le parent — le vrai travail est souvent intérieur, pas relationnel.",
+      "Rendre le parent absent entièrement coupable — les circonstances complexifient presque toujours.",
+      "Confondre avec le rejet — le parent absent n'a pas toujours choisi ou conscience de ce qu'il faisait.",
+      "Oublier l'amour résiduel — même envers un parent qui a tout raté, il reste souvent quelque chose.",
+      "Résoudre trop proprement — les blessures d'abandon ne se réparent pas entièrement, et c'est honnête à montrer."
+    ],
+    "notesEditoriales": [
+      "La blessure du parent absent est l'une des plus universelles — elle touche au besoin d'être voulu et choisi.",
+      "Sa force narrative est dans ce qu'elle fait aux relations adultes du personnage — bien plus que dans la relation avec le parent lui-même.",
+      "Distinguer l'absence choisie de l'absence subie par le parent — guerre, maladie, contrainte — les deux créent une blessure différente.",
+      "Le moment le plus fort : quand le personnage réalise qu'il attend encore quelqu'un qui ne viendra pas."
+    ],
+    "dynamiqueAssociee": { "id": "lien-parent-absent", "label": "Lien avec un parent absent" }
+  },
+  {
+    "id": "soins-parent-age",
+    "label": "Prise en charge d'un parent âgé",
+    "alias": ["parent âgé", "parent age", "soin d'un parent", "vieux parent", "parent dépendant", "aidant familial", "parent malade", "fin de vie d'un parent", "care parental", "épuisement de l'aidant"],
+    "famille": "conflits-familiaux",
+    "definitionCourte": "Conflit déclenché par la dépendance croissante d'un parent âgé, qui révèle les déséquilibres de la fratrie, les non-dits du passé et le poids inégalement partagé de l'amour filial.",
+    "natureDuConflit": "Conflit de responsabilité et de reconnaissance — qui fait quoi, qui sacrifie quoi, et qui en est vu.",
+    "forcesEnPresence": [
+      "amour filial réel mais inégalement exprimé et inégalement traduit en actes",
+      "charges concrètes inégalement réparties selon la géographie ou la disponibilité",
+      "culpabilité de ceux qui font moins — parfois muette, parfois retournée en critique",
+      "épuisement de ceux qui font plus — souvent invisible jusqu'à l'effondrement",
+      "rivalité fraternelle ancienne réactivée par l'urgence",
+      "parent qui continue à avoir des préférences et à les exprimer",
+      "deuil anticipé du parent qui se mêle à chaque décision"
+    ],
+    "declencheursFrequents": [
+      "diagnostic de maladie grave ou perte d'autonomie soudaine",
+      "décision de placement en établissement — qui impose une prise de position",
+      "accident ou hospitalisation qui met tout le monde face à face",
+      "épuisement visible de l'aidant principal qui ne peut plus continuer seul",
+      "désaccord sur les soins, le médecin, le lieu de vie",
+      "révélation par le parent de préférences entre ses enfants",
+      "décision médicale urgente prise sans consulter tous les membres",
+      "moment où le parent dit quelque chose qu'il n'aurait jamais dit en bonne santé"
+    ],
+    "signauxAvantCoureurs": [
+      "un enfant qui prend tout en charge sans le demander ni le dire",
+      "absences des autres jamais vraiment questionnées ou remises en cause",
+      "fatigue croissante de l'aidant principal masquée par le fonctionnement",
+      "désaccords sur des décisions mineures qui annoncent les grandes",
+      "parent qui exprime des préférences entre ses enfants sans mesurer l'effet",
+      "tensions fraternelles qui ressurgissent lors des visites au parent",
+      "comptes rendus médicaux partagés de façon sélective",
+      "organisation de fait qui s'installe sans concertation"
+    ],
+    "silencesEtNonDits": [
+      "'je suis épuisé et vous ne faites rien' reste dans la gorge de l'aidant",
+      "'tu as toujours été son préféré, c'est à toi de t'en occuper' ne se dit pas",
+      "la peur de la mort du parent n'est souvent pas nommée directement",
+      "le parent lui-même dit rarement ce qu'il préférerait vraiment",
+      "les regrets sur ce qui n'a pas été dit pendant que le parent était en bonne santé",
+      "ce que l'aidant sacrifie — temps, projets, relations — n'est jamais vu par les autres"
+    ],
+    "penseesTypiques": [
+      "Je suis là tous les jours et personne ne le voit.",
+      "Il pourrait faire plus — il ne veut pas.",
+      "Je ne peux pas le mettre en maison de retraite. Mais je ne peux plus continuer.",
+      "Si je fais moins, est-ce que ça fait de moi un mauvais fils ?",
+      "Il va mourir et on n'aura jamais réglé ce qui n'a jamais été dit.",
+      "Je prends les décisions parce que je suis là. Et on me reprochera de les avoir prises.",
+      "Il ne me reconnaît plus certains jours. Mais c'est encore lui.",
+      "Je ne savais pas que s'occuper de quelqu'un qui part, c'était comme ça.",
+      "On n'aura jamais la conversation qu'on aurait dû avoir. Le moment est passé."
+    ],
+    "comportementsTypiques": [
+      "aidant principal qui s'épuise sans demander d'aide ni poser de limite",
+      "absents qui se manifestent surtout pour critiquer les décisions sans assumer",
+      "désaccords sur les soins utilisés comme terrain d'une vieille rivalité fraternelle",
+      "parent utilisé comme arbitre d'un conflit qui le dépasse",
+      "décisions médicales prises unilatéralement par l'enfant le plus présent",
+      "réunions fraternelles autour du parent qui dégénèrent en règlements de comptes",
+      "aidant qui s'isole progressivement des autres membres de sa propre vie",
+      "préparation discrète de l'après — héritage, décisions — avant même la mort"
+    ],
+    "positionsDePouvoir": [
+      "l'aidant principal prend de fait un pouvoir sur les décisions sans l'avoir demandé",
+      "l'absent conserve un pouvoir moral étrange en critiquant sans assumer",
+      "le parent détient encore un pouvoir symbolique fort jusqu'à la fin",
+      "la fratrie peut reprendre du pouvoir en s'impliquant — ou par la négociation formelle"
+    ],
+    "variantes": [
+      {
+        "relation": "Fratrie avec aidant unique",
+        "description": "Un enfant prend tout en charge pendant que les autres vivent leur vie. L'épuisement est réel. La rancœur monte en silence. Le jour de l'héritage sera l'occasion de tout dire — ou de ne rien dire mais de tout rompre."
+      },
+      {
+        "relation": "Désaccord sur le placement",
+        "description": "Certains veulent maintenir le parent à domicile, d'autres optent pour un établissement. La décision touche à la culpabilité, aux valeurs et aux ressources de chacun. Personne n'a entièrement tort."
+      },
+      {
+        "relation": "Parent qui exprime des préférences",
+        "description": "Le parent malade ou affaibli dit ce qu'il n'aurait jamais dit en bonne santé — préférences, regrets, favoritismes, reproches. La fratrie reçoit ces révélations de façon très inégale."
+      }
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Organisation à trouver", "description": "La situation est nouvelle. La famille cherche comment s'organiser. Les tensions sont latentes mais pas encore exprimées." },
+      { "niveau": 2, "label": "Déséquilibre installé", "description": "La charge est inégale. L'aidant principal commence à en ressentir le poids sans le dire." },
+      { "niveau": 3, "label": "Épuisement de l'aidant", "description": "La fatigue est visible. Les tensions éclatent lors des décisions importantes. La fratrie ne peut plus ignorer." },
+      { "niveau": 4, "label": "Conflit ouvert", "description": "La fratrie s'affronte sur les soins, les décisions, la responsabilité. Le parent est au milieu sans pouvoir résoudre." },
+      { "niveau": 5, "label": "Crise totale", "description": "L'aidant craque ou refuse de continuer seul. Les décisions ne peuvent plus être repoussées. Le deuil commence avant la mort." }
+    ],
+    "escaladeTypique": [
+      "perte d'autonomie du parent qui change tout",
+      "prise en charge inégale qui s'installe sans discussion",
+      "épuisement de l'aidant et absences des autres non questionnées",
+      "crise ou décision qui force la confrontation fraternelle",
+      "héritage et deuil qui cristallisent tout ce qui n'a pas été dit"
+    ],
+    "voiesDeResolution": [
+      "répartition explicite et acceptée des rôles — formelle si nécessaire",
+      "reconnaissance du sacrifice de l'aidant par les autres membres",
+      "décision partagée sur le placement ou les soins",
+      "conversation directe avec le parent sur ses souhaits réels",
+      "deuil collectif fait ensemble qui déplace les priorités"
+    ],
+    "blessuresUnderlyantes": [
+      "rivalité fraternelle ancienne réactivée par l'urgence et l'irréversible",
+      "dette émotionnelle jamais réglée avec le parent pendant sa vie",
+      "culpabilité préexistante liée à des absences passées",
+      "peur de la mort propre projetée sur celle du parent",
+      "besoin de reconnaissance que le parent ne pourra peut-être plus donner"
+    ],
+    "contextesFavorables": [
+      "fratrie avec déséquilibre historique d'investissement",
+      "parent avec fort favoritisme exprimé jusqu'au bout",
+      "ressources limitées qui rendent les choix contraints et conflictuels",
+      "vieilles blessures familiales jamais résolues",
+      "parent dont la dépendance arrive brutalement sans préparation"
+    ],
+    "personnagesSouventConcernes": [
+      "enfant resté proche géographiquement et pris dans la charge de fait",
+      "enfant qui a toujours eu du mal à poser des limites ou à demander",
+      "fratrie avec rivalités anciennes non résolues qui ressurgissent",
+      "personnage confronté à sa propre mortalité via celle du parent",
+      "aidant qui réalise qu'il a organisé toute sa vie autour d'une obligation"
+    ],
+    "erreursDEcriture": [
+      "Réduire à un conflit logistique — la vraie tension est émotionnelle et historique.",
+      "Désigner clairement un camp fainéant et un camp courageux — la plupart des absents ont leurs raisons, même mauvaises.",
+      "Oublier le parent — il est souvent conscient de la tension qu'il génère et souffre de ne pas pouvoir la résoudre.",
+      "Résoudre avant la mort — la mort du parent rouvre souvent ce qui semblait réglé.",
+      "Oublier le deuil anticipé — s'occuper d'un parent qui part est aussi un deuil en cours."
+    ],
+    "notesEditoriales": [
+      "Ce conflit est l'un des rares qui se déroule simultanément sur plusieurs niveaux — logistique, émotionnel, historique et existentiel.",
+      "Sa force narrative est dans le deuil anticipé qui se mêle au conflit présent.",
+      "Le parent mourant qui entend la dispute de ses enfants est l'une des scènes les plus fortes que ce conflit permet.",
+      "Le moment le plus révélateur : quand l'aidant principal réalise que les autres ne viendront pas — et doit décider quoi en faire."
+    ]
+  }
+]

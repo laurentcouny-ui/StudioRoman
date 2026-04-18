@@ -1,0 +1,351 @@
+[
+  {
+    "id": "ressentiment-emotion",
+    "label": "Ressentiment",
+    "alias": ["ressentiment", "rancœur", "amertume", "rancune tenace", "blessure non cicatrisée", "colère gelée", "hostilité sourde", "venin intérieur", "rancoeur chronique", "douleur qui ne passe pas"],
+    "famille": "colere-frustration",
+    "definitionCourte": "Colère froide et durable née d'une blessure ancienne jamais digérée. Le ressentiment ne flambe pas — il couve. Il colore chaque interaction avec la personne ou la situation en cause.",
+    "signesPhysiques": [
+      "regard légèrement plus dur que d'habitude en présence de la personne",
+      "mâchoire imperceptiblement serrée",
+      "posture qui se ferme légèrement",
+      "sourire qui n'atteint pas les yeux",
+      "gestes un peu moins naturels, légèrement surveillés",
+      "recul ou distance physique discrète",
+      "ton plus neutre que chaleureux — la chaleur ordinaire a disparu",
+      "respiration légèrement retenue dans les interactions concernées"
+    ],
+    "sensationsInternes": [
+      "lourdeur diffuse dans la poitrine qui revient à l'évocation",
+      "légère nausée ou malaise à la vue ou au souvenir de la personne",
+      "braise intérieure — rien ne brûle mais rien ne s'éteint non plus",
+      "sentiment que quelque chose reste en suspens, non réglé",
+      "fatigue particulière dans les interactions avec la personne",
+      "vigilance permanente — attendre la prochaine blessure",
+      "plaisir honteux et fugace devant les échecs de l'autre"
+    ],
+    "pensees": [
+      "Je n'oublie pas.",
+      "Il ne s'en souvient même pas, j'en suis sûr.",
+      "Elle a eu ce qu'elle voulait. Moi j'ai tout perdu.",
+      "Ce n'est pas de la rancune. C'est de la mémoire.",
+      "Je ne lui en veux plus — mais je ne lui fais plus confiance.",
+      "Il ne mérite pas que je lui explique.",
+      "Ça ne sert à rien d'en parler. Il ne comprendra pas.",
+      "Je me souviendrai de ça."
+    ],
+    "effetsVoixLangage": [
+      "ton neutre, poli mais sans chaleur",
+      "réponses qui restent en surface — jamais d'accès à l'intimité",
+      "micro-piques déguisées en observations neutres",
+      "silence sur les compliments ou les nouvelles positives de l'autre",
+      "formulations légèrement plus distantes que nécessaire",
+      "ton légèrement plus formalisé qu'avec les autres",
+      "absence des petites douceurs ordinaires du langage"
+    ],
+    "comportements": [
+      "maintient une politesse fonctionnelle sans chaleur réelle",
+      "garde des informations ou de l'aide qu'il offrirait normalement aux autres",
+      "remarque les défauts et les erreurs de l'autre avec une attention particulière",
+      "rapporte indirectement la blessure passée dans les conversations à un tiers",
+      "refuse les tentatives de rapprochement sans les nommer",
+      "s'arrange pour ne pas avoir à dépendre de cette personne",
+      "saisit avec une satisfaction secrète les moments d'échec de l'autre",
+      "revient sur la blessure intérieurement à chaque interaction"
+    ],
+    "masquesPossibles": [
+      "politesse irréprochable qui ne laisse rien voir",
+      "indifférence surjouée — 'ça ne me touche plus'",
+      "suractivité sociale avec les autres pour montrer que l'exclusion est choisie",
+      "bienveillance générale qui contraste avec la froideur particulière"
+    ],
+    "evolutionsPossibles": [
+      "pourrissement silencieux si la blessure n'est jamais nommée",
+      "explosion si quelqu'un touche le point sensible",
+      "guérison partielle si la blessure est finalement reconnue",
+      "pardon véritable — rare, long, mais possible",
+      "rupture définitive si le ressentiment atteint un seuil de saturation"
+    ],
+    "contextesAggravants": [
+      "revoir la personne après une longue absence — tout revient",
+      "apprendre le succès de l'autre après la blessure",
+      "devoir collaborer avec la personne malgré tout",
+      "tiers qui l'invite à 'passer à autre chose' sans comprendre la blessure",
+      "nouvelle blessure mineure qui rouvre la grande"
+    ],
+    "contextesAttenuants": [
+      "distance physique et temporelle de la personne",
+      "quelqu'un qui valide que la blessure était réelle et injuste",
+      "la personne reconnaît l'acte sans minimiser",
+      "découverte d'un contexte qui nuance l'interprétation de l'acte passé"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Légère amertume", "description": "Une pointe d'acidité. Le personnage fonctionne normalement mais note les défauts de l'autre." },
+      { "niveau": 2, "label": "Rancune active", "description": "La froideur est perceptible. L'autre commence à sentir quelque chose sans pouvoir le nommer." },
+      { "niveau": 3, "label": "Hostilité sourde", "description": "Chaque interaction est une petite épreuve. Le ressentiment structure le rapport." },
+      { "niveau": 4, "label": "Rancœur identitaire", "description": "La blessure est devenue partie de l'identité. Le personnage ne veut peut-être pas guérir." },
+      { "niveau": 5, "label": "Haine froide", "description": "Le ressentiment s'est organisé en hostilité durable. La relation est empoisonnée." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage qui se croit pardonné",
+        "description": "Il croit sincèrement avoir tourné la page. Mais ses comportements révèlent le contraire — la froideur, le plaisir devant l'échec de l'autre, la vigilance. Il n'a pas pardonné. Il a juste arrêté d'y penser activement."
+      },
+      {
+        "profil": "Personnage qui revendique son ressentiment",
+        "description": "Il sait qu'il garde rancune et l'assume. Pour lui, c'est une forme de justice — oublier serait trahir la blessure. Il en parle ouvertement à un cercle restreint."
+      },
+      {
+        "profil": "Personnage avec blessure ancienne",
+        "description": "Le ressentiment actuel se superpose à un ressentiment plus ancien, jamais résolu. La nouvelle blessure a tout ravivé. Il réagit à l'accumulation, pas à l'incident isolé."
+      }
+    ],
+    "notesEditoriales": [
+      "Le ressentiment est narrativement puissant car il est invisible de l'extérieur — il peut exploser à n'importe quel moment.",
+      "La scène la plus forte autour du ressentiment est souvent celle où on révèle que l'autre ne se souvient de rien.",
+      "Différencier : ressentiment (blessure gelée, durée) / colère (réaction immédiate) / frustration (désir bloqué).",
+      "Celui qui porte du ressentiment croit souvent être 'juste prudent' ou 'juste lucide' — rarement 'amer'."
+    ],
+    "relationsNarratives": [
+      { "type": "evolution_de", "cible": "colere" },
+      { "type": "peut_mener_a", "cible": "rupture" },
+      { "type": "souvent_associe_a", "cible": "blessure-de-trahison" },
+      { "type": "s_oppose_a", "cible": "pardon" },
+      { "type": "peut_masquer", "cible": "tristesse" },
+      { "type": "peut_mener_a", "cible": "desir-de-vengeance" }
+    ]
+  },
+  {
+    "id": "colere-froide",
+    "label": "Colère froide",
+    "alias": ["colère froide", "fureur glaciale", "rage contenue", "calme dangereux", "colère silencieuse", "calme de tempête", "tension maîtrisée", "colère qui ne crie pas", "froideur menaçante", "retenue explosive"],
+    "famille": "colere-frustration",
+    "definitionCourte": "Colère totale mais entièrement contenue — aucune explosion, aucun cri, mais une présence qui change la qualité de l'air. La colère froide est souvent plus intimidante que la colère explosive.",
+    "signesPhysiques": [
+      "visage neutre, presque trop neutre — aucune expression involontaire",
+      "regard fixe et immobile, qui ne cille pas",
+      "mouvements très lents et très contrôlés",
+      "voix posée à un volume presque anormalement bas",
+      "muscles du visage trop immobiles — une tension masquée par l'immobilité",
+      "mâchoire serrée invisible mais palpable dans la qualité du son",
+      "mains posées à plat sur une surface, ou jointes — pas de geste",
+      "lèvres formant des phrases avec une précision chirurgicale",
+      "respiration imperceptible — retenue au minimum"
+    ],
+    "sensationsInternes": [
+      "froid intérieur paradoxal — la chaleur de la colère s'est cristallisée",
+      "lucidité absolue et effrayante — tout est clair, tout est vu",
+      "contrôle total exercé sur chaque muscle",
+      "sentiment de puissance dans la maîtrise elle-même",
+      "distance glaciale par rapport aux émotions de l'autre",
+      "concentration totale sur l'objectif — faire passer le message sans exploser",
+      "effort continu et épuisant pour maintenir la retenue"
+    ],
+    "pensees": [
+      "Je vais choisir mes mots avec soin.",
+      "Il n'aura pas la satisfaction de me voir perdre le contrôle.",
+      "Je suis parfaitement calme.",
+      "Je vais lui dire exactement ce que je pense.",
+      "Ce n'est pas la peine de crier.",
+      "Il sait. Il voit. C'est suffisant.",
+      "Je pourrai être en colère plus tard. Pas maintenant.",
+      "Ne lui donne rien à utiliser contre toi."
+    ],
+    "effetsVoixLangage": [
+      "voix basse, lente, articulée avec une précision inhabituelle",
+      "chaque mot prononcé comme s'il était pesé",
+      "silence avant de répondre — délibéré, pas hésitant",
+      "absence totale d'interjections ou de ruptures de débit",
+      "ton qui n'augmente jamais en volume, ce qui est pire",
+      "formulations exactes et denses — aucun mot inutile",
+      "capacité à finir une phrase sans que la voix tremble"
+    ],
+    "comportements": [
+      "s'arrête au milieu de l'action en cours et pose les choses posément",
+      "s'assoit ou prend une position stable avant de parler",
+      "regard qui suit l'autre sans détour",
+      "ne réagit pas aux provocations de l'autre",
+      "dit exactement ce qu'il pense — sans crier, sans détour",
+      "quitte la pièce lentement et délibérément si la conversation doit s'arrêter",
+      "ne revient pas sur ses mots par la suite",
+      "peut rester dans cet état des heures — l'effort est totalement invisible"
+    ],
+    "masquesPossibles": [
+      "aucun masque apparent — c'est la colère froide qui fait office de masque",
+      "politesse chirurgicale qui dit tout sans rien dire",
+      "activité professionnelle intense pour canaliser",
+      "calme expressément signalé — 'je suis calme' dit d'une voix qui glace"
+    ],
+    "evolutionsPossibles": [
+      "relâchement dans la solitude — tremblements, larmes, épuisement",
+      "explosion différée si la cause n'est pas résolue",
+      "résolution si le message passe et est entendu",
+      "distance durable installée après la confrontation",
+      "ressentiment si la colère n'a rien changé"
+    ],
+    "contextesAggravants": [
+      "contexte où exploser serait une faiblesse — professionnel, formel, public",
+      "adversaire qui espère précisément la déstabilisation",
+      "situation où les enjeux sont si importants qu'il n'y a pas droit à l'erreur",
+      "personnage au fort orgueil qui n'accordera pas la victoire de le voir craquer",
+      "accumulation sans résolution qui dure depuis longtemps"
+    ],
+    "contextesAttenuants": [
+      "solitude totale où lâcher enfin",
+      "présence d'une seule personne de confiance à qui dire la vérité",
+      "résolution du problème qui permet de souffler",
+      "activité physique intense après la confrontation"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Froideur remarquable", "description": "Le personnage est plus froid que d'habitude. L'entourage note quelque chose sans pouvoir le nommer." },
+      { "niveau": 2, "label": "Contrôle visible", "description": "L'effort de contenir est perceptible. La tension est là, contenue." },
+      { "niveau": 3, "label": "Calme de tempête", "description": "Tout le monde sait que quelque chose couve. La pièce retient son souffle." },
+      { "niveau": 4, "label": "Confrontation glaciale", "description": "Le personnage dit ce qu'il a à dire — froidement, complètement. L'impact est total." },
+      { "niveau": 5, "label": "Danger immobile", "description": "La colère froide est à son maximum. L'immobilité elle-même est menaçante." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage naturellement réservé",
+        "description": "Pour lui, la colère froide est une extension de son état normal — et c'est ça qui la rend invisible jusqu'à ce qu'il soit trop tard. L'entourage ne voit souvent rien venir."
+      },
+      {
+        "profil": "Personnage généralement expressif",
+        "description": "Chez lui, la colère froide est un signal d'alarme. Les proches savent que quand il se tait, c'est grave. Son silence habituel est le plus grand cri possible."
+      },
+      {
+        "profil": "Personnage en position d'autorité",
+        "description": "La colère froide est son outil de pouvoir — il l'utilise consciemment. Elle n'est pas toujours entièrement sincère. L'effet est calculé autant que ressenti."
+      }
+    ],
+    "notesEditoriales": [
+      "La colère froide est souvent plus efficace narrativement que la rage — elle crée une tension que le lecteur ressent physiquement.",
+      "Montrer l'effort de contenir est aussi important que montrer la colère elle-même.",
+      "Ce qui se passe après — seul, la retenue lâchée — est souvent la scène la plus révélatrice.",
+      "Différencier : colère froide (maîtrise totale, danger présent) / ressentiment (blessure ancienne, durée) / colère ordinaire (réaction immédiate)."
+    ],
+    "relationsNarratives": [
+      { "type": "variante_de", "cible": "colere" },
+      { "type": "peut_masquer", "cible": "rage" },
+      { "type": "souvent_suivie_de", "cible": "epuisement" },
+      { "type": "peut_mener_a", "cible": "rupture" },
+      { "type": "s_oppose_a", "cible": "explosion-emotionnelle" },
+      { "type": "peut_evoluer_en", "cible": "ressentiment" }
+    ]
+  },
+  {
+    "id": "exasperation",
+    "label": "Exaspération",
+    "alias": ["exaspération", "ras-le-bol", "épuisement de patience", "agacement profond", "lassitude irritée", "bout du rouleau", "patience à bout", "agacement total", "saturation d'irritation", "tout m'agace"],
+    "famille": "colere-frustration",
+    "definitionCourte": "Irritation portée à son point de rupture par la répétition ou l'accumulation. L'exaspération c'est l'irritation qui n'en peut plus — le moment où la patience s'effondre.",
+    "signesPhysiques": [
+      "soupir long et sonore — involontaire",
+      "main portée au visage — front, yeux, nuque",
+      "regard levé au ciel brièvement",
+      "bras qui s'ouvrent ou qui tombent en signe d'abandon",
+      "ton qui monte malgré les efforts",
+      "gestes plus larges, moins maîtrisés",
+      "yeux qui se ferment une seconde — pause de survie",
+      "petits rires désespérés et involontaires",
+      "tension dans tout le haut du corps"
+    ],
+    "sensationsInternes": [
+      "impression que toute la patience accumulée vient de se vider",
+      "légèreté paradoxale à l'idée de tout lâcher",
+      "fatigue soudaine et totale",
+      "chaleur diffuse qui monte sans vraiment exploser",
+      "envie de rire et de pleurer en même temps",
+      "sentiment que ça ne sert à rien de continuer à se retenir",
+      "impression que la situation est absurde"
+    ],
+    "pensees": [
+      "Non. Sérieusement ?",
+      "Encore une fois.",
+      "Je n'en peux vraiment plus.",
+      "C'est une blague ?",
+      "J'abandonne.",
+      "Faire comme si ça ne m'affectait pas ne marche plus.",
+      "Est-ce que quelqu'un d'autre voit à quel point c'est impossible ?",
+      "Je vais finir par dire quelque chose que je regretterai."
+    ],
+    "effetsVoixLangage": [
+      "soupir intégré dans la phrase",
+      "ton légèrement plus aigu sous la tension",
+      "rires brefs, presque involontaires",
+      "phrases courtes, souvent rhétoriques",
+      "interruptions des autres — plus souvent que d'habitude",
+      "ironie qui n'essaie plus de se cacher",
+      "silence éloquent qui en dit plus que les mots"
+    ],
+    "comportements": [
+      "laisse échapper une remarque qu'il aurait retenue quelques minutes plus tôt",
+      "s'éloigne physiquement pour souffler",
+      "dit enfin ce qu'il pensait depuis un moment",
+      "pose quelque chose avec un peu trop de force",
+      "réexplique avec un effort visible de patience",
+      "cherche un témoin dans l'entourage — un regard complice qui valide",
+      "rit malgré lui devant l'absurdité de la situation",
+      "fait une pause — ferme les yeux, s'arrête, reprend"
+    ],
+    "masquesPossibles": [
+      "patience surjouée — voix trop douce, trop lente",
+      "humour noir pour dépressuriser",
+      "fuite dans une tâche concrète et simple",
+      "fausse sérénité qui ne trompe personne dans l'entourage proche"
+    ],
+    "evolutionsPossibles": [
+      "explosion de colère si rien ne change",
+      "rire libérateur si quelqu'un fait une remarque qui désamorce",
+      "larmes d'épuisement si la tension est trop longue",
+      "retrait et silence si l'environnement ne peut pas changer",
+      "lâcher prise véritable — rare mais possible"
+    ],
+    "contextesAggravants": [
+      "répétition d'une situation déjà exaspérante — la même erreur, la même question, le même comportement",
+      "obligation de rester poli dans un contexte formel",
+      "sentiment d'être le seul à voir le problème",
+      "fatigue physique ou émotionnelle préexistante",
+      "sentiment de ne pas être entendu malgré les efforts de communication"
+    ],
+    "contextesAttenuants": [
+      "quelqu'un qui rit avec lui devant l'absurdité de la situation",
+      "pause soudaine — café, air frais, dix minutes seul",
+      "résolution concrète du problème qui causait l'accumulation",
+      "témoignage d'un pair qui valide — 'oui c'est vraiment épuisant'"
+    ],
+    "intensites": [
+      { "niveau": 1, "label": "Petite lassitude", "description": "L'agacement est là mais le personnage gère. Un soupir, et on passe." },
+      { "niveau": 2, "label": "Exaspération naissante", "description": "Le plafond approche. Les micro-signes se multiplient." },
+      { "niveau": 3, "label": "Ras-le-bol déclaré", "description": "Le personnage ne se retient plus vraiment. Ce n'est plus juste une pensée." },
+      { "niveau": 4, "label": "Bout du rouleau", "description": "La prochaine chose venue peut tout faire basculer." },
+      { "niveau": 5, "label": "Effondrement de la patience", "description": "Tout sort — mots, larmes, explosion ou effondrement. Le barrage a cédé." }
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage très patient par nature",
+        "description": "Quand il est exaspéré, c'est spectaculaire — parce que ça n'arrive presque jamais. L'entourage sait que quelque chose de sérieux s'est passé quand il craque."
+      },
+      {
+        "profil": "Personnage à faible tolérance à la répétition",
+        "description": "L'exaspération arrive vite, souvent, et se voit. Il est connu pour ça. Les gens autour de lui apprennent à ne pas répéter, à ne pas insister."
+      },
+      {
+        "profil": "Personnage en charge d'autres personnes",
+        "description": "Parent, soignant, enseignant. L'exaspération est permanente en basse intensité. Le problème n'est pas une seule chose — c'est la somme de tout. Le rire et les larmes sont proches."
+      }
+    ],
+    "notesEditoriales": [
+      "L'exaspération contient souvent quelque chose de comique — elle peut servir à briser la tension dans une scène.",
+      "La transition de l'exaspération aux larmes est très réaliste et souvent oubliée.",
+      "Différencier : exaspération (patience épuisée par répétition) / frustration (désir bloqué) / irritation (légère, diffuse).",
+      "L'exaspération partagée entre deux personnages peut créer de la complicité — les unir contre une situation."
+    ],
+    "relationsNarratives": [
+      { "type": "evolution_de", "cible": "irritation" },
+      { "type": "peut_evoluer_en", "cible": "colere" },
+      { "type": "peut_se_transformer_en", "cible": "fou-rire" },
+      { "type": "souvent_associee_a", "cible": "fatigue" },
+      { "type": "peut_creer", "cible": "complicite" }
+    ]
+  }
+]

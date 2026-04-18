@@ -1,0 +1,10 @@
+[
+  {
+    "id": "space-before-punctuation-fr",
+    "pattern": "\\s+([;:!?])",
+    "replacement": "\\u202F$1",
+    "confidence": 0.97,
+    "source": "sample-rules-bundled",
+    "mentor": "Espace insécable étroit recommandé avant ; : ! ?"
+  }
+]

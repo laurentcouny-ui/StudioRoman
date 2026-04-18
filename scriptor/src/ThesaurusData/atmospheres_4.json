@@ -1,0 +1,664 @@
+[
+  {
+    "id": "plage-hors-saison",
+    "label": "Plage hors saison",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "sable humide et compact, plus foncé qu'en été",
+      "transats et parasols rangés ou disparus, remplacés par le vide",
+      "cabines de plage fermées à cadenas, peintures écaillées",
+      "laisses de mer : algues, bois flotté, plastiques épars",
+      "vent quasi constant qui charge l'air d'embruns salés",
+      "vagues grises plus hautes qu'en été, qui frappent le rivage sans public",
+      "quelques promeneurs solitaires ou avec un chien, espacés",
+      "ciel bas et uniforme, ou au contraire d'une clarté froide et immense",
+      "buvette ou restaurant de plage fermé, volets clos"
+    ],
+    "emotionsTypiques": [
+      "solitude choisie et ressourçante",
+      "mélancolie douce face à l'absence de la saison passée",
+      "sentiment de possession — la plage est enfin à soi",
+      "liberté dans l'immensité vide",
+      "tristesse sourde ou au contraire paix profonde selon l'état intérieur",
+      "confrontation apaisante à quelque chose de plus grand que soi"
+    ],
+    "ambiance": "Hors saison, la plage retrouve quelque chose d'originel : sans les corps, les parasols, les voix, elle redevient un espace de dialogue entre le ciel, la mer et le vent. Celui qui s'y aventure par temps gris y vient rarement sans raison.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "iode et sel portés par le vent en continu",
+        "odeur d'algues mouillées dans les laisses de mer",
+        "légère odeur de bois flotté séché ou de varech brûlé",
+        "air froid et propre, presque sans mémoire"
+      ],
+      "auditifs": [
+        "bruit des vagues constant et irrégulier, dominant tout le reste",
+        "sifflement du vent autour des cabines et des poteaux",
+        "cri de mouettes, aigu et intermittent",
+        "silence entre deux vagues, plus perceptible qu'en été",
+        "grondement sourd d'une vague plus forte, qui arrive de loin"
+      ],
+      "visuels": [
+        "sable gris et mouillé sur lequel les traces de pas restent nettes",
+        "mer verte ou grise selon la lumière, sans la turquoise estivale",
+        "ligne d'horizon nette ou brouillée selon la météo",
+        "parasols fermés ou absents, pointes des tiges qui sortent du sable",
+        "cabines aux couleurs passées, certaines à moitié arrachées par les tempêtes",
+        "plastiques et cordages dans la laisse de mer"
+      ],
+      "tactiles": [
+        "vent froid et continu sur le visage, qui rougit les joues",
+        "sable mouillé et froid sous les semelles, qui cède légèrement",
+        "embruns qui humidifient les cheveux et les vêtements en surface",
+        "froid qui s'installe progressivement malgré les vêtements"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Personne qui vient pour décider de quelque chose",
+        "description": "Le vide de la plage hors saison est exactement ce dont elle avait besoin. L'immensité rend les problèmes moins absolus. Elle marche sans but précis, laisse le vent couvrir ses pensées. Elle rentre souvent sans avoir décidé, mais avec moins de poids."
+      },
+      {
+        "profil": "Habitant local qui y vient toute l'année",
+        "description": "Aime la plage en cette saison plus qu'en été. Reconnaît les visages des rares autres habitués. Le lieu lui appartient vraiment — il n'a pas à le partager. Marche vite ou s'arrête longtemps selon les jours, sans que personne le remarque."
+      },
+      {
+        "profil": "Estivant qui revient hors saison pour la première fois",
+        "description": "Cherche instinctivement les repères de l'été — le restaurant, les parasols, les rires — et ne trouve que le vide. Le lieu est le même et méconnaissable. Cette dissonance le touche plus qu'il ne l'aurait cru. Il repart plus tôt que prévu."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de rupture ou de décision prise dans un espace de liberté maximale",
+      "lieu de deuil symbolique d'un été, d'une relation, d'une époque",
+      "rencontre entre deux personnages qui n'auraient pas dû se retrouver là",
+      "espace de méditation intérieure sans barrières narratives",
+      "illustration du contraste entre la vitalité passée et le vide présent",
+      "cadre pour une révélation qui ne pourrait avoir lieu que dans ce silence"
+    ],
+    "notesEditoriales": [
+      "La plage hors saison est un lieu chargé symboliquement par sa saisonnalité — l'exploiter sans le nommer : ne pas écrire 'c'était comme la fin de quelque chose'.",
+      "Le bruit des vagues est constant mais variable : il peut couvrir les pensées ou les amplifier selon comment on l'écrit.",
+      "Les traces laissées par l'été (cabines fermées, tiges de parasols) sont plus évocatrices que la description de l'été lui-même.",
+      "Deux personnages seuls sur une plage vide en hiver ont une relation différente de celle qu'ils auraient en pleine saison — l'espace change les rapports."
+    ]
+  },
+  {
+    "id": "chambre-hotel-luxe",
+    "label": "Chambre d'hôtel de luxe",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "literie blanche et épaisse aux draps impeccablement tendus",
+      "tête de lit en bois sombre ou en tissu capitonné",
+      "rideaux épais qui bloquent toute lumière, même en plein jour",
+      "télécommande sur le chevet avec des dizaines de fonctions",
+      "plateau de courtoisie avec bouteilles d'eau et chocolat",
+      "salle de bain en marbre avec produits de toilette alignés",
+      "silence presque total, isolé du monde extérieur",
+      "vue sur la ville ou sur la mer selon l'étage",
+      "chemin de lit en bas du matelas, plié au millimètre"
+    ],
+    "emotionsTypiques": [
+      "plaisir hédoniste simple et sans culpabilité, ou avec",
+      "sentiment d'imposture pour qui n'est pas habitué",
+      "solitude accentuée par le confort impersonnel",
+      "luxe qui n'efface pas ce qu'on a amené avec soi",
+      "liberté totale dans un espace qui n'appartient à personne",
+      "légère mélancolie de ce qui est provisoire et beau"
+    ],
+    "ambiance": "La chambre d'hôtel de luxe offre une perfection impersonnelle : tout y est fait pour le confort, rien pour l'intimité. Elle est le même décor pour tous, ce qui la rend à la fois rassurante et légèrement vide — comme un bonheur en location.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur subtile de linge propre et de produit de pressing sur les draps",
+        "parfum discret d'un diffuseur d'ambiance, neutre et doux",
+        "savon et shampoing haut de gamme dans la salle de bain",
+        "légère odeur de moquette récemment aspirée"
+      ],
+      "auditifs": [
+        "silence presque total, à peine troublé par le système de ventilation",
+        "bourdonnement doux du mini-bar",
+        "son feutré des pas sur l'épaisse moquette",
+        "bruit lointain et amorti de la ville, très en dessous ou très au-dehors",
+        "sonnerie discrète du téléphone de chambre, si elle arrive"
+      ],
+      "visuels": [
+        "blanc immaculé de la literie sous l'éclairage doux des chevets",
+        "reflets dans les surfaces laquées ou en marbre",
+        "vue encadrée par les rideaux ouverts sur une ville ou un paysage",
+        "uniformité parfaite de chaque détail, comme une mise en scène",
+        "numéro de chambre sur le porte-clé, seul signe d'identité du lieu",
+        "chocolat ou fleur de courtoisie posés sur l'oreiller"
+      ],
+      "tactiles": [
+        "draps d'un blanc glacé, doux et frais au contact de la peau",
+        "matelas ferme et moelleux à la fois, qui accueille sans s'affaisser",
+        "moquette épaisse sous les pieds nus",
+        "eau brûlante de la douche à débit parfait"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Homme ou femme d'affaires habitué",
+        "description": "N'y voit plus un luxe, mais un outil. Dépose son bagage sans regarder la vue, appelle l'accueil pour demander un réveil, et dort comme dans n'importe quel autre hôtel. Le confort est un fond sur lequel il projette son propre travail, ses propres préoccupations."
+      },
+      {
+        "profil": "Personne qui s'offre cette nuit en cadeau à elle-même",
+        "description": "Touche tout avec soin — les draps, les petites bouteilles de la salle de bain qu'elle ne prendra pas. S'assoit au bord du lit comme si elle n'avait pas le droit de se coucher. Profite du silence comme d'une chose rare. Ce soir, personne ne sait où elle est."
+      },
+      {
+        "profil": "Couple en crise qui partage la chambre",
+        "description": "Le luxe du lieu ne change rien à ce qui se passe entre eux — il le souligne, même. Le silence de la chambre isole le conflit, l'amplifie. Les deux lits ou le grand lit partagé devient un territoire à négocier. La perfection du décor est presque cruelle."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de rendez-vous secret — amoureux, professionnel ou les deux",
+      "moment de solitude de luxe pour un personnage en fuite ou en transition",
+      "lieu de révélation intime dans un espace qui efface toute appartenance",
+      "confrontation de deux personnages dans un cadre neutral et impersonnel",
+      "scène symbolisant la réussite sociale — et son vide possible",
+      "nuit avant une décision importante, dans un lieu sans passé ni futur"
+    ],
+    "notesEditoriales": [
+      "L'impersonnalité de la chambre d'hôtel est son principal ressort narratif : ce lieu dit quelque chose de provisoire et de non-appartenu, ce qui libère les personnages de leur contexte habituel.",
+      "Éviter les inventaires de luxe — deux ou trois détails précis (les draps, la vue, le mini-bar qui bourdonne) suffisent à poser le registre.",
+      "Le contraste entre le confort du lieu et l'état intérieur du personnage est l'un des outils les plus efficaces ici.",
+      "La chambre d'hôtel est un lieu qui n'a pas de mémoire — ce qui peut être une libération ou une angoisse selon le personnage."
+    ]
+  },
+  {
+    "id": "salle-fete-apres-fete",
+    "label": "Salle des fêtes après la fête",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "tables couvertes de verres vides, d'assiettes en carton et de serviettes froissées",
+      "guirlandes lumineuses qui clignotent encore ou éteintes à moitié",
+      "ballons dégonflés qui traînent sur le sol",
+      "restes de buffet dans des plats en aluminium, couverts de film étirable",
+      "chaises renversées ou sorties de leur rangée",
+      "piste de danse désertée, taches de boisson sur le parquet",
+      "odeur mêlée d'alcool, de nourriture froide et de transpiration",
+      "sono éteinte, câbles enroulés ou encore épars",
+      "sacs et vestes oubliés sur un coin de chaise"
+    ],
+    "emotionsTypiques": [
+      "mélancolie de l'après — tout est passé, rien n'a vraiment changé",
+      "vague sentiment de gâchis ou d'excès",
+      "solitude post-collective, propre aux lendemains de fête",
+      "nostalgie immédiate pour la soirée qui vient juste de se terminer",
+      "légère nausée ou fatigue physique mêlée à l'atmosphère",
+      "tendresse pour ce qui vient d'être vécu, qui s'estompe déjà"
+    ],
+    "ambiance": "La salle des fêtes après la fête ressemble à un théâtre après la représentation : les traces sont là, intactes, mais la vie a quitté le lieu. Il reste les décors et les accessoires d'une soirée dont l'intensité ne se lit plus que dans les miettes et les taches.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "alcool renversé sur les tables ou le sol, aigrelet",
+        "nourriture froide et légèrement rance dans les plats ouverts",
+        "transpiration collective imprégnée dans l'air",
+        "parfum de plusieurs personnes mélangés, atténués mais encore présents"
+      ],
+      "auditifs": [
+        "silence pesant après des heures de musique et de voix",
+        "craquement du parquet sous les rares personnes encore présentes",
+        "bruit de verre qu'on ramasse et empile",
+        "bruissement d'un ballon qui roule sous un courant d'air"
+      ],
+      "visuels": [
+        "guirlandes dont la lumière clignotante est soudain triste",
+        "confettis ou serviettes en papier épars sur le sol",
+        "taches de sauce ou de vin sur la nappe blanche ou plastifiée",
+        "photos de la soirée encore affichées, ou cadres trop festifs pour l'heure",
+        "bouteilles alignées ou renversées selon la façon dont la soirée s'est terminée",
+        "verre à moitié plein oublié, rouge à lèvres sur le bord"
+      ],
+      "tactiles": [
+        "sol légèrement collant sous les semelles",
+        "air chaud et saturé, qui donne envie d'ouvrir les fenêtres",
+        "sac ou veste oublié d'un absent, encore tiède peut-être",
+        "main qui ramasse ce qui traîne, mouvement mécanique et las"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Organisateur qui range seul après le départ de tous",
+        "description": "Fait les gestes automatiquement — empiler les chaises, regrouper les verres — en repassant les moments de la soirée dans sa tête. Cherche à savoir si c'était réussi. Le silence est épuisant après le bruit. La solitude soudaine est presque agressive."
+      },
+      {
+        "profil": "Personne qui ne voulait pas venir et repart tôt",
+        "description": "Le lieu déjà vide à 23h lui confirme qu'elle avait raison. Les traces de la fête lui semblent futiles. Elle récupère sa veste et repart sans chercher à croiser quelqu'un. Le trajet retour est plus reposant que la soirée elle-même."
+      },
+      {
+        "profil": "Deux personnes qui restent les dernières",
+        "description": "La salle vidée crée une intimité involontaire. Tout à coup, ils sont visibles l'un pour l'autre, sans la protection du groupe. Ce qui se dit dans ce décor défait peut avoir une sincérité qu'il n'aurait pas eue plus tôt dans la soirée."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de confidence ou de révélation entre les deux derniers présents",
+      "moment de bilan — la fête comme miroir de ce qui ne va pas",
+      "lieu de retrouvailles inattendues dans le désordre de la fin",
+      "cadre pour la solitude après une soirée supposément joyeuse",
+      "illustration du contraste entre l'intensité collective et le vide qui suit",
+      "scène de rangement comme rituel de deuil ou de clôture d'un chapitre"
+    ],
+    "notesEditoriales": [
+      "La salle après la fête fonctionne comme un commentaire implicite sur la fête elle-même — à utiliser pour décaler le registre, non pour le confirmer.",
+      "Le verre à moitié plein avec du rouge à lèvres sur le bord est un détail efficace : il désigne une absente sans la nommer.",
+      "Le silence post-musical est un outil sonore à ne pas négliger — mentionner ce qui n'est plus là.",
+      "Ce lieu est particulièrement adapté aux scènes de 'lendemain émotionnel' — quand ce qui s'est passé doit être digéré."
+    ]
+  },
+  {
+    "id": "parc-automne-pluie",
+    "label": "Parc sous la pluie d'automne",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "allées jonchées de feuilles mortes détrempées",
+      "arbres aux branches mi-dépouillées, feuillage cuivré ou brun",
+      "bancs mouillés, désertés",
+      "trottoirs de gravier transformés en ornières boueuses",
+      "pluie fine et continue qui brouille les distances",
+      "quelques rares promeneurs avec parapluies, têtes baissées",
+      "kiosque vide ou fermé, toiture qui dégoutte",
+      "fontaine coupée depuis la fin de l'été",
+      "odeur de terre mouillée et de feuilles en décomposition"
+    ],
+    "emotionsTypiques": [
+      "mélancolie douce et consentie",
+      "sentiment de lâcher-prise face aux éléments",
+      "solitude qui n'est pas désagréable",
+      "intimité étrange avec soi-même",
+      "légère torpeur ou au contraire clarté mentale après la pluie",
+      "nostalgie de l'été ou d'un automne passé"
+    ],
+    "ambiance": "Le parc sous la pluie d'automne est un lieu de retrait du monde : les feuilles mortes, la pluie continue et le froid qui commence composent un décor qui ralentit tout. On n'y vient pas sans raison, ou on y finit par se retrouver sans l'avoir cherché.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de terre mouillée, profonde et minérale",
+        "effluve de feuilles en décomposition, légèrement fermentées",
+        "air humide et frais, presque sans parfum autre",
+        "légère odeur de champignon dans les zones ombragées"
+      ],
+      "auditifs": [
+        "pluie sur les feuilles mortes, son mat et continu",
+        "pluie sur le gravier ou les flaques, plus vif",
+        "vent qui fait tomber les dernières feuilles par rafales",
+        "silence entre les averses, presque plus éloquent que la pluie elle-même",
+        "son de pas étouffés sur les feuilles détrempées"
+      ],
+      "visuels": [
+        "dégradé de bruns, d'oranges et de gris sous le ciel bas",
+        "reflets des arbres dans les flaques",
+        "couleurs plus saturées sous la pluie qu'au soleil",
+        "silhouettes de promeneurs sous parapluies, floues dans la brume",
+        "bancs sombres et luisants d'humidité",
+        "herbe aplatie et gorgée d'eau"
+      ],
+      "tactiles": [
+        "froid humide qui s'infiltre sous les vêtements après quelques minutes",
+        "pluie fine sur les mains et le visage",
+        "sol mou sous les pieds, feuilles détrempées qui cèdent",
+        "parapluie qui vibre légèrement dans le vent"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Personne qui marche sous la pluie sans parapluie volontairement",
+        "description": "Se mouille comme un acte de rébellion ou de désespoir ou de libération — les trois à la fois parfois. La pluie efface la distinction entre l'intérieur et l'extérieur. Rentrer trempé est une façon de dire que quelque chose a changé."
+      },
+      {
+        "profil": "Coureur habitué à toutes les conditions",
+        "description": "Le parc sous la pluie est son terrain préféré : moins de monde, meilleure concentration. La pluie est un fond sonore agréable. Il remarque les couleurs de l'automne, les flaques à éviter, la texture du sol. Le corps fait ce qu'il sait faire, la tête se vide."
+      },
+      {
+        "profil": "Enfant qui revient de l'école",
+        "description": "Marche dans chaque flaque exprès, sans pouvoir s'en empêcher malgré les reproches à prévoir. Le parc sous la pluie est un terrain de jeu pluvieux qui a son propre charme. Les feuilles qui font un bruit mat sous les pieds sont une satisfaction physique immédiate."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de promenade solitaire après une rupture ou une mauvaise nouvelle",
+      "rencontre impromptue entre deux personnages qui s'y sont réfugiés",
+      "espace de pensée intérieure, seul lieu où un personnage peut se retrouver",
+      "illustration du passage du temps ou de la fin d'une période",
+      "lieu de décision prise dans le silence pluvieux",
+      "cadre pour une conversation difficile rendue plus tolerable par le mouvement"
+    ],
+    "notesEditoriales": [
+      "La pluie d'automne est un cliché de la mélancolie — à utiliser avec précision ou à subvertir. Un personnage qui l'aime vraiment change entièrement la lecture du lieu.",
+      "Les couleurs de l'automne sous la pluie sont plus saturées qu'au soleil : ce détail contre-intuitif est visuellement précis et souvent surprenant.",
+      "Le son de la pluie sur les feuilles mortes est différent du son sur l'asphalte ou les toits — cette précision ancre le lieu de façon sonore.",
+      "Éviter le parc sous la pluie comme simple décor triste : c'est aussi un lieu de liberté physique et sensorielle."
+    ]
+  },
+  {
+    "id": "cuisine-restaurant-coup-de-feu",
+    "label": "Cuisine de restaurant pendant le service",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "sonore-olfactif",
+    "elements": [
+      "plans de travail en inox couverts d'assiettes en cours de dressage",
+      "feux vifs sous des casseroles et des poêles en simultané",
+      "ordres criés entre les postes sans formule de politesse",
+      "vapeurs et fumées montant sous la hotte rugissante",
+      "minuteries qui sonnent à intervalles réguliers",
+      "plongeur dans son coin, eau chaude et bruit de vaisselle",
+      "chef de partie qui vérifie chaque assiette avant envoi",
+      "dosseret de la passe, lieu de passage tendu entre salle et cuisine",
+      "sol en caoutchouc mouillé, légèrement glissant"
+    ],
+    "emotionsTypiques": [
+      "adrénaline du service — tension productive et euphorisante",
+      "stress aigu lors des pics de commandes",
+      "concentration absolue qui exclut toute pensée étrangère au service",
+      "fierté technique dans le geste précis répété",
+      "agacement ou colère contenue quand un collègue rate son timing",
+      "sentiment d'appartenance à une équipe sous pression commune"
+    ],
+    "ambiance": "Pendant le service, la cuisine est un organisme vivant : chaque corps a sa place, chaque geste son tempo, chaque voix son rôle. La chaleur, le bruit et la vitesse créent une forme d'état modifié — on ne pense plus, on exécute, on fait corps avec le mouvement.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "mélange de beurre chaud, de fond de veau réduit et de vapeur de cuisson",
+        "odeur acre de la friture ou d'une sauce qui accroche légèrement",
+        "effluves d'herbes fraîches hachées — thym, persil, estragon",
+        "odeur de vaisselle propre et chaude venant du plonge"
+      ],
+      "auditifs": [
+        "chuintement continu des plaques à induction ou rugissement des feux vifs",
+        "bruit métallique des poêles et casseroles déplacées sans ménagement",
+        "voix qui ordonnent et confirment sans élever inutilement le ton",
+        "minuterie électronique, bip bref et impératif",
+        "claquement sec d'une assiette posée sur la passe pour envoi"
+      ],
+      "visuels": [
+        "vapeurs blanches montant de plusieurs casseroles simultanément",
+        "gestes rapides et économiques des cuisiniers, presque chorégraphiés",
+        "assiettes alignées sur la passe, dressées à l'identique",
+        "inox partout — murs, plans de travail, portes des frigos — qui reflète tout",
+        "tablier blanc taché de sauce, de graisse ou de verdure",
+        "regard concentré et figé du chef qui surveille la passe"
+      ],
+      "tactiles": [
+        "chaleur intense et sèche près des feux, qui assèche la peau",
+        "sol légèrement glissant malgré les chaussures antidérapantes",
+        "manche d'une poêle chaud même à travers le torchon",
+        "eau chaude du plonge sur les mains, rouge après une heure"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Apprenti en premier service",
+        "description": "Tout va trop vite. Les ordres sont criés dans un vocabulaire qu'il connaît à moitié. Il fait les gestes qu'on lui a montrés, mais pas encore dans le bon ordre ni au bon moment. La chaleur est physiquement écrasante. Il a peur de ralentir les autres."
+      },
+      {
+        "profil": "Chef de cuisine expérimenté",
+        "description": "Voit la cuisine comme un chef d'orchestre voit son pupitre — en entier, pas morceau par morceau. Anticipe les goulots d'étranglement avant qu'ils se forment. La chaleur et le bruit sont le silence dans lequel il travaille depuis vingt ans. Sa voix ne monte que quand quelque chose sort du cadre."
+      },
+      {
+        "profil": "Serveur qui passe prendre des assiettes",
+        "description": "Vit la cuisine comme un monde étranger et légèrement hostile. Entre vite, prend ce qu'on lui tend, repart sans traîner. La chaleur après la fraîcheur de la salle est physiquement désagréable. Il a appris à ne pas demander pourquoi il y a du retard — on lui répondrait mal."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène d'initiation ou d'épreuve dans un cadre professionnel exigeant",
+      "confrontation entre deux personnages dont la tension ne peut exploser qu'après le service",
+      "illustration de la hiérarchie par les corps dans l'espace et les voix",
+      "moment de grâce technique — le geste parfait, la synchronie — pour un personnage qui doute de lui",
+      "cadre pour une révélation chuchotée dans le bruit, que seule une personne entend",
+      "scène de rupture ou de crise différée — on ne peut pas s'arrêter, le service doit continuer"
+    ],
+    "notesEditoriales": [
+      "La cuisine en service est l'un des rares lieux où la hiérarchie est physiquement lisible dans l'espace et les corps — à exploiter pour les dynamiques de pouvoir.",
+      "Le coup de feu n'est pas de l'agitation : c'est de l'ordre sous pression. Cette distinction est importante pour ne pas caricaturer le lieu.",
+      "La chaleur est un personnage à part entière dans ce lieu — elle agit sur les corps et les humeurs, elle peut être utilisée dramatiquement.",
+      "Un seul détail sonore suffit souvent : le claquement d'une assiette sur la passe peut concentrer toute la tension d'une scène."
+    ]
+  },
+  {
+    "id": "banlieue-periurbaine",
+    "label": "Zone pavillonnaire en semaine",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "rangées de pavillons similaires, haies taillées ou laissées libres",
+      "voitures garées dans les allées ou sur le trottoir",
+      "silence de milieu de journée, la plupart des adultes au travail",
+      "enfants absents — à l'école — et personnes âgées parfois visibles",
+      "panneaux solaires sur certains toits, velux ouverts ou fermés",
+      "poubelles sortis ou rentrés selon le jour",
+      "chat sur un muret ou derrière une fenêtre",
+      "bruit de tondeuse au loin, ou de marteau sur une terrasse en construction",
+      "trottoir peu fréquenté, parfois sans piéton sur des centaines de mètres"
+    ],
+    "emotionsTypiques": [
+      "sentiment de vide ou de suspension entre deux moments",
+      "légère mélancolie de l'entre-deux — ni ville ni campagne",
+      "sentiment d'être hors du temps productif",
+      "claustrophobie douce d'un espace trop ordonné",
+      "paix étrange pour qui cherche à ne pas être vu",
+      "nostalgie ou rejet selon l'histoire personnelle avec ce type de lieu"
+    ],
+    "ambiance": "En semaine en milieu de journée, la zone pavillonnaire révèle son vrai visage : un silence qui n'est pas le silence de la campagne, un vide qui n'est pas le vide de la ville. Chaque maison abrite une vie invisible, et cette invisibilité est la règle ici.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "odeur de jardin fraîchement arrosé ou de pelouse tondue",
+        "effluve de déjeuner encore perceptible autour de certaines maisons",
+        "légère odeur d'asphalte chauffé par le soleil en été",
+        "parfum d'une haie de thuyas ou de roses selon la saison"
+      ],
+      "auditifs": [
+        "silence quasi total, interrompu par quelques oiseaux",
+        "tondeuse à gazon au loin, régulière et soporifique",
+        "radio ou télévision dans une maison aux fenêtres entrouvertes",
+        "voiture qui passe une fois toutes les quelques minutes",
+        "chien qui aboie brièvement, sans raison apparente"
+      ],
+      "visuels": [
+        "alignement régulier des pavillons, chacun légèrement différent dans sa similitude",
+        "voitures familiales garées à demeure",
+        "jardins visibles ou cachés selon la hauteur des clôtures",
+        "linge qui sèche dans un jardin, dernier signe de vie",
+        "rideaux tirés ou ouverts sur le vide intérieur de pièces vides",
+        "panneau immobilier planté dans un jardin — quelqu'un part"
+      ],
+      "tactiles": [
+        "chaleur de l'asphalte sous les semelles en été",
+        "vent rare et sans relief, qui ne vient de nulle part en particulier",
+        "haie rugueuse effleurée au passage",
+        "silence qui semble presque physique dans sa densité"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Personne en arrêt maladie ou sans emploi",
+        "description": "Vit dans ce silence de semaine comme une punition ou une libération selon les jours. Observe les voisins qu'il n'a jamais vraiment vus. Mesure la distance entre son rythme et celui du reste du monde parti travailler. Le calme du quartier est son propre rythme ralenti, reflété."
+      },
+      {
+        "profil": "Enfant en vacances laissé seul quelques heures",
+        "description": "Fait du vélo ou traîne sur le trottoir avec l'impression d'être le seul habitant d'un monde endormi. Le quartier vide est à la fois ennuyeux et légèrement excitant. Chaque voiture qui passe rompt un silence qui redevient immédiatement complet."
+      },
+      {
+        "profil": "Personne revenue dans le quartier de son enfance",
+        "description": "Cherche les repères d'un passé que les maisons ont partiellement effacé — une clôture remplacée, un arbre abattu, un voisin disparu. Le silence est le même, mais il résonne différemment. Ce qui manque est presque aussi présent que ce qui reste."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène d'errance intérieure dans un cadre qui reflète une vie suspendue",
+      "lieu de retour aux origines avec tout ce que cela comporte de trouble",
+      "cadre symbolique de la vie ordinaire dans ce qu'elle a de plus opaque",
+      "espace pour révéler la vie invisible derrière les façades — rumeur, secret, drame discret",
+      "scène de filature ou d'observation discrète rendue possible par le vide",
+      "illustration de la solitude dans un lieu fait pour la vie collective"
+    ],
+    "notesEditoriales": [
+      "La zone pavillonnaire en semaine est un lieu que la littérature française traite rarement avec soin — c'est précisément pourquoi elle peut être efficace, par rupture avec les décors habituels.",
+      "Le silence y est peuplé — radio, tondeuse, chien — ce qui le distingue du silence de la campagne. Cette densité sonore invisible mérite d'être précisée.",
+      "Les rideaux fermés sur des pièces vides sont un détail visuel d'une grande efficacité : ils suggèrent l'absence sans la nommer.",
+      "Ce lieu dit beaucoup d'un personnage par sa relation à lui : est-il d'ici ? Y revient-il ? Le fuit-il ?"
+    ]
+  },
+  {
+    "id": "bibliotheque-universitaire",
+    "label": "Bibliothèque universitaire",
+    "type": "espace-public",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "rangées de tables longues occupées par des étudiants silencieux",
+      "rayonnages hauts couverts de volumes ordonnés par cotes",
+      "lumière naturelle par de hautes fenêtres, complétée par des lampes de bureau",
+      "ordinateurs en libre accès alignés dans une salle annexe",
+      "chuchotements occasionnels, réprimés ou tolérés",
+      "odeur de papier et de poussière des ouvrages anciens",
+      "casiers à l'entrée pour les sacs et vestes",
+      "bureau d'accueil avec personnel discret et efficace",
+      "signal de téléphone réduit ou désactivé, qui crée une coupure du monde"
+    ],
+    "emotionsTypiques": [
+      "concentration intense facilitée par le silence collectif",
+      "sentiment d'appartenance à une communauté studieuse",
+      "anxiété de performance pour certains, béatitude pour d'autres",
+      "lassitude douce après plusieurs heures de travail",
+      "paix de l'immersion totale dans un texte",
+      "légère frustration de ne pouvoir parler librement"
+    ],
+    "ambiance": "La bibliothèque universitaire est un lieu de silence productif : ici, chacun est seul dans sa concentration, mais entouré d'autres qui font de même. Cette solitude collective crée une forme de pression bienveillante — on travaille parce que les autres travaillent.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "papier vieilli et légèrement acide des ouvrages anciens",
+        "poussière fine sur les rayonnages peu consultés",
+        "café en thermos ou en gobelet, consommé discrètement",
+        "légère odeur de renfermé dans les sous-sols aux collections rares"
+      ],
+      "auditifs": [
+        "silence quasi total, de type bibliothèque — différent du silence vide",
+        "froissement de pages tournées, multiple et synchrone",
+        "clavier d'ordinateur portable, clic discret mais omniprésent",
+        "chuchotement bref entre voisins de table, vite étouffé",
+        "bruit de chaise raclée quand quelqu'un se lève pour les rayonnages"
+      ],
+      "visuels": [
+        "têtes penchées sur les pages ou les écrans, uniformément concentrées",
+        "reliures de couleurs diverses sur les rayonnages, à perte de vue",
+        "lampes de bureau individuelles qui créent des îlots de lumière",
+        "fenêtres hautes par lesquelles le soleil trace des lignes obliques sur le sol",
+        "post-it, surligneurs et feuilles couvertes de notes débordant des tables",
+        "personne endormie sur ses cours, tête posée sur ses bras"
+      ],
+      "tactiles": [
+        "pages d'un livre ancien, légèrement jaunies et cassantes",
+        "surface froide et lisse de la table longue",
+        "chaise en bois dur qui devient inconfortable après deux heures",
+        "air sec de la climatisation qui assèche les yeux et la gorge"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Étudiant en période d'examens",
+        "description": "Le silence de la bibliothèque est à la fois soulagement et pression supplémentaire. Regarde les autres travailler et se demande s'ils en font plus que lui. Compte les heures. La concentration vient par vagues. Le trajet retour à la maison est une décompression."
+      },
+      {
+        "profil": "Chercheur ou enseignant venu consulter des archives",
+        "description": "Le lieu lui est familier depuis vingt ans. Il a ses habitudes : même table si possible, même heure. Le silence est son carburant. Il ne voit pas les étudiants autour de lui — il est dans ses sources, dans un autre temps."
+      },
+      {
+        "profil": "Personne en rupture qui vient travailler ici par défaut",
+        "description": "N'est pas étudiant, ou ne l'est plus, mais ce lieu reste le seul endroit où travailler sans être distrait. Se fond dans la masse avec une légère imposture. La présence des autres lui est nécessaire — sans eux, il ne ferait rien."
+      }
+    ],
+    "usagesNarratifs": [
+      "scène de rencontre entre deux personnages dans un espace où la parole est contrainte",
+      "lieu de recherche sur un sujet qui va changer le cours du récit",
+      "cadre pour montrer la pression sociale de la réussite scolaire ou universitaire",
+      "espace de concentration où un personnage prend une décision dans le silence",
+      "illustration de la solitude dans un cadre collectif",
+      "scène de découverte d'un document, d'un livre ou d'une archive déterminante"
+    ],
+    "notesEditoriales": [
+      "Le silence de la bibliothèque n'est pas l'absence de bruit : c'est un silence actif, collectivement maintenu. Cette nuance est importante pour le rendre vivant.",
+      "La personne endormie sur ses cours est un détail humain qui rompt la perfection studieuse — à utiliser pour désacraliser légèrement le lieu.",
+      "La lampe individuelle qui crée un îlot de lumière est une image efficace pour l'isolement dans le collectif.",
+      "Éviter la bibliothèque uniquement comme décor de travail : c'est aussi un lieu de rencontre très particulier, où la parole est rare et donc précieuse."
+    ]
+  },
+  {
+    "id": "vestibule-maison-bourgeoise",
+    "label": "Vestibule d'une maison bourgeoise",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "sol en carrelage de marbre ou en parquet ciré de grande qualité",
+      "console ancienne avec miroir ouvragé au-dessus",
+      "portemanteau en bois sombre surchargé de manteaux",
+      "tapis d'entrée épais qui amortit les pas",
+      "odeur de cire, de fleurs coupées et légèrement de renfermé",
+      "bouquet de fleurs fraîches ou séchées sur la console",
+      "escalier en bois vers l'étage, visible ou derrière une porte",
+      "sonnette ou heurtoir de porte d'entrée encore visible depuis l'intérieur",
+      "lumière tamisée, souvent sans fenêtre directe"
+    ],
+    "emotionsTypiques": [
+      "intimidation légère pour le visiteur non habitué",
+      "sentiment d'être évalué avant même d'entrer",
+      "gêne ou fierté selon qu'on est visiteur ou propriétaire",
+      "impression de théâtralité — le vestibule est une mise en scène de soi",
+      "curiosité sur ce que le reste de la maison dissimule",
+      "ambivalence entre accueil et exclusion"
+    ],
+    "ambiance": "Le vestibule d'une maison bourgeoise est un sas entre deux mondes : la rue et l'intérieur privé. Tout y est choisi pour faire impression avant que le visiteur ne soit vraiment admis. Ce lieu dit autant de ses propriétaires que leur salon.",
+    "detailsSensoriels": {
+      "olfactifs": [
+        "cire d'entretien du parquet ou du meuble, odeur dense et ancienne",
+        "fleurs coupées — roses ou lys — dont le parfum imprègne l'espace étroit",
+        "légère odeur de renfermé des manteaux accrochés depuis longtemps",
+        "parfum de la maîtresse de maison ou du maître, qui a précédé"
+      ],
+      "auditifs": [
+        "silence de l'intérieur, coupé du monde par la porte épaisse",
+        "voix portées depuis une pièce du fond, atténuées mais perceptibles",
+        "craquement du parquet ou des lames du plancher à l'approche",
+        "tintement de la sonnette ou bruit du heurtoir qui résonne dans la maison"
+      ],
+      "visuels": [
+        "miroir ouvragé dans lequel on se découvre avant d'entrer",
+        "bouquet d'entrée — toujours frais ou toujours sec selon la maison",
+        "manteaux et vestes suspendus, indices discrets des présents",
+        "sol brillant, parfaitement entretenu",
+        "photographies ou tableaux choisis pour ce lieu de première impression",
+        "lumière jaune ou blanche selon la tradition décorative de la famille"
+      ],
+      "tactiles": [
+        "parquet froid et légèrement glissant sous les chaussures",
+        "porte d'entrée lourde et solide, qui se ferme avec une résistance",
+        "tapis épais qui change la sensation sous le pied d'un coup",
+        "poignée de porte en laiton ou en bois patiné par les mains"
+      ]
+    },
+    "variantesPerception": [
+      {
+        "profil": "Visiteur qui vient pour la première fois",
+        "description": "Analyse tout en quelques secondes : le niveau d'entretien, l'âge des meubles, le bouquet frais ou fanée. Se fait une idée de ses hôtes avant même de les avoir vus. Pose les pieds avec soin sur le parquet, conscient d'être regardé sans voir encore qui le regarde."
+      },
+      {
+        "profil": "Enfant de la maison qui rentre",
+        "description": "Traverse le vestibule sans le voir — il lui est aussi invisible que l'air. Jette son manteau sur le portemanteau sans viser, abandonne ses chaussures en travers du tapis. L'odeur de cire et de fleurs est le fond sonore de toute son enfance sans qu'il le sache."
+      },
+      {
+        "profil": "Ouvrier ou prestataire venu travailler",
+        "description": "A conscience d'être dans un espace qui n'est pas le sien. Ne s'avance pas sans y être invité. Regarde les meubles, le sol, les photos — avec les yeux d'un professionnel qui évalue, ou d'un témoin de quelque chose qui lui est étranger. Ses propres chaussures lui semblent soudain trop bruyantes."
+      }
+    ],
+    "usagesNarratifs": [
+      "premier contact entre deux personnages dans un espace de représentation",
+      "scène d'évaluation sociale ou d'intimidation de classe",
+      "lieu où une nouvelle importante est annoncée avant même d'entrer dans le salon",
+      "cadre de retour chargé après une longue absence",
+      "espace symbolique du seuil — entre dehors et dedans, passé et présent",
+      "détail de décor révélateur du statut, des goûts et des valeurs d'une famille"
+    ],
+    "notesEditoriales": [
+      "Le vestibule dit plus d'une famille que son salon : c'est le lieu qu'on choisit de montrer en premier, celui qui donne le ton. En exploiter la fonction de mise en scène.",
+      "Le miroir d'entrée est un objet narratif à part entière : il révèle comment un personnage se perçoit au seuil d'une épreuve.",
+      "L'odeur de cire est un détail mémoriel puissant — elle traverse les générations et ramène souvent des souvenirs d'enfance précis.",
+      "Un détail déplacé dans ce vestibule (un manteau jeté, une fleur fanée non remplacée) peut suffire à signaler un désordre intérieur dans la famille."
+    ]
+  }
+]

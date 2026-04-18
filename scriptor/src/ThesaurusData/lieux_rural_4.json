@@ -1,0 +1,650 @@
+[
+  {
+    "id": "chemin-de-terre",
+    "label": "Chemin de terre",
+    "type": "rural-voie",
+    "dominanteSensorielle": "tactile-visuel",
+    "elements": [
+      "deux ornières parallèles creusées par les tracteurs",
+      "herbe centrale qui pousse entre les traces de roues",
+      "bords envahis par les herbes hautes et les ronces",
+      "flaques dans les creux après la pluie",
+      "pierres affleurantes qui déforment la marche",
+      "poussière sèche en été qui se soulève au passage",
+      "perspective qui se referme dans une courbe ou une haie"
+    ],
+    "bruits": [
+      "gravier qui crisse sous les semelles",
+      "grillons en été dans les herbes hautes",
+      "tracteur au loin — moteur diesel reconnaissable",
+      "vent dans les haies qui bordent parfois le chemin"
+    ],
+    "odeurs": [
+      "terre sèche et poussière en été",
+      "boue et végétation en décomposition après la pluie",
+      "gasoil si tracteur récent"
+    ],
+    "textures": [
+      "sol inégal qui force à regarder où on met les pieds",
+      "boue collante par temps humide",
+      "poussière fine qui entre dans les chaussures"
+    ],
+    "emotionsTypiques": [
+      "sentiment de suivre une direction sans carte",
+      "isolement progressif du monde goudronnée",
+      "liberté d'aller sans témoin"
+    ],
+    "usagesNarratifs": [
+      "trajet entre deux points du récit sans voie officielle",
+      "déplacement discret à l'écart des routes",
+      "errance ou marche sans destination claire",
+      "premier contact d'un personnage urbain avec le territoire rural"
+    ],
+    "tensionsTypiques": [
+      "chemin qui s'arrête brutalement — propriété privée",
+      "véhicule enlisé dans la boue",
+      "perte d'orientation — tous les chemins se ressemblent"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Paysan",
+        "description": "Il connaît chaque ornière, chaque virage. C'est son chemin de travail, pas un paysage. Il l'évalue pour son état, pas pour sa beauté."
+      },
+      {
+        "profil": "Randonneur",
+        "description": "Le chemin de terre est une découverte après l'asphalte. Il ralentit le pas, écoute autrement, prend conscience de ce qui l'entoure."
+      },
+      {
+        "profil": "Personnage en fuite",
+        "description": "Le chemin est discret mais dangereux si le sol garde les traces. Il avance vite, évalue le terrain, espère que la pluie viendra effacer son passage."
+      }
+    ],
+    "notesEditoriales": [
+      "Le chemin de terre n'a pas d'horaire ni de destination affichée — il suggère l'autonomie et l'isolement simultanément.",
+      "Les ornières de tracteur donnent l'échelle : un corps humain y est hors d'échelle, vulnérable, hors du monde de la machine."
+    ]
+  },
+  {
+    "id": "sentier-rural",
+    "label": "Sentier rural balisé",
+    "type": "rural-voie",
+    "dominanteSensorielle": "tactile-visuel",
+    "elements": [
+      "marques de balisage sur les arbres ou les pierres",
+      "sentier étroit tracé par les pas répétés",
+      "végétation qui referme le passage si peu fréquenté",
+      "escaliers naturels de racines sur les pentes",
+      "pierres posées à plat pour franchir les zones humides",
+      "vues fugitives sur le paysage entre les arbres",
+      "panneau en bois peint à un croisement"
+    ],
+    "bruits": [
+      "pas feutrés sur la terre ou les feuilles mortes",
+      "oiseaux selon l'heure et la saison",
+      "ruisseau proche parfois audible avant d'être visible",
+      "voix d'autres marcheurs — plus tôt que prévu, plus tard qu'espéré"
+    ],
+    "odeurs": [
+      "végétation variable selon la saison et l'altitude",
+      "terre chaude après la pluie",
+      "pin ou châtaignier selon la région"
+    ],
+    "textures": [
+      "sol souple et élastique sous les feuilles",
+      "racines qui font trébucher",
+      "pierres froides et stables"
+    ],
+    "emotionsTypiques": [
+      "progressivité du paysage — chaque virage est une nouvelle image",
+      "effort physique qui vide l'esprit",
+      "légère anxiété si balisage perdu"
+    ],
+    "usagesNarratifs": [
+      "déplacement entre deux lieux avec temps de réflexion",
+      "conversation en marchant — le mouvement facilite les aveux",
+      "scène de randonnée qui tourne mal",
+      "découverte d'un lieu inattendu au bout du sentier"
+    ],
+    "tensionsTypiques": [
+      "balisage effacé ou mal lu — perte de direction",
+      "nuit qui tombe avant le retour",
+      "rencontre imprévue sur un sentier isolé"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Marcheur régulier",
+        "description": "Il connaît le sentier par cœur — les passages difficiles, la vue qui s'ouvre à tel virage, le banc à mi-parcours. Il marche sans regarder où il met les pieds."
+      },
+      {
+        "profil": "Premier passage",
+        "description": "Il consulte la carte, hésite aux croisements, regarde le balisage. L'incertitude maintient une attention qui finit par devenir plaisir."
+      },
+      {
+        "profil": "Personnage qui marche pour ne pas penser",
+        "description": "L'effort physique l'occupe juste assez. Il suit le sentier sans le voir, perdu dans ses pensées jusqu'à ce qu'un détail concret le ramène au présent."
+      }
+    ],
+    "notesEditoriales": [
+      "Le sentier impose son rythme — on ne peut ni courir vraiment ni s'arrêter longtemps. C'est un espace de transition narratif naturel.",
+      "La conversation en marchant est plus facile que face à face : le regard est devant, les mots viennent différemment."
+    ]
+  },
+  {
+    "id": "route-departementale-nuit",
+    "label": "Route départementale la nuit",
+    "type": "rural-voie",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "bande de goudron noir bordée de blanc — marquage usé",
+      "fossés de chaque côté avec leur végétation dense",
+      "arbres dont les branches forment une voûte",
+      "rares phares de voiture qui arrivent de loin",
+      "panneaux réfléchissants qui surgissent dans les phares",
+      "obscurité totale entre les zones de visibilité",
+      "bitume humide qui brille sous les étoiles"
+    ],
+    "bruits": [
+      "silence absolu entre les passages de véhicules",
+      "grillons ou grenouilles selon la saison",
+      "bruissement d'un animal dans les fossés",
+      "bruit des pneus lointain, puis proche, puis disparu"
+    ],
+    "odeurs": [
+      "bitume chaud en été, humide en pluie",
+      "végétation des fossés — herbe et ortie",
+      "odeur animale parfois — renard, blaireau traversé"
+    ],
+    "textures": [
+      "goudron sous les semelles — dur et régulier",
+      "vent du passage d'un camion",
+      "froid de la nuit sur les bras nus"
+    ],
+    "emotionsTypiques": [
+      "vulnérabilité du piéton sur une route faite pour les voitures",
+      "sentiment d'être le seul éveillé dans un monde endormi",
+      "inquiétude diffuse face à l'obscurité des bas-côtés"
+    ],
+    "usagesNarratifs": [
+      "trajet à pied contraint — voiture en panne, fugue nocturne",
+      "attente d'un véhicule qui ne vient pas",
+      "accident ou découverte en bord de route",
+      "errance nocturne après une rupture ou une crise"
+    ],
+    "tensionsTypiques": [
+      "voitures qui ne voient pas le piéton",
+      "crevaison ou panne en plein milieu",
+      "obscurité des bois de chaque côté — ce qu'on n'entend pas"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Automobiliste de nuit",
+        "description": "Les phares découpent un corridor étroit. Tout ce qui est hors de ce corridor n'existe pas. La fatigue altère la vigilance sans qu'on le remarque."
+      },
+      {
+        "profil": "Piéton contraint",
+        "description": "Il colle les fossés, se retourne au bruit des moteurs, lève les bras pour être vu. Chaque voiture est un soulagement et un danger."
+      },
+      {
+        "profil": "Habitant du coin qui rentre à pied",
+        "description": "Il connaît chaque virage, sait où la route est dangereuse, avance sans lampe. L'obscurité lui est familière. Ce sont les voitures qui l'inquiètent, pas le noir."
+      }
+    ],
+    "notesEditoriales": [
+      "La route départementale de nuit est l'un des espaces les plus dangereux pour un piéton en France — cette réalité est narrativement sous-utilisée.",
+      "Le corridor de lumière des phares est un motif visuel fort : l'obscurité juste à la limite, et ce qu'elle peut cacher."
+    ]
+  },
+  {
+    "id": "croisee-de-chemins",
+    "label": "Croisée de chemins",
+    "type": "rural-voie",
+    "dominanteSensorielle": "visuel",
+    "elements": [
+      "quatre directions possibles sans indication évidente",
+      "calvaire ou croix de pierre souvent présent",
+      "sol foulé autour — traces d'hésitation",
+      "vue dégagée dans toutes les directions si pas d'arbres",
+      "panneau de bois peint parfois — noms de hameaux effacés",
+      "herbe rase au centre, battue par des passages réguliers",
+      "fossés de drainage aux quatre angles"
+    ],
+    "bruits": [
+      "vent qui arrive de plusieurs directions selon l'exposition",
+      "silence de carrefour — pas de destination évidente",
+      "voiture ou tracteur qui prend une direction sans s'arrêter"
+    ],
+    "odeurs": [
+      "terre variable selon la direction — culture différente de chaque côté",
+      "pierre de la croix — minérale et froide"
+    ],
+    "textures": [
+      "sol compact au centre",
+      "pierre rugueuse de la croix ou du calvaire",
+      "gravier ou terre selon les directions"
+    ],
+    "emotionsTypiques": [
+      "hésitation face au choix",
+      "sentiment symbolique fort du carrefour comme métaphore",
+      "liberté désagréable — trop d'options sans guide"
+    ],
+    "usagesNarratifs": [
+      "moment de décision littérale et symbolique",
+      "lieu de rencontre ou de rendez-vous ambigu",
+      "point de départ d'une erreur de chemin",
+      "charge symbolique du carrefour dans les récits populaires et les contes"
+    ],
+    "tensionsTypiques": [
+      "mauvaise direction prise — impossibilité de revenir en arrière sans se l'avouer",
+      "rendez-vous manqué au carrefour",
+      "croisée comme lieu de superstition locale"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Paysan du coin",
+        "description": "Il ne voit pas le carrefour — il voit quatre chemins qu'il emprunte par habitude selon sa destination. Il n'hésite jamais."
+      },
+      {
+        "profil": "Étranger perdu",
+        "description": "Les quatre directions sont également impossibles. Il consulte son téléphone — pas de réseau. S'arrête. Réfléchit. Prend une direction au hasard."
+      },
+      {
+        "profil": "Personnage au tournant de sa vie",
+        "description": "Le carrefour est trop évident comme métaphore. Ce qui le rend intéressant, c'est quand le personnage lui-même n'y voit pas de symbole — juste un problème pratique."
+      }
+    ],
+    "notesEditoriales": [
+      "La croisée de chemins a une charge symbolique si forte qu'elle risque le cliché. L'ancrer dans le concret — le calvaire qui penche, le panneau illisible — contrebalance la métaphore.",
+      "Dans les traditions populaires, le carrefour est un lieu de pactes et de rencontres surnaturelles. À utiliser avec discernement selon le registre du récit."
+    ]
+  },
+  {
+    "id": "pont-de-pierre-rural",
+    "label": "Vieux pont de pierre en campagne",
+    "type": "rural-voie",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "arche unique en pierre grisée par le temps",
+      "garde-corps bas en pierre usée, parfois brisé",
+      "tablier étroit — deux voitures ne peuvent pas se croiser",
+      "mousse et lichens entre les pierres de la pile",
+      "rivière en contrebas — courant visible à travers",
+      "gravier de la rive visible depuis le parapet",
+      "plaque nominative souvent millésimée — XVIIIe ou XIXe"
+    ],
+    "bruits": [
+      "eau courante en contrebas — plus forte en crue",
+      "vibration du tablier au passage d'un véhicule lourd",
+      "oiseaux qui nichent dans les interstices",
+      "écho particulier du pas sur la pierre"
+    ],
+    "odeurs": [
+      "pierre mouillée et mousse",
+      "eau courante en contrebas",
+      "végétation de berge portée par le vent"
+    ],
+    "textures": [
+      "pierre rugueuse et irrégulière sous les mains",
+      "garde-corps froid même en été",
+      "vibration du pont sous les pas"
+    ],
+    "emotionsTypiques": [
+      "sentiment de franchissement — aller de l'autre côté",
+      "rapport au temps long — le pont précède les vivants de plusieurs siècles",
+      "légère inquiétude si le pont paraît fragile"
+    ],
+    "usagesNarratifs": [
+      "lieu de passage symbolique fort",
+      "point de rendez-vous ou de confrontation sur fond de rivière",
+      "espace de suspension — ni d'un côté ni de l'autre",
+      "pont comme enjeu narratif — bloquer, couper, traverser"
+    ],
+    "tensionsTypiques": [
+      "pont trop étroit pour les véhicules modernes — risque d'accident",
+      "fragilité structurelle réelle ou supposée",
+      "crue qui menace le franchissement"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Local",
+        "description": "Il passe cent fois par an sans le voir. Ce n'est pas un pont, c'est le chemin. Sa solidité n'est pas en question — il a toujours été là."
+      },
+      {
+        "profil": "Visiteur",
+        "description": "Il s'arrête, regarde la rivière en dessous, remarque la mousse, la date gravée. Pour lui, c'est un objet, pas un passage."
+      },
+      {
+        "profil": "Personnage qui fuit",
+        "description": "Le pont est un goulot d'étranglement. Il ne peut pas être contourné. S'il est bloqué là, tout s'arrête. Il traversa sans ralentir."
+      }
+    ],
+    "notesEditoriales": [
+      "Le vieux pont condense le rapport au temps long — il a vu passer des générations. À utiliser quand le récit a besoin d'une mise en perspective.",
+      "Narrativement, les ponts bloquent autant qu'ils relient — couper un pont coupe une route. Ce double effet est exploitable."
+    ]
+  },
+  {
+    "id": "haie-bocagere",
+    "label": "Haie bocagère",
+    "type": "rural-voie",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "entrelacement dense de branches, ronces et arbustes",
+      "talus de terre souvent à la base — haut d'un mètre",
+      "arbres de têtard tous les dix mètres",
+      "passage de clôture parfois — fils de fer rouillé",
+      "interior de la haie — tunnel végétal impénétrable",
+      "fleurs de saison qui émergent selon le mois",
+      "baies rouges ou noires selon l'espèce"
+    ],
+    "bruits": [
+      "multitude d'oiseaux — la haie est un corridor de biodiversité",
+      "vent arrêté d'un côté — calme artificiel derrière la haie",
+      "craquement si on essaie de passer à travers",
+      "insectes bourdonnants dans les fleurs"
+    ],
+    "odeurs": [
+      "aubépine en fleur au printemps — parfum puissant",
+      "végétation mêlée — difficile à isoler",
+      "terre du talus humide"
+    ],
+    "textures": [
+      "ronces qui accrochent et déchirent",
+      "terre du talus friable sous les pieds",
+      "bois mort et sec dans l'épaisseur de la haie"
+    ],
+    "emotionsTypiques": [
+      "sentiment de limite — de ce côté ou de l'autre",
+      "opacité — on ne sait pas ce qu'il y a de l'autre côté",
+      "intimité paradoxale — la haie crée un couloir entre deux mondes"
+    ],
+    "usagesNarratifs": [
+      "obstacle physique entre deux espaces ou deux personnages",
+      "cache ou abri improvisé pour une observation",
+      "frontière entre deux propriétés — source de conflit",
+      "passage secret si on connaît la brèche"
+    ],
+    "tensionsTypiques": [
+      "opacité absolue — on ne voit pas ce qui est derrière",
+      "impénétrabilité physique — les ronces blessent vraiment",
+      "propriété privée derrière — entrée illégale"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur",
+        "description": "La haie est une infrastructure — coupe-vent, protection des cultures, ressource en bois. Il la taille selon les saisons. Elle est fonctionnelle, pas décorative."
+      },
+      {
+        "profil": "Enfant",
+        "description": "La haie est une muraille impénétrable ou une cache parfaite selon l'endroit. Trouver la brèche est une victoire. L'intérieur est un monde à part."
+      },
+      {
+        "profil": "Personnage qui surveille",
+        "description": "La haie lui donne une position avantageuse — il voit sans être vu. Il s'installe dans l'ombre du talus, écarte quelques branches. L'attente commence."
+      }
+    ],
+    "notesEditoriales": [
+      "La haie bocagère est un marqueur du paysage ouest-français — très présente en Bretagne, Normandie, Vendée. Son absence dans d'autres régions est aussi significative.",
+      "L'opacité de la haie est sa propriété narrative principale : elle sépare, elle cache, elle protège et elle emprisonne."
+    ]
+  },
+  {
+    "id": "talus",
+    "label": "Talus de bord de route",
+    "type": "rural-voie",
+    "dominanteSensorielle": "tactile-visuel",
+    "elements": [
+      "pente herbeuse entre la route et le fossé ou le champ",
+      "herbes hautes non fauchées — folle avoine, bardane",
+      "fleurs sauvages selon la saison",
+      "déchets abandonnés parfois — sacs, canettes, papiers",
+      "terre nue sur les pentes les plus raides",
+      "terriers d'animaux dans les zones stables",
+      "traces de pneus si voiture sortie de route"
+    ],
+    "bruits": [
+      "voitures qui passent en contrebas ou en dessus",
+      "insectes dans les herbes — bourdons, grillons",
+      "herbes qui bruissent au vent",
+      "eau dans le fossé au pied après la pluie"
+    ],
+    "odeurs": [
+      "herbe coupée ou non, selon la saison",
+      "terre chaude en été",
+      "déchets si présents — odeur désagréable et précise"
+    ],
+    "textures": [
+      "pente glissante si herbe mouillée",
+      "herbes qui coupent les jambes",
+      "terre sèche et friable"
+    ],
+    "emotionsTypiques": [
+      "sentiment d'entre-deux — ni sur la route, ni dans le champ",
+      "légère transgression de s'y allonger ou s'y cacher",
+      "indifférence — lieu que personne ne regarde vraiment"
+    ],
+    "usagesNarratifs": [
+      "cache d'urgence pour un personnage en fuite",
+      "lieu d'un accident ou d'une découverte",
+      "espace de pause inattendu et non prévu",
+      "lieu de dépôt de quelque chose qu'on veut cacher vite"
+    ],
+    "tensionsTypiques": [
+      "instabilité de la pente — glisser vers la route",
+      "visibilité depuis la route — on peut être vu",
+      "ce qui est caché dans les herbes hautes"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Automobiliste",
+        "description": "Le talus est un fond de tableau — il défile sans être regardé. Il n'existe que quand quelque chose d'anormal s'y trouve : une voiture, un corps, des traces."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Le talus est une pente à dévaler, une cachette, un terrain vague personnel. Les herbes hautes sont un monde à l'échelle qui le rend invisible."
+      },
+      {
+        "profil": "Personnage qui se cache",
+        "description": "Il évalue la hauteur des herbes, la distance depuis la route, l'angle de vue. Il s'allonge, retient sa respiration. Les voitures passent à un mètre."
+      }
+    ],
+    "notesEditoriales": [
+      "Le talus est invisible quand tout va bien — il devient narrativement visible quand quelque chose s'y passe.",
+      "Les déchets abandonnés sur les talus sont un détail de réalisme utile : ils ancrent le lieu dans le quotidien sans romanisation."
+    ]
+  },
+  {
+    "id": "fosse",
+    "label": "Fossé de drainage",
+    "type": "rural-voie",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "dépression linéaire creusée en bord de route ou de champ",
+      "eau stagnante brune ou verte en fond",
+      "végétation aquatique dans les zones permanentes",
+      "gravats et déchets jetés dans les zones accessibles",
+      "grenouilles et insectes en surface",
+      "herbes hautes qui penchent au-dessus du fond",
+      "eau qui coule rapidement après une pluie forte"
+    ],
+    "bruits": [
+      "eau courante après la pluie — temporaire",
+      "grenouilles en saison",
+      "insectes aquatiques",
+      "silence de l'eau dormante — aucun mouvement"
+    ],
+    "odeurs": [
+      "eau stagnante et boue — odeur forte et particulière",
+      "végétation en décomposition",
+      "fraîcheur de l'eau courante si pluie récente"
+    ],
+    "textures": [
+      "boue profonde et aspirante",
+      "herbes glissantes sur les bords",
+      "eau froide et épaisse"
+    ],
+    "emotionsTypiques": [
+      "dégoût léger ou fort selon la saison",
+      "inquiétude si profondeur inconnue",
+      "insignifiance du lieu — personne ne le regarde"
+    ],
+    "usagesNarratifs": [
+      "lieu de découverte morbide — ce qu'on trouve dans un fossé",
+      "obstacle à traverser en urgence",
+      "lieu de dépôt discret d'un objet ou d'un corps",
+      "chute accidentelle ou simulée"
+    ],
+    "tensionsTypiques": [
+      "profondeur imprévisible — boue qui peut avaler un pied",
+      "invisibilité du fond sous la végétation",
+      "odeur qui trahit une présence"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Agriculteur",
+        "description": "Le fossé est une infrastructure d'évacuation. Il vérifie régulièrement que rien ne le bouche. Sa mauvaise odeur est un signe de mauvais drainage, rien de plus."
+      },
+      {
+        "profil": "Enfant",
+        "description": "Le fossé est fascinant et interdit — ce qui le rend magnétique. Les grenouilles, la boue, la profondeur inconnue. Les chutes dans les fossés sont des rites de passage."
+      },
+      {
+        "profil": "Gendarme ou enquêteur",
+        "description": "Le fossé est un lieu de dépôt. Il s'approche avec précaution, regarde avant d'y mettre un pied. Ce qu'on y trouve dit quelque chose de ce qu'on veut cacher rapidement."
+      }
+    ],
+    "notesEditoriales": [
+      "Le fossé est le lieu le moins romanesque qui soit — ce qui le rend narrativement précieux : il ancre dans le réel brutal.",
+      "La boue d'un fossé garde les traces — semelles, traînes, chutes. C'est un témoin passif de tout ce qui passe à côté."
+    ]
+  },
+  {
+    "id": "bord-de-route-nationale",
+    "label": "Bord de route nationale",
+    "type": "rural-voie",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "deux voies larges et rapides, séparées par une ligne blanche",
+      "glissières de sécurité métalliques ou en béton",
+      "panneaux de signalisation tous les 500 mètres",
+      "bretelle d'accès et d'insertion tous les quelques kilomètres",
+      "talus soigneusement dégagés pour la visibilité",
+      "carcasses de pneus éclatés sur la bande d'arrêt d'urgence",
+      "fleurs de bord de route — mais moins que sur les routes secondaires"
+    ],
+    "bruits": [
+      "flux continu de véhicules — jamais vraiment silence",
+      "camions qui créent une dépression d'air au passage",
+      "bande de rappel sonore si dérive vers le bord",
+      "avion lointain — la route suit souvent les mêmes axes"
+    ],
+    "odeurs": [
+      "goudron chauffé en été",
+      "gaz d'échappement en concentration",
+      "pluie sur bitume — odeur de pétrole et de chaleur"
+    ],
+    "textures": [
+      "vent violent des poids lourds sur un piéton immobile",
+      "goudron chaud qui colle légèrement",
+      "glissière froide et métallique si on l'attrape"
+    ],
+    "emotionsTypiques": [
+      "vulnérabilité absolue du piéton dans un espace pour les véhicules",
+      "sensation d'être hors du monde — la route passe mais ne s'arrête pas",
+      "sentiment d'urgence — ce lieu n'est pas fait pour s'y attarder"
+    ],
+    "usagesNarratifs": [
+      "panne ou accident sur une grande route",
+      "auto-stop — attente interminable",
+      "fuite depuis une voiture accidentée",
+      "présence incongrue d'un piéton sur une route interdite aux piétons"
+    ],
+    "tensionsTypiques": [
+      "vitesse des véhicules — danger immédiat pour un piéton",
+      "absence d'espace sûr sur les bandes d'arrêt",
+      "kilomètres sans sortie ni abri possible"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Automobiliste en vitesse de croisière",
+        "description": "La route défile. Les détails ne s'enregistrent que si quelque chose d'anormal apparaît — un piéton, une voiture arrêtée, un animal. Sinon, rien."
+      },
+      {
+        "profil": "Piéton par contrainte",
+        "description": "Chaque camion qui passe est une menace physique. Il longe la glissière, les bras collés au corps. L'espace n'est pas fait pour lui et ça se sent à chaque seconde."
+      },
+      {
+        "profil": "Personnage en panne",
+        "description": "Depuis le bord, la route est terrifiante. Il appelle à l'aide avec les bras, personne ne s'arrête. La circulation continue comme s'il n'existait pas."
+      }
+    ],
+    "notesEditoriales": [
+      "La route nationale est un non-lieu par excellence — on y passe, on n'y est jamais. La présence d'un personnage à pied y est automatiquement un événement.",
+      "Le flux continu des véhicules crée une métaphore naturelle : la vie qui continue sans s'arrêter, indifférente."
+    ]
+  },
+  {
+    "id": "chemin-creux",
+    "label": "Chemin creux",
+    "type": "rural-voie",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "chemin enfoncé entre deux talus hauts — parfois plus d'un mètre",
+      "ciel réduit à une bande au-dessus de la tête",
+      "racines qui traversent les talus à hauteur de visage",
+      "sol de terre argileuse, souvent humide",
+      "herbes et fougères qui pendent des bords",
+      "absence totale de visibilité au-delà des talus",
+      "traces profondes laissées par les charrettes ou les tracteurs"
+    ],
+    "bruits": [
+      "écho de ses propres pas — le creux amplifie",
+      "oiseaux invisibles dans les talus",
+      "eau qui suinte dans les parois de terre",
+      "bruit étouffé de tout ce qui est au-dessus"
+    ],
+    "odeurs": [
+      "terre argileuse humide — odeur très particulière",
+      "fougères et végétation des talus",
+      "moisissure légère dans les zones profondes et ombreuses"
+    ],
+    "textures": [
+      "sol glissant et collant d'argile",
+      "murs de terre friables si on les touche",
+      "racines qui barrent le passage"
+    ],
+    "emotionsTypiques": [
+      "enfermement — les talus barrent la vue",
+      "sentiment ancien et hors du temps",
+      "légère claustrophobie selon la profondeur du chemin"
+    ],
+    "usagesNarratifs": [
+      "poursuite où seul celui qui connaît le chemin s'en sort",
+      "cache naturelle — impossible à voir depuis au-dessus",
+      "transition vers un autre espace ou un autre état",
+      "espace de l'embuscade dans les récits historiques"
+    ],
+    "tensionsTypiques": [
+      "impossible de se croiser si trop étroit",
+      "sortie impossible si la montée est glissante",
+      "invisibilité — on ne sait pas ce qui vient en face"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitant local",
+        "description": "Il l'emprunte depuis l'enfance. Le chemin creux est une raccourci, un abri par temps de pluie. Il n'y voit rien de particulier — c'est juste le chemin."
+      },
+      {
+        "profil": "Visiteur",
+        "description": "L'entrée dans le chemin creux est un passage — le monde s'efface, le ciel se réduit. Le lieu a une présence physique immédiate, presque oppressante."
+      },
+      {
+        "profil": "Personnage en danger",
+        "description": "Le chemin creux est une impasse potentielle. Trop étroit pour courir, impossible de voir ce qui vient. Il avance en espérant que personne ne l'attend à l'autre bout."
+      }
+    ],
+    "notesEditoriales": [
+      "Le chemin creux est un dispositif narratif précis : il enferme et cache simultanément. Utilisé dans les récits de guerre comme position défensive naturelle.",
+      "Sa temporalité est impressionnante — certains chemins creux ont plusieurs siècles. Le sol en est rabaissé par des millénaires de passage."
+    ]
+  }
+]

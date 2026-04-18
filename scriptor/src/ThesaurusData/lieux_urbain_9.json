@@ -1,0 +1,725 @@
+[
+  {
+    "id": "salle-attente-administrative",
+    "label": "Salle d'attente administrative",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "rangées de sièges en plastique vissés au sol",
+      "ticket de file numéroté entre les doigts",
+      "panneau d'affichage électronique qui égraine les numéros",
+      "affiches de procédures administratives plastifiées",
+      "plante verte artificielle dans un coin",
+      "espace derrière un hygiaphone ou un comptoir vitré",
+      "sol carrelé gris, traces de passage marquées"
+    ],
+    "bruits": [
+      "appel de numéro par haut-parleur grésillant",
+      "soupirs et bruissements des personnes qui attendent",
+      "sonnerie d'un téléphone portable mal mis en silencieux",
+      "voix à guichet — intonation formelle et épuisée",
+      "porte battante qui s'ouvre et claque"
+    ],
+    "odeurs": [
+      "air recyclé légèrement vicié",
+      "parfums et odeurs corporelles mêlés",
+      "café de distributeur automatique dans la pièce",
+      "papier et plastique de formulaires"
+    ],
+    "textures": [
+      "plastique dur du siège sans rembourrage",
+      "formulaire papier qu'on plie et déplie nerveusement",
+      "ticket numéroté entre les doigts",
+      "stylo attaché au comptoir par une chaîne trop courte"
+    ],
+    "emotionsTypiques": [
+      "impuissance face à un système qu'on ne maîtrise pas",
+      "honte possible selon la nature de la démarche",
+      "impatience qui vire à la résignation",
+      "sentiment d'être un numéro parmi d'autres",
+      "anxiété autour de documents manquants ou d'une réponse redoutée"
+    ],
+    "usagesNarratifs": [
+      "espace pour montrer la condition sociale d'un personnage",
+      "lieu de croisement involontaire entre personnages de milieux différents",
+      "décor pour une scène d'humiliation institutionnelle",
+      "contexte révélateur d'une situation de précarité ou de crise"
+    ],
+    "tensionsTypiques": [
+      "numéro appelé et personne absente — moment d'angoisse",
+      "agent derrière le guichet qui refuse sans explication",
+      "conversation entre deux inconnus qui se reconnaissent",
+      "personnage qui réalise qu'il manque un document essentiel",
+      "longue attente pour une réponse négative"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Demandeur d'emploi",
+        "description": "Connaît cet espace par cœur. Sa honte s'est émoussée mais elle est là. Il regarde les autres sans curiosité — il ne veut pas qu'on le regarde non plus."
+      },
+      {
+        "profil": "Demandeur d'asile",
+        "description": "Déchiffre les codes, les affiches, les gestes. Tout lui est étranger et pourtant déterminant. L'attente est insupportable parce que ce qui se joue l'est."
+      },
+      {
+        "profil": "Fonctionnaire derrière le guichet",
+        "description": "Voit défiler des situations humaines impossibles derrière des formulaires standardisés. Il a appris à ne pas s'attacher pour survivre à la journée."
+      }
+    ],
+    "notesEditoriales": [
+      "La salle d'attente administrative est un espace de pouvoir asymétrique fort — riche pour les récits sociaux.",
+      "L'hygiaphone ou la vitre de guichet est une métaphore physique de la distance institutionnelle.",
+      "Éviter le manichéisme : le fonctionnaire épuisé n'est pas un ennemi — il est aussi pris dans le système."
+    ]
+  },
+  {
+    "id": "couloir-hopital-urbain",
+    "label": "Couloir d'hôpital",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "sol en linoléum gris ou vert clair, marqué de lignes de couleur pour orienter",
+      "chariots de médicaments ou de linge garés contre les murs",
+      "portes de chambres entrouverts ou fermées",
+      "poteaux de soluté roulant que les patients traînent",
+      "poste infirmier central éclairé en permanence",
+      "écrans de surveillance en fond",
+      "lumière froide de néon sans ombre"
+    ],
+    "bruits": [
+      "bip régulier d'un moniteur cardiaque derrière une porte",
+      "voix professionnelles basses et rapides",
+      "grincement de lit roulant",
+      "sonnette d'appel d'un patient",
+      "silence partiel la nuit — amplifié par l'attente"
+    ],
+    "odeurs": [
+      "désinfectant alcoolisé — fort, reconnaissable",
+      "nourriture de plateau-repas refroidie",
+      "médicaments et plastique stérilisé",
+      "légère odeur corporelle filtrée par les produits"
+    ],
+    "textures": [
+      "sol légèrement collant au passage des chariots",
+      "mur carrelé froid",
+      "main courante froide le long du couloir",
+      "chariot qui résiste à la direction dans les virages"
+    ],
+    "emotionsTypiques": [
+      "anxiété de la maladie ou de la perte imminente",
+      "sentiment d'impuissance face aux corps défaillants",
+      "urgence contenue et professionnelle du personnel",
+      "attente insupportable de nouvelles",
+      "déréalisation légère liée à la fatigue et au stress"
+    ],
+    "usagesNarratifs": [
+      "lieu de nouvelles graves — mort, diagnostic, naissance",
+      "espace pour une conversation décisive dans un contexte de vulnérabilité",
+      "décor pour montrer une crise ou une résolution soudaine",
+      "contexte révélateur du rapport d'un personnage à la mortalité"
+    ],
+    "tensionsTypiques": [
+      "attendre des nouvelles d'un proche en salle de réanimation",
+      "croiser quelqu'un qu'on ne s'attendait pas à voir là",
+      "soignant qui annonce une mauvaise nouvelle dans le couloir faute de temps",
+      "patient qui s'échappe ou refuse de revenir",
+      "urgence qui déferle et bouleverse l'ordre du couloir"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Infirmier en service de nuit",
+        "description": "Couloir familier et fonctionnel. Il connaît chaque porte, chaque signal. La nuit, le couloir lui appartient presque. Sa vigilance est automatique."
+      },
+      {
+        "profil": "Famille en attente",
+        "description": "Arpente le couloir pour ne pas rester assis. Chaque blouse blanche qui passe est un espoir ou une menace possible. Le temps s'étire."
+      },
+      {
+        "profil": "Patient en robe d'hôpital",
+        "description": "Se sent exposé et déclassé dans cette tenue qui efface son identité. Il marche pour retrouver une sensation de normalité, mal à l'aise sous les regards."
+      }
+    ],
+    "notesEditoriales": [
+      "Le couloir d'hôpital est l'un des espaces les plus chargés émotionnellement en fiction — à utiliser avec précision.",
+      "Le bip du moniteur est un son universel de tension — fort et économique.",
+      "Distinguer le couloir de service du couloir de nuit — l'ambiance est radicalement différente."
+    ]
+  },
+  {
+    "id": "hall-immeuble-residenciel",
+    "label": "Hall d'immeuble résidentiel",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "boîtes aux lettres alignées avec noms parfois effacés",
+      "miroir d'entrée souvent tacheté",
+      "tapis de sol usé à l'entrée",
+      "interphone ou digicode à l'entrée vitrée",
+      "annonce de réunion de copropriété sur un tableau",
+      "poussettes, vélos mal garés sous l'escalier",
+      "escalier ou ascenseur au fond"
+    ],
+    "bruits": [
+      "porte d'entrée qui claque fort — vibreur de fermeture",
+      "cliquetis de boîtes aux lettres ouvertes",
+      "bruit de pas sur le carrelage qui résonne",
+      "voix étouffées venant d'un appartement",
+      "sonnerie d'interphone"
+    ],
+    "odeurs": [
+      "mélange de repas cuisinés qui descend des étages",
+      "produit de nettoyage du sol",
+      "courrier et prospectus en papier légèrement humide",
+      "cigarette froide parfois"
+    ],
+    "textures": [
+      "carrelage froid sous les semelles",
+      "boîte aux lettres métallique froide",
+      "rampe d'escalier lisse et usée",
+      "tapis qui glisse légèrement"
+    ],
+    "emotionsTypiques": [
+      "zone de transition neutre et rapide",
+      "brève rencontre de voisinage — inconfort ou familiarité",
+      "sentiment de chez-soi à la lisière",
+      "intimité involontaire dans un espace partagé",
+      "curiosité pour les boîtes aux lettres des autres"
+    ],
+    "usagesNarratifs": [
+      "lieu pour une rencontre de voisinage — tendue ou complice",
+      "espace où une information circule involontairement",
+      "décor pour une arrivée ou un départ significatif",
+      "symbole de la communauté d'immeuble — ténue et involontaire"
+    ],
+    "tensionsTypiques": [
+      "lettre ou colis dans la mauvaise boîte",
+      "voisin en conflit qu'on ne peut éviter",
+      "inconnu qu'on tient la porte — règle de sécurité vs politesse",
+      "annonce dans le hall qui concerne tout l'immeuble",
+      "personnage qui attend sans sonner"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Voisin de longue date",
+        "description": "Connaît les habitudes de chaque boîte, les têtes, les absences. Le hall est une lecture de la vie de l'immeuble."
+      },
+      {
+        "profil": "Nouveau locataire",
+        "description": "Cherche son nom sur les boîtes, décode les panneaux. Chaque personne qu'il croise est un voisin potentiel dont il ignore le profil."
+      },
+      {
+        "profil": "Livreur ou visiteur extérieur",
+        "description": "Environnement neutre et fonctionnel. Il cherche le nom, sonne, attend. Le hall est un obstacle entre lui et sa destination."
+      }
+    ],
+    "notesEditoriales": [
+      "Le hall d'immeuble est un espace de micro-communauté involontaire — riche pour les récits de voisinage.",
+      "La boîte aux lettres est un objet narratif fort dans cet espace — lettre reçue ou non, en attente.",
+      "Lieu de la politesse froide entre inconnus qui partagent un mur."
+    ]
+  },
+  {
+    "id": "banc-de-parc-urbain",
+    "label": "Banc de parc urbain",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "banc en bois et métal peint en vert ou gris",
+      "allée de gravier ou de bitume devant",
+      "arbre qui ombrage selon la saison",
+      "corbeille à déchets fixée à proximité",
+      "vue sur un espace de jeux, un bassin, ou d'autres bancs",
+      "pigeons ou moineaux à portée de main",
+      "gens qui passent sans s'arrêter"
+    ],
+    "bruits": [
+      "bruits de la ville filtrés par la végétation",
+      "rires d'enfants au loin ou à côté",
+      "pépiements d'oiseaux",
+      "pas de joggers réguliers sur l'allée",
+      "conversation de voisins de banc"
+    ],
+    "odeurs": [
+      "herbe fraîchement coupée en saison",
+      "pluie récente sur le bitume",
+      "nourriture d'un pique-nique voisin",
+      "végétation humide ou poussiéreuse selon la météo"
+    ],
+    "textures": [
+      "bois du banc lisse et légèrement chaud au soleil",
+      "métal froid du dossier ou de l'accoudoir",
+      "gravier sous les chaussures si on se lève",
+      "feuilles sèches qui se posent sur les genoux"
+    ],
+    "emotionsTypiques": [
+      "pause volontaire dans le rythme urbain",
+      "observation des autres sans être impliqué",
+      "solitude choisie ou contrainte selon le personnage",
+      "légèreté possible d'un moment sans obligation",
+      "attente d'une personne ou d'un événement"
+    ],
+    "usagesNarratifs": [
+      "lieu de rencontre entre deux personnages sans contexte contraignant",
+      "espace de réflexion ou de décision pour un personnage seul",
+      "décor pour une conversation sans issue possible",
+      "point de surveillance d'un espace public"
+    ],
+    "tensionsTypiques": [
+      "attente d'une personne qui ne vient pas",
+      "inconnu qui s'installe et ne part pas",
+      "conversation qui s'engage sans qu'on l'ait souhaitée",
+      "observation d'une scène dans le parc depuis le banc",
+      "personnage qui tue le temps en redoutant ce qui l'attend après"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Retraité habituel",
+        "description": "Son banc. À la même heure chaque jour. Il observe le parc comme sa propriété. Les changements l'irritent. Les habitués sont ses voisins."
+      },
+      {
+        "profil": "Mère avec enfant en bas âge",
+        "description": "Surveille l'enfant, bavarde parfois avec d'autres parents. Le banc est un point fixe dans une agitation constante. Un moment de pause relative."
+      },
+      {
+        "profil": "Personne en détresse qui n'a nulle part où aller",
+        "description": "Le banc est une halte obligée, pas un choix. Il regarde passer les gens avec une distance qui est de la douleur retenue."
+      }
+    ],
+    "notesEditoriales": [
+      "Le banc de parc est un espace de neutralité — il permet des rencontres entre personnages qui ne se fréquenteraient pas autrement.",
+      "Simple mais narrativement fort pour les scènes d'attente et de contemplation.",
+      "La saison transforme radicalement l'atmosphère — en hiver, seul sur un banc, c'est autre chose qu'en été."
+    ]
+  },
+  {
+    "id": "kiosque-urbain",
+    "label": "Kiosque à journaux",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "façade couverte de journaux, magazines, catalogues épinglés",
+      "portiques rotatifs avec cartes postales ou romans de gare",
+      "vitrines avec bonbons, piles, stylos",
+      "caissier dans un espace minuscule, souvent assis",
+      "heures d'ouverture tôt le matin, fermeture en soirée",
+      "lumière intérieure chaude contrastant avec le dehors",
+      "vue dégagée sur le carrefour ou la place"
+    ],
+    "bruits": [
+      "froissement de journaux feuilletés",
+      "sonnerie de caisse enregistreuse ancienne",
+      "bruit de la rue — klaxons, pas, moteurs",
+      "conversation rapide et sans façon entre kiosquier et habitués"
+    ],
+    "odeurs": [
+      "papier journal frais — encre et cellulose",
+      "confiserie et sucre dans les vitrines",
+      "air froid du matin si kiosque ouvert tôt"
+    ],
+    "textures": [
+      "papier journal légèrement rugueux sous les doigts",
+      "magazine glacé et lourd",
+      "monnaie rendue froide",
+      "carton d'emballage des paquets non ouverts"
+    ],
+    "emotionsTypiques": [
+      "rituel matinal ancré dans une routine",
+      "rapport de confiance minimal et régulier",
+      "sentiment d'information disponible immédiatement",
+      "nostalgie possible d'un monde de presse papier",
+      "appartenance à un quartier via ses petits commerces"
+    ],
+    "usagesNarratifs": [
+      "lieu de transmission d'une information ou d'un message discret",
+      "point de repère dans un quartier, marqueur d'habitudes",
+      "espace pour une rencontre brève mais significative",
+      "décor pour un échange de quelques mots qui changent tout"
+    ],
+    "tensionsTypiques": [
+      "journal avec une information sur le personnage lui-même",
+      "kiosquier qui remarque une absence inhabituelle",
+      "message glissé dans un magazine",
+      "vol à l'étalage suivi ou non",
+      "disparition du kiosque — fin d'un repère"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Habitué matinal",
+        "description": "Échange deux mots sans regarder vraiment. La monnaie est prête, le journal choisi d'avance. C'est un rituel qui commence la journée."
+      },
+      {
+        "profil": "Kiosquier de longue date",
+        "description": "Connaît les habitudes de centaines de clients. Remarque les absences, les changements. Son kiosque est un poste d'observation du quartier."
+      },
+      {
+        "profil": "Touriste ou étranger",
+        "description": "Cherche un journal dans sa langue, un plan de la ville. Hésite sur les pièces. L'échange est fonctionnel et un peu laborieux."
+      }
+    ],
+    "notesEditoriales": [
+      "Le kiosque est en voie de disparition — sa présence dans un récit peut signaler une époque ou un attachement au passé.",
+      "Lieu de transit rapide mais chargé de rituels — à utiliser pour les scènes d'habitude révélatrice.",
+      "Le kiosquier comme personnage secondaire est sous-exploité — sa mémoire de quartier est une ressource narrative."
+    ]
+  },
+  {
+    "id": "guichet-administratif-file",
+    "label": "File d'attente à guichet administratif",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "rubalise ou barrières coulissantes pour canaliser la file",
+      "numéroteur ou présentoir de tickets à l'entrée",
+      "panneaux de procédures et de documents requis",
+      "personnes debout ou assises selon l'aménagement",
+      "agent derrière hygiaphone ou bureau vitré",
+      "horloge murale visible depuis la file",
+      "formulaires en libre accès sur une tablette"
+    ],
+    "bruits": [
+      "annonce de numéro ou appel de guichet",
+      "conversations à voix basse entre personnes dans la file",
+      "soupirs et mouvements de pieds",
+      "voix de l'agent — formelle, brève, répétitive",
+      "bruit de tampon sur un document"
+    ],
+    "odeurs": [
+      "air de bureau climatisé, légèrement sec",
+      "papier et encre",
+      "parfums mélangés des personnes qui attendent"
+    ],
+    "textures": [
+      "formulaire papier à remplir debout, stylo hésitant",
+      "barrière plastique lisse qu'on appuie sans y penser",
+      "ticket de file froissé à force d'être tenu",
+      "sol dur qui fatigue les jambes"
+    ],
+    "emotionsTypiques": [
+      "impatience croissante avec le temps",
+      "anxiété autour d'un document peut-être manquant",
+      "sentiment d'humiliation douce et systémique",
+      "solidarité possible avec les autres dans la file",
+      "espoir ou résignation selon l'enjeu de la démarche"
+    ],
+    "usagesNarratifs": [
+      "révéler la situation sociale ou administrative d'un personnage",
+      "scène d'attente comme métaphore de la condition du personnage",
+      "rencontre entre personnages dans un espace de contrainte commune",
+      "moment de rupture — refus, erreur, ou miracle bureaucratique"
+    ],
+    "tensionsTypiques": [
+      "document manquant découvert trop tard",
+      "refus arbitraire ou mal expliqué",
+      "quelqu'un qui passe devant — injustice visible",
+      "personnage qui s'effondre émotionnellement dans la file",
+      "révélation d'une situation à l'agent — perte de contrôle sur son intimité"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Demandeur en situation précaire",
+        "description": "Chaque démarche est une épreuve. Il a préparé ses documents trois fois. Le refus possible l'habite depuis le matin. Son calme apparent est une armure."
+      },
+      {
+        "profil": "Habitué des démarches administratives",
+        "description": "Connaît les formulaires, les délais, les astuces. La file est une formalité. Il observe les autres avec une légère condescendance bienveillante."
+      },
+      {
+        "profil": "Agent de guichet en fin de journée",
+        "description": "Voit les gens comme des dossiers. Sa politesse est professionnelle, son empathie épuisée. Il applique les règles parce que sinon tout s'effondre."
+      }
+    ],
+    "notesEditoriales": [
+      "La file d'attente est un microcosme social — toutes les classes y coexistent dans l'attente.",
+      "Puissant pour les récits qui traitent d'injustice, de précarité ou d'identité.",
+      "L'agent de guichet est souvent un personnage secondaire riche — ni méchant ni sauveur, juste limité."
+    ]
+  },
+  {
+    "id": "distributeur-automatique-urbain",
+    "label": "Distributeur automatique en pleine rue",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "machine encastrée dans un mur ou sous un auvent",
+      "écran lumineux qui éclaire le visage la nuit",
+      "clavier numérique usé aux chiffres les plus utilisés",
+      "fente de sortie des billets et de la carte",
+      "couverture de la main sur le code par réflexe",
+      "réception de ticket en sortie",
+      "caméra visible en hauteur"
+    ],
+    "bruits": [
+      "bourdonnement de la machine en attente",
+      "sons de touches enfoncées",
+      "bruit mécanique du distributeur de billets",
+      "bip d'erreur ou de validation",
+      "pas derrière soi dans la file ou dans la rue"
+    ],
+    "odeurs": [
+      "métal et plastique chaud",
+      "pluie si le distributeur est extérieur",
+      "billet neuf légèrement encré"
+    ],
+    "textures": [
+      "clavier plastique lisse et froid",
+      "billet souple et légèrement craquant",
+      "carte bancaire entre les doigts",
+      "fente de distributeur — imperceptible mais présente"
+    ],
+    "emotionsTypiques": [
+      "anxiété légère autour du solde disponible",
+      "vulnérabilité d'être debout seul avec de l'argent",
+      "soulagement ou désarroi selon le solde affiché",
+      "conscience d'être observé sans pouvoir l'éviter",
+      "urgence — le distributeur le plus proche comme seul recours"
+    ],
+    "usagesNarratifs": [
+      "moment de vérité financière pour un personnage",
+      "espace de surveillance ou de guet par un autre",
+      "lieu pour un vol à l'arraché ou une approche suspecte",
+      "révélation de la situation réelle d'un personnage par son solde"
+    ],
+    "tensionsTypiques": [
+      "carte avalée sans explication",
+      "solde insuffisant pour une urgence",
+      "quelqu'un qui surveille depuis la rue",
+      "panne au moment critique",
+      "billet qui ne sort pas — et personne à appeler la nuit"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Personnage à découvert",
+        "description": "Tape son code avec l'espoir que quelque chose a changé. Lit le solde les yeux mi-clos. La honte est silencieuse mais totale."
+      },
+      {
+        "profil": "Personnage en fuite avec du liquide",
+        "description": "Retire le maximum possible rapidement. Regarde autour de lui. Chaque seconde compte. La machine est trop lente."
+      },
+      {
+        "profil": "Passant habituel",
+        "description": "Geste automatique, sans réflexion. Il retire la somme habituelle, repart. La machine est une extension transparente de sa gestion quotidienne."
+      }
+    ],
+    "notesEditoriales": [
+      "Le distributeur est un des rares lieux où la situation financière d'un personnage est visible — et le rend vulnérable.",
+      "La nuit, un distributeur éclairé dans une rue sombre est un espace de tension visuelle fort.",
+      "Le solde affiché est un outil narratif sous-utilisé — il dit tout sans explication."
+    ]
+  },
+  {
+    "id": "ascenseur-de-bureau",
+    "label": "Ascenseur de bureau en heure de pointe",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "sonore-visuel",
+    "elements": [
+      "parois en inox ou en verre givré avec logo de l'entreprise",
+      "capacité affichée régulièrement dépassée",
+      "boutons d'étage usés et parfois mal éclairés",
+      "miroir ou surfaces réfléchissantes à l'intérieur",
+      "badges magnétiques et sacs portés par les occupants",
+      "chiffres d'étage qui s'allument et s'éteignent",
+      "portes qui s'ouvrent trop lentement ou trop vite"
+    ],
+    "bruits": [
+      "montée ou descente silencieuse sauf le ronronnement",
+      "conversations étouffées ou silence total",
+      "téléphone qui vibre dans la poche",
+      "notification de messagerie qui s'échappe d'un écran",
+      "soupir collectif au retard des portes"
+    ],
+    "odeurs": [
+      "parfums et déodorants en espace confiné",
+      "café transporté dans un gobelet",
+      "vêtements fraîchement lavés ou portés depuis trop longtemps"
+    ],
+    "textures": [
+      "paroi froide si on s'y adosse",
+      "bouton lisse et légèrement proéminent",
+      "chaleur corporelle des autres en espace réduit"
+    ],
+    "emotionsTypiques": [
+      "inconfort de la promiscuité involontaire",
+      "hiérarchie silencieuse entre cadres et employés",
+      "effort collectif pour ignorer la proximité",
+      "conscience de soi amplifiée dans le miroir",
+      "impatience de sortir — surtout quand il s'arrête à chaque étage"
+    ],
+    "usagesNarratifs": [
+      "espace pour une conversation déterminante de trente secondes",
+      "moment où deux personnages ne peuvent plus s'éviter",
+      "décor d'une révélation involontaire dans le silence",
+      "scène de tension hiérarchique en milieu professionnel"
+    ],
+    "tensionsTypiques": [
+      "devoir monter avec son supérieur au moment le plus délicat",
+      "conversation confidentielle mal dirigée — trop de monde",
+      "panne au moment où un délai est crucial",
+      "rencontre entre deux personnes en conflit non résolu",
+      "annonce involontaire d'une information sensible"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Employé qui monte voir son manager pour une mauvaise nouvelle",
+        "description": "Le trajet dure dix secondes mais semble une heure. Il répète mentalement sa phrase d'ouverture. Les portes qui s'ouvrent sont une sentence."
+      },
+      {
+        "profil": "Cadre qui ne reconnaît pas ses équipes",
+        "description": "Regarde son téléphone. Ses collègues sont des silhouettes. Il n'a pas levé les yeux depuis l'entrée."
+      },
+      {
+        "profil": "Stagiaire premier jour",
+        "description": "Appuie sur le mauvais étage. Tente de sourire. Se demande s'il doit parler. Regarde ses chaussures."
+      }
+    ],
+    "notesEditoriales": [
+      "L'ascenseur de bureau est un concentré de hiérarchie silencieuse — fort pour les récits de monde du travail.",
+      "La durée réelle est très courte — mais elle peut contenir une narration dense.",
+      "Le miroir intérieur est un détail efficace pour la conscience de soi et le regard des autres."
+    ]
+  },
+  {
+    "id": "espace-fumeurs-exterieur",
+    "label": "Espace fumeurs extérieur",
+    "type": "lieu-exterieur",
+    "dominanteSensorielle": "olfactif-visuel",
+    "elements": [
+      "délimitation au sol ou barrière symbolique",
+      "cendrier sur pied ou bac de sable",
+      "toit de fortune ou coin en retrait du bâtiment",
+      "sol jonché de mégots malgré le cendrier",
+      "chaises en plastique ou rebord de mur comme siège",
+      "vue sur le parking, la rue ou une cour arrière",
+      "panneau 'Zone fumeurs' ou cigarette barrée côté bâtiment"
+    ],
+    "bruits": [
+      "conversations libérées du cadre formel",
+      "craquement du briquet",
+      "exhalaison de fumée et de voix",
+      "bruits du bâtiment ou de la rue en fond",
+      "téléphone passé pendant la pause"
+    ],
+    "odeurs": [
+      "tabac brûlé omniprésent",
+      "air extérieur filtré par la fumée",
+      "café si apporté depuis l'intérieur",
+      "parfum mêlé à la fumée"
+    ],
+    "textures": [
+      "cigarette entre les doigts, chaleur vers les lèvres",
+      "rebord de mur dur ou chaise froide",
+      "sol légèrement poisseux de mégots écrasés"
+    ],
+    "emotionsTypiques": [
+      "décompression volontaire hors du cadre formel",
+      "confidences qui ne se diraient pas à l'intérieur",
+      "sentiment de marginalité légère, de club involontaire",
+      "culpabilité diffuse des fumeurs face aux non-fumeurs",
+      "liberté de parole dans un espace sans hiérarchie affichée"
+    ],
+    "usagesNarratifs": [
+      "espace de confidence entre deux personnages qui ne se parlent pas autrement",
+      "lieu de rumeurs et d'informations informelles",
+      "décor pour une révélation dans un cadre détendu",
+      "scène qui unit des gens que rien d'autre ne réunirait"
+    ],
+    "tensionsTypiques": [
+      "secret partagé qui dépasse le confidentiel",
+      "témoignage involontaire d'une conversation",
+      "conflit qui s'exacerbe hors surveillance hiérarchique",
+      "annonce chuchotée d'un licenciement ou d'une décision",
+      "personnage qui ne fume pas mais vient pour écouter"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Fumeur assidu",
+        "description": "C'est sa pause, son droit. Il ne veut pas de sermon. Ici, il est entre égaux. Il parle plus franchement qu'en réunion."
+      },
+      {
+        "profil": "Non-fumeur qui sort parfois",
+        "description": "Vient pour l'information, pas pour la fumée. Il est légèrement inconfortable mais sait que c'est là que les choses se disent vraiment."
+      },
+      {
+        "profil": "Manager qui n'y vient plus depuis qu'il a arrêté",
+        "description": "Sait qu'il manque quelque chose depuis qu'il ne fume plus. L'espace fumeurs est une zone franche à laquelle il n'a plus accès."
+      }
+    ],
+    "notesEditoriales": [
+      "L'espace fumeurs est un lieu de vérité institutionnelle — les hiérarchies s'y effacent partiellement.",
+      "Riche pour les récits de monde du travail où l'information informelle est clé.",
+      "La fumée elle-même peut être utilisée comme détail sensoriel fort — elle obscurcit, enveloppe, écran."
+    ]
+  },
+  {
+    "id": "parking-souterrain-urbain",
+    "label": "Parking souterrain",
+    "type": "lieu-interieur",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "rangées de voitures serrées sous néons vacillants",
+      "piliers en béton peints de bandes jaunes et noires",
+      "marquages au sol effacés par les passages",
+      "panneaux directionnels suspendus au plafond",
+      "barrière de sortie motorisée et sa borne à ticket",
+      "caméras de surveillance dans les angles",
+      "escalier ou ascenseur cagé donnant sur l'immeuble"
+    ],
+    "bruits": [
+      "claquement de portière qui résonne entre les niveaux",
+      "moteur qui tourne au ralenti dans le silence",
+      "crissement de pneus dans les virages en spirale",
+      "bip de télécommande de verrouillage",
+      "silence épais entre deux passages — presque total"
+    ],
+    "odeurs": [
+      "gaz d'échappement stagnant malgré la ventilation",
+      "huile et caoutchouc chaud",
+      "béton humide en sous-sol",
+      "urine dans les coins mal surveillés"
+    ],
+    "textures": [
+      "sol en béton rugueux taché d'huile",
+      "pilier froid et légèrement humide si on s'y adosse",
+      "portière de voiture froide sous la main",
+      "grille d'ascenseur rouillée qui résiste"
+    ],
+    "emotionsTypiques": [
+      "malaise diffus lié à l'isolement et à l'absence de lumière naturelle",
+      "vigilance instinctive — on entend avant de voir",
+      "sentiment de vulnérabilité seul dans un niveau vide",
+      "hâte de rejoindre la sortie",
+      "familiarité froide pour ceux qui y travaillent ou y passent quotidiennement"
+    ],
+    "usagesNarratifs": [
+      "lieu de filature, de guet ou d'embuscade",
+      "espace pour une confrontation sans témoin",
+      "décor d'un échange discret ou d'un transfert illicite",
+      "scène de vulnérabilité d'un personnage seul face à une menace"
+    ],
+    "tensionsTypiques": [
+      "bruit de pas derrière soi sans personne visible",
+      "voiture qui ne démarre pas dans le silence du sous-sol",
+      "lumière qui s'éteint dans la travée",
+      "rencontre avec quelqu'un qui n'a pas de voiture",
+      "personnage suivi depuis l'entrée"
+    ],
+    "variantesPerception": [
+      {
+        "profil": "Femme seule en soirée",
+        "description": "Marche vite, clés entre les doigts. Repère les angles avant de s'y engager. Le silence est une menace potentielle, pas un confort."
+      },
+      {
+        "profil": "Gardien de parking",
+        "description": "Connaît chaque niveau par cœur. Les bruits normaux ne lui font rien. Il remarque ce qui change — une voiture là depuis trop longtemps, une portière qui ne ferme pas bien."
+      },
+      {
+        "profil": "Personnage venu pour une rencontre secrète",
+        "description": "L'absence de lumière naturelle et de témoins est précisément ce qu'il cherche. Le parking est un no man's land pratique — et inquiétant."
+      }
+    ],
+    "notesEditoriales": [
+      "Le parking souterrain est un des espaces urbains les plus chargés de tension latente en fiction — fort pour les scènes de confrontation.",
+      "La géographie en spirale des niveaux est narrativement utile : descendre ou monter change la symbolique.",
+      "L'isolement acoustique est une ressource — un cri n'y porte pas loin."
+    ]
+  }
+]

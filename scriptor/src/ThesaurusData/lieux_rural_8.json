@@ -1,0 +1,559 @@
+[
+  {
+    "id": "ferme-abandonnee",
+    "label": "Ferme abandonnée",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "visuel-olfactif",
+    "elements": [
+      "bâtiments debout mais portes et fenêtres béantes",
+      "toit en partie effondré — poutres visibles depuis l'extérieur",
+      "mauvaises herbes qui envahissent la cour et les seuils",
+      "volets arrachés ou pendant d'un seul gond",
+      "vaisselle ou meubles abandonnés à l'intérieur",
+      "ronces qui montent le long des façades",
+      "puits comblé ou protégé par une grille rouillée"
+    ],
+    "bruits": [
+      "vent dans les ouvertures — sifflements variables",
+      "grincements des éléments métalliques rouillés",
+      "pigeons dans les charpentes dégradées",
+      "silence de fond — aucune activité humaine depuis longtemps"
+    ],
+    "odeurs": [
+      "humidité et moisissures — forte et envahissante",
+      "bois pourri et plâtre qui s'effrite",
+      "odeur animale ancienne — l'étable a gardé quelque chose"
+    ],
+    "textures": [
+      "sol qui cède par endroits — terre meuble et bois pourri",
+      "plâtre qui s'émiette au toucher",
+      "bois de charpente friable et sombre"
+    ],
+    "emotionsTypiques": [
+      "mélancolie des choses abandonnées",
+      "curiosité pour ce qui a été laissé",
+      "légère inquiétude de la structure instable"
+    ],
+    "usagesNarratifs": [
+      "espace de cache ou de refuge clandestin",
+      "lieu de découverte — ce qu'on laisse en partant dit ce qu'on était",
+      "confrontation avec la fin d'un monde rural",
+      "décor de scène de tension ou d'exploration"
+    ],
+    "tensionsTypiques": [
+      "plancher ou plafond qui peut céder",
+      "propriété privée malgré l'abandon apparent",
+      "ce qu'on trouve à l'intérieur — traces, objets, présence"
+    ],
+    "variantesPerception": [
+      {"profil": "Enfant explorateur", "description": "C'est le lieu interdit par excellence. Entrer est une victoire. Chaque pièce est une chambre du mystère."},
+      {"profil": "Héritier qui revient", "description": "La maison de ses grands-parents dans cet état. Il reconnaît des objets, des meubles. Il n'entre pas tout de suite."},
+      {"profil": "Promoteur ou agent immobilier", "description": "Il évalue la structure, calcule le coût de réhabilitation. Le passé lui est invisible — il voit du terrain constructible."}
+    ],
+    "notesEditoriales": [
+      "La ferme abandonnée est romanesque par nature — résister à la tentation de l'explorer comme un musée nostalgique. Ce qui compte, c'est ce que ça fait à qui entre.",
+      "Les objets abandonnés sont des détails narratifs puissants : la vaisselle encore sur la table, les habits dans l'armoire. Choisir un seul détail vaut mieux qu'une liste."
+    ]
+  },
+  {
+    "id": "grange-effondree",
+    "label": "Grange effondrée",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "poutres de charpente tombées en croix sur le sol",
+      "tuiles éparpillées dans un rayon de plusieurs mètres",
+      "murs encore debout mais fissurés et penchants",
+      "végétation qui a colonisé l'espace en quelques saisons",
+      "vieux outils englouti sous les décombres",
+      "nids d'oiseaux dans les poutres restées en l'air",
+      "odeur de bois pourri après la pluie"
+    ],
+    "bruits": [
+      "vent dans les poutres restantes — sons graves",
+      "craquement si le vent est fort — menace de suite",
+      "oiseaux qui ont colonisé les ruines",
+      "silence de lieu que personne ne fréquente"
+    ],
+    "odeurs": [
+      "bois mort et humide — odeur lourde",
+      "terre retournée par les décombres",
+      "moisissures sur les bois exposés à la pluie"
+    ],
+    "textures": [
+      "décombres instables sous les pieds",
+      "poutres spongieuses de pourriture",
+      "tuiles cassées et tranchantes"
+    ],
+    "emotionsTypiques": [
+      "irréversibilité — ce qui est tombé ne se relève pas seul",
+      "nostalgie d'une structure qui existait encore dans un souvenir",
+      "danger diffus des équilibres précaires"
+    ],
+    "usagesNarratifs": [
+      "symbole d'une exploitation qui a décliné",
+      "cache entre les décombres",
+      "accident — quelqu'un qui entre et se blesse",
+      "moment de réalisation qu'il est trop tard pour sauver"
+    ],
+    "tensionsTypiques": [
+      "poutres encore en équilibre précaire",
+      "accès interdit — propriété privée dangereuse",
+      "ce qu'on trouve sous les décombres"
+    ],
+    "variantesPerception": [
+      {"profil": "Propriétaire qui ne peut pas se payer la démolition", "description": "Il passe devant sans regarder. La grange est une dette et un reproche permanents."},
+      {"profil": "Photographe ou artiste", "description": "Les ruines sont belles — la lumière dans les poutres, la végétation qui reprend. Il cadre, il cherche l'angle. Il ne voit pas la défaite."},
+      {"profil": "Enfant", "description": "Les décombres sont un terrain d'aventure. L'interdit des adultes est une invitation. Il monte sur les poutres, se laisse aller vers les ruines."}
+    ],
+    "notesEditoriales": [
+      "L'effondrement d'une grange est souvent soudain — la structure tient longtemps puis cède d'un coup. Avant et après sont deux états radicalement différents.",
+      "Distinguer la grange effondrée récemment (bois encore clair, décombres frais) de la grange effondrée depuis longtemps (végétation envahissante, bois sombre)."
+    ]
+  },
+  {
+    "id": "village-fantome-rural",
+    "label": "Village fantôme ou hameau dépeuplé",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "quelques bâtisses debout sans occupants visibles",
+      "rue principale sans voiture ni piéton",
+      "ancienne école ou mairie aux volets fermés depuis des années",
+      "jardin envahi mais encore lisible dans son plan d'origine",
+      "église ouverte ou fermée selon l'entretien communal",
+      "boîtes aux lettres rouillées aux noms effacés",
+      "un ou deux habitants âgés — les derniers"
+    ],
+    "bruits": [
+      "silence pesant — pas de voix, pas d'enfants, pas de trafic",
+      "vent dans les rues vides — amplifié par l'absence",
+      "chien au loin — seul signe de vie",
+      "cloches de l'église si encore en état"
+    ],
+    "odeurs": [
+      "herbe et végétation envahissante",
+      "vieux bois des maisons fermées",
+      "air propre et sans pollution — le calme a une odeur"
+    ],
+    "textures": [
+      "rue en pierre ou en terre — non entretenue",
+      "herbe haute entre les maisons",
+      "volets gonflés par l'humidité"
+    ],
+    "emotionsTypiques": [
+      "mélancolie profonde d'un monde qui a existé",
+      "légère inquiétude du silence total",
+      "sentiment d'être hors du temps"
+    ],
+    "usagesNarratifs": [
+      "lieu de retour impossible — le personnage revient dans ce qui a été son village",
+      "espace de confrontation avec le déclin rural",
+      "décor de récit fantastique ou post-catastrophique",
+      "dernier habitant comme personnage à part entière"
+    ],
+    "tensionsTypiques": [
+      "projet de rachat par une commune ou un promoteur",
+      "dernier habitant qui refuse de partir",
+      "maisons squattées par des inconnus"
+    ],
+    "variantesPerception": [
+      {"profil": "Descendant qui revient", "description": "Il reconnaît la maison de ses grands-parents. Elle n'est plus habitée depuis vingt ans. La porte s'ouvre encore."},
+      {"profil": "Randonneur qui traverse", "description": "La carte indiquait un village. Ce qu'il trouve le déroute. Il cherche un point d'eau, une personne à qui parler. Il n'y a ni l'un ni l'autre."},
+      {"profil": "Dernier habitant", "description": "Il ne voit pas les ruines — il voit ce qui était là avant. Sa vie meuble les espaces vides. Il reste parce que partir serait mourir avant de mourir."}
+    ],
+    "notesEditoriales": [
+      "Le village fantôme dit quelque chose d'essentiel sur le déclin rural français — éviter d'en faire un décor pittoresque. La question est : pourquoi les gens sont-ils partis ?",
+      "Le dernier habitant est un archétype narratif puissant — gardien d'un monde disparu, témoin irremplaçable."
+    ]
+  },
+  {
+    "id": "friche-agricole",
+    "label": "Friche agricole",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "champ autrefois cultivé laissé à lui-même depuis plusieurs saisons",
+      "chardon et ronces en première colonisation",
+      "arbres et arbustes sauvages qui s'installent en second",
+      "traces du labour encore lisibles sous la végétation",
+      "restes de clôture — poteaux penchants, fil de fer rouillé",
+      "ancienne voie d'accès avalée par les herbes",
+      "bâtiment de stockage effondré dans un coin"
+    ],
+    "bruits": [
+      "diversité sonore — la friche est un milieu riche en biodiversité",
+      "oiseaux — plus variés qu'en champ cultivé",
+      "insectes — bourdons, grillons, papillons sonores",
+      "vent dans les hautes herbes — son plus complexe que dans un champ ras"
+    ],
+    "odeurs": [
+      "végétation spontanée — mélange d'herbes, de fleurs et de bois",
+      "terre non retournée — humus stable",
+      "fleurs sauvages selon la saison"
+    ],
+    "textures": [
+      "sol inégal et coupant sous les herbes hautes",
+      "végétation qui accroche les vêtements",
+      "sol souple et non compacté"
+    ],
+    "emotionsTypiques": [
+      "abandon qui n'est pas seulement triste — la nature reprend",
+      "beauté sauvage et non organisée",
+      "question de ce qui était là avant"
+    ],
+    "usagesNarratifs": [
+      "espace de liberté pour ceux que les espaces cultivés excluent",
+      "cache ou lieu de rencontre clandestin",
+      "confrontation entre l'idée d'une nature reprenant ses droits et la réalité du déclin agricole",
+      "espace de jeu pour les enfants — hors du contrôle adulte"
+    ],
+    "tensionsTypiques": [
+      "propriété privée malgré l'apparence de terra nullius",
+      "projet d'urbanisation sur cette friche",
+      "conflit sur le devenir — remettre en culture ou laisser"
+    ],
+    "variantesPerception": [
+      {"profil": "Agriculteur qui a dû l'abandonner", "description": "Il passe devant et regarde de côté. C'est sa défaite visible. La nature reprend est une phrase qui lui fait mal."},
+      {"profil": "Naturaliste ou promeneur", "description": "La friche est une réserve de biodiversité. Il y trouve des espèces rares, des milieux complexes. Il voit l'abondance là où l'agriculteur voit l'échec."},
+      {"profil": "Enfant", "description": "Les herbes hautes sont une jungle à sa mesure. Il y pénètre en se taillant un passage, construit une cabane, invente un territoire."}
+    ],
+    "notesEditoriales": [
+      "La friche est un lieu ambigu : déclin pour l'agriculteur, paradis pour l'écologue. Cette tension est narrativement productive.",
+      "L'état d'une friche varie selon les années — la comprendre demande de savoir depuis quand elle est abandonnée."
+    ]
+  },
+  {
+    "id": "moulin-en-ruine",
+    "label": "Moulin en ruine",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "tour de pierre encore debout ou partiellement effondrée",
+      "ailes disparues ou réduites à leur axe rouillé",
+      "intérieur encombré de mécanismes abandonnés",
+      "meules en pierre au sol — trop lourdes pour déplacer",
+      "farine ancienne et poussière blanche dans les recoins",
+      "végétation grimpante sur la façade de pierre",
+      "vue panoramique depuis le sommet si accessible"
+    ],
+    "bruits": [
+      "vent dans les ouvertures — résonnance particulière dans la tour",
+      "mécanismes qui grincent si le vent est fort",
+      "oiseaux dans les anciens logements de mécanismes",
+      "silence de fond plus intense qu'ailleurs — le moulin arrêté"
+    ],
+    "odeurs": [
+      "farine ancienne — odeur sèche et neutre",
+      "bois et métal rouillé",
+      "pierre froide et humide"
+    ],
+    "textures": [
+      "meule rugueuse et massive",
+      "mécanisme en bois — assemblages chevilles et encoches",
+      "pierre de la tour — froide et résistante"
+    ],
+    "emotionsTypiques": [
+      "nostalgie d'une fonction disparue",
+      "sentiment du temps arrêté à un moment précis",
+      "beauté des mécanismes comme archéologie du travail"
+    ],
+    "usagesNarratifs": [
+      "repère géographique et symbolique dans un territoire",
+      "lieu de rendez-vous discret — hors des chemins habituels",
+      "exploration d'un passé industriel rural",
+      "propriété litigieuse entre héritiers"
+    ],
+    "tensionsTypiques": [
+      "accès difficile et dangereux",
+      "projet de restauration vs abandon total",
+      "propriété privée sans entretien — responsabilité"
+    ],
+    "variantesPerception": [
+      {"profil": "Historien ou passionné", "description": "Il lit les mécanismes comme un texte. Chaque engrenage dit quelque chose du travail qu'il y avait. Il dessine, photographie, prend des notes."},
+      {"profil": "Promeneur", "description": "Le moulin est un repère dans le paysage. Il s'en approche, regarde l'intérieur depuis l'ouverture. Il repart sans vraiment entrer."},
+      {"profil": "Enfant", "description": "Le moulin est une tour, donc un château. Il grimpe sur les meules, cherche à atteindre le sommet. Les adultes le rappellent d'en bas."}
+    ],
+    "notesEditoriales": [
+      "Le moulin arrêté est une image forte — la machine qui ne tourne plus dit le temps qui s'est arrêté quelque part.",
+      "L'axe de l'aile sans aile est l'un des détails les plus éloquents du moulin en ruine — la structure du mouvement sans le mouvement."
+    ]
+  },
+  {
+    "id": "hangar-rouille",
+    "label": "Hangar agricole rouillé",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "structure métallique qui rouille uniformément depuis des décennies",
+      "tôles ondulées qui claquent par vent fort",
+      "sol en béton fendu avec huile séchée des vieilles machines",
+      "vieux matériel agricole abandonné dedans",
+      "lumière qui entre par les trous de corrosion",
+      "hirondelles qui nichent dans les poutres",
+      "porte coulissante déraillée qu'on ne peut plus vraiment fermer"
+    ],
+    "bruits": [
+      "tôles qui claquent et vibrent dans le vent — bruit fort et irrégulier",
+      "hirondelles qui entrent et sortent",
+      "grincement de la porte déraillée",
+      "pluie sur le toit de tôle — bruit assourdissant"
+    ],
+    "odeurs": [
+      "rouille et métal oxydé",
+      "huile sèche et ancienne",
+      "fientes d'oiseaux dans les combles"
+    ],
+    "textures": [
+      "métal rouillé — rugueux et qui tache les mains d'orange",
+      "tôle vibrante sous la main si vent",
+      "sol de béton froid et gras"
+    ],
+    "emotionsTypiques": [
+      "impression de choses laissées à elles-mêmes — abandon sans décision",
+      "utilité passée lisible dans les machines",
+      "sentiment de fin de cycle"
+    ],
+    "usagesNarratifs": [
+      "cache pour un personnage ou un objet",
+      "espace de rencontre à l'abri des regards",
+      "lieu de récupération de pièces ou de matériel",
+      "scène sous la pluie — le toit abrite mais le bruit couvre tout"
+    ],
+    "tensionsTypiques": [
+      "structure qui peut céder — poteaux rouillés",
+      "accès par effractionmalgré la porte ouverte — question de droit",
+      "pluie qui passe par les trous — abri très relatif"
+    ],
+    "variantesPerception": [
+      {"profil": "Propriétaire", "description": "Il le voit comme une corvée future. Le démolir coûte de l'argent. Le garder aussi. Il reporte la décision d'année en année."},
+      {"profil": "Personnage en fuite", "description": "La porte cède. À l'intérieur, on ne le voit pas depuis la route. Les tôles qui claquent couvrent les bruits. C'est suffisant pour l'instant."},
+      {"profil": "Artiste ou photographe", "description": "La rouille a ses nuances — orange, brun, noir. La lumière qui perce les trous fait des taches sur le sol. Il cadre le vieux tracteur sous la lumière zénithale."}
+    ],
+    "notesEditoriales": [
+      "Le hangar en tôle sous la pluie est un dispositif sonore très précis — le bruit couvre les voix, isole, rend la communication difficile.",
+      "La rouille comme matière narrative : elle date, elle témoigne, elle enregistre le temps d'une façon visible et tactile."
+    ]
+  },
+  {
+    "id": "chemin-enfoui",
+    "label": "Ancien chemin enfoui",
+    "type": "rural-voie",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "dépression linéaire à peine visible sous la végétation",
+      "pierres de gué encore en place sous l'eau ou la boue",
+      "arbres plus anciens de chaque côté — le chemin a guidé leur plantation",
+      "traces de roues dans la roche si sol calcaire",
+      "bornes kilométriques ou de propriété couchées dans l'herbe",
+      "végétation différente sur son tracé — espèces de bord de chemin persistantes",
+      "ancien pont de pierre à peine visible sous les ronces"
+    ],
+    "bruits": [
+      "silence — personne n'emprunte ce chemin depuis longtemps",
+      "végétation qui reprend — vent dans les buissons envahissants",
+      "eau qui stagne dans les ornières oubliées"
+    ],
+    "odeurs": [
+      "végétation spontanée",
+      "terre non battue — humus dense",
+      "ronce et buisson — odeur âcre"
+    ],
+    "textures": [
+      "sol souple et trompeur — on s'y enfonce",
+      "végétation dense à traverser",
+      "pierres de l'ancien dallage sous les pieds"
+    ],
+    "emotionsTypiques": [
+      "sentiment de déchiffrer quelque chose d'oublié",
+      "plaisir de la découverte archéologique",
+      "légère inquiétude de se perdre sans repère visible"
+    ],
+    "usagesNarratifs": [
+      "révélation d'une géographie oubliée — le chemin dit l'histoire du territoire",
+      "passage discret qui n'existe plus sur les cartes modernes",
+      "motif de quête — suivre un chemin disparu",
+      "confrontation entre ancienne topographie et monde actuel"
+    ],
+    "tensionsTypiques": [
+      "disparition du tracé à mi-chemin",
+      "propriétés privées actuelles qui le coupent",
+      "végétation qui rend l'avancée physiquement difficile"
+    ],
+    "variantesPerception": [
+      {"profil": "Historien ou géographe", "description": "Il lit le territoire comme une carte sédimentée. Le vieux chemin lui dit les échanges, les frontières, les parcelles d'autrefois."},
+      {"profil": "Paysan qui connaît le terrain", "description": "Il sait que l'ancien chemin passe là. Il l'emprunte parfois pour des raisons pratiques — plus court que la route, même envahi."},
+      {"profil": "Randonneur qui sort du balisé", "description": "Il a suivi une dépression dans le terrain par curiosité. Maintenant il ne sait plus très bien où il est. Le chemin n'est plus assez lisible pour le guider."}
+    ],
+    "notesEditoriales": [
+      "L'ancien chemin enfoui est une métaphore naturelle du passé qui affleure — à utiliser avec mesure pour ne pas forcer le symbolisme.",
+      "Détail concret utile : les espèces de bord de chemin persistent des siècles — le plantain lancéolé, la chicorée. Le botaniste lit encore le tracé."
+    ]
+  },
+  {
+    "id": "cave-muree",
+    "label": "Cave murée ou comblée",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "accès muré en briques ou en parpaings — pas de porte",
+      "ligne de jointement encore visible dans la maçonnerie",
+      "odeur de cave qui filtre malgré le mur",
+      "sol légèrement en creux devant l'accès muré",
+      "traces de l'ancienne porte — gonds, butée",
+      "humidité en auréole sur le mur supérieur",
+      "parfois une petite fenêtre soufflante encore visible et murée"
+    ],
+    "bruits": [
+      "silence absolu — aucune ventilation de l'autre côté",
+      "fraîcheur perceptible si on pose la main sur le mur",
+      "bruit creux si on frappe le mur muré"
+    ],
+    "odeurs": [
+      "cave — humidité et boisé qui filtre",
+      "mortier frais si murage récent",
+      "vieux enduit si murage ancien"
+    ],
+    "textures": [
+      "mur de brique froid et poreux",
+      "sol légèrement humide devant l'accès",
+      "enduit qui s'émiette par endroits"
+    ],
+    "emotionsTypiques": [
+      "question immédiate — pourquoi avoir muré plutôt que fermé à clé",
+      "malaise de l'accès interdit de façon irréversible",
+      "fascination pour ce qu'il y a de l'autre côté"
+    ],
+    "usagesNarratifs": [
+      "secret familial ou criminel littéralement enmuré",
+      "trésor ou danger caché volontairement",
+      "héritage d'une maison dont le passé n'est pas dit",
+      "décision ancienne dont personne n'explique la raison"
+    ],
+    "tensionsTypiques": [
+      "décision d'ouvrir ou de laisser — ce qu'on risque de trouver",
+      "propriétaire qui refuse d'expliquer",
+      "bruit ou odeur qui vient de l'autre côté"
+    ],
+    "variantesPerception": [
+      {"profil": "Nouveau propriétaire", "description": "Il découvre le mur en inspectant la cave. La vente n'en parlait pas. Il pose la question — la réponse est évasive. Il finit par ne pas insister."},
+      {"profil": "Héritier qui le sait depuis l'enfance", "description": "Il sait depuis toujours que ce mur est là. La question ne se pose plus. Il préfère ne pas savoir — la réponse fait partie de sa définition de la maison."},
+      {"profil": "Personnage qui veut ouvrir", "description": "Il frappe le mur, évalue l'épaisseur. Ce n'est pas de la maçonnerie portante. Il faudrait un outil. Il revient le lendemain avec ce qu'il faut."}
+    ],
+    "notesEditoriales": [
+      "La cave murée est un dispositif narratif gothique — à utiliser en étant conscient de la tradition littéraire derrière.",
+      "L'odeur qui filtre malgré le mur est le détail le plus efficace — elle dit que quelque chose existe de l'autre côté sans préciser quoi."
+    ]
+  },
+  {
+    "id": "hameau-depeuple",
+    "label": "Hameau dépeuplé (2-3 maisons habitées)",
+    "type": "rural-paysage",
+    "dominanteSensorielle": "visuel-sonore",
+    "elements": [
+      "cinq à dix maisons dont deux ou trois avec des traces de vie",
+      "linge sur un fil — seul signe de vie immédiatement visible",
+      "voiture garée devant une maison — vieille mais fonctionnelle",
+      "jardin entretenu ici, envahi là — la frontière est nette",
+      "ancienne fontaine ou croix de carrefour",
+      "maisons mitoyennes dont certaines s'affaissent",
+      "un enfant parfois — rare et remarqué"
+    ],
+    "bruits": [
+      "silence presque complet — les derniers habitants parlent peu dehors",
+      "radio ou télé perceptible depuis une fenêtre ouverte",
+      "tracteur qui part tôt le matin si un agriculteur reste",
+      "chien qui aboie — son seul, non répondu"
+    ],
+    "odeurs": [
+      "feu de bois en hiver — quelqu'un chauffe",
+      "potager — quelqu'un cultive encore",
+      "maison fermée — air confiné autour des volets clos"
+    ],
+    "textures": [
+      "route en mauvais état — non entretenue faute de budget",
+      "pierre des murs chaude en été, froide le reste de l'année"
+    ],
+    "emotionsTypiques": [
+      "mélancolie d'un monde encore vivant mais en train de finir",
+      "sentiment d'arriver trop tard ou juste à temps",
+      "rapport ambigu aux derniers habitants — témoins ou reliques"
+    ],
+    "usagesNarratifs": [
+      "contexte pour le personnage du dernier habitant",
+      "lieu de retour d'un personnage qui en est parti",
+      "espace de tension entre rester et partir",
+      "cadre d'une enquête sur ce qui s'est passé"
+    ],
+    "tensionsTypiques": [
+      "conflit entre les derniers habitants sur l'entretien commun",
+      "maison en ruine qui menace les voisines",
+      "vente d'une maison à des étrangers — changement de nature du hameau"
+    ],
+    "variantesPerception": [
+      {"profil": "Dernier habitant jeune", "description": "Il est là par choix ou par héritage. Ses amis sont partis. Il défend quelque chose qu'il ne saurait pas nommer entièrement."},
+      {"profil": "Visiteur passant", "description": "Il ralentit, regarde. Ce qu'il voit le trouble légèrement. Il accélère. Le hameau reste dans l'image du rétroviseur un moment."},
+      {"profil": "Personne qui envisage de s'y installer", "description": "Il voit le prix des maisons et la tranquillité. Il ne voit pas encore ce que l'isolement va coûter."}
+    ],
+    "notesEditoriales": [
+      "La différence entre le hameau dépeuplé et le village fantôme tient aux quelques habitants restants — leur présence change tout.",
+      "L'entretien différentiel des maisons — soigné ici, laissé à l'abandon là — dit la démographie du lieu mieux qu'un chiffre."
+    ]
+  },
+  {
+    "id": "usine-desaffectee-rurale",
+    "label": "Usine désaffectée en milieu rural",
+    "type": "rural-batiment",
+    "dominanteSensorielle": "visuel-tactile",
+    "elements": [
+      "bâtiment industriel de taille moyenne en brique rouge ou en parpaing",
+      "cheminée encore debout — sans fumée depuis des années",
+      "fenêtres en hauteur — certaines cassées, d'autres condamnées",
+      "parking envahi par les mauvaises herbes entre les asphaltes fissurés",
+      "enseigne délavée où on lit encore un nom d'entreprise",
+      "machines encore présentes à l'intérieur — trop lourdes pour déplacer",
+      "cour avec rails de chargement rouillés"
+    ],
+    "bruits": [
+      "silence total — plus de machines, plus d'ouvriers",
+      "vent dans les fenêtres cassées",
+      "métal qui grince dans les bâtiments mal fermés",
+      "oiseaux qui colonisent l'intérieur"
+    ],
+    "odeurs": [
+      "selon l'ancienne activité — chimique ou métallique encore présent",
+      "humidité des locaux non chauffés",
+      "rouille et métal oxydé"
+    ],
+    "textures": [
+      "sol d'usine — béton épais et lourd",
+      "machines froides et figées",
+      "verre cassé sous les semelles"
+    ],
+    "emotionsTypiques": [
+      "absence soudaine d'un lieu qui était plein d'activité",
+      "question sociale — pourquoi a-t-elle fermé, que sont devenus les ouvriers",
+      "sentiment de temps suspendu au moment de la fermeture"
+    ],
+    "usagesNarratifs": [
+      "lieu de squat ou d'activité clandestine",
+      "espace de mémoire ouvrière pour un personnage qui y a travaillé",
+      "confrontation avec un passé industriel rural effacé",
+      "exploration urbex dans un cadre rural"
+    ],
+    "tensionsTypiques": [
+      "pollution des sols — l'usine a laissé quelque chose derrière elle",
+      "propriété litigieuse — faillite, liquidation",
+      "projet de réhabilitation vs démolition"
+    ],
+    "variantesPerception": [
+      {"profil": "Ancien ouvrier", "description": "Il connaît chaque machine par son bruit. Le silence est une violence. Il ne comprend pas comment ce lieu peut être mort quand il était si vivant."},
+      {"profil": "Jeune du village qui n'a pas connu l'usine", "description": "Il voit un bâtiment à l'abandon. Ce qu'il y avait avant lui est abstrait — des anecdotes, des photos. Il entre par curiosité, pas par nostalgie."},
+      {"profil": "Repreneur potentiel", "description": "Il voit le volume, la structure, l'accès. Il évalue les coûts de dépollution, de réhabilitation. Les fantômes industriels ne l'intéressent pas."}
+    ],
+    "notesEditoriales": [
+      "L'usine désaffectée dit le déclin économique rural autant que les maisons vides — le travail est parti avant les gens.",
+      "La pollution des sols est un détail réaliste important : certaines usines laissent des traces qui durent des décennies."
+    ]
+  }
+]

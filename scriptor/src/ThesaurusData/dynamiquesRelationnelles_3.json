@@ -1,0 +1,1585 @@
+[
+  {
+    "id": "lien-fraternel-reparateur",
+    "label": "Lien fraternel réparateur à l'âge adulte",
+    "aliases": ["réconciliation entre frères", "réconciliation entre sœurs", "lien fraternel réparé", "fratrie réconciliée", "retrouvailles fraternelles"],
+    "famille": "relations familiales",
+    "definitionCourte": "Deux frères ou sœurs qui, après une période de distance, de rancœur ou d'incompréhension, tentent de reconstruire un lien adulte différent de celui de l'enfance.",
+    "descriptionNarrative": "Ce n'est pas un retour à avant — l'enfance commune n'est pas effaçable. C'est la construction d'une relation nouvelle entre des adultes qui portent encore les blessures de la fratrie d'origine. La réconciliation passe souvent par un événement extérieur — décès d'un parent, naissance, maladie — qui force le contact. Ce qui s'ensuit est un tâtonnement délicat : comment se parler sans rejouer les vieux rôles ? Comment reconnaître la blessure sans se perdre dedans ?",
+    "equilibreRelationnel": "variable",
+    "rapportDeForce": "Historiquement asymétrique — l'un a souvent eu plus de faveur parentale — mais potentiellement rééquilibrable à l'âge adulte si les deux le souhaitent.",
+    "attentesImplicites": [
+      "que l'autre reconnaisse ce qu'il a fait ou subi",
+      "que les vieux rôles ne se réactivent pas",
+      "que l'effort soit réciproque",
+      "que les parents ne soient plus une pomme de discorde"
+    ],
+    "moteursDuLien": [
+      "mémoire partagée de l'enfance commune",
+      "ressemblances involontaires qui créent une familiarité troublante",
+      "besoin de garder quelqu'un qui a connu les mêmes origines",
+      "événement commun qui force la solidarité"
+    ],
+    "faillesDuLien": [
+      "mémoires divergentes du passé commun — ce que l'un a vécu comme normalité, l'autre l'a vécu comme blessure",
+      "jalousies anciennes que le temps n'a pas effacées",
+      "projections parentales encore actives",
+      "conjoints qui ne comprennent pas la dynamique fraternelle"
+    ],
+    "signesVisibles": [
+      "hésitation avant de se toucher — serrer dans les bras ou pas",
+      "retour involontaire aux surnoms d'enfance",
+      "silences plus longs que dans d'autres relations",
+      "rires soudains sur un souvenir commun qui court-circuitent la tension",
+      "regards de biais pour évaluer l'état de l'autre"
+    ],
+    "signesDialogues": [
+      "phrases qui commencent par 'tu te souviens' comme pont vers le présent",
+      "sujets qu'on effleure sans aller jusqu'au bout",
+      "ton qui oscille entre la chaleur et la prudence",
+      "tu t'adresses à l'adulte mais tu réponds à l'enfant"
+    ],
+    "nonDitsTypiques": [
+      "je ne sais pas si je te fais confiance encore",
+      "j'ai besoin de toi mais je n'ose pas le dire",
+      "ce que tu m'as fait m'a marqué plus que tu ne le crois",
+      "je t'aime mais je ne sais plus comment"
+    ],
+    "sourcesDeTension": [
+      "désaccords sur l'interprétation du passé familial",
+      "différences de situation de vie qui creusent une distance",
+      "réactivation des vieux rôles lors des retrouvailles familiales",
+      "héritage et décisions autour des parents âgés"
+    ],
+    "facteursDAgravation": [
+      "présence des parents qui réactivent la hiérarchie d'enfance",
+      "conjoint ou enfants qui ne comprennent pas ce que l'autre représente",
+      "comparaisons involontaires de trajectoires de vie",
+      "non-dit sur la blessure originelle jamais nommée"
+    ],
+    "facteursDApaisement": [
+      "événement commun qui demande une action partagée",
+      "reconnaissance explicite d'une blessure passée",
+      "rencontre avec les enfants respectifs qui crée un lien latéral",
+      "distance temporelle suffisante pour que les blessures aient perdu leur acuité"
+    ],
+    "basculementsPossibles": [
+      "vers une complicité adulte véritable si la blessure est nommée",
+      "vers une relation de façade si personne n'ose aller plus loin",
+      "vers une rupture définitive si une crise ravive tout",
+      "vers une relation de soin si l'un des deux traverse une épreuve"
+    ],
+    "evolutionsPossibles": [
+      "lien plus solide à l'âge adulte qu'il ne l'était dans l'enfance",
+      "paix fragile maintenue par la distance et les contacts rares",
+      "réconciliation partielle autour d'un projet commun",
+      "reconstruction lente qui prend des années"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que chacun attend de l'autre sans le dire ?",
+      "Quel événement a déclenché la tentative de rapprochement ?",
+      "Qui des deux fait le premier pas, et pourquoi maintenant ?",
+      "Y a-t-il une blessure centrale jamais nommée qui conditionne tout le reste ?"
+    ],
+    "relationsProches": ["reconciliation-incomplete", "lien-reconstruit-apres-trahison", "rivalite-fraternelle-installee", "bouc-emissaire-familial"],
+    "motsCles": ["fratrie", "réconciliation", "adulte", "blessure", "mémoire", "réparation"]
+  },
+  {
+    "id": "relation-soin-parent-age",
+    "label": "Relation de soin envers un parent vieillissant",
+    "aliases": ["aidant familial", "parent âgé dépendant", "soin d'un parent", "enfant aidant", "retournement de rôles"],
+    "famille": "relations familiales",
+    "definitionCourte": "L'enfant devenu adulte se retrouve à prendre soin d'un parent vieillissant ou malade — inversion progressive des rôles qui remet en jeu toute l'histoire de la relation.",
+    "descriptionNarrative": "Ce n'est pas seulement une question pratique. C'est une relation qui force deux personnes à se voir autrement : le parent qui a toujours été la figure d'autorité doit accepter d'être aidé, et l'enfant doit trouver comment soigner sans humilier, sans se dissoudre dans le rôle, sans rejouer les vieilles blessures. La tendresse peut surgir là où il n'y en avait plus. La rancœur aussi peut se réveiller.",
+    "equilibreRelationnel": "fortement asymétrique",
+    "rapportDeForce": "Inversion progressive : le parent perd en autonomie ce que l'enfant gagne en responsabilité. Mais la hiérarchie symbolique tarde souvent à suivre.",
+    "attentesImplicites": [
+      "que le parent reconnaisse l'effort sans jamais avoir à le demander",
+      "que l'enfant ne profite pas de la faiblesse du parent",
+      "que l'amour soit suffisant pour tenir",
+      "que la culpabilité ne soit pas le moteur unique du soin"
+    ],
+    "moteursDuLien": [
+      "amour ancien malgré les blessures",
+      "sens du devoir et de la filiation",
+      "peur de regretter plus tard de ne pas avoir été là",
+      "moments de proximité inattendus dans la fragilité partagée"
+    ],
+    "faillesDuLien": [
+      "rancœur ancienne qui remonte dans l'intimité forcée",
+      "épuisement de l'aidant qui n'a pas le droit de le montrer",
+      "décalage entre ce que le parent demande et ce que l'enfant peut donner",
+      "fratrie absente ou peu impliquée qui laisse tout le poids sur un seul"
+    ],
+    "signesVisibles": [
+      "gestes de soin physique — repas, médicaments, accompagnements — qui remplacent les mots",
+      "ton qui hésite entre la patience et l'exaspération",
+      "parent qui régresse parfois vers des attitudes d'autorité obsolètes",
+      "silences chargés lors des moments de fatigue"
+    ],
+    "signesDialogues": [
+      "questions pratiques qui cachent des questions affectives",
+      "souvenirs du passé que le parent évoque et l'enfant écoute autrement qu'avant",
+      "refus du parent d'admettre ses limites face à son enfant",
+      "discussions esquivées sur l'avenir, la mort, les volontés"
+    ],
+    "nonDitsTypiques": [
+      "je suis épuisé mais je ne peux pas le dire",
+      "je t'en veux encore pour des choses très anciennes",
+      "je ne sais pas si tu m'as aimé comme j'en avais besoin",
+      "j'ai peur de ce que je deviens en te soignant"
+    ],
+    "sourcesDeTension": [
+      "épuisement de l'aidant face à l'ingratitude ou à la non-reconnaissance",
+      "décisions médicales ou pratiques sur lesquelles les deux ne s'accordent pas",
+      "blessures d'enfance ranimées par la proximité quotidienne",
+      "répartition inégale du soin entre les frères et sœurs"
+    ],
+    "facteursDAgravation": [
+      "aggravation de l'état du parent qui réduit l'espace de réciprocité",
+      "isolement de l'aidant qui n'a plus de vie propre",
+      "parent qui instrumentalise sa fragilité pour maintenir son contrôle",
+      "désaccords avec la fratrie sur la manière de gérer la situation"
+    ],
+    "facteursDApaisement": [
+      "moment de grâce où le parent exprime de la reconnaissance",
+      "soutien extérieur qui allège le poids de l'aidant",
+      "conversation qui ouvre sur une blessure ancienne et permet de la clore",
+      "aide professionnelle qui redistribue les rôles"
+    ],
+    "basculementsPossibles": [
+      "vers une intimité inattendue construite dans la fragilité partagée",
+      "vers l'épuisement et le ressentiment si rien ne vient soulager",
+      "vers une résolution tardive d'anciennes blessures",
+      "vers la culpabilité après la mort du parent si le soin n'a pas suffi"
+    ],
+    "evolutionsPossibles": [
+      "approfondissement du lien dans la vulnérabilité partagée",
+      "épuisement et distance protectrice",
+      "réconciliation partielle dans la proximité imposée",
+      "découverte tardive du parent tel qu'il est vraiment, hors du rôle"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que l'aidant espère encore de ce parent ?",
+      "Y a-t-il une blessure ancienne qui reste ouverte et conditionne tout ?",
+      "Que fait le reste de la famille — présent ou absent ?",
+      "Que se passe-t-il en l'aidant quand il s'occupe de quelqu'un qui l'a blessé ?"
+    ],
+    "relationsProches": ["inversion-roles-parent-enfant", "emprise-parentale", "lien-reconstruit-apres-perte-commune"],
+    "motsCles": ["soin", "parent âgé", "aidant", "inversion de rôles", "épuisement", "filiation"]
+  },
+  {
+    "id": "fratrie-recomposee",
+    "label": "Fratrie recomposée",
+    "aliases": ["demi-frère", "demi-sœur", "famille recomposée", "beaux-frères", "belles-sœurs", "enfants de parents différents"],
+    "famille": "relations familiales",
+    "definitionCourte": "Lien entre enfants qui partagent un parent mais pas l'autre — ou entre enfants qui vivent ensemble sans lien biologique — créant une fratrie sans histoire commune d'origine.",
+    "descriptionNarrative": "Ce lien est construit, pas donné. Il peut devenir aussi fort qu'une fratrie biologique — ou rester une cohabitation polie toute une vie. Ce qui le définit : l'absence de mémoire partagée à la naissance, et la question non dite de la loyauté envers les parents biologiques respectifs. L'un peut avoir l'impression d'avoir 'perdu' quelque chose quand l'autre est arrivé. L'autre peut avoir l'impression de devoir mériter une place dans une famille déjà formée.",
+    "equilibreRelationnel": "variable",
+    "rapportDeForce": "Souvent asymétrique selon l'ordre d'arrivée dans la famille recomposée, l'âge, ou la faveur implicite d'un parent commun.",
+    "attentesImplicites": [
+      "que l'autre ne prenne pas la place de quelqu'un d'irremplaçable",
+      "que les parents traitent tous les enfants de la même manière",
+      "qu'on puisse s'aimer sans trahir son autre parent",
+      "que la famille recomposée ne soit pas une fiction imposée"
+    ],
+    "moteursDuLien": [
+      "cohabitation quotidienne qui crée des habitudes communes",
+      "moments de complicité nés de la distance avec les adultes",
+      "événements partagés qui construisent une mémoire commune",
+      "solidarité face aux dynamiques des parents"
+    ],
+    "faillesDuLien": [
+      "jalousie territoriale autour de l'espace et de l'attention parentale",
+      "loyauté au parent biologique absent qui freine le lien",
+      "inégalités de traitement ressenties même si non voulues",
+      "construction du lien laissée entièrement aux enfants sans cadre adulte"
+    ],
+    "signesVisibles": [
+      "hésitation sur comment appeler l'autre — frère, demi-frère, rien",
+      "solidarité soudaine face à un conflit avec un adulte",
+      "évitement sur les sujets liés aux parents biologiques respectifs",
+      "mimétisme involontaire qui révèle l'attachement"
+    ],
+    "signesDialogues": [
+      "on évite de dire 'mon père' ou 'ma mère' devant l'autre",
+      "complicité dans les petits codes qui excluent les adultes",
+      "questions directes qu'on n'ose pas poser sur l'autre famille"
+    ],
+    "nonDitsTypiques": [
+      "est-ce que tu es vraiment ma famille",
+      "est-ce que ça te dérange que j'aie autant de place ici",
+      "je ne sais pas si je t'aime ou si je fais semblant pour les parents",
+      "j'aurais préféré que rien n'ait changé"
+    ],
+    "sourcesDeTension": [
+      "inégalités de traitement réelles ou perçues",
+      "conflits entre les parents qui rejaillissent sur les enfants",
+      "adolescence qui radicalise les identités et les loyautés",
+      "espace vital et intimité dans une maison partagée"
+    ],
+    "facteursDAgravation": [
+      "nouveau déséquilibre familial — naissance d'un enfant commun aux deux parents",
+      "divorce ou séparation du couple recomposé qui repose la question du lien",
+      "parent qui utilise les enfants comme enjeux de ses conflits adultes"
+    ],
+    "facteursDApaisement": [
+      "crise commune qui force la solidarité",
+      "distance d'adulte qui permet de relire l'histoire sans les parents",
+      "temps et mémoires communes qui construisent un lien propre"
+    ],
+    "basculementsPossibles": [
+      "vers une vraie fraternité si les bases sont posées dans l'enfance",
+      "vers l'indifférence polie à l'âge adulte",
+      "vers un lien d'ami proche qui dépasse la désignation familiale"
+    ],
+    "evolutionsPossibles": [
+      "construction d'un lien propre affranchi de la dynamique parentale",
+      "distanciation à l'âge adulte une fois hors de la maison commune",
+      "solidarité à l'âge adulte autour des parents communs vieillissants"
+    ],
+    "questionsPourLauteur": [
+      "Comment chacun nomme-t-il l'autre — et qu'est-ce que ce choix révèle ?",
+      "Quel est le rapport de chacun au parent qu'ils ont en commun ?",
+      "Y a-t-il un événement qui a cimenté ou fracturé le lien ?"
+    ],
+    "relationsProches": ["rivalite-fraternelle-installee", "tension-generationnelle", "lien-fraternel-reparateur"],
+    "motsCles": ["famille recomposée", "demi-fratrie", "loyauté", "appartenance", "place", "construction"]
+  },
+  {
+    "id": "couple-apres-deuil",
+    "label": "Couple traversé par un deuil",
+    "aliases": ["couple endeuillé", "deuil conjugal", "perte d'un enfant dans le couple", "couple après une mort", "deuil partagé"],
+    "famille": "relations amoureuses",
+    "definitionCourte": "Couple qui traverse ensemble la perte d'un proche — surtout d'un enfant — et dont la relation est transformée, parfois renforcée, parfois fracturée par l'expérience du deuil partagé.",
+    "descriptionNarrative": "Le deuil est une expérience radicalement solitaire, même partagée. Deux personnes qui perdent la même personne ne vivent pas le même deuil. Leurs rythmes, leurs manières de pleurer, leurs besoins de parler ou de se taire — tout peut diverger. Ce qui était une complicité peut devenir une incompréhension douloureuse. Ou au contraire : la perte peut forger une intimité que rien d'autre n'aurait créée.",
+    "equilibreRelationnel": "variable",
+    "rapportDeForce": "Le deuil peut créer des déséquilibres temporaires — l'un s'effondre quand l'autre tient, puis inversement. Ces asymétries peuvent se figer.",
+    "attentesImplicites": [
+      "que l'autre comprenne sans explication",
+      "que son rythme de deuil soit respecté",
+      "que le couple survive à ce que la perte a révélé",
+      "que l'autre ne disparaisse pas dans sa propre peine"
+    ],
+    "moteursDuLien": [
+      "douleur partagée qui crée une intimité que personne d'autre ne peut comprendre",
+      "histoire commune qui précède et survit à la perte",
+      "besoin de l'autre pour traverser l'insupportable"
+    ],
+    "faillesDuLien": [
+      "divergence des manières de faire le deuil",
+      "l'un cherche le silence, l'autre a besoin de parler",
+      "culpabilité mutuelle possible si la perte implique une responsabilité",
+      "besoin d'être soutenu et incapacité simultanée à soutenir l'autre"
+    ],
+    "signesVisibles": [
+      "silence long dans une même pièce qui peut être rapprochement ou mur",
+      "moments de tendresse inattendue dans la fatigue du deuil",
+      "évitement des espaces ou rituels liés au disparu",
+      "reprise lente des gestes du quotidien comme tentative de normalité"
+    ],
+    "signesDialogues": [
+      "prénoms ou souvenirs qu'on n'ose plus dire à voix haute",
+      "ton doux et prudent pour ne pas rouvrir",
+      "silences autour du 'tu vas bien' qui ne veut plus rien dire"
+    ],
+    "nonDitsTypiques": [
+      "je suis seul dans ma douleur même avec toi",
+      "j'ai besoin que tu te remettes, je n'ai plus la force de te porter",
+      "j'ai peur que notre relation ne survive pas à ça",
+      "je t'en veux de ne pas vivre ça comme moi"
+    ],
+    "sourcesDeTension": [
+      "différence de rythme dans la reprise de la vie normale",
+      "désaccords sur comment honorer le disparu",
+      "l'un se sent abandonné quand l'autre recommence à vivre",
+      "culpabilité si on ressent à nouveau du bonheur"
+    ],
+    "facteursDAgravation": [
+      "absence de soutien extérieur qui épuise les deux",
+      "culpabilité partagée ou croisée sur les circonstances de la perte",
+      "pression sociale de 'surmonter' trop vite"
+    ],
+    "facteursDApaisement": [
+      "rituel partagé pour honorer le disparu",
+      "moment où les deux se permettent de pleurer ensemble",
+      "soutien extérieur — thérapie, entourage — qui allège le poids"
+    ],
+    "basculementsPossibles": [
+      "vers une complicité plus profonde forgée dans l'épreuve",
+      "vers une fracture si le deuil révèle une incompatibilité fondamentale",
+      "vers un couple fantôme qui continue par habitude sans vivre vraiment"
+    ],
+    "evolutionsPossibles": [
+      "renforcement du lien après la traversée du deuil",
+      "séparation qui n'est pas un échec mais une nécessité",
+      "reconstruction lente avec une relation transformée"
+    ],
+    "questionsPourLauteur": [
+      "Comment chacun fait-il le deuil — et ces manières sont-elles compatibles ?",
+      "Y a-t-il une culpabilité croisée qui complique le soutien mutuel ?",
+      "Qu'est-ce que la perte a révélé sur la relation qui existait avant ?"
+    ],
+    "conflitAssocie": { "id": "deuil", "label": "Deuil" },
+    "relationsProches": ["distance-affective-installee", "lien-reconstruit-apres-perte-commune", "dependance-affective-mutuelle"],
+    "motsCles": ["deuil", "couple", "perte", "douleur partagée", "rythme", "survie"]
+  },
+  {
+    "id": "amour-de-jeunesse-retrouve",
+    "label": "Amour de jeunesse retrouvé",
+    "aliases": ["premier amour retrouvé", "ex de jeunesse", "amour du passé", "retrouvailles amoureuses", "amour interrompu"],
+    "famille": "relations amoureuses",
+    "definitionCourte": "Deux personnes qui s'étaient aimées jeunes se retrouvent adultes — et doivent démêler ce qui appartient au passé de ce qui pourrait exister dans le présent.",
+    "descriptionNarrative": "Ils ne tombent pas amoureux l'un de l'autre : ils tombent amoureux de qui ils étaient quand ils s'aimaient. La tentation est de retrouver ce premier amour intact, mais les deux ont changé. Ce qui rend ce lien particulier : l'intensité de la mémoire commune combinée à l'étrangeté de deux adultes qui se découvrent presque. La nostalgie peut être une illusion — ou une vérité plus profonde qu'ils ne savaient pas encore lire.",
+    "equilibreRelationnel": "variable",
+    "rapportDeForce": "Peut être symétrique ou réactivation d'une ancienne asymétrie figée dans la mémoire.",
+    "attentesImplicites": [
+      "que l'autre soit encore reconnaissable dans qui il était",
+      "que le temps n'ait pas tout effacé",
+      "qu'on puisse recommencer sans être alourdi par ce qui s'est terminé",
+      "que la mémoire soit une langue commune"
+    ],
+    "moteursDuLien": [
+      "mémoire d'une époque où tout était possible",
+      "sentiment d'être connu depuis si longtemps",
+      "regret transformé en deuxième chance",
+      "continuité d'une identité plus jeune"
+    ],
+    "faillesDuLien": [
+      "l'autre a changé et ne correspond plus à la mémoire",
+      "la vie adulte — vies, enfants, engagements — complique tout",
+      "la nostalgie peut masquer une idéalisation",
+      "la blessure de la séparation ancienne peut ressurgir"
+    ],
+    "signesVisibles": [
+      "regards qui cherchent le visage d'avant dans le visage d'aujourd'hui",
+      "rires sur des souvenirs partagés qui créent une intimité immédiate",
+      "gêne mêlée de familiarité — on ne sait plus quelle distance adopter",
+      "gestes anciens qui reviennent sans qu'on les ait cherchés"
+    ],
+    "signesDialogues": [
+      "références au passé qui raccourcissent la distance",
+      "questions sur ce qu'est devenue la vie de l'autre",
+      "mots 'tu te souviens' comme acte de communion",
+      "silences chargés d'une histoire qui n'est pas dite"
+    ],
+    "nonDitsTypiques": [
+      "tu n'es pas exactement celui dont je me souviens",
+      "je m'en veux d'être encore aussi vulnérable",
+      "est-ce que j'aime ce que tu es ou ce que tu étais",
+      "j'ai peur de recommencer et d'échouer encore"
+    ],
+    "sourcesDeTension": [
+      "décalage entre la mémoire et la réalité présente",
+      "vies adultes qui ne s'adaptent pas facilement l'une à l'autre",
+      "attentes nées du passé qui ne correspondent plus au présent"
+    ],
+    "facteursDAgravation": [
+      "idéalisation du passé qui empêche de voir l'autre tel qu'il est",
+      "circonstances qui rendraient la relation impossible — engagement, lieu de vie, famille",
+      "ancienne blessure de la séparation qui colore tout"
+    ],
+    "facteursDApaisement": [
+      "capacité à voir l'autre dans sa réalité présente plutôt que dans la mémoire",
+      "humour partagé sur ce qu'ils étaient",
+      "conversation honnête sur pourquoi ça s'était arrêté"
+    ],
+    "basculementsPossibles": [
+      "vers une relation adulte nouvelle et plus riche que la première",
+      "vers la désillusion quand le présent ne correspond pas au souvenir",
+      "vers une amitié profonde si l'amour ne peut pas recommencer"
+    ],
+    "evolutionsPossibles": [
+      "amour adulte construit sur les ruines du premier, plus solide",
+      "séparation douce après avoir compris que c'était le passé qu'on aimait",
+      "amitié complice qui tire sa force de l'histoire commune"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que chacun aime vraiment — l'autre, ou le souvenir de l'autre ?",
+      "Pourquoi la séparation a-t-elle eu lieu, et ce qui l'a causée est-il toujours là ?",
+      "Que se passe-t-il quand l'un réalise que l'autre a changé ?"
+    ],
+    "relationsProches": ["amour-asymetrique", "attraction-interdite-non-dite", "lien-reconstruit-apres-trahison"],
+    "motsCles": ["premiers amours", "retrouvailles", "nostalgie", "mémoire", "deuxième chance", "identité"]
+  },
+  {
+    "id": "amitie-intergenerationnelle",
+    "label": "Amitié intergénérationnelle",
+    "aliases": ["amitié entre générations", "amitié avec un aîné", "amitié avec un jeune", "mentor devenu ami", "amitié âge différent"],
+    "famille": "relations amicales",
+    "definitionCourte": "Lien d'amitié véritable entre deux personnes d'âges très différents — ni mentorat, ni filiation — où la différence de génération est à la fois une richesse et une limite.",
+    "descriptionNarrative": "Ce n'est pas le mentor et son élève, ni le parent et son enfant — c'est une amitié entre égaux dont les expériences n'ont rien de commun. L'un voit dans l'autre quelque chose que ses contemporains n'ont plus — ou pas encore. La relation résiste aux catégories : trop proche pour être un guide, trop éloigné en âge pour être un pair. Elle nécessite des ajustements constants sur ce qu'on peut se dire, se demander, se donner.",
+    "equilibreRelationnel": "légèrement asymétrique",
+    "rapportDeForce": "Légèrement en faveur de l'aîné en termes d'expérience, mais l'autre apporte ce que l'aîné n'a plus — énergie, regard neuf, rapport au temps.",
+    "attentesImplicites": [
+      "que l'autre ne cherche pas à jouer un rôle parental ou filial",
+      "que la différence d'âge ne crée pas de condescendance",
+      "que la relation soit traitée comme une amitié réelle et non comme un projet",
+      "que l'un et l'autre puissent être vulnérables sans honte"
+    ],
+    "moteursDuLien": [
+      "curiosité mutuelle pour une expérience du monde radicalement différente",
+      "complémentarité — l'un a ce que l'autre n'a pas encore ou n'a plus",
+      "liberté de se parler sans les codes qui régissent les relations entre pairs",
+      "reconnaissance d'une qualité rare chez l'autre indépendamment de l'âge"
+    ],
+    "faillesDuLien": [
+      "glissement involontaire vers le rôle de mentor ou de parent",
+      "décalage de références culturelles qui peut créer de l'incompréhension",
+      "regard de l'entourage qui ne comprend pas ou suspecte",
+      "la mort ou le grand âge qui planent comme horizon"
+    ],
+    "signesVisibles": [
+      "plaisir visible dans la conversation qui dépasse les différences",
+      "souvenirs que l'un n'a pas et que l'autre transmet",
+      "gestes de soin mutuels qui n'ont rien à voir avec la hiérarchie d'âge",
+      "rires sur des choses que leurs contemporains respectifs ne comprendraient pas"
+    ],
+    "signesDialogues": [
+      "l'un explique quelque chose sans condescendance, l'autre écoute sans humilité feinte",
+      "questions directes qu'on ne poserait pas à un pair",
+      "ton de confidence qui n'a pas les filtres habituels"
+    ],
+    "nonDitsTypiques": [
+      "je m'inquiète pour toi en pensant à ce qui vient",
+      "tu es le seul qui m'écoute vraiment en ce moment de ma vie",
+      "je ne sais pas si tu me comprends vraiment ou si tu t'en approches"
+    ],
+    "sourcesDeTension": [
+      "regard de l'entourage qui catégorise à tort la relation",
+      "décalage de rythmes de vie — disponibilité, projets, horizons temporels",
+      "déséquilibre si l'un cherche un mentor ou un enfant plutôt qu'un ami"
+    ],
+    "facteursDAgravation": [
+      "glissement non nommé vers un rapport de dépendance ou de parentalité",
+      "maladie ou déclin qui modifient le rapport entre les deux"
+    ],
+    "facteursDApaisement": [
+      "clarté sur ce qu'est la relation — ni mentor ni parent, juste ami",
+      "rituels partagés qui ancrent l'amitié dans la durée",
+      "curiosité sincère maintenue dans les deux sens"
+    ],
+    "basculementsPossibles": [
+      "vers un mentorat si l'un en a besoin et l'autre l'accepte",
+      "vers un soin si l'aîné vieillit et a besoin d'aide",
+      "vers une rupture si l'entourage d'un des deux impose une distance"
+    ],
+    "evolutionsPossibles": [
+      "amitié durable et profonde qui marque les deux",
+      "transformation en lien de soin avec le temps",
+      "séparation douce imposée par les circonstances — déménagement, deuil"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que chacun voit dans l'autre que ses contemporains n'ont pas ?",
+      "Comment l'entourage de chacun réagit-il à cette amitié ?",
+      "Qu'est-ce qui se passerait si l'un des deux glissait vers un rôle de guide ?"
+    ],
+    "relationsProches": ["compagnonnage-entre-solitaires", "relation-mentorale-classique", "lien-fraternel-reparateur"],
+    "motsCles": ["amitié", "génération", "âge", "complémentarité", "curiosité", "transmission"]
+  },
+  {
+    "id": "amitie-apres-brouille-reparee",
+    "label": "Amitié après une brouille réparée",
+    "aliases": ["réconciliation entre amis", "amitié réconciliée", "amitié après conflit", "brouille surmontée", "amis retrouvés"],
+    "famille": "relations amicales",
+    "definitionCourte": "Deux amis qui s'étaient éloignés ou brouillés ont choisi de renouer — mais l'amitié reconstruite n'est plus celle d'avant : elle porte la trace de la fracture.",
+    "descriptionNarrative": "Ça ressemble à l'ancienne amitié mais ce n'est pas elle. Il y a un avant et un après que les deux portent sans forcément en parler. La brouille a révélé une limite, une différence, un malentendu — et la réconciliation n'efface pas ce savoir. La question silencieuse : est-ce qu'on peut faire confiance à nouveau ? Est-ce qu'on a changé, ou est-ce qu'on s'est juste dit qu'on avait changé ?",
+    "equilibreRelationnel": "légèrement asymétrique",
+    "rapportDeForce": "Souvent marqué par le souvenir de qui avait 'plus tort' — même si cette comptabilité est injuste ou floue.",
+    "attentesImplicites": [
+      "que la brouille soit reconnue mais pas ressassée",
+      "que la confiance soit reconstruite et non supposée acquise",
+      "que l'autre ait vraiment changé sur ce qui avait causé la fracture",
+      "qu'on n'ait pas à refaire semblant que rien ne s'est passé"
+    ],
+    "moteursDuLien": [
+      "histoire commune qui vaut qu'on se batte pour le lien",
+      "regret sincère et envie de ne pas perdre l'autre",
+      "maturité acquise depuis la brouille qui permet de voir les choses autrement",
+      "événement extérieur qui a forcé le contact"
+    ],
+    "faillesDuLien": [
+      "la blessure originelle jamais vraiment nommée qui continue de travailler",
+      "peur de la prochaine brouille qui crée une prudence qui étouffe",
+      "tentation de rejouer la vieille dynamique qui avait mené au conflit"
+    ],
+    "signesVisibles": [
+      "légère retenue dans les premiers temps qui progressivement se détend",
+      "références prudentes à la période de brouille",
+      "moments de complicité retrouvée qui font du bien et font mal en même temps"
+    ],
+    "signesDialogues": [
+      "'c'est comme avant' dit avec une nuance qui reconnaît que c'est aussi différent",
+      "questions indirectes sur ce que l'autre a vécu pendant la brouille",
+      "humour prudent sur la brouille elle-même quand la confiance revient"
+    ],
+    "nonDitsTypiques": [
+      "j'ai encore peur que ça recommence",
+      "je ne suis pas sûr d'avoir tout pardonné",
+      "tu m'as manqué plus que je ne voulais l'admettre",
+      "j'aurais voulu que tu fasses le premier pas"
+    ],
+    "sourcesDeTension": [
+      "situation similaire à celle qui avait causé la brouille qui teste la résistance du lien",
+      "évocation indirecte de la période d'éloignement par un tiers",
+      "déséquilibre dans l'effort de réconciliation"
+    ],
+    "facteursDAgravation": [
+      "brouille jamais vraiment nommée — réconciliation sans avoir parlé de ce qui s'était passé",
+      "entourage qui n'a pas oublié et rappelle les hostilités"
+    ],
+    "facteursDApaisement": [
+      "conversation honnête sur ce qui s'était passé, sans accusation",
+      "moment où l'un des deux est vulnérable et l'autre répond présent",
+      "temps qui permet à la confiance de se reconstruire naturellement"
+    ],
+    "basculementsPossibles": [
+      "vers une amitié plus profonde, forgée sur une honnêteté nouvelle",
+      "vers une deuxième brouille qui cette fois pourrait être définitive",
+      "vers une amitié de surface — cordiale mais sans profondeur"
+    ],
+    "evolutionsPossibles": [
+      "amitié transformée et enrichie par ce qui a failli la détruire",
+      "relation cordiale mais distante — l'amitié intime est perdue",
+      "réconciliation véritable qui dure"
+    ],
+    "questionsPourLauteur": [
+      "La cause de la brouille a-t-elle été vraiment résolue ou seulement mise de côté ?",
+      "Lequel a fait le premier pas, et pourquoi maintenant ?",
+      "Qu'est-ce que cette amitié reconstruite enseigne sur les deux ?"
+    ],
+    "relationsProches": ["lien-reconstruit-apres-trahison", "reconciliation-incomplete", "complicite-silencieuse"],
+    "motsCles": ["amitié", "réconciliation", "confiance", "brouille", "réparation", "passé"]
+  },
+  {
+    "id": "amitie-maintenue-a-distance",
+    "label": "Amitié maintenue malgré l'éloignement",
+    "aliases": ["amitié longue distance", "amis séparés par la distance", "amitié malgré la distance", "amis expatriés", "amis qui ne se voient plus"],
+    "famille": "relations amicales",
+    "definitionCourte": "Amitié profonde qui survit à la séparation géographique — les deux savent qu'ils peuvent reprendre à tout moment, mais la distance a transformé la relation.",
+    "descriptionNarrative": "On se connaît mieux que quiconque, et on ne sait plus rien de la vie quotidienne de l'autre. Il y a quelque chose d'intangible dans cette amitié — elle ne tient pas sur la fréquence mais sur l'intensité quand on se retrouve. Mais avec le temps, les vies divergent silencieusement. Quand on se retrouve, il faut tout rattraper — et parfois la distance a creusé un fossé invisible qu'on découvre seulement en essayant de le traverser.",
+    "equilibreRelationnel": "symétrique",
+    "rapportDeForce": "Généralement symétrique, même si la situation matérielle de l'un peut créer une légère asymétrie.",
+    "attentesImplicites": [
+      "qu'on puisse reprendre comme avant quand on se retrouve",
+      "que l'autre pense à soi même sans nouvelles",
+      "qu'il y ait toujours quelque chose à dire quand on se retrouve",
+      "que la distance ne change pas qui on est l'un pour l'autre"
+    ],
+    "moteursDuLien": [
+      "histoire commune suffisamment riche pour résister au temps",
+      "sentiment d'être profondément connu par l'autre",
+      "retrouvailles intenses qui reconstituent le lien",
+      "confiance née d'une longue durée"
+    ],
+    "faillesDuLien": [
+      "vies qui divergent — valeurs, priorités, milieux — sans qu'on le voit venir",
+      "sentiments de dérive silencieuse qu'on ne nomme pas",
+      "retrouvailles décevantes qui révèlent un fossé invisible",
+      "effort asymétrique pour maintenir le contact"
+    ],
+    "signesVisibles": [
+      "reprise immédiate de la conversation là où elle s'était arrêtée",
+      "mais aussi : moment étrange de ne plus savoir comment on en est arrivé à ne plus se parler",
+      "références à des souvenirs communs comme langue privée"
+    ],
+    "signesDialogues": [
+      "rattrapage accéléré des événements depuis la dernière fois",
+      "moment de silence qui révèle qu'on ne sait plus aussi bien que l'on croyait",
+      "retrouvailles où on rit comme avant mais avec une conscience nouvelle"
+    ],
+    "nonDitsTypiques": [
+      "tu me manques différemment maintenant que tu n'es plus là",
+      "j'ai peur qu'on soit en train de se perdre sans s'en rendre compte",
+      "nos vies sont devenues si différentes que je ne sais plus si on se comprend"
+    ],
+    "sourcesDeTension": [
+      "divergence de valeurs ou de priorités apparue progressivement",
+      "déséquilibre d'effort — l'un écrit, l'autre répond peu",
+      "retrouvailles après un trop long silence qui rendent tout artificiel"
+    ],
+    "facteursDAgravation": [
+      "vie très chargée qui laisse peu de place pour maintenir le lien",
+      "nouvelles amitiés qui prennent la place dans le quotidien"
+    ],
+    "facteursDApaisement": [
+      "retrouvailles physiques qui reconstituent le lien",
+      "moment de crise où l'un appelle l'autre en priorité",
+      "message ou geste au bon moment qui dit 'je pense à toi'"
+    ],
+    "basculementsPossibles": [
+      "vers un retour à une amitié de proximité si les vies se rapprochent",
+      "vers un amour longtemps ignoré révélé par la distance",
+      "vers une amitié fantôme — nominale mais plus vivante"
+    ],
+    "evolutionsPossibles": [
+      "amitié rare et intense, maintenue par la qualité plutôt que la fréquence",
+      "dérive silencieuse suivie d'un éloignement doux",
+      "retrouvailles définitives qui reconstruisent une proximité"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que cette amitié représente pour chacun — une ancre, un miroir, une nostalgie ?",
+      "Quel est le dernier événement qui a été partagé en temps réel ?",
+      "Y a-t-il quelque chose que la distance a rendu impossible à dire ?"
+    ],
+    "relationsProches": ["amitie-apres-brouille-reparee", "complicite-silencieuse", "compagnonnage-entre-solitaires"],
+    "motsCles": ["amitié", "distance", "éloignement", "retrouvailles", "durée", "divergence"]
+  },
+  {
+    "id": "collegues-devenus-amis",
+    "label": "Collègues devenus amis — la frontière brouillée",
+    "aliases": ["amitié au travail", "collègue ami", "ami de bureau", "travail et amitié", "mélange professionnel personnel"],
+    "famille": "relations professionnelles",
+    "definitionCourte": "Deux collègues dont la relation dépasse le cadre professionnel pour devenir une amitié — créant une ambiguïté de rôles et d'attentes que ni le travail ni l'amitié ne règle seul.",
+    "descriptionNarrative": "C'est une relation hybride qui ne rentre dans aucune case. Au travail, on est en tension ou en harmonie professionnelle. Hors du travail, on est amis. Mais les deux contextes interfèrent : un désaccord professionnel peut empoisonner l'amitié, une complicité personnelle peut rendre les décisions professionnelles troubles. Et quand la hiérarchie change — l'un devient supérieur de l'autre — tout doit être rénégocié.",
+    "equilibreRelationnel": "variable",
+    "rapportDeForce": "Dépend de la hiérarchie professionnelle — peut être symétrique entre pairs, ou fortement asymétrique si l'un est supérieur de l'autre.",
+    "attentesImplicites": [
+      "que le travail ne contamine pas l'amitié",
+      "que l'amitié ne compromette pas le professionnalisme",
+      "que l'honnêteté soit possible même quand elle est inconfortable",
+      "que les confidences de l'un ne soient pas utilisées dans le contexte professionnel"
+    ],
+    "moteursDuLien": [
+      "temps passé ensemble — déjeuners, voyages professionnels, épreuves partagées",
+      "connaissance du milieu commun qui crée une compréhension sans explication",
+      "confiance née de l'observation mutuelle sous pression",
+      "humour partagé sur le contexte de travail"
+    ],
+    "faillesDuLien": [
+      "conflit professionnel qui déborde dans l'amitié",
+      "changement de hiérarchie qui recompose les rôles",
+      "l'un part — licenciement, démission — et la relation perd son contexte",
+      "confidences professionnelles qui mettent l'un en position délicate"
+    ],
+    "signesVisibles": [
+      "complicité visible dans les réunions qui peut être mal interprétée",
+      "entraide qui dépasse ce que le contexte professionnel exigerait",
+      "moments de transition entre le registre professionnel et personnel pendant la même conversation"
+    ],
+    "signesDialogues": [
+      "switch de ton entre le 'tu' professionnel et le 'tu' ami",
+      "aparté qui mélange les deux registres",
+      "moment délicat où l'un doit dire quelque chose de difficile à l'autre"
+    ],
+    "nonDitsTypiques": [
+      "je ne sais plus si je te parle comme collègue ou comme ami",
+      "je t'en veux professionnellement mais je ne peux pas le dire à mon ami",
+      "est-ce que notre amitié survivrait si l'un de nous partait"
+    ],
+    "sourcesDeTension": [
+      "désaccord professionnel qui devient personnel",
+      "promotion ou poste de l'un qui crée une asymétrie nouvelle",
+      "l'un doit évaluer ou critiquer l'autre dans le contexte professionnel"
+    ],
+    "facteursDAgravation": [
+      "pression professionnelle qui réduit l'espace pour l'amitié",
+      "rumeurs ou regard des autres collègues sur la relation"
+    ],
+    "facteursDApaisement": [
+      "capacité à nommer les deux contextes séparément",
+      "clarté honnête sur la limite entre l'amitié et le travail"
+    ],
+    "basculementsPossibles": [
+      "vers une amitié qui dure bien au-delà de la période de travail commune",
+      "vers une rupture si un conflit professionnel ne peut pas être séparé du lien personnel",
+      "vers une relation distante si l'un quitte le cadre professionnel commun"
+    ],
+    "evolutionsPossibles": [
+      "amitié durable indépendante du contexte de travail",
+      "relation cordiale mais distante après départ ou changement de rôle",
+      "complicité professionnelle qui n'atteint jamais le niveau de l'amitié vraie"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce qui nourrit vraiment cette relation — le travail commun ou quelque chose de plus profond ?",
+      "Comment la hiérarchie influence-t-elle la dynamique, même implicitement ?",
+      "Qu'est-ce que la relation ne pourrait pas survivre ?"
+    ],
+    "relationsProches": ["concurrence-masquee-entre-collegues", "dependance-affective-mutuelle", "amitie-apres-brouille-reparee"],
+    "motsCles": ["collègues", "amitié", "travail", "limite", "hiérarchie", "hybride"]
+  },
+  {
+    "id": "conflit-generationnel-professionnel",
+    "label": "Conflit générationnel en milieu professionnel",
+    "aliases": ["junior vs senior", "ancien contre nouveau", "vieux de la vieille", "jeune recrue et vieux briscard", "clash générationnel au travail"],
+    "famille": "relations professionnelles",
+    "definitionCourte": "Tension entre un professionnel expérimenté et un plus jeune — ou entre des méthodes héritées et de nouvelles approches — où chacun incarne une vision différente de ce que le travail devrait être.",
+    "descriptionNarrative": "Ce n'est pas seulement une différence de technique ou de méthode. C'est une différence de rapport au travail, à l'autorité, au temps, à la réussite. L'expérimenté a construit quelque chose — une façon de faire, une légitimité — que l'arrivée du nouveau menace symboliquement. Le jeune, lui, ne comprend pas pourquoi il faudrait se soumettre à des codes qui semblent obsolètes. Chacun a raison sur quelque chose que l'autre ne voit pas.",
+    "equilibreRelationnel": "légèrement asymétrique",
+    "rapportDeForce": "En faveur de l'expérimenté institutionnellement, mais potentiellement inversé si le plus jeune dispose de compétences nouvelles que l'organisation valorise.",
+    "attentesImplicites": [
+      "que l'expérience soit reconnue comme une valeur et non comme un obstacle",
+      "que l'énergie et les nouvelles approches soient accueillies et non rejetées",
+      "que le transfert de savoir soit réciproque",
+      "que la hiérarchie soit méritée et non seulement ancienne"
+    ],
+    "moteursDuLien": [
+      "complémentarité réelle si la méfiance est surmontée",
+      "respect mutuel possible si chacun reconnaît ce que l'autre apporte",
+      "projet commun qui force la coopération"
+    ],
+    "faillesDuLien": [
+      "mépris de l'expérimenté pour ce qu'il perçoit comme inexpérience ou arrogance",
+      "impatience du jeune pour ce qu'il perçoit comme conservatisme ou peur",
+      "organisation qui ne gère pas la transmission et laisse la tension s'installer"
+    ],
+    "signesVisibles": [
+      "interruptions et corrections dans les réunions",
+      "deux langages — métaphores différentes, références différentes",
+      "alliances générationnelles informelles"
+    ],
+    "signesDialogues": [
+      "'on a toujours fait comme ça' contre 'mais maintenant on peut faire autrement'",
+      "ton légèrement condescendant dans les deux sens",
+      "moments de vrai dialogue sous la tension"
+    ],
+    "nonDitsTypiques": [
+      "je sais des choses que tu ne peux pas encore comprendre",
+      "tu es bloqué dans une époque révolue",
+      "j'ai peur de devenir obsolète"
+    ],
+    "sourcesDeTension": [
+      "décision d'organisation qui favorise l'une des approches",
+      "erreur du jeune qui confirme les préjugés de l'aîné",
+      "réussite du jeune qui menace la légitimité de l'aîné"
+    ],
+    "facteursDAgravation": [
+      "organisation qui crée une compétition plutôt qu'une coopération",
+      "personnalité rigide d'un côté ou de l'autre"
+    ],
+    "facteursDApaisement": [
+      "projet difficile qui force à apprendre de l'autre",
+      "reconnaissance explicite de ce que l'autre apporte",
+      "médiation d'un tiers qui nomme la dynamique"
+    ],
+    "basculementsPossibles": [
+      "vers un mentorat si l'expérimenté choisit de transmettre",
+      "vers une rupture si l'organisation force un choix",
+      "vers une coopération fructueuse si les deux dépassent la méfiance"
+    ],
+    "evolutionsPossibles": [
+      "transmission réussie qui enrichit les deux",
+      "coexistence tendue mais fonctionnelle",
+      "éviction de l'un des deux par l'organisation"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que chacun craint vraiment de perdre dans cette relation ?",
+      "Y a-t-il un moment où l'un reconnaît la valeur de l'autre ?",
+      "Quelle est la part de la peur dans la résistance de chacun ?"
+    ],
+    "conflitAssocie": { "id": "conflit-generationnel", "label": "Conflit générationnel" },
+    "relationsProches": ["relation-mentorale-classique", "controle-par-retention-du-pouvoir", "concurrence-masquee-entre-collegues"],
+    "motsCles": ["générations", "travail", "méthodes", "transmission", "légitimité", "expérience"]
+  },
+  {
+    "id": "maitre-artisan-apprenti",
+    "label": "Maître artisan et apprenti",
+    "aliases": ["maître et apprenti", "transmission artisanale", "compagnonnage", "apprentissage d'un métier", "transmission d'un savoir manuel"],
+    "famille": "relations mentorales",
+    "definitionCourte": "Relation de transmission d'un savoir manuel ou artisanal entre un maître qui a tout son art dans les mains et un apprenti qui doit apprendre par le corps autant que par la tête.",
+    "descriptionNarrative": "Ce qui se transmet ici ne peut pas s'écrire. Le maître artisan n'enseigne pas par des mots mais par des gestes, des corrections silencieuses, une exigence parfois incompréhensible pour qui ne la vit pas. L'apprenti doit apprendre à voir avant de faire, à imiter avant de comprendre. Le lien est fort et ambigu : admiration, frustration, patience, orgueil blessé, fierté. Et la question qui plane : est-ce que le maître reconnaîtra un jour que l'apprenti est prêt ?",
+    "equilibreRelationnel": "fortement asymétrique",
+    "rapportDeForce": "Totalement en faveur du maître — qui détient le savoir et le donne ou le retient selon sa propre logique.",
+    "attentesImplicites": [
+      "que le maître transmette vraiment et pas seulement en surface",
+      "que l'apprenti respecte la hiérarchie sans la questionner trop vite",
+      "que la transmission soit un don et pas seulement un rapport de service",
+      "que le maître reconnaisse quand l'apprenti est prêt"
+    ],
+    "moteursDuLien": [
+      "admiration de l'apprenti pour le niveau atteint par le maître",
+      "fierté du maître à voir progresser quelqu'un qu'il a formé",
+      "transmission d'un savoir qui ne peut vivre que dans les corps",
+      "complicité née du travail silencieux côte à côte"
+    ],
+    "faillesDuLien": [
+      "maître qui retient une partie du savoir par peur d'être dépassé",
+      "apprenti qui dépasse le maître trop vite et brise l'équilibre",
+      "attentes implicites non dites sur le rythme et les critères de progression",
+      "exigence du maître perçue comme dureté gratuite"
+    ],
+    "signesVisibles": [
+      "gestes du maître qui corrigent sans un mot",
+      "regard du maître sur le travail de l'apprenti — approbation ou déception sans commentaire",
+      "imitation silencieuse de l'apprenti qui guette chaque geste du maître",
+      "moment rare où le maître dit 'bien' — et ce mot pèse tout"
+    ],
+    "signesDialogues": [
+      "peu de mots — la transmission se fait dans les gestes",
+      "correction sobre sans explication longue",
+      "silence partagé pendant le travail qui est une forme de communication"
+    ],
+    "nonDitsTypiques": [
+      "est-ce que tu penses que je suis prêt",
+      "est-ce que tu me fais confiance",
+      "j'ai peur de ne pas être à la hauteur",
+      "je ne veux pas te perdre comme maître mais je dois voler de mes propres ailes"
+    ],
+    "sourcesDeTension": [
+      "sentiment de l'apprenti de ne jamais en faire assez",
+      "peur du maître d'être remplacé ou oublié",
+      "désaccord sur le moment où l'apprenti est autonome"
+    ],
+    "facteursDAgravation": [
+      "maître qui ne reconnaît jamais les progrès",
+      "apprenti impatient qui coupe court à la transmission"
+    ],
+    "facteursDApaisement": [
+      "reconnaissance explicite du maître à un moment clé",
+      "moment de difficulté partagée dans le travail qui cimente le lien",
+      "l'apprenti dépasse le maître avec grâce — et le maître l'accepte"
+    ],
+    "basculementsPossibles": [
+      "vers l'autonomie complète de l'apprenti et la fierté du maître",
+      "vers une rupture si l'apprenti refuse les limites imposées",
+      "vers une relation d'égaux si les années passent"
+    ],
+    "evolutionsPossibles": [
+      "transmission réussie — l'apprenti devient maître à son tour",
+      "rupture douloureuse sur fond d'orgueil blessé",
+      "lien de respect mutuel qui perdure toute une vie"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que le maître choisit de ne pas transmettre, et pourquoi ?",
+      "Comment l'apprenti réagit-il à la dureté des exigences ?",
+      "Quel est le moment qui marque la fin du rapport maître-apprenti ?"
+    ],
+    "relationsProches": ["relation-mentorale-classique", "eleve-qui-depasse-le-maitre", "conflit-generationnel-professionnel"],
+    "motsCles": ["artisan", "apprenti", "transmission", "savoir", "geste", "corps", "compagnonnage"]
+  },
+  {
+    "id": "relation-therapeutique",
+    "label": "Relation thérapeutique",
+    "aliases": ["patient et thérapeute", "thérapie", "psychothérapie", "suivi psy", "patient et psy", "relation de soin psychologique"],
+    "famille": "relations mentorales",
+    "definitionCourte": "Relation de confiance asymétrique entre un patient et un thérapeute, où l'un se dévoile totalement sans réciprocité, dans un cadre destiné à permettre la transformation.",
+    "descriptionNarrative": "C'est peut-être la relation la plus asymétrique qui soit : l'un dit tout, l'autre dit presque rien. L'un paie pour être vu, l'autre est payé pour voir. Et pourtant, dans cet espace étrange, quelque chose de réel se passe. Le transfert — l'attachement du patient envers le thérapeute — est une force puissante dans la relation, qui peut être un levier de guérison ou une nouvelle forme de dépendance. L'enjeu est de transformer ce lien en liberté plutôt qu'en attache.",
+    "equilibreRelationnel": "fortement asymétrique",
+    "rapportDeForce": "Totalement en faveur du thérapeute qui détient la clé du cadre et choisit ce qu'il révèle.",
+    "attentesImplicites": [
+      "que le thérapeute voie ce que personne d'autre ne voit",
+      "que la confiance accordée ne soit pas trahie",
+      "que la relation reste dans son cadre et ne déborde pas",
+      "que la thérapie finisse par ne plus être nécessaire"
+    ],
+    "moteursDuLien": [
+      "sentiment rare d'être pleinement écouté sans jugement",
+      "espace protégé pour dire ce qu'on ne peut dire nulle part ailleurs",
+      "progression visible qui crée de la confiance",
+      "présence régulière qui ancre et sécurise"
+    ],
+    "faillesDuLien": [
+      "transfert qui devient dépendance si le cadre n'est pas tenu",
+      "sentiment de ne pas être vraiment vu malgré tout",
+      "résistance du patient qui sabote la progression",
+      "thérapeute qui sort du cadre — trop proche ou trop distant"
+    ],
+    "signesVisibles": [
+      "langage corporel qui se détend ou se ferme selon le sujet abordé",
+      "silences que le thérapeute laisse exister",
+      "retour sur des themes récurrents semaine après semaine",
+      "moment où le patient arrive avec quelque chose de précis à dire"
+    ],
+    "signesDialogues": [
+      "questions du thérapeute qui ouvrent plutôt qu'ils n'orientent",
+      "moments où le patient réalise quelque chose en le disant à voix haute",
+      "résistance verbale — 'oui mais' — qui révèle une peur"
+    ],
+    "nonDitsTypiques": [
+      "j'ai besoin que tu m'approuves même si ce n'est pas ton rôle",
+      "j'ai peur que tu penses moins bien de moi si je dis ça",
+      "est-ce que tu penses que je vais m'en sortir",
+      "je ne veux pas finir la thérapie parce que j'ai peur de me retrouver seul"
+    ],
+    "sourcesDeTension": [
+      "transfert non analysé qui prend trop de place",
+      "stagnation perçue qui décourage le patient",
+      "fin de thérapie — annonce ou contrainte — qui réactive les peurs d'abandon"
+    ],
+    "facteursDAgravation": [
+      "cadre thérapeutique fragilisé — changement de rythme, annulations",
+      "thérapeute qui dit trop ou trop peu de lui-même"
+    ],
+    "facteursDApaisement": [
+      "moment de percée — quelque chose est dit et entendu pour la première fois",
+      "stabilité du cadre qui permet la confiance",
+      "fin de thérapie bien préparée qui est une réussite plutôt qu'une perte"
+    ],
+    "basculementsPossibles": [
+      "vers l'autonomie du patient — fin réussie de la thérapie",
+      "vers une dépendance prolongée si la fin n'est pas travaillée",
+      "vers une rupture si le cadre est rompu"
+    ],
+    "evolutionsPossibles": [
+      "guérison progressive et fin de la relation comme réussite",
+      "dépendance prolongée qui nécessite un travail sur la fin",
+      "passage à un autre thérapeute si le lien est bloqué"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que le patient cherche dans la relation thérapeutique que sa vraie vie ne lui donne pas ?",
+      "Comment le transfert se manifeste-t-il dans les actions du personnage hors de la séance ?",
+      "Qu'est-ce que la fin de la thérapie représente comme perte ou comme libération ?"
+    ],
+    "relationsProches": ["relation-mentorale-classique", "dependance-affective-mutuelle", "relation-d-emprise"],
+    "motsCles": ["thérapie", "patient", "thérapeute", "transfert", "confiance", "asymétrie", "guérison"]
+  },
+  {
+    "id": "protection-qui-derive-en-controle",
+    "label": "Protection qui dérive en contrôle",
+    "aliases": ["surprotection", "protecteur envahissant", "protection excessive", "garde-fou devenu geôlier", "care qui étouffe"],
+    "famille": "relations de pouvoir",
+    "definitionCourte": "Relation où l'un protège l'autre sincèrement — mais la protection dépasse son objet et commence à limiter l'autonomie de celui qu'on protège, souvent sans que le protecteur s'en rende compte.",
+    "descriptionNarrative": "Le protecteur ne se vit pas comme un contrôleur. Il protège — et il croit le faire par amour. Mais à un moment, la protection est devenue une cage : chaque décision est validée, chaque risque est écarté, chaque espace libre est comblé par une présence. Celui qu'on protège est pris entre la gratitude sincère pour quelqu'un qui lui veut du bien, et l'étouffement progressif d'une autonomie qu'il ne peut plus exercer.",
+    "equilibreRelationnel": "fortement asymétrique",
+    "rapportDeForce": "En faveur du protecteur, qui détient le contrôle sous couvert de soin.",
+    "attentesImplicites": [
+      "que le protecteur reconnaisse quand la protection est devenue trop lourde",
+      "que le protégé soit autorisé à prendre des risques",
+      "que l'amour qui sous-tend la protection soit reconnu comme réel",
+      "que la sortie de la protection ne soit pas vécue comme une trahison"
+    ],
+    "moteursDuLien": [
+      "amour ou affection sincère",
+      "blessure passée du protecteur qui le pousse à prévenir toute souffrance",
+      "gratitude du protégé qui renforce le comportement de protection",
+      "dépendance mutuelle qui s'est installée progressivement"
+    ],
+    "faillesDuLien": [
+      "le protégé n'apprend plus à se protéger lui-même",
+      "le protecteur ne peut pas s'arrêter sans se sentir manquer à son rôle",
+      "la gratitude du protégé maintient un déséquilibre qui l'emprisonne",
+      "la peur du protecteur de perdre sa place ou sa raison d'être"
+    ],
+    "signesVisibles": [
+      "présence constante du protecteur dans les décisions du protégé",
+      "le protégé cherche le regard d'approbation avant d'agir",
+      "malaise visible du protégé quand il doit agir seul"
+    ],
+    "signesDialogues": [
+      "le protecteur anticipe les besoins avant qu'ils soient exprimés",
+      "l'autre commence ses phrases par 'est-ce que je peux...'",
+      "rationalisation constante du protecteur : 'je fais ça pour ton bien'"
+    ],
+    "nonDitsTypiques": [
+      "j'ai besoin que tu arrêtes mais je ne sais pas comment te le dire sans te blesser",
+      "j'ai tellement peur pour toi que je préfère que tu ne sois pas libre",
+      "si tu n'as plus besoin de moi, qu'est-ce que je suis"
+    ],
+    "sourcesDeTension": [
+      "tentative du protégé de prendre de l'autonomie",
+      "situation qui révèle que le protégé est capable mais que le protecteur l'en empêchait",
+      "tiers qui nomme la dynamique"
+    ],
+    "facteursDAgravation": [
+      "fragilité passée du protégé qui donne une légitimité historique au contrôle",
+      "entourage qui valide le rôle du protecteur"
+    ],
+    "facteursDApaisement": [
+      "prise de conscience du protecteur",
+      "succès du protégé dans une situation gérée seul"
+    ],
+    "basculementsPossibles": [
+      "vers l'autonomie si le protecteur lâche prise",
+      "vers une emprise si la tendance se radicalise",
+      "vers une rupture si le protégé ne peut plus supporter"
+    ],
+    "evolutionsPossibles": [
+      "lien transformé en relation d'égaux si la protection est relâchée",
+      "rupture libératrice pour le protégé",
+      "emprise progressive si personne ne nomme la dynamique"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que le protecteur a peur de perdre s'il arrête de protéger ?",
+      "Y a-t-il un événement passé qui justifie la protection aux yeux du protecteur ?",
+      "Comment le protégé signale-t-il son besoin d'espace ?"
+    ],
+    "conflitAssocie": { "id": "couple-qui-etouffe", "label": "Couple qui s'étouffe" },
+    "relationsProches": ["relation-d-emprise", "emprise-parentale", "relation-amoureuse-etouffante"],
+    "motsCles": ["protection", "contrôle", "autonomie", "soin", "cage", "amour"]
+  },
+  {
+    "id": "alliance-contre-ennemi-commun",
+    "label": "Alliance née d'un ennemi commun",
+    "aliases": ["alliés contre un adversaire commun", "ennemi commun", "alliance de circonstance", "coalition", "solidarité contre"],
+    "famille": "alliances et dépendances",
+    "definitionCourte": "Deux personnages qui n'auraient pas naturellement de lien se trouvent alliés parce qu'ils font face à la même menace, au même adversaire ou à la même contrainte.",
+    "descriptionNarrative": "Ce qui les unit n'est pas l'affinité — c'est l'adversaire commun. L'alliance est souvent contrainte, parfois inconfortable, mais fonctionnelle. Ce qu'elle révèle est intéressant : que font-ils quand l'adversaire commun disparaît ? S'il était la colle qui les maintenait ensemble, le lien peut s'effondrer. Ou quelque chose de plus profond s'est construit dans l'épreuve commune.",
+    "equilibreRelationnel": "légèrement asymétrique",
+    "rapportDeForce": "Variable — celui qui a le plus à perdre face à la menace commune est souvent en position de plus grande dépendance.",
+    "attentesImplicites": [
+      "que l'allié reste loyal même quand c'est difficile",
+      "que l'alliance dure le temps qu'il faut et pas au-delà si nécessaire",
+      "que les valeurs respectives soient respectées même dans l'alliance",
+      "que personne ne négocie séparément avec l'adversaire commun"
+    ],
+    "moteursDuLien": [
+      "intérêt commun face à une menace partagée",
+      "complémentarité de ressources ou de compétences",
+      "solidarité née de l'épreuve commune",
+      "confiance progressive construite dans l'action"
+    ],
+    "faillesDuLien": [
+      "différence de valeurs ou de méthodes sur tout ce qui dépasse l'ennemi commun",
+      "tentation de l'un de négocier séparément si cela devient avantageux",
+      "disparition de l'ennemi commun qui révèle l'absence d'autres points communs",
+      "méfiance résiduelle entre deux anciens adversaires ou inconnus"
+    ],
+    "signesVisibles": [
+      "coopération efficace limitée à l'objet de l'alliance",
+      "tension visible dès qu'on dépasse le champ de l'ennemi commun",
+      "moments de solidarité sincère dans les épreuves partagées"
+    ],
+    "signesDialogues": [
+      "précisions constantes sur les limites de l'alliance",
+      "moment où l'un propose d'aller plus loin et l'autre hésite",
+      "discussion sur ce qu'on ferait après — qui révèle l'incompatibilité ou la compatibilité"
+    ],
+    "nonDitsTypiques": [
+      "je ne suis pas sûr de te faire confiance hors de notre alliance",
+      "qu'est-ce qu'on fait si on gagne",
+      "est-ce que tu resterais si tu avais une meilleure offre"
+    ],
+    "sourcesDeTension": [
+      "désaccord sur les méthodes pour atteindre l'objectif commun",
+      "doute sur la loyauté de l'autre",
+      "opportunité qui avantage l'un au détriment de l'autre"
+    ],
+    "facteursDAgravation": [
+      "l'ennemi commun propose à l'un une sortie avantageuse",
+      "crise qui révèle des valeurs incompatibles"
+    ],
+    "facteursDApaisement": [
+      "réussite commune qui renforce la confiance",
+      "épreuve où l'un aide l'autre au-delà du contrat implicite"
+    ],
+    "basculementsPossibles": [
+      "vers une vraie alliance longue après la disparition de l'ennemi commun",
+      "vers une rupture ou même une rivalité une fois l'objectif atteint",
+      "vers une trahison si une meilleure offre se présente"
+    ],
+    "evolutionsPossibles": [
+      "alliance transformée en amitié ou partenariat durable",
+      "dissolution cordiale après l'atteinte de l'objectif",
+      "compétition ouverte une fois la menace commune écartée"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que chacun est prêt à sacrifier pour l'alliance — et jusqu'où ?",
+      "Qu'arrive-t-il si l'ennemi commun est éliminé — l'alliance survit-elle ?",
+      "Y a-t-il un moment où l'un des alliés envisage de trahir ?"
+    ],
+    "relationsProches": ["loyaute-aveugle-au-superieur", "opposition-de-factions", "rivalite-structurelle-entre-egaux"],
+    "motsCles": ["alliance", "ennemi commun", "coalition", "intérêt", "loyauté", "circonstances"]
+  },
+  {
+    "id": "dette-invisible-qui-pese",
+    "label": "Dette invisible qui pèse sur une relation",
+    "aliases": ["dette émotionnelle", "devoir implicite", "lien de dette", "obligation non dite", "gratitude contraignante"],
+    "famille": "alliances et dépendances",
+    "definitionCourte": "L'un a rendu un service majeur à l'autre — ou en est convaincu — et une dette jamais nommée pèse sur la relation, créant un déséquilibre que les deux voient mais ne disent pas.",
+    "descriptionNarrative": "La dette peut ne jamais avoir été formulée. C'est pire. Elle est présente dans chaque interaction comme un sous-texte permanent : l'un attend quelque chose en retour sans le demander, l'autre sent le poids de ce qu'il doit sans qu'on lui ait dit ce que c'était. La relation est alourdie par quelque chose d'informulé. Le problème : ce que le créancier attend n'est peut-être pas ce que le débiteur peut donner.",
+    "equilibreRelationnel": "fortement asymétrique",
+    "rapportDeForce": "En faveur du créancier — réel ou perçu.",
+    "attentesImplicites": [
+      "que la dette soit reconnue sans qu'il soit nécessaire de la nommer",
+      "qu'elle soit remboursée à la mesure de ce qui a été donné",
+      "que le débiteur sache ce qu'on attend de lui",
+      "qu'une fois payée, la relation puisse exister librement"
+    ],
+    "moteursDuLien": [
+      "lien fort né d'un service ou d'une aide réels",
+      "loyauté entretenue par la dette elle-même",
+      "gratitude sincère qui peut nourrir le lien si elle n'est pas instrumentalisée"
+    ],
+    "faillesDuLien": [
+      "asymétrie maintenue par le créancier qui en a besoin",
+      "débiteur qui se sent étouffé par une obligation qu'il ne peut honorer pleinement",
+      "dette qui grandit avec les intérêts non dits",
+      "créancier qui ressort la dette au mauvais moment"
+    ],
+    "signesVisibles": [
+      "débiteur qui fait des efforts au-delà du normal sans qu'on le lui demande",
+      "créancier qui accepte les services avec une satisfaction qui va au-delà de l'utilité",
+      "tension visible quand le débiteur refuse quelque chose"
+    ],
+    "signesDialogues": [
+      "'après tout ce que j'ai fait pour toi' — dit ou sous-entendu",
+      "justification excessive du débiteur pour les refus",
+      "moment où la dette est enfin nommée et l'air se charge"
+    ],
+    "nonDitsTypiques": [
+      "tu me dois quelque chose et tu le sais",
+      "je sens ton attente mais je ne sais pas ce que tu veux",
+      "j'ai peur de ne jamais pouvoir rembourser",
+      "je t'aide mais je commence à en avoir assez"
+    ],
+    "sourcesDeTension": [
+      "refus du débiteur — perçu comme ingratitude",
+      "moment où la dette est instrumentalisée pour obtenir quelque chose",
+      "réalisation du débiteur que la dette ne sera jamais considérée comme payée"
+    ],
+    "facteursDAgravation": [
+      "créancier qui accroît la dette consciemment pour maintenir la dépendance",
+      "tierce personne qui nomme la dynamique et force une confrontation"
+    ],
+    "facteursDApaisement": [
+      "conversation honnête sur ce que chacun attendait et a reçu",
+      "acte du débiteur qui libère les deux de la comptabilité implicite"
+    ],
+    "basculementsPossibles": [
+      "vers une libération si la dette est nommée et résolue",
+      "vers une rupture si le débiteur refuse définitivement",
+      "vers une relation de servitude si personne n'ose nommer la chose"
+    ],
+    "evolutionsPossibles": [
+      "résolution honnête qui libère les deux",
+      "rupture du débiteur qui choisit l'autonomie sur la loyauté",
+      "dette qui s'éternise et ronge les deux"
+    ],
+    "questionsPourLauteur": [
+      "La dette est-elle réelle ou construite par le créancier ?",
+      "Qu'est-ce que le créancier attendrait comme remboursement idéal ?",
+      "Y a-t-il un moment où le débiteur réalise que la dette ne sera jamais effacée ?"
+    ],
+    "relationsProches": ["lien-de-dette-non-dite", "dependance-affective-mutuelle", "alliance-de-circonstance"],
+    "motsCles": ["dette", "obligation", "gratitude", "déséquilibre", "non-dit", "servitude"]
+  },
+  {
+    "id": "admiration-qui-derive-en-rivalite",
+    "label": "Admiration qui dérive en rivalité",
+    "aliases": ["admiration jalouse", "admiration qui tourne mal", "fan devenu rival", "modèle devenu adversaire", "idole contestée"],
+    "famille": "rivalités",
+    "definitionCourte": "Relation qui a commencé par une admiration sincère — et qui, au fil du temps et des frustrations, s'est transformée en rivalité teintée de rancœur.",
+    "descriptionNarrative": "L'admiration contenait peut-être dès le départ les germes de la rivalité. Admirer quelqu'un, c'est aussi se mesurer à lui. Tant qu'on le perçoit comme hors d'atteinte, l'admiration est pure. Mais dès qu'on s'approche de son niveau — ou qu'on le dépasse — la comparaison change de nature. La rancœur peut naître d'un affront réel ou imaginaire. Souvent, le rival ne sait pas qu'il est admiré, puis détesté.",
+    "equilibreRelationnel": "variable",
+    "rapportDeForce": "Initialement en faveur de l'admiré. Peut s'inverser progressivement.",
+    "attentesImplicites": [
+      "que l'admiré reconnaisse l'admiration",
+      "que l'égal soit traité comme tel quand le niveau est atteint",
+      "que le modèle reste accessible et pas inaccessible"
+    ],
+    "moteursDuLien": [
+      "admiration sincère au départ",
+      "désir de se mesurer à quelqu'un de la même envergure",
+      "respect profond derrière la rivalité affichée"
+    ],
+    "faillesDuLien": [
+      "l'admiré qui ne reconnaît pas l'autre ou le sous-estime",
+      "sentiment d'avoir été ignoré ou rabaissé après avoir admiré",
+      "transformation de la comparaison en obsession"
+    ],
+    "signesVisibles": [
+      "surveillance constante de l'autre sans le lui avouer",
+      "mimétisme initial qui laisse place à la différenciation agressive",
+      "commentaires acides sur l'autre qui cachent l'admiration résiduelle"
+    ],
+    "signesDialogues": [
+      "critique de l'autre avec une précision qui révèle une connaissance approfondie",
+      "minimisation des succès de l'autre",
+      "moment où l'admiration ancienne filtre malgré la rivalité"
+    ],
+    "nonDitsTypiques": [
+      "je t'admirais avant de te détester",
+      "tu ne sauras jamais à quel point tu as compté pour moi",
+      "j'aurais voulu que tu me remarques"
+    ],
+    "sourcesDeTension": [
+      "affront réel ou perçu qui a transformé l'admiration",
+      "réussite de l'admirateur qui change le rapport",
+      "tiers qui nomme la dynamique"
+    ],
+    "facteursDAgravation": [
+      "l'admiré qui continue à ignorer ou à sous-estimer",
+      "entourage qui attise la comparaison"
+    ],
+    "facteursDApaisement": [
+      "reconnaissance de l'admiré qui désarme la rancœur",
+      "prise de conscience de l'admirateur sur ses propres projections"
+    ],
+    "basculementsPossibles": [
+      "vers une rivalité ouverte et assumée",
+      "vers une réconciliation si l'admiration est reconnue",
+      "vers une complicité si les deux se voient tels qu'ils sont"
+    ],
+    "evolutionsPossibles": [
+      "rivalité durable et productive pour les deux",
+      "résolution par la reconnaissance",
+      "obsession destructrice si jamais résolue"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que l'admirateur-rival aurait eu besoin que l'autre lui dise ?",
+      "L'admiré a-t-il conscience de l'admiration qu'il inspirait — et de sa dérive ?",
+      "Y a-t-il un événement précis qui a fait basculer l'admiration en rancœur ?"
+    ],
+    "conflitAssocie": { "id": "rivalite", "label": "Rivalité" },
+    "relationsProches": ["rivalite-structurelle-entre-egaux", "eleve-qui-depasse-le-maitre", "amitie-qui-derive-vers-rivalite"],
+    "motsCles": ["admiration", "rivalité", "jalousie", "modèle", "rancœur", "dérive"]
+  },
+  {
+    "id": "retour-apres-longue-absence",
+    "label": "Retour après une longue absence",
+    "aliases": ["retour dans la famille", "réintégration après absence", "retour d'exil", "retrouvailles après des années", "retour du fils prodigue"],
+    "famille": "relations réparatrices",
+    "definitionCourte": "Un personnage revient dans une relation ou un milieu qu'il a quitté depuis longtemps — et les deux parties doivent décider si le lien peut être repris, et à quelles conditions.",
+    "descriptionNarrative": "Celui qui revient n'est pas celui qui est parti. Ceux qui sont restés ont continué à vivre — et à souffrir de l'absence. Le retour force une double question : qu'est-ce qui a changé, et qu'est-ce qu'on fait maintenant ? Il y a de la joie souvent, mais aussi de la rancœur, de la méfiance, du deuil — celui de ce qui s'est passé pendant l'absence. Le retour n'est jamais une simple reprise là où on s'était arrêté.",
+    "equilibreRelationnel": "variable",
+    "rapportDeForce": "En faveur de ceux qui sont restés — qui ont la légitimité de la présence. Mais le revenant a parfois une position nouvelle qui crée une asymétrie inversée.",
+    "attentesImplicites": [
+      "que le revenant explique pourquoi il est parti",
+      "que les restants reconnaissent que la vie a continué des deux côtés",
+      "que le retour ne soit pas perçu comme une récompense non méritée",
+      "qu'une vraie place soit faite au revenant — ni la même qu'avant ni une placebo"
+    ],
+    "moteursDuLien": [
+      "lien qui a survécu malgré l'absence",
+      "désir sincère de reprise de contact",
+      "événement qui a rendu le retour possible ou nécessaire"
+    ],
+    "faillesDuLien": [
+      "rancœur de ceux qui sont restés et ont souffert de l'absence",
+      "revenant qui attend une reprise immédiate comme si le temps n'avait pas passé",
+      "méfiance sur les raisons du retour — intérêt, obligation, pas vraie envie"
+    ],
+    "signesVisibles": [
+      "gestes qui cherchent la même familiarité qu'avant",
+      "regards de ceux qui restent — accueil mêlé de rancœur",
+      "silence autour de l'absence elle-même"
+    ],
+    "signesDialogues": [
+      "conversation qui tourne autour de l'absence sans la nommer",
+      "questions douces qui cachent une rancœur",
+      "moment où quelqu'un nomme enfin 'tu n'étais pas là'"
+    ],
+    "nonDitsTypiques": [
+      "tu nous as manqué mais on est aussi en colère que tu sois parti",
+      "je ne sais pas si je peux te faire confiance à nouveau",
+      "je ne veux pas faire comme si rien ne s'était passé",
+      "j'ai peur de partir à nouveau si ça se passe mal"
+    ],
+    "sourcesDeTension": [
+      "absence jamais expliquée ou mal expliquée",
+      "changements intervenus pendant l'absence que le revenant ne connaît pas",
+      "place qui a été prise et doit être renegociée"
+    ],
+    "facteursDAgravation": [
+      "attentes incompatibles sur ce que le retour signifie",
+      "entourage qui force la réconciliation sans laisser de temps"
+    ],
+    "facteursDApaisement": [
+      "conversation honnête sur ce qui s'est passé des deux côtés",
+      "temps accordé à la reconstruction progressive",
+      "moment où les deux admettent que ça leur a manqué"
+    ],
+    "basculementsPossibles": [
+      "vers une reprise du lien transformée par ce qui a été vécu",
+      "vers un nouveau départ si la confiance ne peut pas se reconstruire",
+      "vers une coexistence cordiale sans vraie reprise"
+    ],
+    "evolutionsPossibles": [
+      "lien reconstruit plus solide parce que plus conscient",
+      "relation distante — on s'adapte à la présence sans retrouver la proximité",
+      "rupture définitive si le retour révèle trop d'incompatibilité"
+    ],
+    "questionsPourLauteur": [
+      "Pourquoi le retour a-t-il lieu maintenant — qu'est-ce qui l'a rendu possible ?",
+      "Qu'est-ce que le revenant s'attend à retrouver — et est-ce encore là ?",
+      "Y a-t-il quelque chose que les restants ne diront jamais ?"
+    ],
+    "relationsProches": ["reconciliation-incomplete", "lien-reconstruit-apres-trahison", "lien-parent-absent"],
+    "motsCles": ["retour", "absence", "retrouvailles", "rancœur", "temps", "reconstruction"]
+  },
+  {
+    "id": "pardon-accorde-non-demande",
+    "label": "Pardon accordé que l'autre n'a pas demandé",
+    "aliases": ["pardonner sans demande", "pardon unilatéral", "pardonner pour soi", "pardon non sollicité", "liberté par le pardon"],
+    "famille": "relations réparatrices",
+    "definitionCourte": "L'un choisit de pardonner non parce que l'autre l'a demandé — mais parce qu'il en a besoin lui-même pour avancer. Le pardon est un acte intérieur qui transforme la relation sans nécessairement la réparer.",
+    "descriptionNarrative": "Ce pardon ne répare rien dans la relation — parce que l'autre ne sait peut-être pas qu'il est pardonné, ou qu'il n'en voulait pas. C'est un acte de libération plutôt que de réconciliation. Mais il change quelque chose : la façon dont le pardonneur se tient dans la relation. Il peut continuer à voir l'autre, à lui parler — simplement autrement. Ce qui est difficile : tenir ce pardon quand l'autre recommence à faire ce qu'il avait fait.",
+    "equilibreRelationnel": "légèrement asymétrique",
+    "rapportDeForce": "Le pardon confère un certain pouvoir moral au pardonneur — et peut créer une asymétrie nouvelle.",
+    "attentesImplicites": [
+      "que le pardon ne soit pas mal interprété comme validation de la blessure",
+      "que l'autre ne profite pas de ce pardon non demandé",
+      "que pardonner n'oblige pas à oublier ni à tout recommencer",
+      "que le pardonneur puisse se protéger malgré le pardon"
+    ],
+    "moteursDuLien": [
+      "désir de se libérer d'une rancœur qui empoisonnait",
+      "amour ou affection encore présents malgré la blessure",
+      "compréhension de la fragilité ou des raisons de l'autre",
+      "choix personnel de ne pas laisser la blessure définir le futur"
+    ],
+    "faillesDuLien": [
+      "l'autre qui continue à blesser une fois le pardon accordé",
+      "pardon qui cache une incapacité à exprimer la colère",
+      "déséquilibre si l'autre perçoit le pardon comme faiblesse",
+      "pardon fragile qui peut être retiré à la moindre récidive"
+    ],
+    "signesVisibles": [
+      "changement dans la posture du pardonneur — moins de tension",
+      "façon différente de regarder l'autre, plus légère",
+      "l'autre qui ne sait pas ce qui a changé mais sent quelque chose"
+    ],
+    "signesDialogues": [
+      "le pardonneur n'amène plus la blessure dans les conversations",
+      "moment où l'autre demande 'pourquoi tu es comme ça avec moi maintenant'",
+      "pardon nommé ou pas — et la différence entre les deux"
+    ],
+    "nonDitsTypiques": [
+      "je t'ai pardonné mais tu ne le sais pas",
+      "ce que tu m'as fait m'a quand même marqué",
+      "pardonner n'a pas fait disparaître la douleur",
+      "je l'ai fait pour moi, pas pour toi"
+    ],
+    "sourcesDeTension": [
+      "récidive de l'autre qui remet en question le pardon",
+      "entourage qui pense que pardonner sans demande est de la faiblesse",
+      "pardon que l'autre découvre et dont il ne sait quoi faire"
+    ],
+    "facteursDAgravation": [
+      "l'autre qui interprète le pardon comme une permission",
+      "pardonneur qui ne s'autorise pas à se protéger après avoir pardonné"
+    ],
+    "facteursDApaisement": [
+      "l'autre qui change de comportement même sans savoir être pardonné",
+      "conversation qui révèle le pardon et crée une vraie réparation"
+    ],
+    "basculementsPossibles": [
+      "vers une vraie réconciliation si l'autre découvre et accueille le pardon",
+      "vers un retrait si le pardon n'est pas honoré",
+      "vers une liberté durable si le pardonneur maintient son choix"
+    ],
+    "evolutionsPossibles": [
+      "libération durable et relation transformée",
+      "retrait de la relation après avoir pardonné — pardonner n'est pas rester",
+      "réconciliation surprenante quand l'autre prend conscience"
+    ],
+    "questionsPourLauteur": [
+      "Le pardon est-il complet ou un premier pas — et est-il durable si l'autre recommence ?",
+      "Comment le pardon change-t-il la façon dont le pardonneur se tient dans la relation ?",
+      "L'autre sait-il être pardonné — et que fait-il de cette information ?"
+    ],
+    "relationsProches": ["reconciliation-incomplete", "lien-reconstruit-apres-trahison", "retour-apres-longue-absence"],
+    "motsCles": ["pardon", "libération", "unilatéral", "rancœur", "blessure", "choix"]
+  },
+  {
+    "id": "aide-qui-cree-dependance",
+    "label": "Aide qui crée une dépendance",
+    "aliases": ["bienfaiteur et dépendant", "aide qui enferme", "sauveur et sauvé", "relation d'aide devenue dépendance", "assistant et assisté"],
+    "famille": "relations ambiguës",
+    "definitionCourte": "Relation où l'un aide l'autre sincèrement — mais l'aide prolongée finit par créer une dépendance que ni l'un ni l'autre n'avait cherchée, et que les deux ont du mal à reconnaître.",
+    "descriptionNarrative": "L'aide était nécessaire. Elle a sauvé quelque chose. Mais elle s'est installée dans la durée, et ce qui était transitoire est devenu structurel. L'aidant trouve un sens à son rôle, le bénéficiaire s'adapte à être aidé. Avec le temps, l'autonomie du bénéficiaire se rétrécit sans que personne ne l'ait voulu. La sortie de cette dépendance est difficile pour les deux : l'un doit perdre son rôle, l'autre doit affronter ce qu'il peut vraiment seul.",
+    "equilibreRelationnel": "fortement asymétrique",
+    "rapportDeForce": "En faveur de l'aidant — qui détient les ressources dont l'autre dépend.",
+    "attentesImplicites": [
+      "que l'aide finisse par ne plus être nécessaire",
+      "que la gratitude soit à la mesure de ce qui a été donné",
+      "que l'aidé ne profite pas de la relation",
+      "que l'aide ne soit pas utilisée comme levier de contrôle"
+    ],
+    "moteursDuLien": [
+      "générosité sincère de l'aidant",
+      "gratitude et attachement de l'aidé",
+      "sentiment de l'aidant d'être utile et nécessaire",
+      "histoire commune née de l'aide elle-même"
+    ],
+    "faillesDuLien": [
+      "autonomie de l'aidé qui se réduit progressivement",
+      "aidant qui inconsciemment entretient la dépendance pour maintenir son rôle",
+      "aidé qui commence à ressentir l'aide comme une contrainte",
+      "équilibre difficile à rompre car les deux y trouvent quelque chose"
+    ],
+    "signesVisibles": [
+      "l'aidé qui ne prend plus de décisions sans consulter l'aidant",
+      "l'aidant qui répond avant qu'on le demande",
+      "malaise de l'aidé quand il doit agir seul"
+    ],
+    "signesDialogues": [
+      "'je ne saurais pas quoi faire sans toi' — dit sincèrement mais qui révèle le problème",
+      "l'aidant qui prend les devants systématiquement",
+      "moment où l'aidé commence à résister et l'aidant ne comprend pas"
+    ],
+    "nonDitsTypiques": [
+      "j'ai besoin que tu n'aies plus besoin de moi mais j'ai aussi besoin que tu aies besoin de moi",
+      "je ne sais plus faire les choses seul",
+      "ton aide me pèse mais je ne sais pas comment te le dire sans te blesser"
+    ],
+    "sourcesDeTension": [
+      "tentative de l'aidé d'agir seul et réaction de l'aidant",
+      "tiers qui nomme la dépendance",
+      "moment où l'aide est refusée pour la première fois"
+    ],
+    "facteursDAgravation": [
+      "aidant qui renforce la dépendance inconsciemment",
+      "contexte qui ne permet pas à l'aidé de développer son autonomie"
+    ],
+    "facteursDApaisement": [
+      "prise de conscience des deux sur la dynamique installée",
+      "retrait progressif de l'aide avec soutien à l'autonomie"
+    ],
+    "basculementsPossibles": [
+      "vers l'autonomie si l'aide est progressivement retirée",
+      "vers une emprise si la dépendance est renforcée volontairement",
+      "vers une rupture si l'aidé rejette l'aide d'un coup"
+    ],
+    "evolutionsPossibles": [
+      "lien transformé en relation d'égaux si la dépendance est surmontée",
+      "dépendance durable et mutuelle acceptée",
+      "rupture libératrice pour l'aidé"
+    ],
+    "questionsPourLauteur": [
+      "L'aidant a-t-il un intérêt inconscient à maintenir la dépendance ?",
+      "À quel moment l'aide sincère est-elle devenue un problème ?",
+      "Qu'est-ce que l'aidé ferait si l'aide disparaissait demain ?"
+    ],
+    "relationsProches": ["dependance-affective-mutuelle", "protection-qui-derive-en-controle", "relation-d-emprise"],
+    "motsCles": ["aide", "dépendance", "aidant", "autonomie", "bienfaiteur", "contrainte"]
+  },
+  {
+    "id": "inegalite-sociale-croissante-dans-amitie",
+    "label": "Inégalité sociale croissante dans une amitié",
+    "aliases": ["amis aux trajectoires divergentes", "trajectoires sociales différentes", "ami devenu riche", "ami resté pauvre", "écart de classe entre amis"],
+    "famille": "relations ambiguës",
+    "definitionCourte": "Deux amis de longue date dont les trajectoires sociales ont divergé au fil du temps — l'un a gravi, l'autre est resté ou a reculé — et cet écart commence à peser sur le lien.",
+    "descriptionNarrative": "L'amitié est vraie. Le lien est solide. Mais quelque chose a changé imperceptiblement : l'un choisit au restaurant, l'autre calcule. L'un parle de projets, l'autre de contraintes. L'un doit ajuster ses références pour ne pas blesser, l'autre doit faire semblant que ça n'a pas d'importance. Les deux ont honte à leur manière — l'un de sa réussite, l'autre de son manque. Et aucun ne sait comment le dire.",
+    "equilibreRelationnel": "légèrement asymétrique",
+    "rapportDeForce": "En faveur de celui qui a la liberté matérielle et symbolique plus grande.",
+    "attentesImplicites": [
+      "que l'écart ne soit pas nommé pour ne pas gêner",
+      "que l'amitié soit au-dessus des conditions matérielles",
+      "que l'autre ne profite pas de la disparité",
+      "que l'amitié reste un espace d'égalité symbolique malgré tout"
+    ],
+    "moteursDuLien": [
+      "histoire commune qui précède la divergence",
+      "qualités respectives qui dépassent les conditions matérielles",
+      "loyauté à une époque où les deux étaient égaux",
+      "moments partagés où l'écart s'oublie"
+    ],
+    "faillesDuLien": [
+      "gêne croissante sur les sujets liés à l'argent ou au statut",
+      "ajustements de l'un ou de l'autre qui finissent par fatiguer",
+      "sentiment de ne plus vraiment se comprendre",
+      "ressentiment latent — ou condescendance latente — que personne ne nomme"
+    ],
+    "signesVisibles": [
+      "hésitation sur les propositions — restaurant, vacances, sorties",
+      "l'un qui paie sans faire de bruit pour éviter la gêne",
+      "références culturelles qui ne se recoupent plus"
+    ],
+    "signesDialogues": [
+      "sujets évités par précaution",
+      "moment de dérapage involontaire — une phrase qui révèle l'écart",
+      "humour qui camoufle la gêne"
+    ],
+    "nonDitsTypiques": [
+      "j'ai honte de ce que j'ai et tu n'as pas",
+      "j'ai honte de ce que je n'ai pas et tu as",
+      "je ne veux pas que tu me voies comme quelqu'un de différent",
+      "j'ai peur que tu aies pitié de moi"
+    ],
+    "sourcesDeTension": [
+      "invitation à un événement que l'un ne peut pas se permettre",
+      "conversation sur les projets de vie qui révèle l'écart",
+      "moment où l'un aide financièrement l'autre et que cela change la dynamique"
+    ],
+    "facteursDAgravation": [
+      "maladresses sur les sujets matériels",
+      "entourage de l'un qui n'inclut pas l'autre"
+    ],
+    "facteursDApaisement": [
+      "conversation honnête sur ce que chacun ressent",
+      "rituel partagé qui n'est pas lié à l'argent"
+    ],
+    "basculementsPossibles": [
+      "vers une amitié ajustée qui survit à l'écart",
+      "vers un éloignement progressif si personne ne parle",
+      "vers une rupture si la honte ou la condescendance prend le dessus"
+    ],
+    "evolutionsPossibles": [
+      "amitié transformée qui intègre l'écart sans le nier",
+      "distanciation douce",
+      "résolution de la tension par une conversation longtemps différée"
+    ],
+    "questionsPourLauteur": [
+      "Lequel des deux souffre le plus de l'écart — et lequel en est moins conscient ?",
+      "Y a-t-il un moment où l'un des deux a fait quelque chose de maladroit qui a tout révélé ?",
+      "Qu'est-ce qui maintiendrait cette amitié malgré l'écart — et qu'est-ce qui la briserait ?"
+    ],
+    "relationsProches": ["amitie-maintenue-a-distance", "complicite-silencieuse", "tension-generationnelle"],
+    "motsCles": ["classe sociale", "inégalité", "amitié", "trajectoire", "honte", "argent"]
+  },
+  {
+    "id": "attirance-entre-adversaires",
+    "label": "Attirance entre adversaires",
+    "aliases": ["attirés par l'ennemi", "amour-haine", "attraction ennemie", "adversaires attirés l'un vers l'autre", "rivaux amoureux"],
+    "famille": "relations ambiguës",
+    "definitionCourte": "Deux personnages en opposition — idéologique, professionnelle, ou narrative — qui ressentent une attirance réelle l'un envers l'autre, que ni l'un ni l'autre ne sait quoi faire de cette attirance.",
+    "descriptionNarrative": "Ce n'est pas de l'amour-haine au sens superficiel. C'est une tension plus profonde : ce qui rend l'autre dangereux est aussi ce qui le rend irrésistible. L'adversaire est souvent le seul à comprendre vraiment le personnage — ils jouent la même partie, ils se lisent mutuellement comme personne d'autre ne peut. L'attirance est le signe d'une reconnaissance que l'opposition elle-même masque.",
+    "equilibreRelationnel": "variable",
+    "rapportDeForce": "Alternatif — l'un prend le dessus selon le contexte, puis l'autre.",
+    "attentesImplicites": [
+      "que l'attirance reste secrète ou au moins non avouée",
+      "que l'adversaire ne profite pas de la vulnérabilité que l'attirance crée",
+      "qu'il soit possible de rester adversaire sans nier ce qu'on ressent",
+      "que l'attirance ne devienne pas une faiblesse exploitable"
+    ],
+    "moteursDuLien": [
+      "reconnaissance mutuelle — seul l'adversaire comprend vraiment le niveau de l'autre",
+      "tension créatrice née de l'opposition",
+      "similitude profonde malgré les divergences affichées",
+      "fascination pour ce que l'autre représente"
+    ],
+    "faillesDuLien": [
+      "l'attirance avouée changerait les rapports de force",
+      "les camps respectifs rendraient une relation impossible ou trahison",
+      "l'attirance peut être exploitée comme faiblesse",
+      "difficulté à distinguer l'attirance de la fascination compétitive"
+    ],
+    "signesVisibles": [
+      "tension physique visible dans les confrontations",
+      "attention particulière à l'autre — chaque mouvement est noté",
+      "moments de proximité qui durent plus longtemps que nécessaire",
+      "sourire involontaire lors d'un coup bien joué de l'adversaire"
+    ],
+    "signesDialogues": [
+      "joutes verbales qui ont une énergie différente des autres",
+      "moment de sincérité inattendu dans la confrontation",
+      "question qui dépasse le cadre de la rivalité"
+    ],
+    "nonDitsTypiques": [
+      "je suis le seul à te comprendre vraiment",
+      "dans d'autres circonstances on aurait pu être alliés",
+      "ce que tu m'as fait m'a blessé précisément parce que tu comptais"
+    ],
+    "sourcesDeTension": [
+      "moment où l'attirance est proche d'être avouée",
+      "victoire de l'un sur l'autre qui change la dynamique",
+      "tiers qui voit et nomme ce que les deux cachent"
+    ],
+    "facteursDAgravation": [
+      "aveu involontaire qui expose la vulnérabilité",
+      "camp respectif qui force un choix entre l'adversaire et le groupe"
+    ],
+    "facteursDApaisement": [
+      "situation qui force la coopération temporaire",
+      "moment hors contexte où les deux peuvent être simplement eux-mêmes"
+    ],
+    "basculementsPossibles": [
+      "vers une alliance si les circonstances changent",
+      "vers une relation amoureuse si l'opposition cesse",
+      "vers une confrontation finale si la tension est trop longtemps réprimée"
+    ],
+    "evolutionsPossibles": [
+      "alliance inattendue construite sur la reconnaissance mutuelle",
+      "relation amoureuse après la fin de l'adversité",
+      "opposition maintenue et tension jamais résolue — tragédie narrative"
+    ],
+    "questionsPourLauteur": [
+      "Qu'est-ce que l'adversaire voit chez l'autre que personne d'autre ne voit ?",
+      "À quel moment l'attirance est-elle la plus dangereuse — et pour lequel des deux ?",
+      "Y a-t-il une circonstance où les deux pourraient cesser d'être adversaires ?"
+    ],
+    "relationsProches": ["attirance-hostilite-melee", "attraction-interdite-non-dite", "rivalite-structurelle-entre-egaux"],
+    "motsCles": ["adversaires", "attirance", "tension", "reconnaissance", "opposition", "fascination"]
+  }
+]

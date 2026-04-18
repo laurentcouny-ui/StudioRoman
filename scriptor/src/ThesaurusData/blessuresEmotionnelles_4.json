@@ -1,0 +1,590 @@
+[
+  {
+    "id": "traumatisme-accident",
+    "label": "Traumatisme d'accident grave",
+    "famille": "violence",
+    "definitionCourte": "Le personnage a survécu à un accident grave — de la route, du travail, domestique — dont l'impact a redessiné sa relation au monde, au corps et au hasard. La blessure n'est pas seulement physique : elle porte sur l'effondrement de l'illusion de contrôle, la brutalité de la contingence, et parfois la culpabilité de s'en être sorti quand d'autres ne l'ont pas fait.",
+    "originesPossibles": [
+      "accident de voiture grave, avec ou sans autres victimes",
+      "accident de travail qui a entraîné une blessure ou une invalidité durable",
+      "accident domestique survenu dans un contexte de négligence ou d'inattention",
+      "naufrage, chute, incendie — tout événement soudain qui a mis la vie en danger",
+      "accident dont le personnage était en partie responsable et dans lequel d'autres ont été blessés",
+      "témoignage d'un accident grave ayant touché un proche sous ses yeux",
+      "intervention tardive des secours, laissant le personnage seul avec sa peur pendant un temps prolongé"
+    ],
+    "croyancesNegativesInduites": [
+      "La vie peut basculer en une fraction de seconde, sans que rien ne puisse l'en empêcher.",
+      "Mon corps n'est pas fiable — il a failli me trahir, ou m'a trahi.",
+      "Je ne méritais pas de survivre plus que les autres.",
+      "La sécurité n'est qu'une illusion confortable que je ne peux plus me permettre.",
+      "Je suis une personne différente depuis ce jour — et l'ancienne me manque.",
+      "Les autres ne comprennent pas vraiment ce que c'est — ils ont continué à vivre normalement.",
+      "Le hasard gouverne tout : mes efforts, mes précautions, mes projets ne valent rien contre lui."
+    ],
+    "peursCentrees": [
+      "la peur de conduire, de prendre les transports ou de se retrouver dans le contexte de l'accident",
+      "la peur que l'accident se reproduise, que le hasard frappe à nouveau",
+      "la peur de son propre corps : ses limites, ses douleurs, sa fragilité potentielle",
+      "la peur de mourir avant d'avoir terminé quelque chose d'important",
+      "la peur que ceux qu'il aime soient à leur tour victimes d'un événement incontrôlable"
+    ],
+    "comportementsDefensifs": [
+      "évite soigneusement les contextes qui rappellent l'accident — peut aller jusqu'à une phobie invalidante",
+      "développe des rituels de contrôle : vérifier plusieurs fois les serrures, les appareils, les ceintures",
+      "peut à l'inverse développer une témérité compensatoire pour prouver que la peur n'a pas gagné",
+      "surveille en permanence son environnement, évalue les risques de chaque situation",
+      "difficulté à déléguer des tâches qui impliquent la sécurité de ses proches",
+      "peut se replier dans l'évitement de toute activité comportant un risque même minimal",
+      "surinvestit sa reconstruction physique ou psychologique comme moyen de reprendre un contrôle symbolique"
+    ],
+    "conflitsInternesTypiques": [
+      "veut reprendre une vie normale mais le corps ou l'esprit refusent de 'faire comme avant'",
+      "ressent de la culpabilité de s'en être sorti quand d'autres ont été blessés ou tués",
+      "oscille entre une gratitude intense pour la vie et une angoisse paralysante de la perdre",
+      "veut parler de ce qui s'est passé mais craint de ne pas être compris ou de paraître obsessionnel",
+      "se sent à la fois plus vivant et plus vulnérable qu'avant — et ne sait pas quoi faire de cette tension"
+    ],
+    "manifestationsPhysiques": [
+      "sursauts involontaires à des sons ou mouvements brusques",
+      "réactions physiques intenses dans les situations qui rappellent l'accident — accélération cardiaque, sueur, vertiges",
+      "cicatrices ou douleurs chroniques qui fonctionnent comme une mémoire incarnée",
+      "hypervigilance sensorielle : surveille les sons, les mouvements, les signaux d'alerte",
+      "corps qui se crispe ou se prépare à un impact lors de situations banales",
+      "fatigue liée à la tension permanente maintenue par la vigilance"
+    ],
+    "declencheurs": [
+      "tout contexte physique similaire à celui de l'accident — même partiellement",
+      "un bruit, une lumière, une odeur associée à la scène traumatique",
+      "voir ou entendre parler d'un accident similaire dans les médias",
+      "monter dans un véhicule, traverser une rue, ou entrer dans un espace similaire",
+      "les anniversaires de l'accident, parfois ressentis physiquement avant d'être reconnus consciemment",
+      "voir quelqu'un se blesser, même légèrement"
+    ],
+    "cheminsVersResolution": [
+      "une exposition progressive et choisie au contexte redouté, accompagnée d'un soutien fiable",
+      "mettre des mots sur l'événement dans un cadre sécurisé — thérapie, journal, récit partagé",
+      "trouver un sens à la survie sans avoir à se justifier d'être en vie",
+      "reconstruire une relation au corps fondée sur ce qu'il peut faire, pas sur ce qui lui a failli",
+      "accepter que la peur soit une réponse normale à quelque chose d'anormal — pas un signe de faiblesse"
+    ],
+    "impactRelationnel": [
+      "entourage qui ne sait plus comment gérer les évitements, les peurs ou les sautes d'humeur post-traumatiques",
+      "partenaire qui ressent le poids de la vigilance permanente du personnage et finit par se sentir épuisé",
+      "peut avoir une empathie viscérale pour toute personne en danger physique, au point de s'oublier",
+      "difficulté à laisser les proches prendre des risques, même normaux — vélo, sport, voyage",
+      "peut se lier profondément aux personnes qui étaient présentes lors de l'accident, pour le meilleur et pour le pire",
+      "peut s'éloigner des amis qui 'n'ont pas changé' après l'événement, vivant leur normalité comme une incompréhension"
+    ],
+    "notesEditoriales": [
+      "Le traumatisme d'accident est l'un des rares cas où la blessure a une date précise, un avant et un après clairement définis — ce qui en fait un repère narratif puissant mais qui nécessite d'être rendu complexe par ce que le personnage en fait.",
+      "Éviter de réduire le personnage à ses symptômes de PTSD : la blessure modifie aussi des choses plus subtiles — la philosophie, le rapport au temps, l'humour, la tendresse.",
+      "La culpabilité du survivant mérite un traitement particulier : elle est souvent irrationnelle mais profondément ressentie. Ne pas la résoudre trop vite par un 'tu n'y es pour rien'.",
+      "Le personnage peut être fonctionnel et même épanoui dans de nombreux domaines tout en portant cette blessure — elle surgit par à-coups, pas en continu."
+    ]
+  },
+  {
+    "id": "perte-enfant",
+    "label": "Perte d'un enfant",
+    "famille": "perte",
+    "definitionCourte": "Le personnage a perdu un enfant — par mort, disparition ou séparation irréversible. Il s'agit de l'une des blessures les plus dévastatrices car elle brise l'ordre naturel du monde : un enfant ne devrait pas mourir avant ses parents. La blessure touche simultanément l'amour parental, l'identité, le futur imaginé, et souvent le couple ou la famille.",
+    "originesPossibles": [
+      "décès soudain d'un enfant — accident, maladie foudroyante, violence",
+      "mort d'un enfant après une longue maladie, vécue dans l'anticipation du deuil",
+      "fausse couche tardive ou mort in utero, deuil souvent peu reconnu socialement",
+      "disparition d'un enfant sans résolution — enlèvement, fugue, absence de corps",
+      "enfant donné à l'adoption sous contrainte — pression familiale, sociale, économique",
+      "perte de la garde d'un enfant à la suite d'une décision judiciaire ou d'une séparation",
+      "enfant mort-né, premier enfant perdu avant même d'avoir commencé à exister aux yeux du monde"
+    ],
+    "croyancesNegativesInduites": [
+      "Je n'ai pas su protéger ce que j'avais de plus précieux.",
+      "Le monde est fondamentalement injuste — aucune loi morale ne le gouverne.",
+      "Je ne mérite pas de bonheur après ce qui s'est passé.",
+      "Chaque joie future sera souillée par ce manque.",
+      "Je suis une mauvaise mère, un mauvais père — sinon, cela ne serait pas arrivé.",
+      "L'avenir est vide — il avait un visage et maintenant il n'en a plus.",
+      "Je suis en deuil pour toujours : cela ne finit pas, cela se transforme seulement."
+    ],
+    "peursCentrees": [
+      "la peur de perdre d'autres enfants, ou d'autres personnes aimées, de la même manière",
+      "la peur d'oublier — la voix, le visage, l'odeur — et que cet oubli soit une trahison",
+      "la peur que le deuil ne finisse jamais, ou à l'inverse, la peur qu'il finisse",
+      "la peur d'être jugé comme parent — sur les circonstances, sur ce qu'il aurait pu faire",
+      "la peur de recommencer à aimer quelqu'un d'aussi vulnérable"
+    ],
+    "comportementsDefensifs": [
+      "peut conserver intacte la chambre ou les affaires de l'enfant — espace de deuil figé dans le temps",
+      "évite tout contact avec des enfants du même âge ou ressemblant à l'enfant perdu",
+      "peut surinvestir d'autres enfants — les siens restants, des neveux, des élèves — de manière parfois étouffante",
+      "s'interdit les moments de joie sincère, comme si rire était une trahison",
+      "peut se réfugier dans le travail, l'activisme ou une cause en mémoire de l'enfant",
+      "repousse les proches qui ne comprennent pas ou minimisent involontairement",
+      "peut basculer dans une consommation — alcool, médicaments — pour éteindre ce qui ne s'éteint pas"
+    ],
+    "conflitsInternesTypiques": [
+      "veut continuer à vivre mais ressent que continuer est une façon d'abandonner l'enfant",
+      "désire parler de l'enfant, le nommer, le raconter, mais craint de rendre les autres mal à l'aise",
+      "oscille entre la culpabilité (j'aurais pu empêcher cela) et la colère (personne ne pouvait l'empêcher)",
+      "en couple, peut ne pas pleurer de la même manière que l'autre — et interpréter cette différence comme une trahison",
+      "peut se demander s'il a le droit d'être heureux à nouveau — et vouloir cette permission sans pouvoir se l'accorder"
+    ],
+    "manifestationsPhysiques": [
+      "douleur physique réelle lors des moments de deuil intense — thorax, gorge, ventre",
+      "bras qui cherchent le corps de l'enfant dans certains moments de détresse",
+      "regard qui se pose sur les enfants dans les espaces publics, sans pouvoir s'en détourner",
+      "fatigue profonde, pas seulement liée au sommeil mais à l'effort de continuer",
+      "vide dans les mains aux dates anniversaires — naissance, mort",
+      "pleurs qui surgissent sans prévenir, déclenchés par un détail sensoriel"
+    ],
+    "declencheurs": [
+      "la date d'anniversaire de la naissance ou de la mort de l'enfant",
+      "voir un enfant du même âge que l'enfant aurait eu",
+      "entendre le prénom de l'enfant prononcé pour quelqu'un d'autre",
+      "un jouet, un vêtement, une chanson associée à l'enfant",
+      "quelqu'un qui parle de ses enfants sans se douter de ce que le personnage porte",
+      "des fêtes familiales où l'absence de l'enfant est criante mais non nommée"
+    ],
+    "cheminsVersResolution": [
+      "trouver un espace — rituel, lieu, geste — où l'enfant peut continuer d'exister symboliquement sans que cela paralyse",
+      "rencontrer d'autres parents endeuillés et découvrir que la blessure peut coexister avec une vie",
+      "se permettre un moment de joie sans le transformer en trahison — et ne pas mourir de culpabilité après",
+      "nommer l'enfant devant quelqu'un qui ne l'a pas connu, et constater que ce nom tient dans la bouche d'un autre",
+      "distinguer deuil et identité : être endeuillé ne signifie pas que c'est tout ce qu'on est"
+    ],
+    "impactRelationnel": [
+      "couple souvent profondément éprouvé, parfois fracturé, par un deuil vécu en parallèle mais différemment",
+      "enfants restants parfois écrasés par la peur de perdre eux aussi un parent, ou par l'ombre du frère ou de la sœur",
+      "entourage qui ne sait plus quoi dire après un certain temps et finit par se taire — ce silence aggrave l'isolement",
+      "nouvelles amitiés parfois construites autour du deuil, seul terrain où le personnage se sent compris",
+      "relation difficile avec les gens qui 'ont tout' — famille intacte, enfants en bonne santé",
+      "peut devenir un soutien extraordinaire pour d'autres personnes endeuillées, mais au détriment de son propre deuil"
+    ],
+    "notesEditoriales": [
+      "Cette blessure est si intense qu'elle risque de dévorer tout le reste du personnage si l'on n'y prend pas garde. La clé narrative est dans les failles et les contradictions : le parent endeuillé rit aussi, est jaloux, s'ennuie, désire — et cette normalité ne le trahit pas.",
+      "Distinguer les types de pertes : l'enfant mort brutalement, l'enfant mort après une longue maladie, l'enfant disparu sans résolution, l'enfant donné — chacun génère un deuil distinct avec ses propres impossibilités.",
+      "Éviter le personnage 'noble dans son deuil' : la vraie blessure génère aussi de la colère incontrôlable, de l'envie, de la honte, de la laideur intérieure. C'est là qu'elle devient vraie.",
+      "Le deuil d'un enfant peut réactiver d'autres blessures plus anciennes — abandon, honte, sentiment de ne pas mériter. La superposition de ces couches est un terrain narratif riche."
+    ]
+  },
+  {
+    "id": "exil-deracinement",
+    "label": "Exil et déracinement",
+    "famille": "perte",
+    "definitionCourte": "Le personnage a été contraint de quitter son pays, sa région ou sa communauté d'origine — par violence politique, économie, guerre ou pression familiale — et vit depuis dans le sentiment d'une perte irréparable. Le déracinement ne porte pas seulement sur l'espace géographique mais sur la langue, les rituels, l'appartenance, et la part de soi qui ne peut exister que dans ce lieu.",
+    "originesPossibles": [
+      "fuite d'un pays en guerre ou sous un régime oppressif",
+      "émigration économique imposée par la survie de la famille",
+      "exil politique ou persécution — religieuse, ethnique, idéologique",
+      "déménagement forcé à l'enfance par les parents, sans consultation ni préparation",
+      "expulsion ou bannissement d'une communauté culturelle, religieuse ou familiale",
+      "migration choisie mais qui s'est avérée irréversible, le pays d'origine devenant inaccessible",
+      "adoption internationale qui a coupé le personnage de ses origines biologiques et culturelles"
+    ],
+    "croyancesNegativesInduites": [
+      "Je n'appartiens vraiment nulle part — ni ici, ni là-bas.",
+      "Je suis une traduction de moi-même : quelque chose se perd à chaque fois que je parle.",
+      "Mes racines ont été arrachées et rien ne pousse à la même profondeur depuis.",
+      "Ceux qui n'ont pas connu l'exil ne peuvent pas comprendre ce que c'est.",
+      "Je dois constamment justifier mon droit à être là où je suis.",
+      "Le pays que je porte dans ma mémoire n'existe plus — il est devenu un mythe.",
+      "M'intégrer trop bien, c'est trahir ce que j'ai laissé derrière moi."
+    ],
+    "peursCentrees": [
+      "la peur de perdre définitivement la langue, les souvenirs, les repères culturels",
+      "la peur de ne jamais pouvoir rentrer — ou de rentrer et de ne plus reconnaître ce qu'on a quitté",
+      "la peur d'être perçu comme étranger à jamais, dans le pays d'accueil comme dans le pays d'origine",
+      "la peur de transmettre à ses enfants une appartenance incomplète ou douloureuse",
+      "la peur de l'invisibilité culturelle : que ce qu'il est devienne illisible aux autres"
+    ],
+    "comportementsDefensifs": [
+      "garde un lien intense avec les signes de sa culture d'origine — cuisine, musique, langue — comme une bouée",
+      "peut idéaliser le pays d'origine au point de le rendre inhabitable s'il y retourne",
+      "peut à l'inverse nier toute attache à ses origines pour s'intégrer coûte que coûte",
+      "observe les règles sociales du pays d'accueil avec une précision anxieuse pour ne pas commettre d'impair",
+      "peut se montrer plus royaliste que le roi dans les normes du pays d'accueil — sur-conformisme défensif",
+      "évite les conversations sur ses origines avec des inconnus, craignant le jugement ou les questions indiscrètes",
+      "se retrouve parfois médiateur entre les deux cultures, rôle épuisant et jamais pleinement satisfaisant"
+    ],
+    "conflitsInternesTypiques": [
+      "entre la fidélité aux origines et le désir d'appartenir pleinement à son nouveau milieu",
+      "entre la nostalgie d'un pays idéalisé et la lucidité sur ce qui le rendait impossible à habiter",
+      "entre l'envie de transmettre la culture d'origine à ses enfants et la peur de leur imposer un fardeau",
+      "entre la fierté de ce qu'il a construit dans l'exil et le sentiment que cette construction repose sur un manque",
+      "entre l'intégration réussie en surface et le sentiment de jouer un rôle dans une langue qui n'est pas tout à fait la sienne"
+    ],
+    "manifestationsPhysiques": [
+      "réconfort physique intense lors d'un plat, d'une odeur ou d'une chanson du pays d'origine",
+      "légère crispation ou recul lors de questions sur ses origines ou son accent",
+      "fatigue particulière après des journées de sur-adaptation culturelle ou linguistique",
+      "gestes, expressions corporelles ou rythmes différents qui émergent dans la langue d'origine",
+      "sensation physique de soulagement lors des retrouvailles avec d'autres personnes de sa culture",
+      "posture qui change entre deux contextes culturels — souvent imperceptible à l'intéressé"
+    ],
+    "declencheurs": [
+      "une nouvelle du pays d'origine — politique, catastrophe, mort d'un proche",
+      "entendre sa langue d'origine dans un espace inattendu",
+      "un plat, une odeur, une musique qui rouvre quelque chose de précis",
+      "des questions sur ses origines posées avec maladresse ou malveillance",
+      "voir des images du pays d'origine à la télévision ou sur les réseaux",
+      "une fête ou un rituel culturel d'origine célébrée loin de sa communauté"
+    ],
+    "cheminsVersResolution": [
+      "construire une identité double ou hybride assumée, sans avoir à choisir une appartenance unique",
+      "retourner dans le pays d'origine et confronter ce qu'il y reste — le deuil de l'image mentale peut libérer",
+      "transmettre des éléments de sa culture à des proches dans le pays d'accueil, et voir qu'ils peuvent les recevoir",
+      "trouver une communauté de personnes ayant vécu une expérience similaire — la reconnaissance peut réduire l'isolement",
+      "nommer la perte comme une perte réelle, pas comme une faiblesse à surmonter"
+    ],
+    "impactRelationnel": [
+      "peut trouver difficile de nouer des amitiés profondes avec des personnes n'ayant pas connu le déplacement",
+      "relations avec la famille restée au pays parfois complexes — culpabilité de celui qui est parti, envie de celui qui est resté",
+      "en couple mixte culturellement, tension possible autour des rituels, des valeurs, de l'éducation des enfants",
+      "enfants élevés entre deux cultures qui peuvent rejeter l'une ou l'autre, source de douleur supplémentaire",
+      "amitié intense avec d'autres exilés de la même origine — mais ce groupe peut aussi devenir une bulle qui empêche l'intégration",
+      "relation au travail parfois compliquée par un accent, un nom, ou des références culturelles qui génèrent des incompréhensions"
+    ],
+    "notesEditoriales": [
+      "Le déracinement est une blessure collective autant qu'individuelle. Son écriture gagne en profondeur quand elle tient compte de ce double niveau : ce que le personnage a perdu personnellement et ce que sa communauté a perdu ou vit encore.",
+      "Éviter l'exotisation : le personnage exilé n'est pas défini uniquement par ses origines ou sa différence. Il a une vie intérieure aussi complexe que n'importe quel personnage.",
+      "L'ambivalence envers le pays d'origine est souvent plus vraie que l'idéalisation : on peut quitter un endroit qu'on aime parce qu'il était dangereux, oppressif ou invivable, et continuer de lui manquer.",
+      "La langue est souvent la blessure dans la blessure : perdre les nuances d'une langue maternelle, devoir penser dans une langue qui n'est pas la sienne, c'est perdre une part de soi difficile à nommer autrement."
+    ]
+  },
+  {
+    "id": "harcelement-scolaire",
+    "label": "Harcèlement scolaire",
+    "famille": "rejet",
+    "definitionCourte": "Le personnage a subi un harcèlement répété de la part de pairs pendant ses années d'école — moqueries, exclusion, violence physique ou numérique. La blessure porte sur la période où l'identité se construit, ce qui lui confère une puissance particulière : ce qui a été dit ou fait alors a souvent été intégré comme une vérité sur soi, pas seulement comme une injustice.",
+    "originesPossibles": [
+      "mise à l'écart systématique pour une différence physique — poids, apparence, handicap",
+      "moqueries durables pour une différence culturelle, sociale ou d'orientation",
+      "cyberharcèlement avec diffusion de rumeurs, de photos ou de messages humiliants",
+      "violence physique régulière, tolérée ou ignorée par les adultes en charge",
+      "exclusion sociale organisée — ostracisme de groupe, refus de contact",
+      "harcèlement orchestré par un 'leader' de groupe dont les autres suivaient le mouvement",
+      "moqueries d'un enseignant ou d'un adulte, rendant la souffrance encore plus difficile à nommer"
+    ],
+    "croyancesNegativesInduites": [
+      "Il y a quelque chose en moi qui mérite d'être rejeté.",
+      "Les groupes sont dangereux — ils finissent toujours par se retourner contre les plus faibles.",
+      "Je suis différent d'une manière qui ne peut pas être acceptée.",
+      "Si les autres me connaissaient vraiment, ils feraient la même chose.",
+      "Je dois contrôler mon image en permanence pour éviter que ça recommence.",
+      "Les adultes ne protègent pas — ils regardent ailleurs ou minimisent.",
+      "Mes réactions à ce moment étaient normales, mais personne ne les a reconnues comme telles."
+    ],
+    "peursCentrees": [
+      "la peur d'être à nouveau la cible d'un groupe, même dans un contexte d'adultes",
+      "la peur d'être jugé sur des traits physiques ou comportementaux qui ont été raillés",
+      "la peur que les nouvelles relations ne soient pas sincères — que l'exclusion attende derrière l'amabilité",
+      "la peur d'entrer dans un groupe fermé, une équipe, un collectif — d'y être l'étranger",
+      "la peur de se faire remarquer, d'attirer l'attention, d'être 'trop' quelque chose"
+    ],
+    "comportementsDefensifs": [
+      "surveille les dynamiques de groupe avec une acuité développée par la nécessité",
+      "adopte une discrétion préventive : ne pas se mettre en avant, ne pas se démarquer",
+      "peut développer une ironie ou un humour cynique comme armure préventive",
+      "peut à l'inverse surinvestir le groupe pour en devenir indispensable et inattaquable",
+      "fuit les situations sociales nouvelles où sa place n'est pas garantie",
+      "très vigilant aux signaux non verbaux dans un groupe — qui parle à qui, qui s'écarte de qui",
+      "peut rejouer le rôle du harceleur dans d'autres contextes, par identification à l'agresseur"
+    ],
+    "conflitsInternesTypiques": [
+      "désire l'appartenance à un groupe mais en a peur autant qu'il la désire",
+      "sait intellectuellement que le harcèlement n'était pas de sa faute, mais le ressent encore parfois comme tel",
+      "ressent de la colère contre ceux qui l'ont harcelé mais aussi contre ceux qui ont regardé sans intervenir",
+      "honte d'avoir subi, honte de ne pas s'être défendu — honte qui n'est pas la sienne mais qu'il porte",
+      "peut mélanger le souvenir du harcèlement avec une nostalgie de qui il était avant, avant que la blessure ne s'installe"
+    ],
+    "manifestationsPhysiques": [
+      "posture de repli dans les situations sociales nouvelles — épaules rentrées, regard bas",
+      "tension musculaire dans les espaces qui ressemblent à ceux du harcèlement — couloirs, cours, salles communes",
+      "malaise physique lors de rires de groupe dont il ne comprend pas l'objet",
+      "hypervigilance du regard des autres, interprétant les sourires ou les chuchotements",
+      "réaction de sursaut ou de recul si quelqu'un s'approche physiquement de manière imprévue",
+      "transpiration, nausée ou tachycardie dans des contextes de groupe non maîtrisés"
+    ],
+    "declencheurs": [
+      "entrer dans un groupe nouveau où sa place n'est pas encore définie",
+      "voir quelqu'un se faire exclure ou moquer dans un groupe",
+      "entendre une raillerie — même légère, même non dirigée contre lui",
+      "croiser un ancien harceleur ou retourner dans un lieu lié à cette période",
+      "se voir dans une photo ou un miroir d'une manière qui rappelle ce qui était moqué",
+      "un groupe qui rit à son insu, même pour une raison sans rapport avec lui"
+    ],
+    "cheminsVersResolution": [
+      "faire l'expérience d'un groupe bienveillant et stable qui l'accueille tel qu'il est, sur la durée",
+      "nommer l'expérience du harcèlement à quelqu'un qui la prend au sérieux — pas minimiser, pas consoler trop vite",
+      "retrouver dans son corps une sensation de fierté ou de compétence — sport, art, travail — qui n'existait pas pendant le harcèlement",
+      "comprendre que les harceleurs portaient eux aussi une souffrance — non pour les excuser, mais pour désacraliser leur verdict",
+      "accompagner ou protéger quelqu'un dans une situation similaire, et transformer la blessure en compétence"
+    ],
+    "impactRelationnel": [
+      "difficulté à trouver sa place dans les groupes d'adultes — collègues, associations, cercles amicaux",
+      "peut choisir des relations one-to-one profondes plutôt que des cercles sociaux étendus",
+      "grande sensibilité aux signes d'exclusion, même involontaires — peut sur-interpréter une invitation oubliée",
+      "loyauté intense envers les personnes qui l'ont soutenu pendant ou après le harcèlement",
+      "peut devenir un défenseur des personnes vulnérables ou marginalisées, parfois de manière compulsive",
+      "difficulté à croire que la popularité ou l'estime des autres est durable ou authentique"
+    ],
+    "notesEditoriales": [
+      "Le harcèlement scolaire agit comme un miroir déformant pendant la période où l'identité se construit — ce qui le distingue d'autres formes de rejet. Le personnage a souvent internalisé le verdict du groupe comme une réalité, pas comme une injustice.",
+      "Éviter le récit de rédemption trop propre : le harcelé qui devient fort, admiré, et qui pardonne. La vraie blessure est plus complexe et plus longue à cicatriser.",
+      "La question des témoins silencieux — ceux qui ont vu et n'ont rien fait — est souvent aussi douloureuse que le harcèlement lui-même, et mérite d'être explorée.",
+      "Le harcèlement numérique génère une blessure légèrement différente car il n'a pas de frontière spatio-temporelle : il envahissait aussi l'espace domestique, qui aurait dû être un refuge."
+    ]
+  },
+  {
+    "id": "addiction-proche",
+    "label": "Grandir avec un proche en addiction",
+    "famille": "abandon",
+    "definitionCourte": "Le personnage a grandi dans une famille où un parent ou un frère ou une sœur était en proie à une addiction grave — alcool, drogues, jeu. L'addiction d'un proche structure l'enfance autour de l'imprévisibilité et de la honte : le foyer devient un espace où les règles changent sans prévenir, où il faut surveiller pour survivre, et où la souffrance n'est jamais tout à fait nommée.",
+    "originesPossibles": [
+      "père ou mère alcoolique avec des phases d'agressivité et des phases de repentir",
+      "parent dépendant aux médicaments, absents tout en étant physiquement présents",
+      "frère ou sœur en addiction dont la prise en charge a mobilisé toute l'énergie familiale",
+      "parent en addiction au jeu, avec des cycles de ruine et de faux espoir",
+      "foyer où l'addiction était un secret honteux que tous devaient protéger vers l'extérieur",
+      "parent en rémission fragile, avec des rechutes imprévisibles qui maintenaient la tension",
+      "entourage qui normalisait ou excusait l'addiction, laissant l'enfant seul avec sa peur"
+    ],
+    "croyancesNegativesInduites": [
+      "Les personnes que j'aime me déçoivent — c'est une question de temps.",
+      "Je suis responsable de l'état émotionnel des autres.",
+      "Si je fais assez bien les choses, peut-être que cela s'arrangera.",
+      "Ce qui se passe à la maison ne se dit pas dehors.",
+      "L'amour et la peur sont souvent la même chose.",
+      "Ma propre douleur passe après la douleur des autres.",
+      "Je dois anticiper les humeurs et les crises pour éviter l'explosion."
+    ],
+    "peursCentrees": [
+      "la peur de l'imprévisibilité : ne jamais savoir ce qu'il va trouver en rentrant",
+      "la peur de devenir soi-même dépendant d'une substance ou d'un comportement",
+      "la peur que les gens de l'extérieur ne découvrent ce qui se passe vraiment chez lui",
+      "la peur de s'attacher à quelqu'un qui va disparaître dans l'addiction",
+      "la peur d'avoir besoin des autres et de les voir défaillir"
+    ],
+    "comportementsDefensifs": [
+      "hypervigilance permanente : lit les signaux d'humeur avant même d'entrer dans une pièce",
+      "assume le rôle du 'parent de ses parents' — gère, répare, anticipe, protège",
+      "minimise sa propre douleur et ses propres besoins comme une réponse automatique",
+      "peut développer une relation de codépendance dans ses relations adultes — besoin de 'sauver' ou d'être sauvé",
+      "contrôle excessif de son propre environnement pour compenser l'enfance chaotique",
+      "abstinence totale ou à l'inverse rapport anxieux à toute substance, même anodine",
+      "humour auto-dépréciatif sur son enfance pour éviter d'avoir à la raconter vraiment"
+    ],
+    "conflitsInternesTypiques": [
+      "aime le proche en addiction et lui en veut en même temps — sans pouvoir réconcilier les deux",
+      "se sent responsable de la rechute ou de la guérison, même sans raison rationnelle",
+      "peut idéaliser les 'bonnes périodes' de l'addiction et les utiliser pour excuser les mauvaises",
+      "ressent de la honte envers son enfance mais aussi de la culpabilité de cette honte",
+      "oscille entre le besoin de fuir ce passé et l'impossibilité de le laisser derrière lui"
+    ],
+    "manifestationsPhysiques": [
+      "hypervigilance sensorielle : réaction aux odeurs d'alcool, de cigarette ou aux sons associés à l'addiction",
+      "tension dans tout le corps lors de tout conflit, même léger — réaction disproportionnée apprise très tôt",
+      "difficultés de sommeil liées à l'habitude d'une vigilance nocturne dans l'enfance",
+      "réaction de gel ou de soumission face à une personne en état d'agitation ou sous l'influence",
+      "estomac noué dans les situations imprévisibles, même positives",
+      "épuisement chronique lié à l'effort de contrôle et d'anticipation"
+    ],
+    "declencheurs": [
+      "une odeur d'alcool ou de drogue dans un espace social",
+      "une personne en état d'ivresse ou sous influence dans son entourage",
+      "quelqu'un qui lui parle de son enfance sans savoir ce qu'il y a derrière",
+      "une dispute dont le ton ou l'intensité rappelle le foyer d'enfance",
+      "une situation imprévisible où il ne contrôle pas ce qui va se passer",
+      "voir quelqu'un perdre le contrôle de lui-même — même pour une raison positive"
+    ],
+    "cheminsVersResolution": [
+      "reconnaître qu'il n'était pas responsable de l'addiction du proche — et que ce n'était pas son rôle de le sauver",
+      "expérimenter une relation stable et prévisible qui lui montre qu'il n'a pas à être constamment en alerte",
+      "nommer la honte de son enfance dans un espace sûr, sans minimiser ni catastrophiser",
+      "construire une relation à lui-même — ses besoins, ses désirs — qui ne soit pas définie par les besoins des autres",
+      "découvrir que demander de l'aide ne provoque pas de désastre — expérience à répéter jusqu'à l'intégration"
+    ],
+    "impactRelationnel": [
+      "tendance à choisir des partenaires qui ont besoin d'être sauvés — terrain familier",
+      "difficultés à recevoir de la tendresse non méritée, non négociée, non conditionnée",
+      "peut devenir le pilier émotionnel de ses relations, épuisant une énergie qui lui revient",
+      "grand sens de l'empathie et de la lecture des humeurs — don acquis au prix d'une vigilance constante",
+      "peut fuir dès que quelqu'un montre une vulnérabilité qui ressemble à celle du proche en addiction",
+      "relation ambivalente avec les groupes de soutien — AA, Al-Anon — qui réactivent ce qu'il a vécu"
+    ],
+    "notesEditoriales": [
+      "Cette blessure produit souvent des personnages extrêmement fonctionnels et compétents en surface, ce qui la rend difficile à repérer. La tension est entre ce qu'ils donnent aux autres et ce qu'ils ne se permettent pas pour eux-mêmes.",
+      "La codépendance apprise dans l'enfance est un moteur narratif puissant : le personnage attire ou choisit des situations qui reproduisent la dynamique du foyer. Pas par masochisme, mais par familiarité.",
+      "Distinguer la blessure de celle causée par un parent violent ou absent : ici, l'addiction crée une présence douloureusement inconstante — parfois aimant, parfois monstrueux — ce paradoxe est le cœur de la blessure.",
+      "Éviter de faire du proche en addiction un simple antagoniste : les enfants de personnes en addiction aiment souvent leur parent de manière profonde et complexe. C'est cet amour qui rend la blessure si difficile à nommer."
+    ]
+  },
+  {
+    "id": "violence-conjugale-temoin",
+    "label": "Témoin de violence conjugale",
+    "famille": "violence",
+    "definitionCourte": "Le personnage a grandi dans un foyer où la violence entre les parents — physique, verbale ou psychologique — était une réalité régulière ou occasionnelle. Être témoin et non victime directe ne diminue pas la blessure : l'enfant qui regarde, écoute ou devine subit une violence par procuration dont les effets sont souvent aussi durables que ceux de la violence directe.",
+    "originesPossibles": [
+      "foyer où le père exerçait une violence physique répétée sur la mère",
+      "violence psychologique — humiliation, contrôle, isolement — dont l'enfant était le témoin silencieux",
+      "disputes nocturnes entendues derrière les cloisons, sans jamais pouvoir intervenir",
+      "enfant qui jouait le rôle de médiateur ou de bouclier entre les parents",
+      "violence exercée par la mère sur le père — moins représentée mais tout aussi traumatisante",
+      "violence relationnelle visible mais niée par les deux parents, rendant la réalité de l'enfant invisible",
+      "foyer où la tension permanente était plus destructrice que les explosions elles-mêmes"
+    ],
+    "croyancesNegativesInduites": [
+      "Le couple est un espace dangereux, gouverné par la domination d'un sur l'autre.",
+      "Je suis impuissant face à la souffrance de ceux que j'aime.",
+      "L'amour et la douleur sont toujours mêlés.",
+      "Si je reste invisible et sage, peut-être que ça s'arrêtera.",
+      "Mes émotions sont sans importance dans une situation de crise réelle.",
+      "Je suis partiellement responsable de ne pas avoir su arrêter ça.",
+      "La normalité que les autres ont est inaccessible pour moi."
+    ],
+    "peursCentrees": [
+      "la peur de reproduire la violence dans ses propres relations",
+      "la peur d'être dominé ou de dominer — les deux pôles sont également terrifiants",
+      "la peur que le conflit dans une relation mène inévitablement à la violence",
+      "la peur d'être impuissant face à la souffrance d'un proche, comme il l'était enfant",
+      "la peur que ses enfants vivent ce qu'il a vécu"
+    ],
+    "comportementsDefensifs": [
+      "évite tout conflit ouvert dans ses relations, même légitime",
+      "peut choisir des relations très contrôlées où la tension n'existe pas — mais l'intimité non plus",
+      "hypervigilance envers les signes avant-coureurs de tension dans un couple ou un espace familial",
+      "peut prendre instinctivement le rôle du médiateur ou du protecteur dans les conflits d'autrui",
+      "peut à l'inverse reproduire une dynamique de domination ou de soumission comme seul modèle connu",
+      "difficulté à poser des limites car les limites, dans son enfance, n'ont jamais été respectées",
+      "peut banaliser des comportements violents dans ses propres relations car ils semblent familiers"
+    ],
+    "conflitsInternesTypiques": [
+      "protège le parent victime dans sa mémoire mais lui en veut parfois de ne pas être parti",
+      "colère contre le parent violent mais aussi souvenir de moments d'amour qui rendent la condamnation impossible",
+      "désire un amour calme et stable mais ne sait pas y croire ni comment l'habiter",
+      "peut avoir honte de son enfance tout en défendant instinctivement sa famille face aux autres",
+      "oscillation entre la tentation de fuir tout engagement intime et le besoin profond d'appartenir à quelqu'un"
+    ],
+    "manifestationsPhysiques": [
+      "réaction de gel ou de recul lors de gestes brusques dans un espace intime",
+      "corps qui se prépare à l'impact lors des situations de tension, même verbale",
+      "maux d'estomac ou de tête récurrents avant les situations potentiellement conflictuelles",
+      "vigilance permanente aux sons, aux tonalités de voix, aux changements d'humeur dans un espace partagé",
+      "difficultés de sommeil dans les foyers perçus comme instables",
+      "somatisation du conflit non exprimé — tensions musculaires, douleurs dorsales"
+    ],
+    "declencheurs": [
+      "une dispute entre partenaires à portée de voix ou de vue",
+      "un homme ou une femme qui élève la voix dans un espace domestique",
+      "des bruits de dispute entendus chez des voisins",
+      "voir quelqu'un se courber ou se soumettre face à la colère d'un proche",
+      "une relation romantique naissante qui atteint sa première dispute",
+      "des films ou récits représentant la violence conjugale de manière réaliste"
+    ],
+    "cheminsVersResolution": [
+      "faire l'expérience d'un conflit qui se résout sans violence — et que cette expérience se répète jusqu'à devenir crédible",
+      "nommer ce qu'il a vécu comme une réalité, pas comme un secret ou une honte familiale",
+      "apprendre à distinguer le conflit sain de la violence — et à croire que le premier est possible",
+      "comprendre qu'il n'était pas responsable de protéger ses parents ni de les sauver",
+      "trouver dans un espace thérapeutique ou intime la permission d'exprimer la colère qu'il a retenue depuis l'enfance"
+    ],
+    "impactRelationnel": [
+      "peut choisir des partenaires qui ressemblent au parent violent ou au parent victime — les deux patterns sont possibles",
+      "difficulté à distinguer une relation saine d'une relation toxique car le modèle de référence était faussé",
+      "peut devenir un partenaire extraordinairement attentif et doux — par peur de reproduire — mais aussi se perdre dans ce rôle",
+      "réaction intense aux disputes même bénignes de ses proches ou de ses enfants",
+      "peut être attiré par des travaux liés à la protection — justice, social, soins — comme forme de réparation symbolique",
+      "difficulté à recevoir de la colère directe sans l'interpréter comme une menace physique imminente"
+    ],
+    "notesEditoriales": [
+      "Le témoin de violence conjugale est souvent oublié dans les récits qui se concentrent sur la victime directe. Écrire ce personnage, c'est donner de la visibilité à une expérience très répandue et très peu nommée.",
+      "La complexité narrativede ce personnage est dans l'amour qu'il a pour les deux parents : il ne s'agit pas d'un bourreau et d'une victime dans des rôles fixes, mais de deux personnes aimées dont l'une a blessé l'autre — et dont lui portait les deux.",
+      "Éviter la résolution simple par la confrontation : le personnage peut ne jamais parler à ses parents de ce qu'il a vécu et trouver malgré tout un chemin vers une vie saine. La résolution peut passer par des relations présentes, pas par le passé.",
+      "Ce personnage apprend souvent très tôt à lire les émotions non exprimées avec une acuité remarquable — don amer qui peut devenir une qualité narrative remarquable."
+    ]
+  },
+  {
+    "id": "accomplissement-non-reconnu",
+    "label": "Accomplissement jamais reconnu",
+    "famille": "rejet",
+    "definitionCourte": "Le personnage a travaillé dur, accompli, créé, construit — et n'a jamais été vu. La blessure n'est pas celle de l'échec : c'est celle de l'invisibilité du succès. Ce qui fait mal n'est pas d'avoir raté, mais d'avoir réussi sans que personne ne le remarque, ou en voyant la reconnaissance aller systématiquement ailleurs.",
+    "originesPossibles": [
+      "enfant dont les résultats scolaires excellents n'étaient jamais commentés, tandis que les erreurs l'étaient",
+      "travail professionnel repris, présenté ou valorisé par un supérieur sans mention de sa contribution",
+      "création artistique ou intellectuelle ignorée ou attribuée à quelqu'un d'autre",
+      "rôle de soutien essentiel dans une famille ou un groupe, jamais nommé ni remercié",
+      "efforts répétés pour être au niveau d'une attente familiale jamais explicitement satisfaite",
+      "réussites effacées par un événement extérieur ou par la réussite simultanée d'un autre",
+      "environnement professionnel où le mérite était structurellement sous-évalué pour certains groupes"
+    ],
+    "croyancesNegativesInduites": [
+      "Ce que je fais n'a de valeur que si quelqu'un d'autre le valide.",
+      "Je peux disparaître sans que personne ne s'en rende compte.",
+      "Travailler plus ne sert à rien — la reconnaissance obéit à d'autres lois que le mérite.",
+      "Il y a quelque chose en moi qui rend invisible, même quand je suis en pleine lumière.",
+      "Je compte moins que les autres, structurellement.",
+      "Réussir seul ne suffit pas — si les autres ne le voient pas, ça n'existe pas.",
+      "Je fais confiance à mon travail, mais pas à ce que les autres en feront."
+    ],
+    "peursCentrees": [
+      "la peur de disparaître dans l'indifférence après avoir tout donné",
+      "la peur que ses contributions soient à nouveau effacées ou volées",
+      "la peur de demander de la reconnaissance et d'essuyer un refus ou une indifférence",
+      "la peur de s'arrêter — car s'il ne travaille plus, il n'existe plus",
+      "la peur que ce qu'il perçoit comme une réussite ne soit finalement pas si bon"
+    ],
+    "comportementsDefensifs": [
+      "documente obsessionnellement son travail pour prévenir toute appropriation",
+      "peut devenir excessivement modeste pour ne pas risquer une déception de plus",
+      "peut à l'inverse revendiquer ses mérites de manière qui dérange les autres, perçue comme arrogante",
+      "surinvestit le travail comme seule preuve de valeur — workaholic fonctionnel",
+      "cherche des domaines de reconnaissance alternative quand le principal est bouché",
+      "peut saboter ses propres projets avant qu'ils ne soient jugés — pour ne pas subir l'indifférence",
+      "développe une sensibilité aux signes de reconnaissance même minimes — un remerciement, un regard"
+    ],
+    "conflitsInternesTypiques": [
+      "a besoin de reconnaissance mais se méfie de celle qu'on lui accorde — peut-elle être sincère ?",
+      "est fier de son travail mais ne sait pas comment exister socialement autour de lui",
+      "ressent de la colère contre ceux qui ont bénéficié de sa contribution invisible, mais n'ose pas la formuler",
+      "oscille entre le désir de visibilité et la conviction que vouloir être vu est une forme de vanité indigne",
+      "peut se demander si son travail vaut vraiment quelque chose ou si son besoin de reconnaissance le déforme"
+    ],
+    "manifestationsPhysiques": [
+      "sourire contraint lors des éloges adressés à quelqu'un d'autre pour un travail dont il a été l'artisan",
+      "tension dans les épaules dans les situations de présentation ou d'évaluation",
+      "difficulté à recevoir un compliment sans le déflexion ou le minimiser immédiatement",
+      "fatigue émotionnelle lors des bilans professionnels ou familiaux où ses contributions ne sont pas nommées",
+      "regard qui cherche inconsciemment la confirmation dans les visages après avoir partagé quelque chose",
+      "plaisir physique rare mais intense lors des moments de reconnaissance sincère"
+    ],
+    "declencheurs": [
+      "voir quelqu'un d'autre recevoir un prix, une promotion ou une reconnaissance pour un travail similaire",
+      "présenter un projet et observer l'indifférence ou le silence",
+      "entendre ses propres idées répétées par quelqu'un d'autre sans mention de sa source",
+      "une réunion ou événement où il n'est pas présenté ou présenté de manière inexacte",
+      "un proche qui dit 'c'était bien' sans rien de plus",
+      "des anniversaires ou bilans qui passent sans que ses réussites de l'année ne soient remarquées"
+    ],
+    "cheminsVersResolution": [
+      "recevoir une reconnaissance sincère, tardive mais explicite, de quelqu'un qui comptait — et laisser cette réparation avoir lieu",
+      "construire une relation à son travail qui ne soit pas uniquement tributaire du regard des autres",
+      "nommer l'invisibilité vécue à quelqu'un de confiance, sans honte, comme une réalité objective",
+      "trouver un espace — artistique, associatif, communautaire — où sa contribution est véritablement nommée et voulue",
+      "distinguer la validation externe (nécessaire mais insuffisante) de l'estime interne (à construire)"
+    ],
+    "impactRelationnel": [
+      "peut surinvestir les relations où il est enfin reconnu, au risque de les étouffer",
+      "sensibilité aux gestes de remerciement ou de reconnaissance des partenaires — les retient longtemps, les chérit",
+      "peut développer du ressentiment envers des proches qui ne voient pas ce qu'il fait pour eux",
+      "tendance à se sentir invisible dans les groupes, même quand ce n'est pas le cas",
+      "dans une relation de couple, besoin d'être nommé, choisi, rendu visible — de manière parfois intense",
+      "amitié durable avec les personnes qui ont dit, une fois, 'j'ai vu ce que tu as fait — c'était bien'"
+    ],
+    "notesEditoriales": [
+      "Cette blessure est particulièrement courante dans les personnages qui ont grandi dans des familles où l'affect était peu exprimé, ou dans des environnements professionnels structurellement inégaux. Elle génère rarement de la rage — plutôt un épuisement silencieux.",
+      "Le paradoxe narratif de ce personnage : il peut être objectivement très compétent et reconnu par les autres, tout en ne parvenant pas à intégrer cette reconnaissance. La blessure n'est pas dans la réalité externe mais dans la réalité interne.",
+      "Distinguer de la comparaison fraternelle : ici, la blessure porte sur l'invisibilité absolue, pas sur le fait d'être moins bien que quelqu'un. Ce n'est pas 'il est meilleur que moi', c'est 'je n'existe pas dans le regard des autres'.",
+      "Ce personnage peut être un narrateur extraordinairement attentif aux autres — car il a appris à voir ce que les autres ne voient pas, comme personne n'a su voir ce qu'il faisait."
+    ]
+  }
+]
