@@ -1,5 +1,6 @@
 package com.scriptor.api.modules.publisher;
 
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
@@ -22,7 +23,7 @@ public class PublisherController {
      * adapté à la maison d'édition ciblée.
      */
     @PostMapping("/generate")
-    public CompletableFuture<PublisherGenerateResponse> generate(@RequestBody PublisherGenerateRequest request) {
+    public CompletableFuture<PublisherGenerateResponse> generate(@Valid @RequestBody PublisherGenerateRequest request) {
         log.info("POST /publisher/generate — type={}, éditeur={}",
                 request.getDocumentType(), request.getPublisherNom());
         return publisherService.generate(request);

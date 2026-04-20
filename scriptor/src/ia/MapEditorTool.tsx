@@ -10,6 +10,7 @@ export const MapEditorTool: React.FC = () => {
 
   useEffect(() => {
     setLoading(true);
+    setError(null);
     apiClient.get('/map/data')
       .then(data => setMapData(JSON.stringify(data, null, 2)))
       .catch(() => setError("Erreur de chargement de la carte."))
@@ -24,8 +25,12 @@ export const MapEditorTool: React.FC = () => {
       const parsed = JSON.parse(mapData);
       await apiClient.post('/map/data', parsed);
       setSuccessMessage('Données géographiques sauvegardées avec succès.');
-    } catch {
-      setError("Erreur : Le format JSON est invalide.");
+    } catch (err: any) {
+      if (err instanceof SyntaxError) {
+        setError("Erreur : Le format JSON est invalide.");
+      } else {
+        setError(err?.message || "Erreur lors de la sauvegarde de la carte.");
+      }
     } finally {
       setSaving(false);
     }

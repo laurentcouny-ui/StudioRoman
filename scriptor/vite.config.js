@@ -67,11 +67,14 @@ function cspDevRelaxPlugin() {
 
 // https://vite.dev/config/
 export default defineConfig(({ mode }) => {
-  const env = loadEnv(mode, process.cwd(), '')
+  // Toujours charger `.env` depuis le dossier de `vite.config.js` (évite cwd incorrect sous Tauri / npm).
+  const env = loadEnv(mode, __dirname, '')
   // Préférer 127.0.0.1 (et pas "localhost") pour éviter des résolutions IPv6 (::1) incohérentes sous Windows.
   const apiProxyTarget = (env.VITE_DEV_API_PROXY_TARGET || 'http://127.0.0.1:8080').replace(/\/$/, '')
 
   return {
+  root: __dirname,
+  envDir: __dirname,
   // Empêche Vite d'effacer le terminal lors des hot-reloads en mode `tauri dev`.
   clearScreen: false,
   define: {
@@ -86,7 +89,7 @@ export default defineConfig(({ mode }) => {
   },
   plugins: [react(), cspDevRelaxPlugin(), faviconMimePlugin()],
   server: {
-    // `npm run dev` (navigateur) : 5173. `npm run vite:dev:1420` force 1420 (voir package.json) pour éviter le conflit si 5173 est déjà pris.
+    // `npm run dev` (navigateur) : 5173. Tauri dev : port 14230 (voir package.json `vite:dev:1420`, évite conflits avec un ancien processus sur 1420).
     port: 5173,
     strictPort: true,
     proxy: {

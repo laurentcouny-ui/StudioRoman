@@ -1,5 +1,6 @@
 package com.scriptor.api.modules.resume;
 
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
@@ -19,7 +20,7 @@ public class ResumeSessionController {
     private final ResumeSessionService resumeSessionService;
 
     @PostMapping("/generate")
-    public CompletableFuture<ResumeSessionResponse> generateResumeSheet(@RequestBody ResumeSessionRequest request) {
+    public CompletableFuture<ResumeSessionResponse> generateResumeSheet(@Valid @RequestBody ResumeSessionRequest request) {
         log.info("Requête REST reçue : /resume/generate (Ton: {})", request.getTone());
         return resumeSessionService.generateResumeSheet(request);
     }

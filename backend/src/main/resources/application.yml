@@ -33,10 +33,18 @@ spring:
     # Hibernate 6 : le dialecte SQLite est dans hibernate-community-dialects
     database-platform: org.hibernate.community.dialect.SQLiteDialect
     hibernate:
-      ddl-auto: update # Crée ou met à jour les tables automatiquement
+      ddl-auto: ${SCR_JPA_DDL_AUTO:update} # Permet de passer en validate/none selon l'environnement
+  flyway:
+    enabled: true
+    baseline-on-migrate: true
+    baseline-version: 0
+    validate-on-migrate: true
+    locations: classpath:db/migration
 
 # Configuration du serveur web embarqué
 server:
+  # Desktop/local-first: limiter l'exposition réseau par défaut au loopback.
+  address: ${SCR_SERVER_ADDRESS:127.0.0.1}
   port: 8080
   tomcat:
     threads:
@@ -46,6 +54,27 @@ server:
 # Variables d'environnement personnalisées pour Scriptor IA
 # Chemins relatifs au dossier backend/ (mvn spring-boot:run) — config/ à la racine du monorepo
 scriptor:
+  api:
+    # Garde-fou L1: refuser /api/** hors loopback.
+    loopback-only: ${SCR_API_LOOPBACK_ONLY:true}
+    # Optionnel (L1 auth locale) : activer un jeton partagé sur toutes les routes /api/** (sauf /api/health).
+    require-token: ${SCR_API_REQUIRE_TOKEN:false}
+    token: ${SCR_API_TOKEN:}
+    rate-limit:
+      enabled: ${SCR_API_RATE_LIMIT_ENABLED:true}
+      # Limite pour requêtes mutantes (/api/v1/ia/** hors GET/HEAD/OPTIONS).
+      max-requests: ${SCR_API_RATE_LIMIT_MAX_REQUESTS:120}
+      window-seconds: ${SCR_API_RATE_LIMIT_WINDOW_SECONDS:60}
+      heavy:
+        # Endpoints "lourds" (LLM) avec budget plus strict.
+        max-requests: ${SCR_API_RATE_LIMIT_HEAVY_MAX_REQUESTS:30}
+        window-seconds: ${SCR_API_RATE_LIMIT_HEAVY_WINDOW_SECONDS:60}
+        prefixes: ${SCR_API_RATE_LIMIT_HEAVY_PREFIXES:/api/v1/ia/resume,/api/v1/ia/analysis,/api/v1/ia/challenges}
+      very-heavy:
+        # Endpoints les plus coûteux (ex: résumé de chapitre).
+        max-requests: ${SCR_API_RATE_LIMIT_VERY_HEAVY_MAX_REQUESTS:20}
+        window-seconds: ${SCR_API_RATE_LIMIT_VERY_HEAVY_WINDOW_SECONDS:60}
+        prefixes: ${SCR_API_RATE_LIMIT_VERY_HEAVY_PREFIXES:/api/v1/ia/summary}
   # Activer le service du frontend embarqué (désactiver en test : voir src/test/resources/application.yml)
   spa:
     enabled: true
@@ -71,7 +100,14 @@ scriptor:
       # Préférer 127.0.0.1 : sur Windows, "localhost" peut résoudre en IPv6 (::1) alors qu'Ollama
       # écoute souvent uniquement sur IPv4 (127.0.0.1), ce qui donne un faux "service éteint".
       url: ${SCR_OLLAMA_URL:http://127.0.0.1:11434}
-      model: ${SCR_OLLAMA_MODEL:qwen2.5:3b}
+      model: ${SCR_OLLAMA_MODEL:qwen2.5:7b}
+      # Fenêtre de contexte (tokens) envoyée à Ollama. Le défaut Ollama est 2048, ce qui provoque
+      # des troncatures silencieuses et des hallucinations sur les chapitres longs.
+      # qwen2.5:3b supporte jusqu'à 32 768 tokens ; 8192 est un bon équilibre RAM/qualité.
+      num-ctx: ${SCR_OLLAMA_NUM_CTX:8192}
+      # Température basse = réponses factuelles et fidèles au texte (0.0-0.3 recommandé pour résumés).
+      # Défaut Ollama = 0.8 (créatif), ce qui provoque des inventions/hallucinations.
+      temperature: ${SCR_OLLAMA_TEMPERATURE:0.1}
 
 logging:
   level:

@@ -2,6 +2,9 @@
 
 Ce guide explique **étape par étape** comment obtenir les clés pour connecter Scriptor à votre Google Drive ou Dropbox. Une seule des deux suffit si vous ne voulez qu’un service.
 
+- **Tutoriel sur le site Dropbox** (console développeur, App key, Redirect URIs, permissions) : **[TUTORIEL-SITE-DROPBOX.md](./TUTORIEL-SITE-DROPBOX.md)**  
+- **Tutoriel app bureau** (flux Tauri + navigateur, connexion Google) : **[TUTORIEL-DROPBOX-APP-BUREAU.md](./TUTORIEL-DROPBOX-APP-BUREAU.md)**
+
 ---
 
 ## C’est gratuit — pas de paiement
@@ -15,9 +18,17 @@ Vous ne payez rien à Google ni à Dropbox pour cette configuration.
 
 ## Avant de commencer
 
-**Important — Port fixe :** Scriptor est configuré pour **toujours** tourner sur le port **5173**. Vous devez donc utiliser **uniquement** **`http://localhost:5173`** et **`http://localhost:5173/`** dans Google Cloud et Dropbox (pas 5174, 5175, etc.). Si vous aviez configuré un autre port (par ex. 5175) parce que l’app s’ouvrait dessus avant, **modifiez** les URI dans Google et Dropbox pour mettre **5173** à la place, puis réessayez.
+**Important — Selon la façon dont vous lancez l’app, l’URL de redirection OAuth change :**
 
-Vous allez créer un petit fichier texte nommé **`.env`** dans le dossier **`scriptor`**. Ce fichier contiendra vos clés (Google et/ou Dropbox). L’application les lit au démarrage. **Sans ce fichier, les boutons « Connecter Google Drive » et « Connecter Dropbox » ne peuvent pas fonctionner.**
+| Mode | Commande typique | À ajouter dans Google Cloud **et** Dropbox (Redirect URIs) |
+|------|------------------|------------------------------------------------------------|
+| **Navigateur** (Vite seul) | `npm run dev` | `http://localhost:5173` et `http://localhost:5173/` |
+| **Application Tauri** (bureau, dev) | `npm run dev:tauri` | `http://localhost:14230/` (et sans slash final si la console l’exige : `http://localhost:14230`) |
+| **Build installable Tauri** | appli packagée | `https://tauri.localhost/` (voir `.env.example`) |
+
+Sur un **nouveau PC**, copiez le fichier **`.env`** de l’ancienne machine (dossier `scriptor`) **ou** recréez-le : sans **`VITE_GOOGLE_CLIENT_ID`** / **`VITE_DROPBOX_APP_KEY`**, la connexion ne peut pas fonctionner. Puis, dans Google Cloud et Dropbox, ajoutez les **URI qui correspondent au mode que vous utilisez** (souvent les trois : 5173, 14230, et tauri.localhost si vous testez aussi le build).
+
+Vous allez utiliser un petit fichier texte nommé **`.env`** dans le dossier **`scriptor`**. Ce fichier contiendra vos clés (Google et/ou Dropbox). L’application les lit au **build** Vite (redémarrage `npm run dev` / `dev:tauri` nécessaire après modification). **Sans clés valides, les boutons « Connecter Google Drive » et « Connecter Dropbox » refusent ou échouent.**
 
 ---
 
@@ -96,12 +107,15 @@ Le fichier **`.env`** est un **fichier texte ordinaire**. Son nom est exactement
    - Revenez ensuite dans **« Identifiants »** et recliquez sur **« + Créer des identifiants »** → **« ID client OAuth »**.
 5. Dans **« Type d’application »**, sélectionnez **« Application Web »**.
 6. Donnez un nom (ex. : **Scriptor Backup**).
-7. Dans **« URI de redirection autorisés »**, cliquez sur **« + Ajouter un URI »** et ajoutez **exactement** :
+7. Dans **« URI de redirection autorisés »**, ajoutez **chaque** ligne (une par « + Ajouter un URI ») :
    - `http://localhost:5173`
-   - puis **« + Ajouter un URI »** à nouveau et ajoutez aussi :
    - `http://localhost:5173/`
-8. Dans **« Origines JavaScript autorisées »**, cliquez sur **« + Ajouter un élément »** et ajoutez :
+   - `http://localhost:14230`
+   - `http://localhost:14230/`  *(obligatoire si vous utilisez l’app **Tauri** en dev : `npm run dev:tauri`)*
+   - Si vous testez le build bureau : `https://tauri.localhost/` (selon votre config)
+8. Dans **« Origines JavaScript autorisées »**, ajoutez au minimum :
    - `http://localhost:5173`
+   - `http://localhost:14230`
 9. Cliquez sur **« Créer »**.
 10. Une fenêtre s’ouvre avec **Votre ID client** et **Votre code secret**. Vous n’avez besoin **que de l’ID client** (une longue chaîne se terminant par `.apps.googleusercontent.com`).
 11. **Copiez l’ID client** (bouton « Copier » à côté ou sélectionnez tout et Ctrl+C).
@@ -164,12 +178,14 @@ Le fichier **`.env`** est un **fichier texte ordinaire**. Son nom est exactement
 
 1. Toujours dans **Settings**, descendez jusqu’à la section **« OAuth 2 »**.
 2. Sous **« Redirect URIs »**, cliquez sur **« Add »** (Ajouter).
-3. Saisissez **exactement** cette adresse, **sans espace, avec le slash final** :
-   - **`http://localhost:5173/`**
-   - Pas de `https`, pas de chemin en plus, pas de slash en trop : uniquement `http://localhost:5173/`.
-4. Cliquez sur **« Add »** puis **« Submit »** (Enregistrer) en bas de la page si nécessaire.
+3. Sous **Redirect URIs**, cliquez sur **Add** pour **chaque** URI (une ligne par bouton Add) :
+   - **`http://localhost:5173/`** — dev navigateur (`npm run dev`)
+   - **`http://localhost:14230/`** — **app Tauri en dev** (`npm run dev:tauri`) ; sans cette ligne, Dropbox échoue dans la fenêtre bureau alors que ça marchait dans le navigateur sur l’autre PC.
+   - **`http://127.0.0.1:17863/`** — **connexion Dropbox depuis l’app Tauri** : l’OAuth s’ouvre dans votre **navigateur par défaut** (pour que « Se connecter avec Google » sur dropbox.com fonctionne) ; le retour passe par ce port local. Sans cette ligne, erreur **Invalid redirect_uri** après connexion dans le navigateur.
+   - Dropbox exige souvent la **même** forme que l’app envoie : avec **/** final pour `localhost:14230/` comme pour `5173/`.
+4. Cliquez sur **« Submit »** (Enregistrer) en bas de la page.
 
-**En cas d’erreur « Invalid redirect_uri »** : Dropbox compare l’URI caractère pour caractère. Vérifiez dans **Redirect URIs** que vous avez bien **`http://localhost:5173/`** (avec le **/** à la fin). Si vous aviez mis `http://localhost:5173` sans slash, supprimez-la et ajoutez **`http://localhost:5173/`**.
+**En cas d’erreur « Invalid redirect_uri »** : l’URI dans Dropbox doit **correspondre exactement** à l’URL affichée dans la barre d’adresse de la webview au retour OAuth (origine + `/`). En doute, activez `VITE_OAUTH_DEBUG=1` dans `.env` et regardez la console.
 
 ## Étape 5 — Activer l’accès implicite (token) si demandé
 
@@ -383,16 +399,16 @@ VITE_DROPBOX_APP_KEY=votre_cle_dropbox
 
 - Vous pouvez ne mettre **qu’une seule** des deux lignes si vous n’utilisez qu’un service.
 - Pas d’espaces autour du **=**, pas de guillemets.
-- Après toute modification du `.env`, il faut **toujours** redémarrer avec **`npm run dev`**.
+- Après toute modification du `.env`, redémarrez le serveur (**`npm run dev`** ou **`npm run dev:tauri`**).
 
 ---
 
 # Dépannage rapide
 
-- **« J’avais configuré le port 5175 (ou un autre), maintenant ça ne marche plus »** : Scriptor est réglé pour utiliser **toujours le port 5173**. Dans **Google Cloud** (Identifiants → votre ID client → Origines et URI de redirection) et dans **Dropbox** (Settings → OAuth 2 → Redirect URIs), remplacez tout ce qui contient `localhost:5175` (ou 5174, etc.) par **`http://localhost:5173`** et **`http://localhost:5173/`**. Enregistrez, puis relancez Scriptor avec `npm run dev` et réessayez.
+- **« Ça marchait sur l’autre PC »** : copiez le fichier **`scriptor/.env`** (mêmes `VITE_GOOGLE_CLIENT_ID` et `VITE_DROPBOX_APP_KEY`). Puis dans **Google Cloud** et **Dropbox**, ajoutez les URI pour **ce** mode d’exécution : en dev **Tauri** (`npm run dev:tauri`), il faut **`http://localhost:14230/`** en plus de `5173` — sans quoi `redirect_uri_mismatch` ou `Invalid redirect_uri`.
 - **« Google Cloud / Dropbox est payant »** : pour *notre* usage (une clé OAuth + envoi vers *votre* Drive ou Dropbox), tout est gratuit. N’activez pas la facturation si on vous le propose ; vous n’en avez pas besoin.
 - **« Clé Google / Dropbox manquante »** : le fichier s’appelle bien **`.env`** (avec le point au début), il est dans le dossier **`scriptor`**, et vous avez redémarré `npm run dev` après l’avoir modifié.
-- **Google : « Erreur 400: redirect_uri_mismatch »** : l’URI dans Google Cloud doit être exactement `http://localhost:5173` (et éventuellement `http://localhost:5173/`) ; pas de faute de frappe, pas de https.
+- **Google : « Erreur 400: redirect_uri_mismatch »** : les URI enregistrées dans Google Cloud doivent inclure **l’origine réelle** de l’app : `http://localhost:5173` / `5173/` pour le navigateur, et **`http://localhost:14230` / `14230/`** pour l’app bureau en dev Tauri. Vérifiez qu’il n’y a pas de `https` sur du `localhost` en dev.
 - **Google : « Erreur 403 : access_denied » / « L’appli est en cours de test, seuls les testeurs approuvés… »** : votre application Google est en mode **Test**. Seuls les comptes que vous ajoutez comme **testeurs** peuvent se connecter. Pour corriger :
   1. Allez sur **https://console.cloud.google.com/** et sélectionnez votre projet (Scriptor).
   2. Menu **APIs et services** → **Écran de consentement OAuth** (ou **OAuth consent screen**).
@@ -400,5 +416,5 @@ VITE_DROPBOX_APP_KEY=votre_cle_dropbox
   4. Cliquez sur **« + ADD USERS »** (ou **Ajouter des utilisateurs**).
   5. Saisissez **l’adresse e-mail du compte Google** avec lequel vous (ou la personne concernée) voulez vous connecter à Scriptor (ex. `votre.email@gmail.com`), puis **Enregistrer**.
   6. Réessayez dans Scriptor : **Sauvegarde & sécurité** → **Connecter Google Drive**. La connexion doit fonctionner pour ce compte. Vous pouvez ajouter jusqu’à 100 utilisateurs de test. Pour une utilisation uniquement personnelle, ajouter votre propre adresse suffit.
-- **Dropbox : « Invalid redirect_uri »** : dans la console Dropbox (votre app → **Settings** → **OAuth 2** → **Redirect URIs**), vous devez avoir **exactement** **`http://localhost:5173/`** (avec le **/** à la fin). Pas `http://localhost:5173` sans slash, pas de faute de frappe. Modifiez ou ajoutez cette URI, enregistrez, puis réessayez « Connecter Dropbox ».
-- **Dropbox : la page ne revient pas dans Scriptor** : vérifiez que l’URI de redirection dans Dropbox (Settings → OAuth 2 → Redirect URIs) est bien **`http://localhost:5173/`** (avec le slash final).
+- **Dropbox : « Invalid redirect_uri »** : ajoutez **à la fois** `http://localhost:5173/`, `http://localhost:14230/` **et** `http://127.0.0.1:17863/` si vous utilisez l’app Tauri (navigateur + webview). La chaîne doit coller **exactement** à celle enregistrée (souvent avec **/** final).
+- **Dropbox : la page ne revient pas dans Scriptor** : même vérification d’URI ; en Tauri, l’origine est **`http://localhost:14230`**, pas 5173.

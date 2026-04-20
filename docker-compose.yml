@@ -3,6 +3,9 @@ services:
     build: .
     ports:
       - "8080:8080"
+    environment:
+      - SPRING_PROFILES_ACTIVE=prod
+      - SCR_JPA_DDL_AUTO=validate
     volumes:
       # Données et clés : persistantes sur la machine hôte
       - ./config:/app/config

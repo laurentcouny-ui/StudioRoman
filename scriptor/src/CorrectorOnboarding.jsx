@@ -1,44 +1,116 @@
 /**
- * Visite guidée 9 étapes — Brique 5 séquence 4 (première ouverture + replay depuis le Guide).
+ * Visite guidée enrichie (première ouverture + replay depuis le Guide).
  */
 import { useState } from 'react'
 
 const STEPS = [
   {
-    title: '1 — Choisir son mode',
-    body: 'Mode Simple : vous travaillez en silence ; peu de signaux jusqu’à « Analyser ». Simple strict : aucun signal visuel avant l’analyse. Expert : niveaux de confiance, styles, analyses détaillées. Vous pourrez changer de mode dans les paramètres du correcteur sous l’éditeur.',
+    title: '1 — Bienvenue dans Studio Roman',
+    body: 'Le didacticiel vous fait gagner du temps : où écrire, où structurer, où sauvegarder, et comment utiliser l’IA sans casser votre flux d’écriture.',
+    bullets: [
+      'Durée : environ 2 minutes',
+      'Vous pouvez le rejouer depuis l’onglet Guide',
+      'Il ne se relance pas à chaque ouverture après fermeture',
+    ],
   },
   {
-    title: '2 — Délai de grâce',
-    body: 'Le curseur « Grâce » (ms) définit après combien de temps d’inactivité les corrections silencieuses s’appliquent — ou au changement de paragraphe. Vous n’êtes pas interrompu pendant la frappe.',
+    title: '2 — Structure projet',
+    body: 'Le panneau gauche pilote toute la saga : tomes, chapitres, scènes. Commencez toujours par la structure avant les raffinements.',
+    bullets: [
+      'Une saga contient plusieurs tomes',
+      'Chaque tome contient chapitres et scènes',
+      'Les suppressions sont confirmées, mais restent sensibles',
+    ],
   },
   {
-    title: '3 — Les soulignements',
-    body: 'Trait net : faute très probable. Pointillés / micro-point : zone à vérifier. Violet : cohérence Bible, pas une faute grammaticale. Rien : Scriptor préfère se taire plutôt que d’affirmer à tort.',
+    title: '3 — Écriture quotidienne',
+    body: 'L’onglet Écriture est votre poste principal : texte, point de vue, statut, personnages présents, résumé interne.',
+    bullets: [
+      'Le compteur de mots est mis à jour automatiquement',
+      'Le mode focus masque le bruit visuel',
+      'Le panneau droit ouvre IA + thésaurus',
+    ],
   },
   {
-    title: '4 — La promesse',
-    body: 'Votre texte n’est pas envahi de soulignements sans votre accord. Par défaut le correcteur reste discret ; une analyse complète, c’est vous qui la demandez avec « Analyser ».',
+    title: '4 — Correcteur : philosophie',
+    body: 'Le correcteur est discret par défaut : vous gardez la main. Les analyses plus profondes se font au moment choisi, pas en vous interrompant.',
+    bullets: [
+      'Simple / Simple strict / Expert selon votre style',
+      'Analyser lance une passe complète contextualisée',
+      'Le mode Expert affiche les niveaux de confiance',
+    ],
   },
   {
-    title: '5 — Journal des Silencieuses',
-    body: 'L’icône plume (modes Simple / Expert) ouvre le journal : doubles espaces, typographie, etc. Badge de session, « Tout valider sauf… », et rétablir un paragraphe si besoin.',
+    title: '5 — Corrections et journal',
+    body: 'Les corrections silencieuses restent traçables : vous pouvez contrôler, annuler et rejouer les modifications appliquées.',
+    bullets: [
+      'Journal des silencieuses (icône plume)',
+      'Ctrl+Alt+Z annule, Ctrl+Alt+Y rétablit',
+      'Vous pouvez masquer les suggestions obsolètes',
+    ],
   },
   {
-    title: '6 — Correcteur premium (optionnel)',
-    body: 'Si vous avez une clé API Claude, Gemini ou ChatGPT, vous pourrez la connecter dans les paramètres avancés (voir le Guide) pour des explications ou pistes — jamais de correction automatique imposée.',
+    title: '6 — Bible, personnages, chronologie',
+    body: 'Ces onglets construisent la cohérence de votre univers. Plus ils sont à jour, plus les outils IA/correcteur deviennent utiles.',
+    bullets: [
+      'Bible : lore, règles, lieux, factions',
+      'Personnages : fiches complètes et relations implicites',
+      'Chronologie : repère les incohérences temporelles',
+    ],
   },
   {
-    title: '7 — Analyse profonde',
-    body: '« Analyser » lance LanguageTool, la base linguistique, le contexte (worker) et la Bible du projet : ligne temporelle, homophones, cohérence des noms.',
+    title: '7 — Carte du monde',
+    body: 'L’onglet Carte centralise image globale + lieux. Vous pouvez aussi utiliser le questionnaire avancé pour générer un superprompt de carte IA.',
+    bullets: [
+      'Carte globale + fiches de lieux',
+      'Questionnaire complet (géographie, échelle, biomes)',
+      'Superprompt prêt à coller dans un générateur d’images',
+    ],
   },
   {
-    title: '8 — Bible connectée',
-    body: 'Personnages et lieux alimentent le dictionnaire du correcteur. Deux graphies pour le même nom → alerte violette. Renommage dans la Bible : pensez à harmoniser le texte.',
+    title: '8 — STUDIO ROMAN IA',
+    body: 'Les outils IA (fiche de reprise, carte, défis, style) passent par le backend local. Vérifiez sa disponibilité en cas de message d’erreur.',
+    bullets: [
+      'Backend Java requis pour les modules IA',
+      'Ollama local possible pour une IA sans abonnement',
+      'Les messages d’erreur indiquent quoi relancer',
+    ],
   },
   {
-    title: '9 — Mémoire de style',
-    body: '« C’est mon style », indignation « choix de style » : Scriptor mémorise des préférences pour ce projet (profil de style). Plus vous l’utilisez, plus il vous ressemble.',
+    title: '9 — Sauvegarde en 3 niveaux',
+    body: 'La sécurité des manuscrits est prioritaire : sauvegarde locale navigateur/desktop, cloud, puis exports fichiers datés.',
+    bullets: [
+      'Niveau 1 : stockage local instantané',
+      'Niveau 2 : Google Drive / Dropbox périodique',
+      'Niveau 3 : export JSON sur disque (recommandé)',
+    ],
+  },
+  {
+    title: '10 — Dropbox et connexion Google',
+    body: 'Dans l’app desktop, la connexion Dropbox peut s’ouvrir dans le navigateur système pour fiabiliser “Se connecter avec Google”.',
+    bullets: [
+      'Ajoutez les URI de redirection requises dans Dropbox',
+      'Le guide détaille les cas 5173 / 14230 / 127.0.0.1:17863',
+      'En cas de doute, suivez le tutoriel Dropbox du Guide',
+    ],
+  },
+  {
+    title: '11 — Export, import, récupération',
+    body: 'Avant un changement majeur, exportez. En cas de souci, importez un backup JSON récent pour repartir rapidement.',
+    bullets: [
+      'Export manuscrit: DOCX / PDF / EPUB',
+      'Import texte possible en créant une nouvelle structure',
+      'Le backup JSON reste votre parachute principal',
+    ],
+  },
+  {
+    title: '12 — Personnaliser votre usage',
+    body: 'Vous pouvez adapter Scriptor à votre méthode : options .env, mode IA, niveau d’assistance, style de correction.',
+    bullets: [
+      'Réglez ce qui vous aide réellement',
+      'Ignorez ce qui vous distrait',
+      'Scriptor doit servir votre flux, pas l’inverse',
+    ],
   },
 ]
 
@@ -51,13 +123,20 @@ export default function CorrectorOnboarding({ onComplete, onClose, onGoWriting }
     <div className="corrector-onboarding-overlay" role="dialog" aria-modal="true" aria-labelledby="corrector-onb-title">
       <div className="corrector-onboarding-panel">
         <h2 id="corrector-onb-title" className="corrector-onboarding-title">
-          Bienvenue — le correcteur Scriptor
+          Bienvenue — Studio Roman
         </h2>
         <p className="corrector-onboarding-step">{s.title}</p>
         <p className="corrector-onboarding-body">{s.body}</p>
+        {Array.isArray(s.bullets) && s.bullets.length ? (
+          <ul className="corrector-onboarding-list">
+            {s.bullets.map((bullet) => (
+              <li key={bullet}>{bullet}</li>
+            ))}
+          </ul>
+        ) : null}
         {step === 0 && (
           <p className="corrector-onboarding-hint">
-            Astuce : ouvrez l’onglet <strong>Écriture</strong> pour voir la barre du correcteur en situation réelle.
+            Astuce : passez sur l’onglet <strong>Écriture</strong> dès maintenant pour suivre la visite en contexte.
           </p>
         )}
         <div className="corrector-onboarding-actions">
@@ -88,7 +167,7 @@ export default function CorrectorOnboarding({ onComplete, onClose, onGoWriting }
           )}
         </div>
         <p className="corrector-onboarding-footer">
-          Étape {step + 1} / {STEPS.length} — rejouer depuis le menu <strong>Guide</strong>.
+          Étape {step + 1} / {STEPS.length} — rejouer depuis <strong>Guide</strong>. Fermer marque ce didacticiel comme vu.
         </p>
       </div>
     </div>

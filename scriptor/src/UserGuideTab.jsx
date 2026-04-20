@@ -21,7 +21,7 @@ export default function UserGuideTab() {
               window.dispatchEvent(new CustomEvent('scriptor-replay-corrector-tour'))
             }
           >
-            Rejouer la visite guidée du correcteur
+            Rejouer le didacticiel de démarrage
           </button>
         </p>
       </header>
@@ -39,7 +39,10 @@ export default function UserGuideTab() {
             <a href="#guide-writing">Écriture</a>
           </li>
           <li>
-            <a href="#guide-ia">Scriptor IA — installation, Ollama, multi-utilisateurs</a>
+            <a href="#guide-onboarding">Didacticiel de démarrage</a>
+          </li>
+          <li>
+            <a href="#guide-ia">Studio Roman IA — installation, Ollama, multi-utilisateurs</a>
           </li>
           <li>
             <a href="#guide-bible">Bible</a>
@@ -229,16 +232,38 @@ export default function UserGuideTab() {
             s&apos;affiche au-dessus du thésaurus intégré.
           </li>
           <li>
-            <strong>SCRIPTOR IA</strong> : outils connectés à une <strong>API locale</strong> (résumé,
+            <strong>STUDIO ROMAN IA</strong> : outils connectés à une <strong>API locale</strong> (résumé,
             page blanche, défis, carte, style, etc.). Tout le détail — installation, Ollama, messages
             d&apos;erreur, usage à plusieurs — est dans le chapitre{' '}
-            <a href="#guide-ia">Scriptor IA — installation, Ollama, multi-utilisateurs</a>.
+            <a href="#guide-ia">Studio Roman IA — installation, Ollama, multi-utilisateurs</a>.
+          </li>
+        </ul>
+      </section>
+
+      <section id="guide-onboarding" className="user-guide-section">
+        <h2>Didacticiel de démarrage (au lancement)</h2>
+        <ul>
+          <li>
+            Le didacticiel s&apos;ouvre automatiquement à la <strong>première ouverture</strong> du logiciel
+            sur cet appareil, puis reste désactivé.
+          </li>
+          <li>
+            Si vous fermez le didacticiel, il est considéré comme « déjà vu » (il ne se relance pas à
+            chaque démarrage).
+          </li>
+          <li>
+            Vous pouvez le rejouer à tout moment via le bouton{' '}
+            <strong>Rejouer le didacticiel de démarrage</strong> en haut de ce guide.
+          </li>
+          <li>
+            Cette version couvre les bases complètes : structure, écriture, correcteur, IA, sauvegardes,
+            carte du monde et export.
           </li>
         </ul>
       </section>
 
       <section id="guide-ia" className="user-guide-section">
-        <h2>Scriptor IA — installation, Ollama, multi-utilisateurs</h2>
+        <h2>Studio Roman IA — installation, Ollama, multi-utilisateurs</h2>
         <p>
           Ce chapitre explique <strong>comment l&apos;intelligence artificielle est branchée</strong> dans
           Scriptor, ce que vous devez installer sur <strong>votre</strong> machine, et ce qu&apos;il faut
@@ -247,7 +272,7 @@ export default function UserGuideTab() {
 
         <h3>Ce que fait l&apos;IA dans Scriptor</h3>
         <p>
-          Les outils du panneau <strong>SCRIPTOR IA</strong> (côté écriture) s&apos;appuient sur un{' '}
+          Les outils du panneau <strong>STUDIO ROMAN IA</strong> (côté écriture) s&apos;appuient sur un{' '}
           <strong>programme séparé</strong> : l&apos;API Scriptor (backend Java). Cette API assemble les
           consignes, lit vos données de projet lorsque c&apos;est nécessaire, et envoie des requêtes à un{' '}
           <strong>moteur de langage</strong> (souvent <strong>Ollama</strong> en local, ou un service
@@ -430,8 +455,37 @@ export default function UserGuideTab() {
             Import d&apos;une <strong>image de carte</strong> pour votre monde.
           </li>
           <li>
-            <strong>Lieux</strong> : fiches (nom, notes, etc.) rattachées à la saga ; ajout /
-            suppression comme pour la chronologie.
+            <strong>Lieux</strong> : fiches détaillées rattachées à la saga (nom, description, image),
+            ajout / suppression comme pour la chronologie.
+          </li>
+          <li>
+            <strong>Questionnaire de génération de carte</strong> : vous renseignez portée, style, relief,
+            biomes, hydrographie, civilisations, distances, labels et contraintes.
+          </li>
+          <li>
+            <strong>Assistant pas à pas</strong> : version guidée en 5 étapes (vision, terrain,
+            civilisations, échelle simplifiée, finalisation), puis mode avancé si besoin.
+          </li>
+          <li>
+            <strong>Préconfigurations 1 clic</strong> : choisissez un preset (fantasy classique, dark
+            fantasy, low fantasy historique, SF planétaire) pour gagner du temps.
+          </li>
+          <li>
+            <strong>Barre d&apos;avancement</strong> : l&apos;onglet indique le pourcentage de questionnaire
+            rempli et les champs prioritaires encore manquants.
+          </li>
+          <li>
+            <strong>Échelle simplifiée (débutant)</strong> : choisissez juste la taille du monde
+            (royaume/continent/monde) et un temps de trajet type ; Scriptor convertit ça en repère de
+            distance compréhensible, sans formules.
+          </li>
+          <li>
+            Le module fabrique ensuite un <strong>superprompt</strong> prêt à coller dans un générateur
+            d&apos;images IA.
+          </li>
+          <li>
+            <strong>Sites proposés dans l&apos;onglet</strong> : Midjourney, Leonardo AI, Ideogram, avec
+            mini tutoriel et liens vers la documentation officielle.
           </li>
         </ul>
       </section>
@@ -507,7 +561,9 @@ export default function UserGuideTab() {
             <strong>Niveau 2 — Cloud</strong> : connexion <strong>Google Drive</strong> et/ou{' '}
             <strong>Dropbox</strong> (compte personnel) ; envoi automatique périodique d&apos;une
             sauvegarde complète. Option de <strong>chiffrement</strong> avec une phrase secrète (à ne pas
-            oublier). Bouton <strong>Envoyer maintenant</strong> pour forcer l&apos;upload.
+            oublier). Bouton <strong>Envoyer maintenant</strong> pour forcer l&apos;upload. Sur desktop,
+            la connexion Dropbox peut s&apos;ouvrir dans le <strong>navigateur système</strong> pour
+            fiabiliser « Se connecter avec Google ».
           </li>
           <li>
             <strong>Niveau 3 — Fichier</strong> : téléchargement d&apos;un JSON sur votre disque, clé
@@ -529,6 +585,10 @@ export default function UserGuideTab() {
         <p>
           La configuration des clés API (Google / Dropbox) est décrite dans{' '}
           <strong>CONFIGURATION-CLES.md</strong> à la racine du dossier <code>scriptor</code>.
+        </p>
+        <p>
+          Tutoriels Dropbox dédiés : <strong>TUTORIEL-SITE-DROPBOX.md</strong> (console Dropbox) et{' '}
+          <strong>TUTORIEL-DROPBOX-APP-BUREAU.md</strong> (flux app desktop + navigateur).
         </p>
         <p>
           Si tout semble avoir disparu (bible, chapitres, personnages) : vérifiez d&apos;abord le
@@ -667,7 +727,7 @@ export default function UserGuideTab() {
         <p>
           <strong>Scriptor</strong> — Studio pour sagas romanesques. En cas de blocage, vérifiez la
           connexion réseau (correcteur), l&apos;installation IA (chapitre{' '}
-          <a href="#guide-ia">Scriptor IA</a>), l&apos;espace disque du navigateur, et gardez au moins une
+          <a href="#guide-ia">Studio Roman IA</a>), l&apos;espace disque du navigateur, et gardez au moins une
           sauvegarde fichier ou cloud à jour.
         </p>
       </footer>

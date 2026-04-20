@@ -15,6 +15,7 @@ docker compose up --build
 Puis ouvre **http://localhost:8080** dans le navigateur.
 
 - Le dossier **`config/`** du projet est monté dans le conteneur : prompts, providers, SQLite, clés, etc. restent sur ton disque.
+- Le conteneur force le profil Spring **`prod`** (`SPRING_PROFILES_ACTIVE=prod`) avec schéma en mode **validate**.
 
 ### Option B — JAR Java (sans Docker)
 
@@ -67,5 +68,15 @@ Profil Maven équivalent : `-Pno-frontend-build`.
 | `SCR_CONFIG_DIR`    | Dossier `prompts.yml`, `.master.key`, etc. | `../config` (depuis `backend/`) |
 | `SCR_DATA_DIR`      | Données JSON / fichiers data              | `../config/data`          |
 | `SCR_SQLITE_PATH`   | Fichier SQLite                            | `../config/data/scriptor.db` |
+| `SCR_JPA_DDL_AUTO`  | Stratégie Hibernate schema                | `update` (dev), `validate` conseillé en prod |
+| `SCR_API_RATE_LIMIT_ENABLED` | Active limite anti-abus API IA     | `true` |
+| `SCR_API_RATE_LIMIT_MAX_REQUESTS` | Requêtes mutantes max par fenêtre | `120` |
+| `SCR_API_RATE_LIMIT_WINDOW_SECONDS` | Taille fenêtre de rate limit | `60` |
+| `SCR_API_RATE_LIMIT_HEAVY_MAX_REQUESTS` | Limite endpoints IA lourds (summary/resume/analysis/challenges) | `30` |
+| `SCR_API_RATE_LIMIT_HEAVY_WINDOW_SECONDS` | Fenêtre endpoints IA lourds | `60` |
+| `SCR_API_RATE_LIMIT_HEAVY_PREFIXES` | Préfixes endpoints lourds (CSV) | `/api/v1/ia/resume,/api/v1/ia/analysis,/api/v1/ia/challenges` |
+| `SCR_API_RATE_LIMIT_VERY_HEAVY_MAX_REQUESTS` | Limite endpoints IA très coûteux | `20` |
+| `SCR_API_RATE_LIMIT_VERY_HEAVY_WINDOW_SECONDS` | Fenêtre endpoints IA très coûteux | `60` |
+| `SCR_API_RATE_LIMIT_VERY_HEAVY_PREFIXES` | Préfixes endpoints très coûteux (CSV) | `/api/v1/ia/summary` |
 
 Sous Docker, ces variables sont déjà définies vers `/app/config`.

@@ -27,6 +27,7 @@ public class LLMOrchestrator {
     private final Map<String, LLMProvider> providers;
     private final LLMSettingsPersistenceService persistence;
     private final AnnotationService annotationService;
+    private final com.scriptor.api.llm.providers.OllamaLocalProvider ollamaLocalProvider;
     private String activeProviderId;
     private boolean offlineMode = false;
     private boolean silentMode = false;
@@ -36,6 +37,7 @@ public class LLMOrchestrator {
             List<LLMProvider> providerList,
             LLMSettingsPersistenceService persistence,
             AnnotationService annotationService,
+            com.scriptor.api.llm.providers.OllamaLocalProvider ollamaLocalProvider,
             @Value("${scriptor.ia.max-prompt-chars:32000}") int maxPromptChars
     ) {
         // Indexation dynamique de tous les providers implémentant l'interface LLMProvider
@@ -46,6 +48,7 @@ public class LLMOrchestrator {
                 ));
         this.persistence = persistence;
         this.annotationService = annotationService;
+        this.ollamaLocalProvider = ollamaLocalProvider;
         this.maxPromptChars = Math.max(2000, maxPromptChars);
         // Le modèle gratuit et local est toujours sélectionné par défaut
         this.activeProviderId = "OllamaLocalProvider";
@@ -56,6 +59,10 @@ public class LLMOrchestrator {
     public void loadPersistedSettings() {
         this.offlineMode      = persistence.isOfflineMode();
         this.silentMode       = persistence.isSilentMode();
+        String savedModel = persistence.getOllamaModel();
+        if (savedModel != null && !savedModel.isBlank()) {
+            ollamaLocalProvider.setModel(savedModel);
+        }
         String saved = persistence.getActiveProviderId();
         if (providers.containsKey(saved)) {
             this.activeProviderId = saved;

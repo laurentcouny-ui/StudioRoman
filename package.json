@@ -8,11 +8,17 @@
     "build": "npm run build --prefix scriptor",
     "install:app": "cd scriptor && npm install",
     "preview": "npm run preview --prefix scriptor",
+    "dev:tauri": "npm run dev:tauri --prefix scriptor",
+    "dev:tauri:full": "npm run dev:tauri:full --prefix scriptor",
     "tauri:dev": "cd scriptor && npm run tauri:dev",
     "tauri-dev": "cd scriptor && npm run tauri:dev",
     "tauri:build": "cd scriptor && npm run tauri:build",
     "tauri-build": "cd scriptor && npm run tauri:build",
     "tauri:dist": "cd scriptor && npm run tauri:dist",
-    "tauri:dist-info": "cd scriptor && npm run tauri:dist-info"
+    "tauri:dist-info": "cd scriptor && npm run tauri:dist-info",
+    "openapi:lint": "redocly lint --max-problems=0 backend/openapi/openapi-baseline.yaml"
+  },
+  "devDependencies": {
+    "@redocly/cli": "^2.29.0"
   }
 }

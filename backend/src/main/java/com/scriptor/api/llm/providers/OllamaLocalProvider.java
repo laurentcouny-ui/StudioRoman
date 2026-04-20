@@ -39,8 +39,41 @@ public class OllamaLocalProvider implements LLMProvider {
     @Value("${scriptor.providers.ollama.url:http://127.0.0.1:11434}")
     private String ollamaUrl;
 
-    @Value("${scriptor.providers.ollama.model:qwen2.5:3b}")
+    @Value("${scriptor.providers.ollama.model:qwen2.5:7b}")
     private String ollamaModel;
+
+    @Value("${scriptor.providers.ollama.num-ctx:8192}")
+    private int ollamaNumCtx;
+
+    @Value("${scriptor.providers.ollama.temperature:0.1}")
+    private double ollamaTemperature;
+
+    public String getModel() { return ollamaModel; }
+    public void setModel(String model) { this.ollamaModel = model; }
+
+    public java.util.List<String> listAvailableModels() {
+        try {
+            HttpRequest req = HttpRequest.newBuilder()
+                    .uri(URI.create(ollamaUrl + "/api/tags"))
+                    .timeout(Duration.ofSeconds(5))
+                    .GET().build();
+            HttpResponse<String> resp = httpClient.send(req, HttpResponse.BodyHandlers.ofString());
+            if (resp.statusCode() != 200) return java.util.List.of();
+            com.fasterxml.jackson.databind.JsonNode root = objectMapper.readTree(resp.body());
+            com.fasterxml.jackson.databind.JsonNode models = root.path("models");
+            java.util.List<String> names = new java.util.ArrayList<>();
+            if (models.isArray()) {
+                for (com.fasterxml.jackson.databind.JsonNode m : models) {
+                    String name = m.path("name").asText();
+                    if (!name.isBlank()) names.add(name);
+                }
+            }
+            return names;
+        } catch (Exception e) {
+            log.warn("Impossible de lister les modèles Ollama : {}", e.getMessage());
+            return java.util.List.of();
+        }
+    }
 
     public OllamaLocalProvider(
             ObjectMapper objectMapper,
@@ -221,6 +254,13 @@ public class OllamaLocalProvider implements LLMProvider {
         rootNode.put("model", ollamaModel);
         rootNode.put("prompt", prompt);
         rootNode.put("stream", stream);
+        ObjectNode options = objectMapper.createObjectNode();
+        options.put("num_ctx", ollamaNumCtx);
+        options.put("temperature", ollamaTemperature);
+        options.put("top_p", 0.5);
+        options.put("top_k", 20);
+        options.put("repeat_penalty", 1.1);
+        rootNode.set("options", options);
         return objectMapper.writeValueAsString(rootNode);
     }
 

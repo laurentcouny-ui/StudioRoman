@@ -20,7 +20,7 @@ public class IaHealthController {
     @Value("${scriptor.providers.ollama.url:http://127.0.0.1:11434}")
     private String ollamaUrl;
 
-    @Value("${scriptor.providers.ollama.model:qwen2.5:3b}")
+    @Value("${scriptor.providers.ollama.model:qwen2.5:7b}")
     private String ollamaModel;
 
     public IaHealthController(OllamaLocalProvider ollamaLocalProvider) {

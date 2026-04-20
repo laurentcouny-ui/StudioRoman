@@ -1,6 +1,6 @@
 /**
  * Client API → backend Scriptor IA (Spring Boot).
- * - Dev : par défaut URL relative `/api/v1/ia` → même origine (ex. localhost:1420) + proxy Vite → 127.0.0.1:8080
+ * - Dev : par défaut URL relative `/api/v1/ia` → même origine (ex. localhost:14230 en Tauri, 5173 en navigateur) + proxy Vite → 127.0.0.1:8080
  * - Build sans proxy : VITE_AI_API_BASE (ex. http://127.0.0.1:8080/api/v1/ia)
  * - Contournement proxy (dev uniquement) : VITE_IA_DEV_USE_DIRECT_127=1 → appels directs vers 127.0.0.1:8080 (CORS déjà ouvert côté Java)
  */
@@ -15,6 +15,14 @@ function getBaseUrl(): string {
 }
 
 const BASE_URL = getBaseUrl()
+const API_TOKEN = String(import.meta.env?.VITE_AI_API_TOKEN || '').trim()
+
+function authHeaders(): Record<string, string> {
+  if (!API_TOKEN) return {}
+  return {
+    'X-Scriptor-Api-Token': API_TOKEN,
+  }
+}
 
 function iaFetchDebugEnabled(): boolean {
   return /^(1|true|yes)$/i.test(String(import.meta.env?.VITE_IA_FETCH_DEBUG || '').trim())
@@ -159,7 +167,7 @@ export async function checkIaBackendHealth(): Promise<{ ok: boolean; message?: s
   for (const url of urls) {
     try {
       iaFetchDebugLog('GET', url)
-      const res = await fetch(url, { method: 'GET', cache: 'no-store' })
+      const res = await fetch(url, { method: 'GET', cache: 'no-store', headers: authHeaders() })
       const text = await res.text()
       if (looksHealthy(res, text)) return { ok: true }
       lastStatus = res.status
@@ -190,7 +198,9 @@ export const apiClient = {
     assertNotSilenced(endpoint)
     const url = resolveIaRequestUrl(endpoint)
     iaFetchDebugLog('GET', url)
-    const response = await fetch(url)
+    const response = await fetch(url, {
+      headers: authHeaders(),
+    })
     if (!response.ok) {
       const detail = await parseErrorBody(response)
       const hint = backendHintForStatus(response.status)
@@ -208,6 +218,7 @@ export const apiClient = {
     const response = await fetch(url, {
       method: 'POST',
       headers: {
+        ...authHeaders(),
         'Content-Type': 'application/json',
       },
       body: JSON.stringify(data),
@@ -219,7 +230,8 @@ export const apiClient = {
         `HTTP ${response.status}${statusExtra(response.status)}${detail ? ` — ${detail}` : ''}.${hint}`,
       )
     }
-    return response.json()
+    const text = await response.text()
+    return text ? JSON.parse(text) : null
   },
 
   async delete(endpoint: string) {
@@ -228,6 +240,7 @@ export const apiClient = {
     iaFetchDebugLog('DELETE', url)
     const response = await fetch(url, {
       method: 'DELETE',
+      headers: authHeaders(),
     })
     if (!response.ok) {
       const detail = await parseErrorBody(response)

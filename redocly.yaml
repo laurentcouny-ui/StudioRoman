@@ -1,0 +1,14 @@
+extends:
+  - recommended
+
+apis:
+  scriptor-api:
+    root: backend/openapi/openapi-baseline.yaml
+
+rules:
+  operation-operationId: error
+  operation-summary: error
+  operation-description: error
+  no-unused-components: error
+  path-not-include-query: error
+  no-server-trailing-slash: error

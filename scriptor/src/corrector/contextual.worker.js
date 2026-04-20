@@ -14,7 +14,7 @@ self.addEventListener('message', async (ev) => {
     return
   }
   try {
-    const { pipeline, env } = await import('@xenova/transformers')
+    const { pipeline, env } = await import('@huggingface/transformers')
     env.allowLocalModels = false
     env.useBrowserCache = true
     /** CamemBERT (fr) ONNX — fallback multilingue si modèle indisponible hors ligne. */

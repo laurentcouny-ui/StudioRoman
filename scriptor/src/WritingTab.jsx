@@ -1472,9 +1472,9 @@ function WritingTab({
                         return next
                       })
                     }
-                    title={rightPanelOpen ? 'Fermer Scriptor IA' : 'Ouvrir Scriptor IA'}
+                    title={rightPanelOpen ? 'Fermer Studio Roman IA' : 'Ouvrir Studio Roman IA'}
                   >
-                    {rightPanelOpen ? '✕ Scriptor IA' : '✦ Scriptor IA'}
+                    {rightPanelOpen ? '✕ Studio Roman IA' : '✦ Studio Roman IA'}
                   </button>
                 )}
               </div>
@@ -2357,7 +2357,7 @@ function WritingTab({
 
       <aside className="writing-right-panel" aria-hidden={!rightPanelOpen} inert={!rightPanelOpen ? '' : undefined}>
         <div className="writing-right-panel-header">
-          <span className="writing-right-panel-title">✦ Scriptor IA</span>
+          <span className="writing-right-panel-title">✦ Studio Roman IA</span>
           <div className="writing-right-panel-header-actions">
             <button
               type="button"

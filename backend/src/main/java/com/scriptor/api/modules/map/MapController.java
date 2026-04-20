@@ -1,8 +1,14 @@
 package com.scriptor.api.modules.map;
 
+import jakarta.validation.Valid;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.Size;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.http.HttpStatus;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.server.ResponseStatusException;
 
 import java.util.Map;
 import java.util.concurrent.CompletableFuture;
@@ -13,6 +19,7 @@ import java.util.concurrent.CompletableFuture;
  */
 @Slf4j
 @RestController
+@Validated
 @RequestMapping("/api/v1/ia/map")
 @RequiredArgsConstructor
 public class MapController {
@@ -26,6 +33,9 @@ public class MapController {
 
     @PostMapping("/data")
     public CompletableFuture<Void> saveMapData(@RequestBody com.fasterxml.jackson.databind.JsonNode data) {
+        if (data == null || !data.isObject()) {
+            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "map data invalide : objet JSON attendu");
+        }
         return CompletableFuture.runAsync(() -> mapService.saveMapData(data));
     }
 
@@ -33,10 +43,14 @@ public class MapController {
      * Recherche textuelle dans les données carte (lecture seule, sources explicites).
      */
     @GetMapping("/search")
-    public CompletableFuture<Map<String, String>> searchMap(@RequestParam String keyword) {
+    public CompletableFuture<Map<String, String>> searchMap(
+            @RequestParam @NotBlank(message = "keyword est obligatoire")
+            @Size(max = 120, message = "keyword dépasse la taille maximale autorisée")
+            String keyword
+    ) {
         log.info("Requête REST reçue : GET /map/search (mot-clé: {})", keyword);
         return CompletableFuture.supplyAsync(() -> Map.of(
-                "keyword", keyword == null ? "" : keyword,
+                "keyword", keyword,
                 "result", mapService.searchMapData(keyword)
         ));
     }
@@ -49,7 +63,7 @@ public class MapController {
      * @return Un futur contenant le rapport de l'IA.
      */
     @PostMapping("/verify")
-    public CompletableFuture<Map<String, String>> verifyConsistency(@RequestBody MapVerificationRequest request) {
+    public CompletableFuture<Map<String, String>> verifyConsistency(@Valid @RequestBody MapVerificationRequest request) {
         log.info("Requête REST reçue : /map/verify");
         
         return mapService.verifyConsistency(request.getTextToVerify())

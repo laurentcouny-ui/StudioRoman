@@ -17,6 +17,13 @@ const OAUTH_DEBUG_SESSION_KEY = 'scriptor-oauth-debug-session-v1'
 const PENDING_CLOUD_BACKUP_KEY = 'scriptor-pending-cloud-backup-v1'
 const UPLOAD_INTERVAL_MS = 5 * 60 * 1000 // 5 minutes
 
+/**
+ * OAuth Dropbox depuis le navigateur **système** (app Tauri) : doit correspondre exactement à une
+ * Redirect URI enregistrée dans la console Dropbox (`http://127.0.0.1:17863/`).
+ * Évite la webview où « Se connecter avec Google » sur dropbox.com est souvent bloqué par Google.
+ */
+const DROPBOX_TAURI_LOOPBACK_REDIRECT = 'http://127.0.0.1:17863/'
+
 /** Émis après connexion / déconnexion cloud pour relancer ou arrêter la planification auto-upload. */
 export const CLOUD_AUTH_CHANGED_EVENT = 'scriptor-cloud-auth-changed'
 
@@ -25,6 +32,14 @@ let onlineListenerAttached = false
 let currentGetBackupData = null
 let isAutoUploadRunning = false
 let unloadFlushInstalled = false
+
+function getBackendApiTokenHeader() {
+  const token = (typeof import.meta !== 'undefined' && import.meta.env?.VITE_AI_API_TOKEN)
+    ? String(import.meta.env.VITE_AI_API_TOKEN).trim()
+    : ''
+  if (!token) return {}
+  return { 'X-Scriptor-Api-Token': token }
+}
 
 function isTauriWebview() {
   if (typeof window === 'undefined') return false
@@ -35,7 +50,9 @@ function oauthDebugEnabled() {
   if (typeof window === 'undefined') return false
   try {
     if (window.sessionStorage?.getItem(OAUTH_DEBUG_SESSION_KEY) === '1') return true
-  } catch {}
+  } catch {
+    // Recovery volontaire: certains contextes bloquent sessionStorage (sandbox/private mode).
+  }
   const env =
     typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.VITE_OAUTH_DEBUG
       ? String(import.meta.env.VITE_OAUTH_DEBUG).trim().toLowerCase()
@@ -45,7 +62,9 @@ function oauthDebugEnabled() {
     const u = new URL(window.location.href)
     const q = (u.searchParams.get('oauthDebug') || '').trim().toLowerCase()
     if (q === '1' || q === 'true' || q === 'yes') return true
-  } catch {}
+  } catch {
+    // Recovery volontaire: URL invalide ou inaccessible, on reste simplement en mode debug désactivé.
+  }
   return false
 }
 
@@ -57,7 +76,9 @@ function oauthDebugArmFromUrl() {
     if (q === '1' || q === 'true' || q === 'yes') {
       window.sessionStorage.setItem(OAUTH_DEBUG_SESSION_KEY, '1')
     }
-  } catch {}
+  } catch {
+    // Recovery volontaire: impossible d'armer le flag debug, le flux OAuth continue.
+  }
 }
 
 function oauthLog(phase, detail) {
@@ -122,7 +143,9 @@ function updateStatus(patch) {
   statusListeners.forEach((fn) => {
     try {
       fn({ ...backupStatus, connected: { ...backupStatus.connected } })
-    } catch {}
+    } catch {
+      // Recovery volontaire: un listener UI ne doit pas casser la boucle de notifications.
+    }
   })
 }
 
@@ -201,15 +224,20 @@ export function isAnyCloudConnected() {
  * L’échange `code` → `access_token` : soit POST **direct vers Google** (PKCE, sans secret dans le bundle),
  * soit via le proxy Spring `POST /api/v1/oauth/google/token` si `VITE_GOOGLE_TOKEN_VIA_BACKEND=1`
  * (type « Application ordinateur », secret uniquement côté serveur).
- * Google a retiré `urn:ietf:wg:oauth:2.0:oob` : utiliser une **URI loopback** (ex. `http://localhost:1420/`), pas OOB.
+ * Google a retiré `urn:ietf:wg:oauth:2.0:oob` : utiliser une **URI loopback** (ex. `http://localhost:14230/` en dev Tauri), pas OOB.
  *
  * URI de redirection : dérivée de `window.location` (loopback → racine `/`) ou
- * `VITE_GOOGLE_OAUTH_REDIRECT_URI` si vous devez forcer une valeur (ex. http://localhost:1420/).
+ * `VITE_GOOGLE_OAUTH_REDIRECT_URI` si vous devez forcer une valeur (ex. http://localhost:14230/).
  */
 export function connectGoogleDrive() {
   const clientId = (typeof import.meta !== 'undefined' && import.meta.env?.VITE_GOOGLE_CLIENT_ID) || ''
   if (!clientId.trim()) {
-    return Promise.reject(new Error("Clé Google manquante. Créez un fichier .env avec VITE_GOOGLE_CLIENT_ID (voir .env.example), puis redémarrez l’app."))
+    return Promise.reject(
+      new Error(
+        'Clé Google manquante : dans le dossier scriptor, éditez le fichier .env et mettez votre ID client après VITE_GOOGLE_CLIENT_ID= (sans espace). ' +
+          'Le fichier ne doit pas être vide — copiez-le depuis l’autre PC ou suivez CONFIGURATION-CLES.md. Puis arrêtez et relancez npm run dev / dev:tauri.',
+      ),
+    )
   }
   if (typeof window === 'undefined' || typeof crypto === 'undefined' || !crypto.subtle) {
     return Promise.reject(new Error('Connexion Google nécessite un navigateur moderne (Web Crypto).'))
@@ -331,6 +359,65 @@ function getGoogleBackendTokenExchangeUrl() {
   return `${o}/api/v1/oauth/google/token`
 }
 
+/**
+ * Échange authorization code → jeton Dropbox (PKCE). `redirect_uri` doit être identique à la requête authorize.
+ * @param {string} code
+ * @param {string} state
+ * @param {string} redirectUri
+ */
+async function exchangeDropboxPkceToken(code, state, redirectUri) {
+  try {
+    const expectedState = window.localStorage.getItem(DROPBOX_OAUTH_STATE_KEY)
+    const verifier = window.localStorage.getItem(DROPBOX_PKCE_VERIFIER_KEY)
+    if (!expectedState || state !== expectedState || !verifier) {
+      throw new Error('OAuth Dropbox : session invalide ou expirée. Recommencez la connexion.')
+    }
+    const appKey = (typeof import.meta !== 'undefined' && import.meta.env?.VITE_DROPBOX_APP_KEY) || ''
+    const form = new URLSearchParams({
+      code,
+      grant_type: 'authorization_code',
+      client_id: appKey,
+      code_verifier: verifier,
+      redirect_uri: redirectUri,
+    })
+    const res = await fetch('https://api.dropboxapi.com/oauth2/token', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: form.toString(),
+    })
+    let payload = null
+    try {
+      payload = await res.json()
+    } catch {
+      payload = null
+    }
+    if (!res.ok) {
+      const detail =
+        payload?.error_description ||
+        payload?.error_summary ||
+        payload?.error ||
+        `HTTP ${res.status}`
+      throw new Error(`OAuth Dropbox échoué: ${detail}`)
+    }
+    const token = payload?.access_token
+    const expiresIn = parseInt(String(payload?.expires_in || 14400), 10)
+    if (token) setStoredToken(DROPBOX_TOKEN_KEY, DROPBOX_EXPIRY_KEY, token, Number.isFinite(expiresIn) ? expiresIn : 14400)
+  } catch (err) {
+    updateStatus({ lastError: err?.message || 'OAuth Dropbox échoué' })
+    if (typeof window !== 'undefined') {
+      window.dispatchEvent(
+        new CustomEvent('scriptor-cloud-auth-error', {
+          detail: { provider: 'dropbox', message: err?.message || 'OAuth Dropbox échoué' },
+        }),
+      )
+    }
+    throw err
+  } finally {
+    window.localStorage.removeItem(DROPBOX_PKCE_VERIFIER_KEY)
+    window.localStorage.removeItem(DROPBOX_OAUTH_STATE_KEY)
+  }
+}
+
 export function completeDropboxAuth() {
   if (typeof window === 'undefined') return false
   const url = new URL(window.location.href)
@@ -343,56 +430,8 @@ export function completeDropboxAuth() {
     const expectedState = window.localStorage.getItem(DROPBOX_OAUTH_STATE_KEY)
     const verifier = window.localStorage.getItem(DROPBOX_PKCE_VERIFIER_KEY)
     if (!expectedState || state !== expectedState || !verifier) return false
-    const appKey = (typeof import.meta !== 'undefined' && import.meta.env?.VITE_DROPBOX_APP_KEY) || ''
     const redirectUri = getDropboxRedirectUri()
-    const form = new URLSearchParams({
-      code,
-      grant_type: 'authorization_code',
-      client_id: appKey,
-      code_verifier: verifier,
-      redirect_uri: redirectUri,
-    })
-    void fetch('https://api.dropboxapi.com/oauth2/token', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body: form.toString(),
-    })
-      .then(async (res) => {
-        let payload = null
-        try {
-          payload = await res.json()
-        } catch {
-          payload = null
-        }
-        if (!res.ok) {
-          const detail =
-            payload?.error_description ||
-            payload?.error_summary ||
-            payload?.error ||
-            `HTTP ${res.status}`
-          throw new Error(`OAuth Dropbox échoué: ${detail}`)
-        }
-        return payload
-      })
-      .then((tokenResponse) => {
-        const token = tokenResponse?.access_token
-        const expiresIn = parseInt(String(tokenResponse?.expires_in || 14400), 10)
-        if (token) setStoredToken(DROPBOX_TOKEN_KEY, DROPBOX_EXPIRY_KEY, token, Number.isFinite(expiresIn) ? expiresIn : 14400)
-      })
-      .catch((err) => {
-        updateStatus({ lastError: err?.message || 'OAuth Dropbox échoué' })
-        if (typeof window !== 'undefined') {
-          window.dispatchEvent(
-            new CustomEvent('scriptor-cloud-auth-error', {
-              detail: { provider: 'dropbox', message: err?.message || 'OAuth Dropbox échoué' },
-            }),
-          )
-        }
-      })
-      .finally(() => {
-        window.localStorage.removeItem(DROPBOX_PKCE_VERIFIER_KEY)
-        window.localStorage.removeItem(DROPBOX_OAUTH_STATE_KEY)
-      })
+    void exchangeDropboxPkceToken(code, state, redirectUri).catch(() => {})
     url.searchParams.delete('code')
     url.searchParams.delete('state')
     window.history.replaceState(null, '', url.pathname + (url.search ? url.search : '') + url.hash)
@@ -493,7 +532,11 @@ export function completeGoogleAuth() {
     }
     let res = await fetch(getGoogleBackendTokenExchangeUrl(), {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+      headers: {
+        ...getBackendApiTokenHeader(),
+        'Content-Type': 'application/json',
+        Accept: 'application/json',
+      },
       body: JSON.stringify({
         code,
         redirectUri,
@@ -585,13 +628,99 @@ export function completeGoogleAuth() {
   return true
 }
 
+/**
+ * App bureau (Tauri) : ouvre l’OAuth Dropbox dans le navigateur par défaut pour que la connexion
+ * Google sur dropbox.com fonctionne ; le retour se fait sur 127.0.0.1:17863 (serveur Rust local).
+ */
+async function connectDropboxViaSystemBrowser() {
+  const appKey = (typeof import.meta !== 'undefined' && import.meta.env?.VITE_DROPBOX_APP_KEY) || ''
+  const { invoke } = await import('@tauri-apps/api/core')
+  const { listen } = await import('@tauri-apps/api/event')
+  const { open } = await import('@tauri-apps/plugin-shell')
+  const redirectUri = DROPBOX_TAURI_LOOPBACK_REDIRECT
+
+  try {
+    await invoke('start_dropbox_oauth_server')
+  } catch (e) {
+    window.localStorage.removeItem(DROPBOX_PKCE_VERIFIER_KEY)
+    window.localStorage.removeItem(DROPBOX_OAUTH_STATE_KEY)
+    throw e
+  }
+
+  const verifier = createPkceVerifier()
+  const challenge = await createPkceChallenge(verifier)
+  const state = `dropbox-${Date.now().toString(36)}`
+  window.localStorage.setItem(DROPBOX_PKCE_VERIFIER_KEY, verifier)
+  window.localStorage.setItem(DROPBOX_OAUTH_STATE_KEY, state)
+  const url = `https://www.dropbox.com/oauth2/authorize?client_id=${encodeURIComponent(appKey)}&response_type=code&token_access_type=offline&code_challenge_method=S256&code_challenge=${encodeURIComponent(challenge)}&redirect_uri=${encodeURIComponent(redirectUri)}&state=${encodeURIComponent(state)}`
+
+  oauthLog('dropbox:tauri_system_browser', { redirectUri })
+
+  return new Promise((resolve, reject) => {
+    let unlisten = () => {}
+    let timeoutId = null
+    const armTimeout = () => {
+      timeoutId = setTimeout(() => {
+        unlisten()
+        window.localStorage.removeItem(DROPBOX_PKCE_VERIFIER_KEY)
+        window.localStorage.removeItem(DROPBOX_OAUTH_STATE_KEY)
+        reject(new Error('Délai dépassé : connexion Dropbox annulée ou non terminée.'))
+      }, 720 * 1000)
+    }
+
+    listen('dropbox-oauth-callback', async (event) => {
+      if (timeoutId) clearTimeout(timeoutId)
+      unlisten()
+      const p = event.payload
+      if (p?.error) {
+        window.localStorage.removeItem(DROPBOX_PKCE_VERIFIER_KEY)
+        window.localStorage.removeItem(DROPBOX_OAUTH_STATE_KEY)
+        reject(new Error(typeof p.error === 'string' ? p.error : 'Connexion Dropbox refusée ou annulée.'))
+        return
+      }
+      if (!p?.code || p?.state == null || p?.state === '') {
+        window.localStorage.removeItem(DROPBOX_PKCE_VERIFIER_KEY)
+        window.localStorage.removeItem(DROPBOX_OAUTH_STATE_KEY)
+        reject(new Error('Réponse OAuth Dropbox incomplète.'))
+        return
+      }
+      try {
+        await exchangeDropboxPkceToken(p.code, p.state, redirectUri)
+        resolve()
+      } catch (e) {
+        reject(e)
+      }
+    })
+      .then((fn) => {
+        unlisten = fn
+        armTimeout()
+        return open(url)
+      })
+      .catch((e) => {
+        if (timeoutId) clearTimeout(timeoutId)
+        unlisten()
+        window.localStorage.removeItem(DROPBOX_PKCE_VERIFIER_KEY)
+        window.localStorage.removeItem(DROPBOX_OAUTH_STATE_KEY)
+        reject(e)
+      })
+  })
+}
+
 export function connectDropbox() {
   const appKey = (typeof import.meta !== 'undefined' && import.meta.env?.VITE_DROPBOX_APP_KEY) || ''
   if (!appKey.trim()) {
-    return Promise.reject(new Error('Clé Dropbox manquante. Créez un fichier .env avec VITE_DROPBOX_APP_KEY (voir .env.example et CONFIGURATION-CLES.md), puis redémarrez l’app.'))
+    return Promise.reject(
+      new Error(
+        'Clé Dropbox manquante : dans scriptor/.env, renseignez VITE_DROPBOX_APP_KEY= (App key Dropbox, sans espace après =). ' +
+          'Copiez le .env de l’autre PC ou la console Dropbox. Puis redémarrez npm run dev / dev:tauri.',
+      ),
+    )
   }
   if (typeof window === 'undefined' || typeof crypto === 'undefined' || !crypto.subtle) {
     return Promise.reject(new Error('OAuth Dropbox nécessite un navigateur moderne (Web Crypto).'))
+  }
+  if (isTauriWebview()) {
+    return connectDropboxViaSystemBrowser()
   }
   const redirectUri = getDropboxRedirectUri()
   const verifier = createPkceVerifier()
@@ -599,8 +728,8 @@ export function connectDropbox() {
     const state = `dropbox-${Date.now().toString(36)}`
     window.localStorage.setItem(DROPBOX_PKCE_VERIFIER_KEY, verifier)
     window.localStorage.setItem(DROPBOX_OAUTH_STATE_KEY, state)
-    const url = `https://www.dropbox.com/oauth2/authorize?client_id=${encodeURIComponent(appKey)}&response_type=code&token_access_type=offline&code_challenge_method=S256&code_challenge=${encodeURIComponent(challenge)}&redirect_uri=${encodeURIComponent(redirectUri)}&state=${encodeURIComponent(state)}`
-    window.location.href = url
+    const authUrl = `https://www.dropbox.com/oauth2/authorize?client_id=${encodeURIComponent(appKey)}&response_type=code&token_access_type=offline&code_challenge_method=S256&code_challenge=${encodeURIComponent(challenge)}&redirect_uri=${encodeURIComponent(redirectUri)}&state=${encodeURIComponent(state)}`
+    window.location.href = authUrl
   })
 }
 
@@ -913,7 +1042,9 @@ async function runAutoUploadCycle(getBackupData) {
     try {
       const payload = await prepareBackupPayload(getBackupData)
       setPendingPayload(payload)
-    } catch {}
+    } catch {
+      // Recovery volontaire: si la mise en file locale échoue, l'état d'échec global reste exposé ci-dessous.
+    }
     updateStatus({
       lastError: err?.message || 'Auto-upload échoué',
       consecutiveFailures: Math.max(

@@ -1,5 +1,6 @@
 package com.scriptor.api.modules.summary;
 
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
@@ -24,7 +25,7 @@ public class ChapterSummaryController {
      * @return Un futur contenant le résumé généré.
      */
     @PostMapping("/chapter")
-    public CompletableFuture<ChapterSummaryResponse> generateChapterSummary(@RequestBody ChapterSummaryRequest request) {
+    public CompletableFuture<ChapterSummaryResponse> generateChapterSummary(@Valid @RequestBody ChapterSummaryRequest request) {
         log.info("Requête REST reçue : /summary/chapter");
         return chapterSummaryService.generateSummary(request);
     }

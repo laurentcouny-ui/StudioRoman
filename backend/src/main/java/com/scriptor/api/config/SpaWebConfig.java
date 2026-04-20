@@ -34,12 +34,21 @@ public class SpaWebConfig implements WebMvcConfigurer {
                         if (resourcePath != null && resourcePath.startsWith("api/")) {
                             return null;
                         }
+                        // Bloque explicitement les chemins sensibles et les dotfiles (/.env, /.git/config, ...).
+                        if (resourcePath != null && (resourcePath.startsWith(".") || resourcePath.contains("/."))) {
+                            return null;
+                        }
                         if (resourcePath == null || resourcePath.isEmpty()) {
                             return new ClassPathResource("static/index.html");
                         }
                         Resource resource = location.createRelative(resourcePath);
                         if (resource.exists() && resource.isReadable()) {
                             return resource;
+                        }
+                        // Ne fallback pas vers index.html pour les chemins qui ressemblent à des fichiers
+                        // (assets absents, .map, etc.) : on laisse Spring répondre 404.
+                        if (resourcePath.contains(".")) {
+                            return null;
                         }
                         return new ClassPathResource("static/index.html");
                     }

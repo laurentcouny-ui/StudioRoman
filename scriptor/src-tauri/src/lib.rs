@@ -21,6 +21,7 @@ use std::sync::atomic::{AtomicBool, Ordering};
 
 use log::LevelFilter;
 use std::time::{SystemTime, UNIX_EPOCH};
+use tauri::LogicalSize;
 use tauri::Manager;
 use tauri::RunEvent;
 use tauri_plugin_log::{Target, TargetKind};
@@ -127,6 +128,11 @@ pub fn run() {
                 languagetool_autostart::try_start_if_needed(lt_app);
             });
 
+            // Splash au premier plan (sinon la fenêtre main cachée ou le bureau peuvent la masquer sous Windows).
+            if let Some(splash) = app.get_webview_window("splashscreen") {
+                let _ = splash.set_always_on_top(true);
+            }
+
             Ok(())
         })
         .invoke_handler(tauri::generate_handler![
@@ -171,7 +177,8 @@ pub fn run() {
             print_validate::print_validate_pdfx,
             epubcheck::print_run_epubcheck,
             corrector_lt::corrector_languagetool_check,
-            google_oauth_server::start_google_oauth_server
+            google_oauth_server::start_google_oauth_server,
+            google_oauth_server::start_dropbox_oauth_server
         ])
         .build(tauri::generate_context!())
         .expect("erreur au lancement Tauri");
@@ -194,6 +201,14 @@ fn app_ready(app: tauri::AppHandle) -> Result<(), String> {
         let _ = splash.close();
     }
     if let Some(main) = app.get_webview_window("main") {
+        // Après démarrage avec visible:false, Windows peut restaurer une taille aberrante : on force la géométrie.
+        let _ = main.set_decorations(true);
+        let _ = main.set_resizable(true);
+        let _ = main.set_maximizable(true);
+        let _ = main.set_fullscreen(false);
+        let _ = main.set_size(LogicalSize::new(1280.0, 800.0));
+        let _ = main.set_min_size(Some(LogicalSize::new(900.0, 600.0)));
+        let _ = main.center();
         let _ = main.show();
         let _ = main.set_focus();
     }

@@ -29,6 +29,7 @@ public class LLMSettingsPersistenceService {
     @Getter private boolean offlineMode = false;
     @Getter private boolean silentMode  = false;
     @Getter private String  activeProviderId = "OllamaLocalProvider";
+    @Getter private String  ollamaModel = "";
 
     public LLMSettingsPersistenceService(
             @Value("${scriptor.config.dir:./config}") String configDir) {
@@ -52,21 +53,32 @@ public class LLMSettingsPersistenceService {
                 if (om instanceof Boolean b)  offlineMode      = b;
                 if (sm instanceof Boolean b)  silentMode       = b;
                 if (ap instanceof String  s && !s.isBlank()) activeProviderId = s;
-                log.info("Paramètres IA chargés : provider={}, offline={}, silent={}",
-                        activeProviderId, offlineMode, silentMode);
+                Object om2 = data.get("ollamaModel");
+                if (om2 instanceof String s && !s.isBlank()) ollamaModel = s;
+                log.info("Paramètres IA chargés : provider={}, ollamaModel={}, offline={}, silent={}",
+                        activeProviderId, ollamaModel, offlineMode, silentMode);
             }
         } catch (Exception e) {
             log.warn("Impossible de lire ia-settings.yml, paramètres par défaut utilisés.", e);
         }
     }
 
+    public void saveOllamaModel(String model) {
+        this.ollamaModel = model;
+        save(offlineMode, silentMode, activeProviderId);
+    }
+
     public void save(boolean offlineMode, boolean silentMode, String activeProviderId) {
+        this.offlineMode = offlineMode;
+        this.silentMode = silentMode;
+        this.activeProviderId = activeProviderId;
         synchronized (writeLock) {
             try {
                 Map<String, Object> data = new HashMap<>();
                 data.put("offlineMode",      offlineMode);
                 data.put("silentMode",       silentMode);
                 data.put("activeProviderId", activeProviderId);
+                if (!ollamaModel.isBlank()) data.put("ollamaModel", ollamaModel);
 
                 DumperOptions opts = new DumperOptions();
                 opts.setDefaultFlowStyle(DumperOptions.FlowStyle.BLOCK);

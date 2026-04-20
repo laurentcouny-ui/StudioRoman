@@ -27,6 +27,7 @@ export const GlobalSettings: React.FC = () => {
       if (typeof data.offlineMode === 'boolean') setOfflineMode(data.offlineMode);
       if (typeof data.silentMode === 'boolean') setSilentMode(data.silentMode);
       if (typeof data.providerId === 'string') setProvider(data.providerId);
+      if (typeof data.ollamaModel === 'string' && data.ollamaModel) setOllamaModel(data.ollamaModel);
       persistLocalSettings({
         offlineMode: data.offlineMode,
         silentMode: data.silentMode,
@@ -46,10 +47,13 @@ export const GlobalSettings: React.FC = () => {
     message: string;
     model?: string;
   } | null>(null);
+  const [ollamaModels, setOllamaModels] = useState<string[]>([]);
+  const [ollamaModel, setOllamaModel] = useState<string>('');
 
   useEffect(() => {
     if (!offlineMode && provider !== 'OllamaLocalProvider') {
       setOllamaStatus(null);
+      setOllamaModels([]);
       return;
     }
     let cancelled = false;
@@ -67,6 +71,14 @@ export const GlobalSettings: React.FC = () => {
         .catch(() => {
           if (!cancelled) setOllamaStatus(null);
         });
+      apiClient
+        .get('/settings/ollama/models')
+        .then((data: any) => {
+          if (cancelled) return;
+          if (Array.isArray(data.models)) setOllamaModels(data.models);
+          if (typeof data.current === 'string' && data.current) setOllamaModel(data.current);
+        })
+        .catch(() => {});
     };
     poll();
     const id = window.setInterval(poll, 45_000);
@@ -75,6 +87,15 @@ export const GlobalSettings: React.FC = () => {
       window.clearInterval(id);
     };
   }, [provider, offlineMode]);
+
+  const handleChangeOllamaModel = async (model: string) => {
+    setOllamaModel(model);
+    try {
+      await apiClient.post('/settings/ollama/model', { model });
+    } catch (e) {
+      console.error(e);
+    }
+  };
 
   useEffect(() => {
     if (provider === 'OllamaLocalProvider' || offlineMode) {
@@ -223,10 +244,22 @@ export const GlobalSettings: React.FC = () => {
             <strong className="font-semibold text-[11px]">
               {ollamaStatus.reachable ? 'Ollama local : prêt' : 'Ollama local : indisponible'}
             </strong>
-            {ollamaStatus.model ? (
-              <span className="ml-1 opacity-90">(modèle « {ollamaStatus.model} »)</span>
-            ) : null}
             <p className="mt-0.5 leading-snug opacity-95">{ollamaStatus.message}</p>
+          </div>
+        )}
+
+        {(provider === 'OllamaLocalProvider' || offlineMode) && ollamaModels.length > 0 && (
+          <div className="flex flex-col space-y-1">
+            <label className="text-xs font-semibold text-gray-600 dark:text-slate-400">Modèle Ollama</label>
+            <select
+              value={ollamaModel}
+              onChange={(e) => handleChangeOllamaModel(e.target.value)}
+              className="w-full rounded-md border border-gray-300 dark:border-slate-600 bg-white dark:bg-slate-700 px-2 py-1.5 text-sm text-gray-800 dark:text-slate-200 focus:outline-none focus:ring-2 focus:ring-sky-500"
+            >
+              {ollamaModels.map((m) => (
+                <option key={m} value={m}>{m}</option>
+              ))}
+            </select>
           </div>
         )}
 

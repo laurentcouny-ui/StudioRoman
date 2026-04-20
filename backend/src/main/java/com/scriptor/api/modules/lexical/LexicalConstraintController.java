@@ -1,5 +1,6 @@
 package com.scriptor.api.modules.lexical;
 
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
@@ -20,7 +21,7 @@ public class LexicalConstraintController {
     private final LexicalConstraintService lexicalConstraintService;
 
     @PostMapping("/analyze")
-    public CompletableFuture<LexicalAnalysisResponse> analyzeLexicon(@RequestBody LexicalAnalysisRequest request) {
+    public CompletableFuture<LexicalAnalysisResponse> analyzeLexicon(@Valid @RequestBody LexicalAnalysisRequest request) {
         log.info("Requête REST reçue : /lexicon/analyze");
         return lexicalConstraintService.analyzeLexicon(request);
     }

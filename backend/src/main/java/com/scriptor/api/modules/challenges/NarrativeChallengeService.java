@@ -2,6 +2,8 @@ package com.scriptor.api.modules.challenges;
 
 import com.scriptor.api.config.ConfigLoader;
 import com.scriptor.api.llm.LLMOrchestrator;
+import com.scriptor.api.modules.bible.BibleEntity;
+import com.scriptor.api.modules.bible.BibleRepository;
 import com.scriptor.api.modules.characters.CharacterEntity;
 import com.scriptor.api.modules.characters.ForgottenCharacterRequest;
 import com.scriptor.api.modules.characters.ForgottenCharacterService;
@@ -11,7 +13,9 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.regex.Pattern;
@@ -29,6 +33,7 @@ public class NarrativeChallengeService {
     private final CharacterRepository characterRepository;
     private final ForgottenCharacterService forgottenCharacterService;
     private final StyleProfileService styleProfileService;
+    private final BibleRepository bibleRepository;
 
     public CompletableFuture<NarrativeChallengeResponse> generateChallenge(NarrativeChallengeRequest request) {
         String type = request.getChallengeType() != null ? request.getChallengeType().toLowerCase() : "express";
@@ -72,11 +77,12 @@ public class NarrativeChallengeService {
             return CompletableFuture.completedFuture(getRandomCharacter());
         }
 
-        if ("lacune_bible".equals(type) && (contextData == null || contextData.isBlank())) {
-            return CompletableFuture.completedFuture(suggestBibleGapFromText(recentText));
+        if ("lacune_bible".equals(type)) {
+            return CompletableFuture.completedFuture(buildBibleInventory());
         }
 
-        return CompletableFuture.completedFuture(contextData == null ? "" : contextData.trim());
+        // Pour style/express : on passe le recentText brut pour extraction ultérieure
+        return CompletableFuture.completedFuture(recentText == null ? "" : recentText);
     }
 
     private String buildPromptForType(String type, String template, String providedContext) {
@@ -84,9 +90,10 @@ public class NarrativeChallengeService {
             String character = (providedContext != null && !providedContext.isBlank()) ? providedContext : getRandomCharacter();
             return String.format(template, character);
         } else if ("lacune_bible".equals(type)) {
-            return String.format(template, providedContext != null && !providedContext.isBlank() ? "Contexte additionnel : " + providedContext : "");
+            return String.format(template, providedContext);
+        } else if ("style".equals(type) || "express".equals(type)) {
+            return String.format(template, extractRecentExcerpt(providedContext));
         }
-        // Pour style et express, pas de paramètre de string format particulier
         return template;
     }
 
@@ -102,24 +109,38 @@ public class NarrativeChallengeService {
         return "";
     }
 
-    private String suggestBibleGapFromText(String recentText) {
-        if (recentText == null || recentText.isBlank()) {
-            return "Aucune piste contextuelle fournie : choisissez un lieu, une règle ou une institution à documenter.";
-        }
-        String plain = Pattern.compile("<[^>]+>").matcher(recentText).replaceAll(" ");
-        String[] words = plain.split("\\s+");
-        String pivot = "";
-        for (String w : words) {
-            String t = w == null ? "" : w.trim();
-            if (t.length() >= 7 && Character.isUpperCase(t.charAt(0))) {
-                pivot = t.replaceAll("[^\\p{L}\\p{N}'-]", "");
-                if (!pivot.isBlank()) break;
+    private String buildBibleInventory() {
+        try {
+            List<BibleEntity> all = bibleRepository.findAll();
+            if (all.isEmpty()) {
+                return "La bible est vide pour l'instant. Aucune fiche documentée.";
             }
+            Map<String, java.util.Set<String>> ficheSections = new LinkedHashMap<>();
+            for (BibleEntity e : all) {
+                ficheSections
+                    .computeIfAbsent(e.getFiche(), k -> new java.util.LinkedHashSet<>())
+                    .add(e.getSection());
+            }
+            StringBuilder sb = new StringBuilder();
+            for (Map.Entry<String, java.util.Set<String>> entry : ficheSections.entrySet()) {
+                sb.append("Fiche « ").append(entry.getKey()).append(" » — sections : ")
+                  .append(String.join(", ", entry.getValue())).append("\n");
+            }
+            return sb.toString().trim();
+        } catch (Exception e) {
+            log.warn("Impossible de lire la bible pour les défis : {}", e.getMessage());
+            return "Bible inaccessible. Propose un défi générique sur un élément d'univers non documenté.";
         }
-        if (pivot.isBlank()) {
-            return "Piste suggérée : documenter une règle implicite de votre univers absente de la bible.";
+    }
+
+    private String extractRecentExcerpt(String rawText) {
+        if (rawText == null || rawText.isBlank()) {
+            return "(aucun texte récent disponible)";
         }
-        return "Piste suggérée : documenter l'élément « " + pivot + " » (origine, règles, limites, conséquences).";
+        String plain = Pattern.compile("<[^>]+>").matcher(rawText).replaceAll(" ")
+                .replaceAll("\\s+", " ").trim();
+        if (plain.length() <= 600) return plain;
+        return "..." + plain.substring(plain.length() - 600);
     }
 
     private String getRandomCharacter() {

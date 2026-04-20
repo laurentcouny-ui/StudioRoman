@@ -1,5 +1,6 @@
 package com.scriptor.api.modules.pageblanche;
 
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
@@ -26,7 +27,7 @@ public class PageBlancheController {
      * @return Un futur contenant la réponse JSON avec les questions de relance.
      */
     @PostMapping("/diagnose")
-    public CompletableFuture<PageBlancheResponse> diagnose(@RequestBody PageBlancheRequest request) {
+    public CompletableFuture<PageBlancheResponse> diagnose(@Valid @RequestBody PageBlancheRequest request) {
         log.info("Requête REST reçue : /diagnose (Ton demandé: {})", request.getTone());
         return pageBlancheService.diagnose(request);
     }

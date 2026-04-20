@@ -220,7 +220,7 @@ function App() {
   const sagaMenuRef = useRef(null)
   const [nowTs, setNowTs] = useState(() => Date.now())
 
-  const CORRECTOR_ONBOARDING_DONE_KEY = 'scriptor-corrector-onboarding-done'
+  const CORRECTOR_ONBOARDING_DONE_KEY = 'scriptor-onboarding-tour-v2-done'
   const [correctorOnboardingOpen, setCorrectorOnboardingOpen] = useState(false)
 
   useEffect(() => {
@@ -1137,6 +1137,8 @@ function App() {
       } else if (action === 'update' && payload?.id) {
         const place = saga.worldMap.places.find((p) => p.id === payload.id)
         if (place && payload.field) place[payload.field] = payload.value
+      } else if (action === 'setPromptWizard') {
+        saga.worldMap.promptWizard = payload || null
       }
       return next
     })
@@ -1531,7 +1533,7 @@ function App() {
             completeCorrectorOnboarding()
             setActiveTab('writing')
           }}
-          onClose={() => setCorrectorOnboardingOpen(false)}
+          onClose={() => completeCorrectorOnboarding()}
           onGoWriting={() => setActiveTab('writing')}
         />
       ) : null}

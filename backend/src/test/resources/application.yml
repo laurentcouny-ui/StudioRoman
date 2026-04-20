@@ -1,5 +1,14 @@
 # Tests : pas de SPA embarqué, ressources statiques Spring par défaut
 spring:
+  datasource:
+    url: jdbc:sqlite:../config/data/scriptor-test.db
+    driver-class-name: org.sqlite.JDBC
+  jpa:
+    database-platform: org.hibernate.community.dialect.SQLiteDialect
+    hibernate:
+      ddl-auto: update
+  flyway:
+    enabled: false
   web:
     resources:
       add-mappings: true

@@ -51,11 +51,24 @@ map:
 
 summary:
   chapter: >
-    Tu es un assistant éditorial. Résume le chapitre suivant de manière concise, dans le style d'une fiche de documentation (ou "bible" littéraire).
-    Concentre-toi sur les événements majeurs, les lieux visités, les personnages impliqués et les objets importants.
-    Ne fais pas de commentaire, produis uniquement le résumé structuré.
-    
-    [Texte du chapitre]
+    Tu es un assistant éditorial. Produis une fiche de résumé structurée du chapitre ci-dessous.
+    RÈGLE ABSOLUE : utilise UNIQUEMENT les informations présentes dans le texte. N'invente rien.
+    Rédige chaque section en phrases complètes (pas de tirets ni de puces).
+    Format attendu :
+
+    **Résumé narratif**
+    Deux ou trois phrases résumant ce qui se passe dans ce chapitre.
+
+    **Personnages présents**
+    Phrase décrivant les personnages qui apparaissent et leur rôle dans ce chapitre.
+
+    **Lieux**
+    Phrase décrivant les lieux où se déroule l'action.
+
+    **Points clés**
+    Phrase sur les éléments importants pour la suite (révélations, objets, tensions).
+
+    Texte du chapitre :
     %s
 
 analysis:
@@ -111,22 +124,34 @@ challenges:
     Reste direct et inspirant. Ne rédige en aucun cas la scène.
 
   lacune_bible: >
-    Tu es un coach littéraire. L'auteur veut relever un défi "Lacune de bible".
-    Propose un défi narratif invitant l'auteur à documenter un élément inexploré ou mystérieux de son univers (un lieu, une règle magique, une rumeur, etc.).
+    Tu es un coach littéraire. L'auteur veut combler une lacune de sa bible.
+    Voici l'inventaire des fiches et sections déjà documentées dans sa bible :
+    ---
     %s
-    Reste direct et inspirant.
+    ---
+    En te basant UNIQUEMENT sur cet inventaire, identifie un angle, une zone d'ombre ou un élément connexe qui semble absent ou insuffisamment traité.
+    Propose un défi concret invitant l'auteur à rédiger cette fiche manquante. Sois direct et inspirant.
+    Ne rédige rien à sa place.
 
   style: >
-    Tu es un coach littéraire. L'auteur veut relever un défi "Contrainte stylistique" (session de 15 minutes).
-    Propose un défi d'écriture avec une contrainte de style forte (exemples : écrire sans aucun adverbe, décrire une scène uniquement par les odeurs et les sons, écrire un dialogue sans aucune incise).
-    Invente une contrainte originale. Reste direct et inspirant.
-    Ne rédige pas la scène.
+    Tu es un coach littéraire. L'auteur veut relever un défi "Contrainte stylistique" (15 minutes).
+    Voici un extrait de ce qu'il a récemment écrit :
+    ---
+    %s
+    ---
+    À partir de ce style précis, propose une contrainte stylistique originale directement applicable à sa façon d'écrire
+    (exemples : supprimer tous les adverbes présents dans cet extrait, réécrire la prochaine scène uniquement par les sensations physiques, éliminer tout verbe de perception).
+    Sois direct. Ne rédige pas la scène.
 
   express: >
-    Tu es un coach littéraire. L'auteur veut relever un "Défi express" (5 à 10 minutes).
-    Décris une seule image forte, un détail étrange ou un démarrage d'action brutale.
-    Mets ensuite l'auteur au défi d'écrire la première phrase de sa prochaine scène à partir de cette image.
-    Sois bref et très percutant.
+    Tu es un coach littéraire. L'auteur veut un "Défi express" (5 à 10 minutes).
+    Voici un extrait de ce qu'il vient d'écrire :
+    ---
+    %s
+    ---
+    À partir de ce contexte précis, propose un seul défi court et percutant : une image forte, un détail inattendu ou une amorce d'action directement liée à cette scène.
+    Mets-le au défi d'écrire la première phrase de sa prochaine scène à partir de là.
+    Sois très bref. Ne rédige pas la scène.
 
 style_profile:
   analysis: >

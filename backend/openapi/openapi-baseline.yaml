@@ -1,0 +1,101 @@
+openapi: 3.0.3
+info:
+  title: Scriptor IA Backend API
+  version: 1.0.0
+  description: Baseline contract for critical endpoints. Extend incrementally.
+  license:
+    name: Proprietary
+    url: https://example.com/license
+servers:
+  - url: http://127.0.0.1:8080
+security:
+  - XScriptorApiToken: []
+paths:
+  /api/health:
+    get:
+      operationId: apiHealthPing
+      summary: Health ping
+      description: Lightweight ping endpoint for process liveness.
+      security: []
+      responses:
+        "200":
+          description: Service is reachable.
+          content:
+            text/plain:
+              schema:
+                type: string
+                example: ok
+        "429":
+          description: Too many requests.
+        "503":
+          description: Service unavailable.
+  /api/v1/ia/summary/chapter:
+    post:
+      operationId: generateChapterSummary
+      summary: Generate chapter summary
+      description: Creates a chapter summary from raw chapter text.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                chapterText:
+                  type: string
+              required:
+                - chapterText
+      responses:
+        "200":
+          description: Summary payload.
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+        "400":
+          description: Validation error.
+        "401":
+          description: Unauthorized (token required when enabled).
+        "429":
+          description: Too many requests (rate limit exceeded).
+  /api/v1/user/export:
+    get:
+      operationId: exportUserData
+      summary: Export local user data
+      description: Exports local desktop data as JSON attachment for portability.
+      responses:
+        "200":
+          description: JSON export payload.
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+        "401":
+          description: Unauthorized (token required when enabled).
+        "429":
+          description: Too many requests.
+  /api/v1/user/me:
+    delete:
+      operationId: deleteUserData
+      summary: Delete local user data
+      description: Deletes local data from primary tables on this workstation.
+      responses:
+        "200":
+          description: Deletion summary payload.
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+        "401":
+          description: Unauthorized (token required when enabled).
+        "429":
+          description: Too many requests.
+components:
+  securitySchemes:
+    XScriptorApiToken:
+      type: apiKey
+      in: header
+      name: X-Scriptor-Api-Token

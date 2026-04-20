@@ -1,5 +1,6 @@
 package com.scriptor.api.oauth;
 
+import jakarta.validation.Valid;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
@@ -36,7 +37,7 @@ public class GoogleDesktopOAuthController {
             value = "/token",
             consumes = MediaType.APPLICATION_JSON_VALUE,
             produces = MediaType.APPLICATION_JSON_VALUE)
-    public ResponseEntity<String> exchange(@RequestBody GoogleTokenExchangeRequest body) {
+    public ResponseEntity<String> exchange(@Valid @RequestBody GoogleTokenExchangeRequest body) {
         if (clientId.isBlank() || clientSecret.isBlank()) {
             log.warn("Échange token Google refusé : identifiants scriptor.oauth.google.* non configurés");
             return ResponseEntity.status(HttpStatus.SERVICE_UNAVAILABLE)
@@ -44,22 +45,6 @@ public class GoogleDesktopOAuthController {
                     .body(
                             "{\"error\":\"oauth_backend_not_configured\",\"error_description\":\"Configurer oauth-local.properties (exemple : oauth-local.properties.example) ou SCR_GOOGLE_DESKTOP_CLIENT_ID / SCR_GOOGLE_DESKTOP_CLIENT_SECRET\"}");
         }
-        if (body == null || body.code() == null || body.code().isBlank()) {
-            return ResponseEntity.badRequest()
-                    .contentType(MediaType.APPLICATION_JSON)
-                    .body("{\"error\":\"invalid_request\",\"error_description\":\"code manquant\"}");
-        }
-        if (body.redirectUri() == null || body.redirectUri().isBlank()) {
-            return ResponseEntity.badRequest()
-                    .contentType(MediaType.APPLICATION_JSON)
-                    .body("{\"error\":\"invalid_request\",\"error_description\":\"redirectUri manquant\"}");
-        }
-        if (body.codeVerifier() == null || body.codeVerifier().isBlank()) {
-            return ResponseEntity.badRequest()
-                    .contentType(MediaType.APPLICATION_JSON)
-                    .body("{\"error\":\"invalid_request\",\"error_description\":\"codeVerifier manquant\"}");
-        }
-
         log.info("Proxy OAuth Google : échange code → jeton (PKCE + secret serveur, code non journalisé)");
 
         MultiValueMap<String, String> form = new LinkedMultiValueMap<>();

@@ -1,5 +1,6 @@
 package com.scriptor.api.modules.characters;
 
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
@@ -20,13 +21,11 @@ public class ForgottenCharacterController {
 
     @PostMapping
     public CompletableFuture<ForgottenCharacterResponse> detectForgotten(
-            @RequestBody ForgottenCharacterRequest request
+            @Valid @RequestBody ForgottenCharacterRequest request
     ) {
-        String text = request != null ? request.getRecentText() : null;
+        String text = request.getRecentText();
         log.info("Requête REST reçue : /characters/forgotten (taille texte={})",
                 text == null ? 0 : text.length());
-        ForgottenCharacterRequest safe = new ForgottenCharacterRequest();
-        safe.setRecentText(text == null ? "" : text);
-        return forgottenCharacterService.detectForgottenCharacters(safe);
+        return forgottenCharacterService.detectForgottenCharacters(request);
     }
 }

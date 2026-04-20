@@ -63,7 +63,7 @@ export default function WritingIAPanel({
           className="mb-2 rounded-md border border-amber-600/60 bg-amber-950/40 px-2 py-2 text-xs text-amber-100"
           role="alert"
         >
-          <strong className="block text-amber-200">Scriptor IA — connexion API</strong>
+          <strong className="block text-amber-200">Studio Roman IA — connexion API</strong>
           <p className="mt-1 text-amber-100/90">{backendIssue}</p>
         </div>
       ) : null}

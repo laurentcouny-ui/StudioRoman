@@ -5,22 +5,12 @@
   "identifier": "fr.scriptor.desktop",
   "build": {
     "beforeDevCommand": "npm run vite:dev:1420",
-    "devUrl": "http://localhost:1420",
+    "devUrl": "http://localhost:14230",
     "beforeBuildCommand": "npm run build",
     "frontendDist": "../dist"
   },
   "app": {
     "windows": [
-      {
-        "label": "main",
-        "title": "Studio Roman",
-        "width": 1280,
-        "height": 800,
-        "minWidth": 900,
-        "minHeight": 600,
-        "visible": false,
-        "url": "index.html"
-      },
       {
         "label": "splashscreen",
         "title": "Studio Roman",
@@ -30,7 +20,20 @@
         "resizable": false,
         "center": true,
         "visible": true,
+        "alwaysOnTop": true,
         "url": "splashscreen.html"
+      },
+      {
+        "label": "main",
+        "title": "Studio Roman",
+        "width": 1280,
+        "height": 800,
+        "minWidth": 900,
+        "minHeight": 600,
+        "resizable": true,
+        "maximizable": true,
+        "visible": false,
+        "url": "index.html"
       }
     ],
     "security": {

@@ -1,5 +1,6 @@
 package com.scriptor.api.modules.analysis;
 
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
@@ -14,7 +15,7 @@ public class EndBookReviewController {
     private final EndBookReviewService endBookReviewService;
 
     @PostMapping
-    public CompletableFuture<EndBookReviewResponse> generateReview(@RequestBody EndBookReviewRequest request) {
+    public CompletableFuture<EndBookReviewResponse> generateReview(@Valid @RequestBody EndBookReviewRequest request) {
         log.info("Requête REST reçue : /analysis/review");
         return endBookReviewService.generateReview(request);
     }
