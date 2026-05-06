@@ -33,7 +33,7 @@
 #  ces URL depuis d'autres pages — toujours pointe sur la dernière release)
 [[redirects]]
   from = "/download/x64"
-  to = "https://github.com/laurentcouny-ui/StudioRoman/releases/latest"
+  to = "https://github.com/laurentcouny-ui/StudioRoman/releases/latest/download/Studio%20Roman_1.0.0_x64-setup.exe"
   status = 302
   force = true
 
