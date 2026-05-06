@@ -1,0 +1,43 @@
+# Netlify deployment config — Studio Roman vitrine
+# Site statique : aucun build, on publie le dossier tel quel.
+
+[build]
+  publish = "."
+  command = ""
+
+# Sécurité (en-têtes appliqués à toutes les réponses)
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+    Content-Security-Policy = "default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; script-src 'self'; font-src 'self' https://fonts.gstatic.com; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'"
+
+# Cache long pour les assets immuables (logo, icônes)
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Cache court pour le HTML (revalidation à chaque déploiement)
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Raccourcis vers les téléchargements GitHub Releases
+# (l'utilisateur tape /download/x64 dans le navigateur ou tu peux relier
+#  ces URL depuis d'autres pages — toujours pointe sur la dernière release)
+[[redirects]]
+  from = "/download/x64"
+  to = "https://github.com/laurentcouny-ui/StudioRoman/releases/latest"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/download"
+  to = "/#telechargement"
+  status = 302

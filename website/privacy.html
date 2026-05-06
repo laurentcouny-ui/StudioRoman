@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta
+    name="description"
+    content="Politique de confidentialite de Studio Roman : stockage local, sauvegardes cloud optionnelles, droits RGPD applicables."
+  />
+  <meta name="robots" content="index,follow" />
+  <title>Politique de confidentialité — Studio Roman</title>
+  <style>
+    body { margin: 0; padding: 2rem; background: #0f172a; color: #e2e8f0; font-family: system-ui, sans-serif; max-width: 720px; margin-left: auto; margin-right: auto; line-height: 1.6; }
+    h1 { font-size: 1.5rem; margin-bottom: 1rem; }
+    h2 { font-size: 1.1rem; margin-top: 1.5rem; margin-bottom: 0.5rem; }
+    p { margin: 0.5rem 0; }
+    a { color: #93c5fd; }
+    code { background: #1e293b; padding: 0.1em 0.4em; border-radius: 4px; font-size: 0.9em; }
+    .rgpd-box { border: 1px solid #334155; border-radius: 6px; padding: 1rem; margin-top: 0.5rem; background: #1e293b; }
+  </style>
+</head>
+<body>
+  <h1>Politique de confidentialité — Studio Roman</h1>
+  <p><strong>Dernière mise à jour :</strong> avril 2026</p>
+
+  <h2>1. Nature de l'application</h2>
+  <p>Studio Roman est une application <strong>desktop locale</strong> (architecture local-first). Vos données (textes, personnages, bible de l'univers) sont stockées exclusivement sur votre appareil, dans une base SQLite locale. <strong>Aucun compte utilisateur n'est créé sur un serveur tiers.</strong></p>
+
+  <h2>2. Aucune collecte par nos soins</h2>
+  <p>Nous ne collectons pas, ne stockons pas et ne traitons pas vos données personnelles sur un serveur distant. Il n'existe pas de base de données centralisée contenant vos écrits ou votre identité.</p>
+
+  <h2>3. Sauvegarde cloud optionnelle</h2>
+  <p>Si vous activez la sauvegarde sur Google Drive ou Dropbox, la connexion se fait directement entre votre appareil et ces services, via leur page d'autorisation officielle. Un fichier de sauvegarde est envoyé <strong>vers votre propre compte</strong>. Studio Roman n'a pas accès à ce compte ni à ces fichiers.</p>
+
+  <h2>4. Prestataires IA (optionnels)</h2>
+  <p>Si vous activez un fournisseur IA cloud (OpenAI, Anthropic, Google Gemini), les extraits de texte que vous soumettez sont transmis à l'API correspondante selon sa propre politique de confidentialité. Studio Roman ne conserve pas ces échanges en dehors de votre session locale. L'utilisation d'Ollama (IA locale) n'entraîne aucune transmission réseau.</p>
+
+  <h2>5. Cookies et suivi</h2>
+  <p>Studio Roman n'utilise pas de cookies de suivi ni de publicité. Le stockage local est utilisé uniquement pour enregistrer vos projets et préférences sur votre appareil.</p>
+
+  <h2>6. Vos droits RGPD</h2>
+  <p>Même en contexte desktop, vous disposez des droits suivants sur les données stockées localement :</p>
+  <div class="rgpd-box">
+    <p><strong>Droit d'accès et portabilité</strong> — Exportez l'intégralité de vos données (personnages, bible) au format JSON :</p>
+    <p><code>GET /api/v1/user/export</code> → téléchargement du fichier <em>studio-roman-user-export-[date].json</em></p>
+    <p style="margin-top:0.75rem;"><strong>Droit à l'effacement</strong> — Supprimez toutes vos données de l'espace de travail local :</p>
+    <p><code>DELETE /api/v1/user/me</code> → suppression des tables personnages et bible (irréversible)</p>
+    <p style="margin-top:0.75rem; font-size:0.9em; color:#94a3b8;">Ces endpoints sont accessibles uniquement depuis l'appareil local (loopback 127.0.0.1). Ils n'agissent que sur la base SQLite locale — aucune donnée distante n'est affectée.</p>
+  </div>
+
+  <h2>7. Hébergement et logs</h2>
+  <p>L'application peut être distribuée via des plateformes tierces (GitHub Releases, etc.). Ces plateformes peuvent collecter des données techniques (adresse IP, logs de téléchargement) conformément à leur propre politique. Le contenu de vos projets n'est jamais transmis lors du téléchargement de l'application.</p>
+
+  <h2>8. Contact</h2>
+  <p>Pour toute question relative à cette politique, contactez le développeur via les informations disponibles sur le dépôt du projet.</p>
+
+  <h2>9. Informations légales</h2>
+  <p>Les mentions légales sont disponibles ici : <a href="/mentions-legales.html">Mentions légales</a>.</p>
+</body>
+</html>
