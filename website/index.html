@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO core -->
+  <title>Studio Roman — Logiciel d'écriture pour romanciers et écrivains (Windows, gratuit)</title>
+  <meta name="description" content="Studio Roman est le logiciel d'écriture francophone pour romanciers : éditeur structuré, fiches personnages, bible d'univers, timeline, carte du monde, correcteur Gramalecte intégré, export DOCX/EPUB/PDF. 100 % local, sans abonnement. Alternative à Scrivener pour Windows." />
+  <meta name="keywords" content="logiciel écrivain, logiciel pour écrire un roman, logiciel d'écriture français, alternative Scrivener, logiciel auteur, logiciel autoédition, correcteur français logiciel, logiciel romancier, logiciel écriture livre, logiciel écriture créative" />
+  <meta name="author" content="Studio Roman" />
+  <meta name="robots" content="index,follow,max-image-preview:large" />
+  <meta name="theme-color" content="#0b0f1c" />
+  <link rel="canonical" href="https://studioroman.netlify.app/" />
+
+  <!-- Icons -->
+  <link rel="icon" href="/favicon.ico" sizes="any" />
+  <link rel="icon" href="/assets/icon-192.png" type="image/png" sizes="192x192" />
+  <link rel="apple-touch-icon" href="/assets/icon-192.png" />
+
+  <!-- Open Graph / social -->
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="fr_FR" />
+  <meta property="og:site_name" content="Studio Roman" />
+  <meta property="og:title" content="Studio Roman — Logiciel d'écriture pour romanciers" />
+  <meta property="og:description" content="L'atelier complet pour écrire ton roman : éditeur, personnages, univers, correcteur français. 100 % local, gratuit." />
+  <meta property="og:image" content="https://studioroman.netlify.app/assets/og-cover.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:url" content="https://studioroman.netlify.app/" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Studio Roman — Logiciel d'écriture pour romanciers" />
+  <meta name="twitter:description" content="L'atelier complet pour écrire ton roman. 100 % local, gratuit." />
+  <meta name="twitter:image" content="https://studioroman.netlify.app/assets/og-cover.png" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="/style.css" />
+
+  <!-- Structured data: SoftwareApplication -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Studio Roman",
+    "applicationCategory": "WritingApplication",
+    "operatingSystem": "Windows 10, Windows 11",
+    "description": "Logiciel d'écriture local-first pour romanciers : éditeur structuré, fiches personnages, bible d'univers, timeline, carte du monde, correcteur Gramalecte intégré, export DOCX/EPUB/PDF.",
+    "softwareVersion": "1.0.0",
+    "inLanguage": "fr",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "EUR"
+    },
+    "url": "https://studioroman.netlify.app/",
+    "downloadUrl": "https://github.com/laurentcouny-ui/StudioRoman/releases/latest",
+    "image": "https://studioroman.netlify.app/assets/logo-studio-roman.png",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Studio Roman",
+      "url": "https://studioroman.netlify.app/"
+    },
+    "featureList": [
+      "Éditeur de roman structuré (chapitres, scènes)",
+      "Correcteur français Gramalecte et LanguageTool intégrés",
+      "Thésaurus du romancier — 13 familles (émotions, conflits, lieux, atmosphères, etc.)",
+      "Fiches de personnages avec détection automatique",
+      "Bible d'univers (lieux, factions, règles)",
+      "Timeline narrative",
+      "Carte du monde interactive",
+      "Superprompt IA pour générer la carte du monde (Midjourney, Leonardo, Ideogram)",
+      "Superprompt IA pour générer la couverture de livre, basé sur l'analyse du manuscrit",
+      "Import DOCX, EPUB, PDF",
+      "Export DOCX, EPUB, PDF avec validation impression",
+      "Sauvegarde Google Drive et Dropbox optionnelle",
+      "IA optionnelle 100% gratuite via Ollama local, ou OpenAI / Anthropic / Gemini avec clé API"
+    ]
+  }
+  </script>
+
+  <!-- Structured data: FAQ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Studio Roman est-il gratuit ?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Oui, Studio Roman est 100 % gratuit, sans abonnement, sans achat in-app. Le code source est ouvert. Si tu choisis d'utiliser une IA cloud (OpenAI, Anthropic, Gemini), tu paies directement le fournisseur avec ta propre clé API. Tu peux aussi utiliser Ollama en local, et alors tout reste gratuit, y compris les fonctions IA." }
+      },
+      {
+        "@type": "Question",
+        "name": "Comment utiliser l'IA gratuitement avec Studio Roman ?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Installe Ollama (ollama.com), télécharge un modèle libre comme Llama 3, Mistral ou Qwen, puis Studio Roman le détecte automatiquement. Tout tourne sur ta machine, sans internet, sans token compté, sans carte bancaire." }
+      },
+      {
+        "@type": "Question",
+        "name": "Studio Roman est-il en version stable ?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Studio Roman est actuellement en phase de test alpha. Le logiciel est utilisable sur de vrais projets, mais des bugs sont possibles et l'interface peut évoluer. Tu peux signaler tout problème via GitHub Issues — chaque retour fait progresser le projet." }
+      },
+      {
+        "@type": "Question",
+        "name": "Studio Roman est-il une alternative à Scrivener en français ?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Oui. Studio Roman propose les fonctions essentielles de Scrivener (structure chapitre/scène, fiches personnages, bible d'univers, exports professionnels) avec en plus un correcteur français intégré (Gramalecte + LanguageTool), une vraie carte du monde, et une posture local-first stricte. Et c'est gratuit." }
+      },
+      {
+        "@type": "Question",
+        "name": "Mes textes sont-ils envoyés sur des serveurs ?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Non. Tes manuscrits sont stockés dans une base SQLite sur ton disque dur. Aucune télémétrie, aucun envoi automatique. Si tu actives la sauvegarde Google Drive ou Dropbox, le fichier part de ton appareil vers ton compte personnel — Studio Roman n'y a pas accès." }
+      },
+      {
+        "@type": "Question",
+        "name": "Puis-je utiliser Studio Roman sans IA ?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Bien sûr. Tous les modules d'écriture, de structuration et de correction fonctionnent sans IA. L'IA est un assistant facultatif que tu actives uniquement si tu le souhaites." }
+      },
+      {
+        "@type": "Question",
+        "name": "Quels formats d'export Studio Roman propose-t-il ?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Studio Roman exporte en DOCX (Word), EPUB (livre numérique) et PDF (avec validation impression PDF/X pour l'auto-édition ou l'envoi à un imprimeur)." }
+      },
+      {
+        "@type": "Question",
+        "name": "Sur quel système Studio Roman fonctionne-t-il ?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Studio Roman est disponible pour Windows 10 et Windows 11 (64 bits). Une version macOS est à l'étude." }
+      },
+      {
+        "@type": "Question",
+        "name": "Studio Roman convient-il aux auteurs autoédités ?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Oui, c'est un de ses publics privilégiés. L'export PDF avec validation impression et l'export EPUB couvrent les besoins typiques de l'auto-édition (KDP, Lulu, Bookelis, etc.). Le module Kit Média aide à préparer la communication autour du livre." }
+      },
+      {
+        "@type": "Question",
+        "name": "Le correcteur fonctionne-t-il hors-ligne ?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Oui. Gramalecte et LanguageTool sont embarqués dans l'application : aucune connexion internet n'est nécessaire pour corriger ton texte." }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a href="#main" class="skip-link">Aller au contenu</a>
+
+  <div class="top-banner" role="img" aria-label="Studio Roman — Donne vie à tes mondes">
+    <img src="/assets/banner-top.jpg" alt="" loading="eager" decoding="async" fetchpriority="high" width="1920" height="480" />
+  </div>
+
+  <div class="alpha-bar" role="region" aria-label="Statut du logiciel">
+    <div class="alpha-bar-inner">
+      <span class="alpha-tag">ALPHA TEST</span>
+      <span class="alpha-text">Studio Roman est en <strong>phase d'alpha test</strong> : une version pré-stable diffusée aux premiers utilisateurs pour traquer les derniers bugs avant la sortie publique. Le logiciel est utilisable sur de vrais projets, mais des comportements inattendus restent possibles — ton retour fait avancer le projet.</span>
+      <a class="alpha-link" href="mailto:hypnomodame@gmail.com?subject=Studio%20Roman%20-%20Signalement%20de%20bug" rel="noopener">Signaler un bug (email) →</a>
+    </div>
+  </div>
+
+  <header class="site-header">
+    <nav class="nav" aria-label="Navigation principale">
+      <a class="brand" href="#top">
+        <span>Studio Roman</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="#fonctionnalites">Fonctionnalités</a></li>
+        <li><a href="#thesaurus">Thésaurus</a></li>
+        <li><a href="#ia">IA</a></li>
+        <li><a href="#comparatif">Comparatif</a></li>
+        <li><a href="#faq">FAQ</a></li>
+      </ul>
+      <a class="btn btn-primary btn-sm nav-cta" href="#telechargement">
+        <span class="btn-icon" aria-hidden="true">↓</span> Télécharger
+      </a>
+    </nav>
+  </header>
+
+  <main id="main">
+
+    <!-- ─── HERO ────────────────────────────────────────── -->
+    <section class="hero" id="top">
+      <div class="hero-bg" aria-hidden="true"></div>
+      <div class="container hero-grid">
+        <div class="hero-text">
+          <span class="badge">
+            <span class="badge-dot"></span>
+            Phase alpha · Gratuit · 100 % local
+          </span>
+          <h1>L'atelier complet<br/>pour écrire <em>ton</em> roman.</h1>
+          <p class="lede">
+            Studio Roman réunit l'éditeur, les fiches de personnages, la bible d'univers, la timeline, la carte du monde et un correcteur français professionnel — dans une seule application Windows. Sans cloud forcé, sans abonnement, sans IA imposée.
+          </p>
+          <div class="cta-row">
+            <a class="btn btn-primary btn-lg" href="#telechargement">
+              <span class="btn-icon" aria-hidden="true">↓</span>
+              Télécharger pour Windows
+            </a>
+            <a class="btn btn-ghost btn-lg" href="#fonctionnalites">
+              Découvrir les fonctionnalités
+            </a>
+          </div>
+          <ul class="trust-row" aria-label="Garanties">
+            <li><span aria-hidden="true">✓</span> Windows 10 / 11</li>
+            <li><span aria-hidden="true">✓</span> Aucun compte requis</li>
+            <li><span aria-hidden="true">✓</span> Code source ouvert</li>
+            <li><span aria-hidden="true">✓</span> Correcteur intégré</li>
+          </ul>
+        </div>
+
+        <!-- Faux mockup d'application en CSS pur -->
+        <div class="hero-mockup" aria-hidden="true">
+          <div class="mockup-window">
+            <div class="mockup-titlebar">
+              <span class="dot dot-r"></span>
+              <span class="dot dot-y"></span>
+              <span class="dot dot-g"></span>
+              <span class="mockup-title">Studio Roman — Les Sentiers de Verre</span>
+            </div>
+            <div class="mockup-body">
+              <aside class="mockup-sidebar">
+                <div class="mockup-section">Manuscrit</div>
+                <div class="mockup-item">▾ Partie I — La Cité</div>
+                <div class="mockup-item mockup-sub">• Chap. 1 — Arrivée</div>
+                <div class="mockup-item mockup-sub mockup-active">• Chap. 2 — Le marché</div>
+                <div class="mockup-item mockup-sub">• Chap. 3 — La rencontre</div>
+                <div class="mockup-item">▸ Partie II — La Faille</div>
+                <div class="mockup-section">Personnages</div>
+                <div class="mockup-item">◐ Eléna</div>
+                <div class="mockup-item">◐ Tibério</div>
+                <div class="mockup-item">◐ Maître Vorn</div>
+              </aside>
+              <div class="mockup-editor">
+                <div class="mockup-chapter">Chapitre 2 — Le marché</div>
+                <p>La pluie n'avait pas cessé depuis trois jours et l'odeur du <span class="grammar-warn">poissons</span> stagnait entre les pavés. Eléna ajusta sa capuche et avança.</p>
+                <p>Devant elle, l'étal du marchand d'épices brillait <span class="grammar-info">d'une</span> lueur orangée — une promesse de chaleur dans la grisaille.</p>
+                <p>« Tu cherches encore quelque chose qui n'existe pas », dit Tibério en émergeant de l'ombre.</p>
+                <p class="mockup-cursor"></p>
+              </div>
+              <aside class="mockup-rightbar">
+                <div class="mockup-stat">
+                  <div class="mockup-stat-label">Mots aujourd'hui</div>
+                  <div class="mockup-stat-value">1 247</div>
+                  <div class="mockup-progress"><span style="width: 62%"></span></div>
+                </div>
+                <div class="mockup-stat">
+                  <div class="mockup-stat-label">Chapitre</div>
+                  <div class="mockup-stat-value">3 480 mots</div>
+                </div>
+                <div class="mockup-stat mockup-stat-soft">
+                  <div class="mockup-stat-label">Correcteur</div>
+                  <div class="mockup-stat-value mockup-stat-tiny">2 suggestions</div>
+                </div>
+              </aside>
+            </div>
+            <div class="mockup-statusbar">
+              <span>● Connecté hors-ligne</span>
+              <span>Sauvegarde automatique · il y a 4 s</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── POUR QUI ────────────────────────────────────── -->
+    <section class="section section-tight" aria-labelledby="audience-title">
+      <div class="container">
+        <h2 id="audience-title" class="section-eyebrow">Pensé pour les écrivains, par un écrivain</h2>
+        <div class="audience-layout">
+          <div class="audience-grid">
+            <div class="audience-card">
+              <div class="audience-icon" aria-hidden="true">📚</div>
+              <h3>Romanciers</h3>
+              <p>Tu travailles sur un roman, une saga ou un cycle. Tu as besoin de garder le fil entre 30 personnages et 200 000 mots — sans tableau Excel parallèle.</p>
+            </div>
+            <div class="audience-card">
+              <div class="audience-icon" aria-hidden="true">🚀</div>
+              <h3>Auteurs autoédités</h3>
+              <p>Tu publies sur KDP, Bookelis ou Lulu. Tu veux exporter un EPUB et un PDF imprimables sans gymnastique technique. Studio Roman s'arrête à la livraison du fichier.</p>
+            </div>
+            <div class="audience-card">
+              <div class="audience-icon" aria-hidden="true">🌍</div>
+              <h3>Auteurs d'imaginaire</h3>
+              <p>Fantasy, SF, uchronie. Une bible d'univers vivante, une carte interactive, une timeline qui ne ment pas — pour tenir la cohérence sur des centaines de pages.</p>
+            </div>
+          </div>
+          <figure class="audience-photo">
+            <img src="/assets/photos/laptop-notebook.jpg" alt="Une jeune femme allongée, en train d'écrire dans un carnet entouré de livres ouverts" loading="lazy" decoding="async" />
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── FONCTIONNALITÉS ─────────────────────────────── -->
+    <section class="section" id="fonctionnalites" aria-labelledby="features-title">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Tout l'atelier, en local</span>
+          <h2 id="features-title">De la première idée au manuscrit livrable</h2>
+          <p class="section-intro">
+            Pas un éditeur de texte avec des plugins. Une suite pensée d'un bloc pour le travail romanesque, où chaque module connaît les autres.
+          </p>
+        </div>
+
+        <!-- Feature 1 : Écriture -->
+        <article class="feature-row">
+          <div class="feature-copy">
+            <div class="feature-eyebrow">01 · Écriture</div>
+            <h3>Un éditeur qui pense en chapitres et en scènes</h3>
+            <p>Découpe ton manuscrit en parties, chapitres et scènes. Réorganise par glisser-déposer. Mode plein écran sans distraction quand l'inspiration arrive. Sauvegarde automatique à chaque seconde — tu n'auras plus jamais à appuyer sur Ctrl+S.</p>
+            <ul class="feature-points">
+              <li>Structure hiérarchique illimitée</li>
+              <li>Suivi des mots par scène, chapitre, jour</li>
+              <li>Mode focus et mode machine à écrire</li>
+              <li>Recherche globale dans tout le projet</li>
+            </ul>
+          </div>
+          <div class="feature-visual">
+            <div class="visual-card">
+              <div class="visual-card-head">Manuscrit · Les Sentiers de Verre</div>
+              <ul class="visual-tree">
+                <li class="t-folder open">▾ Partie I — La Cité <span class="t-meta">42 380 mots</span></li>
+                <li class="t-file">Chapitre 1 — Arrivée <span class="t-meta">3 102</span></li>
+                <li class="t-file active">Chapitre 2 — Le marché <span class="t-meta">3 480</span></li>
+                <li class="t-file">Chapitre 3 — La rencontre <span class="t-meta">2 940</span></li>
+                <li class="t-folder">▸ Partie II — La Faille <span class="t-meta">28 150 mots</span></li>
+                <li class="t-folder">▸ Partie III — L'Ombre du Roi <span class="t-meta">12 000 mots</span></li>
+              </ul>
+            </div>
+          </div>
+        </article>
+
+        <!-- Feature 2 : Bible d'univers -->
+        <article class="feature-row feature-row-reverse">
+          <div class="feature-copy">
+            <div class="feature-eyebrow">02 · Bible d'univers</div>
+            <h3>Ton univers, vivant et cohérent</h3>
+            <p>Lieux, factions, magie, technologies, lois internes. La bible d'univers regroupe tout ce qui rend ton monde unique — et te le rappelle quand tu écris page 400 et que tu as oublié comment fonctionne l'économie de tes elfes.</p>
+            <ul class="feature-points">
+              <li>Catégories et sous-catégories libres</li>
+              <li>Liens croisés entre lieux, personnages et événements</li>
+              <li>Suggestions de cohérence (IA optionnelle)</li>
+              <li>Recherche instantanée</li>
+            </ul>
+          </div>
+          <div class="feature-visual">
+            <div class="visual-card visual-card-bible">
+              <div class="visual-card-head">Bible · La Cité de Verre</div>
+              <div class="bible-block">
+                <div class="bible-tag">Lieu</div>
+                <div class="bible-title">Le Marché des Brumes</div>
+                <p class="bible-text">Marché flottant de la basse-ville. Ouvert à l'aube, ferme avant la marée haute. Connu pour ses épices interdites du Sud.</p>
+              </div>
+              <div class="bible-links">
+                <span class="link-pill">→ Eléna (visite chap. 2)</span>
+                <span class="link-pill">→ Faction Marchande</span>
+                <span class="link-pill">→ Épice de Vorn</span>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <!-- Feature 3 : Personnages -->
+        <article class="feature-row">
+          <div class="feature-copy">
+            <div class="feature-eyebrow">03 · Personnages</div>
+            <h3>Des fiches qui se remplissent toutes seules</h3>
+            <p>Studio Roman lit ton manuscrit et détecte automatiquement les personnages — ceux que tu as définis, et ceux qui apparaissent sans fiche. Plus de personnage oublié pendant 10 chapitres puis ressorti du chapeau.</p>
+            <ul class="feature-points">
+              <li>Détection automatique dans le texte</li>
+              <li>Alerte sur les personnages oubliés depuis trop longtemps</li>
+              <li>Fiches : apparence, voix, arc, relations</li>
+              <li>Vue relations (qui connaît qui)</li>
+            </ul>
+          </div>
+          <div class="feature-visual">
+            <div class="visual-card visual-card-char">
+              <div class="char-header">
+                <div class="char-avatar">E</div>
+                <div>
+                  <div class="char-name">Eléna Voss</div>
+                  <div class="char-role">Protagoniste · 24 ans</div>
+                </div>
+              </div>
+              <div class="char-stats">
+                <div><strong>Apparitions</strong><span>47 scènes</span></div>
+                <div><strong>Dernière scène</strong><span>Chap. 12</span></div>
+                <div><strong>Arc</strong><span>Doute → Action</span></div>
+              </div>
+              <div class="char-warning">
+                <span aria-hidden="true">⚠</span> Tibério n'apparaît plus depuis 8 chapitres.
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <!-- Feature 4 : Correcteur -->
+        <article class="feature-row feature-row-reverse">
+          <div class="feature-copy">
+            <div class="feature-eyebrow">04 · Correcteur français</div>
+            <h3>Gramalecte + LanguageTool, embarqués</h3>
+            <p>Le correcteur grammatical le plus reconnu en français (Gramalecte) <strong>et</strong> LanguageTool, intégrés et fonctionnels hors-ligne. Tes textes ne sortent jamais de ta machine pour être corrigés.</p>
+            <ul class="feature-points">
+              <li>Grammaire, orthographe, conjugaison, typographie</li>
+              <li>Suggestions de reformulation</li>
+              <li>Dictionnaire personnel par projet</li>
+              <li>Correction sans connexion internet</li>
+            </ul>
+          </div>
+          <div class="feature-visual">
+            <div class="visual-card visual-card-corrector">
+              <p>Elle <span class="g-error">a manger</span> un fruit puis elle <span class="g-error">est partit</span>.</p>
+              <div class="g-suggestion">
+                <div class="g-suggestion-head"><span class="g-dot"></span> Conjugaison · « a mangé »</div>
+                <div class="g-suggestion-text">« manger » au passé composé : participe passé en <em>-é</em>.</div>
+                <div class="g-suggestion-actions">
+                  <span class="g-btn g-btn-primary">Appliquer</span>
+                  <span class="g-btn">Ignorer</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <!-- Feature 5 : Publication -->
+        <article class="feature-row">
+          <div class="feature-copy">
+            <div class="feature-eyebrow">05 · Publication</div>
+            <h3>Du manuscrit au livre, sans intermédiaire</h3>
+            <p>Exporte ton roman en DOCX pour un éditeur, en EPUB pour Kobo et Kindle, ou en PDF prêt pour l'impression — avec validation PDF/X intégrée pour ne pas te faire refuser ton fichier par l'imprimeur.</p>
+            <ul class="feature-points">
+              <li>Export DOCX, EPUB 3, PDF</li>
+              <li>Validation PDF/X pour l'impression pro</li>
+              <li>Mise en page typographique soignée (veuves, orphelines, césure)</li>
+              <li>Vérification EPUB intégrée (epubcheck)</li>
+            </ul>
+          </div>
+          <div class="feature-visual">
+            <div class="visual-card visual-card-export">
+              <div class="export-row export-active">
+                <div class="export-icon">DOCX</div>
+                <div class="export-info"><strong>Manuscrit éditeur</strong><span>Format Word avec styles</span></div>
+                <div class="export-check" aria-hidden="true">✓</div>
+              </div>
+              <div class="export-row">
+                <div class="export-icon">EPUB</div>
+                <div class="export-info"><strong>Livre numérique</strong><span>EPUB 3 — validé epubcheck</span></div>
+                <div class="export-check" aria-hidden="true">✓</div>
+              </div>
+              <div class="export-row">
+                <div class="export-icon export-pdf">PDF</div>
+                <div class="export-info"><strong>Bon à tirer</strong><span>PDF/X-1a, 600 dpi, traits de coupe</span></div>
+                <div class="export-check" aria-hidden="true">✓</div>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <!-- Feature 6 : Superprompt carte du monde -->
+        <article class="feature-row feature-row-reverse">
+          <div class="feature-copy">
+            <div class="feature-eyebrow">06 · Superprompt carte du monde · IA</div>
+            <h3>Génère la carte de ton univers en quelques minutes</h3>
+            <p>Studio Roman ne dessine pas la carte à ta place — il fabrique le <strong>superprompt parfait</strong> que tu colles ensuite dans Midjourney, Leonardo AI ou Ideogram. Tu remplis un questionnaire structuré (genre, ère, géographie, climat, civilisations, points de repère, échelle), Studio Roman assemble une description riche et cohérente, prête à donner un résultat exploitable du premier coup.</p>
+            <ul class="feature-points">
+              <li>Questionnaire pensé pour la cartographie narrative</li>
+              <li>Calcul d'échelle réaliste (km · jours de voyage à pied, cheval, bateau)</li>
+              <li>Tutoriels intégrés pour chaque générateur d'image</li>
+              <li>Tu gardes la maîtrise totale du rendu visuel</li>
+            </ul>
+          </div>
+          <div class="feature-visual">
+            <div class="visual-card visual-card-prompt">
+              <div class="prompt-header">
+                <span class="prompt-tag">Carte fantasy · Continent</span>
+                <span class="prompt-target">→ Midjourney</span>
+              </div>
+              <div class="prompt-body">
+                <span class="prompt-line">Ancient cartographer's map, parchment texture, sepia inks,</span>
+                <span class="prompt-line">vast continent west, archipelago east, central inland sea,</span>
+                <span class="prompt-line">mountain ranges with hand-drawn shading, two major rivers,</span>
+                <span class="prompt-line">3 kingdoms with fine political borders, compass rose,</span>
+                <span class="prompt-line">title cartouche, biome legend, scale 1cm = 80km</span>
+                <span class="prompt-flags">--ar 3:2 --stylize 200 --v 7</span>
+              </div>
+              <div class="prompt-footer">
+                <span class="prompt-btn prompt-btn-primary">Copier le superprompt</span>
+                <span class="prompt-btn">Ouvrir Midjourney</span>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <!-- Feature 7 : Superprompt couverture de livre -->
+        <article class="feature-row">
+          <div class="feature-copy">
+            <div class="feature-eyebrow">07 · Superprompt couverture · IA</div>
+            <h3>Une couverture qui ressemble à <em>ton</em> roman, pas à un cliché</h3>
+            <p>Studio Roman <strong>analyse ton manuscrit</strong> — vraiment — pour proposer un superprompt de couverture sur-mesure. Il infère la palette dominante depuis ton vocabulaire, la composition selon la densité de dialogue, le genre visuel à partir des thèmes récurrents, le personnage principal croisé avec ta bible, et les motifs visuels qui reviennent dans ton texte (lune, mer, forêt, flamme, couronne…). Tu obtiens un prompt nourri par ton propre roman.</p>
+            <ul class="feature-points">
+              <li>Analyse du manuscrit (palette, composition, genre, personnage)</li>
+              <li>Croisement avec la bible d'univers</li>
+              <li>Détection des motifs visuels récurrents</li>
+              <li>Compatible Midjourney, Leonardo, Ideogram, DALL·E</li>
+            </ul>
+          </div>
+          <div class="feature-visual">
+            <div class="visual-card visual-card-cover">
+              <div class="cover-analysis">
+                <div class="cover-analysis-row"><span class="ca-label">Palette dominante</span><span class="ca-value">bleus désaturés <em>(0.91)</em></span></div>
+                <div class="cover-analysis-row"><span class="ca-label">Composition</span><span class="ca-value">centrée personnage <em>(0.82)</em></span></div>
+                <div class="cover-analysis-row"><span class="ca-label">Genre visuel</span><span class="ca-value">fantasy organique <em>(0.91)</em></span></div>
+                <div class="cover-analysis-row"><span class="ca-label">Personnage</span><span class="ca-value">Eléna Voss <em>(0.84)</em></span></div>
+                <div class="cover-analysis-row"><span class="ca-label">Motifs détectés</span><span class="ca-value">lune · mer · pluie</span></div>
+              </div>
+              <div class="cover-prompt">
+                <span class="cover-prompt-label">Superprompt généré</span>
+                <p>Book cover, fantasy organique, central female figure (cloak, rain-soaked), desaturated blues, moonlit sea backdrop, painterly hand-drawn, hardback edition…</p>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <!-- Et plus encore — grille -->
+        <div class="more-grid">
+          <h3 class="more-title">Et aussi inclus, sans supplément</h3>
+          <ul class="more-list">
+            <li><strong>📊 Tableau de bord</strong><span>Objectifs, séries, statistiques d'écriture</span></li>
+            <li><strong>🕰️ Timeline</strong><span>Chronologie narrative pour traquer les incohérences</span></li>
+            <li><strong>🗺️ Carte du monde</strong><span>Carte interactive avec lieux épinglés</span></li>
+            <li><strong>📥 Import</strong><span>DOCX, EPUB, PDF — récupère ton manuscrit existant</span></li>
+            <li><strong>☁️ Sauvegarde cloud</strong><span>Google Drive ou Dropbox, sur ton compte</span></li>
+            <li><strong>📣 Kit média</strong><span>Visuels et accroches pour ta communication</span></li>
+            <li><strong>🤖 IA optionnelle</strong><span>Ollama local ou OpenAI, Anthropic, Gemini avec ta clé</span></li>
+            <li><strong>📚 Guide intégré</strong><span>Aide contextuelle, raccourcis, tutoriels</span></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── COMPARATIF ──────────────────────────────────── -->
+    <section class="section section-alt" id="comparatif" aria-labelledby="cmp-title">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Pourquoi changer</span>
+          <h2 id="cmp-title">Studio Roman face aux outils que tu utilises peut-être</h2>
+          <p class="section-intro">WriteControl est payant. Scrivener n'est pas en français. Word t'écrit des thèses. Google Docs collecte tes données. Studio Roman réunit ce qu'il fallait.</p>
+        </div>
+
+        <div class="cmp-table-wrap">
+          <table class="cmp-table">
+            <caption class="visually-hidden">Comparatif Studio Roman, Word, Scrivener, Google Docs</caption>
+            <thead>
+              <tr>
+                <th scope="col">Fonctionnalité</th>
+                <th scope="col" class="cmp-highlight">Studio Roman</th>
+                <th scope="col">WriteControl</th>
+                <th scope="col">Scrivener</th>
+                <th scope="col">MS Word</th>
+                <th scope="col">Google Docs</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><th scope="row">Pensé pour le roman</th><td class="cmp-highlight cmp-yes">✓</td><td class="cmp-yes">✓</td><td class="cmp-yes">✓</td><td class="cmp-no">—</td><td class="cmp-no">—</td></tr>
+              <tr><th scope="row">Fiches personnages</th><td class="cmp-highlight cmp-yes">✓ détection auto</td><td class="cmp-yes">✓</td><td class="cmp-partial">basique</td><td class="cmp-no">—</td><td class="cmp-no">—</td></tr>
+              <tr><th scope="row">Bible d'univers</th><td class="cmp-highlight cmp-yes">✓ liens croisés</td><td class="cmp-partial">basique</td><td class="cmp-partial">basique</td><td class="cmp-no">—</td><td class="cmp-no">—</td></tr>
+              <tr><th scope="row">Carte du monde</th><td class="cmp-highlight cmp-yes">✓ + superprompt IA</td><td class="cmp-no">—</td><td class="cmp-no">—</td><td class="cmp-no">—</td><td class="cmp-no">—</td></tr>
+              <tr><th scope="row">Timeline narrative</th><td class="cmp-highlight cmp-yes">✓</td><td class="cmp-yes">✓</td><td class="cmp-no">—</td><td class="cmp-no">—</td><td class="cmp-no">—</td></tr>
+              <tr><th scope="row">Correcteur français pro</th><td class="cmp-highlight cmp-yes">Gramalecte + LT</td><td class="cmp-partial">basique</td><td class="cmp-partial">basique</td><td class="cmp-partial">basique</td><td class="cmp-partial">basique</td></tr>
+              <tr><th scope="row">Thésaurus du romancier</th><td class="cmp-highlight cmp-yes">13 familles, fiches riches</td><td class="cmp-partial">synonymes</td><td class="cmp-no">—</td><td class="cmp-partial">synonymes</td><td class="cmp-partial">synonymes</td></tr>
+              <tr><th scope="row">Export EPUB / PDF imprimable</th><td class="cmp-highlight cmp-yes">✓ PDF/X validé</td><td class="cmp-yes">✓</td><td class="cmp-yes">✓</td><td class="cmp-partial">PDF</td><td class="cmp-partial">PDF</td></tr>
+              <tr><th scope="row">100 % local</th><td class="cmp-highlight cmp-yes">✓</td><td class="cmp-yes">✓</td><td class="cmp-yes">✓</td><td class="cmp-partial">selon version</td><td class="cmp-no">cloud obligatoire</td></tr>
+              <tr><th scope="row">Sans abonnement</th><td class="cmp-highlight cmp-yes">✓ gratuit</td><td class="cmp-no">payant</td><td class="cmp-partial">~60 € à vie</td><td class="cmp-no">365 €/an</td><td class="cmp-partial">freemium</td></tr>
+              <tr><th scope="row">Interface française</th><td class="cmp-highlight cmp-yes">✓</td><td class="cmp-yes">✓</td><td class="cmp-no">EN principalement</td><td class="cmp-yes">✓</td><td class="cmp-yes">✓</td></tr>
+              <tr><th scope="row">IA gratuite (locale, illimitée)</th><td class="cmp-highlight cmp-yes">via Ollama</td><td class="cmp-no">—</td><td class="cmp-no">—</td><td class="cmp-partial">Copilot payant</td><td class="cmp-partial">Gemini limité</td></tr>
+              <tr><th scope="row">Superprompt carte / couverture</th><td class="cmp-highlight cmp-yes">✓</td><td class="cmp-no">—</td><td class="cmp-no">—</td><td class="cmp-no">—</td><td class="cmp-no">—</td></tr>
+              <tr><th scope="row">Code source ouvert</th><td class="cmp-highlight cmp-yes">✓</td><td class="cmp-no">—</td><td class="cmp-no">—</td><td class="cmp-no">—</td><td class="cmp-no">—</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="cmp-note">Comparatif établi sur les fonctionnalités revendiquées par chaque éditeur en 2026. Les prix peuvent varier.</p>
+      </div>
+    </section>
+
+    <!-- ─── BANDEAU CINÉMATIQUE ─────────────────────────── -->
+    <section class="hero-banner" aria-labelledby="banner-title">
+      <img src="/assets/photos/bookshelf.jpg" alt="" class="hero-banner-img" loading="lazy" decoding="async" aria-hidden="true" />
+      <div class="hero-banner-overlay"></div>
+      <div class="container hero-banner-inner">
+        <span class="eyebrow">L'atelier d'un romancier</span>
+        <h2 id="banner-title">Écrire un livre, c'est tenir un univers entier dans une seule tête.</h2>
+        <p>Studio Roman te donne les outils pour le faire — et le faire <em>bien</em>.</p>
+      </div>
+    </section>
+
+    <!-- ─── THÉSAURUS ──────────────────────────────────── -->
+    <section class="section" id="thesaurus" aria-labelledby="thes-title">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Module phare</span>
+          <h2 id="thes-title">Le thésaurus du romancier — 13 familles, des milliers d'entrées</h2>
+          <p class="section-intro">L'arme secrète des écrivains professionnels. Quand tu cherches comment <em>montrer</em> la peur sans écrire « il avait peur », quand tu veux la bonne nuance entre orgueil et arrogance, quand un lieu doit avoir une vraie atmosphère — le thésaurus de Studio Roman te donne la matière brute. Pas des synonymes. Des comportements, des sensations, des images.</p>
+        </div>
+
+        <div class="thes-grid">
+          <div class="thes-left">
+            <h3>Treize familles couvrant tout le travail romanesque</h3>
+            <ul class="thes-families">
+              <li><span class="thes-dot" style="--c: #7c6fcd"></span>Émotions</li>
+              <li><span class="thes-dot" style="--c: #5b9bd5"></span>États physiques</li>
+              <li><span class="thes-dot" style="--c: #e8a838"></span>Traits de caractère</li>
+              <li><span class="thes-dot" style="--c: #d95f5f"></span>Conflits</li>
+              <li><span class="thes-dot" style="--c: #c0697a"></span>Blessures émotionnelles</li>
+              <li><span class="thes-dot" style="--c: #5ca87f"></span>Dynamiques relationnelles</li>
+              <li><span class="thes-dot" style="--c: #e07840"></span>Motivations</li>
+              <li><span class="thes-dot" style="--c: #6fa5a5"></span>Lieux</li>
+              <li><span class="thes-dot" style="--c: #8a7ea8"></span>Atmosphères</li>
+              <li><span class="thes-dot" style="--c: #6baec6"></span>Météo</li>
+              <li><span class="thes-dot" style="--c: #5b9b6b"></span>Éléments sensoriels</li>
+              <li><span class="thes-dot" style="--c: #b07840"></span>Objets narratifs</li>
+              <li><span class="thes-dot" style="--c: #7a8ca0"></span>Professions</li>
+            </ul>
+            <p class="thes-blurb">Chaque entrée est une fiche riche : <strong>signes physiques</strong>, <strong>sensations internes</strong>, <strong>pensées</strong>, <strong>voix et langage</strong>, <strong>comportements</strong>, <strong>masques possibles</strong>, <strong>évolutions narratives</strong>, <strong>croyances induites</strong>. Tu ne cherches plus un mot — tu cherches une scène à écrire.</p>
+            <p class="thes-blurb">Recherche par <strong>intention</strong> : tape « il a perdu confiance », « la pièce est inquiétante », « il ment sans se trahir » — Studio Roman te ramène les bonnes entrées dans les bonnes familles, classées par pertinence.</p>
+          </div>
+
+          <div class="thes-right">
+            <div class="thes-card">
+              <div class="thes-card-head">
+                <span class="thes-tag" style="background: rgba(124, 111, 205, 0.18); color: #b3a8ec">Émotion</span>
+                <h4>Honte profonde</h4>
+              </div>
+              <div class="thes-section-title">Signes physiques</div>
+              <ul class="thes-list">
+                <li>Le visage s'embrase, les oreilles d'abord</li>
+                <li>Le regard cherche le sol, fuit les yeux</li>
+                <li>Les épaules se tassent, comme pour disparaître</li>
+              </ul>
+              <div class="thes-section-title">Sensations internes</div>
+              <ul class="thes-list">
+                <li>Estomac qui se contracte, nausée légère</li>
+                <li>Sentiment de chaleur diffuse dans la poitrine</li>
+              </ul>
+              <div class="thes-section-title">Masques possibles</div>
+              <ul class="thes-list">
+                <li>Rire jaune, blague auto-dépréciative pour devancer</li>
+                <li>Agressivité défensive, attaque de la personne témoin</li>
+              </ul>
+              <div class="thes-section-title">Évolutions possibles</div>
+              <ul class="thes-list">
+                <li>→ vers <em>retrait</em>, <em>colère retournée</em></li>
+                <li>→ vers <em>rédemption</em> si confiance restaurée</li>
+              </ul>
+              <div class="thes-foot">Recherche : « il a honte sans le montrer » · 4 résultats</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── BANDEAU CINÉMATIQUE — métier ────────────────── -->
+    <section class="hero-banner" aria-labelledby="banner-craft-title">
+      <img src="/assets/photos/writer-desk.jpg" alt="" class="hero-banner-img" loading="lazy" decoding="async" aria-hidden="true" />
+      <div class="hero-banner-overlay"></div>
+      <div class="container hero-banner-inner">
+        <span class="eyebrow">Le métier d'écrire</span>
+        <h2 id="banner-craft-title">Tenir un atelier, c'est revenir tous les jours à la table.</h2>
+        <p>Studio Roman attend ton retour, sans bruit, sans abonnement, sans rien à valider.</p>
+      </div>
+    </section>
+
+    <!-- ─── IA + OLLAMA ─────────────────────────────────── -->
+    <section class="section section-alt" id="ia" aria-labelledby="ia-title">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Intelligence artificielle</span>
+          <h2 id="ia-title">L'IA optionnelle, à <em>tes</em> conditions</h2>
+          <p class="section-intro">Studio Roman intègre des fonctions assistées par IA — suggestions de cohérence sur ta bible d'univers, génération de superprompts pour la carte et la couverture, aide à la fiche personnage, reformulations. Mais aucune de ces fonctions n'est obligatoire, et <strong>aucune ne te coûte un centime si tu choisis Ollama</strong>.</p>
+        </div>
+
+        <div class="ia-grid">
+          <article class="ia-card ia-card-free">
+            <div class="ia-card-head">
+              <div class="ia-icon">🦙</div>
+              <div>
+                <div class="ia-eyebrow">Voie 100 % gratuite</div>
+                <h3>Ollama en local</h3>
+              </div>
+            </div>
+            <p class="ia-lead">Installe <a href="https://ollama.com/" rel="noopener">Ollama</a> sur ton PC, télécharge un modèle (Llama 3, Mistral, Qwen…), connecte-le à Studio Roman en deux clics. Tout tourne <strong>sur ta machine</strong>.</p>
+            <ul class="ia-points">
+              <li><span>✓</span> Aucune connexion internet requise après installation</li>
+              <li><span>✓</span> Aucune limite d'usage, aucun token compté</li>
+              <li><span>✓</span> Tes textes ne sortent jamais de ton PC</li>
+              <li><span>✓</span> Aucune carte bancaire, jamais</li>
+              <li><span>✓</span> Studio Roman détecte automatiquement Ollama au lancement</li>
+            </ul>
+            <div class="ia-note">Recommandé : 8 Go de RAM minimum, 16 Go pour les meilleurs modèles. Un GPU NVIDIA accélère, mais n'est pas obligatoire.</div>
+          </article>
+
+          <article class="ia-card">
+            <div class="ia-card-head">
+              <div class="ia-icon">☁️</div>
+              <div>
+                <div class="ia-eyebrow">Voie haute performance</div>
+                <h3>API tierces avec <em>ta</em> clé</h3>
+              </div>
+            </div>
+            <p class="ia-lead">Si tu veux la qualité maximale, Studio Roman se connecte à <strong>OpenAI, Anthropic ou Google Gemini</strong> — avec ta propre clé API. Tu paies directement le fournisseur (quelques centimes par session typique). Studio Roman ne prélève rien.</p>
+            <ul class="ia-points">
+              <li><span>✓</span> Qualité de génération supérieure</li>
+              <li><span>✓</span> Plus rapide qu'un modèle local sans GPU</li>
+              <li><span>✓</span> Estimation du coût avant chaque appel</li>
+              <li><span>✓</span> Bascule entre fournisseurs en un clic</li>
+              <li><span>✓</span> Tu peux la désactiver à tout moment</li>
+            </ul>
+            <div class="ia-note">Studio Roman ne stocke jamais tes clés ailleurs que sur ton appareil. Aucun proxy, aucun intermédiaire.</div>
+          </article>
+        </div>
+
+        <div class="ia-uses">
+          <h3>Ce que l'IA fait dans Studio Roman</h3>
+          <div class="ia-uses-grid">
+            <div class="ia-use">
+              <div class="ia-use-icon">🗺️</div>
+              <strong>Superprompt carte du monde</strong>
+              <span>Assemble un prompt riche pour Midjourney, Leonardo, Ideogram à partir d'un questionnaire.</span>
+            </div>
+            <div class="ia-use">
+              <div class="ia-use-icon">📕</div>
+              <strong>Superprompt couverture</strong>
+              <span>Analyse ton manuscrit pour proposer un visuel de couverture sur-mesure.</span>
+            </div>
+            <div class="ia-use">
+              <div class="ia-use-icon">📖</div>
+              <strong>Cohérence de l'univers</strong>
+              <span>Détecte les contradictions entre ta bible et ton manuscrit (lieux, règles, personnages).</span>
+            </div>
+            <div class="ia-use">
+              <div class="ia-use-icon">👥</div>
+              <strong>Fiches personnages</strong>
+              <span>Suggère arc, motivations, relations à partir de la présence du personnage dans le texte.</span>
+            </div>
+            <div class="ia-use">
+              <div class="ia-use-icon">✍️</div>
+              <strong>Reformulation</strong>
+              <span>Propose des variantes pour une phrase qui sonne mal, sans toucher au reste du texte.</span>
+            </div>
+            <div class="ia-use">
+              <div class="ia-use-icon">🚫</div>
+              <strong>Mode sans IA</strong>
+              <span>Désactive tout. L'éditeur, le correcteur, le thésaurus, les exports fonctionnent intégralement sans assistant.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── BANDEAU CINÉMATIQUE — local first ───────────── -->
+    <section class="hero-banner" aria-labelledby="banner-machine-title">
+      <img src="/assets/photos/hands-typing.jpg" alt="" class="hero-banner-img" loading="lazy" decoding="async" aria-hidden="true" />
+      <div class="hero-banner-overlay"></div>
+      <div class="container hero-banner-inner">
+        <span class="eyebrow">Là où ça s'écrit vraiment</span>
+        <h2 id="banner-machine-title">Un manuscrit ne s'écrit pas dans un onglet de navigateur.</h2>
+        <p>Studio Roman vit sur ton disque, exactement là où sont tes idées — pas sur un serveur que tu ne connais pas.</p>
+      </div>
+    </section>
+
+    <!-- ─── CONFIDENTIALITÉ ─────────────────────────────── -->
+    <section class="section" id="confidentialite" aria-labelledby="conf-title">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Local-first, sérieusement</span>
+          <h2 id="conf-title">Tes manuscrits ne sortent pas de ta machine</h2>
+          <p class="section-intro">La plupart des outils d'écriture modernes sont en réalité des collecteurs de données déguisés en éditeurs. Studio Roman fait exactement le contraire.</p>
+        </div>
+        <div class="privacy-grid">
+          <div class="privacy-block">
+            <div class="privacy-num">01</div>
+            <h3>Stockage 100 % local</h3>
+            <p>Tes textes vivent dans une base SQLite sur ton disque dur. Aucun compte serveur, aucune télémétrie marketing, aucun envoi automatique.</p>
+          </div>
+          <div class="privacy-block">
+            <div class="privacy-num">02</div>
+            <h3>IA optionnelle</h3>
+            <p>Ollama en local pour rester déconnecté, ou OpenAI / Anthropic / Gemini si tu fournis <em>ta</em> clé API. Studio Roman ne facture jamais l'IA.</p>
+          </div>
+          <div class="privacy-block">
+            <div class="privacy-num">03</div>
+            <h3>Sauvegarde opt-in</h3>
+            <p>Si tu actives la synchro Google Drive ou Dropbox, le fichier va de ton appareil vers <em>ton</em> compte. Studio Roman n'y a pas accès.</p>
+          </div>
+          <div class="privacy-block">
+            <div class="privacy-num">04</div>
+            <h3>Code ouvert</h3>
+            <p>Le code source est public sur GitHub. Tu peux vérifier, auditer, ou contribuer. Aucune boîte noire.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── BANDEAU CINÉMATIQUE — passage à l'action ────── -->
+    <section class="hero-banner" aria-labelledby="banner-start-title">
+      <img src="/assets/photos/hands-laptop.jpg" alt="" class="hero-banner-img" loading="lazy" decoding="async" aria-hidden="true" />
+      <div class="hero-banner-overlay"></div>
+      <div class="container hero-banner-inner">
+        <span class="eyebrow">Le moment juste avant la première phrase</span>
+        <h2 id="banner-start-title">Un éditeur, un manuscrit, et toi.</h2>
+        <p>Pas de notification, pas de fil d'actu, pas de carte bancaire. Juste l'outil, et le texte qui t'attend.</p>
+      </div>
+    </section>
+
+    <!-- ─── TÉLÉCHARGEMENT ──────────────────────────────── -->
+    <section class="section section-cta" id="telechargement" aria-labelledby="dl-title">
+      <div class="container">
+        <div class="section-head section-head-center">
+          <span class="eyebrow">Télécharger</span>
+          <h2 id="dl-title">Prêt à écrire ?</h2>
+          <p class="section-intro">Studio Roman <strong>1.0.0</strong> pour Windows. Le runtime WebView2 s'installe automatiquement si nécessaire.</p>
+        </div>
+
+        <div class="download-grid download-grid-single">
+          <article class="download-card download-card--primary">
+            <div class="download-badge">Windows 10 / 11 · 64 bits</div>
+            <div class="download-arch">Installateur x64</div>
+            <h3>Studio Roman <span>1.0.0</span></h3>
+            <p>Version standard pour les PC Windows 10 et 11 modernes (processeur 64 bits).</p>
+            <a class="btn btn-primary btn-lg btn-block"
+               href="https://github.com/laurentcouny-ui/StudioRoman/releases/latest"
+               rel="noopener">
+              <span class="btn-icon" aria-hidden="true">↓</span>
+              Télécharger
+            </a>
+            <p class="download-meta"><code>Studio Roman_1.0.0_x64-setup.exe</code></p>
+          </article>
+        </div>
+
+        <details class="install-details">
+          <summary>Instructions d'installation et SmartScreen</summary>
+          <ol>
+            <li>Lance le fichier <code>*-setup.exe</code> téléchargé.</li>
+            <li>Si Windows SmartScreen affiche un avertissement, clique sur <em>Informations complémentaires</em> puis <em>Exécuter quand même</em>. La signature de l'installateur est en cours.</li>
+            <li>Suis l'assistant d'installation.</li>
+            <li>Lance Studio Roman depuis le menu Démarrer.</li>
+          </ol>
+          <p>Studio Roman est une application 64 bits, compatible avec la quasi-totalité des PC Windows en circulation. Si ton PC est en 32 bits (rare aujourd'hui), il ne pourra pas l'installer.</p>
+        </details>
+      </div>
+    </section>
+
+    <!-- ─── SEO LONG-FORM ───────────────────────────────── -->
+    <section class="section section-prose" aria-labelledby="seo-title">
+      <div class="container narrow">
+        <h2 id="seo-title">Le logiciel d'écriture francophone pour les écrivains exigeants</h2>
+        <p>Choisir un <strong>logiciel pour écrire un roman</strong> n'est pas anodin. Word a été pensé pour les rapports d'entreprise, Google Docs pour la collaboration de bureau, et la plupart des outils en ligne sont aujourd'hui des plateformes SaaS qui stockent ton manuscrit sur leurs serveurs en échange d'un abonnement mensuel. Pour un romancier, aucun de ces outils ne pose les bonnes questions.</p>
+        <p>Studio Roman est un <strong>logiciel pour écrivains</strong> conçu autour des trois besoins fondamentaux du travail romanesque : structurer (chapitres, scènes, arcs), tenir la cohérence (personnages, lieux, chronologie), et livrer un manuscrit propre (export DOCX pour l'éditeur, EPUB pour le numérique, PDF pour l'impression). Ce sont les trois choses qu'un éditeur de texte généraliste ne fera jamais correctement.</p>
+        <h3>Une vraie alternative à Scrivener, en français et gratuite</h3>
+        <p>Scrivener reste la référence côté anglophone, mais son interface française est lacunaire et son prix non négligeable. Studio Roman propose une <strong>alternative à Scrivener</strong> pensée nativement pour les auteurs francophones : intégration de <strong>Gramalecte</strong> et <strong>LanguageTool</strong> directement dans l'éditeur, terminologie en français, dictionnaires français par défaut, et — surtout — gratuité totale.</p>
+        <h3>Pour l'autoédition comme pour l'édition traditionnelle</h3>
+        <p>Que tu cherches un <strong>logiciel pour autoédition</strong> compatible avec KDP, Bookelis ou Lulu, ou que tu prépares un manuscrit pour une maison d'édition traditionnelle, Studio Roman couvre les deux flux. L'export EPUB 3 est validé par <em>epubcheck</em> avant écriture du fichier — tes uploads passent du premier coup. L'export PDF supporte le profil PDF/X-1a, exigé par la plupart des imprimeurs professionnels pour l'impression offset.</p>
+        <h3>Confidentialité : un choix de design, pas une option marketing</h3>
+        <p>Le positionnement <strong>local-first</strong> de Studio Roman n'est pas un argument de vente après-coup : c'est l'architecture même du logiciel. Aucun compte n'est créé sur un serveur tiers. Aucune télémétrie n'est envoyée. Le code est ouvert sur GitHub : tu peux vérifier toi-même, ou demander à un développeur de le faire. Pour qui prend ses textes au sérieux, cette différence change tout.</p>
+      </div>
+    </section>
+
+    <!-- ─── FAQ ─────────────────────────────────────────── -->
+    <section class="section section-alt" id="faq" aria-labelledby="faq-title">
+      <div class="container narrow">
+        <div class="section-head">
+          <span class="eyebrow">Questions fréquentes</span>
+          <h2 id="faq-title">Réponses rapides</h2>
+        </div>
+
+        <div class="faq-list">
+          <details class="faq-item" open>
+            <summary>Studio Roman est-il vraiment gratuit, IA comprise ?</summary>
+            <p>Oui, totalement. Pas d'abonnement, pas d'achat in-app, pas de version « premium ». Le code est open-source. Et tu peux utiliser <strong>toutes les fonctions IA gratuitement avec Ollama en local</strong> — sans carte bancaire, sans connexion internet. Si tu préfères la qualité supérieure d'OpenAI, Anthropic ou Gemini, tu paies directement le fournisseur avec ta propre clé API. Studio Roman ne prélève jamais rien.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Studio Roman est-il en version stable ?</summary>
+            <p>Studio Roman est actuellement en <strong>phase de test alpha</strong>. Le logiciel est utilisable sur de vrais projets — j'écris moi-même avec — mais des bugs sont possibles et l'interface peut évoluer. Tu peux signaler tout problème par email via <a href="mailto:hypnomodame@gmail.com?subject=Studio%20Roman%20-%20Signalement%20de%20bug" rel="noopener">hypnomodame@gmail.com</a>. Chaque retour fait avancer le projet.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Comment activer l'IA gratuitement avec Ollama ?</summary>
+            <p>Installe <a href="https://ollama.com/" rel="noopener">Ollama</a> sur ton PC (gratuit, open-source), télécharge un modèle libre depuis l'invite Ollama (par ex. <code>ollama pull llama3</code> ou <code>mistral</code>), puis lance Studio Roman. Le logiciel détecte Ollama automatiquement au démarrage. Tu peux ensuite utiliser toutes les fonctions IA — superprompts, suggestions de cohérence, reformulations — sans connexion internet et sans rien payer.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Est-ce une vraie alternative à Scrivener pour le français ?</summary>
+            <p>Oui. Studio Roman propose les fonctions essentielles de Scrivener (structure chapitre/scène, fiches personnages, exports professionnels) et ajoute ce qui manque côté français : Gramalecte et LanguageTool intégrés, interface 100 % francophone, bible d'univers riche, carte du monde interactive. Et c'est gratuit.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Mes textes sont-ils envoyés sur des serveurs ?</summary>
+            <p>Non. Tes manuscrits sont stockés dans une base SQLite sur ton disque dur, point. Aucune télémétrie, aucun envoi automatique. La sauvegarde Google Drive ou Dropbox est désactivée par défaut, et si tu l'actives, le fichier va directement de ton PC vers <em>ton</em> compte personnel — Studio Roman n'a pas accès à ton compte.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Puis-je utiliser Studio Roman sans IA ?</summary>
+            <p>Bien sûr. L'IA est un assistant facultatif. Tous les modules — éditeur, structure, correcteur, fiches, bible, exports — fonctionnent intégralement sans IA. Tu actives l'assistant uniquement si tu le souhaites.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Quels formats puis-je exporter ?</summary>
+            <p>DOCX (Word, pour ton éditeur ou ton bêta-lecteur), EPUB 3 (livre numérique pour Kobo, Kindle, etc., validé par epubcheck), et PDF avec validation PDF/X-1a pour l'impression professionnelle.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Sur quel système Studio Roman fonctionne-t-il ?</summary>
+            <p>Windows 10 et Windows 11 (64 bits). Une version macOS est à l'étude.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Le correcteur fonctionne-t-il hors-ligne ?</summary>
+            <p>Oui. Gramalecte et LanguageTool sont embarqués dans l'application. Aucune connexion internet n'est nécessaire pour corriger ton texte.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Studio Roman convient-il à un auteur autoédité ?</summary>
+            <p>Très bien. L'export EPUB validé et l'export PDF imprimable couvrent les besoins de KDP, Bookelis, Lulu, et de la plupart des imprimeurs. Le module Kit Média aide à préparer la communication autour de la sortie.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Puis-je importer un manuscrit existant ?</summary>
+            <p>Oui. Studio Roman importe DOCX, EPUB et PDF. La structure (titres, chapitres) est détectée automatiquement quand elle est présente dans le fichier source.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── FINAL CTA ───────────────────────────────────── -->
+    <section class="final-cta" aria-labelledby="final-title">
+      <img src="/assets/photos/woman-writing-notebook.jpg" alt="" class="final-cta-bg" loading="lazy" decoding="async" aria-hidden="true" />
+      <div class="final-cta-overlay"></div>
+      <div class="container narrow final-cta-inner">
+        <h2 id="final-title">Le manuscrit que tu n'écris pas aujourd'hui n'existera pas demain.</h2>
+        <p>Télécharge Studio Roman, ouvre un nouveau projet, et commence par la première phrase. Le reste suit.</p>
+        <div class="cta-row cta-row-center">
+          <a class="btn btn-primary btn-lg" href="https://github.com/laurentcouny-ui/StudioRoman/releases/latest" rel="noopener">
+            <span class="btn-icon" aria-hidden="true">↓</span> Télécharger pour Windows
+          </a>
+          <a class="btn btn-ghost btn-lg" href="https://github.com/laurentcouny-ui/StudioRoman" rel="noopener">
+            Voir le code source
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <div class="brand">
+          <img src="/assets/logo-studio-roman.png" alt="" width="32" height="32" />
+          <span>Studio Roman</span>
+        </div>
+        <p>L'atelier d'écriture local-first pour les romanciers francophones.</p>
+      </div>
+      <div>
+        <div class="footer-title">Produit</div>
+        <ul>
+          <li><a href="#fonctionnalites">Fonctionnalités</a></li>
+          <li><a href="#comparatif">Comparatif</a></li>
+          <li><a href="#telechargement">Télécharger</a></li>
+          <li><a href="#faq">FAQ</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer-title">Légal</div>
+        <ul>
+          <li><a href="/privacy.html">Confidentialité</a></li>
+          <li><a href="/mentions-legales.html">Mentions légales</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer-title">Open source</div>
+        <ul>
+          <li><a href="https://github.com/laurentcouny-ui/StudioRoman" rel="noopener">GitHub</a></li>
+          <li><a href="https://github.com/laurentcouny-ui/StudioRoman/releases" rel="noopener">Versions</a></li>
+          <li><a href="mailto:hypnomodame@gmail.com?subject=Studio%20Roman%20-%20Signalement%20de%20bug" rel="noopener">Signaler un bug</a></li>
+        </ul>
+      </div>
+      <p class="footer-copy">© 2026 Studio Roman · Logiciel libre · Fait en France</p>
+    </div>
+  </footer>
+</body>
+</html>
